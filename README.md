@@ -15,3 +15,6 @@ This is a list a list of all Black Friday Deals for Mac Software in 2017. Feel f
 
 ## 📹 Video Software
 ### [Reflector 3 | 20% off 💰](https://store.airsquirrels.com/reflector/)
+
+## Text Software
+### [Scrivener | 15% off 💰](https://itunes.apple.com/de/app/scrivener/id418889511)
