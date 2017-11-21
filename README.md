@@ -10,3 +10,6 @@ https://www.git-tower.com/buy
 https://itunes.apple.com/us/app/pixelmator/id407963104?mt=12&ign-mpt=uo%3D4
 ### Adobe Creative Cloud | 20% Off 💰
 https://www.adobe.com/creativecloud/plans.html?promoid=8DN85N5R&mv=other
+
+### PDF Expert | 20$ Off 💰
+https://pdfexpert.com/de/store
