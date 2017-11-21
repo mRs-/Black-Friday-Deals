@@ -11,4 +11,4 @@ This is a list a list of all Black Friday Deals for Mac Software in 2017. Feel f
 ### [PDF Expert | 20$ Off 💰](https://pdfexpert.com/de/store)
 
 ## 📹 Video Software
-### [Reflector 3| 20% off 💰](https://store.airsquirrels.com/reflector/)
+### [Reflector 3 | 20% off 💰](https://store.airsquirrels.com/reflector/)
