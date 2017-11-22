@@ -7,6 +7,7 @@ This is a list a list of all Black Friday Deals for Mac Software in 2017. Feel f
 
 ## 🖥 Virtualization Software
 ### [Parallels Desktop | 20% Off 💰](https://www.parallels.com/de/)
+### [VMWare Fusion | 40% Off 💰](https://www.vmware.com/products/fusion.html)
 
 ## 🎨 Graphic Software
 ### [Pixelmator | 50% Off 💰](https://itunes.apple.com/us/app/pixelmator/id407963104?mt=12&ign-mpt=uo%3D4)
