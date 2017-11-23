@@ -6,7 +6,7 @@ This is a list a list of all Black Friday Deals for Mac Software in 2017. Feel f
 ### [Git Kraken | 20% off 💰](https://twitter.com/GitKraken/status/932703895167623168)
 ### [Charles Proxy | 30% off 💸](https://www.charlesproxy.com/buy/?promoCode=CHARLESBLACK17)
 
-## Utility Software
+## 🎛 Utility Software
 ### [Remote Buddy | 40% off 💰](https://www.iospirit.com/products/remotebuddy/)
 ### [Spacious 2 | 40% off 💰](https://www.iospirit.com/products/spacious/)
 
