@@ -18,6 +18,7 @@ This is a list a list of all Black Friday Deals for macOS software and Swift tut
 ### [Pixelmator | 50% off 💸](https://itunes.apple.com/us/app/pixelmator/id407963104?mt=12&ign-mpt=uo%3D4)
 ### [Adobe Creative Cloud | 20% off 💰](https://www.adobe.com/creativecloud/plans.html?promoid=8DN85N5R&mv=other)
 ### [PDF Expert | 20$ off 💰](https://pdfexpert.com/de/store)
+### [Corel Painter | 20% off 💰](https://www.painterartist.com/en/special-offers/)
 
 ## 📹 Video Software
 ### [Reflector 3 | 20% off 💰](https://store.airsquirrels.com/reflector/)
@@ -29,4 +30,4 @@ This is a list a list of all Black Friday Deals for macOS software and Swift tut
 ## 📖 Books and videos
 ### [Hacking with Swift | 50% off all books and videos 💸](https://www.hackingwithswift.com/offers)
 ### [Swift Style | 40% off with code "turkeysale2017" 💰](http://ericasadun.com/2017/11/21/black-friday-sale-swift-style-with-a-discount)
-### [Swift Algorithms & Data Structures | 50% off with code "FLASH" 💰](https://shop.waynewbishop.com/products/swift-algorithms-3rd-edition)
+### [Swift Algorithms & Data Structures | 50% off with code "FLASH" 💸](https://shop.waynewbishop.com/products/swift-algorithms-3rd-edition)
