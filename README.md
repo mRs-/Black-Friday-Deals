@@ -4,6 +4,7 @@ This is a list a list of all Black Friday Deals for Mac Software in 2017. Feel f
 ## 🛠 Development Software
 ### [Git Tower | 50% Off 💸](https://www.git-tower.com/buy)
 ### [Git Kraken | 20% Off 💰](https://twitter.com/GitKraken/status/932703895167623168)
+### [Charles Proxy | 30% Off 💸](https://www.charlesproxy.com/buy/?promoCode=CHARLESBLACK17)
 
 ## 🖥 Virtualization Software
 ### [Parallels Desktop | 20% Off 💰](https://www.parallels.com/de/)
