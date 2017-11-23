@@ -31,3 +31,7 @@ This is a list a list of all Black Friday Deals for macOS software and Swift tut
 ### [Hacking with Swift | 50% off all books and videos 💸](https://www.hackingwithswift.com/offers)
 ### [Swift Style | 40% off with code "turkeysale2017" 💰](http://ericasadun.com/2017/11/21/black-friday-sale-swift-style-with-a-discount)
 ### [Swift Algorithms & Data Structures | 50% off with code "FLASH" 💸](https://shop.waynewbishop.com/products/swift-algorithms-3rd-edition)
+### [Optimizing Collections | 10$ off ](https://www.objc.io/books/optimizing-collections/)
+### [Advanced Swift | 10$ off](https://www.objc.io/books/advanced-swift/)
+### [Core Data | 10$ off](https://www.objc.io/books/core-data/)
+### [Functional Swift | 10$ off](https://www.objc.io/books/functional-swift/)
