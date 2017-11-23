@@ -1,5 +1,5 @@
 # 💰💸💰 Black-Friday-Deals 💰💸💰
-This is a list a list of all Black Friday Deals for Mac Software in 2017. Feel free to contribute via Pull Request
+This is a list a list of all Black Friday Deals for macOS software and Swift tutorials in 2017. Feel free to contribute via Pull Request
 
 ## 🛠 Development Software
 ### [Git Tower | 50% off 💸](https://www.git-tower.com/buy)
@@ -25,3 +25,8 @@ This is a list a list of all Black Friday Deals for Mac Software in 2017. Feel f
 ## 🎹 Music Software
 ### [Studio One 3 | 50% off 💸 only seen in checkout](https://www.presonus.com/products/Studio-One)
 ### [Ableton Live 9 | 20% off 💰](https://www.ableton.com/en/shop/live/)
+
+## 📖 Books and videos
+### [Hacking with Swift | 50% off all books and videos 💸](https://www.hackingwithswift.com/offers)
+### [Swift Style | 40% off with code "turkeysale2017" 💰](http://ericasadun.com/2017/11/21/black-friday-sale-swift-style-with-a-discount)
+### [Swift Algorithms & Data Structures | 50% off with code "FLASH" 💰](https://shop.waynewbishop.com/products/swift-algorithms-3rd-edition)
