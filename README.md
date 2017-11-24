@@ -11,6 +11,9 @@ This is a list a list of all Black Friday Deals for macOS software and Swift tut
 ### [Spacious 2 | 40% off 💰](https://www.iospirit.com/products/spacious/)
 ### [iDefrag | 60% off 💸](https://coriolis-systems.com/iDefrag)
 ### [iPartition | 60% off 💸](https://coriolis-systems.com/iPartition)
+### [Little Snitch | 50% off 💸](https://www.obdev.at/products/littlesnitch/index.html)
+### [LaunchBar 6 | 50% off 💸](https://www.obdev.at/products/launchbar/index.html)
+### [Micro Snitch | 50% off 💸](https://www.obdev.at/products/microsnitch/index.html)
 
 ## 🖥 Virtualization Software
 ### [Parallels Desktop | 20% off 💰](https://www.parallels.com/de/)
