@@ -27,6 +27,7 @@ This is a list a list of all Black Friday Deals for macOS software and Swift tut
 ### [Little Snitch | 50% off 💸](https://www.obdev.at/products/littlesnitch/index.html)
 ### [LaunchBar 6 | 50% off 💸](https://www.obdev.at/products/launchbar/index.html)
 ### [Micro Snitch | 50% off 💸](https://www.obdev.at/products/microsnitch/index.html)
+### [Arq Backup | 40% off 💰](https://twitter.com/arqbackup/status/934061169853202433)
 
 ## 📈 Analytics Services
 ### [Appfigures | 50% off 💸](https://appfigures.com/account/upgrade?black-friday-2017)
