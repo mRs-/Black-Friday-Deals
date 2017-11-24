@@ -43,6 +43,7 @@ This is a list a list of all Black Friday Deals for macOS software and Swift tut
 ### [Sip | 50% off 💸](https://sipapp.io)
 ### [Proto.io | 30% off 💰](https://blog.proto.io/black-friday-2017-prototyping-tool/?utm_source=twitter&utm_campaign=black_friday)
 ### [Icon Jar | 30% off 💰](https://geticonjar.com/black-friday/)
+### [Sparkle Pro | 40% off 💰](https://sparkleapp.com/store/)
 
 ## 📹 Video Software
 ### [Reflector 3 | 20% off 💰](https://store.airsquirrels.com/reflector/)
