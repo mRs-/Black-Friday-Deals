@@ -53,6 +53,8 @@ This is a list a list of all Black Friday Deals for macOS software and Swift tut
 ### [Ableton Live 9 | 20% off 💰](https://www.ableton.com/en/shop/live/)
 
 ## 📖 Books and videos
+### [Learn Version Control with Git | 75% off 💸](https://www.git-tower.com/learn/git/ebook#pricing)
+### [Learn Git on the Command Line | 75% off 💰](https://www.git-tower.com/learn/git/videos#pricing)
 ### [Hacking with Swift | 50% off all books and videos 💸](https://www.hackingwithswift.com/offers)
 ### [Swift Style | 40% off with code "turkeysale2017" 💰](http://ericasadun.com/2017/11/21/black-friday-sale-swift-style-with-a-discount)
 ### [Swift Algorithms & Data Structures | 50% off with code "FLASH" 💸](https://shop.waynewbishop.com/products/swift-algorithms-3rd-edition)
