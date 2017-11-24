@@ -14,6 +14,7 @@ This is a list a list of all Black Friday Deals for macOS software and Swift tut
 ### [Charles Proxy | 30% off 💸](https://www.charlesproxy.com/buy/?promoCode=CHARLESBLACK17)
 ### [Paw | 50% off 💸](https://paw.cloud/purchase)
 ### [Flawless](https://flawlessapp.io)
+### [Unity | 10% off 💰](https://store.unity.com/offer/fall-sale?utm_source=twitter&utm_medium=social&utm_campaign=saas_global_upgrade_2017-11-24-Global-2017-Global-Fall-Sale)
 
 ## 🎛 Utility Software
 ### [Remote Buddy | 40% off 💰](https://www.iospirit.com/products/remotebuddy/)
@@ -36,6 +37,9 @@ This is a list a list of all Black Friday Deals for macOS software and Swift tut
 ### [PDF Expert | 20$ off 💰](https://pdfexpert.com/de/store)
 ### [Corel Painter | 20% off 💰](https://www.painterartist.com/en/special-offers/)
 ### [FontExplorer X Pro 6 | 50% off with code FEXTHANKS50 💸](http://www.fontexplorerx.com/)
+### [Sip | 50% off 💸](https://sipapp.io)
+### [Proto.io | 30% off 💰](https://blog.proto.io/black-friday-2017-prototyping-tool/?utm_source=twitter&utm_campaign=black_friday)
+### [Icon Jar | 30% off 💰](https://geticonjar.com/black-friday/)
 
 ## 📹 Video Software
 ### [Reflector 3 | 20% off 💰](https://store.airsquirrels.com/reflector/)
