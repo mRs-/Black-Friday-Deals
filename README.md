@@ -46,6 +46,7 @@ This is a list a list of all Black Friday Deals for macOS software and Swift tut
 ### [Icon Jar | 30% off 💰](https://geticonjar.com/black-friday/)
 ### [Sparkle Pro | 40% off 💰](https://sparkleapp.com/store/)
 ### [Framer | 40% off 💰](https://framer.com/blackfriday/)
+### [ABBYY FineReader OCR Pro | 50% off 💸](https://itunes.apple.com/us/app/finereader-ocr-pro/id687301476)
 
 ## 📹 Video Software
 ### [Reflector 3 | 20% off 💰](https://store.airsquirrels.com/reflector/)
