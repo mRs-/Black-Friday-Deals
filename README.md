@@ -27,6 +27,9 @@ This is a list a list of all Black Friday Deals for macOS software and Swift tut
 ### [LaunchBar 6 | 50% off 💸](https://www.obdev.at/products/launchbar/index.html)
 ### [Micro Snitch | 50% off 💸](https://www.obdev.at/products/microsnitch/index.html)
 
+## 📈 Analytics Services
+### [Appfigures | 50% off 💸](https://appfigures.com/account/upgrade?black-friday-2017)
+
 ## 🖥 Virtualization Software
 ### [Parallels Desktop | 20% off 💰](https://www.parallels.com/de/)
 ### [VMWare Fusion | 40% off 💰](https://www.vmware.com/products/fusion.html)
