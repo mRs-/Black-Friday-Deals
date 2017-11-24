@@ -28,6 +28,7 @@ This is a list a list of all Black Friday Deals for macOS software and Swift tut
 ### [LaunchBar 6 | 50% off 💸](https://www.obdev.at/products/launchbar/index.html)
 ### [Micro Snitch | 50% off 💸](https://www.obdev.at/products/microsnitch/index.html)
 ### [Paste 2 | 50% off 💸](https://pasteapp.me)
+### [Murus Pro | 50% off 💸](https://www.murusfirewall.com/)
 
 ## 📈 Analytics Services
 ### [Appfigures | 50% off 💸](https://appfigures.com/account/upgrade?black-friday-2017)
@@ -47,6 +48,7 @@ This is a list a list of all Black Friday Deals for macOS software and Swift tut
 ### [Icon Jar | 30% off 💰](https://geticonjar.com/black-friday/)
 ### [Sparkle Pro | 40% off 💰](https://sparkleapp.com/store/)
 ### [Framer | 40% off 💰](https://framer.com/blackfriday/)
+### [ABBYY FineReader OCR Pro | 50% off 💸](https://itunes.apple.com/us/app/finereader-ocr-pro/id687301476)
 
 ## 📹 Video Software
 ### [Reflector 3 | 20% off 💰](https://store.airsquirrels.com/reflector/)
@@ -71,6 +73,7 @@ This is a list a list of all Black Friday Deals for macOS software and Swift tut
 ### [iOS 11 by Tutorials | 50% off 💸](https://store.raywenderlich.com/products/ios-11-by-tutorials?_ga=2.171406816.1350297483.1511526267-1662918945.1483371616)
 ### [Advanced Apple Debugging & Reverse Engineering | 50% off 💸](https://store.raywenderlich.com/products/advanced-apple-debugging-and-reverse-engineering?_ga=2.124550218.1350297483.1511526267-1662918945.1483371616)
 ### [RxSwift | 50% off 💸](https://store.raywenderlich.com/products/rxswift?_ga=2.124550218.1350297483.1511526267-1662918945.1483371616)
+### [Swift in Depth | 50% off 💸](https://www.manning.com/books/swift-in-depth)
 ### [watchOS by Tutorials | 50% off 💸](https://store.raywenderlich.com/products/watchos-by-tutorials?_ga=2.124550218.1350297483.1511526267-1662918945.1483371616)
 ### [Core Data by Tutorials | 50% off 💸](https://store.raywenderlich.com/products/core-data-by-tutorials?_ga=2.124550218.1350297483.1511526267-1662918945.1483371616)
 ### [iOS Animations by Tutorials | 50% off 💸](https://store.raywenderlich.com/products/ios-animations-by-tutorials?_ga=2.124550218.1350297483.1511526267-1662918945.1483371616)
