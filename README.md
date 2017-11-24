@@ -11,7 +11,7 @@ This is a list a list of all Black Friday Deals for macOS software and Swift tut
 ## 🛠 Development Software
 ### [Git Tower | 50% off 💸](https://www.git-tower.com/buy)
 ### [Git Kraken | 20% off 💰](https://twitter.com/GitKraken/status/932703895167623168)
-### [Charles Proxy | 30% off 💸](https://www.charlesproxy.com/buy/?promoCode=CHARLESBLACK17)
+### [Charles Proxy | 30% off 💰](https://www.charlesproxy.com/buy/?promoCode=CHARLESBLACK17)
 ### [Paw | 50% off 💸](https://paw.cloud/purchase)
 ### [Flawless](https://flawlessapp.io)
 ### [Unity | 10% off 💰](https://store.unity.com/offer/fall-sale?utm_source=twitter&utm_medium=social&utm_campaign=saas_global_upgrade_2017-11-24-Global-2017-Global-Fall-Sale)
