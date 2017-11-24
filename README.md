@@ -10,6 +10,12 @@ This is a list a list of all Black Friday Deals for macOS software and Swift tut
 ### [Remote Buddy | 40% off 💰](https://www.iospirit.com/products/remotebuddy/)
 ### [Spacious 2 | 40% off 💰](https://www.iospirit.com/products/spacious/)
 ### [GarageSale 7 | 30% off 💰](https://www.iwascoding.com/2017/11/24/black-friday-sale-save-30-on-garagesale-7-licenses/)
+### [iStat Menus 6 | 44% off 💰](https://bjango.com/mac/istatmenus/)
+### [iDefrag | 60% off 💸](https://coriolis-systems.com/iDefrag)
+### [iPartition | 60% off 💸](https://coriolis-systems.com/iPartition)
+### [Little Snitch | 50% off 💸](https://www.obdev.at/products/littlesnitch/index.html)
+### [LaunchBar 6 | 50% off 💸](https://www.obdev.at/products/launchbar/index.html)
+### [Micro Snitch | 50% off 💸](https://www.obdev.at/products/microsnitch/index.html)
 
 ## 🖥 Virtualization Software
 ### [Parallels Desktop | 20% off 💰](https://www.parallels.com/de/)
@@ -20,6 +26,7 @@ This is a list a list of all Black Friday Deals for macOS software and Swift tut
 ### [Adobe Creative Cloud | 20% off 💰](https://www.adobe.com/creativecloud/plans.html?promoid=8DN85N5R&mv=other)
 ### [PDF Expert | 20$ off 💰](https://pdfexpert.com/de/store)
 ### [Corel Painter | 20% off 💰](https://www.painterartist.com/en/special-offers/)
+### [FontExplorer X Pro 6 | 50% off with code FEXTHANKS50 💰](http://www.fontexplorerx.com/)
 
 ## 📹 Video Software
 ### [Reflector 3 | 20% off 💰](https://store.airsquirrels.com/reflector/)
