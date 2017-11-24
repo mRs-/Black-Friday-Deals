@@ -9,6 +9,7 @@ This is a list a list of all Black Friday Deals for macOS software and Swift tut
 ## 🎛 Utility Software
 ### [Remote Buddy | 40% off 💰](https://www.iospirit.com/products/remotebuddy/)
 ### [Spacious 2 | 40% off 💰](https://www.iospirit.com/products/spacious/)
+### [GarageSale 7 | 30% off 💰](https://www.iwascoding.com/2017/11/24/black-friday-sale-save-30-on-garagesale-7-licenses/)
 
 ## 🖥 Virtualization Software
 ### [Parallels Desktop | 20% off 💰](https://www.parallels.com/de/)
