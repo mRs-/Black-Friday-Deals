@@ -41,6 +41,7 @@ This is a list a list of all Black Friday Deals for macOS software and Swift tut
 ## 🎨 Graphic Software
 ### [Pixelmator | 50% off 💸](https://itunes.apple.com/us/app/pixelmator/id407963104?mt=12&ign-mpt=uo%3D4)
 ### [Adobe Creative Cloud | 20% off 💰](https://www.adobe.com/creativecloud/plans.html?promoid=8DN85N5R&mv=other)
+### [Clip Studio Pro (Paint & EX versions) | 60% off 💸](http://www.clipstudio.net/en/)
 ### [PDF Expert | 20$ off 💰](https://pdfexpert.com/de/store)
 ### [Corel Painter | 20% off 💰](https://www.painterartist.com/en/special-offers/)
 ### [FontExplorer X Pro 6 | 50% off with code FEXTHANKS50 💸](http://www.fontexplorerx.com/)
