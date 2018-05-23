@@ -1,5 +1,10 @@
-# 💰💸💰 Black-Friday-Deals 💰💸💰
-This is a list a list of all Black Friday Deals for macOS software and Swift tutorials in 2017. Feel free to contribute via Pull Request
+# 💰💸💰 Black-Friday & WWDC-Deals 💰💸💰
+
+This is a list a list of all Black-Friday & WWDC - Deals for macOS software, Swift tutorials & books. Feel free to contribute via Pull Request
+
+
+
+
 
 **Legend**
 
@@ -7,6 +12,20 @@ This is a list a list of all Black Friday Deals for macOS software and Swift tut
 |-----|---|
 | 💰 | < 50% |
 | 💸 | >= 50% |
+
+
+
+# 💰💸💰 WWDC 2018 💰💸💰
+
+## 🛠 Development Software
+### [PaintCode 3 | 20% off 💰](https://www.paintcodeapp.com/pricing)
+
+
+---
+
+
+# 💰💸💰 Black-Friday 2017 💰💸💰
+
 
 ## 🛠 Development Software
 ### [Tokens | 50% off 💸](http://usetokens.com)
