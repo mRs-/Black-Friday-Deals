@@ -25,6 +25,6 @@ This is a list of all Black Friday Deals for macOS software and Swift tutorials 
 ### [Corel Painter | up to 60% off 💸 ](https://www.painterartist.com/en/special-offers/)
 ### [Icon Jar | 40% off 💰](https://geticonjar.com/)
 
-## 📖 Books and videos
+## 📖 Books and Videos
 ### [Design+Code | 50% off 💸](https://designcode.io)
 ### [Test-Driven iOS Development with Swift 4 | 71% off eBook 💸](https://www.packtpub.com/application-development/test-driven-ios-development-swift-4-third-edition)
