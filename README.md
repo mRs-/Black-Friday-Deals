@@ -16,3 +16,12 @@ This is a list of all Black Friday Deals for macOS software and Swift tutorials 
 
 ## 🎛 Utility Software
 ### [Paste 2 | 30% off 💰](https://pasteapp.me)
+
+## 🖥 Virtualization Software
+### [Parallels Desktop | 20% off 💰](https://www.parallels.com/)
+
+## 🎨 Graphic Software
+### [Adobe Creative Cloud | 20% off 💰](https://www.adobe.com/)
+### [PDF Expert | 40% off 💰](https://pdfexpert.com/)
+### [Corel Painter | up to 60% off 💸 ](https://www.painterartist.com/en/special-offers/)
+### [Icon Jar | 40% off 💰](https://geticonjar.com/)
