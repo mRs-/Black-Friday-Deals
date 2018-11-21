@@ -47,6 +47,12 @@ This is a list of all Black Friday Deals for macOS software and Swift tutorials 
 ### [Server-side Swift: Kitura Edition | 50% off 💸](https://gumroad.com/l/server-side-swift/blackfriday18)
 ### [Beyond Code | 50% off 💸](https://gumroad.com/l/beyondcode/blackfriday18)
 ### [Beginning iOS 12 Programming with Swift | up to 60% off 💸](https://www.appcoda.com/swift/#pricing)
-
-## ☁️ Servers
+### [Swift 4.2 Algorithms & Data Structures | 50% off 💸](https://shop.waynewbishop.com/products/swift-algorithms-4th-edition)
+### [Swift 4.2 Algorithms & Data Structures (Source Code Bundle) | 50% off 💸](https://shop.waynewbishop.com/products/xcode-10-playgrounds-code-bundle)
+		
+## ☁️ Servers	
 ### [RemoteMac.io | Up to 50% off 💸](https://remotemac.io/blackfriday)
+
+## 🛠 Training & Consulting
+### [The iOS Interview Program | $100 off 💸](https://shop.waynewbishop.com/products/ios-interview-program)
+### [iOS Resume Review | 50% off 💸](https://shop.waynewbishop.com/products/ios-resume-review)
