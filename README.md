@@ -43,3 +43,6 @@ This is a list of all Black Friday Deals for macOS software and Swift tutorials 
 ### [Objective-C for Swift Developers | 50% off 💸](https://gumroad.com/l/objcswift/blackfriday18)
 ### [Server-side Swift: Kitura Edition | 50% off 💸](https://gumroad.com/l/server-side-swift/blackfriday18)
 ### [Beyond Code | 50% off 💸](https://gumroad.com/l/beyondcode/blackfriday18)
+
+## ☁️ Servers
+### [RemoteMac.io | Up to 50% off 💸](https://remotemac.io/blackfriday)
