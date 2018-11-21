@@ -11,6 +11,7 @@ This is a list of all Black Friday Deals for macOS software and Swift tutorials 
 
 ## 🛠 Development Software
 ### [Flawless App — a tool to match design with real app on iOS simulator | 30% off 💰](https://gumroad.com/l/SyRKm/30_discount_Black_friday)
+### [Periphery — the most accurate tool for finding unused Swift code | 50% off 💸](https://peripheryapp.com/#purchase)
 
 
 ## 🎛 Utility Software
