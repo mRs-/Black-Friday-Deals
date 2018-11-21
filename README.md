@@ -25,6 +25,8 @@ This is a list of all Black Friday Deals for macOS software and Swift tutorials 
 ### [PDF Expert | 40% off 💰](https://pdfexpert.com/)
 ### [Corel Painter | up to 60% off 💸 ](https://www.painterartist.com/en/special-offers/)
 ### [Icon Jar | 40% off 💰](https://geticonjar.com/)
+### [Affinity Photo | 30% off 💰](https://affinity.serif.com/de/store/)
+### [Affinity Designer | 30% off 💰](https://affinity.serif.com/de/store/)
 
 ## 📖 Books and Videos
 ### [Design+Code | 50% off 💸](https://designcode.io)
