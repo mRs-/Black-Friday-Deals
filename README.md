@@ -19,6 +19,7 @@ This is a list of all Black Friday Deals for macOS software and Swift tutorials 
 ### [Dropshare Cloud | 50% off 💸](https://dropshare.cloud)
 ## 🖥 Virtualization Software
 ### [Parallels Desktop | 20% off 💰](https://www.parallels.com/)
+### [VMWare Fusion Pro | 35% off 💰](https://www.vmware.com/products/fusion.html)
 
 ## 🎨 Graphic Software
 ### [Adobe Creative Cloud | 20% off 💰](https://www.adobe.com/)
