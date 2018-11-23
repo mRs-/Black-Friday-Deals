@@ -97,6 +97,7 @@ This is a list of all Black Friday Deals for macOS software and Swift tutorials 
 ### [objc.io Optimizing Collections | 30% off 💰](https://www.objc.io/books/optimizing-collections/)
 ### [objc.io App Architecture | 30% off 💰](https://www.objc.io/books/app-architecture/)
 ### [NSScreencast | 50% off 🥳](https://nsscreencast.com/r/black-friday-18-50)
+### [Modern Auto Layout | 20% off 💰](https://gum.co/albook/blackfriday18)
 		
 ## ☁️ Servers	
 ### [RemoteMac.io | Up to 50% off 💸](https://remotemac.io/blackfriday)
