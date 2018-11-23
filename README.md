@@ -22,6 +22,7 @@ This is a list of all Black Friday Deals for macOS software and Swift tutorials 
 ### [Little Snitch | 50% off 💸](https://www.obdev.at/products/littlesnitch/order.html)
 ### [Micro Snitch | 50% off 💸](https://www.obdev.at/products/microsnitch/order.html)
 ### [LaunchBar | 50% off 💸](https://www.obdev.at/products/launchbar/order.html)
+### [iStat Menus 6 | 50% off 💸](https://bjango.com/mac/istatmenus/)
 
 ## 🖥 Virtualization Software
 ### [Parallels Desktop | 20% off 💰](https://www.parallels.com/)
