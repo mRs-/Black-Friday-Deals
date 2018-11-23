@@ -86,6 +86,7 @@ This is a list of all Black Friday Deals for macOS software and Swift tutorials 
 ### [Advanced iOS & Swift Bundle | 64% off 💸](https://store.raywenderlich.com/products/advanced-ios-and-swift-bundle-2018)
 ### [Beginning iOS & Swift Bundle | 64% off 💸](https://store.raywenderlich.com/products/beginning-ios-and-swift-bundle-2018)
 ### [Black Friday Video Subscription Sale | 58% off 💸](https://store.raywenderlich.com/products/subscription)
+### [Making Sense of Auto Layout | 25% off 💰](https://blackfriday.fluffy.es)
 		
 ## ☁️ Servers	
 ### [RemoteMac.io | Up to 50% off 💸](https://remotemac.io/blackfriday)
