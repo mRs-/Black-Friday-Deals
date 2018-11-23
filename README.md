@@ -39,6 +39,7 @@ This is a list of all Black Friday Deals for macOS software and Swift tutorials 
 ### [Affinity Photo | 30% off 💰](https://affinity.serif.com/de/store/)
 ### [Affinity Designer | 30% off 💰](https://affinity.serif.com/de/store/)
 ### [Framer | 30% off 💰](https://framer.com/blackfriday/) 
+### [Sparkle | 40% off 💰](https://sparkleapp.com/store/) 
 
 ## 📖 Books and Videos
 ### [Design+Code | 50% off 💸](https://designcode.io)
