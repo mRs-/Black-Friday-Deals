@@ -22,6 +22,7 @@ This is a list of all Black Friday Deals for macOS software and Swift tutorials 
 ### [Little Snitch | 50% off 💸](https://www.obdev.at/products/littlesnitch/order.html)
 ### [Micro Snitch | 50% off 💸](https://www.obdev.at/products/microsnitch/order.html)
 ### [LaunchBar | 50% off 💸](https://www.obdev.at/products/launchbar/order.html)
+### [iStat Menus 6 | 50% off 💸](https://bjango.com/mac/istatmenus/)
 ### [CleanMyMac X, Gemini 2, Hider 2 |30% off 💰](https://macpaw.com/store)
 
 ## 🖥 Virtualization Software
@@ -87,6 +88,7 @@ This is a list of all Black Friday Deals for macOS software and Swift tutorials 
 ### [Advanced iOS & Swift Bundle | 64% off 💸](https://store.raywenderlich.com/products/advanced-ios-and-swift-bundle-2018)
 ### [Beginning iOS & Swift Bundle | 64% off 💸](https://store.raywenderlich.com/products/beginning-ios-and-swift-bundle-2018)
 ### [Black Friday Video Subscription Sale | 58% off 💸](https://store.raywenderlich.com/products/subscription)
+### [Making Sense of Auto Layout | 25% off 💰](https://blackfriday.fluffy.es)
 		
 ## ☁️ Servers	
 ### [RemoteMac.io | Up to 50% off 💸](https://remotemac.io/blackfriday)
