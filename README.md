@@ -107,5 +107,5 @@ This is a list of all Black Friday Deals for macOS software and Swift tutorials 
 ### [RemoteMac.io | Up to 50% off 💸](https://remotemac.io/blackfriday)
 
 ## 🛠 Training & Consulting
-### [The iOS Interview Program | $100 off 💸](https://shop.waynewbishop.com/products/ios-interview-program)
+### [The iOS Interview Program | $100 off 💰](https://shop.waynewbishop.com/products/ios-interview-program)
 ### [iOS Resume Review | 50% off 💸](https://shop.waynewbishop.com/products/ios-resume-review)
