@@ -11,7 +11,7 @@ This is a list of all Black Friday Deals for macOS software and Swift tutorials 
 
 ## 🛠 Development Software
 ### [Flawless App — a tool to match design with real app on iOS simulator | 50% off 💸](https://gumroad.com/l/SyRKm/50_discount_black_friday)
-### [Periphery — the most accurate tool for finding unused Swift code | 50% off 💸](https://peripheryapp.com/#purchase)
+### [Periphery — the most accurate tool for finding unused Swift code | 50% off 💸](https://peripheryapp.com/)
 ### [Git Tower - Git Client | 50% off 💸](https://www.git-tower.com/pricing/mac)
 ### [Git Kraken - Git Client | 20% off 💰](https://twitter.com/GitKraken/status/1064548835693916160)
 ### [Paw | 50% off 💸](https://paw.cloud)
