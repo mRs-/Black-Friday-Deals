@@ -16,6 +16,7 @@ This is a list of all Black Friday Deals for macOS software and Swift tutorials 
 ### [Git Kraken - Git Client | 20% off 💰](https://twitter.com/GitKraken/status/1064548835693916160)
 ### [Paw | 50% off 💸](https://paw.cloud)
 ### [CodeRunner 3 | 33% off 💰](https://coderunnerapp.com) 
+### [Bugfender - Remote Logging and Crash Reporting | 50% off with code BLACKFRIDAY 💰](https://bugfender.com/) 
 
 
 ## 🎛 Utility Software
