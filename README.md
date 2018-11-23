@@ -16,6 +16,8 @@ This is a list of all Black Friday Deals for macOS software and Swift tutorials 
 ### [Git Kraken - Git Client | 20% off 💰](https://twitter.com/GitKraken/status/1064548835693916160)
 ### [Paw | 50% off 💸](https://paw.cloud)
 
+## 🔒 Security Software
+### [Charles Proxy - Web Debugging Proxy. HTTP Proxy / HTTP Monitor tool | 30% off 💸](https://twitter.com/charlesproxy/status/1065698785194459136)
 
 ## 🎛 Utility Software
 ### [Paste 2 | 30% off 💰](https://pasteapp.me)
