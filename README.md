@@ -46,7 +46,6 @@ This is a list of all Black Friday Deals for macOS software and Swift tutorials 
 ### [Sparkle | 40% off 💰](https://sparkleapp.com/store/) 
 
 ## 📖 Books and Videos
-### [The iOS Interview Guide | 50% off 💸](https://iosinterviewguide.com/?promo=black-friday-2018)
 ### [Design+Code | 50% off 💸](https://designcode.io)
 ### [Test-Driven iOS Development with Swift 4 | 71% off eBook 💸](https://www.packtpub.com/application-development/test-driven-ios-development-swift-4-third-edition)
 ### [Hacking with Swift | 50% off 💸](https://gumroad.com/l/hws-book-pack/blackfriday18)
@@ -105,6 +104,7 @@ This is a list of all Black Friday Deals for macOS software and Swift tutorials 
 ### [NSScreencast | 50% off 🥳](https://nsscreencast.com/r/black-friday-18-50)
 ### [Modern Auto Layout | 20% off 💰](https://gum.co/albook/blackfriday18)
 ### [CodeWithChris iOS Fundamentals, Databases and Design Courses | 49.5% off 💰](https://codewithchris.com/black-friday)
+### [The iOS Interview Guide | 50% off 💸](https://iosinterviewguide.com/?promo=black-friday-2018)
 
 ## ☁️ Servers	
 ### [RemoteMac.io | Up to 50% off 💸](https://remotemac.io/blackfriday)
