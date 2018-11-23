@@ -26,7 +26,9 @@ This is a list of all Black Friday Deals for macOS software and Swift tutorials 
 ### [iStat Menus 6 | 50% off 💸](https://bjango.com/mac/istatmenus/)
 ### [CleanMyMac X, Gemini 2, Hider 2 |30% off 💰](https://macpaw.com/store)
 ### [Sip | 50% off 💸](https://sipapp.io)
+### [Appfigures | 50% off 💸](https://appfigures.com/account/upgrade/p/black-friday-2018)
 ### [Charles Proxy | 30% off 💸](https://twitter.com/charlesproxy/status/1065698785194459136)
+
 
 ## 🖥 Virtualization Software
 ### [Parallels Desktop | 20% off 💰](https://www.parallels.com/)
