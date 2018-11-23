@@ -19,6 +19,9 @@ This is a list of all Black Friday Deals for macOS software and Swift tutorials 
 ## 🎛 Utility Software
 ### [Paste 2 | 30% off 💰](https://pasteapp.me)
 ### [Dropshare Cloud | 50% off 💸](https://dropshare.cloud)
+### [Little Snitch | 50% off 💸](https://www.obdev.at/products/littlesnitch/order.html)
+### [Micro Snitch | 50% off 💸](https://www.obdev.at/products/microsnitch/order.html)
+
 ## 🖥 Virtualization Software
 ### [Parallels Desktop | 20% off 💰](https://www.parallels.com/)
 ### [VMWare Fusion Pro | 35% off 💰](https://www.vmware.com/products/fusion.html)
