@@ -31,6 +31,7 @@ This is a list of all Black Friday Deals for macOS software and Swift tutorials 
 ### [Appfigures | 50% off 💸](https://appfigures.com/account/upgrade/p/black-friday-2018)
 ### [Charles Proxy | 30% off 💸](https://twitter.com/charlesproxy/status/1065698785194459136)
 ### [Luna Display - Hardware to make your iPad a 2nd screen for your mac  | 20% off & free shipping 💰](https://lunadisplay.com)
+### [Cards - Business Card Scanner | IAP 50% off 💸](https://itunes.apple.com/app/id1386551125)
 
 
 ## 🖥 Virtualization Software
