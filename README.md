@@ -108,6 +108,7 @@ This is a list of all Black Friday Deals for macOS software and Swift tutorials 
 ### [Modern Auto Layout | 20% off 💰](https://gum.co/albook/blackfriday18)
 ### [CodeWithChris iOS Fundamentals, Databases and Design Courses | 49.5% off 💰](https://codewithchris.com/black-friday)
 ### [The iOS Interview Guide | 50% off 💸](https://iosinterviewguide.com/?promo=black-friday-2018)
+### [iOS 12 and Swift 4.2 for Beginners: 200+ Hands-On Tutorials | 95% off 💸](https://www.udemy.com/ios-12-and-swift-4-for-beginners-200-hands-on-tutorials/)
 
 ## ☁️ Servers	
 ### [RemoteMac.io | Up to 50% off 💸](https://remotemac.io/blackfriday)
