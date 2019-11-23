@@ -18,6 +18,27 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 201
 ## 🎨 Graphic Software
 
 ## 📖 Books and Videos
+### [The Swift Power Pack (includes six books) | 50% off 💸](https://gumroad.com/l/swift-power-pack/blackfriday19)
+### [The Swift Platform Pack (includes six books) | 50% off 💸](https://gumroad.com/l/swift-platform-pack/blackfriday19)
+### [The Swift Plus Pack (includes six books) | 50% off 💸](https://gumroad.com/l/swift-plus-pack/blackfriday19)
+### [SwiftUI By Example | 50% off 💸](https://gumroad.com/l/swiftui/blackfriday19)
+### [Pro Swift | 50% off 💸](https://gumroad.com/l/proswift/blackfriday19)
+### [Swift Design Patterns | 50% off 💸](https://gumroad.com/l/swift-design-patterns/blackfriday19)
+### [Testing Swift | 50% off 💸](https://gumroad.com/l/testing-swift/blackfriday19)
+### [Hacking with iOS (includes UIKit and SwiftUI) | 50% off 💸](https://gumroad.com/l/hws-book-pack/blackfriday19)
+### [Swift on Sundays: Volume One | 50% off 💸](https://gumroad.com/l/swift-on-sundays-1/blackfriday19)
+### [Server-side Swift: Vapor Edition | 50% off 💸](https://gumroad.com/l/server-side-swift-vapor/blackfriday19)
+### [Dive Into SpriteKit | 50% off 💸](https://gumroad.com/l/dive-into-spritekit/blackfriday19)
+### [Advanced iOS: Volume One | 50% off 💸](https://gumroad.com/l/advanced-ios-1/blackfriday19)
+### [Advanced iOS: Volume Two | 50% off 💸](https://gumroad.com/l/advanced-ios-2/blackfriday19)
+### [Advanced iOS: Volume Three | 50% off 💸](https://gumroad.com/l/advanced-ios-3/blackfriday19)
+### [Hacking with macOS | 50% off 💸](https://gumroad.com/l/hwmacos/blackfriday19)
+### [Hacking with watchOS | 50% off 💸](https://gumroad.com/l/hwwatchos/blackfriday19)
+### [Hacking with tvOS | 50% off 💸](https://gumroad.com/l/hwtvos/blackfriday19)
+### [Swift in Sixty Seconds | 50% off 💸](https://gumroad.com/l/sixty/blackfriday19)
+### [Objective-C for Swift Developers | 50% off 💸](https://gumroad.com/l/objcswift/blackfriday19)
+### [Server-side Swift: Kitura Edition | 50% off 💸](https://gumroad.com/l/server-side-swift/blackfriday19)
+### [Beyond Code | 50% off 💸](https://gumroad.com/l/beyondcode/blackfriday19)
 
 ## ☁️ Servers	
 
