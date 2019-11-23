@@ -1,4 +1,4 @@
-# 💰💸💰 Black Friday Deals 💰💸💰
+# 💰💸💰 Black Friday Deals 2019 💰💸💰
 This is a list of all Black Friday Deals for macOS / iOS Software & Books in 2019. Feel free to contribute via Pull Request, making sure to add new offers *below* existing ones.
 
 **Legend**
