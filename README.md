@@ -39,6 +39,9 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 201
 ### [Objective-C for Swift Developers | 50% off 💸](https://gumroad.com/l/objcswift/blackfriday19)
 ### [Server-side Swift: Kitura Edition | 50% off 💸](https://gumroad.com/l/server-side-swift/blackfriday19)
 ### [Beyond Code | 50% off 💸](https://gumroad.com/l/beyondcode/blackfriday19)
+### [iOS Unit Testing by Example | 40% off 💸](https://pragprog.com/book/jrlegios/ios-unit-testing-by-example) with discount code *turkeysale2019*
+### [Xcode Treasures | 40% off 💸](https://pragprog.com/book/caxcode/xcode-treasures) with discount code *turkeysale2019*
+### [Swift Style | 40% off 💸](https://pragprog.com/book/esswift2/swift-style-second-edition) with discount code *turkeysale2019*
 
 ## ☁️ Servers	
 
