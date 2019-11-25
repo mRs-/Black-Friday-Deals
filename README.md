@@ -35,6 +35,9 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 201
 ### [Mail Designer 365 | 50% off 💰](https://www.maildesigner365.com/goto/mdblackfriday2019)
 ### [Sparkle, Visual Website Builder| 40% off 💰](https://sparkleapp.com/store/)
 
+## 📈 Business Software
+### [Landlordy Mini/Plus/Pro | 30% off 💰](https://www.landlordy.com) - property management app for private landlords
+
 ## 📖 Books and Videos
 ### [The Swift Power Pack (includes six books) | 50% off 💸](https://gumroad.com/l/swift-power-pack/blackfriday19)
 ### [The Swift Platform Pack (includes six books) | 50% off 💸](https://gumroad.com/l/swift-platform-pack/blackfriday19)
