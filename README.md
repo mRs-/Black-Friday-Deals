@@ -12,7 +12,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 201
 ## 🛠 Development Software
 ### [Flawless App | 50% off 💸](https://gumroad.com/l/SyRKm/50_discount_black_friday) — a tool to compare the design with the real app
 ### [Git Tower | 50% off 💸](https://www.git-tower.com) — Git desktop client for Mac and Windows  
-
+### [Woodpecker | 50% off 💸](https://apps.apple.com/app/id1333548463) — View and edit iOS app's Sandbox,UserDefaults from Mac
 ## 🎛 Utility Software
 ### [Secure ShellFish | 30% off 💰](https://secureshellfish.app/) — SFTP support in Shortcuts & the Files app on iOS
 ### [VPN Tracker 365 (IPsec, L2TP, OpenVPN, PPTP) | 30$ off 💰](https://www.vpntracker.com/goto/vpntblackfriday2019)
