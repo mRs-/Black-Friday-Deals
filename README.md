@@ -19,6 +19,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 201
 ## 🎛 Utility Software
 ### [Secure ShellFish | 30% off 💰](https://secureshellfish.app/) — SFTP support in Shortcuts & the Files app on iOS
 ### [VPN Tracker 365 (IPsec, L2TP, OpenVPN, PPTP) | 30$ off 💰](https://www.vpntracker.com/goto/vpntblackfriday2019)
+### [Screens | 35% off 💰](https://edovia.com) - Screen Sharing/VNC client for iOS and Mac
 
 ## 🖥 Virtualization Software
 
