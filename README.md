@@ -57,6 +57,10 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 201
 ### [Affinity Designer Workbook | 30% off 💰](https://affinity.serif.com)
 ### [Packt | eBooks: $10 each or 3 for $25 💰](https://www.packtpub.com/)
 ### [Packt | Subscription: Free Week 💸](https://subscription.packtpub.com/)
+### [raywenderlich.com Yearly Subscriptions | 58% off 💸](https://store.raywenderlich.com/products/subscription)
+### [raywenderlich.com Advanced iOS Book Bundle | 65% off 💸](https://store.raywenderlich.com/products/advanced-ios-swift-bundle-2019)
+### [raywenderlich.com Beginning iOS Book Bundle | 60% off 💸](https://store.raywenderlich.com/products/beginning-ios-swift-bundle-2019)
+### [raywenderlich.com Complete Collection Book Bundle | 75% off 💸](https://store.raywenderlich.com/products/rw-complete-collection-bundle-2019)
 
 ## ☁️ Servers	
 
