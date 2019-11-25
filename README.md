@@ -16,6 +16,8 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 201
 ## 🖥 Virtualization Software
 
 ## 🎨 Graphic Software
+### [Adobe CC All Products Plan | 40% off 💰](https://www.adobe.com/creativecloud/plans.html?red=a&red=a)
+### [Corel Products | Various Savings from 10-40% 💰](https://www.corel.com/en/special-offers/)
 
 ## 📖 Books and Videos
 ### [The Swift Power Pack (includes six books) | 50% off 💸](https://gumroad.com/l/swift-power-pack/blackfriday19)
