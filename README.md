@@ -15,6 +15,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 201
 
 ## 🎛 Utility Software
 ### [Secure ShellFish | 30% off 💰](https://secureshellfish.app/) — SFTP support in Shortcuts & the Files app on iOS
+### VPN Tracker 365 (IPsec, L2TP, OpenVPN, PPTP) | 30$ off 💰 (https://www.vpntracker.com/goto/vpntblackfriday2019)
 
 ## 🖥 Virtualization Software
 
@@ -24,6 +25,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 201
 ### [Affinity Designer| 30% off 💰](https://affinity.serif.com)
 ### [Affinity Photo| 30% off 💰](https://affinity.serif.com)
 ### [Affinity Publisher| 30% off 💰](https://affinity.serif.com)
+### Mail Designer 365 | 50% off 💰 (https://www.maildesigner365.com/goto/mdblackfriday2019)
 
 ## 📖 Books and Videos
 ### [The Swift Power Pack (includes six books) | 50% off 💸](https://gumroad.com/l/swift-power-pack/blackfriday19)
