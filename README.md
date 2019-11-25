@@ -33,6 +33,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 201
 ### [Affinity Photo| 30% off 💰](https://affinity.serif.com)
 ### [Affinity Publisher| 30% off 💰](https://affinity.serif.com)
 ### [Mail Designer 365 | 50% off 💰](https://www.maildesigner365.com/goto/mdblackfriday2019)
+### [Sparkle, Visual Website Builder| 40% off 💰](https://sparkleapp.com/store/)
 
 ## 📖 Books and Videos
 ### [The Swift Power Pack (includes six books) | 50% off 💸](https://gumroad.com/l/swift-power-pack/blackfriday19)
