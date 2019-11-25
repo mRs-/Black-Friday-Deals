@@ -10,6 +10,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 201
 
 
 ## 🛠 Development Software
+### [Git Tower | 50% off 💸](https://www.git-tower.com) — Git desktop client for Mac and Windows  
 ### [Flawless App | 50% off 💸](https://gumroad.com/l/SyRKm/50_discount_black_friday) — a tool to compare the design with the real app
 
 ## 🎛 Utility Software
