@@ -53,8 +53,8 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 201
 ### [A SwiftUI Kickstart | 33% off 💰](https://gumroad.com/l/swiftuikickstart/hindsight) with discount code *hindsight*
 ### [Affinity Photo Workbook | 30% off 💰](https://affinity.serif.com)
 ### [Affinity Designer Workbook | 30% off 💰](https://affinity.serif.com)
-### [Packt | eBooks: $10 each or 3 for $25](https://www.packtpub.com/)
-### [Packt | Subscription: Free Week](https://subscription.packtpub.com/)
+### [Packt | eBooks: $10 each or 3 for $25 💰](https://www.packtpub.com/)
+### [Packt | Subscription: Free Week 💸](https://subscription.packtpub.com/)
 
 ## ☁️ Servers	
 
