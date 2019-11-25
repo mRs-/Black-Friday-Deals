@@ -14,6 +14,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 201
 ### [Git Tower | 50% off 💸](https://www.git-tower.com) — Git desktop client for Mac and Windows  
 ### [Linguan | 50% off 💸](http://linguanapp.com) — Manage the localization of iOS and Mac apps
 ### [Tokens | 50% off 💸](https://tokn.co) — Generate, Share and Track promo codes for your apps
+### [Woodpecker | 50% off 💸](https://apps.apple.com/app/id1333548463) — View and edit iOS app's Sandbox,UserDefaults from Mac
 
 ## 🎛 Utility Software
 ### [Secure ShellFish | 30% off 💰](https://secureshellfish.app/) — SFTP support in Shortcuts & the Files app on iOS
