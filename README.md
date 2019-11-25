@@ -15,11 +15,14 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 201
 ### [Linguan | 50% off 💸](http://linguanapp.com) — Manage the localization of iOS and Mac apps
 ### [Tokens | 50% off 💸](https://tokn.co) — Generate, Share and Track promo codes for your apps
 ### [Woodpecker | 50% off 💸](https://apps.apple.com/app/id1333548463) — View and edit iOS app's Sandbox,UserDefaults from Mac
+### [DropDMG | 25% off 💰](https://c-command.com/store/sale) - Create Mac disk images (.dmg files)
 
 ## 🎛 Utility Software
 ### [Secure ShellFish | 30% off 💰](https://secureshellfish.app/) — SFTP support in Shortcuts & the Files app on iOS
 ### [VPN Tracker 365 (IPsec, L2TP, OpenVPN, PPTP) | 30$ off 💰](https://www.vpntracker.com/goto/vpntblackfriday2019)
 ### [Screens | 35% off 💰](https://edovia.com) - Screen Sharing/VNC client for iOS and Mac
+### [EagleFiler | 25% off 💰](https://c-command.com/store/sale) - Organize files/notes and archive e-mails (Mac)
+### [SpamSieve | 25% off 💰](https://c-command.com/store/sale) - E-mail spam filtering for Mac
 
 ## 🖥 Virtualization Software
 
