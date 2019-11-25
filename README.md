@@ -45,6 +45,8 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 201
 ### [Xcode Treasures | 40% off 💰](https://pragprog.com/book/caxcode/xcode-treasures) with discount code *turkeysale2019*
 ### [Swift Style | 40% off 💰](https://pragprog.com/book/esswift2/swift-style-second-edition) with discount code *turkeysale2019*
 ### [A Swift Kickstart | 40% off 💰](https://pragprog.com/book/d-dsswift/a-swift-kickstart-second-edition) with discount code *turkeysale2019*
+### [A Swift Kickstart (updated for Swift 5.1/Xcode 11) | 33% off 💰](https://gumroad.com/l/swift-kickstart/hindsight) with discount code *hindsight*
+### [A SwiftUI Kickstart | 33% off 💰](https://gumroad.com/l/swiftuikickstart/hindsight) with discount code *hindsight*
 
 ## ☁️ Servers	
 
