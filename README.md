@@ -12,7 +12,10 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 201
 ## 🛠 Development Software
 ### [Flawless App | 50% off 💸](https://gumroad.com/l/SyRKm/50_discount_black_friday) — a tool to compare the design with the real app
 ### [Git Tower | 50% off 💸](https://www.git-tower.com) — Git desktop client for Mac and Windows  
+### [Linguan | 50% off 💸](http://linguanapp.com) — Manage the localization of iOS and Mac apps
+### [Tokens | 50% off 💸](https://tokn.co) — Generate, Share and Track promo codes for your apps
 ### [Woodpecker | 50% off 💸](https://apps.apple.com/app/id1333548463) — View and edit iOS app's Sandbox,UserDefaults from Mac
+
 ## 🎛 Utility Software
 ### [Secure ShellFish | 30% off 💰](https://secureshellfish.app/) — SFTP support in Shortcuts & the Files app on iOS
 ### [VPN Tracker 365 (IPsec, L2TP, OpenVPN, PPTP) | 30$ off 💰](https://www.vpntracker.com/goto/vpntblackfriday2019)
@@ -59,6 +62,10 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 201
 ### [Affinity Designer Workbook | 30% off 💰](https://affinity.serif.com)
 ### [Packt | eBooks: $10 each or 3 for $25 💰](https://www.packtpub.com/)
 ### [Packt | Subscription: Free Week 💸](https://subscription.packtpub.com/)
+### [raywenderlich.com Yearly Subscriptions | 58% off 💸](https://store.raywenderlich.com/products/subscription)
+### [raywenderlich.com Advanced iOS Book Bundle | 65% off 💸](https://store.raywenderlich.com/products/advanced-ios-swift-bundle-2019)
+### [raywenderlich.com Beginning iOS Book Bundle | 60% off 💸](https://store.raywenderlich.com/products/beginning-ios-swift-bundle-2019)
+### [raywenderlich.com Complete Collection Book Bundle | 75% off 💸](https://store.raywenderlich.com/products/rw-complete-collection-bundle-2019)
 
 ## ☁️ Servers	
 
