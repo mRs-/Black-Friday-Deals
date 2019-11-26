@@ -28,6 +28,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 201
 ### [Hummingbird | 50% off 💸](https://hummingbirdapp.site) - Make macOS window management a breeze
 ### [iStat Menus (Website version) | 50% off 💸](https://bjango.com/mac/istatmenus/) - The most powerful system monitoring app for macOS.
 ### [iStat Menus (Appstore version) | 50% off 💸](https://itunes.apple.com/app/id1319778037?at=11l3KP&mt=12) - The most powerful system monitoring app for macOS.
+### [StopTheMadness | 33% off 💰](https://apps.apple.com/app/stopthemadness/id1376402589?mt=12) - Web browser extension for Safari and Firefox
 
 ## 📌 Productivity Software
 ### [FocusList | 60% off 💸](http://focuslist.co) - Daily planner based on Pomodoro technique
