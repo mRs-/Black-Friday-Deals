@@ -23,6 +23,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 201
 ### [Screens | 35% off 💰](https://edovia.com) - Screen Sharing/VNC client for iOS and Mac
 ### [EagleFiler | 25% off 💰](https://c-command.com/store/sale) - Organize files/notes and archive e-mails (Mac)
 ### [SpamSieve | 25% off 💰](https://c-command.com/store/sale) - E-mail spam filtering for Mac
+### [Hummingbird | 50% off 💸](https://hummingbirdapp.site) - Make macOS window management a breeze
 
 ## 🖥 Virtualization Software
 
