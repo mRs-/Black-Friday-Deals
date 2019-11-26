@@ -29,6 +29,8 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 201
 ### [iStat Menus (Website version) | 50% off 💸](https://bjango.com/mac/istatmenus/) - The most powerful system monitoring app for macOS.
 ### [iStat Menus (Appstore version) | 50% off 💸](https://itunes.apple.com/app/id1319778037?at=11l3KP&mt=12) - The most powerful system monitoring app for macOS.
 ### [StopTheMadness | 33% off 💰](https://apps.apple.com/app/stopthemadness/id1376402589?mt=12) - Web browser extension for Safari and Firefox
+### [Find Any File | 50% off 💸](http://findanyfile.app) - Find files that Spotlight won't, and show them in a better way.
+### [iClip | 66% off 💸](http://iclipapp.com) - The most versatile Clipboard manager & recorder. It's even scriptable!
 
 ## 📌 Productivity Software
 ### [FocusList | 60% off 💸](http://focuslist.co) - Daily planner based on Pomodoro technique
