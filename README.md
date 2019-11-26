@@ -16,6 +16,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 201
 ### [Tokens | 50% off 💸](https://tokn.co) — Generate, Share and Track promo codes for your apps
 ### [Woodpecker | 50% off 💸](https://apps.apple.com/app/id1333548463) — View and edit iOS app's Sandbox,UserDefaults from Mac
 ### [DropDMG | 25% off 💰](https://c-command.com/store/sale) - Create Mac disk images (.dmg files)
+### [Sip | 50% off 💸](https://sipapp.io/pricing/?coupon=BLACK_FRIDAY_2019) - A better way to collect, organize & share your colors.
 
 ## 🎛 Utility Software
 ### [Secure ShellFish | 30% off 💰](https://secureshellfish.app/) — SFTP support in Shortcuts & the Files app on iOS
