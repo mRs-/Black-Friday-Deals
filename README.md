@@ -86,6 +86,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 201
 ### [raywenderlich.com Advanced iOS Book Bundle | 65% off 💸](https://store.raywenderlich.com/products/advanced-ios-swift-bundle-2019)
 ### [raywenderlich.com Beginning iOS Book Bundle | 60% off 💸](https://store.raywenderlich.com/products/beginning-ios-swift-bundle-2019)
 ### [raywenderlich.com Complete Collection Book Bundle | 75% off 💸](https://store.raywenderlich.com/products/rw-complete-collection-bundle-2019)
+### [NSScreencast Subscription | 50% off 💸](https://nsscreencast.com/coupons/blfr19-50) - over 400 videos on iOS development
 
 ## ☁️ Servers	
 
