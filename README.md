@@ -34,6 +34,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 201
 ### [EagleFiler | 25% off 💰](https://c-command.com/store/sale) - Organize files/notes and archive e-mails (Mac)
 
 ## 🖥 Virtualization Software
+### [Parallels Desktop | 20% off 💰](https://www.parallels.com/de/products/desktop/buy/)
 
 ## 🎨 Graphic Software
 ### [Adobe CC All Products Plan | 40% off 💰](https://www.adobe.com/creativecloud/plans.html?red=a&red=a)
