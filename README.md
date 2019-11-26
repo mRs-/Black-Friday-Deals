@@ -34,6 +34,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 201
 ### [Affinity Publisher| 30% off 💰](https://affinity.serif.com)
 ### [Mail Designer 365 | 50% off 💰](https://www.maildesigner365.com/goto/mdblackfriday2019)
 ### [Sparkle, Visual Website Builder| 40% off 💰](https://sparkleapp.com/store/)
+### [Cascable — Supercharge your WiFi-enabled Camera | 33% off 💰](https://cascable.se/ios/)
 
 ## 📈 Business Software
 ### [Landlordy Mini/Plus/Pro | 30% off 💰](https://www.landlordy.com) - property management app for private landlords
