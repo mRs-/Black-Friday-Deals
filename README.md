@@ -34,6 +34,8 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 201
 ### [FocusList | 60% off 💸](http://focuslist.co) - Daily planner based on Pomodoro technique
 ### [EagleFiler | 25% off 💰](https://c-command.com/store/sale) - Organize files/notes and archive e-mails (Mac)
 ### [Side Mirror | 50% off 💸](https://sidemirrorapp.com) - A useful tool for presenters, shows you the projector screen in a window on your laptop.
+### [WordCounter | 50% off 💸](https://wordcounterapp.com) - Provides clarity about your daily production output as a writer/coder
+### [TableFlip | 50% off 💸](https://tableflipapp.com) - Visual Markdown table editor
 
 ## 🖥 Virtualization Software
 ### [Parallels Desktop | 20% off 💰](https://www.parallels.com/de/products/desktop/buy/)
@@ -88,6 +90,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 201
 ### [raywenderlich.com Beginning iOS Book Bundle | 60% off 💸](https://store.raywenderlich.com/products/beginning-ios-swift-bundle-2019)
 ### [raywenderlich.com Complete Collection Book Bundle | 75% off 💸](https://store.raywenderlich.com/products/rw-complete-collection-bundle-2019)
 ### [NSScreencast Subscription | 50% off 💸](https://nsscreencast.com/coupons/blfr19-50) - over 400 videos on iOS development
+### [Make Money Outside the Mac App Store | 50% off 💸](https://christiantietze.de/books/make-money-outside-mac-app-store-fastspring/) - Visual Markdown table editor
 
 ## ☁️ Servers	
 
