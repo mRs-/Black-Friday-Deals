@@ -32,6 +32,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 201
 ## 📌 Productivity Software
 ### [FocusList | 60% off 💸](http://focuslist.co) - Daily planner based on Pomodoro technique
 ### [EagleFiler | 25% off 💰](https://c-command.com/store/sale) - Organize files/notes and archive e-mails (Mac)
+### [Side Mirror | 50% off 💸](https://sidemirrorapp.com) - A useful tool for presenters, shows you the projector screen in a window on your laptop.
 
 ## 🖥 Virtualization Software
 ### [Parallels Desktop | 20% off 💰](https://www.parallels.com/de/products/desktop/buy/)
