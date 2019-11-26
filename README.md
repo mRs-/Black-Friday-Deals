@@ -23,7 +23,6 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 201
 ### [Secure ShellFish | 30% off 💰](https://secureshellfish.app/) — SFTP support in Shortcuts & the Files app on iOS
 ### [VPN Tracker 365 (IPsec, L2TP, OpenVPN, PPTP) | 30$ off 💰](https://www.vpntracker.com/goto/vpntblackfriday2019)
 ### [Screens | 35% off 💰](https://edovia.com) - Screen Sharing/VNC client for iOS and Mac
-### [EagleFiler | 25% off 💰](https://c-command.com/store/sale) - Organize files/notes and archive e-mails (Mac)
 ### [SpamSieve | 25% off 💰](https://c-command.com/store/sale) - E-mail spam filtering for Mac
 ### [Hummingbird | 50% off 💸](https://hummingbirdapp.site) - Make macOS window management a breeze
 ### [iStat Menus (Website version) | 50% off 💸](https://bjango.com/mac/istatmenus/) - The most powerful system monitoring app for macOS.
@@ -31,6 +30,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 201
 
 ## 📌 Productivity Software
 ### [FocusList | 60% off 💸](http://focuslist.co) - Daily planner based on Pomodoro technique
+### [EagleFiler | 25% off 💰](https://c-command.com/store/sale) - Organize files/notes and archive e-mails (Mac)
 
 ## 🖥 Virtualization Software
 
