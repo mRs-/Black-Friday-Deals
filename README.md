@@ -24,6 +24,9 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 201
 ### [EagleFiler | 25% off 💰](https://c-command.com/store/sale) - Organize files/notes and archive e-mails (Mac)
 ### [SpamSieve | 25% off 💰](https://c-command.com/store/sale) - E-mail spam filtering for Mac
 
+## 📌 Productivity Software
+### [FocusList | 60% off 💸](http://focuslist.co) - Daily planner based on Pomodoro technique
+
 ## 🖥 Virtualization Software
 
 ## 🎨 Graphic Software
