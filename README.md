@@ -19,6 +19,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 201
 ### [Adaptivity | 50% off 💸](https://itunes.apple.com/app/id1054670022) - Explore iOS layout, System Colors/Images/Materials and more.
 ### [Sip | 50% off 💸](https://sipapp.io/pricing/?coupon=BLACK_FRIDAY_2019) - A better way to collect, organize & share your colors.
 ### [Git Kraken | 20% off 💰](https://www.gitkraken.com) - Git desktop client for Mac and Windows
+### [Proxyman | 50% off 💸](https://proxyman.io) - Native, Modern and Delightful Web Debugging Proxy for macOS, iOS, Android.
 
 ## 🎛 Utility Software
 ### [Secure ShellFish | 30% off 💰](https://secureshellfish.app/) — SFTP support in Shortcuts & the Files app on iOS
@@ -38,8 +39,8 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 201
 ### [Side Mirror | 50% off 💸](https://sidemirrorapp.com) - A useful tool for presenters, shows you the projector screen in a window on your laptop.
 ### [WordCounter | 50% off 💸](https://wordcounterapp.com) - Provides clarity about your daily production output as a writer/coder
 ### [TableFlip | 50% off 💸](https://tableflipapp.com) - Visual Markdown table editor
-### [Stonewall Call Blocker | 33% off 💰](https://apps.apple.com/de/app/stonewall-call-blocker/id1144155216?l=en&at=1001ldfc&pt=251505&ct=bfd) - temporarily block calls from a group of contacts or numbers (iOS)
 ### [Phonetrait | 50% off 💸](https://apps.apple.com/us/app/phonetrait-address-book/id479472176?at=1001ldfc&pt=251505&ct=bfd) - Smart Address Book (iOS)
+### [Trickster | 50% off 💸](https://www.apparentsoft.com/trickster) - Fast access to Recently Used Files that you care about (Mac)
 
 ## 🖥 Virtualization Software
 ### [Parallels Desktop | 20% off 💰](https://www.parallels.com/de/products/desktop/buy/)
@@ -53,8 +54,9 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 201
 ### [Mail Designer 365 | 50% off 💰](https://www.maildesigner365.com/goto/mdblackfriday2019)
 ### [Sparkle, Visual Website Builder| 40% off 💰](https://sparkleapp.com/store/)
 ### [Cascable — Supercharge your WiFi-enabled Camera | 33% off 💰](https://cascable.se/ios/)
-### [Pixalmator Pro (macOS) | 25% off 💰](https://www.pixelmator.com/pro/buy/)
-### [Pixalmator Photo (iPad) | Free 💸](https://apps.apple.com/app/pixelmator/id1444636541)
+### [Pixelmator Pro (macOS) | 25% off 💰](https://www.pixelmator.com/pro/buy/)
+### [Pixelmator Photo (iPad) | Free 💸](https://apps.apple.com/app/pixelmator/id1444636541)
+### [ImageFramer | 50% off 💸](https://imageframer.net) - Add frames, borders, mats and text to pictures (Mac)
 
 ## 📈 Business Software
 ### [Landlordy Mini/Plus/Pro | 30% off 💰](https://www.landlordy.com) - property management app for private landlords
