@@ -43,6 +43,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 201
 ### [Stonewall Call Blocker | 33% off 💰 starting 11/28](https://apps.apple.com/de/app/stonewall-call-blocker/id1144155216?l=en&at=1001ldfc&pt=251505&ct=bfd) - temporarily block calls from a group of contacts or numbers (iOS)
 ### [Phonetrait | 50% off 💸 starting 11/28](https://apps.apple.com/us/app/phonetrait-address-book/id479472176?at=1001ldfc&pt=251505&ct=bfd) - Smart Address Book (iOS)
 ### [Trickster | 50% off 💸](https://www.apparentsoft.com/trickster) - Fast access to Recently Used Files that you care about (Mac)
+### [Devonthink | 25% off 💰](https://www.devontechnologies.com/blog/20191125-blackfriday)
 
 ## 🖥 Virtualization Software
 ### [Parallels Desktop | 20% off 💰](https://www.parallels.com/de/products/desktop/buy/)
@@ -59,6 +60,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 201
 ### [Pixelmator Pro (macOS) | 25% off 💰](https://www.pixelmator.com/pro/buy/)
 ### [Pixelmator Photo (iPad) | Free 💸](https://apps.apple.com/app/pixelmator/id1444636541)
 ### [ImageFramer | 50% off 💸](https://imageframer.net) - Add frames, borders, mats and text to pictures (Mac)
+### [Luminar | 10% off with free add-ons 💰](https://skylum.com/luminar) 
 
 ## 📈 Business Software
 ### [Landlordy Mini/Plus/Pro | 30% off 💰](https://www.landlordy.com) - property management app for private landlords
