@@ -53,8 +53,8 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 201
 ### [Mail Designer 365 | 50% off 💰](https://www.maildesigner365.com/goto/mdblackfriday2019)
 ### [Sparkle, Visual Website Builder| 40% off 💰](https://sparkleapp.com/store/)
 ### [Cascable — Supercharge your WiFi-enabled Camera | 33% off 💰](https://cascable.se/ios/)
-### [Pixalmator Pro (macOS) | 25% off 💰](https://www.pixelmator.com/pro/buy/)
-### [Pixalmator Photo (iPad) | Free 💸](https://apps.apple.com/app/pixelmator/id1444636541)
+### [Pixelmator Pro (macOS) | 25% off 💰](https://www.pixelmator.com/pro/buy/)
+### [Pixelmator Photo (iPad) | Free 💸](https://apps.apple.com/app/pixelmator/id1444636541)
 ### [ImageFramer | 50% off 💸](https://imageframer.net) - Add frames, borders, mats and text to pictures (Mac)
 
 ## 📈 Business Software
