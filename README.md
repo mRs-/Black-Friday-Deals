@@ -20,6 +20,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 201
 ### [Sip | 50% off 💸](https://sipapp.io/pricing/?coupon=BLACK_FRIDAY_2019) - A better way to collect, organize & share your colors.
 ### [Git Kraken | 20% off 💰](https://www.gitkraken.com) - Git desktop client for Mac and Windows
 ### [Proxyman | 50% off 💸](https://proxyman.io) - Native, Modern and Delightful Web Debugging Proxy for macOS, iOS, Android.
+### [SQLPro Studio | 50% off](https://www.sqlprostudio.com/blackfriday.html) - A fully native database client for macOS and iOS.
 
 ## 🎛 Utility Software
 ### [Secure ShellFish | 30% off 💰](https://secureshellfish.app/) — SFTP support in Shortcuts & the Files app on iOS
