@@ -65,6 +65,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 201
 
 ## 📈 Business Software
 ### [Landlordy Mini/Plus/Pro | 30% off 💰](https://www.landlordy.com) - property management app for private landlords
+### [Appfigures (All plans) | 50% off 💸](https://appfigures.com/) - App store optimization & analytics tools for mobile app developers
 
 ## 🏃🏻‍♀️ Health & Fitness Software
 ### [Thirstic | 50% off on Lifetime Premium upgrade 💸](https://thirstic.app) — A smart water reminder app that adapts to your activity and weather
