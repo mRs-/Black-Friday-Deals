@@ -102,7 +102,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 201
 ### [raywenderlich.com Beginning iOS Book Bundle | 60% off 💸](https://store.raywenderlich.com/products/beginning-ios-swift-bundle-2019)
 ### [raywenderlich.com Complete Collection Book Bundle | 75% off 💸](https://store.raywenderlich.com/products/rw-complete-collection-bundle-2019)
 ### [NSScreencast Subscription | 50% off 💸](https://nsscreencast.com/coupons/blfr19-50) - over 400 videos on iOS development
-### [Make Money Outside the Mac App Store | 50% off 💸](https://christiantietze.de/books/make-money-outside-mac-app-store-fastspring/) - Learn how to set up FastSpring and your app to sell your macOS apps in your own store
+### [Make Money Outside the Mac App Store | 50% off 💸](https://christiantietze.de/books/make-money-outside-mac-app-store-fastspring/) - Set up your own store and make your app ready for sale on your own website
 
 ## ☁️ Servers	
 
