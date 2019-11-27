@@ -38,7 +38,6 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 201
 ### [Side Mirror | 50% off 💸](https://sidemirrorapp.com) - A useful tool for presenters, shows you the projector screen in a window on your laptop.
 ### [WordCounter | 50% off 💸](https://wordcounterapp.com) - Provides clarity about your daily production output as a writer/coder
 ### [TableFlip | 50% off 💸](https://tableflipapp.com) - Visual Markdown table editor
-### [Stonewall Call Blocker | 33% off 💰](https://apps.apple.com/de/app/stonewall-call-blocker/id1144155216?l=en&at=1001ldfc&pt=251505&ct=bfd) - temporarily block calls from a group of contacts or numbers (iOS)
 ### [Phonetrait | 50% off 💸](https://apps.apple.com/us/app/phonetrait-address-book/id479472176?at=1001ldfc&pt=251505&ct=bfd) - Smart Address Book (iOS)
 
 ## 🖥 Virtualization Software
