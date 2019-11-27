@@ -60,7 +60,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 201
 ### [Pixelmator Pro (macOS) | 25% off 💰](https://www.pixelmator.com/pro/buy/)
 ### [Pixelmator Photo (iPad) | Free 💸](https://apps.apple.com/app/pixelmator/id1444636541)
 ### [ImageFramer | 50% off 💸](https://imageframer.net) - Add frames, borders, mats and text to pictures (Mac)
-### [Luminar | 10% off with free add-ons 💰](https://skylum.com/luminar)
+### [Luminar | 10% off with free add-ons 💰](https://skylum.com/luminar) 
 
 ## 📈 Business Software
 ### [Landlordy Mini/Plus/Pro | 30% off 💰](https://www.landlordy.com) - property management app for private landlords
