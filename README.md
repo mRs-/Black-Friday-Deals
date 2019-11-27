@@ -64,6 +64,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 201
 
 ## 📈 Business Software
 ### [Landlordy Mini/Plus/Pro | 30% off 💰](https://www.landlordy.com) - property management app for private landlords
+### [Appfigures (All plans) | 50% off 💸](https://appfigures.com/) - App store optimization & analytics tools for mobile app developers
 
 ## 📖 Books and Videos
 ### [The Swift Power Pack (includes six books) | 50% off 💸](https://gumroad.com/l/swift-power-pack/blackfriday19)
