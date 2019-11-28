@@ -21,6 +21,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 201
 ### [Git Kraken | 20% off 💰](https://www.gitkraken.com) - Git desktop client for Mac and Windows
 ### [Proxyman | 50% off 💸](https://proxyman.io) - Native, Modern and Delightful Web Debugging Proxy for macOS, iOS, Android.
 ### [SQLPro Studio | 50% off 💸](https://www.sqlprostudio.com/blackfriday.html) - A fully native database client for macOS and iOS.
+### [Paw | 50% off 💸](https://www.macheist.com/sales/paw-the-most-advanced-api-tool-for-mac) - REST Client
 
 ## 🎛 Utility Software
 ### [Secure ShellFish | 30% off 💰](https://secureshellfish.app/) — SFTP support in Shortcuts & the Files app on iOS
@@ -39,7 +40,6 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 201
 ### [Paprika | 50% off on MacOS, iOS, Windows and Android 💸](https://www.paprikaapp.com/blog/2019/11/24/2019-thanksgiving-sale/) - Organize your recipes, make meal plans, and create grocery lists. 
 ### [iMazing 2 | 50% off 💸](https://imazing.com/de/store)
 ### [KeepSolid VPN | 50% off💸](https://www.keepsolid.com)
-### [Paw | 50% off](https://www.macheist.com/sales/paw-the-most-advanced-api-tool-for-mac)
 
 ## 📌 Productivity Software
 ### [FocusList | 60% off 💸](http://focuslist.co) - Daily planner based on Pomodoro technique
