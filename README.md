@@ -33,6 +33,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 201
 ### [StopTheMadness | 33% off 💰](https://apps.apple.com/app/stopthemadness/id1376402589?mt=12) - Web browser extension for Safari and Firefox
 ### [Find Any File | 50% off 💸](http://findanyfile.app) - Find files that Spotlight won't, and show them in a better way.
 ### [iClip | 66% off 💸](http://iclipapp.com) - The most versatile Clipboard manager & recorder. It's even scriptable!
+### [NetSnips | 50% off on Unlimited Snippets upgrade 💸](https://apps.apple.com/app/netsnips/id507888242) — Stop opening dozens of browser tabs every day. Save time with NetSnips!
 
 ## 📌 Productivity Software
 ### [FocusList | 60% off 💸](http://focuslist.co) - Daily planner based on Pomodoro technique
@@ -64,6 +65,10 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 201
 
 ## 📈 Business Software
 ### [Landlordy Mini/Plus/Pro | 30% off 💰](https://www.landlordy.com) - property management app for private landlords
+### [Appfigures (All plans) | 50% off 💸](https://appfigures.com/) - App store optimization & analytics tools for mobile app developers
+
+## 🏃🏻‍♀️ Health & Fitness Software
+### [Thirstic | 50% off on Lifetime Premium upgrade 💸](https://thirstic.app) — A smart water reminder app that adapts to your activity and weather
 
 ## 📖 Books and Videos
 ### [The Swift Power Pack (includes six books) | 50% off 💸](https://gumroad.com/l/swift-power-pack/blackfriday19)
@@ -102,7 +107,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 201
 ### [raywenderlich.com Beginning iOS Book Bundle | 60% off 💸](https://store.raywenderlich.com/products/beginning-ios-swift-bundle-2019)
 ### [raywenderlich.com Complete Collection Book Bundle | 75% off 💸](https://store.raywenderlich.com/products/rw-complete-collection-bundle-2019)
 ### [NSScreencast Subscription | 50% off 💸](https://nsscreencast.com/coupons/blfr19-50) - over 400 videos on iOS development
-### [Make Money Outside the Mac App Store | 50% off 💸](https://christiantietze.de/books/make-money-outside-mac-app-store-fastspring/) - Visual Markdown table editor
+### [Make Money Outside the Mac App Store | 50% off 💸](https://christiantietze.de/books/make-money-outside-mac-app-store-fastspring/) - Set up your own store and make your app ready for sale on your own website
 
 ## ☁️ Servers	
 
