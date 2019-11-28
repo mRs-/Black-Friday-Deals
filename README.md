@@ -21,6 +21,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 201
 ### [Git Kraken | 20% off 💰](https://www.gitkraken.com) - Git desktop client for Mac and Windows
 ### [Proxyman | 50% off 💸](https://proxyman.io) - Native, Modern and Delightful Web Debugging Proxy for macOS, iOS, Android.
 ### [SQLPro Studio | 50% off 💸](https://www.sqlprostudio.com/blackfriday.html) - A fully native database client for macOS and iOS.
+### [Paw | 50% off 💸](https://www.macheist.com/sales/paw-the-most-advanced-api-tool-for-mac) - REST Client
 
 ## 🎛 Utility Software
 ### [Secure ShellFish | 30% off 💰](https://secureshellfish.app/) — SFTP support in Shortcuts & the Files app on iOS
@@ -34,6 +35,11 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 201
 ### [Find Any File | 50% off 💸](http://findanyfile.app) - Find files that Spotlight won't, and show them in a better way.
 ### [iClip | 66% off 💸](http://iclipapp.com) - The most versatile Clipboard manager & recorder. It's even scriptable!
 ### [NetSnips | 50% off on Unlimited Snippets upgrade 💸](https://apps.apple.com/app/netsnips/id507888242) — Stop opening dozens of browser tabs every day. Save time with NetSnips!
+### [Banner Hunter (iOS) | 66% off 💸](https://apps.apple.com/us/app/banner-hunter/id1031752878) - Cookie banner blocker for Safari
+### [Banner Hunter (Mac) | 66% off 💸](https://apps.apple.com/us/app/banner-hunter/id1151217174?mt=12) - Cookie banner blocker for Safari
+### [Paprika | 50% off on MacOS, iOS, Windows and Android 💸](https://www.paprikaapp.com/blog/2019/11/24/2019-thanksgiving-sale/) - Organize your recipes, make meal plans, and create grocery lists. 
+### [iMazing 2 | 50% off 💸](https://imazing.com/de/store)
+### [KeepSolid VPN | 50% off💸](https://www.keepsolid.com)
 
 ## 📌 Productivity Software
 ### [FocusList | 60% off 💸](http://focuslist.co) - Daily planner based on Pomodoro technique
@@ -46,6 +52,9 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 201
 ### [Trickster | 50% off 💸](https://www.apparentsoft.com/trickster) - Fast access to Recently Used Files that you care about (Mac)
 ### [Devonthink | 25% off 💰](https://www.devontechnologies.com/blog/20191125-blackfriday)
 ### [Unclutter | 50% off 💸 starting 11/28](https://unclutterapp.com) – 3-in-1 productivity tool for daily routine work on a Mac. Clipboard, files, notes – at your fingertips.
+### [Secrets | 30% off 💰](https://outercorner.com/secrets/) - Password Manager for Mac & iOS
+### [Fantastical, Cardhop and Chatology | 20% off 💰] - MacOS/iOS calendar, contacts and chat search apps
+### [Litur | 50% off 💸](https://apps.apple.com/us/app/litur/id1487096693?ls=1) - Color picker app to find and collect colors around you
 
 ## 🖥 Virtualization Software
 ### [Parallels Desktop | 20% off 💰](https://www.parallels.com/de/products/desktop/buy/)
@@ -109,7 +118,4 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 201
 ### [raywenderlich.com Complete Collection Book Bundle | 75% off 💸](https://store.raywenderlich.com/products/rw-complete-collection-bundle-2019)
 ### [NSScreencast Subscription | 50% off 💸](https://nsscreencast.com/coupons/blfr19-50) - over 400 videos on iOS development
 ### [Make Money Outside the Mac App Store | 50% off 💸](https://christiantietze.de/books/make-money-outside-mac-app-store-fastspring/) - Set up your own store and make your app ready for sale on your own website
-
-## ☁️ Servers	
-
-## 🛠 Training & Consulting
+### [Modern Auto Layout | 20% off 💰](https://gum.co/albook/blackfriday19)
