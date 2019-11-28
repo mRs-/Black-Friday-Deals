@@ -34,6 +34,9 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 201
 ### [Find Any File | 50% off 💸](http://findanyfile.app) - Find files that Spotlight won't, and show them in a better way.
 ### [iClip | 66% off 💸](http://iclipapp.com) - The most versatile Clipboard manager & recorder. It's even scriptable!
 ### [NetSnips | 50% off on Unlimited Snippets upgrade 💸](https://apps.apple.com/app/netsnips/id507888242) — Stop opening dozens of browser tabs every day. Save time with NetSnips!
+### [Banner Hunter (iOS) | 66% off 💸](https://apps.apple.com/us/app/banner-hunter/id1031752878) - Cookie banner blocker for Safari
+### [Banner Hunter (Mac) | 66% off 💸](https://apps.apple.com/us/app/banner-hunter/id1151217174?mt=12) - Cookie banner blocker for Safari
+
 
 ## 📌 Productivity Software
 ### [FocusList | 60% off 💸](http://focuslist.co) - Daily planner based on Pomodoro technique
