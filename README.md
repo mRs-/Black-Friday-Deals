@@ -37,6 +37,9 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 201
 ### [Banner Hunter (iOS) | 66% off 💸](https://apps.apple.com/us/app/banner-hunter/id1031752878) - Cookie banner blocker for Safari
 ### [Banner Hunter (Mac) | 66% off 💸](https://apps.apple.com/us/app/banner-hunter/id1151217174?mt=12) - Cookie banner blocker for Safari
 ### [Paprika | 50% off on MacOS, iOS, Windows and Android 💸](https://www.paprikaapp.com/blog/2019/11/24/2019-thanksgiving-sale/) - Organize your recipes, make meal plans, and create grocery lists. 
+### [iMazing 2 | 50% off 💸](https://imazing.com/de/store)
+### [KeepSolid VPN | 50% off💸](https://www.keepsolid.com)
+### [Paw | 50% off](https://www.macheist.com/sales/paw-the-most-advanced-api-tool-for-mac)
 
 ## 📌 Productivity Software
 ### [FocusList | 60% off 💸](http://focuslist.co) - Daily planner based on Pomodoro technique
@@ -114,6 +117,3 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 201
 ### [NSScreencast Subscription | 50% off 💸](https://nsscreencast.com/coupons/blfr19-50) - over 400 videos on iOS development
 ### [Make Money Outside the Mac App Store | 50% off 💸](https://christiantietze.de/books/make-money-outside-mac-app-store-fastspring/) - Set up your own store and make your app ready for sale on your own website
 ### [Modern Auto Layout | 20% off 💰](https://gum.co/albook/blackfriday19)
-## ☁️ Servers	
-
-## 🛠 Training & Consulting
