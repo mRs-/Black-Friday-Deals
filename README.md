@@ -51,6 +51,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 201
 ### [Phonetrait | 50% off 💸 starting 11/28](https://apps.apple.com/us/app/phonetrait-address-book/id479472176?at=1001ldfc&pt=251505&ct=bfd) - Smart Address Book (iOS)
 ### [Trickster | 50% off 💸](https://www.apparentsoft.com/trickster) - Fast access to Recently Used Files that you care about (Mac)
 ### [Devonthink | 25% off 💰](https://www.devontechnologies.com/blog/20191125-blackfriday)
+### [Unclutter | 50% off 💸 starting 11/28](https://unclutterapp.com) – 3-in-1 productivity tool for daily routine work on a Mac. Clipboard, files, notes – at your fingertips.
 ### [Secrets | 30% off 💰](https://outercorner.com/secrets/) - Password Manager for Mac & iOS
 ### [Fantastical, Cardhop and Chatology | 20% off 💰] - MacOS/iOS calendar, contacts and chat search apps
 ### [Litur | 50% off 💸](https://apps.apple.com/us/app/litur/id1487096693?ls=1) - Color picker app to find and collect colors around you
