@@ -36,7 +36,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 201
 ### [NetSnips | 50% off on Unlimited Snippets upgrade 💸](https://apps.apple.com/app/netsnips/id507888242) — Stop opening dozens of browser tabs every day. Save time with NetSnips!
 ### [Banner Hunter (iOS) | 66% off 💸](https://apps.apple.com/us/app/banner-hunter/id1031752878) - Cookie banner blocker for Safari
 ### [Banner Hunter (Mac) | 66% off 💸](https://apps.apple.com/us/app/banner-hunter/id1151217174?mt=12) - Cookie banner blocker for Safari
-
+### [Paprika | 50% off on MacOS, iOS, Windows and Android 💸](https://www.paprikaapp.com/blog/2019/11/24/2019-thanksgiving-sale/) - Organize your recipes, make meal plans, and create grocery lists. 
 
 ## 📌 Productivity Software
 ### [FocusList | 60% off 💸](http://focuslist.co) - Daily planner based on Pomodoro technique
@@ -49,6 +49,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 201
 ### [Trickster | 50% off 💸](https://www.apparentsoft.com/trickster) - Fast access to Recently Used Files that you care about (Mac)
 ### [Devonthink | 25% off 💰](https://www.devontechnologies.com/blog/20191125-blackfriday)
 ### [Secrets | 30% off 💰](https://outercorner.com/secrets/) - Password Manager for Mac & iOS
+### [Fantastical, Cardhop and Chatology | 20% off 💰] - MacOS/iOS calendar, contacts and chat search apps
 
 ## 🖥 Virtualization Software
 ### [Parallels Desktop | 20% off 💰](https://www.parallels.com/de/products/desktop/buy/)
