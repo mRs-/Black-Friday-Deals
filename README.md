@@ -25,6 +25,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 201
 ### [StudIO Code | 50% off 💸](https://studiocode.app) - The first hackable code editor for iOS
 ### [Charles | 30% off💰](http://charlesproxy.com) - with code CHARLESBLACK19
 ### [RapidWeaver 8 | 30% off 💸](https://www.realmacsoftware.com/black/) - web design software for Mac
+### [Pushever | 30% off 💰](https://apps.apple.com/us/app/pushever-apns-tester/id1455738387) - Mac GUI to test APNS push notification easily
 
 ## 🎛 Utility Software
 ### [Secure ShellFish | 30% off 💰](https://secureshellfish.app/) — SFTP support in Shortcuts & the Files app on iOS
