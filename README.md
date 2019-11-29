@@ -42,6 +42,8 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 201
 ### [Paprika | 50% off on MacOS, iOS, Windows and Android 💸](https://www.paprikaapp.com/blog/2019/11/24/2019-thanksgiving-sale/) - Organize your recipes, make meal plans, and create grocery lists. 
 ### [iMazing 2 | 50% off 💸](https://imazing.com/de/store)
 ### [KeepSolid VPN | 50% off💸](https://www.keepsolid.com)
+### [Little Snitch | 50% off💸](https://www.obdev.at/shop/index.html) - Little Snitch informs you whenever a program attempts to establish an outgoing Internet connection. You can allow or deny these connections, or define rules to handle future attempts automatically. Little Snitch reliably prevents your private data from being sent out to the Internet without your knowledge.
+### [Micro Snitch | 50% off💸](https://www.obdev.at/shop/index.html) - Micro Snitch is an ultra-light menu bar application that operates inconspicuously in the background. It monitors and reports any microphone and camera activity to help you figure out if someone’s spying on you.
 
 ## 📌 Productivity Software
 ### [FocusList | 60% off 💸](http://focuslist.co) - Daily planner based on Pomodoro technique
