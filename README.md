@@ -141,3 +141,5 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 201
 
 ## 🎁 Bundles
 ### [BundleHunt | 50+% off 💸](https://bundlehunt.com) Create your own bundle from 43 apps including TextSoap, Luminar Flex, Dropshare, Name Mangler, Permute and more
+
+### [Mac All-Star Kit 2019 | 82% off 💸](https://kit.softorino.com) Bundle include WALTR 2, PDF Expert 2, Fantastical 2, DaisyDisk, Aurora HDR '19
