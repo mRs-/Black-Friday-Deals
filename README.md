@@ -21,10 +21,11 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 201
 ### [Git Kraken | 20% off 💰](https://www.gitkraken.com) - Git desktop client for Mac and Windows
 ### [Proxyman | 50% off 💸](https://proxyman.io) - Native, Modern and Delightful Web Debugging Proxy for macOS, iOS, Android.
 ### [SQLPro Studio | 50% off 💸](https://www.sqlprostudio.com/blackfriday.html) - A fully native database client for macOS and iOS.
-### [Paw | 50% off 💸](https://www.macheist.com/sales/paw-the-most-advanced-api-tool-for-mac) - REST Client
+### [Paw | 100% off 💸](https://twitter.com/luckymarmot/status/1200440962163650561) - REST Client
 ### [StudIO Code | 50% off 💸](https://studiocode.app) - The first hackable code editor for iOS
 ### [Charles | 30% off💰](http://charlesproxy.com) - with code CHARLESBLACK19
 ### [RapidWeaver 8 | 30% off 💸](https://www.realmacsoftware.com/black/) - web design software for Mac
+### [Pushever | 30% off 💰](https://apps.apple.com/us/app/pushever-apns-tester/id1455738387) - Mac GUI to test APNS push notification easily
 
 ## 🎛 Utility Software
 ### [Secure ShellFish | 30% off 💰](https://secureshellfish.app/) — SFTP support in Shortcuts & the Files app on iOS
@@ -47,6 +48,8 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 201
 ### [Micro Snitch | 50% off💸](https://www.obdev.at/shop/index.html) - Micro Snitch is an ultra-light menu bar application that operates inconspicuously in the background. It monitors and reports any microphone and camera activity to help you figure out if someone’s spying on you.
 ### [F-Secure Freedome VPN | 50% off💸](https://campaigns.f-secure.com/blackweek/en_global/) - FREEDOME VPN is continuously ranked among the top VPN online privacy apps by experts. Its simple, elegant interface and fast servers make it an easy choice for staying private.
 ### [DaisyDisk | 51% off💸](https://daisydiskapp.com/) - Recover disk space by finding and removing large useless files.
+### [AirBuddy | 20% off 💰](https://gumroad.com/l/airbuddy/BF2019) - The same AirPods experience you have on iOS to the Mac.
+### [SmartNFC | 50% off 💸](https://apps.apple.com/us/app/smart-nfc/id1470146079) - Read, write and interact with NFC tags.
 
 ## 📌 Productivity Software
 ### [FocusList | 60% off 💸](http://focuslist.co) - Daily planner based on Pomodoro technique
@@ -63,6 +66,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 201
 ### [Fantastical, Cardhop and Chatology | 20% off 💰](https://flexibits.com/store) - MacOS/iOS calendar, contacts and chat search apps
 ### [Litur | 50% off 💸](https://apps.apple.com/us/app/litur/id1487096693?ls=1) - Color picker app to find and collect colors around you
 ### [Toothfairy | 20% off 💰](https://apps.apple.com/us/app/toothfairy/id1191449274) - Easily connect Bluetooth devices on your Mac
+### [VivifyScrum | lifetime 50% off 💰](https://www.vivifyscrum.com/using/cyber-monday-2019) - Agile Project Management Software / JIRA alternative
 
 ## 🖥 Virtualization Software
 ### [Parallels Desktop | 20% off 💰](https://www.parallels.com/de/products/desktop/buy/)
@@ -86,6 +90,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 201
 ## 📈 Business Software
 ### [Landlordy Mini/Plus/Pro | 30% off 💰](https://www.landlordy.com) - property management app for private landlords
 ### [Appfigures (All plans) | 50% off 💸](https://appfigures.com/) - App store optimization & analytics tools for mobile app developers
+### [CashNotify | 34% off 💰](https://cashnotify.com/) -  Discount code: BLACK19, monitor your Stripe and Paypal accounts from your menubar.
 
 ## 🏃🏻‍♀️ Health & Fitness Software
 ### [Thirstic | 50% off on Lifetime Premium upgrade 💸](https://thirstic.app) — A smart water reminder app that adapts to your activity and weather
@@ -133,7 +138,10 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 201
 ### [iOS Interview Email Course | 75% off 💸](https://www.waynewbishop.com/ios-interview/course)
 ### [SwiftUI Masterclass: iOS 13 App Development with Swift 5 | $9.99 💸 67% Off](https://www.udemy.com/course/swiftui-masterclass-course-ios-development-with-swift/?couponCode=BLACKFRIDAY2019)
 ### [Applied Network Defense Online Training | 20% off 💸](https://www.networkdefense.io)
+### [Making Sense of Auto Layout | 40% off 💰](https://gum.co/autolayoutgoodies/darkmodefriday)
 ### [Understanding Optionals / Delegate | 40% off 💰](https://optionals.fluffy.es) - Understand how Optionals / nil / Delegate works in Swift
 
 ## 🎁 Bundles
 ### [BundleHunt | 50+% off 💸](https://bundlehunt.com) Create your own bundle from 43 apps including TextSoap, Luminar Flex, Dropshare, Name Mangler, Permute and more
+
+### [Mac All-Star Kit 2019 | 82% off 💸](https://kit.softorino.com) Bundle include WALTR 2, PDF Expert 2, Fantastical 2, DaisyDisk, Aurora HDR '19
