@@ -80,6 +80,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 201
 ### [ImageFramer | 50% off 💸](https://imageframer.net) - Add frames, borders, mats and text to pictures (Mac)
 ### [Luminar | 10% off with free add-ons 💰](https://skylum.com/luminar)
 ### [Tumult Hype Pro (macOS) | 25% off 💰](https://sites.fastspring.com/tumultco/instant/hype4-pro?coupon=CYBERHYPERMONDAY)
+### [VisualEyes - AI design assistant | 30% off 💰](https://www.visualeyes.design/pricing)
 
 ## 📈 Business Software
 ### [Landlordy Mini/Plus/Pro | 30% off 💰](https://www.landlordy.com) - property management app for private landlords
