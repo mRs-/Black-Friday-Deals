@@ -24,6 +24,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 201
 ### [Paw | 50% off 💸](https://www.macheist.com/sales/paw-the-most-advanced-api-tool-for-mac) - REST Client
 ### [StudIO Code | 50% off 💸](https://studiocode.app) - The first hackable code editor for iOS
 ### [Charles | 30% off💰](http://charlesproxy.com) - with code CHARLESBLACK19
+### [RapidWeaver 8 | 30% off 💸](https://www.realmacsoftware.com/black/) - web design software for Mac
 
 ## 🎛 Utility Software
 ### [Secure ShellFish | 30% off 💰](https://secureshellfish.app/) — SFTP support in Shortcuts & the Files app on iOS
