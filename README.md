@@ -50,6 +50,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 201
 ### [DaisyDisk | 51% off💸](https://daisydiskapp.com/) - Recover disk space by finding and removing large useless files.
 ### [AirBuddy | 20% off 💰](https://gumroad.com/l/airbuddy/BF2019) - The same AirPods experience you have on iOS to the Mac.
 ### [SmartNFC | 50% off 💸](https://apps.apple.com/us/app/smart-nfc/id1470146079) - Read, write and interact with NFC tags.
+### [Bitdefender | 50% off💸](https://www.bitdefender.com/solutions/) Antivirus for Mac / Windows / iOS / Android.
 
 ## 📌 Productivity Software
 ### [FocusList | 60% off 💸](http://focuslist.co) - Daily planner based on Pomodoro technique
