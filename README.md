@@ -66,6 +66,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 201
 ### [Fantastical, Cardhop and Chatology | 20% off 💰](https://flexibits.com/store) - MacOS/iOS calendar, contacts and chat search apps
 ### [Litur | 50% off 💸](https://apps.apple.com/us/app/litur/id1487096693?ls=1) - Color picker app to find and collect colors around you
 ### [Toothfairy | 20% off 💰](https://apps.apple.com/us/app/toothfairy/id1191449274) - Easily connect Bluetooth devices on your Mac
+### [Paste fro Mac | 30% off 💰](https://pasteapp.me/) - Cloud clipboard time machine for Mac and iOS 
 ### [VivifyScrum | lifetime 50% off 💰](https://www.vivifyscrum.com/using/cyber-monday-2019) - Agile Project Management Software / JIRA alternative
 
 ## 🖥 Virtualization Software
