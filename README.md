@@ -45,6 +45,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 201
 ### [Little Snitch | 50% off💸](https://www.obdev.at/shop/index.html) - Little Snitch informs you whenever a program attempts to establish an outgoing Internet connection. You can allow or deny these connections, or define rules to handle future attempts automatically. Little Snitch reliably prevents your private data from being sent out to the Internet without your knowledge.
 ### [Micro Snitch | 50% off💸](https://www.obdev.at/shop/index.html) - Micro Snitch is an ultra-light menu bar application that operates inconspicuously in the background. It monitors and reports any microphone and camera activity to help you figure out if someone’s spying on you.
 ### [F-Secure Freedome VPN | 50% off💸](https://campaigns.f-secure.com/blackweek/en_global/) - FREEDOME VPN is continuously ranked among the top VPN online privacy apps by experts. Its simple, elegant interface and fast servers make it an easy choice for staying private.
+### [DaisyDisk | 51% off💸](https://daisydiskapp.com/) - Recover disk space by finding and removing large useless files.
 
 ## 📌 Productivity Software
 ### [FocusList | 60% off 💸](http://focuslist.co) - Daily planner based on Pomodoro technique
