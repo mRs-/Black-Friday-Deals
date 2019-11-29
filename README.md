@@ -21,6 +21,10 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 201
 ### [Git Kraken | 20% off 💰](https://www.gitkraken.com) - Git desktop client for Mac and Windows
 ### [Proxyman | 50% off 💸](https://proxyman.io) - Native, Modern and Delightful Web Debugging Proxy for macOS, iOS, Android.
 ### [SQLPro Studio | 50% off 💸](https://www.sqlprostudio.com/blackfriday.html) - A fully native database client for macOS and iOS.
+### [Paw | 50% off 💸](https://www.macheist.com/sales/paw-the-most-advanced-api-tool-for-mac) - REST Client
+### [StudIO Code | 50% off 💸](https://studiocode.app) - The first hackable code editor for iOS
+### [Charles | 30% off💰](http://charlesproxy.com) - with code CHARLESBLACK19
+### [RapidWeaver 8 | 30% off 💸](https://www.realmacsoftware.com/black/) - web design software for Mac
 
 ## 🎛 Utility Software
 ### [Secure ShellFish | 30% off 💰](https://secureshellfish.app/) — SFTP support in Shortcuts & the Files app on iOS
@@ -37,6 +41,12 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 201
 ### [Banner Hunter (iOS) | 66% off 💸](https://apps.apple.com/us/app/banner-hunter/id1031752878) - Cookie banner blocker for Safari
 ### [Banner Hunter (Mac) | 66% off 💸](https://apps.apple.com/us/app/banner-hunter/id1151217174?mt=12) - Cookie banner blocker for Safari
 ### [Paprika | 50% off on MacOS, iOS, Windows and Android 💸](https://www.paprikaapp.com/blog/2019/11/24/2019-thanksgiving-sale/) - Organize your recipes, make meal plans, and create grocery lists. 
+### [iMazing 2 | 50% off 💸](https://imazing.com/de/store)
+### [KeepSolid VPN | 50% off💸](https://www.keepsolid.com)
+### [Little Snitch | 50% off💸](https://www.obdev.at/shop/index.html) - Little Snitch informs you whenever a program attempts to establish an outgoing Internet connection. You can allow or deny these connections, or define rules to handle future attempts automatically. Little Snitch reliably prevents your private data from being sent out to the Internet without your knowledge.
+### [Micro Snitch | 50% off💸](https://www.obdev.at/shop/index.html) - Micro Snitch is an ultra-light menu bar application that operates inconspicuously in the background. It monitors and reports any microphone and camera activity to help you figure out if someone’s spying on you.
+### [F-Secure Freedome VPN | 50% off💸](https://campaigns.f-secure.com/blackweek/en_global/) - FREEDOME VPN is continuously ranked among the top VPN online privacy apps by experts. Its simple, elegant interface and fast servers make it an easy choice for staying private.
+### [DaisyDisk | 51% off💸](https://daisydiskapp.com/) - Recover disk space by finding and removing large useless files.
 
 ## 📌 Productivity Software
 ### [FocusList | 60% off 💸](http://focuslist.co) - Daily planner based on Pomodoro technique
@@ -48,8 +58,10 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 201
 ### [Phonetrait | 50% off 💸 starting 11/28](https://apps.apple.com/us/app/phonetrait-address-book/id479472176?at=1001ldfc&pt=251505&ct=bfd) - Smart Address Book (iOS)
 ### [Trickster | 50% off 💸](https://www.apparentsoft.com/trickster) - Fast access to Recently Used Files that you care about (Mac)
 ### [Devonthink | 25% off 💰](https://www.devontechnologies.com/blog/20191125-blackfriday)
+### [Unclutter | 50% off 💸 starting 11/28](https://unclutterapp.com) – 3-in-1 productivity tool for daily routine work on a Mac. Clipboard, files, notes – at your fingertips.
 ### [Secrets | 30% off 💰](https://outercorner.com/secrets/) - Password Manager for Mac & iOS
-### [Fantastical, Cardhop and Chatology | 20% off 💰] - MacOS/iOS calendar, contacts and chat search apps
+### [Fantastical, Cardhop and Chatology | 20% off 💰](https://flexibits.com/store) - MacOS/iOS calendar, contacts and chat search apps
+### [Litur | 50% off 💸](https://apps.apple.com/us/app/litur/id1487096693?ls=1) - Color picker app to find and collect colors around you
 
 ## 🖥 Virtualization Software
 ### [Parallels Desktop | 20% off 💰](https://www.parallels.com/de/products/desktop/buy/)
@@ -66,7 +78,8 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 201
 ### [Pixelmator Pro (macOS) | 25% off 💰](https://www.pixelmator.com/pro/buy/)
 ### [Pixelmator Photo (iPad) | Free 💸](https://apps.apple.com/app/pixelmator/id1444636541)
 ### [ImageFramer | 50% off 💸](https://imageframer.net) - Add frames, borders, mats and text to pictures (Mac)
-### [Luminar | 10% off with free add-ons 💰](https://skylum.com/luminar) 
+### [Luminar | 10% off with free add-ons 💰](https://skylum.com/luminar)
+### [Tumult Hype Pro (macOS) | 25% off 💰](https://sites.fastspring.com/tumultco/instant/hype4-pro?coupon=CYBERHYPERMONDAY)
 
 ## 📈 Business Software
 ### [Landlordy Mini/Plus/Pro | 30% off 💰](https://www.landlordy.com) - property management app for private landlords
@@ -113,7 +126,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 201
 ### [raywenderlich.com Complete Collection Book Bundle | 75% off 💸](https://store.raywenderlich.com/products/rw-complete-collection-bundle-2019)
 ### [NSScreencast Subscription | 50% off 💸](https://nsscreencast.com/coupons/blfr19-50) - over 400 videos on iOS development
 ### [Make Money Outside the Mac App Store | 50% off 💸](https://christiantietze.de/books/make-money-outside-mac-app-store-fastspring/) - Set up your own store and make your app ready for sale on your own website
-
-## ☁️ Servers	
-
-## 🛠 Training & Consulting
+### [Modern Auto Layout | 20% off 💰](https://gum.co/albook/blackfriday19)
+### [Swift 5.0 Algorithms and Data Structures | 50% off 💸](https://www.waynewbishop.com/ios-interview/book) - with discount code SWIFT5
+### [iOS Interview Email Course | 75% off 💸](https://www.waynewbishop.com/ios-interview/course)
+### [SwiftUI Masterclass: iOS 13 App Development with Swift 5 | $9.99 💸 67% Off](https://www.udemy.com/course/swiftui-masterclass-course-ios-development-with-swift/?couponCode=BLACKFRIDAY2019)
