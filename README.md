@@ -134,6 +134,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 201
 ### [iOS Interview Email Course | 75% off 💸](https://www.waynewbishop.com/ios-interview/course)
 ### [SwiftUI Masterclass: iOS 13 App Development with Swift 5 | $9.99 💸 67% Off](https://www.udemy.com/course/swiftui-masterclass-course-ios-development-with-swift/?couponCode=BLACKFRIDAY2019)
 ### [Applied Network Defense Online Training | 20% off 💸](https://www.networkdefense.io)
+### [Making Sense of Auto Layout | 40% off 💰](https://gum.co/autolayoutgoodies/darkmodefriday)
 
 ## 🎁 Bundles
 ### [BundleHunt | 50+% off 💸](https://bundlehunt.com) Create your own bundle from 43 apps including TextSoap, Luminar Flex, Dropshare, Name Mangler, Permute and more
