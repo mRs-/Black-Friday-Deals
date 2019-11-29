@@ -98,6 +98,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 201
 
 ## 🏃🏻‍♀️ Health & Fitness Software
 ### [Thirstic | 50% off on Lifetime Premium upgrade 💸](https://thirstic.app) — A smart water reminder app that adapts to your activity and weather
+### [ActivityChamp | 66% off 💸](https://apps.apple.com/us/app/activitychamp/id1481461808?mt=8&ls=1) - Track monthly Activity challenges that your Apple Watch gives you
 
 ## 📖 Books and Videos
 ### [The Swift Power Pack (includes six books) | 50% off 💸](https://gumroad.com/l/swift-power-pack/blackfriday19)
