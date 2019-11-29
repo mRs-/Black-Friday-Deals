@@ -119,3 +119,5 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 201
 ### [NSScreencast Subscription | 50% off 💸](https://nsscreencast.com/coupons/blfr19-50) - over 400 videos on iOS development
 ### [Make Money Outside the Mac App Store | 50% off 💸](https://christiantietze.de/books/make-money-outside-mac-app-store-fastspring/) - Set up your own store and make your app ready for sale on your own website
 ### [Modern Auto Layout | 20% off 💰](https://gum.co/albook/blackfriday19)
+### [Swift 5.0 Algorithms and Data Structures | 50% off 💸](https://www.waynewbishop.com/ios-interview/book) - with discount code SWIFT5
+### [iOS Interview Email Course | 75% off 💸](https://www.waynewbishop.com/ios-interview/course)
