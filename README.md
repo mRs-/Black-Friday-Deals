@@ -52,6 +52,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 201
 ### [SmartNFC | 50% off 💸](https://apps.apple.com/us/app/smart-nfc/id1470146079) - Read, write and interact with NFC tags.
 ### [Bitdefender | 50% off💸](https://www.bitdefender.com/solutions/) Antivirus for Mac / Windows / iOS / Android.
 ### [ShutterCheck | 20% off 💰](https://shuttercheck.app) — Get shutter actuations count of your Canon EOS camera
+### [Royal TSX | 50% off 💸](https://twitter.com/royalapps/status/1200323464009310209?s=20) - Powerful RDP, VNC, SSH, telnet, S/FTP and SCP client
 
 ## 📌 Productivity Software
 ### [FocusList | 60% off 💸](http://focuslist.co) - Daily planner based on Pomodoro technique
@@ -74,6 +75,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 201
 
 ## 🖥 Virtualization Software
 ### [Parallels Desktop | 20% off 💰](https://www.parallels.com/de/products/desktop/buy/)
+### [VMWare Fusion| 30% off 💰](https://store.vmware.com/store?Action=home&Locale=en_IE&SiteID=vmwde)
 
 ## 🎨 Graphic Software
 ### [Adobe CC All Products Plan | 40% off 💰](https://www.adobe.com/creativecloud/plans.html?red=a&red=a)
