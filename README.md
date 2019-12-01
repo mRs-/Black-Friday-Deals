@@ -93,6 +93,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 201
 ### [Tumult Hype Pro (macOS) | 25% off 💰](https://sites.fastspring.com/tumultco/instant/hype4-pro?coupon=CYBERHYPERMONDAY)
 ### [VisualEyes - AI design assistant | 30% off 💰](https://www.visualeyes.design/pricing)
 ### [PhotoMapper: GPS EXIF Editor (iOS app) | 50% off 💸](https://apps.apple.com/app/photomapper-gps-exif-editor/id1347742014) - Edit the GPS location info of your photos or delete it 
+### [pdfToolbox 50% off 💸] (https://shop.fourpees.com/discount/AML-CYBER-2019?redirect=%2Fproducts%2Fcallas-pdftoolbox-desktop) - pdfToolbox offers powerful, dynamic and easy to integrate PDF processing, from quick visual inspection and fixing to fully unattended processing of thousands of files
 
 ## 📈 Business Software
 ### [Landlordy Mini/Plus/Pro | 30% off 💰](https://www.landlordy.com) - property management app for private landlords
