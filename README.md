@@ -149,6 +149,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 201
 ### [Applied Network Defense Online Training | 20% off 💸](https://www.networkdefense.io)
 ### [Making Sense of Auto Layout | 40% off 💰](https://gum.co/autolayoutgoodies/darkmodefriday)
 ### [Understanding Optionals / Delegate | 40% off 💰](https://optionals.fluffy.es) - Understand how Optionals / nil / Delegate works in Swift
+### [Beginning Machine Learning with TensorFlow.js | $100 off 💰](https://academy.infinite.red/p/beginning-machine-learning-with-tensorflow-js)
 
 ## 🎁 Bundles
 ### [BundleHunt | 50+% off 💸](https://bundlehunt.com) Create your own bundle from 43 apps including TextSoap, Luminar Flex, Dropshare, Name Mangler, Permute and more
