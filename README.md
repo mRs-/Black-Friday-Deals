@@ -70,8 +70,9 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 201
 ### [Litur | 50% off 💸](https://apps.apple.com/us/app/litur/id1487096693?ls=1) - Color picker app to find and collect colors around you
 ### [Toothfairy | 20% off 💰](https://apps.apple.com/us/app/toothfairy/id1191449274) - Easily connect Bluetooth devices on your Mac
 ### [Paste for Mac | 30% off 💰](https://pasteapp.me/) - Cloud clipboard time machine for Mac and iOS 
-### [VivifyScrum | lifetime 50% off 💰](https://www.vivifyscrum.com/using/cyber-monday-2019) - Agile Project Management Software / JIRA alternative
+### [VivifyScrum | lifetime 50% off 💸](https://www.vivifyscrum.com/using/cyber-monday-2019) - Agile Project Management Software / JIRA alternative
 ### [SmallCubed MailSuite | 50% off  💸](https://sites.fastspring.com/smallcubed/product/scs2019?coupon=BLACK19) - Apple Mail productivity plugin that adds much needed functionality to Apple’s Mail.app.
+### [Deckset | 50% off 💸](https://www.deckset.com/buy/)
 
 ## 🖥 Virtualization Software
 ### [Parallels Desktop | 20% off 💰](https://www.parallels.com/de/products/desktop/buy/)
