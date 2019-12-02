@@ -104,6 +104,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 201
 ### [ActivityChamp | 66% off 💸](https://apps.apple.com/us/app/activitychamp/id1481461808?mt=8&ls=1) - Track monthly Activity challenges that your Apple Watch gives you
 
 ## 📖 Books and Videos
+### [Beginning Machine Learning with TensorFlow.js | $100 off 💰](https://academy.infinite.red/p/beginning-machine-learning-with-tensorflow-js)
 ### [The Swift Power Pack (includes six books) | 50% off 💸](https://gumroad.com/l/swift-power-pack/blackfriday19)
 ### [The Swift Platform Pack (includes six books) | 50% off 💸](https://gumroad.com/l/swift-platform-pack/blackfriday19)
 ### [The Swift Plus Pack (includes six books) | 50% off 💸](https://gumroad.com/l/swift-plus-pack/blackfriday19)
