@@ -29,6 +29,8 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 
 ### [Color UI | 50% off IAP 💰](https://apps.apple.com/app/id1092899208) – Colorful. Powerful. Wonderful! Color palettes made effortless. (macOS)
 
+### [Adobe Creative Cloud | 20% off (EU) / 25% off (US) 💰](https://www.adobe.com/creativecloud.html)
+
 ## 🎓 Reference & Education
 
 ### [V for Wikipedia | 50% off 💰](https://apps.apple.com/app/id993435362) — Read Wikipedia, better than ever (iOS)
