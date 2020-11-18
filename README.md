@@ -19,6 +19,8 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 
 ## 📌 Productivity Software
 
+### [Theine | 50% off 💰](https://apps.apple.com/app/id955848755) – Keeps Your Mac Awake (macOS)
+
 ## 🖥 Virtualization Software
 
 ## 🎨 Graphic Software
