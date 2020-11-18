@@ -17,11 +17,23 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 
 ### [Hummingbird | 33% off 💰](https://hbird.app) - Make macOS window management a breeze
 
+### [All Windows Appear | 50% off 💰](https://apps.apple.com/app/id1494564769) – Classic Window Behavior (macOS)
+
 ## 📌 Productivity Software
+
+### [Theine | 50% off 💰](https://apps.apple.com/app/id955848755) – Keeps Your Mac Awake (macOS)
 
 ## 🖥 Virtualization Software
 
 ## 🎨 Graphic Software
+
+### [Entity Pro | 50% off 💰](https://apps.apple.com/app/id1503988785) – Glyph & Emoji Finder (macOS)
+
+### [Color UI | 50% off IAP 💰](https://apps.apple.com/app/id1092899208) – Colorful. Powerful. Wonderful! Color palettes made effortless. (macOS)
+
+## 🎓 Reference & Education
+
+### [V for Wikipedia | 50% off 💰](https://apps.apple.com/app/id993435362) — Read Wikipedia, better than ever (iOS)
 
 ## 📈 Business Software
 
