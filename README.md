@@ -23,6 +23,8 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 
 ## 🎨 Graphic Software
 
+### [Entity Pro | 50% off 💰](https://apps.apple.com/app/id1503988785) – Glyph & Emoji Finder
+
 ## 📈 Business Software
 
 ## 🏃🏻‍♀️ Health & Fitness Software
