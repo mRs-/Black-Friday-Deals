@@ -15,6 +15,8 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 
 ## 🎛 Utility Software
 
+### [Hummingbird | 33% off 💰](https://hbird.app) - Make macOS window management a breeze
+
 ## 📌 Productivity Software
 
 ## 🖥 Virtualization Software
