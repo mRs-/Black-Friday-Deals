@@ -35,9 +35,8 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 
 ### [V for Wikipedia | 50% off 💰](https://apps.apple.com/app/id993435362) — Read Wikipedia, better than ever (iOS)
 
-## 📖 Books and Videos
+## 📖 Books
 
-### [Hacking with Swift+ Annual Subscription | $40 off 💰](https://gumroad.com/l/hws-subscription?yearly=true)
 ### [The Swift Power Pack (includes six books) | 50% off 💸](https://gumroad.com/l/swift-power-pack/blackfriday20)
 ### [The Swift Platform Pack (includes six books) | 50% off 💸](https://gumroad.com/l/swift-platform-pack/blackfriday20)
 ### [The Swift Plus Pack (includes six books) | 50% off 💸](https://gumroad.com/l/swift-plus-pack/blackfriday20)
@@ -58,7 +57,12 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ### [Swift in Sixty Seconds | 50% off 💸](https://gumroad.com/l/sixty/blackfriday20)
 ### [Objective-C for Swift Developers | 50% off 💸](https://gumroad.com/l/objcswift/blackfriday20)
 ### [Beyond Code | 50% off 💸](https://gumroad.com/l/beyondcode/blackfriday20)
+
+## 👩‍🎓 Courses and Videos
+
+### [Hacking with Swift+ Annual Subscription | $40 off 💰](https://gumroad.com/l/hws-subscription?yearly=true)
 ### [SwiftUI Masterclass Course | 60% off 💸](https://swiftuimasterclass.com)
+
 
 ## 🖥 Virtualization Software
 
