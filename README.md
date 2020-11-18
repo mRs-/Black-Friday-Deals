@@ -17,6 +17,8 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 
 ### [Hummingbird | 33% off 💰](https://hbird.app) - Make macOS window management a breeze
 
+### [All Windows Appear | 50% off 💰](https://apps.apple.com/app/id1494564769?ct=ixeau) – Classic Window Behavior (macOS)
+
 ## 📌 Productivity Software
 
 ### [Theine | 50% off 💰](https://apps.apple.com/app/id955848755) – Keeps Your Mac Awake (macOS)
