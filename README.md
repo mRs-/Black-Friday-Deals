@@ -23,8 +23,6 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 
 ### [Theine | 50% off 💰](https://apps.apple.com/app/id955848755) – Keeps Your Mac Awake (macOS)
 
-## 🖥 Virtualization Software
-
 ## 🎨 Graphic Software
 
 ### [Entity Pro | 50% off 💰](https://apps.apple.com/app/id1503988785) – Glyph & Emoji Finder (macOS)
@@ -34,10 +32,6 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ## 🎓 Reference & Education
 
 ### [V for Wikipedia | 50% off 💰](https://apps.apple.com/app/id993435362) — Read Wikipedia, better than ever (iOS)
-
-## 📈 Business Software
-
-## 🏃🏻‍♀️ Health & Fitness Software
 
 ## 📖 Books and Videos
 
@@ -63,6 +57,11 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ### [Objective-C for Swift Developers | 50% off 💸](https://gumroad.com/l/objcswift/blackfriday20)
 ### [Beyond Code | 50% off 💸](https://gumroad.com/l/beyondcode/blackfriday20)
 
+## 🖥 Virtualization Software
+
+## 📈 Business Software
+
+## 🏃🏻‍♀️ Health & Fitness Software
 
 ## 🎁 Bundles
 
