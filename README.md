@@ -11,6 +11,8 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 
 ## 🛠 Development Software
 
+### [Proxyman | 30% off 💰](https://proxyman.io) - Native and Modern Web Debugging Proxy for macOS, iOS and Android. Use code **PROXYMAN_BLACK_FRIDAY_2020**
+
 ## 🎛 Utility Software
 
 ## 📌 Productivity Software
