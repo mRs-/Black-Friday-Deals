@@ -62,6 +62,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 
 ### [Hacking with Swift+ Annual Subscription | $40 off 💰](https://gumroad.com/l/hws-subscription?yearly=true)
 ### [SwiftUI Masterclass Course | 60% off 💸](https://swiftuimasterclass.com)
+### [Combine Swift • Complete Course | $40 off 💰](https://combineswift.com)
 
 
 ## 🖥 Virtualization Software
