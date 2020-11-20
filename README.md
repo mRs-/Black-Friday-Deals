@@ -61,6 +61,15 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ### 💸 [Beyond Code](https://gumroad.com/l/beyondcode/blackfriday20) · 50% off
 ### 💸 [Making Sense of Auto Layout](https://autolayout.fluffy.es) · 50% off
 ### 💸 [Practical Sign in with Apple](https://siwa.fluffy.es) · 50% off
+### 💰 [Pragmatic Bookshelf (all ebooks and audiobooks)](https://pragprog.com) · 40% off · Code: turkeysale2020
+For example:
+
+* Daniel Steinberg: [_A Swift Kickstart_](https://pragprog.com/titles/d-dsswift2/a-swift-kickstart-second-edition/) and [_A SwiftUI Kickstart_](https://pragprog.com/titles/d-dsswiftui/a-swiftui-kickstart/)
+* Erica Sadun: [_Swift Style_](https://pragprog.com/titles/esswift2/swift-style-second-edition/)
+* Dominik Hauser: [_Build Location-Based Projects for iOS_](https://pragprog.com/titles/dhios/build-location-based-projects-for-ios/)
+* Tammy Coron: [_Apple Game Frameworks and Technologies_](https://pragprog.com/titles/tcswift/apple-game-frameworks-and-technologies/)
+* Chris Adamson: [_Xcode Treasures_](https://pragprog.com/titles/caxcode/xcode-treasures/)
+* Marcus Zarra: [_Core Data in Swift_](https://pragprog.com/titles/mzswift/core-data-in-swift/)
 
 ## 👩‍🎓 Courses and Videos
 
