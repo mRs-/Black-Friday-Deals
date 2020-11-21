@@ -61,6 +61,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ### [Beyond Code | 50% off 💸](https://gumroad.com/l/beyondcode/blackfriday20)
 ### [Making Sense of Auto Layout | 50% off 💸](https://autolayout.fluffy.es)
 ### [Practical Sign in with Apple | 50% off 💸](https://siwa.fluffy.es)
+### [iOS Unit Testing by Example | 40% off 💰(coupon code: turkeysale2020)](https://pragprog.com/titles/jrlegios/ios-unit-testing-by-example/)
 
 ## 👩‍🎓 Courses and Videos
 
