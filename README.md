@@ -12,6 +12,8 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ## 🛠 Development Software
 
 ### [Proxyman | 30% off 💰](https://proxyman.io) - Native and Modern Web Debugging Proxy for macOS, iOS and Android. Use code **PROXYMAN_BLACK_FRIDAY_2020**
+### [SQLPro Studio | 50% off 💸](https://www.sqlprostudio.com/blackfriday.html) - A fully native database client for macOS and iOS.
+
 
 ## 🎛 Utility Software
 
@@ -24,7 +26,6 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 
 ### [Theine | 50% off 💰](https://apps.apple.com/app/id955848755) – Keeps Your Mac Awake (macOS)
 ### [SpamSieve & EagleFiler | 25% off 💰](https://c-command.com/store/sale) - E-mail spam filtering / Organize files, archive e-mails, save Web pages and notes, search everything. (macOS)
-
 
 ## 🎨 Graphic Software
 
