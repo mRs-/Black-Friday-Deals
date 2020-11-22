@@ -12,18 +12,21 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ## 🛠 Development Software
 
 ### [Proxyman | 30% off 💰](https://proxyman.io) - Native and Modern Web Debugging Proxy for macOS, iOS and Android. Use code **PROXYMAN_BLACK_FRIDAY_2020**
+### [SQLPro Studio | 50% off 💸](https://www.sqlprostudio.com/blackfriday.html) - A fully native database client for macOS and iOS.
+### [DropDMG | 25% off 💰](https://c-command.com/store/sale) - Create Mac disk images (.dmg files) (macOS)
 
 ## 🎛 Utility Software
 
 ### [Hummingbird | 33% off 💰](https://hbird.app) - Make macOS window management a breeze
 ### [Fontastic | 100% off 💸](https://apps.apple.com/app/id1537294729) - Browse & install 1000+ fonts for iPad and iPhone (iOS)
-
-
 ### [All Windows Appear | 50% off 💰](https://apps.apple.com/app/id1494564769) – Classic Window Behavior (macOS)
+### [SpamSieve | 25% off 💰](https://c-command.com/store/sale) - E-mail spam filtering for Mac
+### [DaisyDisk | 50% off 💸](https://daisydiskapp.com/?purchase=1&couponCode=DDHALLOWEEN20-2) - Visualize disk space usage (macOS)
 
 ## 📌 Productivity Software
 
 ### [Theine | 50% off 💰](https://apps.apple.com/app/id955848755) – Keeps Your Mac Awake (macOS)
+### [EagleFiler | 25% off 💰](https://c-command.com/store/sale) - Organize files/notes and archive e-mails (Mac)
 
 ## 🎨 Graphic Software
 
@@ -77,4 +80,5 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ## 🏃🏻‍♀️ Health & Fitness Software
 
 ## 🎁 Bundles
+### [BundleHunt | 50+% off 💸](https://bundlehunt.com) Create your own bundle from 49 apps including BetterZip, Screens, PhotoMill, Name Mangler and more
 
