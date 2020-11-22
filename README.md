@@ -18,11 +18,13 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ### [Hummingbird | 33% off 💰](https://hbird.app) - Make macOS window management a breeze
 ### [Fontastic | 100% off 💸](https://apps.apple.com/app/id1537294729) - Browse & install 1000+ fonts for iPad and iPhone (iOS)
 ### [All Windows Appear | 50% off 💰](https://apps.apple.com/app/id1494564769) – Classic Window Behavior (macOS)
-### [DropDMG | 25% off 💰](https://c-command.com/store/sale) - Create Mac disk images (.dmg files)
+### [DropDMG | 25% off 💰](https://c-command.com/store/sale) - Create Mac disk images (.dmg files) (macOS)
 
 ## 📌 Productivity Software
 
 ### [Theine | 50% off 💰](https://apps.apple.com/app/id955848755) – Keeps Your Mac Awake (macOS)
+### [SpamSieve & EagleFiler | 25% off 💰](https://c-command.com/store/sale) - E-mail spam filtering / Organize files, archive e-mails, save Web pages and notes, search everything. (macOS)
+
 
 ## 🎨 Graphic Software
 
