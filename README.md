@@ -21,6 +21,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ### [Fontastic | 100% off 💸](https://apps.apple.com/app/id1537294729) - Browse & install 1000+ fonts for iPad and iPhone (iOS)
 ### [All Windows Appear | 50% off 💰](https://apps.apple.com/app/id1494564769) – Classic Window Behavior (macOS)
 ### [SpamSieve | 25% off 💰](https://c-command.com/store/sale) - E-mail spam filtering for Mac
+### [DaisyDisk | 50% off 💸](https://daisydiskapp.com/?purchase=1&couponCode=DDHALLOWEEN20-2) - Visualize disk space usage (macOS)
 
 ## 📌 Productivity Software
 
