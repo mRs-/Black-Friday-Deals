@@ -80,4 +80,5 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ## 🏃🏻‍♀️ Health & Fitness Software
 
 ## 🎁 Bundles
+### [BundleHunt | 50+% off 💸](https://bundlehunt.com) Create your own bundle from 49 apps including BetterZip, Screens, PhotoMill, Name Mangler and more
 
