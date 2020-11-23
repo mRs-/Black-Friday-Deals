@@ -11,6 +11,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 
 ## 🛠 Development Software
 
+### 💸 [Tower](https://www.git-tower.com) - Powerful, native Git desktop GUI (macOS) · 50% off
 ### 💰 [Proxyman](https://proxyman.io) - Native and Modern Web Debugging Proxy for macOS, iOS and Android. · 30% off · Code: **PROXYMAN_BLACK_FRIDAY_2020**
 ### 💸 [SQLPro Studio](https://www.sqlprostudio.com/blackfriday.html) - A fully native database client for macOS and iOS. · 50% off
 ### 💰 [DropDMG](https://c-command.com/store/sale) - Create Mac disk images (.dmg files) (macOS) · 25% off
