@@ -16,6 +16,8 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ### 💰 [DropDMG](https://c-command.com/store/sale) - Create Mac disk images (.dmg files) (macOS) · 25% off
 ### 💸 [Tower](https://www.git-tower.com) - Powerful, native Git desktop GUI (macOS) · 50% off
 ### 💰 [Pushever](https://apps.apple.com/us/app/pushever-apns-tester/id1455738387) - Mac GUI to test APNS push notification easily · 30% off
+### 💸 [Ozcode](https://oz-code.com) - Disruptive debugging platform for .NET applications both on-premises and in the cloud. · 50% off · Code: *OZBF2020**
+
 
 ## 🎛 Utility Software
 
