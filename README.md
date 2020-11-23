@@ -96,3 +96,6 @@ For example:
 ## 🎁 Bundles
 ### [BundleHunt | 50+% off 💸](https://bundlehunt.com) Create your own bundle from 49 apps including BetterZip, Screens, PhotoMill, Name Mangler and more
 
+## 🕶 Lifestyle
+
+### [Paprika 3 | 50% off] (https://www.paprikaapp.com) Paprika is an app that helps you organize your recipes, make meal plans, and create grocery lists. Using Paprika's built-in browser, you can save recipes from anywhere on the web. Apps for iOS, macOS, Android and Windows.
