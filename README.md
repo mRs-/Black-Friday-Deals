@@ -90,10 +90,11 @@ For example:
 ### 💰 [Combine Swift • Complete Course](https://combineswift.com) · $40 off
 ### 💸 [raywenderlich.com Yearly Ultimate Subscriptions](https://store.raywenderlich.com/products/subscription) · Ultimate Book and Video subscriptions · 50% off
 
-
 ## 🖥 Virtualization Software
 
 ## 📈 Business Software
+
+### 💸 [Appfigures - App Store Optimization and Intelligence](https://appfigures.com/) · 50% off · Code: **BLACK_FRIDAY_2020**
 
 ## 🏃🏻‍♀️ Health & Fitness Software
 
