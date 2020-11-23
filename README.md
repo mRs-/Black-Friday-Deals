@@ -71,6 +71,8 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ### 💸 [Making Sense of Auto Layout](https://autolayout.fluffy.es) · 50% off
 ### 💸 [Practical Sign in with Apple](https://siwa.fluffy.es) · 50% off
 ### 💰 [Pragmatic Bookshelf (all ebooks and audiobooks)](https://pragprog.com) · 40% off · Code: turkeysale2020
+### 💸 [Swift Algorithms & Data Structures](https://www.waynewbishop.com/ios-interview/book) · 50% off · Code: SWIFT5
+
 For example:
 
 * Daniel Steinberg: [_A Swift Kickstart_](https://pragprog.com/titles/d-dsswift2/a-swift-kickstart-second-edition/) and [_A SwiftUI Kickstart_](https://pragprog.com/titles/d-dsswiftui/a-swiftui-kickstart/)
@@ -89,6 +91,7 @@ For example:
 ### 💸 [SwiftUI Masterclass Course](https://swiftuimasterclass.com) · 60% off
 ### 💰 [Combine Swift • Complete Course](https://combineswift.com) · $40 off
 ### 💸 [raywenderlich.com Yearly Ultimate Subscriptions](https://store.raywenderlich.com/products/subscription) · Ultimate Book and Video subscriptions · 50% off
+### 💸 [Swift Essentials * Complete Course](https://www.waynewbishop.com/ios-interview/book) · 50% off · Code: SWIFT5
 
 
 ## 🖥 Virtualization Software
