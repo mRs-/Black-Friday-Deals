@@ -93,6 +93,8 @@ For example:
 
 ## 🏃🏻‍♀️ Health & Fitness Software
 
+### 💸 [MindGarden: Daily Affirmations • Develop a positive mindset](https://apps.apple.com/us/app/mindgarden-daily-affirmations/id1523218841#?platform=iphone) · Lifetime access 80% off
+
 ## 🎁 Bundles
 ### 💸[BundleHunt](https://bundlehunt.com) Create your own bundle from 49 apps including BetterZip, Screens, PhotoMill, Name Mangler and more · 50+% off
 
