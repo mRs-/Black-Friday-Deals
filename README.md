@@ -78,7 +78,7 @@ For example:
 * Marcus Zarra: [_Core Data in Swift_](https://pragprog.com/titles/mzswift/core-data-in-swift/)
 ### 💰 [iOS Unit Testing by Example](https://pragprog.com/titles/jrlegios/ios-unit-testing-by-example/) · 40% off · Code: turkeysale2020
 ### 💸 [raywenderlich.com (all individual books)](https://www.raywenderlich.com/library?content_types%5B%5D=product)  · 50% off
-
+### 💸 [Practical Combine](https://gumroad.com/l/practical-combine/blackfriday2020) · 25% off
 
 ## 👩‍🎓 Courses and Videos
 
