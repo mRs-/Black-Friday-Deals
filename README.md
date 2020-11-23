@@ -12,18 +12,22 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ## 🛠 Development Software
 
 ### 💰 [Proxyman](https://proxyman.io) - Native and Modern Web Debugging Proxy for macOS, iOS and Android. · 30% off · Code: **PROXYMAN_BLACK_FRIDAY_2020**
+### 💸 [SQLPro Studio](https://www.sqlprostudio.com/blackfriday.html) - A fully native database client for macOS and iOS. · 50% off
+### 💰 [DropDMG](https://c-command.com/store/sale) - Create Mac disk images (.dmg files) (macOS) · 25% off
 
 ## 🎛 Utility Software
 
 ### 💰 [Hummingbird](https://hbird.app) – Make macOS window management a breeze · 33% off
 ### 💸 [Fontastic](https://apps.apple.com/app/id1537294729) – Browse & install 1000+ fonts for iPad and iPhone (iOS) · 100% off
-
-
 ### 💰 [All Windows Appear](https://apps.apple.com/app/id1494564769) – Classic Window Behavior (macOS) · 50% off
+### 💰 [SpamSieve](https://c-command.com/store/sale) - E-mail spam filtering for Mac · 25% off
+### 💸 [DaisyDisk](https://daisydiskapp.com/?purchase=1&couponCode=DDHALLOWEEN20-2) - Visualize disk space usage (macOS) · 50% off
+### 💸 [iStat Menus](https://itunes.apple.com/app/id1319778037?at=11l3KP&mt=12&uo=4&ct=1) - The most powerful system monitoring app for macOS · 50% off
 
 ## 📌 Productivity Software
 
 ### 💰 [Theine](https://apps.apple.com/app/id955848755) – Keeps Your Mac Awake (macOS) · 50% off
+### 💰 [EagleFiler](https://c-command.com/store/sale) - Organize files/notes and archive e-mails (Mac) · 25% off
 
 ## 🎨 Graphic Software
 
@@ -70,6 +74,9 @@ For example:
 * Tammy Coron: [_Apple Game Frameworks and Technologies_](https://pragprog.com/titles/tcswift/apple-game-frameworks-and-technologies/)
 * Chris Adamson: [_Xcode Treasures_](https://pragprog.com/titles/caxcode/xcode-treasures/)
 * Marcus Zarra: [_Core Data in Swift_](https://pragprog.com/titles/mzswift/core-data-in-swift/)
+### 💰 [iOS Unit Testing by Example](https://pragprog.com/titles/jrlegios/ios-unit-testing-by-example/) · 40% off · Code: turkeysale2020
+
+
 
 ## 👩‍🎓 Courses and Videos
 
@@ -85,4 +92,5 @@ For example:
 ## 🏃🏻‍♀️ Health & Fitness Software
 
 ## 🎁 Bundles
+### [BundleHunt | 50+% off 💸](https://bundlehunt.com) Create your own bundle from 49 apps including BetterZip, Screens, PhotoMill, Name Mangler and more
 
