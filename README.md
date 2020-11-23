@@ -34,10 +34,11 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ## 🎨 Graphic Software
 
 ### 💰 [Entity Pro](https://apps.apple.com/app/id1503988785) – Glyph & Emoji Finder (macOS) · 50% off
-
 ### 💰 [Color UI](https://apps.apple.com/app/id1092899208) – Colorful. Powerful. Wonderful! Color palettes made effortless. (macOS) · 50% off IAP
-
 ### 💰 [Adobe Creative Cloud](https://www.adobe.com/creativecloud.html) · 20% off (EU) / 25% off (US)
+### 💰 [Affinity Designer](https://affinity.serif.com/en-us/designer) – Create concept art, print projects, logos, icons, UI designs, mock-ups and more · 30% off
+### 💰 [Affinity Photo](https://affinity.serif.com/en-us/photo) - The fastest, smoothest and most precise image editing software around · 30% off
+### 💰 [Affinity Publisher](https://affinity.serif.com/en-us/publisher) - The next generation of professional publishing software · 30% off
 
 ## 🎓 Reference & Education
 
