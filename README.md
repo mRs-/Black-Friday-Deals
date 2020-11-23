@@ -24,7 +24,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ### 💰 [All Windows Appear](https://apps.apple.com/app/id1494564769) – Classic Window Behavior (macOS) · 50% off
 ### 💰 [SpamSieve](https://c-command.com/store/sale) - E-mail spam filtering for Mac · 25% off
 ### 💸 [DaisyDisk](https://daisydiskapp.com/?purchase=1&couponCode=DDHALLOWEEN20-2) - Visualize disk space usage (macOS) · 50% off
-### 💸 [iStat Menus](https://itunes.apple.com/app/id1319778037?at=11l3KP&mt=12&uo=4&ct=1) - The most powerful system monitoring app for macOS · 50% off
+### 💸 [iStat Menus](https://bjango.com/mac/istatmenus/) - The most powerful system monitoring app for macOS · 66% off
 
 ## 📌 Productivity Software
 
