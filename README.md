@@ -77,7 +77,7 @@ For example:
 * Chris Adamson: [_Xcode Treasures_](https://pragprog.com/titles/caxcode/xcode-treasures/)
 * Marcus Zarra: [_Core Data in Swift_](https://pragprog.com/titles/mzswift/core-data-in-swift/)
 ### 💰 [iOS Unit Testing by Example](https://pragprog.com/titles/jrlegios/ios-unit-testing-by-example/) · 40% off · Code: turkeysale2020
-
+### 💸 [raywenderlich.com (all individual books)](https://www.raywenderlich.com/library?content_types%5B%5D=product)  · 50% off
 
 
 ## 👩‍🎓 Courses and Videos
@@ -85,6 +85,7 @@ For example:
 ### 💰 [Hacking with Swift+ Annual Subscription](https://gumroad.com/l/hws-subscription?yearly=true) · $40 off
 ### 💸 [SwiftUI Masterclass Course](https://swiftuimasterclass.com) · 60% off
 ### 💰 [Combine Swift • Complete Course](https://combineswift.com) · $40 off
+### 💸 [raywenderlich.com Yearly Ultimate Subscriptions](https://store.raywenderlich.com/products/subscription) · Ultimate Book and Video subscriptions · 50% off
 
 
 ## 🖥 Virtualization Software
