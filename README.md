@@ -89,7 +89,7 @@ For example:
 
 ### 💰 [Hacking with Swift+ Annual Subscription](https://gumroad.com/l/hws-subscription?yearly=true) · $40 off
 ### 💸 [SwiftUI Masterclass Course](https://swiftuimasterclass.com) · 60% off
-### 💰 [Combine Swift • Complete Course](https://combineswift.com) · $40 off
+### 💰 [Combine Swift • Complete Course](https://combineswift.com) · $40 off Code: `WGAX5K8E`
 ### 💸 [raywenderlich.com Yearly Ultimate Subscriptions](https://store.raywenderlich.com/products/subscription) · Ultimate Book and Video subscriptions · 50% off
 ### 💸 [Swift Essentials * Complete Course](https://www.waynewbishop.com/ios-interview/book) · 50% off · Code: SWIFT5
 ### 💰 [Scrum Master Certification * Giora Morein](https://csm.thinklouder.com/class) · 15% off · Code: BLACKFRIDAY
