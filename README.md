@@ -93,10 +93,11 @@ For example:
 ### 💸 [raywenderlich.com Yearly Ultimate Subscriptions](https://store.raywenderlich.com/products/subscription) · Ultimate Book and Video subscriptions · 50% off
 ### 💸 [Swift Essentials * Complete Course](https://www.waynewbishop.com/ios-interview/book) · 50% off · Code: SWIFT5
 
-
 ## 🖥 Virtualization Software
 
 ## 📈 Business Software
+
+### 💸 [Appfigures - App Store Optimization and Intelligence](https://appfigures.com/) · 50% off · Code: **BLACK_FRIDAY_2020**
 
 ## 🏃🏻‍♀️ Health & Fitness Software
 
