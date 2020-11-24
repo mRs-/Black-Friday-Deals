@@ -17,7 +17,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ### 💸 [Tower](https://www.git-tower.com) - Powerful, native Git desktop GUI (macOS) · 50% off
 ### 💰 [Pushever](https://apps.apple.com/us/app/pushever-apns-tester/id1455738387) - Mac GUI to test APNS push notification easily · 30% off
 ### 💸 [Ozcode](https://oz-code.com) - Disruptive debugging platform for .NET applications both on-premises and in the cloud. · 50% off · Code: *OZBF2020**
-
+### 💸 [Themesberg](https://themesberg.com/black-friday) - Bootstrap Themes, Admin Dashboard Templates, and UI Kits · 90% off · Code: *No code required*
 
 ## 🎛 Utility Software
 
