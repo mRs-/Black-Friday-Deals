@@ -28,6 +28,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ### 💰 [SpamSieve](https://c-command.com/store/sale) - E-mail spam filtering for Mac · 25% off
 ### 💸 [iStat Menus](https://bjango.com/mac/istatmenus/) - The most powerful system monitoring app for macOS · 66% off
 ### 💸 [Quiet](https://apps.apple.com/app/quiet/id1441525727?mt=8) - Block the annoying parts of the web! (macOS & iOS) · 50% off
+### 💰 [Camo](https://reincubate.com/camo/) - Use your iPhone as a webcam · 40% off (starting Thursday)
 
 ## 📌 Productivity Software
 
