@@ -111,6 +111,8 @@ For example:
 ### 💰 [Scrum Master Certification * Giora Morein](https://csm.thinklouder.com/class) · 15% off · Code: BLACKFRIDAY
 
 ## 🖥 Virtualization Software
+### 💰 [Parallels](https://www.parallels.com/products/desktop/buy/) Virtualization for macOS · 20% off · Discount applied at checkout
+
 
 ## 📈 Business Software
 
