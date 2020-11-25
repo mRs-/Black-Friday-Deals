@@ -74,9 +74,10 @@ For example:
 * Tammy Coron: [_Apple Game Frameworks and Technologies_](https://pragprog.com/titles/tcswift/apple-game-frameworks-and-technologies/)
 * Chris Adamson: [_Xcode Treasures_](https://pragprog.com/titles/caxcode/xcode-treasures/)
 * Marcus Zarra: [_Core Data in Swift_](https://pragprog.com/titles/mzswift/core-data-in-swift/)
+
 ### 💰 [iOS Unit Testing by Example](https://pragprog.com/titles/jrlegios/ios-unit-testing-by-example/) · 40% off · Code: turkeysale2020
-
-
+### 💸 [Apress Cyber Sale](https://apress.com) · Every e-book $6.99 (> 50% off) · Code: CYBER20AP
+### 💰 [Manning Cyber Week Sale](https://manning.com) · 40% off for two or more products
 
 ## 👩‍🎓 Courses and Videos
 
@@ -89,8 +90,11 @@ For example:
 
 ## 📈 Business Software
 
+### 💸 [Fasthosts UK Black Friday Deals](https://www.fasthosts.co.uk) · up to 90% off
+
 ## 🏃🏻‍♀️ Health & Fitness Software
 
 ## 🎁 Bundles
-### [BundleHunt | 50+% off 💸](https://bundlehunt.com) Create your own bundle from 49 apps including BetterZip, Screens, PhotoMill, Name Mangler and more
+
+### 💸 [BundleHunt](https://bundlehunt.com) · 50+% off · Create your own bundle from 49 apps including BetterZip, Screens, PhotoMill, Name Mangler and more
 
