@@ -55,6 +55,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ### 💰 [Morph Age](https://apps.apple.com/app/id413898200) – Image Morphing (macOS) · 40% off
 ### 💸 [ImageFramer](https://imageframer.net) – Frame your images (macOS) · 50% off · Automatically applied
 ### 💰 [Cascable](https://apps.apple.com/us/app/cascable-wifi-camera-remote/id974193500) – Remote control and image downloads from WiFi-enabled cameras (iOS) · 33% off
+### 💰 [Tumult Hype 4 Professional](https://sites.fastspring.com/tumultco/instant/hype4-pro?coupon=CYBERHYPERMONDAY) – HTML5 animation app for (macOS) · 30% off
 
 
 ## 🎓 Reference & Education
