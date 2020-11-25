@@ -40,6 +40,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ### 💰 [Prizmo (Mac)](https://apps.apple.com/app/id546392952) – Pro Scanning and OCR (macOS) · 40% off
 ### 💰 [Shrugs (Mac)](https://shrugs.app) – Basic Client for Slack (macOS) · 20% off
 ### 💰 [DevonThink (Mac)](https://www.devontechnologies.com/blog/20201124-blackfriday) – Knowledge management system (macOS) · 25% off
+### 💸 [TimeStory](https://apps.apple.com/app/timestory/id1470702823) - Create timelines, roadmaps, and plans (Mac) · 50% off
 
 ## 🎨 Graphic Software
 
