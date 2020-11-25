@@ -94,7 +94,10 @@ For example:
 * Tammy Coron: [_Apple Game Frameworks and Technologies_](https://pragprog.com/titles/tcswift/apple-game-frameworks-and-technologies/)
 * Chris Adamson: [_Xcode Treasures_](https://pragprog.com/titles/caxcode/xcode-treasures/)
 * Marcus Zarra: [_Core Data in Swift_](https://pragprog.com/titles/mzswift/core-data-in-swift/)
+
 ### 💰 [iOS Unit Testing by Example](https://pragprog.com/titles/jrlegios/ios-unit-testing-by-example/) · 40% off · Code: turkeysale2020
+### 💸 [Apress Cyber Sale](https://apress.com) · Every e-book $6.99 (> 50% off) · Code: CYBER20AP
+### 💰 [Manning Cyber Week Sale](https://manning.com) · 40% off for two or more products
 ### 💸 [raywenderlich.com (all individual books)](https://www.raywenderlich.com/library?content_types%5B%5D=product)  · 50% off
 ### 💰 [Practical Combine](https://gumroad.com/l/practical-combine/blackfriday2020) · 25% off
 
@@ -111,6 +114,7 @@ For example:
 
 ## 📈 Business Software
 
+### 💸 [Fasthosts UK Black Friday Deals](https://www.fasthosts.co.uk) · up to 90% off
 ### 💸 [Appfigures - App Store Optimization and Intelligence](https://appfigures.com/) · 50% off · Code: **BLACK_FRIDAY_2020**
 
 ## 🏃🏻‍♀️ Health & Fitness Software
@@ -118,7 +122,8 @@ For example:
 ### 💸 [MindGarden: Daily Affirmations • Develop a positive mindset](https://apps.apple.com/us/app/mindgarden-daily-affirmations/id1523218841#?platform=iphone) · Lifetime access 80% off
 
 ## 🎁 Bundles
-### 💸[BundleHunt](https://bundlehunt.com) Create your own bundle from 49 apps including BetterZip, Screens, PhotoMill, Name Mangler and more · 50+% off
+
+### 💸 [BundleHunt](https://bundlehunt.com) Create your own bundle from 49 apps including BetterZip, Screens, PhotoMill, Name Mangler and more · 50+% off
 
 ## 🕶 Lifestyle
 
