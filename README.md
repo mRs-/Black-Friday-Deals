@@ -18,6 +18,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ### 💰 [Pushever](https://apps.apple.com/us/app/pushever-apns-tester/id1455738387) - Mac GUI to test APNS push notification easily · 30% off
 ### 💸 [Ozcode](https://oz-code.com) - Disruptive debugging platform for .NET applications both on-premises and in the cloud. · 50% off · Code: *OZBF2020**
 ### 💸 [Themesberg](https://themesberg.com/black-friday) - Bootstrap Themes, Admin Dashboard Templates, and UI Kits · 90% off · Code: *No code required*
+### 💸 [Woodpecker](https://itunes.apple.com/cn/app/woodpecker/id1333548463?mt=12) - View iOS app's Sandbox files, UserDefaults, Keychain items on Mac. · 50% off
 
 ## 🎛 Utility Software
 
@@ -25,14 +26,19 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ### 💸 [Fontastic](https://apps.apple.com/app/id1537294729) – Browse & install 1000+ fonts for iPad and iPhone (iOS) · 100% off
 ### 💰 [All Windows Appear](https://apps.apple.com/app/id1494564769) – Classic Window Behavior (macOS) · 50% off
 ### 💰 [SpamSieve](https://c-command.com/store/sale) - E-mail spam filtering for Mac · 25% off
-### 💸 [DaisyDisk](https://daisydiskapp.com/?purchase=1&couponCode=DDHALLOWEEN20-2) - Visualize disk space usage (macOS) · 50% off
 ### 💸 [iStat Menus](https://bjango.com/mac/istatmenus/) - The most powerful system monitoring app for macOS · 66% off
+### 💸 [Quiet](https://apps.apple.com/app/quiet/id1441525727?mt=8) - Block the annoying parts of the web! (macOS & iOS) · 50% off
 ### 💰 [Camo](https://reincubate.com/camo/) - Use your iPhone as a webcam · 40% off (starting Thursday)
 
 ## 📌 Productivity Software
 
 ### 💰 [Theine](https://apps.apple.com/app/id955848755) – Keeps Your Mac Awake (macOS) · 50% off
 ### 💰 [EagleFiler](https://c-command.com/store/sale) - Organize files/notes and archive e-mails (Mac) · 25% off
+### 💸 [Inko](https://apps.apple.com/app/id1344902057) – Collaborative Whiteboard, Local and Remote (iOS, macOS) · 50% off yearly plans
+### 💰 [Carbo](https://apps.apple.com/app/id956811074) – Digital Notebook for Handwriting Enthusiasts (iOS, macOS) · 40% off IAP
+### 💰 [Prizmo Go](https://apps.apple.com/app/id1183367390) – Instant Text OCR from Photos (iOS) · 40% off IAP
+### 💰 [Prizmo 5 (iPhone/iPad)](https://apps.apple.com/app/id1460243446) – Pro Scanning and OCR (iOS) · 40% off IAP and yearly cloud plan
+### 💰 [Prizmo (Mac)](https://apps.apple.com/app/id546392952) – Pro Scanning and OCR (macOS) · 40% off
 
 ## 🎨 Graphic Software
 
@@ -42,6 +48,11 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ### 💰 [Affinity Designer](https://affinity.serif.com/en-us/designer) – Create concept art, print projects, logos, icons, UI designs, mock-ups and more · 30% off
 ### 💰 [Affinity Photo](https://affinity.serif.com/en-us/photo) - The fastest, smoothest and most precise image editing software around · 30% off
 ### 💰 [Affinity Publisher](https://affinity.serif.com/en-us/publisher) - The next generation of professional publishing software · 30% off
+### 💰 [Emulsio](https://apps.apple.com/app/id397583851) – Video Stabilizer and Transcoder (iOS) · 40% off IAP
+### 💸 [Hydra (iPhone/iPad)](https://apps.apple.com/app/id947824428) – Amazing Photography (iOS) · 60% off
+### 💸 [Hydra (Mac)](https://apps.apple.com/app/id1111590907) – Pro HDR Photo Studio (macOS) · 50% off
+### 💰 [Morph Age](https://apps.apple.com/app/id413898200) – Image Morphing (macOS) · 40% off
+
 
 ## 🎓 Reference & Education
 
