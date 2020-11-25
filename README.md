@@ -53,6 +53,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ### 💸 [Hydra (iPhone/iPad)](https://apps.apple.com/app/id947824428) – Amazing Photography (iOS) · 60% off
 ### 💸 [Hydra (Mac)](https://apps.apple.com/app/id1111590907) – Pro HDR Photo Studio (macOS) · 50% off
 ### 💰 [Morph Age](https://apps.apple.com/app/id413898200) – Image Morphing (macOS) · 40% off
+### 💸 [ImageFramer](https://imageframer.net) – Frame your images (macOS) · 50% off · Automatically applied
 
 
 ## 🎓 Reference & Education
