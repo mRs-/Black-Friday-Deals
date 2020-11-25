@@ -14,6 +14,11 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ### 💰 [Proxyman](https://proxyman.io) - Native and Modern Web Debugging Proxy for macOS, iOS and Android. · 30% off · Code: **PROXYMAN_BLACK_FRIDAY_2020**
 ### 💸 [SQLPro Studio](https://www.sqlprostudio.com/blackfriday.html) - A fully native database client for macOS and iOS. · 50% off
 ### 💰 [DropDMG](https://c-command.com/store/sale) - Create Mac disk images (.dmg files) (macOS) · 25% off
+### 💸 [Tower](https://www.git-tower.com) - Powerful, native Git desktop GUI (macOS) · 50% off
+### 💰 [Pushever](https://apps.apple.com/us/app/pushever-apns-tester/id1455738387) - Mac GUI to test APNS push notification easily · 30% off
+### 💸 [Ozcode](https://oz-code.com) - Disruptive debugging platform for .NET applications both on-premises and in the cloud. · 50% off · Code: *OZBF2020**
+### 💸 [Themesberg](https://themesberg.com/black-friday) - Bootstrap Themes, Admin Dashboard Templates, and UI Kits · 90% off · Code: *No code required*
+### 💸 [Woodpecker](https://itunes.apple.com/cn/app/woodpecker/id1333548463?mt=12) - View iOS app's Sandbox files, UserDefaults, Keychain items on Mac. · 50% off
 
 ## 🎛 Utility Software
 
@@ -21,21 +26,33 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ### 💸 [Fontastic](https://apps.apple.com/app/id1537294729) – Browse & install 1000+ fonts for iPad and iPhone (iOS) · 100% off
 ### 💰 [All Windows Appear](https://apps.apple.com/app/id1494564769) – Classic Window Behavior (macOS) · 50% off
 ### 💰 [SpamSieve](https://c-command.com/store/sale) - E-mail spam filtering for Mac · 25% off
-### 💸 [DaisyDisk](https://daisydiskapp.com/?purchase=1&couponCode=DDHALLOWEEN20-2) - Visualize disk space usage (macOS) · 50% off
-### 💸 [iStat Menus](https://itunes.apple.com/app/id1319778037?at=11l3KP&mt=12&uo=4&ct=1) - The most powerful system monitoring app for macOS · 50% off
+### 💸 [iStat Menus](https://bjango.com/mac/istatmenus/) - The most powerful system monitoring app for macOS · 66% off
+### 💸 [Quiet](https://apps.apple.com/app/quiet/id1441525727?mt=8) - Block the annoying parts of the web! (macOS & iOS) · 50% off
+### 💰 [Camo](https://reincubate.com/camo/) - Use your iPhone as a webcam · 40% off (starting Thursday)
 
 ## 📌 Productivity Software
 
 ### 💰 [Theine](https://apps.apple.com/app/id955848755) – Keeps Your Mac Awake (macOS) · 50% off
 ### 💰 [EagleFiler](https://c-command.com/store/sale) - Organize files/notes and archive e-mails (Mac) · 25% off
+### 💸 [Inko](https://apps.apple.com/app/id1344902057) – Collaborative Whiteboard, Local and Remote (iOS, macOS) · 50% off yearly plans
+### 💰 [Carbo](https://apps.apple.com/app/id956811074) – Digital Notebook for Handwriting Enthusiasts (iOS, macOS) · 40% off IAP
+### 💰 [Prizmo Go](https://apps.apple.com/app/id1183367390) – Instant Text OCR from Photos (iOS) · 40% off IAP
+### 💰 [Prizmo 5 (iPhone/iPad)](https://apps.apple.com/app/id1460243446) – Pro Scanning and OCR (iOS) · 40% off IAP and yearly cloud plan
+### 💰 [Prizmo (Mac)](https://apps.apple.com/app/id546392952) – Pro Scanning and OCR (macOS) · 40% off
 
 ## 🎨 Graphic Software
 
 ### 💰 [Entity Pro](https://apps.apple.com/app/id1503988785) – Glyph & Emoji Finder (macOS) · 50% off
-
 ### 💰 [Color UI](https://apps.apple.com/app/id1092899208) – Colorful. Powerful. Wonderful! Color palettes made effortless. (macOS) · 50% off IAP
-
 ### 💰 [Adobe Creative Cloud](https://www.adobe.com/creativecloud.html) · 20% off (EU) / 25% off (US)
+### 💰 [Affinity Designer](https://affinity.serif.com/en-us/designer) – Create concept art, print projects, logos, icons, UI designs, mock-ups and more · 30% off
+### 💰 [Affinity Photo](https://affinity.serif.com/en-us/photo) - The fastest, smoothest and most precise image editing software around · 30% off
+### 💰 [Affinity Publisher](https://affinity.serif.com/en-us/publisher) - The next generation of professional publishing software · 30% off
+### 💰 [Emulsio](https://apps.apple.com/app/id397583851) – Video Stabilizer and Transcoder (iOS) · 40% off IAP
+### 💸 [Hydra (iPhone/iPad)](https://apps.apple.com/app/id947824428) – Amazing Photography (iOS) · 60% off
+### 💸 [Hydra (Mac)](https://apps.apple.com/app/id1111590907) – Pro HDR Photo Studio (macOS) · 50% off
+### 💰 [Morph Age](https://apps.apple.com/app/id413898200) – Image Morphing (macOS) · 40% off
+
 
 ## 🎓 Reference & Education
 
@@ -66,6 +83,8 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ### 💸 [Making Sense of Auto Layout](https://autolayout.fluffy.es) · 50% off
 ### 💸 [Practical Sign in with Apple](https://siwa.fluffy.es) · 50% off
 ### 💰 [Pragmatic Bookshelf (all ebooks and audiobooks)](https://pragprog.com) · 40% off · Code: turkeysale2020
+### 💸 [Swift Algorithms & Data Structures](https://www.waynewbishop.com/ios-interview/book) · 50% off · Code: SWIFT5
+
 For example:
 
 * Daniel Steinberg: [_A Swift Kickstart_](https://pragprog.com/titles/d-dsswift2/a-swift-kickstart-second-edition/) and [_A SwiftUI Kickstart_](https://pragprog.com/titles/d-dsswiftui/a-swiftui-kickstart/)
@@ -78,23 +97,33 @@ For example:
 ### 💰 [iOS Unit Testing by Example](https://pragprog.com/titles/jrlegios/ios-unit-testing-by-example/) · 40% off · Code: turkeysale2020
 ### 💸 [Apress Cyber Sale](https://apress.com) · Every e-book $6.99 (> 50% off) · Code: CYBER20AP
 ### 💰 [Manning Cyber Week Sale](https://manning.com) · 40% off for two or more products
+### 💸 [raywenderlich.com (all individual books)](https://www.raywenderlich.com/library?content_types%5B%5D=product)  · 50% off
+### 💰 [Practical Combine](https://gumroad.com/l/practical-combine/blackfriday2020) · 25% off
 
 ## 👩‍🎓 Courses and Videos
 
 ### 💰 [Hacking with Swift+ Annual Subscription](https://gumroad.com/l/hws-subscription?yearly=true) · $40 off
 ### 💸 [SwiftUI Masterclass Course](https://swiftuimasterclass.com) · 60% off
-### 💰 [Combine Swift • Complete Course](https://combineswift.com) · $40 off
-
+### 💰 [Combine Swift • Complete Course](https://combineswift.com) · $40 off Code: `WGAX5K8E`
+### 💸 [raywenderlich.com Yearly Ultimate Subscriptions](https://store.raywenderlich.com/products/subscription) · Ultimate Book and Video subscriptions · 50% off
+### 💸 [Swift Essentials * Complete Course](https://www.waynewbishop.com/ios-interview/course) · 50% off · Code: SWIFT5
+### 💰 [Scrum Master Certification * Giora Morein](https://csm.thinklouder.com/class) · 15% off · Code: BLACKFRIDAY
 
 ## 🖥 Virtualization Software
 
 ## 📈 Business Software
 
 ### 💸 [Fasthosts UK Black Friday Deals](https://www.fasthosts.co.uk) · up to 90% off
+### 💸 [Appfigures - App Store Optimization and Intelligence](https://appfigures.com/) · 50% off · Code: **BLACK_FRIDAY_2020**
 
 ## 🏃🏻‍♀️ Health & Fitness Software
 
+### 💸 [MindGarden: Daily Affirmations • Develop a positive mindset](https://apps.apple.com/us/app/mindgarden-daily-affirmations/id1523218841#?platform=iphone) · Lifetime access 80% off
+
 ## 🎁 Bundles
 
-### 💸 [BundleHunt](https://bundlehunt.com) · 50+% off · Create your own bundle from 49 apps including BetterZip, Screens, PhotoMill, Name Mangler and more
+### 💸 [BundleHunt](https://bundlehunt.com) Create your own bundle from 49 apps including BetterZip, Screens, PhotoMill, Name Mangler and more · 50+% off
 
+## 🕶 Lifestyle
+
+### 💸 [Paprika 3](https://www.paprikaapp.com) Paprika is an app that helps you organize your recipes, make meal plans, and create grocery lists. Using Paprika's built-in browser, you can save recipes from anywhere on the web. Apps for iOS, macOS, Android and Windows. · 50% off
