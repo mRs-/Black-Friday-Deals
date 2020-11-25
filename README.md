@@ -39,6 +39,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ### 💰 [Prizmo 5 (iPhone/iPad)](https://apps.apple.com/app/id1460243446) – Pro Scanning and OCR (iOS) · 40% off IAP and yearly cloud plan
 ### 💰 [Prizmo (Mac)](https://apps.apple.com/app/id546392952) – Pro Scanning and OCR (macOS) · 40% off
 ### 💰 [Shrugs (Mac)](https://shrugs.app) – Basic Client for Slack (macOS) · 20% off
+### 💰 [DevonThink (Mac)](https://www.devontechnologies.com/blog/20201124-blackfriday) – Knowledge management system (macOS) · 25% off
 ### 💸 [TimeStory](https://apps.apple.com/app/timestory/id1470702823) - Create timelines, roadmaps, and plans (Mac) · 50% off
 
 ## 🎨 Graphic Software
@@ -53,6 +54,9 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ### 💸 [Hydra (iPhone/iPad)](https://apps.apple.com/app/id947824428) – Amazing Photography (iOS) · 60% off
 ### 💸 [Hydra (Mac)](https://apps.apple.com/app/id1111590907) – Pro HDR Photo Studio (macOS) · 50% off
 ### 💰 [Morph Age](https://apps.apple.com/app/id413898200) – Image Morphing (macOS) · 40% off
+### 💸 [ImageFramer](https://imageframer.net) – Frame your images (macOS) · 50% off · Automatically applied
+### 💰 [Cascable](https://apps.apple.com/us/app/cascable-wifi-camera-remote/id974193500) – Remote control and image downloads from WiFi-enabled cameras (iOS) · 33% off
+### 💰 [Tumult Hype 4 Professional](https://sites.fastspring.com/tumultco/instant/hype4-pro?coupon=CYBERHYPERMONDAY) – HTML5 animation app for (macOS) · 30% off
 
 
 ## 🎓 Reference & Education
@@ -111,6 +115,8 @@ For example:
 ### 💰 [Scrum Master Certification * Giora Morein](https://csm.thinklouder.com/class) · 15% off · Code: BLACKFRIDAY
 
 ## 🖥 Virtualization Software
+### 💰 [Parallels](https://www.parallels.com/products/desktop/buy/) Virtualization for macOS · 20% off · Discount applied at checkout
+
 
 ## 📈 Business Software
 
