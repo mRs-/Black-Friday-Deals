@@ -32,6 +32,11 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 
 ### 💰 [Theine](https://apps.apple.com/app/id955848755) – Keeps Your Mac Awake (macOS) · 50% off
 ### 💰 [EagleFiler](https://c-command.com/store/sale) - Organize files/notes and archive e-mails (Mac) · 25% off
+### 💸 [Inko](https://apps.apple.com/app/id1344902057) – Collaborative Whiteboard, Local and Remote (iOS, macOS) · 50% off yearly plans
+### 💰 [Carbo](https://apps.apple.com/app/id956811074) – Digital Notebook for Handwriting Enthusiasts (iOS, macOS) · 40% off IAP
+### 💰 [Prizmo Go](https://apps.apple.com/app/id1183367390) – Instant Text OCR from Photos (iOS) · 40% off IAP
+### 💰 [Prizmo 5 (iPhone/iPad)](https://apps.apple.com/app/id1460243446) – Pro Scanning and OCR (iOS) · 40% off IAP and yearly cloud plan
+### 💰 [Prizmo (Mac)](https://apps.apple.com/app/id546392952) – Pro Scanning and OCR (macOS) · 40% off
 
 ## 🎨 Graphic Software
 
@@ -41,6 +46,11 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ### 💰 [Affinity Designer](https://affinity.serif.com/en-us/designer) – Create concept art, print projects, logos, icons, UI designs, mock-ups and more · 30% off
 ### 💰 [Affinity Photo](https://affinity.serif.com/en-us/photo) - The fastest, smoothest and most precise image editing software around · 30% off
 ### 💰 [Affinity Publisher](https://affinity.serif.com/en-us/publisher) - The next generation of professional publishing software · 30% off
+### 💰 [Emulsio](https://apps.apple.com/app/id397583851) – Video Stabilizer and Transcoder (iOS) · 40% off IAP
+### 💸 [Hydra (iPhone/iPad)](https://apps.apple.com/app/id947824428) – Amazing Photography (iOS) · 60% off
+### 💸 [Hydra (Mac)](https://apps.apple.com/app/id1111590907) – Pro HDR Photo Studio (macOS) · 50% off
+### 💰 [Morph Age](https://apps.apple.com/app/id413898200) – Image Morphing (macOS) · 40% off
+
 
 ## 🎓 Reference & Education
 
