@@ -59,6 +59,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ### 💰 [Sparkle Pro](https://sparkleapp.com/store/) – Sparkle, Visual website builder (macOS) · 30% off
 ### 💰 [Tumult Hype 4 Professional](https://sites.fastspring.com/tumultco/instant/hype4-pro?coupon=CYBERHYPERMONDAY) – HTML5 animation app for (macOS) · 30% off
 ### 💰 [CleanShot X](https://cleanshot.com/buy) – Screenshot utility (macOS) · 30% off
+### 💰 [OwlOCR for Mac](https://owlocr.com) – Optical character recognition for your screenshots (macOS) · 33% off
 
 ## 🎓 Reference & Education
 
