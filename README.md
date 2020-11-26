@@ -65,7 +65,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ## 🎓 Reference & Education
 
 ### 💰 [V for Wikipedia](https://apps.apple.com/app/id993435362) – Read Wikipedia, better than ever (iOS) · 50% off
-### 💰 [Mellel](https://www.mellel.com/how-to-buy-mellel/) – Word processor (iOS and macOS) · 35% off
+### 💰 [Mellel](https://www.mellel.com/how-to-buy-mellel/) – Word processor (iOS and macOS) · 35% off (starting Friday)
 
 ## 📖 Books
 
