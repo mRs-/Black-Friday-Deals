@@ -41,6 +41,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ### 💰 [Shrugs (Mac)](https://shrugs.app) – Basic Client for Slack (macOS) · 20% off
 ### 💰 [DevonThink (Mac)](https://www.devontechnologies.com/blog/20201124-blackfriday) – Knowledge management system (macOS) · 25% off
 ### 💸 [TimeStory](https://apps.apple.com/app/timestory/id1470702823) - Create timelines, roadmaps, and plans (Mac) · 50% off
+### 💰 [BusyCal and BusyContacts](https://www.busymac.com/store/index.html) – Calendar and contacts (macOS) · 30% off
 
 ## 🎨 Graphic Software
 
@@ -58,11 +59,13 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ### 💰 [Cascable](https://apps.apple.com/us/app/cascable-wifi-camera-remote/id974193500) – Remote control and image downloads from WiFi-enabled cameras (iOS) · 33% off
 ### 💰 [Sparkle Pro](https://sparkleapp.com/store/) – Sparkle, Visual website builder (macOS) · 30% off
 ### 💰 [Tumult Hype 4 Professional](https://sites.fastspring.com/tumultco/instant/hype4-pro?coupon=CYBERHYPERMONDAY) – HTML5 animation app for (macOS) · 30% off
-
+### 💰 [CleanShot X](https://cleanshot.com/buy) – Screenshot utility (macOS) · 30% off
+### 💰 [OwlOCR for Mac](https://owlocr.com) – Optical character recognition for your screenshots (macOS) · 33% off
 
 ## 🎓 Reference & Education
 
 ### 💰 [V for Wikipedia](https://apps.apple.com/app/id993435362) – Read Wikipedia, better than ever (iOS) · 50% off
+### 💰 [Mellel](https://www.mellel.com/how-to-buy-mellel/) – Word processor (iOS and macOS) · 35% off (starting Friday)
 
 ## 📖 Books
 
