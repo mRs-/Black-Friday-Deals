@@ -104,6 +104,9 @@ For example:
 ### 💰 [Manning Cyber Week Sale](https://manning.com) · 40% off for two or more products
 ### 💸 [raywenderlich.com (all individual books)](https://www.raywenderlich.com/library?content_types%5B%5D=product)  · 50% off
 ### 💰 [Practical Combine](https://gumroad.com/l/practical-combine/blackfriday2020) · 25% off
+### 💸 [Developing Inclusive Mobile Apps](https://www.apress.com/us/book/9781484258132) · e-book $6.99 (> 50% off) · Code: CYBER20AP
+### 💸 [Karma-based API on Apple Platforms](https://www.apress.com/us/book/9781484242902) · e-book $6.99 (> 50% off) · Code: CYBER20AP
+### 💸 [Developing Accessible iOS Apps](https://www.apress.com/us/book/9781484253076) · e-book $6.99 (> 50% off) · Code: CYBER20AP
 
 ## 👩‍🎓 Courses and Videos
 
