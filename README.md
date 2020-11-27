@@ -63,6 +63,10 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ### 💰 [CleanShot X](https://cleanshot.com/buy) – Screenshot utility (macOS) · 30% off
 ### 💰 [OwlOCR for Mac](https://owlocr.com) – Optical character recognition for your screenshots (macOS) · 33% off
 ### 💸 [Amadine](https://amadine.com/store/) - Vector graphics software for Mac · 50% off
+### 💰 [DxO PhotoLab](https://www.dxo.com) - Photo editing tools ·  30% off·  Code: BLACKFRIDAY2020
+### 💰 [CaptureOne](https://www.captureone.com/) - Photo catalog and editing software·  30% off ·  Code: BLACKFRIDAY30
+### 💰 [HoudahGeo](https://www.houdah.com/houdahGeo/buy.html?coupon=HG-BLACKFRIDAY) - Photo geotagging. Add GPS locations to photos·  30% offCode: HG-BLACKFRIDAY
+
 
 ## 🎓 Reference & Education
 
