@@ -21,13 +21,14 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ### 💸 [Woodpecker](https://itunes.apple.com/cn/app/woodpecker/id1333548463?mt=12) - View iOS app's Sandbox files, UserDefaults, Keychain items on Mac. · 50% off
 ### 💰 [DevUtils.app](https://devutils.app) - Native Developer Utilities to help you with everyday tasks (Formatter, Encoder/Decoder, Converter...) · 30% off
 ### 💸 [Paw](https://paw.cloud) – HTTP client to test and describe the APIs (macOS) · 50% off (or 100% off if you [retweet](https://twitter.com/luckymarmot/status/1332329351795372036))
+### 💸 [RapidWeaver 8](https://unclutterapp.com/bundle/?coupon=UC-BLACKFRIDAY-2020&s=git) - The best web design software for Mac. · 50% off
 
 ## 🎛 Utility Software
 
 ### 💰 [Hummingbird](https://hbird.app) – Make macOS window management a breeze · 33% off
 ### 💰 [All Windows Appear](https://apps.apple.com/app/id1494564769) – Classic Window Behavior (macOS) · 50% off
 ### 💰 [SpamSieve](https://c-command.com/store/sale) - E-mail spam filtering for Mac · 25% off
-### 💸 [DaisyDisk](https://daisydiskapp.com/?purchase=1&couponCode=DDHALLOWEEN20-2) - Visualize disk space usage (macOS) · 50% off
+### 💸 [DaisyDisk](https://unclutterapp.com/bundle/?coupon=UC-BLACKFRIDAY-2020&s=git) - Visualize disk space usage (macOS) · 50% off
 ### 💸 [iStat Menus](https://itunes.apple.com/app/id1319778037?at=11l3KP&mt=12&uo=4&ct=1) - The most powerful system monitoring app for macOS · 50% off
 ### 💸 [Quiet](https://apps.apple.com/app/quiet/id1441525727?mt=8) - Block the annoying parts of the web! (macOS & iOS) · 50% off
 ### 💰 [Camo](https://reincubate.com/camo/) - Use your iPhone as a webcam · 40% off (starting Thursday)
@@ -39,6 +40,11 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ### 💸 [Fontastic](https://apps.apple.com/app/id1537294729) - Browse & install 1000+ fonts for iPad and iPhone (iOS) · 100% off
 ### 💰 [ActiveDock, MultiDock, Command-Tab Plus, and more](https://sites.fastspring.com/noteifyapp/product/MacPlusStore?option=show_contents&coupon=MAPPLUSBLACKFRIDAY2020) – Various utility software for the mac (macOS) · 30% off
 ### 💸 [Hazeover](https://apps.apple.com/us/app/hazeover-distraction-dimmer/id430798174?mt=12) – Get rid of distractions (macOS) · 70% off
+### 💸 [Default Folder X](https://unclutterapp.com/bundle/?coupon=UC-BLACKFRIDAY-2020&s=git) - Enhanced Open and Save dialogs for macOS · 50% off
+### 💸 [Mosaic Pro](https://unclutterapp.com/bundle/?coupon=UC-BLACKFRIDAY-2020&s=git) - Effortlessly resize and re-position windows on your Mac · 50% off
+### 💸 [One Switch](https://unclutterapp.com/bundle/?coupon=UC-BLACKFRIDAY-2020&s=git) - All the toggles in your menu bar · 50% off
+### 💸 [Unite 3](https://unclutterapp.com/bundle/?coupon=UC-BLACKFRIDAY-2020&s=git) - Turn websites into apps on your Mac · 50% off
+### 💸 [ForkLift 3](https://unclutterapp.com/bundle/?coupon=UC-BLACKFRIDAY-2020&s=git) - The most advanced dual pane file manager for macOS · 50% off
 
 ## 📌 Productivity Software
 
@@ -54,6 +60,8 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ### 💸 [TimeStory](https://apps.apple.com/app/timestory/id1470702823) - Create timelines, roadmaps, and plans (Mac) · 50% off
 ### 💰 [BusyCal and BusyContacts](https://www.busymac.com/store/index.html) – Calendar and contacts (macOS) · 30% off
 ### 💸 [Trickster](https://www.apparentsoft.com/trickster) – Recent Files, at your fingertips (macOS) · 50% off
+### 💸 [Timemator 2](https://unclutterapp.com/bundle/?coupon=UC-BLACKFRIDAY-2020&s=git) - Automatic time-tracking based on your rules and activities · 50% off
+### 💸 [Unclutter](https://unclutterapp.com/bundle/?coupon=UC-BLACKFRIDAY-2020&s=git) - Files, notes & clipboard manager for Mac · 50% off
 
 ## 🎨 Graphic Software
 
