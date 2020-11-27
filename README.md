@@ -173,3 +173,4 @@ For example:
 ## 🕶 Lifestyle
 
 ### 💸 [Paprika 3](https://www.paprikaapp.com) Paprika is an app that helps you organize your recipes, make meal plans, and create grocery lists. Using Paprika's built-in browser, you can save recipes from anywhere on the web. Apps for iOS, macOS, Android and Windows. · 50% off
+### 💰 [Longplay](https://apps.apple.com/us/app/longplay/id1495152002) (iOS) · 33% off
