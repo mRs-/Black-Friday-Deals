@@ -33,6 +33,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ### 💰 [Little Snitch](https://www.obdev.at/products/littlesnitch/index.html) - Little Snitch informs you whenever a program attempts to establish an outgoing Internet connection · 30% off
 ### 💰 [Micro Snitch](https://www.obdev.at/products/microsnitch/index.html) - Monitors and reports any microphone and camera activity to help you figure out if someone’s spying on you. · 30% off
 ### 💰 [Launchbar](https://www.obdev.at/products/launchbar/index.html) - smart and powerful productivity utility that provides lightning fast access to applications, documents, contacts and bookmarks, to your iTunes Library, to search engines and more · 30% off
+### [Fontastic | 100% off 💸](https://apps.apple.com/app/id1537294729) - Browse & install 1000+ fonts for iPad and iPhone (iOS)
 
 ## 📌 Productivity Software
 
