@@ -62,6 +62,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ### 💸 [Trickster](https://www.apparentsoft.com/trickster) – Recent Files, at your fingertips (macOS) · 50% off
 ### 💸 [Timemator 2](https://unclutterapp.com/bundle/?coupon=UC-BLACKFRIDAY-2020&s=git) - Automatic time-tracking based on your rules and activities · 50% off
 ### 💸 [Unclutter](https://unclutterapp.com/bundle/?coupon=UC-BLACKFRIDAY-2020&s=git) - Files, notes & clipboard manager for Mac · 50% off
+### 💸 [Amicu](https://apps.apple.com/app/id1481868897) - Contact app with reminders to keep in touch (iOS) · 60% off year plan · [redeem](https://amicu.app/redeem) CYBERWEEK 
 
 ## 🎨 Graphic Software
 
