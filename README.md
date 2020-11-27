@@ -25,6 +25,9 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ### 💰 [SpamSieve](https://c-command.com/store/sale) - E-mail spam filtering for Mac · 25% off
 ### 💸 [DaisyDisk](https://daisydiskapp.com/?purchase=1&couponCode=DDHALLOWEEN20-2) - Visualize disk space usage (macOS) · 50% off
 ### 💸 [iStat Menus](https://itunes.apple.com/app/id1319778037?at=11l3KP&mt=12&uo=4&ct=1) - The most powerful system monitoring app for macOS · 50% off
+### 💰 [Little Snitch](https://www.obdev.at/products/littlesnitch/index.html) - Little Snitch informs you whenever a program attempts to establish an outgoing Internet connection · 30% off
+### 💰 [Micro Snitch](https://www.obdev.at/products/microsnitch/index.html) - Monitors and reports any microphone and camera activity to help you figure out if someone’s spying on you. · 30% off
+### 💰 [Launchbar](https://www.obdev.at/products/launchbar/index.html) - smart and powerful productivity utility that provides lightning fast access to applications, documents, contacts and bookmarks, to your iTunes Library, to search engines and more · 30% off
 
 ## 📌 Productivity Software
 
