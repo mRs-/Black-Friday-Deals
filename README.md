@@ -31,6 +31,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ### 💸 [iStat Menus](https://itunes.apple.com/app/id1319778037?at=11l3KP&mt=12&uo=4&ct=1) - The most powerful system monitoring app for macOS · 50% off
 ### 💸 [Quiet](https://apps.apple.com/app/quiet/id1441525727?mt=8) - Block the annoying parts of the web! (macOS & iOS) · 50% off
 ### 💰 [Camo](https://reincubate.com/camo/) - Use your iPhone as a webcam · 40% off (starting Thursday)
+### 💸 [Murus and Vallum](https://murusfirewall.com) - Murus and Vallum is an firewall software designed to protect your network resources and privacy intercepting connections from your apps and services. · 50% off
 ### 💰 [Little Snitch](https://www.obdev.at/products/littlesnitch/index.html) - Little Snitch informs you whenever a program attempts to establish an outgoing Internet connection · 30% off
 ### 💰 [Micro Snitch](https://www.obdev.at/products/microsnitch/index.html) - Monitors and reports any microphone and camera activity to help you figure out if someone’s spying on you. · 30% off
 ### 💰 [Launchbar](https://www.obdev.at/products/launchbar/index.html) - smart and powerful productivity utility that provides lightning fast access to applications, documents, contacts and bookmarks, to your iTunes Library, to search engines and more · 30% off
