@@ -36,6 +36,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ### 💰 [Launchbar](https://www.obdev.at/products/launchbar/index.html) - smart and powerful productivity utility that provides lightning fast access to applications, documents, contacts and bookmarks, to your iTunes Library, to search engines and more · 30% off
 ### 💸 [Fontastic](https://apps.apple.com/app/id1537294729) - Browse & install 1000+ fonts for iPad and iPhone (iOS) · 100% off
 ### 💰 [ActiveDock, MultiDock, Command-Tab Plus, and more](https://sites.fastspring.com/noteifyapp/product/MacPlusStore?option=show_contents&coupon=MAPPLUSBLACKFRIDAY2020) – Various utility software for the mac (macOS) · 30% off
+### 💸 [Hazeover](https://apps.apple.com/us/app/hazeover-distraction-dimmer/id430798174?mt=12) – Get rid of distractions (macOS) · 70% off
 
 ## 📌 Productivity Software
 
