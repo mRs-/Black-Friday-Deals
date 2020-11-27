@@ -122,6 +122,7 @@ For example:
 ### 💸 [Developing Inclusive Mobile Apps](https://www.apress.com/us/book/9781484258132) · e-book $6.99 (> 50% off) · Code: CYBER20AP
 ### 💸 [Karma-based API on Apple Platforms](https://www.apress.com/us/book/9781484242902) · e-book $6.99 (> 50% off) · Code: CYBER20AP
 ### 💸 [Developing Accessible iOS Apps](https://www.apress.com/us/book/9781484253076) · e-book $6.99 (> 50% off) · Code: CYBER20AP
+### 💰 [Modern Auto Layout](https://gumroad.com/l/albook/blackfriday2020) · 20% off
 
 ## 👩‍🎓 Courses and Videos
 
