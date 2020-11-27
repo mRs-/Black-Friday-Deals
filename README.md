@@ -19,6 +19,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ### 💸 [Ozcode](https://oz-code.com) - Disruptive debugging platform for .NET applications both on-premises and in the cloud. · 50% off · Code: *OZBF2020**
 ### 💸 [Themesberg](https://themesberg.com/black-friday) - Bootstrap Themes, Admin Dashboard Templates, and UI Kits · 90% off · Code: *No code required*
 ### 💸 [Woodpecker](https://itunes.apple.com/cn/app/woodpecker/id1333548463?mt=12) - View iOS app's Sandbox files, UserDefaults, Keychain items on Mac. · 50% off
+### 💰 [DevUtils.app](https://devutils.app) - Native Developer Utilities to help you with everyday tasks (Formatter, Encoder/Decoder, Converter...) · 30% off
 
 ## 🎛 Utility Software
 
