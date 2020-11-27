@@ -141,10 +141,12 @@ For example:
 
 ### 💸 [Fasthosts UK Black Friday Deals](https://www.fasthosts.co.uk) · up to 90% off
 ### 💸 [Appfigures - App Store Optimization and Intelligence](https://appfigures.com/) · 50% off · Code: **BLACK_FRIDAY_2020**
+### 💸 [NetSnips: Web Clips Dashboard](https://apps.apple.com/app/netsnips-web-clips-dashboard/id507888242) · 40% off on Unlimited Snippets IAP
 
 ## 🏃🏻‍♀️ Health & Fitness Software
 
 ### 💸 [MindGarden: Daily Affirmations • Develop a positive mindset](https://apps.apple.com/us/app/mindgarden-daily-affirmations/id1523218841#?platform=iphone) · Lifetime access 80% off
+### 💰 [Thirstic: Smart Water Tracker](https://apps.apple.com/app/thirstic-smart-water-tracker/id1471500028) · Premium No Expiry IAP 30% off
 
 ## 🎁 Bundles
 
