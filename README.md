@@ -29,6 +29,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ### 💸 [iStat Menus](https://bjango.com/mac/istatmenus/) - The most powerful system monitoring app for macOS · 66% off
 ### 💸 [Quiet](https://apps.apple.com/app/quiet/id1441525727?mt=8) - Block the annoying parts of the web! (macOS & iOS) · 50% off
 ### 💰 [Camo](https://reincubate.com/camo/) - Use your iPhone as a webcam · 40% off (starting Thursday)
+### 💰 [Little Snitch](https://www.obdev.at/products/littlesnitch/index.html) – Host-based application firewall for macOS · 30% off
 
 ## 📌 Productivity Software
 
