@@ -129,6 +129,7 @@ For example:
 ### 💸 [Karma-based API on Apple Platforms](https://www.apress.com/us/book/9781484242902) · e-book $6.99 (> 50% off) · Code: CYBER20AP
 ### 💸 [Developing Accessible iOS Apps](https://www.apress.com/us/book/9781484253076) · e-book $6.99 (> 50% off) · Code: CYBER20AP
 ### 💰 [Modern Auto Layout](https://gumroad.com/l/albook/blackfriday2020) · 20% off
+### 💰 [objc.io (all individual books and bundles)](https://www.objc.io/blog/2020/11/27/black-friday-sale/) · 30% off · Code: thanks2020
 
 ## 👩‍🎓 Courses and Videos
 
@@ -138,6 +139,7 @@ For example:
 ### 💸 [raywenderlich.com Yearly Ultimate Subscriptions](https://store.raywenderlich.com/products/subscription) · Ultimate Book and Video subscriptions · 50% off
 ### 💸 [Swift Essentials * Complete Course](https://www.waynewbishop.com/ios-interview/course) · 50% off · Code: SWIFT5
 ### 💰 [Scrum Master Certification * Giora Morein](https://csm.thinklouder.com/class) · 15% off · Code: BLACKFRIDAY
+### 💰 [objc.io Swift Talk](https://talk.objc.io/promo/thanks2020) · 30% off
 
 ## 🖥 Virtualization Software
 ### 💰 [Parallels](https://www.parallels.com/products/desktop/buy/) Virtualization for macOS · 20% off · Discount applied at checkout
