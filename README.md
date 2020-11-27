@@ -20,6 +20,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ### 💸 [Themesberg](https://themesberg.com/black-friday) - Bootstrap Themes, Admin Dashboard Templates, and UI Kits · 90% off · Code: *No code required*
 ### 💸 [Woodpecker](https://itunes.apple.com/cn/app/woodpecker/id1333548463?mt=12) - View iOS app's Sandbox files, UserDefaults, Keychain items on Mac. · 50% off
 ### 💰 [DevUtils.app](https://devutils.app) - Native Developer Utilities to help you with everyday tasks (Formatter, Encoder/Decoder, Converter...) · 30% off
+### 💸 [Paw](https://paw.cloud) – HTTP client to test and describe the APIs (macOS) · 50% off (or 100% off if you [retweet](https://twitter.com/luckymarmot/status/1332329351795372036))
 
 ## 🎛 Utility Software
 
@@ -33,7 +34,9 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ### 💰 [Little Snitch](https://www.obdev.at/products/littlesnitch/index.html) - Little Snitch informs you whenever a program attempts to establish an outgoing Internet connection · 30% off
 ### 💰 [Micro Snitch](https://www.obdev.at/products/microsnitch/index.html) - Monitors and reports any microphone and camera activity to help you figure out if someone’s spying on you. · 30% off
 ### 💰 [Launchbar](https://www.obdev.at/products/launchbar/index.html) - smart and powerful productivity utility that provides lightning fast access to applications, documents, contacts and bookmarks, to your iTunes Library, to search engines and more · 30% off
-### [Fontastic | 100% off 💸](https://apps.apple.com/app/id1537294729) - Browse & install 1000+ fonts for iPad and iPhone (iOS)
+### 💸 [Fontastic](https://apps.apple.com/app/id1537294729) - Browse & install 1000+ fonts for iPad and iPhone (iOS) · 100% off
+### 💰 [ActiveDock, MultiDock, Command-Tab Plus, and more](https://sites.fastspring.com/noteifyapp/product/MacPlusStore?option=show_contents&coupon=MAPPLUSBLACKFRIDAY2020) – Various utility software for the mac (macOS) · 30% off
+### 💸 [Hazeover](https://apps.apple.com/us/app/hazeover-distraction-dimmer/id430798174?mt=12) – Get rid of distractions (macOS) · 70% off
 
 ## 📌 Productivity Software
 
