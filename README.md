@@ -123,6 +123,7 @@ For example:
 
 ## 🖥 Virtualization Software
 ### 💰 [Parallels](https://www.parallels.com/products/desktop/buy/) Virtualization for macOS · 20% off · Discount applied at checkout
+### 💰 [VMWare Fusion](https://store-us.vmware.com/blackfridaysale-2020) Virtualization for macOS · 30% off · Both Player and Pro, only new licenses
 
 
 ## 📈 Business Software
