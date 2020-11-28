@@ -56,6 +56,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ### 💰 [NoteApp](https://www.apptorium.com/apps) – An incredibly simple text editor (macOS) · 40% off
 ### 💰 [TripMode 3](https://tripmode.ch) - Save data & money. Browse faster. (macOS) · 20% off 
 ### 💸 [Sensei](https://sensei.app) - The Next Generation Mac performance tool (macOS) · 50% off 
+### 💰 [CleanMyMac X](https://macpaw.com/store/cleanmymac) -  Mac Cleaning Software (macOS) · 33% off 
 
 ## 📌 Productivity Software
 
