@@ -193,6 +193,7 @@ For example:
 
 ### 💸 [Paprika 3](https://www.paprikaapp.com) Paprika is an app that helps you organize your recipes, make meal plans, and create grocery lists. Using Paprika's built-in browser, you can save recipes from anywhere on the web. Apps for iOS, macOS, Android and Windows. · 50% off
 ### 💰 [Longplay](https://apps.apple.com/us/app/longplay/id1495152002) (iOS) · 33% off
+### 💸 [TameTime: Awareness Times](https://apps.apple.com/app/tametime-awareness-timer/id1479326723) Be aware of the time you spend in front of your Mac to fight RSI, CVS and computer related stress (macOS) · 50% off
 
 ## 🎶 Creative content
 ### 💰 [Audiio • Music and Audio FX](https://audiio.com/pricing) $100 off lifetime music membership · 33% off (code: BLACKFRIDAY)
