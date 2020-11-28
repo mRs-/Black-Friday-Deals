@@ -100,7 +100,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ### 💰 [DxO PhotoLab](https://www.dxo.com) – Photo editing tools ·  30% off·  Code: BLACKFRIDAY2020
 ### 💰 [CaptureOne](https://www.captureone.com/) – Photo catalog and editing software·  30% off ·  Code: BLACKFRIDAY30
 ### 💰 [HoudahGeo](https://www.houdah.com/houdahGeo/buy.html?coupon=HG-BLACKFRIDAY) – Photo geotagging. Add GPS locations to photos·  30% offCode: HG-BLACKFRIDAY
-
+### 💰 [ScreenFlow](https://www.telestream.net/screenflow/store.asp) - Capture the highest quality screen recordings. (macOS) · 20% off 
 
 ## 🎓 Reference & Education
 
