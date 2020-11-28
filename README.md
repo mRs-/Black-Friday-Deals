@@ -11,54 +11,54 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 
 ## 🛠 Development Software
 
-### 💰 [Proxyman](https://proxyman.io) - Native and Modern Web Debugging Proxy for macOS, iOS and Android. · 30% off · Code: **PROXYMAN_BLACK_FRIDAY_2020**
-### 💸 [SQLPro Studio](https://www.sqlprostudio.com/blackfriday.html) - A fully native database client for macOS and iOS. · 50% off
-### 💰 [DropDMG](https://c-command.com/store/sale) - Create Mac disk images (.dmg files) (macOS) · 25% off
-### 💸 [Tower](https://www.git-tower.com) - Powerful, native Git desktop GUI (macOS) · 50% off
-### 💰 [Pushever](https://apps.apple.com/us/app/pushever-apns-tester/id1455738387) - Mac GUI to test APNS push notification easily · 30% off
-### 💸 [Ozcode](https://oz-code.com) - Disruptive debugging platform for .NET applications both on-premises and in the cloud. · 50% off · Code: *OZBF2020**
-### 💸 [Themesberg](https://themesberg.com/black-friday) - Bootstrap Themes, Admin Dashboard Templates, and UI Kits · 90% off · Code: *No code required*
-### 💸 [Woodpecker](https://itunes.apple.com/cn/app/woodpecker/id1333548463?mt=12) - View iOS app's Sandbox files, UserDefaults, Keychain items on Mac. · 50% off
-### 💰 [DevUtils.app](https://devutils.app) - Native Developer Utilities to help you with everyday tasks (Formatter, Encoder/Decoder, Converter...) · 30% off
+### 💰 [Proxyman](https://proxyman.io) – Native and Modern Web Debugging Proxy for macOS, iOS and Android. · 30% off · Code: **PROXYMAN_BLACK_FRIDAY_2020**
+### 💸 [SQLPro Studio](https://www.sqlprostudio.com/blackfriday.html) – A fully native database client for macOS and iOS. · 50% off
+### 💰 [DropDMG](https://c-command.com/store/sale) – Create Mac disk images (.dmg files) (macOS) · 25% off
+### 💸 [Tower](https://www.git-tower.com) – Powerful, native Git desktop GUI (macOS) · 50% off
+### 💰 [Pushever](https://apps.apple.com/us/app/pushever-apns-tester/id1455738387) – Mac GUI to test APNS push notification easily · 30% off
+### 💸 [Ozcode](https://oz-code.com) – Disruptive debugging platform for .NET applications both on-premises and in the cloud. · 50% off · Code: *OZBF2020**
+### 💸 [Themesberg](https://themesberg.com/black-friday) – Bootstrap Themes, Admin Dashboard Templates, and UI Kits · 90% off · Code: *No code required*
+### 💸 [Woodpecker](https://itunes.apple.com/cn/app/woodpecker/id1333548463?mt=12) – View iOS app's Sandbox files, UserDefaults, Keychain items on Mac. · 50% off
+### 💰 [DevUtils.app](https://devutils.app) – Native Developer Utilities to help you with everyday tasks (Formatter, Encoder/Decoder, Converter...) · 30% off
 ### 💸 [Paw](https://paw.cloud) – HTTP client to test and describe the APIs (macOS) · 50% off (or 100% off if you [retweet](https://twitter.com/luckymarmot/status/1332329351795372036))
-### 💸 [RapidWeaver 8](https://unclutterapp.com/bundle/?coupon=UC-BLACKFRIDAY-2020&s=git) - The best web design software for Mac. · 50% off
-### 💰 [TeaCode](https://www.apptorium.com/apps) - Don't Repeat Yourself. Type your code super fast! (macOS) · 40% off 
-### 💰 [Expressions](https://www.apptorium.com/apps) - Regular Expressions app made nice. (macOS) · 40% off 
-### 💰 [ThemeInstaller](https://www.apptorium.com/apps) - The missing Xcode color theme installer (macOS) · 40% off 
+### 💸 [RapidWeaver 8](https://unclutterapp.com/bundle/?coupon=UC-BLACKFRIDAY-2020&s=git) – The best web design software for Mac. · 50% off
+### 💰 [TeaCode](https://www.apptorium.com/apps) – Don't Repeat Yourself. Type your code super fast! (macOS) · 40% off 
+### 💰 [Expressions](https://www.apptorium.com/apps) – Regular Expressions app made nice. (macOS) · 40% off 
+### 💰 [ThemeInstaller](https://www.apptorium.com/apps) – The missing Xcode color theme installer (macOS) · 40% off 
 
 
 ## 🎛 Utility Software
 
 ### 💰 [Hummingbird](https://hbird.app) – Make macOS window management a breeze · 33% off
 ### 💰 [All Windows Appear](https://apps.apple.com/app/id1494564769) – Classic Window Behavior (macOS) · 50% off
-### 💰 [SpamSieve](https://c-command.com/store/sale) - E-mail spam filtering for Mac · 25% off
-### 💸 [DaisyDisk](https://unclutterapp.com/bundle/?coupon=UC-BLACKFRIDAY-2020&s=git) - Visualize disk space usage (macOS) · 50% off
-### 💸 [iStat Menus](https://itunes.apple.com/app/id1319778037?at=11l3KP&mt=12&uo=4&ct=1) - The most powerful system monitoring app for macOS · 50% off
-### 💸 [Quiet](https://apps.apple.com/app/quiet/id1441525727?mt=8) - Block the annoying parts of the web! (macOS & iOS) · 50% off
-### 💰 [Camo](https://reincubate.com/camo/) - Use your iPhone as a webcam · 40% off (starting Thursday)
-### 💸 [Murus and Vallum](https://murusfirewall.com) - Murus and Vallum is an firewall software designed to protect your network resources and privacy intercepting connections from your apps and services. · 50% off
-### 💰 [Little Snitch](https://www.obdev.at/products/littlesnitch/index.html) - Little Snitch informs you whenever a program attempts to establish an outgoing Internet connection · 30% off
-### 💰 [Micro Snitch](https://www.obdev.at/products/microsnitch/index.html) - Monitors and reports any microphone and camera activity to help you figure out if someone’s spying on you. · 30% off
-### 💰 [Launchbar](https://www.obdev.at/products/launchbar/index.html) - smart and powerful productivity utility that provides lightning fast access to applications, documents, contacts and bookmarks, to your iTunes Library, to search engines and more · 30% off
+### 💰 [SpamSieve](https://c-command.com/store/sale) – E-mail spam filtering for Mac · 25% off
+### 💸 [DaisyDisk](https://unclutterapp.com/bundle/?coupon=UC-BLACKFRIDAY-2020&s=git) – Visualize disk space usage (macOS) · 50% off
+### 💸 [iStat Menus](https://itunes.apple.com/app/id1319778037?at=11l3KP&mt=12&uo=4&ct=1) – The most powerful system monitoring app for macOS · 50% off
+### 💸 [Quiet](https://apps.apple.com/app/quiet/id1441525727?mt=8) – Block the annoying parts of the web! (macOS & iOS) · 50% off
+### 💰 [Camo](https://reincubate.com/camo/) – Use your iPhone as a webcam · 40% off (starting Thursday)
+### 💸 [Murus and Vallum](https://murusfirewall.com) – Murus and Vallum is an firewall software designed to protect your network resources and privacy intercepting connections from your apps and services. · 50% off
+### 💰 [Little Snitch](https://www.obdev.at/products/littlesnitch/index.html) – Little Snitch informs you whenever a program attempts to establish an outgoing Internet connection · 30% off
+### 💰 [Micro Snitch](https://www.obdev.at/products/microsnitch/index.html) – Monitors and reports any microphone and camera activity to help you figure out if someone’s spying on you. · 30% off
+### 💰 [Launchbar](https://www.obdev.at/products/launchbar/index.html) – smart and powerful productivity utility that provides lightning fast access to applications, documents, contacts and bookmarks, to your iTunes Library, to search engines and more · 30% off
 ### 💰 [NetSnips: Web Clips Dashboard](https://apps.apple.com/app/netsnips-web-clips-dashboard/id507888242) · 40% off on Unlimited Snippets IAP
-### 💸 [Fontastic](https://apps.apple.com/app/id1537294729) - Browse & install 1000+ fonts for iPad and iPhone (iOS) · 100% off
+### 💸 [Fontastic](https://apps.apple.com/app/id1537294729) – Browse & install 1000+ fonts for iPad and iPhone (iOS) · 100% off
 ### 💰 [ActiveDock, MultiDock, Command-Tab Plus, and more](https://sites.fastspring.com/noteifyapp/product/MacPlusStore?option=show_contents&coupon=MAPPLUSBLACKFRIDAY2020) – Various utility software for the mac (macOS) · 30% off
 ### 💸 [Hazeover](https://apps.apple.com/us/app/hazeover-distraction-dimmer/id430798174?mt=12) – Get rid of distractions (macOS) · 70% off
-### 💸 [Default Folder X](https://unclutterapp.com/bundle/?coupon=UC-BLACKFRIDAY-2020&s=git) - Enhanced Open and Save dialogs for macOS · 50% off
-### 💸 [Mosaic Pro](https://unclutterapp.com/bundle/?coupon=UC-BLACKFRIDAY-2020&s=git) - Effortlessly resize and re-position windows on your Mac · 50% off
-### 💸 [One Switch](https://unclutterapp.com/bundle/?coupon=UC-BLACKFRIDAY-2020&s=git) - All the toggles in your menu bar · 50% off
-### 💸 [Unite 3](https://unclutterapp.com/bundle/?coupon=UC-BLACKFRIDAY-2020&s=git) - Turn websites into apps on your Mac · 50% off
-### 💸 [ForkLift 3](https://unclutterapp.com/bundle/?coupon=UC-BLACKFRIDAY-2020&s=git) - The most advanced dual pane file manager for macOS · 50% off
-### 💰 [SideNotes](https://www.apptorium.com/apps) - Quick, short notes on the side of your screen (macOS) · 40% off
-### 💰 [Workspaces](https://www.apptorium.com/apps) - The Workspace Organizing App for Mac (macOS) · 40% off
-### 💰 [FiveNotes](https://www.apptorium.com/apps) - Five quick notes in your Menubar. (macOS) · 40% off 
-### 💰 [Monologue](https://www.apptorium.com/apps) - Write down your thoughts and memories. (macOS) · 40% off 
-### 💰 [NoteApp](https://www.apptorium.com/apps) - An incredibly simple text editor (macOS) · 40% off 
+### 💸 [Default Folder X](https://unclutterapp.com/bundle/?coupon=UC-BLACKFRIDAY-2020&s=git) – Enhanced Open and Save dialogs for macOS · 50% off
+### 💸 [Mosaic Pro](https://unclutterapp.com/bundle/?coupon=UC-BLACKFRIDAY-2020&s=git) – Effortlessly resize and re-position windows on your Mac · 50% off
+### 💸 [One Switch](https://unclutterapp.com/bundle/?coupon=UC-BLACKFRIDAY-2020&s=git) – All the toggles in your menu bar · 50% off
+### 💸 [Unite 3](https://unclutterapp.com/bundle/?coupon=UC-BLACKFRIDAY-2020&s=git) – Turn websites into apps on your Mac · 50% off
+### 💸 [ForkLift 3](https://unclutterapp.com/bundle/?coupon=UC-BLACKFRIDAY-2020&s=git) – The most advanced dual pane file manager for macOS · 50% off
+### 💰 [SideNotes](https://www.apptorium.com/apps) – Quick, short notes on the side of your screen (macOS) · 40% off
+### 💰 [Workspaces](https://www.apptorium.com/apps) – The Workspace Organizing App for Mac (macOS) · 40% off
+### 💰 [FiveNotes](https://www.apptorium.com/apps) – Five quick notes in your Menubar. (macOS) · 40% off 
+### 💰 [Monologue](https://www.apptorium.com/apps) – Write down your thoughts and memories. (macOS) · 40% off 
+### 💰 [NoteApp](https://www.apptorium.com/apps) – An incredibly simple text editor (macOS) · 40% off 
 
 ## 📌 Productivity Software
 
 ### 💰 [Theine](https://apps.apple.com/app/id955848755) – Keeps Your Mac Awake (macOS) · 50% off
-### 💰 [EagleFiler](https://c-command.com/store/sale) - Organize files/notes and archive e-mails (Mac) · 25% off
+### 💰 [EagleFiler](https://c-command.com/store/sale) – Organize files/notes and archive e-mails (Mac) · 25% off
 ### 💸 [Inko](https://apps.apple.com/app/id1344902057) – Collaborative Whiteboard, Local and Remote (iOS, macOS) · 50% off yearly plans
 ### 💰 [Carbo](https://apps.apple.com/app/id956811074) – Digital Notebook for Handwriting Enthusiasts (iOS, macOS) · 40% off IAP
 ### 💰 [Prizmo Go](https://apps.apple.com/app/id1183367390) – Instant Text OCR from Photos (iOS) · 40% off IAP
@@ -66,13 +66,13 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ### 💰 [Prizmo (Mac)](https://apps.apple.com/app/id546392952) – Pro Scanning and OCR (macOS) · 40% off
 ### 💰 [Shrugs (Mac)](https://shrugs.app) – Basic Client for Slack (macOS) · 20% off
 ### 💰 [DevonThink (Mac)](https://www.devontechnologies.com/blog/20201124-blackfriday) – Knowledge management system (macOS) · 25% off
-### 💸 [TimeStory](https://apps.apple.com/app/timestory/id1470702823) - Create timelines, roadmaps, and plans (Mac) · 50% off
+### 💸 [TimeStory](https://apps.apple.com/app/timestory/id1470702823) – Create timelines, roadmaps, and plans (Mac) · 50% off
 ### 💰 [BusyCal and BusyContacts](https://www.busymac.com/store/index.html) – Calendar and contacts (macOS) · 30% off
 ### 💸 [Trickster](https://www.apparentsoft.com/trickster) – Recent Files, at your fingertips (macOS) · 50% off
-### 💸 [Timemator 2](https://unclutterapp.com/bundle/?coupon=UC-BLACKFRIDAY-2020&s=git) - Automatic time-tracking based on your rules and activities · 50% off
-### 💸 [Unclutter](https://unclutterapp.com/bundle/?coupon=UC-BLACKFRIDAY-2020&s=git) - Files, notes & clipboard manager for Mac · 50% off
-### 💸 [Amicu](https://apps.apple.com/app/id1481868897) - Contact app with reminders to keep in touch (iOS) · 60% off year plan · [redeem](https://amicu.app/redeem) CYBERWEEK 
-### 💰 [ScreenFocus](https://www.apptorium.com/apps) - Auto dims side monitors. Brights up your focus. (macOS) · 40% off 
+### 💸 [Timemator 2](https://unclutterapp.com/bundle/?coupon=UC-BLACKFRIDAY-2020&s=git) – Automatic time-tracking based on your rules and activities · 50% off
+### 💸 [Unclutter](https://unclutterapp.com/bundle/?coupon=UC-BLACKFRIDAY-2020&s=git) – Files, notes & clipboard manager for Mac · 50% off
+### 💸 [Amicu](https://apps.apple.com/app/id1481868897) – Contact app with reminders to keep in touch (iOS) · 60% off year plan · [redeem](https://amicu.app/redeem) CYBERWEEK 
+### 💰 [ScreenFocus](https://www.apptorium.com/apps) – Auto dims side monitors. Brights up your focus. (macOS) · 40% off 
 
 ## 🎨 Graphic Software
 
@@ -80,8 +80,8 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ### 💰 [Color UI](https://apps.apple.com/app/id1092899208) – Colorful. Powerful. Wonderful! Color palettes made effortless. (macOS) · 50% off IAP
 ### 💰 [Adobe Creative Cloud](https://www.adobe.com/creativecloud.html) · 20% off (EU) / 25% off (US)
 ### 💰 [Affinity Designer](https://affinity.serif.com/en-us/designer) – Create concept art, print projects, logos, icons, UI designs, mock-ups and more · 30% off
-### 💰 [Affinity Photo](https://affinity.serif.com/en-us/photo) - The fastest, smoothest and most precise image editing software around · 30% off
-### 💰 [Affinity Publisher](https://affinity.serif.com/en-us/publisher) - The next generation of professional publishing software · 30% off
+### 💰 [Affinity Photo](https://affinity.serif.com/en-us/photo) – The fastest, smoothest and most precise image editing software around · 30% off
+### 💰 [Affinity Publisher](https://affinity.serif.com/en-us/publisher) – The next generation of professional publishing software · 30% off
 ### 💰 [Emulsio](https://apps.apple.com/app/id397583851) – Video Stabilizer and Transcoder (iOS) · 40% off IAP
 ### 💸 [Hydra (iPhone/iPad)](https://apps.apple.com/app/id947824428) – Amazing Photography (iOS) · 60% off
 ### 💸 [Hydra (Mac)](https://apps.apple.com/app/id1111590907) – Pro HDR Photo Studio (macOS) · 50% off
@@ -92,10 +92,10 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ### 💰 [Tumult Hype 4 Professional](https://sites.fastspring.com/tumultco/instant/hype4-pro?coupon=CYBERHYPERMONDAY) – HTML5 animation app for (macOS) · 30% off
 ### 💰 [CleanShot X](https://cleanshot.com/buy) – Screenshot utility (macOS) · 30% off
 ### 💰 [OwlOCR for Mac](https://owlocr.com) – Optical character recognition for your screenshots (macOS) · 33% off
-### 💸 [Amadine](https://amadine.com/store/) - Vector graphics software for Mac · 50% off
-### 💰 [DxO PhotoLab](https://www.dxo.com) - Photo editing tools ·  30% off·  Code: BLACKFRIDAY2020
-### 💰 [CaptureOne](https://www.captureone.com/) - Photo catalog and editing software·  30% off ·  Code: BLACKFRIDAY30
-### 💰 [HoudahGeo](https://www.houdah.com/houdahGeo/buy.html?coupon=HG-BLACKFRIDAY) - Photo geotagging. Add GPS locations to photos·  30% offCode: HG-BLACKFRIDAY
+### 💸 [Amadine](https://amadine.com/store/) – Vector graphics software for Mac · 50% off
+### 💰 [DxO PhotoLab](https://www.dxo.com) – Photo editing tools ·  30% off·  Code: BLACKFRIDAY2020
+### 💰 [CaptureOne](https://www.captureone.com/) – Photo catalog and editing software·  30% off ·  Code: BLACKFRIDAY30
+### 💰 [HoudahGeo](https://www.houdah.com/houdahGeo/buy.html?coupon=HG-BLACKFRIDAY) – Photo geotagging. Add GPS locations to photos·  30% offCode: HG-BLACKFRIDAY
 
 
 ## 🎓 Reference & Education
@@ -168,7 +168,7 @@ For example:
 ## 📈 Business Software
 
 ### 💸 [Fasthosts UK Black Friday Deals](https://www.fasthosts.co.uk) · up to 90% off
-### 💸 [Appfigures - App Store Optimization and Intelligence](https://appfigures.com/) · 50% off · Code: **BLACK_FRIDAY_2020**
+### 💸 [Appfigures – App Store Optimization and Intelligence](https://appfigures.com/) · 50% off · Code: **BLACK_FRIDAY_2020**
 
 ## 🏃🏻‍♀️ Health & Fitness Software
 
