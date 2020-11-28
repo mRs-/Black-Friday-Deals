@@ -53,7 +53,8 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ### 💰 [Workspaces](https://www.apptorium.com/apps) – The Workspace Organizing App for Mac (macOS) · 40% off
 ### 💰 [FiveNotes](https://www.apptorium.com/apps) – Five quick notes in your Menubar. (macOS) · 40% off 
 ### 💰 [Monologue](https://www.apptorium.com/apps) – Write down your thoughts and memories. (macOS) · 40% off 
-### 💰 [NoteApp](https://www.apptorium.com/apps) – An incredibly simple text editor (macOS) · 40% off 
+### 💰 [NoteApp](https://www.apptorium.com/apps) – An incredibly simple text editor (macOS) · 40% off
+### 💰 [TripMode 3](https://tripmode.ch) - Save data & money. Browse faster. (macOS) · 20% off 
 
 ## 📌 Productivity Software
 
@@ -73,6 +74,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ### 💸 [Unclutter](https://unclutterapp.com/bundle/?coupon=UC-BLACKFRIDAY-2020&s=git) – Files, notes & clipboard manager for Mac · 50% off
 ### 💸 [Amicu](https://apps.apple.com/app/id1481868897) – Contact app with reminders to keep in touch (iOS) · 60% off year plan · [redeem](https://amicu.app/redeem) CYBERWEEK 
 ### 💰 [ScreenFocus](https://www.apptorium.com/apps) – Auto dims side monitors. Brights up your focus. (macOS) · 40% off 
+
 
 ## 🎨 Graphic Software
 
