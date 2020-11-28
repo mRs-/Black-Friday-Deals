@@ -77,6 +77,8 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ### 💸 [Unclutter](https://unclutterapp.com/bundle/?coupon=UC-BLACKFRIDAY-2020&s=git) – Files, notes & clipboard manager for Mac · 50% off
 ### 💸 [Amicu](https://apps.apple.com/app/id1481868897) – Contact app with reminders to keep in touch (iOS) · 60% off year plan · [redeem](https://amicu.app/redeem) CYBERWEEK 
 ### 💰 [ScreenFocus](https://www.apptorium.com/apps) – Auto dims side monitors. Brights up your focus. (macOS) · 40% off 
+### 💸 [PhotosUpload - FTP Uploader](https://apps.apple.com/app/photosupload/id1441656535) – Take photos, add tags and upload them to a FTP server (iOS) · 67% off 
+
 
 
 ## 🎨 Graphic Software
