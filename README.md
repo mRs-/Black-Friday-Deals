@@ -101,6 +101,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ### 💰 [CaptureOne](https://www.captureone.com/) – Photo catalog and editing software·  30% off ·  Code: BLACKFRIDAY30
 ### 💰 [HoudahGeo](https://www.houdah.com/houdahGeo/buy.html?coupon=HG-BLACKFRIDAY) – Photo geotagging. Add GPS locations to photos·  30% offCode: HG-BLACKFRIDAY
 ### 💰 [ScreenFlow](https://www.telestream.net/screenflow/store.asp) - Capture the highest quality screen recordings. (macOS) · 20% off 
+### 💰 [Avid Media Composer](https://www.bhphotovideo.com/c/product/1459009-REG/avid_9938_30116_00_media_composer_ultimate_1yr.html) - Professional video editing software offering real-time collaborative workflows (macOS) · 20% off 
 
 ## 🎓 Reference & Education
 
