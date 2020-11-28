@@ -169,6 +169,7 @@ For example:
 
 ### 💸 [BundleHunt](https://bundlehunt.com) Create your own bundle from 49 apps including BetterZip, Screens, PhotoMill, Name Mangler and more · 50+% off
 ### 💸 [Macnificent 9](https://unclutterapp.com/bundle/?coupon=UC-BLACKFRIDAY-2020&s=git) 9 remarkable apps brought together to let you unlock the full potential of your Mac (DaisyDisk, ForkLift 3, One Switch, RapidWeaver 8 and more) · 78% off
+### 💸 [StackSocial Cyber Monday Bundle](https://stacksocial.com/sales/the-official-cyber-monday-mac-bundle-ft-parallels-pro-luminar-4?aid=a-8jml7jot) - Our Best Mac Bundle of the Year Is Here! (Parallels Desktop Pro 15, Luminar 4, BusyCal 3, Gemini 2, Forklift 3 and more)
 
 ## 🕶 Lifestyle
 
