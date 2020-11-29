@@ -57,6 +57,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ### 💰 [TripMode 3](https://tripmode.ch) - Save data & money. Browse faster. (macOS) · 20% off 
 ### 💸 [Sensei](https://sensei.app) - The Next Generation Mac performance tool (macOS) · 50% off 
 ### 💰 [CleanMyMac X](https://macpaw.com/store/cleanmymac) -  Mac Cleaning Software (macOS) · 33% off 
+### 💰 [GlanceCam - IP Cam Viewer](https://apps.apple.com/app/glancecam-ip-webcam-viewer/id1360797896) -  View RTSP streams natively (macOS) · 40% off 
 
 ## 📌 Productivity Software
 
@@ -76,6 +77,8 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ### 💸 [Unclutter](https://unclutterapp.com/bundle/?coupon=UC-BLACKFRIDAY-2020&s=git) – Files, notes & clipboard manager for Mac · 50% off
 ### 💸 [Amicu](https://apps.apple.com/app/id1481868897) – Contact app with reminders to keep in touch (iOS) · 60% off year plan · [redeem](https://amicu.app/redeem) CYBERWEEK 
 ### 💰 [ScreenFocus](https://www.apptorium.com/apps) – Auto dims side monitors. Brights up your focus. (macOS) · 40% off 
+### 💸 [PhotosUpload - FTP Uploader](https://apps.apple.com/app/photosupload/id1441656535) – Take photos, add tags and upload them to a FTP server (iOS) · 67% off 
+
 
 
 ## 🎨 Graphic Software
@@ -192,6 +195,7 @@ For example:
 
 ### 💸 [Paprika 3](https://www.paprikaapp.com) Paprika is an app that helps you organize your recipes, make meal plans, and create grocery lists. Using Paprika's built-in browser, you can save recipes from anywhere on the web. Apps for iOS, macOS, Android and Windows. · 50% off
 ### 💰 [Longplay](https://apps.apple.com/us/app/longplay/id1495152002) (iOS) · 33% off
+### 💸 [TameTime: Awareness Times](https://apps.apple.com/app/tametime-awareness-timer/id1479326723) Be aware of the time you spend in front of your Mac to fight RSI, CVS and computer related stress (macOS) · 50% off
 
 ## 🎶 Creative content
 ### 💰 [Audiio • Music and Audio FX](https://audiio.com/pricing) $100 off lifetime music membership · 33% off (code: BLACKFRIDAY)
