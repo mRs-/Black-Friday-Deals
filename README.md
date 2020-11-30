@@ -78,6 +78,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ### 💸 [Amicu](https://apps.apple.com/app/id1481868897) – Contact app with reminders to keep in touch (iOS) · 60% off year plan · [redeem](https://amicu.app/redeem) CYBERWEEK 
 ### 💰 [ScreenFocus](https://www.apptorium.com/apps) – Auto dims side monitors. Brights up your focus. (macOS) · 40% off 
 ### 💸 [PhotosUpload - FTP Uploader](https://apps.apple.com/app/photosupload/id1441656535) – Take photos, add tags and upload them to a FTP server (iOS) · 67% off 
+### 💰 [Postbox - Email Client](https://www.postbox-inc.com/store/pricing) - Email for Powerusers · 33% off
 
 
 
