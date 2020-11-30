@@ -58,6 +58,8 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ### 💸 [Sensei](https://sensei.app) - The Next Generation Mac performance tool (macOS) · 50% off 
 ### 💰 [CleanMyMac X](https://macpaw.com/store/cleanmymac) -  Mac Cleaning Software (macOS) · 33% off 
 ### 💰 [GlanceCam - IP Cam Viewer](https://apps.apple.com/app/glancecam-ip-webcam-viewer/id1360797896) -  View RTSP streams natively (macOS) · 40% off 
+### 💰 [CrossOver](https://www.codeweavers.com/store) - Run Windows Apps on Mac and ChromeOS  · 20% off lifetime (CYBER20) & 50% off single (CYBER50)
+
 
 ## 📌 Productivity Software
 
