@@ -81,7 +81,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ### 💰 [ScreenFocus](https://www.apptorium.com/apps) – Auto dims side monitors. Brights up your focus. (macOS) · 40% off 
 ### 💸 [PhotosUpload - FTP Uploader](https://apps.apple.com/app/photosupload/id1441656535) – Take photos, add tags and upload them to a FTP server (iOS) · 67% off 
 ### 💰 [Postbox - Email Client](https://www.postbox-inc.com/store/pricing) - Email for Powerusers · 33% off
-
+### 💰 [MDX.one](https://mdx.one) – Notion to Blog in minutes - 30% off - Coupon code: BFCM2021
 
 
 ## 🎨 Graphic Software
