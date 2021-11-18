@@ -19,6 +19,11 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ### 💸 [OwlOCR](https://owlocr.com) – Digitize images and PDFs to searchable PDFs using OCR right on your Mac. • 50% off
 
 ## 🎨 Graphic Software
+### 💰 [Affinity Designer](https://affinity.serif.com/en-us/designer) – Create concept art, print projects, logos, icons, UI designs, mock-ups and more · 30% off from Friday, 19 November
+### 💰 [Affinity Photo](https://affinity.serif.com/en-us/photo) – The fastest, smoothest and most precise image editing software around · 30% off from Friday, 19 November
+### 💰 [Affinity Publisher](https://affinity.serif.com/en-us/publisher) – The next generation of professional publishing software · 30% off from Friday, 19 November
+
+
 
 ## 🎓 Reference & Education
 
