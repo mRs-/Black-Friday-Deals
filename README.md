@@ -12,6 +12,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ## 🛠 Development Software
 
 ### 💸 [ShellHistory](https://loshadki.app/blog/2021-11-11-shellhistory-1.1.0/) – Backup, sync and organize your shell history. • 50% off
+### 💰 [Proxyman](https://proxyman.io) - Modern. Native. Web Debugging Proxy for macOS, iOS and Android. Support Apple M1, macOS Big Sur & Monterey! Use code **PROXYMAN_BLACK_FRIDAY_2021**
 
 ## 🎛 Utility Software
 
