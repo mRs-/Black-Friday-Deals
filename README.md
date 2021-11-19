@@ -68,3 +68,4 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ## 🕶 Lifestyle
 
 ## 🎶 Creative content
+### 💸 [Arturia Software](https://www.arturia.com/black-friday-21) – Keyboards, studio FX and synths • 50% off
