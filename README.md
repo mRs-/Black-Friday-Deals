@@ -19,6 +19,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ## 📌 Productivity Software
 ### 💰 [MDX.one](https://mdx.one) – Notion to Blog in minutes - 30% off - Coupon code: BFCM2021
 ### 💸 [OwlOCR](https://owlocr.com) – Digitize images and PDFs to searchable PDFs using OCR right on your Mac. • 50% off
+### 💰 [Focused Work](https://apps.apple.com/app/id1523968394) - Flexible Focus Timer that helps you stay productive. For iPhone, iPad, and Mac. - 30% off
 ### 💸 [Trickster](https://www.apparentsoft.com/trickster) – Recent Files, at your fingertips (macOS) · 50% off
 
 ## 🎨 Graphic Software
