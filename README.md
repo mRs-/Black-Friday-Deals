@@ -75,6 +75,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ## 🎁 Bundles
 
 ## 🕶 Lifestyle
+### 💰 [ExpenseBuddy](https://expensebuddy.app) – The expense tracking app you are looking for (iOS) - 30% off
 
 ## 🎶 Creative content
 ### 💸 [Arturia Software](https://www.arturia.com/black-friday-21) – Keyboards, studio FX and synths • 50% off
