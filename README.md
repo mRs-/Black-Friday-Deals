@@ -12,6 +12,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ## 🛠 Development Software
 
 ### 💸 [ShellHistory](https://loshadki.app/blog/2021-11-11-shellhistory-1.1.0/) – Backup, sync and organize your shell history. • 50% off
+### 💰 [Proxyman](https://proxyman.io) - Modern. Native. Web Debugging Proxy for macOS, iOS and Android. Support Apple M1, macOS Big Sur & Monterey! Use code **PROXYMAN_BLACK_FRIDAY_2021**
 
 ## 🎛 Utility Software
 
@@ -19,11 +20,13 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ### 💰 [MDX.one](https://mdx.one) – Notion to Blog in minutes - 30% off - Coupon code: BFCM2021
 ### 💸 [OwlOCR](https://owlocr.com) – Digitize images and PDFs to searchable PDFs using OCR right on your Mac. • 50% off
 ### 💰 [Focused Work](https://apps.apple.com/app/id1523968394) - Flexible Focus Timer that helps you stay productive. For iPhone, iPad, and Mac. - 30% off
+### 💸 [Trickster](https://www.apparentsoft.com/trickster) – Recent Files, at your fingertips (macOS) · 50% off
 
 ## 🎨 Graphic Software
 ### 💰 [Affinity Designer](https://affinity.serif.com/en-us/designer) – Create concept art, print projects, logos, icons, UI designs, mock-ups and more · 30% off from Friday, 19 November
 ### 💰 [Affinity Photo](https://affinity.serif.com/en-us/photo) – The fastest, smoothest and most precise image editing software around · 30% off from Friday, 19 November
 ### 💰 [Affinity Publisher](https://affinity.serif.com/en-us/publisher) – The next generation of professional publishing software · 30% off from Friday, 19 November
+### 💸 [ImageFramer](https://imageframer.net) – Frame your images (macOS) · 50% off · Automatically applied
 
 
 
