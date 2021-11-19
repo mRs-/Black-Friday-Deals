@@ -54,6 +54,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ### 💸 [Swift in Sixty Seconds](https://gumroad.com/l/sixty/blackfriday21) · 50% off
 ### 💸 [Objective-C for Swift Developers](https://gumroad.com/l/objcswift/blackfriday21) · 50% off
 ### 💸 [Beyond Code](https://gumroad.com/l/beyondcode/blackfriday21) · 50% off
+### 💰 [All Pragmatic Bookshelf Books](https://media.pragprog.com/newsletters/2021-11-19.html) · 40% off
 
 ## 👩‍🎓 Courses and Videos
 
