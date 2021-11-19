@@ -21,7 +21,6 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ### 💸 [OwlOCR](https://owlocr.com) – Digitize images and PDFs to searchable PDFs using OCR right on your Mac. • 50% off
 ### 💰 [Focused Work](https://apps.apple.com/app/id1523968394) - Flexible Focus Timer that helps you stay productive. For iPhone, iPad, and Mac. - 30% off
 ### 💸 [Trickster](https://www.apparentsoft.com/trickster) – Recent Files, at your fingertips (macOS) · 50% off
-### 💰 [ExpenseBuddy](https://expensebuddy.app) – The expense tracking app you are looking for (iOS) - 30% off
 
 ## 🎨 Graphic Software
 ### 💰 [Affinity Designer](https://affinity.serif.com/en-us/designer) – Create concept art, print projects, logos, icons, UI designs, mock-ups and more · 30% off from Friday, 19 November
@@ -67,5 +66,6 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ## 🎁 Bundles
 
 ## 🕶 Lifestyle
+### 💰 [ExpenseBuddy](https://expensebuddy.app) – The expense tracking app you are looking for (iOS) - 30% off
 
 ## 🎶 Creative content
