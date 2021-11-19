@@ -15,7 +15,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ### 💰 [Proxyman](https://proxyman.io) - Modern. Native. Web Debugging Proxy for macOS, iOS and Android. Support Apple M1, macOS Big Sur & Monterey! Use code **PROXYMAN_BLACK_FRIDAY_2021**
 
 ## 🎛 Utility Software
-### [EaseUS MobiSaver and Data Recovery Wizard for Mac](https://www.easeus.com/campaign/2021-black-friday.html) – iOS and macOS data recovery • 60% off till 23 Nov
+### 💸 [EaseUS MobiSaver and Data Recovery Wizard for Mac](https://www.easeus.com/campaign/2021-black-friday.html) – iOS and macOS data recovery • 60% off till 23 Nov
 ## 📌 Productivity Software
 ### 💰 [MDX.one](https://mdx.one) – Notion to Blog in minutes - 30% off - Coupon code: BFCM2021
 ### 💸 [OwlOCR](https://owlocr.com) – Digitize images and PDFs to searchable PDFs using OCR right on your Mac. • 50% off
