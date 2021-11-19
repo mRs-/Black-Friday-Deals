@@ -17,7 +17,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ### 💰 [Script Editor for HomeMatic](https://apps.apple.com/us/app/hmscripteditor/id1483239744) – Edit and Run HomeMatic Rega scripts · 16% off
 
 ## 🎛 Utility Software
-
+### 💸 [EaseUS MobiSaver and Data Recovery Wizard for Mac](https://www.easeus.com/campaign/2021-black-friday.html) – iOS and macOS data recovery • 60% off till 23 Nov
 ## 📌 Productivity Software
 ### 💰 [MDX.one](https://mdx.one) – Notion to Blog in minutes - 30% off - Coupon code: BFCM2021
 ### 💸 [OwlOCR](https://owlocr.com) – Digitize images and PDFs to searchable PDFs using OCR right on your Mac. • 50% off
@@ -77,3 +77,4 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ## 🕶 Lifestyle
 
 ## 🎶 Creative content
+### 💸 [Arturia Software](https://www.arturia.com/black-friday-21) – Keyboards, studio FX and synths • 50% off
