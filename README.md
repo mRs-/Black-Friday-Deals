@@ -68,6 +68,8 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 
 ## 📈 Business Software
 
+### 💸 [Appfigures - App Store Optimization & Intelligence](https://appfigures.com/) · 50% off + Prizes
+
 ## 🏃🏻‍♀️ Health & Fitness Software
 
 ## 🎁 Bundles
