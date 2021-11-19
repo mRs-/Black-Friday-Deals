@@ -10,20 +10,24 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 
 
 ## 🛠 Development Software
-
 ### 💸 [ShellHistory](https://loshadki.app/blog/2021-11-11-shellhistory-1.1.0/) – Backup, sync and organize your shell history. • 50% off
 ### 💰 [Proxyman](https://proxyman.io) - Modern. Native. Web Debugging Proxy for macOS, iOS and Android. Support Apple M1, macOS Big Sur & Monterey! Use code **PROXYMAN_BLACK_FRIDAY_2021**
 ### 💰 [SVG Shaper for SwiftUI](https://apps.apple.com/us/app/svg-shaper-for-swiftui/id1566140414) – Convert simple SVG files to SwiftUI Shapes/Views · 33% off
 ### 💰 [Script Editor for HomeMatic](https://apps.apple.com/us/app/hmscripteditor/id1483239744) – Edit and Run HomeMatic Rega scripts · 16% off
+### 💰 [DropDMG](https://c-command.com/store/sale) – Create Mac disk images (.dmg files) (macOS) · 25% off with BLACKFRIDAY2021
 
 ## 🎛 Utility Software
 ### 💸 [EaseUS MobiSaver and Data Recovery Wizard for Mac](https://www.easeus.com/campaign/2021-black-friday.html) – iOS and macOS data recovery • 60% off till 23 Nov
+
 ## 📌 Productivity Software
 ### 💰 [MDX.one](https://mdx.one) – Notion to Blog in minutes - 30% off - Coupon code: BFCM2021
 ### 💸 [OwlOCR](https://owlocr.com) – Digitize images and PDFs to searchable PDFs using OCR right on your Mac. • 50% off
 ### 💰 [Focused Work](https://apps.apple.com/app/id1523968394) - Flexible Focus Timer that helps you stay productive. For iPhone, iPad, and Mac. - 30% off
 ### 💸 [Trickster](https://www.apparentsoft.com/trickster) – Recent Files, at your fingertips (macOS) · 50% off
 ### 💰 [Past for iChat](https://apps.apple.com/us/app/past-for-ichat/id1554897185) – Open iChat Chatlogs on macOS 11+ · 25% off
+### 💰 [SpamSieve](https://c-command.com/store/sale) – E-mail spam filtering for Mac · 25% off with BLACKFRIDAY2021
+### 💰 [EagleFiler](https://c-command.com/store/sale) – Organize files/notes and archive e-mails (Mac) · 25% off with BLACKFRIDAY2021
+
 
 ## 🎨 Graphic Software
 ### 💰 [Affinity Designer](https://affinity.serif.com/en-us/designer) – Create concept art, print projects, logos, icons, UI designs, mock-ups and more · 30% off from Friday, 19 November
@@ -34,11 +38,9 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 
 
 ## 🎓 Reference & Education
-
 ### 💸 [V for Wiki](https://v-for-wiki.com) – A very nice reader app for Wikipedia · 50% off
 
 ## 📖 Books
-
 ### 💸 [The Swift Power Pack (includes six books)](https://gumroad.com/l/swift-power-pack/blackfriday21) · 50% off
 ### 💸 [The Swift Platform Pack (includes six books)](https://gumroad.com/l/swift-platform-pack/blackfriday21) · 50% off
 ### 💸 [The Swift Plus Pack (includes six books)](https://gumroad.com/l/swift-plus-pack/blackfriday21) · 50% off
@@ -64,11 +66,9 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ### 💰 [Practical Combine](https://gumroad.com/l/practical-combine/blackfriday2021) · 25% off
 
 ## 👩‍🎓 Courses and Videos
-
 ### 💰 [Hacking with Swift+ Annual Subscription](https://gumroad.com/l/hws-subscription?yearly=true) · $40 off
 
 ## 📈 Business Software
-
 ### 💸 [Appfigures - App Store Optimization & Intelligence](https://appfigures.com/) · 50% off + Prizes
 
 ## 🏃🏻‍♀️ Health & Fitness Software
