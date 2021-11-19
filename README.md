@@ -18,11 +18,13 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ## 📌 Productivity Software
 ### 💰 [MDX.one](https://mdx.one) – Notion to Blog in minutes - 30% off - Coupon code: BFCM2021
 ### 💸 [OwlOCR](https://owlocr.com) – Digitize images and PDFs to searchable PDFs using OCR right on your Mac. • 50% off
+### 💸 [Trickster](https://www.apparentsoft.com/trickster) – Recent Files, at your fingertips (macOS) · 50% off
 
 ## 🎨 Graphic Software
 ### 💰 [Affinity Designer](https://affinity.serif.com/en-us/designer) – Create concept art, print projects, logos, icons, UI designs, mock-ups and more · 30% off from Friday, 19 November
 ### 💰 [Affinity Photo](https://affinity.serif.com/en-us/photo) – The fastest, smoothest and most precise image editing software around · 30% off from Friday, 19 November
 ### 💰 [Affinity Publisher](https://affinity.serif.com/en-us/publisher) – The next generation of professional publishing software · 30% off from Friday, 19 November
+### 💸 [ImageFramer](https://imageframer.net) – Frame your images (macOS) · 50% off · Automatically applied
 
 
 
