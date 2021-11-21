@@ -29,6 +29,8 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ### 💰 [Past for iChat](https://apps.apple.com/us/app/past-for-ichat/id1554897185) – Open iChat Chatlogs on macOS 11+ · 25% off
 ### 💰 [SpamSieve](https://c-command.com/store/sale) – E-mail spam filtering for Mac · 25% off with BLACKFRIDAY2021
 ### 💰 [EagleFiler](https://c-command.com/store/sale) – Organize files/notes and archive e-mails (Mac) · 25% off with BLACKFRIDAY2021
+### 💰 [Microbreak Boss](https://maximedupre.com/apps/microbreak-boss/black-friday) – Stay productive with a cool BOSS on your menu bar. Fully customizable.
+(Mac) · 75%% off
 
 
 ## 🎨 Graphic Software
