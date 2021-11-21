@@ -19,6 +19,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 
 ## 🎛 Utility Software
 ### 💸 [EaseUS MobiSaver and Data Recovery Wizard for Mac](https://www.easeus.com/campaign/2021-black-friday.html) – iOS and macOS data recovery • 60% off till 23 Nov
+### 💻 [SideMirror](https://sidemirrorapp.com) - Useful tool for presenters. 50% off through Cyber Monday!
 
 ## 📌 Productivity Software
 ### 💰 [MDX.one](https://mdx.one) – Notion to Blog in minutes - 30% off - Coupon code: BFCM2021
@@ -68,6 +69,8 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 
 ## 👩‍🎓 Courses and Videos
 ### 💰 [Hacking with Swift+ Annual Subscription](https://gumroad.com/l/hws-subscription?yearly=true) · $40 off
+### 🤓 [Combine Swift - Complete Course](https://combineswift.com) • $100 off (use coupon code `BFCOMBINE21`)
+### ☕️ [NSScreencast - Yearly Subscription](https://nsscreencast.com/coupons/yumpumpkinpie) • 50% off
 
 ## 📈 Business Software
 ### 💸 [Appfigures - App Store Optimization & Intelligence](https://appfigures.com/) · 50% off + Prizes
