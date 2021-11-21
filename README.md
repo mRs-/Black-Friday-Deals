@@ -64,6 +64,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ### 💰 [All Pragmatic Bookshelf Books](https://media.pragprog.com/newsletters/2021-11-19.html) · 40% off
 ### 💰 [Practical Core Data](https://gumroad.com/l/practical-core-data/blackfriday2021) · 25% off
 ### 💰 [Practical Combine](https://gumroad.com/l/practical-combine/blackfriday2021) · 25% off
+### 💰 [Learn Modern Auto Layout For iOS](https://useyourloaf.com/autolayout/) · 20% off
 
 ## 👩‍🎓 Courses and Videos
 ### 💰 [Hacking with Swift+ Annual Subscription](https://gumroad.com/l/hws-subscription?yearly=true) · $40 off
