@@ -23,6 +23,11 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ## 🎛 Utility Software
 ### 💸 [EaseUS MobiSaver and Data Recovery Wizard for Mac](https://www.easeus.com/campaign/2021-black-friday.html) – iOS and macOS data recovery • 60% off till 23 Nov
 ### 💻 [SideMirror](https://sidemirrorapp.com) - Useful tool for presenters. 50% off through Cyber Monday!
+### 💰 [Morpho Converter](https://apps.apple.com/app/id1494942612) - Fast, travel-focused converter for iOS and macOS. 20% off from Thursday until Cyber Monday.
+### 💸 [Pop Out Timer & Stopwatch](https://apps.apple.com/app/id1352722326) - Always on-screen floating stopwatch/timer using Picture in Picture. 50% off from Thursday until Cyber Monday.
+### 💰 [Attendant for Zoom](https://apps.apple.com/app/id1511771853) - Manage Zoom meetings with useful automations. 25% off from Thursday until Cyber Monday.
+### 💰 [Participant for Zoom](https://apps.apple.com/app/id1532789823) - Intentionally simple Zoom client with saved passcodes, native AirPlay, Apple Watch control and more. 20% off from Thursday until Cyber Monday.
+### 💰 [Rezoom](https://apps.apple.com/app/id1562226532) - Remote control for Zoom. 33% off from Thursday until Cyber Monday.
 
 ## 📌 Productivity Software
 ### 💰 [MDX.one](https://mdx.one) – Notion to Blog in minutes - 30% off - Coupon code: BFCM2021
