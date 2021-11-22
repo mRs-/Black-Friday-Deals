@@ -52,6 +52,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 
 ## 🎓 Reference & Education
 ### 💸 [V for Wiki](https://v-for-wiki.com) – A very nice reader app for Wikipedia · 50% off
+### 💰 [Nihongo](https://apps.apple.com/us/app/nihongo-modern-japanese-dictionary/id881697245?ls=1) - Japanese dictionary and study app for learning from immersion in videogames, manga, etc. · 40% off lifetime subscription
 
 ## 📖 Books
 ### 💸 [The Swift Power Pack (includes six books)](https://gumroad.com/l/swift-power-pack/blackfriday21) · 50% off
