@@ -76,6 +76,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 
 ## 📈 Business Software
 ### 💸 [Appfigures - App Store Optimization & Intelligence](https://appfigures.com/) · 50% off + Prizes
+### 🛡 [NordVPN](https://nordvpn.com/de/pricing/) · 72% off
 
 ## 🏃🏻‍♀️ Health & Fitness Software
 
