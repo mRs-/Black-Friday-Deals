@@ -9,6 +9,9 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 | 💸    | >= 50%  |
 
 
+## 🛒 Apps Bundle
+### 💸  [Setapp](https://stacksocial.com/sales/setapp-1-year-subscription-2?rid=6084091) - Access 210+ Curated Apps for Mac and Start Focusing on Your Work. • 36% off + coupon code `APPS30` = 55% off
+
 ## 🛠 Development Software
 ### 💸 [ShellHistory](https://loshadki.app/blog/2021-11-11-shellhistory-1.1.0/) – Backup, sync and organize your shell history. • 50% off
 ### 💰 [Proxyman](https://proxyman.io) - Modern. Native. Web Debugging Proxy for macOS, iOS, and Android. Capture & Inspect HTTP/HTTPS traffic with ease. Support Apple M1 and macOS Monterey. 30% OFF with code **PROXYMAN_BLACK_FRIDAY_2021**
