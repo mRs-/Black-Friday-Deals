@@ -19,6 +19,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ### 💰 [Script Editor for HomeMatic](https://apps.apple.com/us/app/hmscripteditor/id1483239744) – Edit and Run HomeMatic Rega scripts · 16% off
 ### 💰 [DropDMG](https://c-command.com/store/sale) – Create Mac disk images (.dmg files) (macOS) · 25% off with BLACKFRIDAY2021
 ### 💸 [SQLPro Studio](https://www.sqlprostudio.com/blackfriday.html) – A fully native database client for macOS and iOS. · 50% off
+### 💸 [Tower](https://www.git-tower.com) – Powerful Git client for macOS and Windows · 50% off
 
 ## 🎛 Utility Software
 ### 💸 [EaseUS MobiSaver and Data Recovery Wizard for Mac](https://www.easeus.com/campaign/2021-black-friday.html) – iOS and macOS data recovery • 60% off till 23 Nov
