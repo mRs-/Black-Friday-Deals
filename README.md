@@ -31,6 +31,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ### 💰 [EagleFiler](https://c-command.com/store/sale) – Organize files/notes and archive e-mails (Mac) · 25% off with BLACKFRIDAY2021
 ### 💸 [Microbreak Boss](https://maximedupre.com/apps/microbreak-boss/black-friday) – Stay productive with a cool BOSS on your menu bar. Fully customizable.
 (Mac) · 75%% off
+### 💌 [Postbox Email](https://www.postbox-inc.com/store/pricing) · 20% off
 
 
 ## 🎨 Graphic Software
