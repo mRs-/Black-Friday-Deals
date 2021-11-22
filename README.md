@@ -42,6 +42,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ### 💰 [Affinity Publisher](https://affinity.serif.com/en-us/publisher) – The next generation of professional publishing software · 30% off from Friday, 19 November
 ### 💸 [ImageFramer](https://imageframer.net) – Frame your images (macOS) · 50% off · Automatically applied
 ### 💰 [Adobe Creative Cloud](https://www.adobe.com/creativecloud/plans.html)  · 40% off first year only
+### 💸 [DxO PhotoLab 5 ELITE Edition](https://shop.dxo.com/en/photolab5-elite.html?awc=18165_1637584175_a4717e97555db376c76f91e2c3d2811d) · 50% off
 
 ## 🎓 Reference & Education
 ### 💸 [V for Wiki](https://v-for-wiki.com) – A very nice reader app for Wikipedia · 50% off
