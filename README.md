@@ -73,6 +73,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ### 💰 [Hacking with Swift+ Annual Subscription](https://gumroad.com/l/hws-subscription?yearly=true) · $40 off
 ### 🤓 [Combine Swift - Complete Course](https://combineswift.com) • $100 off (use coupon code `BFCOMBINE21`)
 ### ☕️ [NSScreencast - Yearly Subscription](https://nsscreencast.com/coupons/yumpumpkinpie) • 50% off
+### 🎤 [Babbel](https://begin.babbel.com/blackfriday/prices/deu-eur/?bsc=adrom_bf2021&btp=default) · 50% off
 
 ## 📈 Business Software
 ### 💸 [Appfigures - App Store Optimization & Intelligence](https://appfigures.com/) · 50% off + Prizes
