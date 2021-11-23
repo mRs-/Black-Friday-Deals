@@ -87,6 +87,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ### ☕️ [NSScreencast - Yearly Subscription](https://nsscreencast.com/coupons/yumpumpkinpie) • 50% off
 ### 🎤 [Babbel](https://begin.babbel.com/blackfriday/prices/deu-eur/?bsc=adrom_bf2021&btp=default) · 50% off
 ### 🤓 [Pluralsight](https://www.pluralsight.com/offer/2021/bf-cm-40-off?clickid=UcDw0YwPhxyIWaGW3Qy3XRbDUkG23F0FkU1eRU0&irgwc=1&mpid=121977&aid=7010a000001xAKZAA2) • 40% off
+### 👩‍💻 [codecademy](https://www.codecademy.com/) • 50% off (use coupon code `Cyber21`)
 
 ## 📈 Business Software
 ### 💸 [Appfigures - App Store Optimization & Intelligence](https://appfigures.com/) · 50% off + Prizes
