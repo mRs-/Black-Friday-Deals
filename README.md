@@ -41,7 +41,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ### 💸 [Microbreak Boss](https://maximedupre.com/apps/microbreak-boss/black-friday) – Stay productive with a cool BOSS on your menu bar. Fully customizable.
 (Mac) · 75%% off
 ### 💌 [Postbox Email](https://www.postbox-inc.com/store/pricing) · 20% off
-
+### 💸  [iMazing](https://stacksocial.com/sales/imazing-ios-manager-1-device-license?rid=6084091) - iMazing is a mobile device management software that allows users to transfer files and data between iOS devices and macOS or Windows computers. • 57% off + coupon code `APPS30` = 70% off
 
 ## 🎨 Graphic Software
 ### 💰 [Affinity Designer](https://affinity.serif.com/en-us/designer) – Create concept art, print projects, logos, icons, UI designs, mock-ups and more · 30% off from Friday, 19 November
