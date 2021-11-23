@@ -51,6 +51,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ### 💰 [Adobe Creative Cloud](https://www.adobe.com/creativecloud/plans.html)  · 40% off first year only
 ### 💸 [DxO PhotoLab 5 ELITE Edition](https://shop.dxo.com/en/photolab5-elite.html?awc=18165_1637584175_a4717e97555db376c76f91e2c3d2811d) · 50% off
 ### 🤖 [Topaz Labs AI Bundles](https://topazlabs.com/shop/) - GigaPixel AI, DeNoise AI, Sharpen AI & Video AI · 60% off + 15% off using code `rad15` or `shotkit`
+### 🖌 [Pixelmator Pro](https://apps.apple.com/de/app/pixelmator-pro/id1289583905?mt=12) · 50% off
 
 ## 🎓 Reference & Education
 ### 💸 [V for Wiki](https://v-for-wiki.com) – A very nice reader app for Wikipedia · 50% off
