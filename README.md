@@ -87,6 +87,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ### 💰 [Practical Core Data](https://gumroad.com/l/practical-core-data/blackfriday2021) · 25% off
 ### 💰 [Practical Combine](https://gumroad.com/l/practical-combine/blackfriday2021) · 25% off
 ### 💰 [Learn Modern Auto Layout For iOS](https://useyourloaf.com/autolayout/) · 20% off
+### 💸 [All raywenderlich.com Books on Sale for Just $29.99](https://www.raywenderlich.com/books) · 50% off
 
 ## 👩‍🎓 Courses and Videos
 ### 💰 [Hacking with Swift+ Annual Subscription](https://gumroad.com/l/hws-subscription?yearly=true) · $40 off
@@ -95,6 +96,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ### 🎤 [Babbel](https://begin.babbel.com/blackfriday/prices/deu-eur/?bsc=adrom_bf2021&btp=default) · 50% off
 ### 🤓 [Pluralsight](https://www.pluralsight.com/offer/2021/bf-cm-40-off?clickid=UcDw0YwPhxyIWaGW3Qy3XRbDUkG23F0FkU1eRU0&irgwc=1&mpid=121977&aid=7010a000001xAKZAA2) • 40% off
 ### 👩‍💻 [codecademy](https://www.codecademy.com/) • 50% off (use coupon code `Cyber21`)
+### 👩‍💻 [raywenderlich.com Annual Ultimate Pro Subscription](https://www.raywenderlich.com/29540014-black-friday-sale-pro-subscriptions-monthly-pro-seminars-for-399) • $399 for your first year  • Access all 4,000+ videos, 40+ books, and now monthly exclusive Professional Development Seminars!
 
 ## 📈 Business Software
 ### 💸 [Appfigures - App Store Optimization & Intelligence](https://appfigures.com/) · 50% off + Prizes
