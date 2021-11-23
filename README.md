@@ -9,9 +9,6 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 | 💸    | >= 50%  |
 
 
-## 🛒 Apps Bundle
-### 💸  [Setapp](https://stacksocial.com/sales/setapp-1-year-subscription-2?rid=6084091) - Access 210+ Curated Apps for Mac and Start Focusing on Your Work. • 36% off + coupon code `APPS30` = 55% off
-
 ## 🛠 Development Software
 ### 💸 [Blisk](https://blisk.io/) – Run Mobile Test or Cross-Device Test | Blisk. • 50% off
 ### 💸 [ShellHistory](https://loshadki.app/blog/2021-11-11-shellhistory-1.1.0/) – Backup, sync and organize your shell history. • 50% off
@@ -100,6 +97,11 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ## 🏃🏻‍♀️ Health & Fitness Software
 
 ## 🎁 Bundles
+### 💸  [Setapp](https://stacksocial.com/sales/setapp-1-year-subscription-2) - Access 210+ Curated Apps for Mac and Start Focusing on Your Work. • 36% off + coupon code `APPS30` = 55% off
+### 💸 [MacHeist](https://www.macheist.com/sales/the-complete-limited-edition-mac-bundle) Get lifetime subscriptions to
+VCam, Flame Painter 4, Pagico,
+PDF Reader, Sticky Password,
+and other Mac must-haves • 30% off with APP30 
 
 ## 🕶 Lifestyle
 ### 💰 [ExpenseBuddy](https://expensebuddy.app) – The expense tracking app you are looking for (iOS) - 30% off
