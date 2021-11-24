@@ -9,11 +9,11 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 |  💰   |   < 50% |
 |  💸   |  >= 50% |
 
-## 🛒 Apps Bundle
-
-### 💸 [Setapp](https://stacksocial.com/sales/setapp-1-year-subscription-2?rid=6084091) - Access 210+ Curated Apps for Mac and Start Focusing on Your Work. • 36% off + coupon code `APPS30` = 55% off
 
 ## 🛠 Development Software
+### 💸 [Blisk](https://blisk.io/) – Run Mobile Test or Cross-Device Test | Blisk. • 50% off
+
+### 💰 [Expressions](https://www.apptorium.com/expressions) - RegEx app with a beautiful user interface · 37% off
 
 ### 💸 [ShellHistory](https://loshadki.app/blog/2021-11-11-shellhistory-1.1.0/) – Backup, sync and organize your shell history. • 50% off
 
@@ -27,11 +27,15 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 
 ### 💸 [SQLPro Studio](https://www.sqlprostudio.com/blackfriday.html) – A fully native database client for macOS and iOS. · 50% off
 
+### 💰 [TeaCode](https://www.apptorium.com/teacode) - Text expanding app for developers. Skip repeating yourself. Use its 80 expanders and easily add your own. · 40% off
+
 ### 💸 [Tower](https://www.git-tower.com) – Powerful Git client for macOS and Windows · 50% off
 
 ## 🎛 Utility Software
 
 ### 💸 [EaseUS MobiSaver and Data Recovery Wizard for Mac](https://www.easeus.com/campaign/2021-black-friday.html) – iOS and macOS data recovery • 60% off till 23 Nov
+
+### 💰 [FiveNotes](https://www.apptorium.com/sidenotes) - FiveNotes in your menubar. Simplified Markdown for text formatting. · 40% off
 
 ### 💻 [SideMirror](https://sidemirrorapp.com) - Useful tool for presenters. 50% off through Cyber Monday!
 
@@ -57,6 +61,10 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 
 ### 💰 [Past for iChat](https://apps.apple.com/us/app/past-for-ichat/id1554897185) – Open iChat Chatlogs on macOS 11+ · 25% off
 
+### 💰 [ScreenFocus](https://www.apptorium.com/screenfocus) - Dim side screens automatically and keep focus on your current task. Protect your eyes from too much monitor light · 37% off
+
+### 💰 [SideNotes](https://www.apptorium.com/sidenotes) - Drop any quick note on the side of your screen. Grab your fleeting thoughts before you forget them. Get rid of post-it notes and messy desktop. · 40% off
+
 ### 💰 [SpamSieve](https://c-command.com/store/sale) – E-mail spam filtering for Mac · 25% off with BLACKFRIDAY2021
 
 ### 💰 [EagleFiler](https://c-command.com/store/sale) – Organize files/notes and archive e-mails (Mac) · 25% off with BLACKFRIDAY2021
@@ -66,6 +74,11 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 (Mac) · 75%% off
 
 ### 💌 [Postbox Email](https://www.postbox-inc.com/store/pricing) · 20% off
+
+### 💸  [iMazing](https://stacksocial.com/sales/imazing-ios-manager-1-device-license?rid=6084091) - iMazing is a mobile device management software that allows users to transfer files and data between iOS devices and macOS or Windows computers. • 57% off + coupon code `APPS30` = 70% off
+
+### 💰 [Workspaces](https://www.apptorium.com/workspaces) - It opens your projects in seconds. Workspaces keeps shortcuts to your project resources in one place. Switches you between projects easily. · 40% off
+
 
 ## 🎨 Graphic Software
 
@@ -81,7 +94,11 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 
 ### 💸 [DxO PhotoLab 5 ELITE Edition](https://shop.dxo.com/en/photolab5-elite.html?awc=18165_1637584175_a4717e97555db376c76f91e2c3d2811d) · 50% off
 
+### 💰 [Sparkle Pro 3](https://sparkleapp.com/store/) – Visual web design (macOS) · 40% off (automatically applied) · free upgrade to Sparkle 4 next month
+
 ### 🤖 [Topaz Labs AI Bundles](https://topazlabs.com/shop/) - GigaPixel AI, DeNoise AI, Sharpen AI & Video AI · 60% off + 15% off using code `rad15` or `shotkit`
+
+### 🖌 [Pixelmator Pro](https://apps.apple.com/de/app/pixelmator-pro/id1289583905?mt=12) · 50% off
 
 ## 🎓 Reference & Education
 
@@ -139,6 +156,8 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 
 ### 💰 [Learn Modern Auto Layout For iOS](https://useyourloaf.com/autolayout/) · 20% off
 
+### 💸 [All raywenderlich.com Books on Sale for Just $29.99](https://www.raywenderlich.com/books) · 50% off
+
 ## 👩‍🎓 Courses and Videos
 
 ### 💰 [Hacking with Swift+ Annual Subscription](https://gumroad.com/l/hws-subscription?yearly=true) · $40 off
@@ -152,6 +171,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ### 🤓 [Pluralsight](https://www.pluralsight.com/offer/2021/bf-cm-40-off?clickid=UcDw0YwPhxyIWaGW3Qy3XRbDUkG23F0FkU1eRU0&irgwc=1&mpid=121977&aid=7010a000001xAKZAA2) • 40% off
 
 ### 👩‍💻 [codecademy](https://www.codecademy.com/) • 50% off (use coupon code `Cyber21`)
+### 👩‍💻 [raywenderlich.com Annual Ultimate Pro Subscription](https://www.raywenderlich.com/29540014-black-friday-sale-pro-subscriptions-monthly-pro-seminars-for-399) • $399 for your first year  • Access all 4,000+ videos, 40+ books, and now monthly exclusive Professional Development Seminars!
 
 ## 📈 Business Software
 
@@ -162,6 +182,11 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ## 🏃🏻‍♀️ Health & Fitness Software
 
 ## 🎁 Bundles
+### 💸  [Setapp](https://stacksocial.com/sales/setapp-1-year-subscription-2) - Access 210+ Curated Apps for Mac and Start Focusing on Your Work. • 36% off + coupon code `APPS30` = 55% off
+### 💸 [MacHeist](https://www.macheist.com/sales/the-complete-limited-edition-mac-bundle) Get lifetime subscriptions to
+VCam, Flame Painter 4, Pagico,
+PDF Reader, Sticky Password,
+and other Mac must-haves • 30% off with APP30 
 
 ## 🕶 Lifestyle
 
