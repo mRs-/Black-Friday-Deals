@@ -33,6 +33,8 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 
 ### 💸 [Tower](https://www.git-tower.com) – Powerful Git client for macOS and Windows · 50% off
 
+### 💰 [Adaptivity](https://apps.apple.com/app/id1054670022) - Explore iOS layout, System Colors/Images/Materials and more · 30% off
+
 ## 🎛 Utility Software
 
 ### 💸 [EaseUS MobiSaver and Data Recovery Wizard for Mac](https://www.easeus.com/campaign/2021-black-friday.html) – iOS and macOS data recovery • 60% off till 23 Nov
@@ -205,7 +207,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ### 💸 [MacHeist](https://www.macheist.com/sales/the-complete-limited-edition-mac-bundle) Get lifetime subscriptions to
 VCam, Flame Painter 4, Pagico,
 PDF Reader, Sticky Password,
-and other Mac must-haves • 30% off with APP30 
+and other Mac must-haves • 30% off with APP30
 ### 💸  [The Applaudables](https://unclutterapp.com/bundle/?coupon=UC-BLACKFRIDAY-2021&s=git1) - 12 gorgeous Mac apps to make you put on a great performance • 78% off
 
 ## 🕶 Lifestyle
