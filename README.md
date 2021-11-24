@@ -83,6 +83,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ### 💰 [Workspaces](https://www.apptorium.com/workspaces) - It opens your projects in seconds. Workspaces keeps shortcuts to your project resources in one place. Switches you between projects easily. · 40% off
 ### 💸 [Unclutter](https://unclutterapp.com/bundle/?coupon=UC-BLACKFRIDAY-2021&s=git1#UNCLUTTER) - Files, notes & clipboard manager for Mac • 50% off
 
+### 💰 [HoudahSpot](https://www.houdah.com/houdahSpot/buy.html?coupon=BLACKFRIDAY2021) - Versatile & fast file search for Mac · 30% off
 
 
 ## 🎨 Graphic Software
@@ -104,6 +105,9 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ### 🤖 [Topaz Labs AI Bundles](https://topazlabs.com/shop/) - GigaPixel AI, DeNoise AI, Sharpen AI & Video AI · 60% off + 15% off using code `rad15` or `shotkit`
 
 ### 🖌 [Pixelmator Pro](https://apps.apple.com/de/app/pixelmator-pro/id1289583905?mt=12) · 50% off
+
+### 💰 [HoudahGeo](https://www.houdah.com/houdahGeo/buy.html?coupon=BLACKFRIDAY2021) - Photo geotagging for Mac. Add GPS locations to JPEG, RAW, Apple Photos · 30% off
+
 
 ## 🎓 Reference & Education
 
