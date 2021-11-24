@@ -194,6 +194,8 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ### 👩‍💻 [codecademy](https://www.codecademy.com/) • 50% off (use coupon code `Cyber21`)
 ### 👩‍💻 [raywenderlich.com Annual Ultimate Pro Subscription](https://www.raywenderlich.com/29540014-black-friday-sale-pro-subscriptions-monthly-pro-seminars-for-399) • $399 for your first year  • Access all 4,000+ videos, 40+ books, and now monthly exclusive Professional Development Seminars!
 
+### 💰 [Code With Chris CWC+ Annual Subscription](https://cwc.to/mrsbfdeals) • $42 off • Learn SwiftUI Foundations, Databases, Design and more!
+
 ## 📈 Business Software
 
 ### 💸 [Appfigures - App Store Optimization & Intelligence](https://appfigures.com/) · 50% off + Prizes
