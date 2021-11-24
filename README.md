@@ -50,7 +50,10 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ### 💰 [Participant for Zoom](https://apps.apple.com/app/id1532789823) - Intentionally simple Zoom client with saved passcodes, native AirPlay, Apple Watch control and more. 20% off from Thursday until Cyber Monday.
 
 ### 💰 [Rezoom](https://apps.apple.com/app/id1562226532) - Remote control for Zoom. 33% off from Thursday until Cyber Monday.
+
 ### 💸 [DaisyDisk](https://unclutterapp.com/bundle/?coupon=UC-BLACKFRIDAY-2021&s=git1#DAISYDISK) - Analyze disk usage and free up disk space on Mac • 50% off
+
+### 💸 [iStat Menus](https://bjango.com/mac/istatmenus/) - An advanced Mac system monitor for your menu bar. - 75% off
 
 ## 📌 Productivity Software
 
