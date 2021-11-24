@@ -81,8 +81,10 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ### 💸  [iMazing](https://stacksocial.com/sales/imazing-ios-manager-1-device-license?rid=6084091) - iMazing is a mobile device management software that allows users to transfer files and data between iOS devices and macOS or Windows computers. • 57% off + coupon code `APPS30` = 70% off
 
 ### 💰 [Workspaces](https://www.apptorium.com/workspaces) - It opens your projects in seconds. Workspaces keeps shortcuts to your project resources in one place. Switches you between projects easily. · 40% off
+
 ### 💸 [Unclutter](https://unclutterapp.com/bundle/?coupon=UC-BLACKFRIDAY-2021&s=git1#UNCLUTTER) - Files, notes & clipboard manager for Mac • 50% off
 
+### 💸 [Rezi.ai](https://rezi.ai) – AI Resume and Cover letter. Generate ATS friendly resume to bypass the automatic rejection. Let the AI write your Cover letter in 1 click. Keyword targeting tool, Grammarly like correction, and more. - Lifetime with 80% off - Coupon code: `Hire80`
 
 
 ## 🎨 Graphic Software
