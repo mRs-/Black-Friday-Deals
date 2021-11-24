@@ -170,6 +170,10 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 
 ### 💸 [All raywenderlich.com Books on Sale for Just $29.99](https://www.raywenderlich.com/books) · 50% off
 
+### 💰 [eBook Writing Workflow for Developers - 30% off](https://store.miguelcoba.com/l/ebookwriting) · 30% off
+
+### 💸 [Deploying Elixir - FREE download](https://store.miguelcoba.com/l/deployingelixir) · FREE download
+
 ## 👩‍🎓 Courses and Videos
 
 ### 💰 [Hacking with Swift+ Annual Subscription](https://gumroad.com/l/hws-subscription?yearly=true) · $40 off
