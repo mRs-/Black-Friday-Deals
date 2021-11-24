@@ -48,6 +48,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ### 💰 [Participant for Zoom](https://apps.apple.com/app/id1532789823) - Intentionally simple Zoom client with saved passcodes, native AirPlay, Apple Watch control and more. 20% off from Thursday until Cyber Monday.
 
 ### 💰 [Rezoom](https://apps.apple.com/app/id1562226532) - Remote control for Zoom. 33% off from Thursday until Cyber Monday.
+### 💸 [DaisyDisk](https://unclutterapp.com/bundle/?coupon=UC-BLACKFRIDAY-2021&s=git1#DAISYDISK) - Analyze disk usage and free up disk space on Mac • 50% off
 
 ## 📌 Productivity Software
 
@@ -78,6 +79,8 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ### 💸  [iMazing](https://stacksocial.com/sales/imazing-ios-manager-1-device-license?rid=6084091) - iMazing is a mobile device management software that allows users to transfer files and data between iOS devices and macOS or Windows computers. • 57% off + coupon code `APPS30` = 70% off
 
 ### 💰 [Workspaces](https://www.apptorium.com/workspaces) - It opens your projects in seconds. Workspaces keeps shortcuts to your project resources in one place. Switches you between projects easily. · 40% off
+### 💸 [Unclutter](https://unclutterapp.com/bundle/?coupon=UC-BLACKFRIDAY-2021&s=git1#UNCLUTTER) - Files, notes & clipboard manager for Mac • 50% off
+
 
 
 ## 🎨 Graphic Software
@@ -187,6 +190,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 VCam, Flame Painter 4, Pagico,
 PDF Reader, Sticky Password,
 and other Mac must-haves • 30% off with APP30 
+### 💸  [The Applaudables](https://unclutterapp.com/bundle/?coupon=UC-BLACKFRIDAY-2021&s=git1) - 12 gorgeous Mac apps to make you put on a great performance • 78% off
 
 ## 🕶 Lifestyle
 
