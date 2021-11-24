@@ -86,6 +86,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 
 ### 💸 [Rezi.ai](https://rezi.ai) – AI Resume and Cover letter. Generate ATS friendly resume to bypass the automatic rejection. Let the AI write your Cover letter in 1 click. Keyword targeting tool, Grammarly like correction, and more. - Lifetime with 80% off - Coupon code: `Hire80`
 
+### ⚙️ [MacPlus Software](https://sites.fastspring.com/noteifyapp/product/MacPlusStore) - ActiveDock, MultiDock, DockView, Command-Tab Plus, WindowSwitcher. KeepNotes, MaxSnap • 50% off
 
 ## 🎨 Graphic Software
 
