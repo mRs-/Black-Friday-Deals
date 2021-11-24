@@ -11,6 +11,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 
 ## 🛠 Development Software
 ### 💸 [Blisk](https://blisk.io/) – Run Mobile Test or Cross-Device Test | Blisk. • 50% off
+### 💰 [DevUtils](https://devutils.app/) – Powerful developer tools for your everyday tasks. Native macOS app, work offline, and respect your data. BLACKFRIDAY_2021R. • 30% off
 ### 💰 [Expressions](https://www.apptorium.com/expressions) - RegEx app with a beautiful user interface · 37% off
 ### 💸 [ShellHistory](https://loshadki.app/blog/2021-11-11-shellhistory-1.1.0/) – Backup, sync and organize your shell history. • 50% off
 ### 💰 [Proxyman](https://proxyman.io) - Modern. Native. Web Debugging Proxy for macOS, iOS, and Android. Capture & Inspect HTTP/HTTPS traffic with ease. Support Apple M1 and macOS Monterey. 30% OFF with code **PROXYMAN_BLACK_FRIDAY_2021**
