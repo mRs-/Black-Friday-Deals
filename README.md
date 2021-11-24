@@ -86,6 +86,8 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 
 ### 💸 [Rezi.ai](https://rezi.ai) – AI Resume and Cover letter. Generate ATS friendly resume to bypass the automatic rejection. Let the AI write your Cover letter in 1 click. Keyword targeting tool, Grammarly like correction, and more. - Lifetime with 80% off - Coupon code: `Hire80`
 
+### 💰 [HoudahSpot](https://www.houdah.com/houdahSpot/buy.html?coupon=BLACKFRIDAY2021) - Versatile & fast file search for Mac · 30% off
+
 
 ## 🎨 Graphic Software
 
@@ -106,6 +108,9 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ### 🤖 [Topaz Labs AI Bundles](https://topazlabs.com/shop/) - GigaPixel AI, DeNoise AI, Sharpen AI & Video AI · 60% off + 15% off using code `rad15` or `shotkit`
 
 ### 🖌 [Pixelmator Pro](https://apps.apple.com/de/app/pixelmator-pro/id1289583905?mt=12) · 50% off
+
+### 💰 [HoudahGeo](https://www.houdah.com/houdahGeo/buy.html?coupon=BLACKFRIDAY2021) - Photo geotagging for Mac. Add GPS locations to JPEG, RAW, Apple Photos · 30% off
+
 
 ## 🎓 Reference & Education
 
