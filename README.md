@@ -179,6 +179,10 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 
 ### 💸 [Deploying Elixir - FREE download](https://store.miguelcoba.com/l/deployingelixir) · FREE download
 
+### 💸 [Swift 5.0 Data Structures and Algorithms Book](https://www.waynewbishop.com/ios-interview/book) · 50% off 
+
+### 💸 [Top 100 Swift Interview Questions - FREE download](https://pages.waynewbishop.com/) · FREE download
+
 ## 👩‍🎓 Courses and Videos
 
 ### 💰 [Hacking with Swift+ Annual Subscription](https://gumroad.com/l/hws-subscription?yearly=true) · $40 off
@@ -195,6 +199,8 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ### 👩‍💻 [raywenderlich.com Annual Ultimate Pro Subscription](https://www.raywenderlich.com/29540014-black-friday-sale-pro-subscriptions-monthly-pro-seminars-for-399) • $399 for your first year  • Access all 4,000+ videos, 40+ books, and now monthly exclusive Professional Development Seminars!
 
 ### 💰 [Code With Chris CWC+ Annual Subscription](https://cwc.to/mrsbfdeals) • $42 off • Learn SwiftUI Foundations, Databases, Design and more!
+
+### 💸 [Swift Essentials * Complete Beginners Course](https://www.waynewbishop.com/ios-interview/course) · 50% off 
 
 ## 📈 Business Software
 
