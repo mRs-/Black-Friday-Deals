@@ -33,6 +33,8 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 
 ### 💸 [Tower](https://www.git-tower.com) – Powerful Git client for macOS and Windows · 50% off
 
+### 💸 [Tinker 2](https://tinker2.app/) – A Laravel Tinker desktop app that helps you run testing code on the local machine and remote server without modifying source code. 30% off with code **BLACKFRIDAY**
+
 ## 🎛 Utility Software
 
 ### 💸 [EaseUS MobiSaver and Data Recovery Wizard for Mac](https://www.easeus.com/campaign/2021-black-friday.html) – iOS and macOS data recovery • 60% off till 23 Nov
