@@ -35,6 +35,8 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 
 ## 🎛 Utility Software
 
+### 💸 [iStat Menus](https://bjango.com/mac/istatmenus/) – macOS System monitor • 75% off all options
+
 ### 💸 [EaseUS MobiSaver and Data Recovery Wizard for Mac](https://www.easeus.com/campaign/2021-black-friday.html) – iOS and macOS data recovery • 60% off till 23 Nov
 
 ### 💰 [FiveNotes](https://www.apptorium.com/sidenotes) - FiveNotes in your menubar. Simplified Markdown for text formatting. · 40% off
