@@ -209,3 +209,4 @@ and other Mac must-haves • 30% off with APP30
 ## 🤑 Finance
 
 ### 💸 [Trading View](https://www.tradingview.com/black-friday/) – Pro 40% ,Pro+ 50% ,Premium 60% and +1 free month
+### 💰 [MoneyWiz](https://www.wiz.money/pricing) – Bill reminder,Budget planner,Spending forecasts.SAVE 20% on moneywiz by using this coupon code when purchasing via their [website](https://www.wiz.money/pricing): `BFCM2021`
