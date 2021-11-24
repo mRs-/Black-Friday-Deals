@@ -32,6 +32,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ### 💰 [Rezoom](https://apps.apple.com/app/id1562226532) - Remote control for Zoom. 33% off from Thursday until Cyber Monday.
 
 ## 📌 Productivity Software
+### 💸 [Rezi.ai](https://rezi.ai) – AI Resume and Cover letter. Generate ATS friendly resume to bypass the automatic rejection. Let the AI write your Cover letter in 1 click. Keyword targeting tool, Grammarly like correction, and more. - Lifetime with 80% off - Coupon code: `Hire80`
 ### 💰 [MDX.one](https://mdx.one) – Notion to Blog in minutes - 30% off - Coupon code: BFCM2021
 ### 💸 [OwlOCR](https://owlocr.com) – Digitize images and PDFs to searchable PDFs using OCR right on your Mac. • 50% off
 ### 💰 [Focused Work](https://apps.apple.com/app/id1523968394) - Flexible Focus Timer that helps you stay productive. For iPhone, iPad, and Mac. - 30% off
