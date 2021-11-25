@@ -239,7 +239,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 
 ## 🎁 Bundles
 
-### 💸  [Setapp](https://stacksocial.com/sales/setapp-1-year-subscription-2) - Access 210+ Curated Apps for Mac and Start Focusing on Your Work. • 36% off + coupon code `APPS30` = 55% off
+### 💸  [Setapp](https://stacksocial.com/sales/setapp-1-year-subscription-2) - Access 210+ Curated Apps for Mac and Start Focusing on Your Work. • 36% off + coupon code `BFSAVE40` for additional 40%
 
 ### 💸 [MacHeist](https://www.macheist.com/sales/the-complete-limited-edition-mac-bundle) Get lifetime subscriptions to
 VCam, Flame Painter 4, Pagico,
