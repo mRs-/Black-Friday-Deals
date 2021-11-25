@@ -199,6 +199,8 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 
 ### 💸 [A Swift Kickstart](https://editorscut.gumroad.com/l/swift-kickstart/black%20friday?_ga=2.147279806.886015184.1637345132-1643763074.1637345132&_gl=1*7s6y0r*_ga*MTY0Mzc2MzA3NC4xNjM3MzQ1MTMy*_ga_6LJN6D94N6*MTYzNzM0NTEzNC4xLjEuMTYzNzM0NzQwNi4w) · 50% off
 
+### 💸 [eBook The Prime Guide For Next Gen Developer](https://theankurtyagi.gumroad.com/l/nextgendev/) · 55% off
+
 ## 👩‍🎓 Courses and Videos
 
 ### 💰 [Hacking with Swift+ Annual Subscription](https://gumroad.com/l/hws-subscription?yearly=true) · $40 off
