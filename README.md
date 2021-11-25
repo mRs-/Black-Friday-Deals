@@ -102,6 +102,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 
 ### 💰 [HoudahSpot](https://www.houdah.com/houdahSpot/buy.html?coupon=BLACKFRIDAY2021) - Versatile & fast file search for Mac · 30% off
 
+### ✅ [Things 3](https://culturedcode.com/things/pricing/) - The best task management app  • 30% off
 
 ## 🎨 Graphic Software
 
