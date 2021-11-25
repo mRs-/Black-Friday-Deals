@@ -189,6 +189,15 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 
 ### 💸 [Deploying Elixir - FREE download](https://store.miguelcoba.com/l/deployingelixir) · FREE download
 
+### 💸 [The Ultimate Kickstart Bundle](https://editorscut.gumroad.com/l/kickstart-bundle/black%20friday?_ga=2.154542897.886015184.1637345132-1643763074.1637345132&_gl=1*1r61bfs*_ga*MTY0Mzc2MzA3NC4xNjM3MzQ1MTMy*_ga_6LJN6D94N6*MTYzNzM0NTEzNC4xLjEuMTYzNzM0NTE4Ny4w) · 50% off
+
+### 💸 [A SwiftUI Kickstart](https://editorscut.gumroad.com/l/swiftuikickstart/black%20friday?_ga=2.184945568.886015184.1637345132-1643763074.1637345132&_gl=1*1jqaw7c*_ga*MTY0Mzc2MzA3NC4xNjM3MzQ1MTMy*_ga_6LJN6D94N6*MTYzNzM0NTEzNC4xLjEuMTYzNzM0NzE4MC4w) · 50% off
+
+### 💸 [A Combine Kickstart](https://editorscut.gumroad.com/l/combineKickstart/black%20friday?_ga=2.222243857.886015184.1637345132-1643763074.1637345132&_gl=1*pct2c2*_ga*MTY0Mzc2MzA3NC4xNjM3MzQ1MTMy*_ga_6LJN6D94N6*MTYzNzM0NTEzNC4xLjEuMTYzNzM0NzI1OS4w) · 50% off
+
+### 💸 [A Functional Programming Kickstart](https://editorscut.gumroad.com/l/functionalKickstart/black%20friday?_ga=2.213870365.886015184.1637345132-1643763074.1637345132&_gl=1*6d0liu*_ga*MTY0Mzc2MzA3NC4xNjM3MzQ1MTMy*_ga_6LJN6D94N6*MTYzNzM0NTEzNC4xLjEuMTYzNzM0NzM0My4w) · 50% off
+
+### 💸 [A Swift Kickstart](https://editorscut.gumroad.com/l/swift-kickstart/black%20friday?_ga=2.147279806.886015184.1637345132-1643763074.1637345132&_gl=1*7s6y0r*_ga*MTY0Mzc2MzA3NC4xNjM3MzQ1MTMy*_ga_6LJN6D94N6*MTYzNzM0NTEzNC4xLjEuMTYzNzM0NzQwNi4w) · 50% off
 
 ## 👩‍🎓 Courses and Videos
 
@@ -203,11 +212,22 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ### 🤓 [Pluralsight](https://www.pluralsight.com/offer/2021/bf-cm-40-off?clickid=UcDw0YwPhxyIWaGW3Qy3XRbDUkG23F0FkU1eRU0&irgwc=1&mpid=121977&aid=7010a000001xAKZAA2) • 40% off
 
 ### 👩‍💻 [codecademy](https://www.codecademy.com/) • 50% off (use coupon code `Cyber21`)
+
 ### 👩‍💻 [raywenderlich.com Annual Ultimate Pro Subscription](https://www.raywenderlich.com/29540014-black-friday-sale-pro-subscriptions-monthly-pro-seminars-for-399) • $399 for your first year  • Access all 4,000+ videos, 40+ books, and now monthly exclusive Professional Development Seminars!
 
 ### 💰 [Explorers Club - Big Mountain Studio](https://www.bigmountainstudio.com/?coupon=BF_2021) • 40% off (5 Courses included)
 
 ### 💰 [Code With Chris CWC+ Annual Subscription](https://cwc.to/mrsbfdeals) • $42 off • Learn SwiftUI Foundations, Databases, Design and more!
+
+### 💸 [Design+Code](https://designcode.io/) · 50% off
+
+### 💰 [SwiftUI Fundamentals](https://seanallen.teachable.com/p/swiftui-fundamentals) · $24 off
+
+### 💰 [iOS Dev Launchpad](https://seanallen.teachable.com/p/ios-dev-launchpad) · $12 off
+
+### 💰 [iOS Dev Job Interview Practice - Take Home Project](https://seanallen.teachable.com/p/take-home) · $40 off
+
+### 💰 [Dub Dub Grub - SwiftUI, MapKit & CloudKit](https://seanallen.teachable.com/p/dub-dub-grub-swiftui-mapkit-cloudkit) · $40 off
 
 ## 📈 Business Software
 
@@ -218,11 +238,14 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ## 🏃🏻‍♀️ Health & Fitness Software
 
 ## 🎁 Bundles
+
 ### 💸  [Setapp](https://stacksocial.com/sales/setapp-1-year-subscription-2) - Access 210+ Curated Apps for Mac and Start Focusing on Your Work. • 36% off + coupon code `APPS30` = 55% off
+
 ### 💸 [MacHeist](https://www.macheist.com/sales/the-complete-limited-edition-mac-bundle) Get lifetime subscriptions to
 VCam, Flame Painter 4, Pagico,
 PDF Reader, Sticky Password,
 and other Mac must-haves • 30% off with APP30
+
 ### 💸  [The Applaudables](https://unclutterapp.com/bundle/?coupon=UC-BLACKFRIDAY-2021&s=git1) - 12 gorgeous Mac apps to make you put on a great performance • 78% off
 ### 💸  [The SwiftUI Book Bundle - Big Mountain Studio](https://www.bigmountainstudio.com/book-bundle?coupon=BUNDLE_60) - 4 Books: SwiftUI Views, Animations, Data & Combine • 60% off
 ## 🕶 Lifestyle
