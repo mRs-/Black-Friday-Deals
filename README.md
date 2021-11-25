@@ -37,6 +37,8 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 
 ### 💰 [Adaptivity](https://apps.apple.com/app/id1054670022) - Explore iOS layout, System Colors/Images/Materials and more · 30% off
 
+### 💸 [Graphman](https://apps.apple.com/us/app/graphman-mobile/id1546916084) - GraphQL playground for iOS and macOS • Free for iOS - 45% off for macOS
+
 ## 🎛 Utility Software
 
 ### 💸 [EaseUS MobiSaver and Data Recovery Wizard for Mac](https://www.easeus.com/campaign/2021-black-friday.html) – iOS and macOS data recovery • 60% off till 23 Nov
