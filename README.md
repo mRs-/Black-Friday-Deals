@@ -62,6 +62,8 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 
 ### 💸 [iStat Menus](https://bjango.com/mac/istatmenus/) - An advanced Mac system monitor for your menu bar. - 75% off
 
+### 💸 [Sensei](https://sensei.app) - Next Generation Mac Performance Tool. – 50% off
+
 ## 📌 Productivity Software
 
 ### 💰 [MDX.one](https://mdx.one) – Notion to Blog in minutes - 30% off - Coupon code: BFCM2021
