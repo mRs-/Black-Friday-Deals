@@ -70,6 +70,8 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 
 ## 📌 Productivity Software
 
+### 💸 [Pasty](https://apple.co/3Br7WjH) - Pasty is a clipboard manager that stores everything you copy on your mac: texts, links, images, and even files. • 50% off on Lifetime purchase
+
 ### 💰 [MDX.one](https://mdx.one) – Notion to Blog in minutes - 30% off - Coupon code: BFCM2021
 
 ### 💸 [OwlOCR](https://owlocr.com) – Digitize images and PDFs to searchable PDFs using OCR right on your Mac. • 50% off
