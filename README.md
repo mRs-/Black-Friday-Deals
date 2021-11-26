@@ -259,6 +259,8 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 
 ## 🏃🏻‍♀️ Health & Fitness Software
 
+### 💸 [HealthExport](https://apps.apple.com/us/app/health-export-csv/id1477944755) · Free - 100% off · iOS app for exporting health data
+
 ## 🎁 Bundles
 
 ### 💸  [Setapp](https://stacksocial.com/sales/setapp-1-year-subscription-2) - Access 210+ Curated Apps for Mac and Start Focusing on Your Work. • 36% off + coupon code `BFSAVE40` for additional 40%
