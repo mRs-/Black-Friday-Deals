@@ -211,6 +211,10 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 
 ### 💸 [eBook The Prime Guide For Next Gen Developer](https://theankurtyagi.gumroad.com/l/nextgendev/) · 55% off
 
+### 💸 [Swift 5.0 Algorithms Book](https://www.waynewbishop.com/ios-interview/book) · 50% off
+
+### 💸 [Top 100 Swift Interview Questions](https://pages.waynewbishop.com) · Free
+
 ## 👩‍🎓 Courses and Videos
 
 ### 💰 [Hacking with Swift+ Annual Subscription](https://gumroad.com/l/hws-subscription?yearly=true) · $40 off
@@ -240,6 +244,8 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ### 💰 [iOS Dev Job Interview Practice - Take Home Project](https://seanallen.teachable.com/p/take-home) · $40 off
 
 ### 💰 [Dub Dub Grub - SwiftUI, MapKit & CloudKit](https://seanallen.teachable.com/p/dub-dub-grub-swiftui-mapkit-cloudkit) · $40 off
+
+### 💸 [Swift Essentials Online Course](https://www.waynewbishop.com/ios-interview/course) · 50% off
 
 ## 📈 Business Software
 
