@@ -255,6 +255,8 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 
 ### 🛡 [NordVPN](https://nordvpn.com/de/pricing/) · 72% off
 
+### 🛡 [TelemetryDeck](https://twitter.com/Telemetry_Deck/status/1464219283458826261) · 30% off
+
 ## 🏃🏻‍♀️ Health & Fitness Software
 
 ## 🎁 Bundles
