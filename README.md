@@ -70,6 +70,8 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 
 ## 📌 Productivity Software
 
+### 💸 [Notesnook](https://notesnook.com/) - End to end encrypted private notes app. For iPhone, iPad, macOS - 70% off - Coupon code: BIGFRIDAY
+
 ### 💰 [MDX.one](https://mdx.one) – Notion to Blog in minutes - 30% off - Coupon code: BFCM2021
 
 ### 💸 [OwlOCR](https://owlocr.com) – Digitize images and PDFs to searchable PDFs using OCR right on your Mac. • 50% off
@@ -217,6 +219,8 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 
 ### 💸 [Top 100 Swift Interview Questions](https://pages.waynewbishop.com) · Free
 
+### 💸 [eBook: Being a lead software developer](https://appforce1.gumroad.com/l/leaddeveloper/Turkeysale2021 ) · 50% off
+
 ## 👩‍🎓 Courses and Videos
 
 ### 💰 [Hacking with Swift+ Annual Subscription](https://gumroad.com/l/hws-subscription?yearly=true) · $40 off
@@ -260,6 +264,9 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ## 🏃🏻‍♀️ Health & Fitness Software
 
 ### 💸 [HealthExport](https://apps.apple.com/us/app/health-export-csv/id1477944755) · Free - 100% off · iOS app for exporting health data
+
+### 💸 [Reframe](https://www.joinreframeapp.com/install?id=1509) - Cutback or Quit Drinking Alcohol through a guided neuroscience based approach · 50% off annual (use coupon code `BLACKFRI50`)
+
 
 ## 🎁 Bundles
 
