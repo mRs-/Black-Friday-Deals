@@ -259,6 +259,8 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 
 ## 🏃🏻‍♀️ Health & Fitness Software
 
+### 💸 [Reframe](https://www.joinreframeapp.com/install?id=1509) - Cutback or Quit Drinking Alcohol through a guided neuroscience based approach · 50% off annual (use coupon code `BLACKFRI50`)
+
 ## 🎁 Bundles
 
 ### 💸  [Setapp](https://stacksocial.com/sales/setapp-1-year-subscription-2) - Access 210+ Curated Apps for Mac and Start Focusing on Your Work. • 36% off + coupon code `BFSAVE40` for additional 40%
