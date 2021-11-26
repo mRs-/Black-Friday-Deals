@@ -66,6 +66,8 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 
 ### 💸 [Sensei](https://sensei.app) - Next Generation Mac Performance Tool. – 50% off
 
+### 💸 [ishim AIO Domain Tools](https://ish.im/black-friday) - Domain WHOIS, bulk availability check and 1-word name generator. – 60% off
+
 ## 📌 Productivity Software
 
 ### 💰 [MDX.one](https://mdx.one) – Notion to Blog in minutes - 30% off - Coupon code: BFCM2021
