@@ -263,7 +263,10 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 
 ## 🏃🏻‍♀️ Health & Fitness Software
 
+### 💸 [HealthExport](https://apps.apple.com/us/app/health-export-csv/id1477944755) · Free - 100% off · iOS app for exporting health data
+
 ### 💸 [Reframe](https://www.joinreframeapp.com/install?id=1509) - Cutback or Quit Drinking Alcohol through a guided neuroscience based approach · 50% off annual (use coupon code `BLACKFRI50`)
+
 
 ## 🎁 Bundles
 
