@@ -70,6 +70,8 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 
 ## 📌 Productivity Software
 
+### 💸 [Notesnook](https://notesnook.com/) - End to end encrypted private notes app. For iPhone, iPad, macOS - 70% off - Coupon code: BIGFRIDAY
+
 ### 💰 [MDX.one](https://mdx.one) – Notion to Blog in minutes - 30% off - Coupon code: BFCM2021
 
 ### 💸 [OwlOCR](https://owlocr.com) – Digitize images and PDFs to searchable PDFs using OCR right on your Mac. • 50% off
