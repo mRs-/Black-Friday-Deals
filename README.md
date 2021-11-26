@@ -217,6 +217,8 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 
 ### 💸 [Top 100 Swift Interview Questions](https://pages.waynewbishop.com) · Free
 
+### 💸 [eBook: Being a lead software developer](https://appforce1.gumroad.com/l/leaddeveloper/Turkeysale2021 ) · 50% off
+
 ## 👩‍🎓 Courses and Videos
 
 ### 💰 [Hacking with Swift+ Annual Subscription](https://gumroad.com/l/hws-subscription?yearly=true) · $40 off
