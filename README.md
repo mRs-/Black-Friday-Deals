@@ -39,6 +39,8 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 
 ### 💸 [Graphman](https://apps.apple.com/us/app/graphman-mobile/id1546916084) - GraphQL playground for iOS and macOS • Free for iOS - 45% off for macOS
 
+### 💸 [Monday Hero](https://mondayhero.io/) - Design to Mobile Code - Figma, Adobe XD and Sketch App integrated · 80% off Forever, Coupon code: FOREVER80OFF valid until Cyber Monday.
+
 ## 🎛 Utility Software
 
 ### 💸 [EaseUS MobiSaver and Data Recovery Wizard for Mac](https://www.easeus.com/campaign/2021-black-friday.html) – iOS and macOS data recovery • 60% off till 23 Nov
@@ -70,8 +72,6 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 
 ## 📌 Productivity Software
 
-### 💸 [Pasty](https://apple.co/3Br7WjH) - Pasty is a clipboard manager that stores everything you copy on your mac: texts, links, images, and even files. • 50% off on Lifetime purchase
-
 ### 💰 [MDX.one](https://mdx.one) – Notion to Blog in minutes - 30% off - Coupon code: BFCM2021
 
 ### 💸 [OwlOCR](https://owlocr.com) – Digitize images and PDFs to searchable PDFs using OCR right on your Mac. • 50% off
@@ -90,9 +90,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 
 ### 💰 [EagleFiler](https://c-command.com/store/sale) – Organize files/notes and archive e-mails (Mac) · 25% off with BLACKFRIDAY2021
 
-### 💸 [Microbreak Boss](https://maximedupre.com/apps/microbreak-boss/black-friday) – Stay productive with a cool BOSS on your menu bar. Fully customizable.
-
-(Mac) · 75%% off
+### 💸 [Microbreak Boss](https://maximedupre.com/apps/microbreak-boss/black-friday) – Stay productive with a cool BOSS on your menu bar. Fully customizable. (Mac) · 75%% off
 
 ### 💌 [Postbox Email](https://www.postbox-inc.com/store/pricing) · 20% off
 
@@ -109,6 +107,10 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ### 💰 [HoudahSpot](https://www.houdah.com/houdahSpot/buy.html?coupon=BLACKFRIDAY2021) - Versatile & fast file search for Mac · 30% off
 
 ### ✅ [Things 3](https://culturedcode.com/things/pricing/) - The best task management app  • 30% off
+
+### ⚙️ [MacPlus Software](https://sites.fastspring.com/noteifyapp/product/MacPlusStore) - ActiveDock, MultiDock, DockView, Command-Tab Plus, WindowSwitcher. KeepNotes, MaxSnap • 50% off
+
+### 💸 [Pasty](https://apple.co/3Br7WjH) - Pasty is a clipboard manager that stores everything you copy on your mac: texts, links, images, and even files. • 50% off on Lifetime purchase
 
 ## 🎨 Graphic Software
 
@@ -219,6 +221,8 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 
 ### 💸 [Top 100 Swift Interview Questions](https://pages.waynewbishop.com) · Free
 
+### 💸 [eBook: Being a lead software developer](https://appforce1.gumroad.com/l/leaddeveloper/Turkeysale2021 ) · 50% off
+
 ## 👩‍🎓 Courses and Videos
 
 ### 💰 [Hacking with Swift+ Annual Subscription](https://gumroad.com/l/hws-subscription?yearly=true) · $40 off
@@ -260,6 +264,11 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ### 🛡 [TelemetryDeck](https://twitter.com/Telemetry_Deck/status/1464219283458826261) · 30% off
 
 ## 🏃🏻‍♀️ Health & Fitness Software
+
+### 💸 [HealthExport](https://apps.apple.com/us/app/health-export-csv/id1477944755) · Free - 100% off · iOS app for exporting health data
+
+### 💸 [Reframe](https://www.joinreframeapp.com/install?id=1509) - Cutback or Quit Drinking Alcohol through a guided neuroscience based approach · 50% off annual (use coupon code `BLACKFRI50`)
+
 
 ## 🎁 Bundles
 
