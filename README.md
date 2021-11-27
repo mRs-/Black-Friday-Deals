@@ -41,6 +41,8 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 
 ### 💸 [Monday Hero](https://mondayhero.io/) - Design to Mobile Code - Figma, Adobe XD and Sketch App integrated · 80% off Forever, Coupon code: FOREVER80OFF valid until Cyber Monday.
 
+### 💰 [Secure ShellFish - Lifetime Pro Unlock](https://secureshellfish.app/) - SSH & SFTP for iOS · 20% off
+
 ## 🎛 Utility Software
 
 ### 💸 [EaseUS MobiSaver and Data Recovery Wizard for Mac](https://www.easeus.com/campaign/2021-black-friday.html) – iOS and macOS data recovery • 60% off till 23 Nov
