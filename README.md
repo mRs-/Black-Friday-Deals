@@ -72,8 +72,6 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 
 ## 📌 Productivity Software
 
-### 💸 [Notesnook](https://notesnook.com/) - End to end encrypted private notes app. For iPhone, iPad, macOS - 70% off - Coupon code: BIGFRIDAY
-
 ### 💰 [MDX.one](https://mdx.one) – Notion to Blog in minutes - 30% off - Coupon code: BFCM2021
 
 ### 💸 [OwlOCR](https://owlocr.com) – Digitize images and PDFs to searchable PDFs using OCR right on your Mac. • 50% off
@@ -92,9 +90,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 
 ### 💰 [EagleFiler](https://c-command.com/store/sale) – Organize files/notes and archive e-mails (Mac) · 25% off with BLACKFRIDAY2021
 
-### 💸 [Microbreak Boss](https://maximedupre.com/apps/microbreak-boss/black-friday) – Stay productive with a cool BOSS on your menu bar. Fully customizable.
-
-(Mac) · 75%% off
+### 💸 [Microbreak Boss](https://maximedupre.com/apps/microbreak-boss/black-friday) – Stay productive with a cool BOSS on your menu bar. Fully customizable. (Mac) · 75%% off
 
 ### 💌 [Postbox Email](https://www.postbox-inc.com/store/pricing) · 20% off
 
@@ -113,6 +109,8 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ### ✅ [Things 3](https://culturedcode.com/things/pricing/) - The best task management app  • 30% off
 
 ### ⚙️ [MacPlus Software](https://sites.fastspring.com/noteifyapp/product/MacPlusStore) - ActiveDock, MultiDock, DockView, Command-Tab Plus, WindowSwitcher. KeepNotes, MaxSnap • 50% off
+
+### 💸 [Pasty](https://apple.co/3Br7WjH) - Pasty is a clipboard manager that stores everything you copy on your mac: texts, links, images, and even files. • 50% off on Lifetime purchase
 
 ## 🎨 Graphic Software
 
