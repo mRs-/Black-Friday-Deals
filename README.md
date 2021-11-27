@@ -37,6 +37,10 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 
 ### 💰 [Adaptivity](https://apps.apple.com/app/id1054670022) - Explore iOS layout, System Colors/Images/Materials and more · 30% off
 
+### 💸 [Graphman](https://apps.apple.com/us/app/graphman-mobile/id1546916084) - GraphQL playground for iOS and macOS • Free for iOS - 45% off for macOS
+
+### 💸 [Monday Hero](https://mondayhero.io/) - Design to Mobile Code - Figma, Adobe XD and Sketch App integrated · 80% off Forever, Coupon code: FOREVER80OFF valid until Cyber Monday.
+
 ## 🎛 Utility Software
 
 ### 💸 [EaseUS MobiSaver and Data Recovery Wizard for Mac](https://www.easeus.com/campaign/2021-black-friday.html) – iOS and macOS data recovery • 60% off till 23 Nov
@@ -64,7 +68,11 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 
 ### 💸 [Sensei](https://sensei.app) - Next Generation Mac Performance Tool. – 50% off
 
+### 💸 [ishim AIO Domain Tools](https://ish.im/black-friday) - Domain WHOIS, bulk availability check and 1-word name generator. – 60% off
+
 ## 📌 Productivity Software
+
+### 💸 [Notesnook](https://notesnook.com/) - End to end encrypted private notes app. For iPhone, iPad, macOS - 70% off - Coupon code: BIGFRIDAY
 
 ### 💰 [MDX.one](https://mdx.one) – Notion to Blog in minutes - 30% off - Coupon code: BFCM2021
 
@@ -98,9 +106,13 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 
 ### 💸 [Rezi.ai](https://rezi.ai) – AI Resume and Cover letter. Generate ATS friendly resume to bypass the automatic rejection. Let the AI write your Cover letter in 1 click. Keyword targeting tool, Grammarly like correction, and more. - Lifetime with 80% off - Coupon code: `Hire80`
 
-### ⚙️ [MacPlus Software](https://sites.fastspring.com/noteifyapp/product/MacPlusStore) - ActiveDock, MultiDock, DockView, Command-Tab Plus, WindowSwitcher. KeepNotes, MaxSnap • 50% off
+### 💸 [Paste](https://pasteapp.io) – A Better Way to Copy and Paste on your Mac, iPhone, and iPad • 66% Off for the first year on all devices.
 
 ### 💰 [HoudahSpot](https://www.houdah.com/houdahSpot/buy.html?coupon=BLACKFRIDAY2021) - Versatile & fast file search for Mac · 30% off
+
+### ✅ [Things 3](https://culturedcode.com/things/pricing/) - The best task management app  • 30% off
+
+### ⚙️ [MacPlus Software](https://sites.fastspring.com/noteifyapp/product/MacPlusStore) - ActiveDock, MultiDock, DockView, Command-Tab Plus, WindowSwitcher. KeepNotes, MaxSnap • 50% off
 
 ## 🎨 Graphic Software
 
@@ -207,6 +219,12 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 
 ### 💸 [eBook The Prime Guide For Next Gen Developer](https://theankurtyagi.gumroad.com/l/nextgendev/) · 55% off
 
+### 💸 [Swift 5.0 Algorithms Book](https://www.waynewbishop.com/ios-interview/book) · 50% off
+
+### 💸 [Top 100 Swift Interview Questions](https://pages.waynewbishop.com) · Free
+
+### 💸 [eBook: Being a lead software developer](https://appforce1.gumroad.com/l/leaddeveloper/Turkeysale2021 ) · 50% off
+
 ## 👩‍🎓 Courses and Videos
 
 ### 💰 [Hacking with Swift+ Annual Subscription](https://gumroad.com/l/hws-subscription?yearly=true) · $40 off
@@ -237,13 +255,22 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 
 ### 💰 [Dub Dub Grub - SwiftUI, MapKit & CloudKit](https://seanallen.teachable.com/p/dub-dub-grub-swiftui-mapkit-cloudkit) · $40 off
 
+### 💸 [Swift Essentials Online Course](https://www.waynewbishop.com/ios-interview/course) · 50% off
+
 ## 📈 Business Software
 
 ### 💸 [Appfigures - App Store Optimization & Intelligence](https://appfigures.com/) · 50% off + Prizes
 
 ### 🛡 [NordVPN](https://nordvpn.com/de/pricing/) · 72% off
 
+### 🛡 [TelemetryDeck](https://twitter.com/Telemetry_Deck/status/1464219283458826261) · 30% off
+
 ## 🏃🏻‍♀️ Health & Fitness Software
+
+### 💸 [HealthExport](https://apps.apple.com/us/app/health-export-csv/id1477944755) · Free - 100% off · iOS app for exporting health data
+
+### 💸 [Reframe](https://www.joinreframeapp.com/install?id=1509) - Cutback or Quit Drinking Alcohol through a guided neuroscience based approach · 50% off annual (use coupon code `BLACKFRI50`)
+
 
 ## 🎁 Bundles
 
