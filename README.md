@@ -112,6 +112,8 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 
 ### ✅ [Things 3](https://culturedcode.com/things/pricing/) - The best task management app  • 30% off
 
+### ⚙️ [MacPlus Software](https://sites.fastspring.com/noteifyapp/product/MacPlusStore) - ActiveDock, MultiDock, DockView, Command-Tab Plus, WindowSwitcher. KeepNotes, MaxSnap • 50% off
+
 ## 🎨 Graphic Software
 
 ### 💰 [Affinity Designer](https://affinity.serif.com/en-us/designer) – Create concept art, print projects, logos, icons, UI designs, mock-ups and more · 30% off from Friday, 19 November
