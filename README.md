@@ -291,6 +291,8 @@ and other Mac must-haves • 30% off with APP30
 
 ### 💰 [Fin - Budget Tracker](https://apps.apple.com/app/apple-store/id1489698531?pt=2327221&ct=blackfriday2021-github&mt=8) – 30% off the first year, starting Nov. 26.
 
+### 💸 [BackStory Wallpapers](https://apps.apple.com/app/backstory-wallpapers/id1468700458) - Dekstop wallpapers from your Photos library on a timer · 67% off 
+
 ## 🎶 Creative content
 
 ### 💸 [Arturia Software](https://www.arturia.com/black-friday-21) – Keyboards, studio FX and synths • 50% off
