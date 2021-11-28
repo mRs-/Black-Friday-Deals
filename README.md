@@ -47,7 +47,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 
 ### 💸 [EaseUS MobiSaver and Data Recovery Wizard for Mac](https://www.easeus.com/campaign/2021-black-friday.html) – iOS and macOS data recovery • 60% off till 23 Nov
 
-### 💰 [FiveNotes](https://www.apptorium.com/sidenotes) - FiveNotes in your menubar. Simplified Markdown for text formatting. · 40% off
+### 💰 [FiveNotes](https://www.apptorium.com/fivenotes) - FiveNotes in your menubar. Simplified Markdown for text formatting. · 40% off
 
 ### 💻 [SideMirror](https://sidemirrorapp.com) - Useful tool for presenters. 50% off through Cyber Monday!
 
