@@ -72,6 +72,8 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 
 ### 💸 [ishim AIO Domain Tools](https://ish.im/black-friday) - Domain WHOIS, bulk availability check and 1-word name generator. – 60% off
 
+### 💰 [Camo](https://reincubate.com/camo/) – Upgrade your video by using your phone as a pro-quality webcam. – 40% off with CYBERCAMO
+
 ## 📌 Productivity Software
 
 ### 💰 [MDX.one](https://mdx.one) – Notion to Blog in minutes - 30% off - Coupon code: BFCM2021
