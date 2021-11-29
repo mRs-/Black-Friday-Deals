@@ -259,6 +259,8 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 
 ### 💸 [Swift Essentials Online Course](https://www.waynewbishop.com/ios-interview/course) · 50% off
 
+### 💰 [Point-Free - Yearly Subscription](https://www.pointfree.co/discounts/cyber-monday-2021) · 30% off
+
 ## 📈 Business Software
 
 ### 💸 [Appfigures - App Store Optimization & Intelligence](https://appfigures.com/) · 50% off + Prizes
