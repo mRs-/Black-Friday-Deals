@@ -114,6 +114,8 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 
 ### 💸 [Pasty](https://apple.co/3Br7WjH) - Pasty is a clipboard manager that stores everything you copy on your mac: texts, links, images, and even files. • 50% off on Lifetime purchase
 
+### 💸 [Memento: Modern Reminders](https://apps.apple.com/us/app/memento-modern-reminders/id1200227397) - A beautifully simple reminders app • 50% off
+
 ## 🎨 Graphic Software
 
 ### 💰 [Affinity Designer](https://affinity.serif.com/en-us/designer) – Create concept art, print projects, logos, icons, UI designs, mock-ups and more · 30% off from Friday, 19 November
