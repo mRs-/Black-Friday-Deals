@@ -57,6 +57,8 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 
 ### 💰 [Attendant for Zoom](https://apps.apple.com/app/id1511771853) - Manage Zoom meetings with useful automations. 25% off from Thursday until Cyber Monday.
 
+### 💰 [Geekersoft PDF to Word](https://www.geekersoft.com/pdf-to-word-online.html) - Use online PDF to Word. Free starting Thursday, billing time to be determined.
+
 ### 💰 [Participant for Zoom](https://apps.apple.com/app/id1532789823) - Intentionally simple Zoom client with saved passcodes, native AirPlay, Apple Watch control and more. 20% off from Thursday until Cyber Monday.
 
 
