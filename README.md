@@ -231,8 +231,12 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 
 ## 👩‍🎓 Courses and Videos
 
-### 💰 [Hacking with Swift+ Annual Subscription](https://gumroad.com/l/hws-subscription?yearly=true) · $40 off
 
+### 💰 [Practical DevSecOps - Hands on DevSecOps and Product Security Courses](https://www.practical-devsecops.com/black-friday/) • 15% off
+
+### 💰 [Hacking with Swift+ Annual Subscription](https://gumroad.com/l/hws-subscription?yearly=true) · $40 off
+[
+](https://www.practical-devsecops.com/black-friday/)
 ### 🤓 [Combine Swift - Complete Course](https://combineswift.com) • $100 off (use coupon code `BFCOMBINE21`)
 
 ### ☕️ [NSScreencast - Yearly Subscription](https://nsscreencast.com/coupons/yumpumpkinpie) • 50% off
