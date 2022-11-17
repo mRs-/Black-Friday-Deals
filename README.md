@@ -11,6 +11,8 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 
 
 ## 🛠 Development Software
+### 💰 [Proxyman](https://proxyman.io) - Modern. Native. Web Debugging Proxy for macOS, iOS, and Android. Capture & Inspect HTTP/HTTPS traffic with ease. Fully supports Apple M1 & macOS Ventura. 30% OFF with code **PROXYMAN_BLACK_FRIDAY_2022**
+
 ## 📌 Productivity Software
 ## 🎨 Graphic Software
 ## 🎓 Reference & Education
