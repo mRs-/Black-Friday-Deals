@@ -61,6 +61,8 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 
 ### 💸 [Beyond Code](https://gumroad.com/l/beyondcode/blackfriday22) · 50% off
 
+### 💰 [Integrating SwiftUI into UIKit Apps](https://books.nilcoalescing.com/integrating-swiftui) · 30% off
+
 
 ## 👩‍🎓 Courses and Videos
 
