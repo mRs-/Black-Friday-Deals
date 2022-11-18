@@ -74,6 +74,9 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ## 📈 Business Software
 ## 🏃🏻‍♀️ Health & Fitness Software
 ## 🎁 Bundles
+
+### 💸 [Bundlehunt - 2022 Holiday Mac Bundle](https://bundlehunt.com/bundle/2022-holiday-mac-bundle) 56 macOS apps, with $3.5 unlock price, and large discounts.
+
 ## 🎶 Creative content
 ## 🤑 Finance
 
