@@ -15,6 +15,8 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ### 💸 [DevUtils](https://devutils.com) - All-in-one toolbox for developers. Fully supports Apple Silicon & macOS Ventura. 50% OFF with code **BLACKFRIDAY_2022**
 
 ## 📌 Productivity Software
+### 💰 [Spaces](https://spacesformac.xyz) - Declutter & organize your workspace in one single click. Features: Raycast integration, 16+ custom layouts, layout switcher, shortcuts support and many more - **40% OFF until BlACK FRIDAY**
+
 ## 🎨 Graphic Software
 ### 💸 [Xnapper](https://xnapper.com) - Take beautiful screenshot easy and fast. Smart features: auto balance, auto hide sensitive info, auto fill background color. Other features: with annotations, image compression, and keyboard shortcuts. Fully supports Apple Silicon & macOS Ventura. 50% OFF with code **BLACKFRIDAY_2022**
 
