@@ -80,5 +80,8 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ### 💸 [Bundlehunt - 2022 Holiday Mac Bundle](https://bundlehunt.com/bundle/2022-holiday-mac-bundle) 56 macOS apps, with $3.5 unlock price, and large discounts.
 
 ## 🎶 Creative content
+
+### 💸 [Paprika Recipe Manager](https://www.paprikaapp.com) - Recipe manager for Mac, iOS, Android and Windows
+
 ## 🤑 Finance
 
