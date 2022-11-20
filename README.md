@@ -13,8 +13,12 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ## 🛠 Development Software
 ### 💰 [Proxyman](https://proxyman.io) - Modern. Native. Web Debugging Proxy for macOS, iOS, and Android. Capture & Inspect HTTP/HTTPS traffic with ease. Fully supports Apple M1 & macOS Ventura. 30% OFF with code **PROXYMAN_BLACK_FRIDAY_2022**
 ### 💸 [DevUtils](https://devutils.com) - All-in-one toolbox for developers. Fully supports Apple Silicon & macOS Ventura. 50% OFF with code **BLACKFRIDAY_2022**
+### 💰 [Code for SQLite3](https://apps.apple.com/us/app/code-for-sqlite3/id1638111010) – Generate Swift code for SQLite3 databases · 33% off
+### 💰 [SVG Shaper for SwiftUI](https://apps.apple.com/us/app/svg-shaper-for-swiftui/id1566140414) – Convert simple SVG files to SwiftUI Shapes/Views · 33% off
 
 ## 📌 Productivity Software
+### 💰 [Past for iChat](https://apps.apple.com/us/app/past-for-ichat/id1554897185) – Open iChat Chatlogs on macOS 11+ · 33% off
+
 ## 🎨 Graphic Software
 ### 💸 [Xnapper](https://xnapper.com) - Take beautiful screenshot easy and fast. Smart features: auto balance, auto hide sensitive info, auto fill background color. Other features: with annotations, image compression, and keyboard shortcuts. Fully supports Apple Silicon & macOS Ventura. 50% OFF with code **BLACKFRIDAY_2022**
 
@@ -81,4 +85,8 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 
 ## 🎶 Creative content
 ## 🤑 Finance
+
+## 🏡 Home Automation
+### 💰 [Script Editor for HomeMatic](https://apps.apple.com/us/app/hmscripteditor/id1483239744) – Edit and Run HomeMatic Rega scripts · 16% off
+### 💰 [Battery Status for HomeMatic](https://apps.apple.com/us/app/batterie-status-für-homematic/id1538622445) – Shows battery level of HomeMatic devices · 25% off
 
