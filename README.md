@@ -33,6 +33,9 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 
 ### 💸 [Button Creator for Stream Deck](https://apps.apple.com/app/button-creator-for-stream-deck/id1559303865) - The quickest way to create button images for your Elgato Stream Deck · 50% off
 
+## 🏝️ Lifestyle
+### 💰 [Superlayer](https://apps.apple.com/app/id1601796450) — Widget Creator Engine for Mac · 20% off (Lifetime Purchase)
+
 ## 🎓 Reference & Education
 
 ## 📖 Books
