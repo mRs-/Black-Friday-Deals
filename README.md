@@ -20,6 +20,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ### 💰 [GlanceCal](https://apps.apple.com/us/app/glancecal-menu-bar-calendar/id1475680776) - Native Menu Bar Calendar for macOS. Your day at a glance. 30% OFF in the Mac App Store from November 21st to November 25th
 ### 💰 [Timelog](https://timelog.link) - Time & Goal Tracker for iOS · 30% OFF Timelog Plus with code **BLACKFRIDAY22**
 ### 💰 [TextSniper](https://textsniper.app) - Blazingly fast and lightweight macOS application that instantly helps OCR/copy any non-selectable or uncopiable text from your Mac screen. Fully supports Apple Silicon & macOS Ventura. 40% OFF with code **TSBFG2022**
+### 💰 [Spaces](https://spacesformac.xyz) - Declutter & organize your workspace in one single click. Features: Raycast integration, 16+ custom layouts, layout switcher, shortcuts support and many more - **40% OFF until BlACK FRIDAY**
 
 ## 🎨 Graphic Software
 ### 💸 [Xnapper](https://xnapper.com) - Take beautiful screenshot easy and fast. Smart features: auto balance, auto hide sensitive info, auto fill background color. Other features: with annotations, image compression, and keyboard shortcuts. Fully supports Apple Silicon & macOS Ventura. 50% OFF with code **BLACKFRIDAY_2022**
