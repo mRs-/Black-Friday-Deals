@@ -16,6 +16,8 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 
 ## 📌 Productivity Software
 ### 💸 [Reading Time - Book Tracker](https://apps.apple.com/app/id1561460485) · Unlock forever is 50% off 
+### 💰 [Email Me App](https://www.emailmeapp.net) - A native iOS, MacOS and WatchOS App to email yourself and much more with just one tap. 50% OFF for the lifetime purchase.
+
 ## 🎨 Graphic Software
 ### 💸 [Xnapper](https://xnapper.com) - Take beautiful screenshot easy and fast. Smart features: auto balance, auto hide sensitive info, auto fill background color. Other features: with annotations, image compression, and keyboard shortcuts. Fully supports Apple Silicon & macOS Ventura. 50% OFF with code **BLACKFRIDAY_2022**
 
