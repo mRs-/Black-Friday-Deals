@@ -118,6 +118,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ### 💰 [Percento](https://www.percento.app) - Simple personal finance manager. App Store Top 10 Finance Apps of 2022 (China store). It helps you save time on tracking expense and making investment decisions. Sync rates and prices for your stocks and cryptocurrencies automatically. **50% off for lifetime membership**
 ### 💸 [Expense Buddy](https://expensebuddy.app) - Personal expense & budget tracking app. 20% OFF for all subscription plans.
 ### 💸 [Cashculator](https://cashculator.app) - The easy way to forecast personal finances (Mac). 50% off.
+### 💸 [Belongings](https://apps.apple.com/us/app/belongings-home-inventory/id1580380407) - Personal Belongings Inventory, Keep track of your belongings for those unexpected moments (iOS, iPad, Mac). 50% off on the AppStore.
 
 
 ## 🏡 Home Automation
