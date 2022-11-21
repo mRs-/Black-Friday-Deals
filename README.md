@@ -17,7 +17,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ### 💰 [SVG Shaper for SwiftUI](https://apps.apple.com/us/app/svg-shaper-for-swiftui/id1566140414) – Convert simple SVG files to SwiftUI Shapes/Views · 33% off
 
 ## 📌 Productivity Software
-### 💸 [Reading Time - Book Tracker](https://apps.apple.com/app/id1561460485) · Unlock forever is 50% off 
+### 💸 [Reading Time - Book Tracker](https://apps.apple.com/app/id1561460485) · Unlock forever is 50% off
 ### 💰 [Email Me App](https://www.emailmeapp.net) - A native iOS, MacOS and WatchOS App to email yourself and much more with just one tap. 50% OFF for the lifetime purchase.
 ### 💰 [GlanceCal](https://apps.apple.com/us/app/glancecal-menu-bar-calendar/id1475680776) - Native Menu Bar Calendar for macOS. Your day at a glance. 30% OFF in the Mac App Store from November 21st to November 25th
 ### 💰 [Timelog](https://timelog.link) - Time & Goal Tracker for iOS · 30% OFF Timelog Plus with code **BLACKFRIDAY22**
@@ -29,6 +29,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ### 💰 [StopTheScript](https://underpassapp.com/StopTheScript/) - iOS Safari extension that stops all JavaScript on your selected websites. $2 off until December 1.
 ### 💰 [Tweaks for Twitter](https://underpassapp.com/tweaks/) - Web browser extension that improves the user interface of Twitter in many ways. $2 off in the iOS App Store and Mac App Store until December 1.
 ### 💰 [Notebooks](https://www.notebooksapp.com/) - App for notebooks, thoughts, ideas, tasks, etc. 30% off for Black Friday.
+### 💸 [Mellel](https://www.mellel.com) Mellel is a word processor designed from the ground up to be the ultimate writing tool for academics, technical writers, scholars and students. 25% off till Dec 1.
 
 ## 🎨 Graphic Software
 ### 💸 [Xnapper](https://xnapper.com) - Take beautiful screenshot easy and fast. Smart features: auto balance, auto hide sensitive info, auto fill background color. Other features: with annotations, image compression, and keyboard shortcuts. Fully supports Apple Silicon & macOS Ventura. 50% OFF with code **BLACKFRIDAY_2022**
@@ -39,6 +40,8 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 
 ## 🏝️ Lifestyle
 ### 💰 [Superlayer](https://apps.apple.com/app/id1601796450) — Widget Creator Engine for Mac · 20% off (Lifetime Purchase)
+
+### 💰 [Affinity Designer 2, Affinity Photo 2, Affinity Publisher 2](https://affinity.serif.com/en-gb/) Professional photo editing, publishing, graphic design and illustration at your fingertips. 40% off.
 
 ## 🎓 Reference & Education
 
