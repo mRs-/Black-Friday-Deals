@@ -15,6 +15,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ### 💸 [DevUtils](https://devutils.com) - All-in-one toolbox for developers. Fully supports Apple Silicon & macOS Ventura. 50% OFF with code **BLACKFRIDAY_2022**
 ### 💰 [Code for SQLite3](https://apps.apple.com/us/app/code-for-sqlite3/id1638111010) – Generate Swift code for SQLite3 databases · 33% off
 ### 💰 [SVG Shaper for SwiftUI](https://apps.apple.com/us/app/svg-shaper-for-swiftui/id1566140414) – Convert simple SVG files to SwiftUI Shapes/Views · 33% off
+### 💰 [Deeplink Buddy](https://deeplinkbuddy.com) – Personal deeplinks manager app for developers. 50% OFF with **BLACKFRIDAY_2022**
 
 ## 📌 Productivity Software
 ### 💸 [Reading Time - Book Tracker](https://apps.apple.com/app/id1561460485) · Unlock forever is 50% off
@@ -113,6 +114,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 
 ## 🤑 Finance
 ### 💰 [Percento](https://www.percento.app) - Simple personal finance manager. App Store Top 10 Finance Apps of 2022 (China store). It helps you save time on tracking expense and making investment decisions. Sync rates and prices for your stocks and cryptocurrencies automatically. **50% off for lifetime membership**
+### 💸 [Expense Buddy](https://expensebuddy.app) - Personal expense & budget tracking app. 20% OFF for all subscription plans.
 
 ## 🏡 Home Automation
 ### 💰 [Script Editor for HomeMatic](https://apps.apple.com/us/app/hmscripteditor/id1483239744) – Edit and Run HomeMatic Rega scripts · 16% off
