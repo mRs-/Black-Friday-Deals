@@ -24,6 +24,10 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ### 💰 [TextSniper](https://textsniper.app) - Blazingly fast and lightweight macOS application that instantly helps OCR/copy any non-selectable or uncopiable text from your Mac screen. Fully supports Apple Silicon & macOS Ventura. 40% OFF with code **TSBFG2022**
 ### 💰 [Past for iChat](https://apps.apple.com/us/app/past-for-ichat/id1554897185) – Open iChat Chatlogs on macOS 11+ · 33% off
 ### 💰 [Spaces](https://spacesformac.xyz) - Declutter & organize your workspace in one single click. Features: Raycast integration, 16+ custom layouts, layout switcher, shortcuts support and many more - **40% OFF until BlACK FRIDAY**
+### 💰 [StopTheMadness](https://underpassapp.com/StopTheMadness/) - Web browser extension that stops web sites from making your browser harder to use. And it protects your privacy on the web! $3 off in the iOS App Store and Mac App Store until December 1.
+### 💰 [Link Unshortener](https://underpassapp.com/LinkUnshortener/) - Mac app that expands shortened web links, following redirects until it reveals the destination URL. $3 off until December 1.
+### 💰 [StopTheScript](https://underpassapp.com/StopTheScript/) - iOS Safari extension that stops all JavaScript on your selected websites. $2 off until December 1.
+### 💰 [Tweaks for Twitter](https://underpassapp.com/tweaks/) - Web browser extension that improves the user interface of Twitter in many ways. $2 off in the iOS App Store and Mac App Store until December 1.
 
 ## 🎨 Graphic Software
 ### 💸 [Xnapper](https://xnapper.com) - Take beautiful screenshot easy and fast. Smart features: auto balance, auto hide sensitive info, auto fill background color. Other features: with annotations, image compression, and keyboard shortcuts. Fully supports Apple Silicon & macOS Ventura. 50% OFF with code **BLACKFRIDAY_2022**
