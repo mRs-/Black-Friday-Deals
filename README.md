@@ -17,10 +17,18 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ### 💰 [SVG Shaper for SwiftUI](https://apps.apple.com/us/app/svg-shaper-for-swiftui/id1566140414) – Convert simple SVG files to SwiftUI Shapes/Views · 33% off
 
 ## 📌 Productivity Software
+### 💸 [Reading Time - Book Tracker](https://apps.apple.com/app/id1561460485) · Unlock forever is 50% off 
+### 💰 [Email Me App](https://www.emailmeapp.net) - A native iOS, MacOS and WatchOS App to email yourself and much more with just one tap. 50% OFF for the lifetime purchase.
+### 💰 [GlanceCal](https://apps.apple.com/us/app/glancecal-menu-bar-calendar/id1475680776) - Native Menu Bar Calendar for macOS. Your day at a glance. 30% OFF in the Mac App Store from November 21st to November 25th
 ### 💰 [Past for iChat](https://apps.apple.com/us/app/past-for-ichat/id1554897185) – Open iChat Chatlogs on macOS 11+ · 33% off
 
 ## 🎨 Graphic Software
 ### 💸 [Xnapper](https://xnapper.com) - Take beautiful screenshot easy and fast. Smart features: auto balance, auto hide sensitive info, auto fill background color. Other features: with annotations, image compression, and keyboard shortcuts. Fully supports Apple Silicon & macOS Ventura. 50% OFF with code **BLACKFRIDAY_2022**
+### 💸 [Digital Photo Frame App](https://digitalphotoframeapp.com/) - Turn your iPad into a digital photo frame. The most gorgeous and powerful photo player application for the iPad and iPhone. **50% OFF lifetime purchase**
+
+### 💸 [PastePal](https://onmyway133.com/pastepal) - Powerful clipboard manager for Mac, iPhone and iPad. 50% OFF for the lifetime purchase.
+
+### 💸 [Button Creator for Stream Deck](https://apps.apple.com/app/button-creator-for-stream-deck/id1559303865) - The quickest way to create button images for your Elgato Stream Deck · 50% off
 
 ## 🎓 Reference & Education
 
@@ -87,6 +95,6 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ## 🤑 Finance
 
 ## 🏡 Home Automation
+### 💰 [Percento](https://www.percento.app) - Simple personal finance manager. App Store Top 10 Finance Apps of 2022 (China store). It helps you save time on tracking expense and making investment decisions. Sync rates and prices for your stocks and cryptocurrencies automatically. **50% off for lifetime membership**
 ### 💰 [Script Editor for HomeMatic](https://apps.apple.com/us/app/hmscripteditor/id1483239744) – Edit and Run HomeMatic Rega scripts · 16% off
 ### 💰 [Battery Status for HomeMatic](https://apps.apple.com/us/app/batterie-status-für-homematic/id1538622445) – Shows battery level of HomeMatic devices · 25% off
-
