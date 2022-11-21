@@ -24,15 +24,22 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ### 💰 [TextSniper](https://textsniper.app) - Blazingly fast and lightweight macOS application that instantly helps OCR/copy any non-selectable or uncopiable text from your Mac screen. Fully supports Apple Silicon & macOS Ventura. 40% OFF with code **TSBFG2022**
 ### 💰 [Past for iChat](https://apps.apple.com/us/app/past-for-ichat/id1554897185) – Open iChat Chatlogs on macOS 11+ · 33% off
 ### 💰 [Spaces](https://spacesformac.xyz) - Declutter & organize your workspace in one single click. Features: Raycast integration, 16+ custom layouts, layout switcher, shortcuts support and many more - **40% OFF until BlACK FRIDAY**
+### 💰 [StopTheMadness](https://underpassapp.com/StopTheMadness/) - Web browser extension that stops web sites from making your browser harder to use. And it protects your privacy on the web! $3 off in the iOS App Store and Mac App Store until December 1.
+### 💰 [Link Unshortener](https://underpassapp.com/LinkUnshortener/) - Mac app that expands shortened web links, following redirects until it reveals the destination URL. $3 off until December 1.
+### 💰 [StopTheScript](https://underpassapp.com/StopTheScript/) - iOS Safari extension that stops all JavaScript on your selected websites. $2 off until December 1.
+### 💰 [Tweaks for Twitter](https://underpassapp.com/tweaks/) - Web browser extension that improves the user interface of Twitter in many ways. $2 off in the iOS App Store and Mac App Store until December 1.
+### 💰 [Notebooks](https://www.notebooksapp.com/) - App for notebooks, thoughts, ideas, tasks, etc. 30% off for Black Friday.
 ### 💸 [Mellel](https://www.mellel.com) Mellel is a word processor designed from the ground up to be the ultimate writing tool for academics, technical writers, scholars and students. 25% off till Dec 1.
 
 ## 🎨 Graphic Software
 ### 💸 [Xnapper](https://xnapper.com) - Take beautiful screenshot easy and fast. Smart features: auto balance, auto hide sensitive info, auto fill background color. Other features: with annotations, image compression, and keyboard shortcuts. Fully supports Apple Silicon & macOS Ventura. 50% OFF with code **BLACKFRIDAY_2022**
 ### 💸 [Digital Photo Frame App](https://digitalphotoframeapp.com/) - Turn your iPad into a digital photo frame. The most gorgeous and powerful photo player application for the iPad and iPhone. **50% OFF lifetime purchase**
-
 ### 💸 [PastePal](https://onmyway133.com/pastepal) - Powerful clipboard manager for Mac, iPhone and iPad. 50% OFF for the lifetime purchase.
-
 ### 💸 [Button Creator for Stream Deck](https://apps.apple.com/app/button-creator-for-stream-deck/id1559303865) - The quickest way to create button images for your Elgato Stream Deck · 50% off
+### 💰 [Sparkle Pro 4](https://sparkleapp.com/store/) – Visual Website Builder for macOS · 40% off (automatically applied)
+
+## 🏝️ Lifestyle
+### 💰 [Superlayer](https://apps.apple.com/app/id1601796450) — Widget Creator Engine for Mac · 20% off (Lifetime Purchase)
 
 ### 💰 [Affinity Designer 2, Affinity Photo 2, Affinity Publisher 2](https://affinity.serif.com/en-gb/) Professional photo editing, publishing, graphic design and illustration at your fingertips. 40% off.
 
@@ -105,8 +112,9 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ### 💸 [Paprika Recipe Manager](https://www.paprikaapp.com) - Recipe manager for Mac, iOS, Android and Windows
 
 ## 🤑 Finance
+### 💰 [Percento](https://www.percento.app) - Simple personal finance manager. App Store Top 10 Finance Apps of 2022 (China store). It helps you save time on tracking expense and making investment decisions. Sync rates and prices for your stocks and cryptocurrencies automatically. **50% off for lifetime membership**
 
 ## 🏡 Home Automation
-### 💰 [Percento](https://www.percento.app) - Simple personal finance manager. App Store Top 10 Finance Apps of 2022 (China store). It helps you save time on tracking expense and making investment decisions. Sync rates and prices for your stocks and cryptocurrencies automatically. **50% off for lifetime membership**
 ### 💰 [Script Editor for HomeMatic](https://apps.apple.com/us/app/hmscripteditor/id1483239744) – Edit and Run HomeMatic Rega scripts · 16% off
 ### 💰 [Battery Status for HomeMatic](https://apps.apple.com/us/app/batterie-status-für-homematic/id1538622445) – Shows battery level of HomeMatic devices · 25% off
+### 💰 [GlanceCam - IP Camera Viewer](https://apps.apple.com/us/app/glancecam-ip-webcam-viewer/id1360797896) – Secure IP camera viewer with support for standard streaming protocols for Mac · Standard version 25% off
