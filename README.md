@@ -74,6 +74,9 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ### 💰 [Practical DevSecOps - Hands on DevSecOps and Product Security Courses](https://www.practical-devsecops.com/black-friday/) · 15% off
 
 ## 📈 Business Software
+
+### 💸 [Appfigures - App Analytics, ASO Tools, and App Intelligence](https://fg.rs/black-friday-22) · 50% off
+
 ## 🏃🏻‍♀️ Health & Fitness Software
 ## 🎁 Bundles
 
