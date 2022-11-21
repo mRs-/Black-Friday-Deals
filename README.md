@@ -33,10 +33,9 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ## 🎨 Graphic Software
 ### 💸 [Xnapper](https://xnapper.com) - Take beautiful screenshot easy and fast. Smart features: auto balance, auto hide sensitive info, auto fill background color. Other features: with annotations, image compression, and keyboard shortcuts. Fully supports Apple Silicon & macOS Ventura. 50% OFF with code **BLACKFRIDAY_2022**
 ### 💸 [Digital Photo Frame App](https://digitalphotoframeapp.com/) - Turn your iPad into a digital photo frame. The most gorgeous and powerful photo player application for the iPad and iPhone. **50% OFF lifetime purchase**
-
 ### 💸 [PastePal](https://onmyway133.com/pastepal) - Powerful clipboard manager for Mac, iPhone and iPad. 50% OFF for the lifetime purchase.
-
 ### 💸 [Button Creator for Stream Deck](https://apps.apple.com/app/button-creator-for-stream-deck/id1559303865) - The quickest way to create button images for your Elgato Stream Deck · 50% off
+### 💰 [Sparkle Pro 4](https://sparkleapp.com/store/) – Visual Website Builder for macOS · 40% off (automatically applied)
 
 ## 🏝️ Lifestyle
 ### 💰 [Superlayer](https://apps.apple.com/app/id1601796450) — Widget Creator Engine for Mac · 20% off (Lifetime Purchase)
