@@ -28,6 +28,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ### 💰 [Link Unshortener](https://underpassapp.com/LinkUnshortener/) - Mac app that expands shortened web links, following redirects until it reveals the destination URL. $3 off until December 1.
 ### 💰 [StopTheScript](https://underpassapp.com/StopTheScript/) - iOS Safari extension that stops all JavaScript on your selected websites. $2 off until December 1.
 ### 💰 [Tweaks for Twitter](https://underpassapp.com/tweaks/) - Web browser extension that improves the user interface of Twitter in many ways. $2 off in the iOS App Store and Mac App Store until December 1.
+### 💰 [Notebooks](https://www.notebooksapp.com/) - App for notebooks, thoughts, ideas, tasks, etc. 30% off for Black Friday.
 
 ## 🎨 Graphic Software
 ### 💸 [Xnapper](https://xnapper.com) - Take beautiful screenshot easy and fast. Smart features: auto balance, auto hide sensitive info, auto fill background color. Other features: with annotations, image compression, and keyboard shortcuts. Fully supports Apple Silicon & macOS Ventura. 50% OFF with code **BLACKFRIDAY_2022**
