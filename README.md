@@ -25,6 +25,8 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 
 ### 💸 [PastePal](https://onmyway133.com/pastepal) - Powerful clipboard manager for Mac, iPhone and iPad. 50% OFF for the lifetime purchase.
 
+### 💸 [Button Creator for Stream Deck](https://apps.apple.com/app/button-creator-for-stream-deck/id1559303865) - The quickest way to create button images for your Elgato Stream Deck · 50% off
+
 ## 🎓 Reference & Education
 
 ## 📖 Books
