@@ -38,11 +38,10 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ### 💸 [PastePal](https://onmyway133.com/pastepal) - Powerful clipboard manager for Mac, iPhone and iPad. 50% OFF for the lifetime purchase.
 ### 💸 [Button Creator for Stream Deck](https://apps.apple.com/app/button-creator-for-stream-deck/id1559303865) - The quickest way to create button images for your Elgato Stream Deck · 50% off
 ### 💰 [Sparkle Pro 4](https://sparkleapp.com/store/) – Visual Website Builder for macOS · 40% off (automatically applied)
+### 💰 [Affinity Designer 2, Affinity Photo 2, Affinity Publisher 2](https://affinity.serif.com/en-gb/) Professional photo editing, publishing, graphic design and illustration at your fingertips. 40% off.
 
 ## 🏝️ Lifestyle
 ### 💰 [Superlayer](https://apps.apple.com/app/id1601796450) — Widget Creator Engine for Mac · 20% off (Lifetime Purchase)
-
-### 💰 [Affinity Designer 2, Affinity Photo 2, Affinity Publisher 2](https://affinity.serif.com/en-gb/) Professional photo editing, publishing, graphic design and illustration at your fingertips. 40% off.
 
 ## 🎓 Reference & Education
 
