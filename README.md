@@ -16,7 +16,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ### 💰 [Code for SQLite3](https://apps.apple.com/us/app/code-for-sqlite3/id1638111010) – Generate Swift code for SQLite3 databases · 33% off
 ### 💰 [SVG Shaper for SwiftUI](https://apps.apple.com/us/app/svg-shaper-for-swiftui/id1566140414) – Convert simple SVG files to SwiftUI Shapes/Views · 33% off
 ### 💰 [Deeplink Buddy](https://deeplinkbuddy.com) – Personal deeplinks manager app for developers. 50% OFF with **BLACKFRIDAY_2022**
-
+### 💸 [Git Tower](https://www.git-tower.com) - Powerful Git client for Mac and Windows. 50% off
 ## 📌 Productivity Software
 ### 💸 [Reading Time - Book Tracker](https://apps.apple.com/app/id1561460485) · Unlock forever is 50% off
 ### 💰 [Email Me App](https://www.emailmeapp.net) - A native iOS, MacOS and WatchOS App to email yourself and much more with just one tap. 50% OFF for the lifetime purchase.
