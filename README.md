@@ -95,6 +95,11 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 
 ### 💰 [Integrating SwiftUI into UIKit Apps](https://books.nilcoalescing.com/integrating-swiftui) · 30% off
 
+### 💸 [Deploying Elixir: Advanced Topics](https://miguelcoba.gumroad.com/l/advancedtopics) · 50% off already applied
+
+### 💸 [eBook Writing Workflow for Developers](https://miguelcoba.gumroad.com/l/ebookwriting) · 50% off already applied
+
+
 
 ## 👩‍🎓 Courses and Videos
 
