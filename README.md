@@ -17,7 +17,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ### 💰 [SVG Shaper for SwiftUI](https://apps.apple.com/us/app/svg-shaper-for-swiftui/id1566140414) – Convert simple SVG files to SwiftUI Shapes/Views · 33% off
 ### 💰 [Deeplink Buddy](https://deeplinkbuddy.com) – Personal deeplinks manager app for developers. 50% OFF with **BLACKFRIDAY_2022**
 ### 💸 [Git Tower](https://www.git-tower.com) - Powerful Git client for Mac and Windows. 50% off
-### 💸 [Tailscan](https://www.tailscan.com) - Tailscan is the ultimate developer tool for Tailwind CSS. Build and design your Tailwind website visually, right within the browser. You can also debug your website visually in seconds and check how other websites using Tailwind CSS are built. **20% OFF forever**
+### 💰 [Tailscan](https://www.tailscan.com) - Tailscan is the ultimate developer tool for Tailwind CSS. Build and design your Tailwind website visually, right within the browser. You can also debug your website visually in seconds and check how other websites using Tailwind CSS are built. **20% OFF forever**
 ## 📌 Productivity Software
 ### 💸 [Reading Time - Book Tracker](https://apps.apple.com/app/id1561460485) · Unlock forever is 50% off
 ### 💰 [Email Me App](https://www.emailmeapp.net) - A native iOS, MacOS and WatchOS App to email yourself and much more with just one tap. 50% OFF for the lifetime purchase.
