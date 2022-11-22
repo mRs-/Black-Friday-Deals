@@ -17,6 +17,9 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ### 💰 [SVG Shaper for SwiftUI](https://apps.apple.com/us/app/svg-shaper-for-swiftui/id1566140414) – Convert simple SVG files to SwiftUI Shapes/Views · 33% off
 ### 💰 [Deeplink Buddy](https://deeplinkbuddy.com) – Personal deeplinks manager app for developers. 50% OFF with **BLACKFRIDAY_2022**
 ### 💸 [Git Tower](https://www.git-tower.com) - Powerful Git client for Mac and Windows. 50% off
+### 💸 [RegExp](https://apps.apple.com/us/app/regexp/id1546140065?mt=12) - Regular Expressions editor (Go, Swift, JavaScript flavours), Pro is 67% off.
+### 💸 [ShellHistory](https://apps.apple.com/us/app/shellhistory/id1564015476) - Keeps zsh, bash, fish history in SQLite with Full Text Search and sync via iCloud 50% off
+
 ## 📌 Productivity Software
 ### 💸 [Reading Time - Book Tracker](https://apps.apple.com/app/id1561460485) · Unlock forever is 50% off
 ### 💰 [Email Me App](https://www.emailmeapp.net) - A native iOS, MacOS and WatchOS App to email yourself and much more with just one tap. 50% OFF for the lifetime purchase.
@@ -33,6 +36,9 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ### 💸 [Mellel](https://www.mellel.com) Mellel is a word processor designed from the ground up to be the ultimate writing tool for academics, technical writers, scholars and students. 25% off till Dec 1.
 ### 💸 [Trickster](https://www.apparentsoft.com/trickster) - Find recently used and modified files at your fingertips. 50% off.
 ### 💸 [OwlOCR](https://owlcr.com) - Capture any text on your Mac's screen and, convert images or scans to searchable PDFs, open QR-coded URLs, integrate via CLI, access with Finder Extensions and more! **50% off for Black Friday!**
+### 💸 [OpenIn 4](https://apps.apple.com/us/app/openin-4-advanced-link-handler/id1643649331) - Advanced link and file handler for macOS (Ventura). 50% off
+### 💸 [OpenIn 3](https://apps.apple.com/us/app/openin/id1547147101) - Advanced link and file handler for macOS (Big Sur and Monterey+). 50% off
+
 
 ## 🎨 Graphic Software
 ### 💸 [Xnapper](https://xnapper.com) - Take beautiful screenshot easy and fast. Smart features: auto balance, auto hide sensitive info, auto fill background color. Other features: with annotations, image compression, and keyboard shortcuts. Fully supports Apple Silicon & macOS Ventura. 50% OFF with code **BLACKFRIDAY_2022**
