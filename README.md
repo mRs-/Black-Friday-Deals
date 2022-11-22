@@ -111,6 +111,8 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 
 ### 💸 [Bundlehunt - 2022 Holiday Mac Bundle](https://bundlehunt.com/bundle/2022-holiday-mac-bundle) 56 macOS apps, with $3.5 unlock price, and large discounts.
 
+### 💸 [Pick-Me-Apps by UnclutterApp](https://unclutterapp.com/bundle/?coupon=UC-BLACKFRIDAY-2022&s=m1&co=txt). 12 apps (Rapidweaver Classic, Taskpaper, Soulver 3, Timemator, Downie 4, Acorn 7, PDF Squeezer 4, Unclutter App, Pathfinder, Text Sniper, Pagico 10, iStat Menus 6) with 79% discount ($406 → $84).
+
 ## 🎶 Creative content
 
 ### 💸 [Paprika Recipe Manager](https://www.paprikaapp.com) - Recipe manager for Mac, iOS, Android and Windows
