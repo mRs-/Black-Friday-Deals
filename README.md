@@ -105,6 +105,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ## 📈 Business Software
 
 ### 💸 [Appfigures - App Analytics, ASO Tools, and App Intelligence](https://fg.rs/black-friday-22) · 50% off
+### 💸 [hirevire](https://hirevire.com?utm_source=bfd) · Hirevire can help you automate the first round of interviews by getting answers for screening questions via video, file uploads or text. Use code BF50 for 50% off on all plans.
 
 ## 🏃🏻‍♀️ Health & Fitness Software
 ## 🎁 Bundles
