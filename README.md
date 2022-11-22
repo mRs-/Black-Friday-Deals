@@ -48,6 +48,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ### 💰 [Superlayer](https://apps.apple.com/app/id1601796450) — Widget Creator Engine for Mac · 20% off (Lifetime Purchase)
 
 ## 🎓 Reference & Education
+### 💰 [DEVONthink](https://www.devontechnologies.com/promotions/blackfriday) - DEVONthink is your paperless office. It stores all your documents, helps you keep them organized, and presents you with what you need to get the job done. 25% off Nov 25th – Nov 28th 2022.
 
 ## 📖 Books
 
