@@ -126,3 +126,6 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ### 💰 [Script Editor for HomeMatic](https://apps.apple.com/us/app/hmscripteditor/id1483239744) – Edit and Run HomeMatic Rega scripts · 16% off
 ### 💰 [Battery Status for HomeMatic](https://apps.apple.com/us/app/batterie-status-für-homematic/id1538622445) – Shows battery level of HomeMatic devices · 25% off
 ### 💰 [GlanceCam - IP Camera Viewer](https://apps.apple.com/us/app/glancecam-ip-webcam-viewer/id1360797896) – Secure IP camera viewer with support for standard streaming protocols for Mac · Standard version 25% off
+
+## 🕹 Games
+### 💸 [Ploppy Pairs](https://itunes.apple.com/app/apple-store/id1597674393) – Card matching game for kids with SharePlay and VoiceOver functionality · ~60% off
