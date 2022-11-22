@@ -47,6 +47,9 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ## 🏝️ Lifestyle
 ### 💰 [Superlayer](https://apps.apple.com/app/id1601796450) — Widget Creator Engine for Mac · 20% off (Lifetime Purchase)
 
+## Social
+### 💰 [Bird search](https://birdsearch.carrd.co) - Advanced search app for Twitter that unlocks lot of hidden fields - 60% off on one time payment. Available on iOS/macOS/iPadOS
+
 ## 🎓 Reference & Education
 
 ## 📖 Books
