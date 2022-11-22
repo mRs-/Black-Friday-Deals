@@ -17,6 +17,8 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ### 💰 [SVG Shaper for SwiftUI](https://apps.apple.com/us/app/svg-shaper-for-swiftui/id1566140414) – Convert simple SVG files to SwiftUI Shapes/Views · 33% off
 ### 💰 [Deeplink Buddy](https://deeplinkbuddy.com) – Personal deeplinks manager app for developers. 50% OFF with **BLACKFRIDAY_2022**
 ### 💸 [Git Tower](https://www.git-tower.com) - Powerful Git client for Mac and Windows. 50% off
+### 💰 [Tumult Whisk](https://blog.tumult.com/2022/11/22/cyber-monday-discounts-for-tumult-hype-and-tumult-whisk-today-through-december-1st/) _30% off_ — Tumult Whisk is the lightweight HTML and PHP editor with a live preview pane that displays the updated page as you type. It is an essential app for your web dev toolkit. 
+
 ## 📌 Productivity Software
 ### 💸 [Reading Time - Book Tracker](https://apps.apple.com/app/id1561460485) · Unlock forever is 50% off
 ### 💰 [Email Me App](https://www.emailmeapp.net) - A native iOS, MacOS and WatchOS App to email yourself and much more with just one tap. 50% OFF for the lifetime purchase.
@@ -32,7 +34,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ### 💰 [Notebooks](https://www.notebooksapp.com/) - App for notebooks, thoughts, ideas, tasks, etc. 30% off for Black Friday.
 ### 💸 [Mellel](https://www.mellel.com) Mellel is a word processor designed from the ground up to be the ultimate writing tool for academics, technical writers, scholars and students. 25% off till Dec 1.
 ### 💸 [Trickster](https://www.apparentsoft.com/trickster) - Find recently used and modified files at your fingertips. 50% off.
-### 💸 [OwlOCR](https://owlcr.com) - Capture any text on your Mac's screen and, convert images or scans to searchable PDFs, open QR-coded URLs, integrate via CLI, access with Finder Extensions and more! **50% off for Black Friday!**
+### 💸 [OwlOCR](https://owlcr.com) - Capture any text on your Mac's screen and, convert images or scans to searchable PDFs, open QR-coded URLs, integrate via CLI, access with Finder Extensions and more! **50% off for Black Friday!** 
 
 ## 🎨 Graphic Software
 ### 💸 [Xnapper](https://xnapper.com) - Take beautiful screenshot easy and fast. Smart features: auto balance, auto hide sensitive info, auto fill background color. Other features: with annotations, image compression, and keyboard shortcuts. Fully supports Apple Silicon & macOS Ventura. 50% OFF with code **BLACKFRIDAY_2022**
@@ -43,6 +45,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ### 💰 [Affinity Designer 2, Affinity Photo 2, Affinity Publisher 2](https://affinity.serif.com/en-gb/) Professional photo editing, publishing, graphic design and illustration at your fingertips. 40% off
 ### 💸 [ImageFramer](https://imageframer.net) - Add photo-releastic frames and mats to your art, add designer borders or overlays to photos on your Mac. 50% off.
 ### 💸 [Socialite: Frames and Border](https://socialiteapp.com) - Add frames, fun stickers and text to photos on your iPhone. 50% off yearly subscription.
+### 💰 [Tumult Hype](https://blog.tumult.com/2022/11/22/cyber-monday-discounts-for-tumult-hype-and-tumult-whisk-today-through-december-1st/) _30% off_ — Create beautiful animated and interactive HTML5 web content with Tumult Hype.
 
 ## 🏝️ Lifestyle
 ### 💰 [Superlayer](https://apps.apple.com/app/id1601796450) — Widget Creator Engine for Mac · 20% off (Lifetime Purchase)
