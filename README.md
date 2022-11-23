@@ -43,7 +43,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ### 💰 [Affinity Designer 2, Affinity Photo 2, Affinity Publisher 2](https://affinity.serif.com/en-gb/) Professional photo editing, publishing, graphic design and illustration at your fingertips. 40% off
 ### 💸 [ImageFramer](https://imageframer.net) - Add photo-releastic frames and mats to your art, add designer borders or overlays to photos on your Mac. 50% off.
 ### 💸 [Socialite: Frames and Border](https://socialiteapp.com) - Add frames, fun stickers and text to photos on your iPhone. 50% off yearly subscription.
-### 💸 [Rawsie](https://rawsie.co) - 20% off first year with coupon BF22 before December 2
+### 💸 [Rawsie](https://rawsie.co) - Rawsie – compress RAW image files by up to 80% to save disk space – 20% off first year before December 2
 
 ## 🏝️ Lifestyle
 ### 💰 [Superlayer](https://apps.apple.com/app/id1601796450) — Widget Creator Engine for Mac · 20% off (Lifetime Purchase)
