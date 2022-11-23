@@ -42,6 +42,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ### 💰 [Notebooks](https://www.notebooksapp.com/) - App for notebooks, thoughts, ideas, tasks, etc. 30% off for Black Friday.
 ### 💸 [Mellel](https://www.mellel.com) Mellel is a word processor designed from the ground up to be the ultimate writing tool for academics, technical writers, scholars and students. 25% off till Dec 1.
 ### 💸 [Trickster](https://www.apparentsoft.com/trickster) - Find recently used and modified files at your fingertips. 50% off.
+### 💸 [OwlOCR](https://owlcr.com) - Capture any text on your Mac's screen and, convert images or scans to searchable PDFs, open QR-coded URLs, integrate via CLI, access with Finder Extensions and more! **50% off for Black Friday!**
 ### 💸 [OwlOCR](https://owlocr.com) - Capture any text on your Mac's screen and, convert images or scans to searchable PDFs, open QR-coded URLs, integrate via CLI, access with Finder Extensions and more! **50% off for Black Friday!**
 ### 💰 [Blade Mail](https://blademail.app) - Desktop app for email testing locally. 50% OFF with code **BLACKFRIDAY**
 ### 💰 [Tinker2](https://tinker2.app) - Easily write some testing code without tickling your source code, locally or via SSH (PHP, Laravel, WordPress and more). 50% OFF with code **BLACKFRIDAY**
@@ -50,8 +51,12 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ### 💸 [OpenIn 3](https://apps.apple.com/us/app/openin/id1547147101) - Advanced link and file handler for macOS (Big Sur and Monterey+). 50% off
 ### 💸 [AI Tool Hub 🔥](https://ritujhajharia.gumroad.com/l/aitoolhub) - AI Tool Hub is the most comprehensive directory of 80+ AI Tools curated for writers, marketers & creators. It helps you focus on creating more meaningful content and grow, not waste hours in searching for the right tools. Coupon Code : AIBF50 for **50% off on Full Version**
 ### 💸 [Custom Text Font Extension](https://apps.apple.com/app/custom-text-font-extension/id1597034898) - iOS Safari extension to load and tweak custom fonts on websites. ! **85% off on lifetime purchase for Black Friday!**
+### 💰 [Focused Work](https://apps.apple.com/app/id1523968394) – A powerful timer for super productive days. For iPhone, iPad, Mac. · Up to 40% off
+### 💰 [Ochi](https://apps.apple.com/app/id1603024803) – Block distracting Apps & Websites on all devices. For iPhone, iPad, Mac. · Up to 40% off
 ### 💸 [Cookie DNT Privacy for Safari](https://apps.apple.com/app/cookie-blocker-privacy-guard/id1594049656) - iOS Safari extension that remove cookie trackers from visited websites ! **5O% off for Black Friday!**
 ### 💸 [Tweetsmash](https://tweetsmash.com) - Tweetsmash turns Twitter bookmarks/list into automated email digests. Connect with apps like Notion to autosync & export your bookmarks. **50% off for Black Friday!**
+### 💸 [Ping](https://ping.neat.software) - Web uptime monitor for macOS - **50% off IAP for Black Friday**
+### 💸 [Tim](https://tim.neat.software) - Simple & powerful time tracking for macOS - **50% off IAP for Black Friday**
 
 ## 🎨 Graphic Software
 ### 💸 [Xnapper](https://xnapper.com) - Take beautiful screenshot easy and fast. Smart features: auto balance, auto hide sensitive info, auto fill background color. Other features: with annotations, image compression, and keyboard shortcuts. Fully supports Apple Silicon & macOS Ventura. 50% OFF with code **BLACKFRIDAY_2022**
@@ -179,10 +184,6 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ### 💰 [Script Editor for HomeMatic](https://apps.apple.com/us/app/hmscripteditor/id1483239744) – Edit and Run HomeMatic Rega scripts · 16% off
 ### 💰 [Battery Status for HomeMatic](https://apps.apple.com/us/app/batterie-status-für-homematic/id1538622445) – Shows battery level of HomeMatic devices · 25% off
 ### 💰 [GlanceCam - IP Camera Viewer](https://apps.apple.com/us/app/glancecam-ip-webcam-viewer/id1360797896) – Secure IP camera viewer with support for standard streaming protocols for Mac · Standard version 25% off
-
-## 🚀 Productivity
-### 💰 [Focused Work](https://apps.apple.com/app/id1523968394) – A powerful timer for super productive days. For iPhone, iPad, Mac. · Up to 40% off
-### 💰 [Ochi](https://apps.apple.com/app/id1603024803) – Block distracting Apps & Websites on all devices. For iPhone, iPad, Mac. · Up to 40% off
 
 ## 🕹 Games
 ### 💸 [Ploppy Pairs](https://itunes.apple.com/app/apple-store/id1597674393) – Card matching game for kids with SharePlay and VoiceOver functionality · ~60% off
