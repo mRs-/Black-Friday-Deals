@@ -166,6 +166,9 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ### 💰 [Jason's Plugins For Carrd - Plugins to power up your Carrd sites](https://plugins.carrd.co) · 34% off all plugins
 
 ## 🏃🏻‍♀️ Health & Fitness Software
+
+### 💸 [Heartwitch - Live Stream Health Stats](https://heartwitch.app/) Use promo code `BLACKFRIDAY2022` to get 60% off
+
 ## 🎁 Bundles
 
 ### 💸 [Bundlehunt - 2022 Holiday Mac Bundle](https://bundlehunt.com/bundle/2022-holiday-mac-bundle) 56 macOS apps, with $3.5 unlock price, and large discounts.
