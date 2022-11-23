@@ -52,6 +52,11 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 
 ## 🎓 Reference & Education
 
+## 📰 News
+### 💰 [Elytra](https://apps.apple.com/app/apple-store/id1433266971?pt=119194029&ct=blackfridayrepo&mt=8) - Simple & Private RSS Feeds Reader 
+  - [Monthly](https://apps.apple.com/redeem?ctx=offercodes&id=1433266971&code=CBRM2022)
+  - [Yearly](https://apps.apple.com/redeem?ctx=offercodes&id=1433266971&code=CBRY2022)
+
 ## 📖 Books
 
 ### 💸 [The Swift Power Pack (includes six books)](https://gumroad.com/l/swift-power-pack/blackfriday22) · 50% off
