@@ -95,6 +95,10 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 
 ### 💰 [Integrating SwiftUI into UIKit Apps](https://books.nilcoalescing.com/integrating-swiftui) · 30% off
 
+### 💸 [Zero to Sold](https://zerotosold.com) · 50% off
+
+### 💸 [The Embedded Enterpreneur](https://www.embeddedentrepreneur.com) · 50% off
+
 
 ## 👩‍🎓 Courses and Videos
 
@@ -103,6 +107,8 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ### 💰 [Practical DevSecOps - Hands on DevSecOps and Product Security Courses](https://www.practical-devsecops.com/black-friday/) · 15% off
 
 ### 💰 [Reuven Lerner Python Training](https://store.lerner.co.il) · 40% off
+
+### 💸 [Find your Following](https://www.findyourfollowing.com) · 50% off
 
 ## 📈 Business Software
 
