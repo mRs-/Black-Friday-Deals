@@ -105,6 +105,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ## 📈 Business Software
 
 ### 💸 [Appfigures - App Analytics, ASO Tools, and App Intelligence](https://fg.rs/black-friday-22) · 50% off
+### 💰 [Jason's Plugins For Carrd - Plugins to power up your Carrd sites](https://plugins.carrd.co) · 34% off all plugins
 
 ## 🏃🏻‍♀️ Health & Fitness Software
 ## 🎁 Bundles
