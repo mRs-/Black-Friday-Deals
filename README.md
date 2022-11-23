@@ -51,6 +51,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 
 ## 🏝️ Lifestyle
 ### 💰 [Superlayer](https://apps.apple.com/app/id1601796450) — Widget Creator Engine for Mac · 20% off (Lifetime Purchase)
+### 💸 [Tonal Therapy](https://www.craft.do/s/QBsitp7TQPkm4z) - ACRN Therapy app for people who suffer from tinnitus. • 57% off
 
 ## Social
 ### 💰 [Bird search](https://birdsearch.carrd.co) - Advanced search app for Twitter that unlocks lot of hidden fields - 60% off on one time payment. Available on iOS/macOS/iPadOS
@@ -116,9 +117,14 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 
 ### 💰 [Practical DevSecOps - Hands on DevSecOps and Product Security Courses](https://www.practical-devsecops.com/black-friday/) · 15% off
 
+### 💰 [NSScreencast Yearly Subscription](https://www.craft.do/s/QBsitp7TQPkm4z) - Top-notch screencasts on Swift development • 40% off
+
+### 💸 [Combine Swift - Complete Course](https://www.craft.do/s/QBsitp7TQPkm4z) - Combine for mere mortals. • 50% off
+
 ## 📈 Business Software
 
 ### 💸 [Appfigures - App Analytics, ASO Tools, and App Intelligence](https://fg.rs/black-friday-22) · 50% off
+### 💸 [Side Mirror - Your Live Demo Secret Weapon](https://www.craft.do/s/QBsitp7TQPkm4z) macOS app • 50% off
 
 ## 🏃🏻‍♀️ Health & Fitness Software
 ## 🎁 Bundles
