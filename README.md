@@ -46,6 +46,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 
 ## 🏝️ Lifestyle
 ### 💰 [Superlayer](https://apps.apple.com/app/id1601796450) — Widget Creator Engine for Mac · 20% off (Lifetime Purchase)
+### 💰 [Shelf](https://apps.apple.com/app/id6443596253) — Pin photos, text, and actions to your Lock Screen. For iPhone · Up to 40% off
 
 ## 🎓 Reference & Education
 
@@ -126,3 +127,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ### 💰 [Script Editor for HomeMatic](https://apps.apple.com/us/app/hmscripteditor/id1483239744) – Edit and Run HomeMatic Rega scripts · 16% off
 ### 💰 [Battery Status for HomeMatic](https://apps.apple.com/us/app/batterie-status-für-homematic/id1538622445) – Shows battery level of HomeMatic devices · 25% off
 ### 💰 [GlanceCam - IP Camera Viewer](https://apps.apple.com/us/app/glancecam-ip-webcam-viewer/id1360797896) – Secure IP camera viewer with support for standard streaming protocols for Mac · Standard version 25% off
+
+## 🚀 Productivity
+### 💰 [Focused Work](https://apps.apple.com/app/id1523968394) – A powerful timer for super productive days. For iPhone, iPad, Mac. · Up to 40% off
+### 💰 [Ochi](https://apps.apple.com/app/id1603024803) – Block distracting Apps & Websites on all devices. For iPhone, iPad, Mac. · Up to 40% off
