@@ -141,6 +141,10 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 
 ### 💰 [40% off all single books at Kodeco (raywenderlich.com)](https://www.kodeco.com/books?utm_campaign=sidelines-external&utm_medium=github&utm_source=sidelines-link) All of our single digital books are now 40% off - From SwiftUI, to Modern Concurrency, to Animations, Real-World development to Jetpack Compose to Dagger and beyond, every book you need is here at Kodeco.
 
+### 💸 [Zero to Sold](https://zerotosold.com) · 50% off
+
+### 💸 [The Embedded Enterpreneur](https://www.embeddedentrepreneur.com) · 50% off
+
 
 ## 👩‍🎓 Courses and Videos
 
@@ -157,6 +161,11 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ### 💰 [One-Year Kodeco (raywenderlich.com) Pro Plan for just $399](https://store.kodeco.com?utm_campaign=sidelines-external&utm_medium=github&utm_source=sidelines-link) 5,000+ videos, books, courses, learning paths, bootcamp discounts, and professional resources for your mobile dev career (33% off).
 
 ### 💸 [(New!) Two-Year Kodeco (raywenderlich.com) Pro Plan for just $599](https://store.kodeco.com?utm_campaign=sidelines-external&utm_medium=github&utm_source=sidelines-link) Lock in for two years and save even more! 5,000+ videos, books, courses, learning paths, bootcamp discounts, and professional resources for your mobile dev career (50% off).
+
+### 💰 [Reuven Lerner Python Training](https://store.lerner.co.il) · 40% off
+
+### 💸 [Find your Following](https://www.findyourfollowing.com) · 50% off
+
 
 ## 📈 Business Software
 
