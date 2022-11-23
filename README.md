@@ -166,6 +166,10 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 
 ### 💸 [Find your Following](https://www.findyourfollowing.com) · 50% off
 
+### 💸 [Code4Startup](https://code4startup.com/pricing/) · 50% off
+
+### 💸 [Build 7 Startup apps with Rails 7](https://code4startup.com/rails_7_series) · Up to 50% off
+
 
 ## 📈 Business Software
 
