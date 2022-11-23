@@ -107,6 +107,9 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ### 💸 [Appfigures - App Analytics, ASO Tools, and App Intelligence](https://fg.rs/black-friday-22) · 50% off
 
 ## 🏃🏻‍♀️ Health & Fitness Software
+
+### 💸 [Heartwitch - Live Stream Health Stats](https://heartwitch.app/) Use promo code `BLACKFRIDAY2023` to get 60% off
+
 ## 🎁 Bundles
 
 ### 💸 [Bundlehunt - 2022 Holiday Mac Bundle](https://bundlehunt.com/bundle/2022-holiday-mac-bundle) 56 macOS apps, with $3.5 unlock price, and large discounts.
