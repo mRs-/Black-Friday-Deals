@@ -33,6 +33,8 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ### 💸 [Mellel](https://www.mellel.com) Mellel is a word processor designed from the ground up to be the ultimate writing tool for academics, technical writers, scholars and students. 25% off till Dec 1.
 ### 💸 [Trickster](https://www.apparentsoft.com/trickster) - Find recently used and modified files at your fingertips. 50% off.
 ### 💸 [OwlOCR](https://owlcr.com) - Capture any text on your Mac's screen and, convert images or scans to searchable PDFs, open QR-coded URLs, integrate via CLI, access with Finder Extensions and more! **50% off for Black Friday!**
+### 💸 [Custom Text Font Extension](https://apps.apple.com/app/custom-text-font-extension/id1597034898) - iOS Safari extension to load and tweak custom fonts on websites. ! **85% off on lifetime purchase for Black Friday!**
+### 💸 [Cookie DNT Privacy for Safari](https://apps.apple.com/app/cookie-blocker-privacy-guard/id1594049656) - iOS Safari extension that remove cookie trackers from visited websites ! **5O% off for Black Friday!**
 
 ## 🎨 Graphic Software
 ### 💸 [Xnapper](https://xnapper.com) - Take beautiful screenshot easy and fast. Smart features: auto balance, auto hide sensitive info, auto fill background color. Other features: with annotations, image compression, and keyboard shortcuts. Fully supports Apple Silicon & macOS Ventura. 50% OFF with code **BLACKFRIDAY_2022**
