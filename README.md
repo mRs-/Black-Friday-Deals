@@ -23,6 +23,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ### 💰 [Tumult Whisk](https://blog.tumult.com/2022/11/22/cyber-monday-discounts-for-tumult-hype-and-tumult-whisk-today-through-december-1st/) _30% off_ — Tumult Whisk is the lightweight HTML and PHP editor with a live preview pane that displays the updated page as you type. It is an essential app for your web dev toolkit. 
 ### 💸 [RegExp](https://apps.apple.com/us/app/regexp/id1546140065?mt=12) - Regular Expressions editor (Go, Swift, JavaScript flavours), Pro is 67% off.
 ### 💸 [ShellHistory](https://apps.apple.com/us/app/shellhistory/id1564015476) - Keeps zsh, bash, fish history in SQLite with Full Text Search and sync via iCloud 50% off
+### 💸 [Volca SaaS Boilerplate](https://volca.io) - A SaaS code boilerplate that accelerates the development and delivery time for you next SaaS product. **50% off**
 
 ## 🎛 Utility Software
 ### 💸 [Sensei](https://cindori.com/sensei) - Maximise your Mac performance (macOS) · 50% off 
