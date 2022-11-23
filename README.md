@@ -21,6 +21,8 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ### 💰 [Tailscan](https://www.tailscan.com) - Tailscan is the ultimate developer tool for Tailwind CSS. Build and design your Tailwind website visually, right within the browser. You can also debug your website visually in seconds and check how other websites using Tailwind CSS are built. **20% OFF forever**
 ### 💰 [HelpKit](https://www.helpkit.so) - Turn your Notion pages into a professional documentation or help center site · **40% on all plans** for the 1st year BLACKFRIDAY_2022
 ### 💰 [Tumult Whisk](https://blog.tumult.com/2022/11/22/cyber-monday-discounts-for-tumult-hype-and-tumult-whisk-today-through-december-1st/) _30% off_ — Tumult Whisk is the lightweight HTML and PHP editor with a live preview pane that displays the updated page as you type. It is an essential app for your web dev toolkit. 
+### 💸 [RegExp](https://apps.apple.com/us/app/regexp/id1546140065?mt=12) - Regular Expressions editor (Go, Swift, JavaScript flavours), Pro is 67% off.
+### 💸 [ShellHistory](https://apps.apple.com/us/app/shellhistory/id1564015476) - Keeps zsh, bash, fish history in SQLite with Full Text Search and sync via iCloud 50% off
 
 ## 🎛 Utility Software
 ### 💸 [Sensei](https://cindori.com/sensei) - Maximise your Mac performance (macOS) · 50% off 
@@ -44,6 +46,8 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ### 💰 [Blade Mail](https://blademail.app) - Desktop app for email testing locally. 50% OFF with code **BLACKFRIDAY**
 ### 💰 [Tinker2](https://tinker2.app) - Easily write some testing code without tickling your source code, locally or via SSH (PHP, Laravel, WordPress and more). 50% OFF with code **BLACKFRIDAY**
 ### 💸 [KTool.io](https://ktool.io/install) | KTool helps you send web articles, Twitter threads and newsletters to Kindle. Reduce screen time. Improve productivity. ** 50% off first year **
+### 💸 [OpenIn 4](https://apps.apple.com/us/app/openin-4-advanced-link-handler/id1643649331) - Advanced link and file handler for macOS (Ventura). 50% off
+### 💸 [OpenIn 3](https://apps.apple.com/us/app/openin/id1547147101) - Advanced link and file handler for macOS (Big Sur and Monterey+). 50% off
 
 ## 🎨 Graphic Software
 ### 💸 [Xnapper](https://xnapper.com) - Take beautiful screenshot easy and fast. Smart features: auto balance, auto hide sensitive info, auto fill background color. Other features: with annotations, image compression, and keyboard shortcuts. Fully supports Apple Silicon & macOS Ventura. 50% OFF with code **BLACKFRIDAY_2022**
