@@ -42,7 +42,6 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ### 💰 [Notebooks](https://www.notebooksapp.com/) - App for notebooks, thoughts, ideas, tasks, etc. 30% off for Black Friday.
 ### 💸 [Mellel](https://www.mellel.com) Mellel is a word processor designed from the ground up to be the ultimate writing tool for academics, technical writers, scholars and students. 25% off till Dec 1.
 ### 💸 [Trickster](https://www.apparentsoft.com/trickster) - Find recently used and modified files at your fingertips. 50% off.
-### 💸 [OwlOCR](https://owlcr.com) - Capture any text on your Mac's screen and, convert images or scans to searchable PDFs, open QR-coded URLs, integrate via CLI, access with Finder Extensions and more! **50% off for Black Friday!**
 ### 💸 [OwlOCR](https://owlocr.com) - Capture any text on your Mac's screen and, convert images or scans to searchable PDFs, open QR-coded URLs, integrate via CLI, access with Finder Extensions and more! **50% off for Black Friday!**
 ### 💰 [Blade Mail](https://blademail.app) - Desktop app for email testing locally. 50% OFF with code **BLACKFRIDAY**
 ### 💰 [Tinker2](https://tinker2.app) - Easily write some testing code without tickling your source code, locally or via SSH (PHP, Laravel, WordPress and more). 50% OFF with code **BLACKFRIDAY**
@@ -57,6 +56,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ### 💸 [Tweetsmash](https://tweetsmash.com) - Tweetsmash turns Twitter bookmarks/list into automated email digests. Connect with apps like Notion to autosync & export your bookmarks. **50% off for Black Friday!**
 ### 💸 [Ping](https://ping.neat.software) - Web uptime monitor for macOS - **50% off IAP for Black Friday**
 ### 💸 [Tim](https://tim.neat.software) - Simple & powerful time tracking for macOS - **50% off IAP for Black Friday**
+### 💰 [Daito Authenticator](https://www.daito.io) - Web-based 2FA authenticator for small and large teams. 10 secs to migrate from Google Authenticator. Securely share 2FA tokens with your team, no phone needed. **30% OFF** on your first month or entire first year with code **BLACKWEEK2022**
 
 ## 🎨 Graphic Software
 ### 💸 [Xnapper](https://xnapper.com) - Take beautiful screenshot easy and fast. Smart features: auto balance, auto hide sensitive info, auto fill background color. Other features: with annotations, image compression, and keyboard shortcuts. Fully supports Apple Silicon & macOS Ventura. 50% OFF with code **BLACKFRIDAY_2022**
