@@ -43,6 +43,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ### 💸 [Mellel](https://www.mellel.com) Mellel is a word processor designed from the ground up to be the ultimate writing tool for academics, technical writers, scholars and students. 25% off till Dec 1.
 ### 💸 [Trickster](https://www.apparentsoft.com/trickster) - Find recently used and modified files at your fingertips. 50% off.
 ### 💸 [OwlOCR](https://owlocr.com) - Capture any text on your Mac's screen and, convert images or scans to searchable PDFs, open QR-coded URLs, integrate via CLI, access with Finder Extensions and more! **50% off for Black Friday!**
+### 💸 [Chronos Planner](https://apps.apple.com/us/app/chronos-planner/id1631767524) - Daily planner and task management app for Mac with calendar integration · 50% off
 ### 💰 [Blade Mail](https://blademail.app) - Desktop app for email testing locally. 50% OFF with code **BLACKFRIDAY**
 ### 💰 [Tinker2](https://tinker2.app) - Easily write some testing code without tickling your source code, locally or via SSH (PHP, Laravel, WordPress and more). 50% OFF with code **BLACKFRIDAY**
 ### 💸 [KTool.io](https://ktool.io/install) | KTool helps you send web articles, Twitter threads and newsletters to Kindle. Reduce screen time. Improve productivity. ** 50% off first year **
