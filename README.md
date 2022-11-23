@@ -21,6 +21,9 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ### 💰 [Tailscan](https://www.tailscan.com) - Tailscan is the ultimate developer tool for Tailwind CSS. Build and design your Tailwind website visually, right within the browser. You can also debug your website visually in seconds and check how other websites using Tailwind CSS are built. **20% OFF forever**
 ### 💰 [HelpKit](https://www.helpkit.so) - Turn your Notion pages into a professional documentation or help center site · **40% on all plans** for the 1st year BLACKFRIDAY_2022
 
+## 🎛 Utility Software
+### 💸 [Sensei](https://cindori.com/sensei) - Maximise your Mac performance (macOS) · 50% off 
+
 ## 📌 Productivity Software
 ### 💸 [Reading Time - Book Tracker](https://apps.apple.com/app/id1561460485) · Unlock forever is 50% off
 ### 💰 [Email Me App](https://www.emailmeapp.net) - A native iOS, MacOS and WatchOS App to email yourself and much more with just one tap. 50% OFF for the lifetime purchase.
