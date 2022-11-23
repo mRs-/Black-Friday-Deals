@@ -141,6 +141,8 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 
 ### 💸 [Combine Swift - Complete Course](https://www.craft.do/s/QBsitp7TQPkm4z) - Combine for mere mortals. • 50% off
 
+### 💸 [Design and Code Swift apps ](https://designcode.io)· 50% off
+
 ## 📈 Business Software
 
 ### 💸 [Appfigures - App Analytics, ASO Tools, and App Intelligence](https://fg.rs/black-friday-22) · 50% off
