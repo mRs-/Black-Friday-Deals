@@ -66,6 +66,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ### 💰 [Superlayer](https://apps.apple.com/app/id1601796450) — Widget Creator Engine for Mac · 20% off (Lifetime Purchase)
 ### 💸 [Tonal Therapy](https://www.craft.do/s/QBsitp7TQPkm4z) - ACRN Therapy app for people who suffer from tinnitus. • 57% off
 ### 💸 [PlantPal](https://apps.apple.com/app/apple-store/id1566070492?pt=118649576&ct=plantpal.net&mt=8) — Care companion for happy & healthy house plants • 50% off the first year
+### 💰 [Shelf](https://apps.apple.com/app/id6443596253) — Pin photos, text, and actions to your Lock Screen. For iPhone · Up to 40% off
 
 ## Social
 ### 💰 [Bird search](https://birdsearch.carrd.co) - Advanced search app for Twitter that unlocks lot of hidden fields - 60% off on one time payment. Available on iOS/macOS/iPadOS
@@ -171,5 +172,10 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ### 💰 [Battery Status for HomeMatic](https://apps.apple.com/us/app/batterie-status-für-homematic/id1538622445) – Shows battery level of HomeMatic devices · 25% off
 ### 💰 [GlanceCam - IP Camera Viewer](https://apps.apple.com/us/app/glancecam-ip-webcam-viewer/id1360797896) – Secure IP camera viewer with support for standard streaming protocols for Mac · Standard version 25% off
 
+## 🚀 Productivity
+### 💰 [Focused Work](https://apps.apple.com/app/id1523968394) – A powerful timer for super productive days. For iPhone, iPad, Mac. · Up to 40% off
+### 💰 [Ochi](https://apps.apple.com/app/id1603024803) – Block distracting Apps & Websites on all devices. For iPhone, iPad, Mac. · Up to 40% off
+
 ## 🕹 Games
 ### 💸 [Ploppy Pairs](https://itunes.apple.com/app/apple-store/id1597674393) – Card matching game for kids with SharePlay and VoiceOver functionality · ~60% off
+
