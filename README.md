@@ -126,6 +126,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ## 🎶 Creative content
 
 ### 💸 [Paprika Recipe Manager](https://www.paprikaapp.com) - Recipe manager for Mac, iOS, Android and Windows
+### 🎼 [FreeYourMusic - Easy Transfers](https://freeyourmusic.com) - Ultra simple transfer of playlists for Mac, iOS, Android and Windows. **30% off**
 
 ## 🤑 Finance
 ### 💰 [Percento](https://www.percento.app) - Simple personal finance manager. App Store Top 10 Finance Apps of 2022 (China store). It helps you save time on tracking expense and making investment decisions. Sync rates and prices for your stocks and cryptocurrencies automatically. **50% off for lifetime membership**
