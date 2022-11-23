@@ -108,7 +108,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 
 ## 🏃🏻‍♀️ Health & Fitness Software
 
-### 💸 [Heartwitch - Live Stream Health Stats](https://heartwitch.app/) Use promo code `BLACKFRIDAY2023` to get 60% off
+### 💸 [Heartwitch - Live Stream Health Stats](https://heartwitch.app/) Use promo code `BLACKFRIDAY2022` to get 60% off
 
 ## 🎁 Bundles
 
