@@ -51,6 +51,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ### 💸 [AI Tool Hub 🔥](https://ritujhajharia.gumroad.com/l/aitoolhub) - AI Tool Hub is the most comprehensive directory of 80+ AI Tools curated for writers, marketers & creators. It helps you focus on creating more meaningful content and grow, not waste hours in searching for the right tools. Coupon Code : AIBF50 for **50% off on Full Version**
 ### 💸 [Custom Text Font Extension](https://apps.apple.com/app/custom-text-font-extension/id1597034898) - iOS Safari extension to load and tweak custom fonts on websites. ! **85% off on lifetime purchase for Black Friday!**
 ### 💸 [Cookie DNT Privacy for Safari](https://apps.apple.com/app/cookie-blocker-privacy-guard/id1594049656) - iOS Safari extension that remove cookie trackers from visited websites ! **5O% off for Black Friday!**
+### 💸 [Tweetsmash](https://tweetsmash.com) - Tweetsmash turns Twitter bookmarks/list into automated email digests. Connect with apps like Notion to autosync & export your bookmarks. **50% off for Black Friday!**
 
 ## 🎨 Graphic Software
 ### 💸 [Xnapper](https://xnapper.com) - Take beautiful screenshot easy and fast. Smart features: auto balance, auto hide sensitive info, auto fill background color. Other features: with annotations, image compression, and keyboard shortcuts. Fully supports Apple Silicon & macOS Ventura. 50% OFF with code **BLACKFRIDAY_2022**
