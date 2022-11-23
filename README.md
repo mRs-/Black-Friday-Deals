@@ -48,6 +48,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ### 💸 [KTool.io](https://ktool.io/install) | KTool helps you send web articles, Twitter threads and newsletters to Kindle. Reduce screen time. Improve productivity. ** 50% off first year **
 ### 💸 [OpenIn 4](https://apps.apple.com/us/app/openin-4-advanced-link-handler/id1643649331) - Advanced link and file handler for macOS (Ventura). 50% off
 ### 💸 [OpenIn 3](https://apps.apple.com/us/app/openin/id1547147101) - Advanced link and file handler for macOS (Big Sur and Monterey+). 50% off
+### 💸 [AI Tool Hub 🔥](https://ritujhajharia.gumroad.com/l/aitoolhub) - AI Tool Hub is the most comprehensive directory of 80+ AI Tools curated for writers, marketers & creators. It helps you focus on creating more meaningful content and grow, not waste hours in searching for the right tools. Coupon Code : AIBF50 for **50% off on Full Version**
 
 ## 🎨 Graphic Software
 ### 💸 [Xnapper](https://xnapper.com) - Take beautiful screenshot easy and fast. Smart features: auto balance, auto hide sensitive info, auto fill background color. Other features: with annotations, image compression, and keyboard shortcuts. Fully supports Apple Silicon & macOS Ventura. 50% OFF with code **BLACKFRIDAY_2022**
