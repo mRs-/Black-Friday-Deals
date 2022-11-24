@@ -67,13 +67,12 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ### 💸 [Tweetsmash](https://tweetsmash.com) - Tweetsmash turns Twitter bookmarks/list into automated email digests. Connect with apps like Notion to autosync & export your bookmarks. **50% off for Black Friday!**
 ### 💸 [Ping](https://ping.neat.software) - Web uptime monitor for macOS - **50% off IAP for Black Friday**
 ### 💸 [Tim](https://tim.neat.software) - Simple & powerful time tracking for macOS - **50% off IAP for Black Friday**
-### 💰 [Daito Authenticator](https://www.daito.io) - Web-based 2FA authenticator for small and large teams. 10 secs to migrate from Google Authenticator. Securely share 2FA tokens with your team, no phone needed. **30% OFF** on your first month or entire first year with code **BLACKWEEK2022**
+### 💰 [Daito Authenticator](https://www.daito.io) - Web-based 2FA authenticator for small and large teams. 10 secs to migrate from Google Authenticator. Securely share 2FA tokens with your team, no phone needed. **30% OFF** on your first month or entire first year with code **BLACKFRIDAY2022**
 ### 💰 [SideNotes](https://www.apptorium.com/sidenotes) - Take notes on your screen side with no distraction. SideNotes is your silent helper in moments of focus – **40% OFF**
 ### 💰 [FiveNotes](https://www.apptorium.com/fivenotes) - Five small notes to use as a cheat sheet from Menubar. Stays on top of other apps, even those in full-screen – **40% OFF**
 ### 💰 [Workspaces](https://www.apptorium.com/workspaces) - Project-based launcher. Launch chosen apps, websites, files, folders etc. for a given project. With one click – **40% OFF**
+### 💰 [DisplayBuddy](https://displaybuddy.app) - Control the brightness of your monitors directly from your Mac – 33% OFF with code **BLACKFRIDAY**
 ### 💸 [Bookshelf: Reading & TBR Tracker](https://getbookshelf.com](https://apps.apple.com/redeem?ctx=offercodes&id=1469372414&code=BLACKFRIDAY2022) - A beautiful reading tracker app that helps you track your library, build a lasting reading habit, and better remember what you read. – **50% off annual Gold membership**
-
-
 
 ## 🎨 Graphic Software
 ### 💸 [Xnapper](https://xnapper.com) - Take beautiful screenshot easy and fast. Smart features: auto balance, auto hide sensitive info, auto fill background color. Other features: with annotations, image compression, and keyboard shortcuts. Fully supports Apple Silicon & macOS Ventura. 50% OFF with code **BLACKFRIDAY_2022**
@@ -89,6 +88,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ### 💰 [Tumult Hype](https://blog.tumult.com/2022/11/22/cyber-monday-discounts-for-tumult-hype-and-tumult-whisk-today-through-december-1st/) _30% off_ — Create beautiful animated and interactive HTML5 web content with Tumult Hype.
 ### 💸 [Rawsie](https://rawsie.co) - Rawsie – compress RAW image files by up to 80% to save disk space – 20% off first year before December 2
 ### 💸 [Logology](https://www.logology.co) - Get a designer quality logo for your startup in 5 minutes. Use code BF22 to get 50% off.
+### 💸 [SMBImg](https://smbimg.com) - Screenshot tool and images converter. Use code **SMBIMG_BLACKFRIDAY** to get 50% off for annual plans.
 
 ## 🏝️ Lifestyle
 ### 💰 [Superlayer](https://apps.apple.com/app/id1601796450) — Widget Creator Engine for Mac · 20% off (Lifetime Purchase)
@@ -163,6 +163,10 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 
 ### 💸 [The Embedded Enterpreneur](https://www.embeddedentrepreneur.com) · 50% off
 
+### 💸 [Developing Accessible iOS Apps - Support VoiceOver, Dynamic Type, and More](https://link.springer.com/book/10.1007/978-1-4842-5308-3) · 70% off
+
+### 💸 [Developing Inclusive Mobile Apps - Building Accessible Apps for iOS and Android](https://link.springer.com/book/10.1007/978-1-4842-5814-9) · 70% off
+
 
 ## 👩‍🎓 Courses and Videos
 
@@ -192,6 +196,8 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 
 ### 💰 [How to Dominate Twitter](https://www.dagorenouf.com/how-to-dominate-twitter) · Learn how the twitter algorithm works and boost your growth · 40% off with code BF22
 
+### 💸  [UserBooster](https://xavierc.gumroad.com/l/userbooster/bf_22) · Learn how to get your first users and start getting traction. · 50% off 
+
 
 ## 📈 Business Software
 
@@ -199,6 +205,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ### 💸 [Side Mirror - Your Live Demo Secret Weapon](https://www.craft.do/s/QBsitp7TQPkm4z) macOS app • 50% off
 ### 💸 [hirevire](https://hirevire.com?utm_source=bfd) · Hirevire can help you automate the first round of interviews by getting answers for screening questions via video, file uploads or text. Use code BF50 for 50% off on all plans.
 ### 💰 [Jason's Plugins For Carrd - Plugins to power up your Carrd sites](https://plugins.carrd.co) · 34% off all plugins
+### 💰 [Formaloo](https://www.formaloo.com/en/) · Build powerful forms, databases, and business apps without code. 30% off for annual payments on all plans. Sign up for free and upgrade with the Black Friday offer on Annual plans.
 
 ## 🏃🏻‍♀️ Health & Fitness Software
 
