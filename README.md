@@ -88,6 +88,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ### 💰 [Tumult Hype](https://blog.tumult.com/2022/11/22/cyber-monday-discounts-for-tumult-hype-and-tumult-whisk-today-through-december-1st/) _30% off_ — Create beautiful animated and interactive HTML5 web content with Tumult Hype.
 ### 💸 [Rawsie](https://rawsie.co) - Rawsie – compress RAW image files by up to 80% to save disk space – 20% off first year before December 2
 ### 💸 [Logology](https://www.logology.co) - Get a designer quality logo for your startup in 5 minutes. Use code BF22 to get 50% off.
+### 💸 [SMBImg](https://smbimg.com) - Screenshot tool and images converter. Use code **SMBIMG_BLACKFRIDAY** to get 50% off for annual plans.
 
 ## 🏝️ Lifestyle
 ### 💰 [Superlayer](https://apps.apple.com/app/id1601796450) — Widget Creator Engine for Mac · 20% off (Lifetime Purchase)
