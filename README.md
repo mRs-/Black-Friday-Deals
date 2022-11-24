@@ -71,6 +71,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ### 💰 [SideNotes](https://www.apptorium.com/sidenotes) - Take notes on your screen side with no distraction. SideNotes is your silent helper in moments of focus – **40% OFF**
 ### 💰 [FiveNotes](https://www.apptorium.com/fivenotes) - Five small notes to use as a cheat sheet from Menubar. Stays on top of other apps, even those in full-screen – **40% OFF**
 ### 💰 [Workspaces](https://www.apptorium.com/workspaces) - Project-based launcher. Launch chosen apps, websites, files, folders etc. for a given project. With one click – **40% OFF**
+### 💸 [Bookshelf: Reading & TBR Tracker](https://getbookshelf.com](https://apps.apple.com/redeem?ctx=offercodes&id=1469372414&code=BLACKFRIDAY2022) - A beautiful reading tracker app that helps you track your library, build a lasting reading habit, and better remember what you read. – **50% off annual Gold membership**
 
 
 
