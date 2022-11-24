@@ -26,11 +26,14 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ### 💰 [Beyond Compare](https://www.scootersoftware.com/shop.php) - Compare files and folders using simple, powerful commands that focus on the differences you're interested in and ignore those you're not. Merge changes, synchronize files, and generate reports. **30% OFF**, only on Monday, November 28th ONLY (U.S. Central Standard Time). Coupon code is **CYBER22**
 ### 💸 [Volca SaaS Boilerplate](https://volca.io) - A SaaS code boilerplate that accelerates the development and delivery time for you next SaaS product. **50% off**
 ### 💰 [TelemetryDeck](https://telemetrydeck.com/?source=mRs) - Light-weight analytics for apps, with user privacy built in. **30% off for a year** with coupon code **BLCKFRDY** for monthly subscription, or **40% off** for a yearly subscription with coupon code **BLCKFRDYYEAR**. 
+### 💰 [TeaCode](https://www.apptorium.com/teacode) - Text expanding app for developers. Write your code super fast – **40% OFF**
+### 💰 [Expressions](https://www.apptorium.com/expressions) - App to play with regular expressions. Makes your regex testing easy – **37% OFF**
 
 ## 🎛 Utility Software
 ### 💸 [Sensei](https://cindori.com/sensei) - Maximise your Mac performance (macOS) · 50% off 
 ### 💰 [BetterTouchTool](https://folivora.ai) - BetterTouchTool is a great, feature packed app that allows you to customize various input devices (mouse, trackpad, keyboard, touch bar etc.) on your Mac. 25% off, coupon code is **BTT_BLACK_FRIDAY_2022**
 ### 💸 [BuhoCleaner](https://www.drbuho.com/) - macOS Storage Cleaner app - 50% OFF for the lifetime purchase.
+### 💰 [ScreenFocus](https://www.apptorium.com/screenfocus) - ScreenFocus follows your cursor and dims inactive monitors. It reduces brightness and allows you to focus – **37% OFF**
 ### 💸 [iStat Menus](https://bjango.com/mac/istatmenus/) - An advanced Mac system monitor for your menu bar. - 50% off
 
 
@@ -65,6 +68,11 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ### 💸 [Ping](https://ping.neat.software) - Web uptime monitor for macOS - **50% off IAP for Black Friday**
 ### 💸 [Tim](https://tim.neat.software) - Simple & powerful time tracking for macOS - **50% off IAP for Black Friday**
 ### 💰 [Daito Authenticator](https://www.daito.io) - Web-based 2FA authenticator for small and large teams. 10 secs to migrate from Google Authenticator. Securely share 2FA tokens with your team, no phone needed. **30% OFF** on your first month or entire first year with code **BLACKWEEK2022**
+### 💰 [SideNotes](https://www.apptorium.com/sidenotes) - Take notes on your screen side with no distraction. SideNotes is your silent helper in moments of focus – **40% OFF**
+### 💰 [FiveNotes](https://www.apptorium.com/fivenotes) - Five small notes to use as a cheat sheet from Menubar. Stays on top of other apps, even those in full-screen – **40% OFF**
+### 💰 [Workspaces](https://www.apptorium.com/workspaces) - Project-based launcher. Launch chosen apps, websites, files, folders etc. for a given project. With one click – **40% OFF**
+
+
 
 ## 🎨 Graphic Software
 ### 💸 [Xnapper](https://xnapper.com) - Take beautiful screenshot easy and fast. Smart features: auto balance, auto hide sensitive info, auto fill background color. Other features: with annotations, image compression, and keyboard shortcuts. Fully supports Apple Silicon & macOS Ventura. 50% OFF with code **BLACKFRIDAY_2022**
