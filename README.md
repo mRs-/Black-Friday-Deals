@@ -87,6 +87,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ### 💸 [Sip](https://sipapp.io) - A better Color Picker for your Mac. 50% off first year.
 ### 💰 [Tumult Hype](https://blog.tumult.com/2022/11/22/cyber-monday-discounts-for-tumult-hype-and-tumult-whisk-today-through-december-1st/) _30% off_ — Create beautiful animated and interactive HTML5 web content with Tumult Hype.
 ### 💸 [Rawsie](https://rawsie.co) - Rawsie – compress RAW image files by up to 80% to save disk space – 20% off first year before December 2
+### 💸 [Logology](https://www.logology.co) - Get a designer quality logo for your startup in 5 minutes. Use code BF22 to get 50% off.
 
 ## 🏝️ Lifestyle
 ### 💰 [Superlayer](https://apps.apple.com/app/id1601796450) — Widget Creator Engine for Mac · 20% off (Lifetime Purchase)
@@ -187,6 +188,8 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ### 💸 [Build 7 Startup apps with Rails 7](https://code4startup.com/rails_7_series) · Up to 50% off
 
 ### 💸 [MakerBox](https://www.makerbox.club/black-friday) · Up to 70% off
+
+### 💰 [How to Dominate Twitter](https://www.dagorenouf.com/how-to-dominate-twitter) · Learn how the twitter algorithm works and boost your growth · 40% off with code BF22
 
 
 ## 📈 Business Software
