@@ -175,6 +175,8 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 
 ### 💸 [Build 7 Startup apps with Rails 7](https://code4startup.com/rails_7_series) · Up to 50% off
 
+### 💸 [MakerBox](https://www.makerbox.club/black-friday) · Up to 70% off
+
 
 ## 📈 Business Software
 
