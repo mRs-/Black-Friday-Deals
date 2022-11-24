@@ -25,6 +25,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ### 💸 [ShellHistory](https://apps.apple.com/us/app/shellhistory/id1564015476) - Keeps zsh, bash, fish history in SQLite with Full Text Search and sync via iCloud 50% off
 ### 💰 [Beyond Compare](https://www.scootersoftware.com/shop.php) - Compare files and folders using simple, powerful commands that focus on the differences you're interested in and ignore those you're not. Merge changes, synchronize files, and generate reports. **30% OFF**, only on Monday, November 28th ONLY (U.S. Central Standard Time). Coupon code is **CYBER22**
 ### 💸 [Volca SaaS Boilerplate](https://volca.io) - A SaaS code boilerplate that accelerates the development and delivery time for you next SaaS product. **50% off**
+### 💰 [TelemetryDeck](https://telemetrydeck.com/?source=mRs) - Light-weight analytics for apps, with user privacy built in. **30% off for a year** with coupon code **BLCKFRDY** for monthly subscription, or **40% off** for a yearly subscription with coupon code **BLCKFRDYYEAR**. 
 
 ## 🎛 Utility Software
 ### 💸 [Sensei](https://cindori.com/sensei) - Maximise your Mac performance (macOS) · 50% off 
