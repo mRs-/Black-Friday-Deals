@@ -162,6 +162,10 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 
 ### 💸 [The Embedded Enterpreneur](https://www.embeddedentrepreneur.com) · 50% off
 
+### 💸 [Developing Accessible iOS Apps - Support VoiceOver, Dynamic Type, and More](https://link.springer.com/book/10.1007/978-1-4842-5308-3) · 70% off
+
+### 💸 [Developing Inclusive Mobile Apps - Building Accessible Apps for iOS and Android](https://link.springer.com/book/10.1007/978-1-4842-5814-9) · 70% off
+
 
 ## 👩‍🎓 Courses and Videos
 
