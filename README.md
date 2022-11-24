@@ -31,6 +31,8 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ### 💸 [Sensei](https://cindori.com/sensei) - Maximise your Mac performance (macOS) · 50% off 
 ### 💰 [BetterTouchTool](https://folivora.ai) - BetterTouchTool is a great, feature packed app that allows you to customize various input devices (mouse, trackpad, keyboard, touch bar etc.) on your Mac. 25% off, coupon code is **BTT_BLACK_FRIDAY_2022**
 ### 💸 [BuhoCleaner](https://www.drbuho.com/) - macOS Storage Cleaner app - 50% OFF for the lifetime purchase.
+### 💸 [iStat Menus](https://bjango.com/mac/istatmenus/) - An advanced Mac system monitor for your menu bar. - 50% off
+
 
 ## 📌 Productivity Software
 ### 💸 [Reading Time - Book Tracker](https://apps.apple.com/app/id1561460485) · Unlock forever is 50% off
