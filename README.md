@@ -67,13 +67,11 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ### 💸 [Tweetsmash](https://tweetsmash.com) - Tweetsmash turns Twitter bookmarks/list into automated email digests. Connect with apps like Notion to autosync & export your bookmarks. **50% off for Black Friday!**
 ### 💸 [Ping](https://ping.neat.software) - Web uptime monitor for macOS - **50% off IAP for Black Friday**
 ### 💸 [Tim](https://tim.neat.software) - Simple & powerful time tracking for macOS - **50% off IAP for Black Friday**
-### 💰 [Daito Authenticator](https://www.daito.io) - Web-based 2FA authenticator for small and large teams. 10 secs to migrate from Google Authenticator. Securely share 2FA tokens with your team, no phone needed. **30% OFF** on your first month or entire first year with code **BLACKWEEK2022**
+### 💰 [Daito Authenticator](https://www.daito.io) - Web-based 2FA authenticator for small and large teams. 10 secs to migrate from Google Authenticator. Securely share 2FA tokens with your team, no phone needed. **30% OFF** on your first month or entire first year with code **BLACKFRIDAY2022**
 ### 💰 [SideNotes](https://www.apptorium.com/sidenotes) - Take notes on your screen side with no distraction. SideNotes is your silent helper in moments of focus – **40% OFF**
 ### 💰 [FiveNotes](https://www.apptorium.com/fivenotes) - Five small notes to use as a cheat sheet from Menubar. Stays on top of other apps, even those in full-screen – **40% OFF**
 ### 💰 [Workspaces](https://www.apptorium.com/workspaces) - Project-based launcher. Launch chosen apps, websites, files, folders etc. for a given project. With one click – **40% OFF**
 ### 💰 [DisplayBuddy](https://displaybuddy.app) - Control the brightness of your monitors directly from your Mac – 33% OFF with code **BLACKFRIDAY**
-
-
 
 ## 🎨 Graphic Software
 ### 💸 [Xnapper](https://xnapper.com) - Take beautiful screenshot easy and fast. Smart features: auto balance, auto hide sensitive info, auto fill background color. Other features: with annotations, image compression, and keyboard shortcuts. Fully supports Apple Silicon & macOS Ventura. 50% OFF with code **BLACKFRIDAY_2022**
