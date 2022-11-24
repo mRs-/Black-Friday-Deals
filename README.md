@@ -89,6 +89,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ### 💸 [Rawsie](https://rawsie.co) - Rawsie – compress RAW image files by up to 80% to save disk space – 20% off first year before December 2
 ### 💸 [Logology](https://www.logology.co) - Get a designer quality logo for your startup in 5 minutes. Use code BF22 to get 50% off.
 ### 💸 [SMBImg](https://smbimg.com) - Screenshot tool and images converter. Use code **SMBIMG_BLACKFRIDAY** to get 50% off for annual plans.
+### 💰 [CleanShot X](https://cleanshot.com/pricing) – Capture your Mac’s screen like a pro. CleanShot X provides over 50 features making it the ultimate screen capturing tool. 30% off, code: BF2022
 
 ## 🏝️ Lifestyle
 ### 💰 [Superlayer](https://apps.apple.com/app/id1601796450) — Widget Creator Engine for Mac · 20% off (Lifetime Purchase)
