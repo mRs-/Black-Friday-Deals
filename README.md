@@ -202,6 +202,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ### 💸 [Side Mirror - Your Live Demo Secret Weapon](https://www.craft.do/s/QBsitp7TQPkm4z) macOS app • 50% off
 ### 💸 [hirevire](https://hirevire.com?utm_source=bfd) · Hirevire can help you automate the first round of interviews by getting answers for screening questions via video, file uploads or text. Use code BF50 for 50% off on all plans.
 ### 💰 [Jason's Plugins For Carrd - Plugins to power up your Carrd sites](https://plugins.carrd.co) · 34% off all plugins
+### 💰 [Formaloo](https://www.formaloo.com/en/) · Build powerful forms, databases, and business apps without code. 30% off for annual payments on all plans. Sign up for free and upgrade with the Black Friday offer on Annual plans.
 
 ## 🏃🏻‍♀️ Health & Fitness Software
 
