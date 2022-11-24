@@ -27,9 +27,9 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 
 ## 🎛 Utility Software
 ### 💸 [Sensei](https://cindori.com/sensei) - Maximise your Mac performance (macOS) · 50% off 
+### 💸 [BuhoCleaner](https://www.drbuho.com/) - macOS Storage Cleaner app - 50% OFF for the lifetime purchase.
 
 ## 📌 Productivity Software
-### 💸 [BuhoCleaner]([https://apps.apple.com/app/id1561460485](https://www.drbuho.com/)) · macOS Storage Cleaner app - 50% OFF for the lifetime purchase.
 ### 💸 [Reading Time - Book Tracker](https://apps.apple.com/app/id1561460485) · Unlock forever is 50% off
 ### 💰 [Email Me App](https://www.emailmeapp.net) - A native iOS, MacOS and WatchOS App to email yourself and much more with just one tap. 50% OFF for the lifetime purchase.
 ### 💰 [GlanceCal](https://apps.apple.com/us/app/glancecal-menu-bar-calendar/id1475680776) - Native Menu Bar Calendar for macOS. Your day at a glance. 30% OFF in the Mac App Store from November 21st to November 25th
