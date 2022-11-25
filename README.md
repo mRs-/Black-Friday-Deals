@@ -249,3 +249,6 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ## 🕹 Games
 ### 💸 [Ploppy Pairs](https://itunes.apple.com/app/apple-store/id1597674393) – Card matching game for kids with SharePlay and VoiceOver functionality · ~60% off
 
+## 🎛 Security Software
+### 💸 [Little Snitch](https://www.obdev.at/products/littlesnitch/order.html) -  Host-based application firewall for macOS. It can be used to monitor applications, preventing or permitting them to connect to attached networks through advanced rules. 50% off 
+
