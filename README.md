@@ -78,6 +78,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ### 💰 [iNFC](https://apps.apple.com/cn/app/infc/id1562054959) – Mobile TV/Custom Live Streaming Player · Up to 50% off
 ### 💰 [iTelevision](https://apps.apple.com/cn/app/itelevision/id6443470500) – Read and write NFC tags, copy access control cards, and debug IC access control cards. · Up to 40% off
 ### 💸 [Objective Development](https://obdev.at/) - Little Snitch / LaunchBar / Micro Snitch - **50% off for Black Friday**
+### 💰 [Outread: Speed Reading](https://apps.apple.com/app/outread-speed-reading/id778846279) - Go through your reading list twice as fast thanks to speed reading methods. 33% OFF for Outread+ Lifetime.
 
 ## 🎨 Graphic Software
 ### 💸 [Xnapper](https://xnapper.com) - Take beautiful screenshot easy and fast. Smart features: auto balance, auto hide sensitive info, auto fill background color. Other features: with annotations, image compression, and keyboard shortcuts. Fully supports Apple Silicon & macOS Ventura. 50% OFF with code **BLACKFRIDAY_2022**
