@@ -36,7 +36,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ### 💰 [ScreenFocus](https://www.apptorium.com/screenfocus) - ScreenFocus follows your cursor and dims inactive monitors. It reduces brightness and allows you to focus – **37% OFF**
 ### 💸 [iStat Menus](https://bjango.com/mac/istatmenus/) - An advanced Mac system monitor for your menu bar. - 50% off
 ### 💸 [iMazing](https://imazing.com) - Manage your iPhone and iPad like a pro with iMazing, probably the best tool in its class, for Mac and Windows - **50% OFF**
-
+### 💰 [Yoink](https://blog.eternalstorms.at/2022/11/25/black-friday-2022-eternal-storms-software-app-sale/) - Simplify and improve drag and drop on your Mac/iPhone/iPad, and speed up your daily workflow. 30% off for Mac, 25% off for iPhone/iPad. Links at the blog post.
 
 ## 📌 Productivity Software
 ### 💸 [Reading Time - Book Tracker](https://apps.apple.com/app/id1561460485) · Unlock forever is 50% off
