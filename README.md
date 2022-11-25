@@ -38,6 +38,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ### 💸 [iMazing](https://imazing.com) - Manage your iPhone and iPad like a pro with iMazing, probably the best tool in its class, for Mac and Windows - **50% OFF**
 ### 💰 [Yoink](https://blog.eternalstorms.at/2022/11/25/black-friday-2022-eternal-storms-software-app-sale/) - Simplify and improve drag and drop on your Mac/iPhone/iPad, and speed up your daily workflow. 30% off for Mac, 25% off for iPhone/iPad. Links at the blog post.
 ### 💰 [Aldente Pro](https://apphousekitchen.com) - An ALL-IN-ONE Battery Charge Limiter App For MacBooks. - 20% OFF on November 25th
+### 💸 [Better Battery 2: Stats & Info Pro Edition](https://apps.apple.com/us/app/better-battery-2-stats-info/id1455789676?mt=12) - Better Battery 2 shows information and stats of your MacBook battery in the menu bar. So you are always aware of the current battery stats, battery time and health. Also support showing of real charge level. 65% off for Pro Edition.
 
 ## 📌 Productivity Software
 ### 💸 [Reading Time - Book Tracker](https://apps.apple.com/app/id1561460485) · Unlock forever is 50% off
