@@ -35,6 +35,8 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ### 💸 [BuhoCleaner](https://www.drbuho.com/) - macOS Storage Cleaner app - 50% OFF for the lifetime purchase.
 ### 💰 [ScreenFocus](https://www.apptorium.com/screenfocus) - ScreenFocus follows your cursor and dims inactive monitors. It reduces brightness and allows you to focus – **37% OFF**
 ### 💸 [iStat Menus](https://bjango.com/mac/istatmenus/) - An advanced Mac system monitor for your menu bar. - 50% off
+### 💸 [iMazing](https://imazing.com) - Manage your iPhone and iPad like a pro with iMazing, probably the best tool in its class, for Mac and Windows - **50% OFF**
+### 💰 [Yoink](https://blog.eternalstorms.at/2022/11/25/black-friday-2022-eternal-storms-software-app-sale/) - Simplify and improve drag and drop on your Mac/iPhone/iPad, and speed up your daily workflow. 30% off for Mac, 25% off for iPhone/iPad. Links at the blog post.
 ### 💰 [Aldente Pro](https://apphousekitchen.com) - An ALL-IN-ONE Battery Charge Limiter App For MacBooks. - 20% OFF on November 25th
 
 ## 📌 Productivity Software
@@ -76,6 +78,8 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ### 💰 [Hookmark](https://hookproductivity.com) - OSX, link anything to anything else. 30% off Hookmark Pro, Hookmark Standard, and upgrades and updates licenses with code BFCMHM22.
 ### 💰 [iNFC](https://apps.apple.com/cn/app/infc/id1562054959) – Mobile TV/Custom Live Streaming Player · Up to 50% off
 ### 💰 [iTelevision](https://apps.apple.com/cn/app/itelevision/id6443470500) – Read and write NFC tags, copy access control cards, and debug IC access control cards. · Up to 40% off
+### 💸 [Objective Development](https://obdev.at/) - Little Snitch / LaunchBar / Micro Snitch - **50% off for Black Friday**
+### 💰 [Outread: Speed Reading](https://apps.apple.com/app/outread-speed-reading/id778846279) - Go through your reading list twice as fast thanks to speed reading methods. 33% OFF for Outread+ Lifetime.
 
 ## 🎨 Graphic Software
 ### 💸 [Xnapper](https://xnapper.com) - Take beautiful screenshot easy and fast. Smart features: auto balance, auto hide sensitive info, auto fill background color. Other features: with annotations, image compression, and keyboard shortcuts. Fully supports Apple Silicon & macOS Ventura. 50% OFF with code **BLACKFRIDAY_2022**
@@ -170,6 +174,8 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ### 💸 [Developing Accessible iOS Apps - Support VoiceOver, Dynamic Type, and More](https://link.springer.com/book/10.1007/978-1-4842-5308-3) · 70% off
 
 ### 💸 [Developing Inclusive Mobile Apps - Building Accessible Apps for iOS and Android](https://link.springer.com/book/10.1007/978-1-4842-5814-9) · 70% off
+
+### 💰 [Modern Auto Layout](https://useyourloaf.com/autolayout/) · 20% off
 
 
 ## 👩‍🎓 Courses and Videos
