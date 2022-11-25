@@ -242,7 +242,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ### 💸 [Cashculator](https://cashculator.app) - The easy way to forecast personal finances (Mac). 50% off.
 ### 💸 [Belongings](https://apps.apple.com/us/app/belongings-home-inventory/id1580380407) - Personal Belongings Inventory, Keep track of your belongings for those unexpected moments (iOS, iPad, Mac). 50% off on the AppStore.
 ### 💸 [Expenses](https://getexpenses.app) - Track your spending and budgeting. Get 50% off Expenses Pro for iOS, iPadOS, and macOS.
-
+### 💸 [20min Financial Runway](https://byhazellim.gumroad.com/l/runway) - A 20-min financial calculator that helps you work out how much money you need to fund your lifestyle and startup idea while you build. Get 50% off template with code BF2022
 
 ## 🏡 Home Automation
 ### 💰 [Script Editor for HomeMatic](https://apps.apple.com/us/app/hmscripteditor/id1483239744) – Edit and Run HomeMatic Rega scripts · 16% off
