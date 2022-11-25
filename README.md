@@ -35,7 +35,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ### 💸 [BuhoCleaner](https://www.drbuho.com/) - macOS Storage Cleaner app - 50% OFF for the lifetime purchase.
 ### 💰 [ScreenFocus](https://www.apptorium.com/screenfocus) - ScreenFocus follows your cursor and dims inactive monitors. It reduces brightness and allows you to focus – **37% OFF**
 ### 💸 [iStat Menus](https://bjango.com/mac/istatmenus/) - An advanced Mac system monitor for your menu bar. - 50% off
-
+### 💰 [Aldente Pro](https://apphousekitchen.com) - An ALL-IN-ONE Battery Charge Limiter App For MacBooks. - 20% OFF on November 25th
 
 ## 📌 Productivity Software
 ### 💸 [Reading Time - Book Tracker](https://apps.apple.com/app/id1561460485) · Unlock forever is 50% off
