@@ -36,7 +36,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ### 💰 [ScreenFocus](https://www.apptorium.com/screenfocus) - ScreenFocus follows your cursor and dims inactive monitors. It reduces brightness and allows you to focus – **37% OFF**
 ### 💸 [iStat Menus](https://bjango.com/mac/istatmenus/) - An advanced Mac system monitor for your menu bar. - 50% off
 ### 💸 [iMazing](https://imazing.com) - Manage your iPhone and iPad like a pro with iMazing, probably the best tool in its class, for Mac and Windows - **50% OFF**
-
+### 💸 [Better Battery 2: Stats & Info Pro Edition](https://apps.apple.com/us/app/better-battery-2-stats-info/id1455789676?mt=12) - Better Battery 2 shows information and stats of your MacBook battery in the menu bar. So you are always aware of the current battery stats, battery time and health. Also support showing of real charge level. 65% off for Pro Edition.
 
 ## 📌 Productivity Software
 ### 💸 [Reading Time - Book Tracker](https://apps.apple.com/app/id1561460485) · Unlock forever is 50% off
