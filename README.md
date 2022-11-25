@@ -35,6 +35,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ### 💸 [BuhoCleaner](https://www.drbuho.com/) - macOS Storage Cleaner app - 50% OFF for the lifetime purchase.
 ### 💰 [ScreenFocus](https://www.apptorium.com/screenfocus) - ScreenFocus follows your cursor and dims inactive monitors. It reduces brightness and allows you to focus – **37% OFF**
 ### 💸 [iStat Menus](https://bjango.com/mac/istatmenus/) - An advanced Mac system monitor for your menu bar. - 50% off
+### 💸 [iMazing](https://imazing.com) - Manage your iPhone and iPad like a pro with iMazing, probably the best tool in its class, for Mac and Windows - **50% OFF**
 
 
 ## 📌 Productivity Software
