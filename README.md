@@ -173,6 +173,8 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 
 ### 💸 [Developing Inclusive Mobile Apps - Building Accessible Apps for iOS and Android](https://link.springer.com/book/10.1007/978-1-4842-5814-9) · 70% off
 
+### 💰 [Modern Auto Layout](https://useyourloaf.com/autolayout/) · 20% off
+
 
 ## 👩‍🎓 Courses and Videos
 
