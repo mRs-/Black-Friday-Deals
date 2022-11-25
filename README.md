@@ -74,6 +74,8 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ### 💰 [DisplayBuddy](https://displaybuddy.app) - Control the brightness of your monitors directly from your Mac – 33% OFF with code **BLACKFRIDAY**
 ### 💸 [Bookshelf: Reading & TBR Tracker](https://getbookshelf.com](https://apps.apple.com/redeem?ctx=offercodes&id=1469372414&code=BLACKFRIDAY2022) - A beautiful reading tracker app that helps you track your library, build a lasting reading habit, and better remember what you read. – **50% off annual Gold membership**
 ### 💰 [Hookmark](https://hookproductivity.com) - OSX, link anything to anything else. 30% off Hookmark Pro, Hookmark Standard, and upgrades and updates licenses with code BFCMHM22.
+### 💰 [iNFC](https://apps.apple.com/cn/app/infc/id1562054959) – Mobile TV/Custom Live Streaming Player · Up to 50% off
+### 💰 [iTelevision](https://apps.apple.com/cn/app/itelevision/id6443470500) – Read and write NFC tags, copy access control cards, and debug IC access control cards. · Up to 40% off
 
 ## 🎨 Graphic Software
 ### 💸 [Xnapper](https://xnapper.com) - Take beautiful screenshot easy and fast. Smart features: auto balance, auto hide sensitive info, auto fill background color. Other features: with annotations, image compression, and keyboard shortcuts. Fully supports Apple Silicon & macOS Ventura. 50% OFF with code **BLACKFRIDAY_2022**
