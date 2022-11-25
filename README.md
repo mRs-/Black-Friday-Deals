@@ -200,7 +200,9 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 
 ### 💰 [How to Dominate Twitter](https://www.dagorenouf.com/how-to-dominate-twitter) · Learn how the twitter algorithm works and boost your growth · 40% off with code BF22
 
-### 💸  [UserBooster](https://xavierc.gumroad.com/l/userbooster/bf_22) · Learn how to get your first users and start getting traction. · 50% off 
+### 💸 [UserBooster](https://xavierc.gumroad.com/l/userbooster/bf_22) · Learn how to get your first users and start getting traction. · 50% off 
+
+### 💰 [Pointfree](https://www.pointfree.co/discounts/black-friday-2022) * Pointfree Subscription 30% off
 
 
 ## 📈 Business Software
