@@ -82,7 +82,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ### 💸 [Objective Development](https://obdev.at/) - Little Snitch / LaunchBar / Micro Snitch - **50% off for Black Friday**
 ### 💰 [Outread: Speed Reading](https://apps.apple.com/app/outread-speed-reading/id778846279) - Go through your reading list twice as fast thanks to speed reading methods. 33% OFF for Outread+ Lifetime.
 
-### 💰 [Ubidrop](https://www.ubidrop.com/) - Transfer photos, music, video from Android to Mac seamlessly. 50% OFF for with code: BLACK_FRIDAY.
+### 💸 [Ubidrop](https://www.ubidrop.com/) - Transfer photos, music, video from Android to Mac seamlessly. 50% OFF for with code: BLACK_FRIDAY.
 
 ## 🎨 Graphic Software
 ### 💸 [Xnapper](https://xnapper.com) - Take beautiful screenshot easy and fast. Smart features: auto balance, auto hide sensitive info, auto fill background color. Other features: with annotations, image compression, and keyboard shortcuts. Fully supports Apple Silicon & macOS Ventura. 50% OFF with code **BLACKFRIDAY_2022**
