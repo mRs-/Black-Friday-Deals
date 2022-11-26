@@ -82,6 +82,8 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ### 💸 [Objective Development](https://obdev.at/) - Little Snitch / LaunchBar / Micro Snitch - **50% off for Black Friday**
 ### 💰 [Outread: Speed Reading](https://apps.apple.com/app/outread-speed-reading/id778846279) - Go through your reading list twice as fast thanks to speed reading methods. 33% OFF for Outread+ Lifetime.
 
+### 💰 [Ubidrop](https://www.ubidrop.com/) - Transfer photos, music, video from Android to Mac seamlessly. 50% OFF for with code: BLACK_FRIDAY.
+
 ## 🎨 Graphic Software
 ### 💸 [Xnapper](https://xnapper.com) - Take beautiful screenshot easy and fast. Smart features: auto balance, auto hide sensitive info, auto fill background color. Other features: with annotations, image compression, and keyboard shortcuts. Fully supports Apple Silicon & macOS Ventura. 50% OFF with code **BLACKFRIDAY_2022**
 ### 💸 [Digital Photo Frame App](https://digitalphotoframeapp.com/) - Turn your iPad into a digital photo frame. The most gorgeous and powerful photo player application for the iPad and iPhone. **50% OFF lifetime purchase**
@@ -98,6 +100,8 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ### 💸 [Logology](https://www.logology.co) - Get a designer quality logo for your startup in 5 minutes. Use code BF22 to get 50% off.
 ### 💸 [SMBImg](https://smbimg.com) - Screenshot tool and images converter. Use code **SMBIMG_BLACKFRIDAY** to get 50% off for annual plans.
 ### 💰 [CleanShot X](https://cleanshot.com/pricing) – Capture your Mac’s screen like a pro. CleanShot X provides over 50 features making it the ultimate screen capturing tool. 30% off, code: BF2022
+
+### 💰 [Litur](https://litur.app/) – A color picker app for the real world. Find, collect and organize all the colors around you. 40% off, code: BL-FRI-2022
 
 ## 🏝️ Lifestyle
 ### 💰 [Superlayer](https://apps.apple.com/app/id1601796450) — Widget Creator Engine for Mac · 20% off (Lifetime Purchase)
