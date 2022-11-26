@@ -111,6 +111,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 
 ## 🎓 Reference & Education
 ### 💰 [DEVONthink](https://www.devontechnologies.com/promotions/blackfriday) - DEVONthink is your paperless office. It stores all your documents, helps you keep them organized, and presents you with what you need to get the job done. 25% off Nov 25th – Nov 28th 2022.
+### 💸 [Nihongo: a modern Japanese dictionary](https://apps.apple.com/us/app/nihongo-japanese-dictionary/id881697245) - Japanese dictionary and study toolkit. • 50% off lifetime subscriptions to Nihongo Pro
 
 ## 📰 News
 ### 💰 [Elytra](https://apps.apple.com/app/apple-store/id1433266971?pt=119194029&ct=blackfridayrepo&mt=8) - Simple & Private RSS Feeds Reader 
