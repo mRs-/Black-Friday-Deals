@@ -28,6 +28,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ### 💰 [TelemetryDeck](https://telemetrydeck.com/?source=mRs) - Light-weight analytics for apps, with user privacy built in. **30% off for a year** with coupon code **BLCKFRDY** for monthly subscription, or **40% off** for a yearly subscription with coupon code **BLCKFRDYYEAR**. 
 ### 💰 [TeaCode](https://www.apptorium.com/teacode) - Text expanding app for developers. Write your code super fast – **40% OFF**
 ### 💰 [Expressions](https://www.apptorium.com/expressions) - App to play with regular expressions. Makes your regex testing easy – **37% OFF**
+### 💸 [Simple Refresh for Safari](https://apps.apple.com/us/app/simple-refresh-for-safari/id1492951704) - Automatically refresh tabs in Safari. **50% off**
 
 ## 🎛 Utility Software
 ### 💸 [Sensei](https://cindori.com/sensei) - Maximise your Mac performance (macOS) · 50% off 
@@ -39,6 +40,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ### 💰 [Yoink](https://blog.eternalstorms.at/2022/11/25/black-friday-2022-eternal-storms-software-app-sale/) - Simplify and improve drag and drop on your Mac/iPhone/iPad, and speed up your daily workflow. 30% off for Mac, 25% off for iPhone/iPad. Links at the blog post.
 ### 💰 [Aldente Pro](https://apphousekitchen.com) - An ALL-IN-ONE Battery Charge Limiter App For MacBooks. - 20% OFF on November 25th
 ### 💸 [Better Battery 2: Stats & Info Pro Edition](https://apps.apple.com/us/app/better-battery-2-stats-info/id1455789676?mt=12) - Better Battery 2 shows information and stats of your MacBook battery in the menu bar. So you are always aware of the current battery stats, battery time and health. Also support showing of real charge level. 65% off for Pro Edition.
+### 💰 [Menu Bar Bundle for macOS](https://apps.apple.com/us/app-bundle/menu-bar-bundle/id1654807534) - Useful menu utilities for macOS **25% off**
 
 ## 📌 Productivity Software
 ### 💸 [Reading Time - Book Tracker](https://apps.apple.com/app/id1561460485) · Unlock forever is 50% off
@@ -104,6 +106,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ### 💸 [Tonal Therapy](https://www.craft.do/s/QBsitp7TQPkm4z) - ACRN Therapy app for people who suffer from tinnitus. • 57% off
 ### 💸 [PlantPal](https://apps.apple.com/app/apple-store/id1566070492?pt=118649576&ct=plantpal.net&mt=8) — Care companion for happy & healthy house plants • 50% off the first year
 ### 💰 [Shelf](https://apps.apple.com/app/id6443596253) — Pin photos, text, and actions to your Lock Screen. For iPhone · Up to 40% off
+### 💸 [Modern Time](https://apps.apple.com/us/app/modern-time/id1599916777) - Designer's digital clock for macOS **50% off**
 
 ## Social
 ### 💰 [Bird search](https://birdsearch.carrd.co) - Advanced search app for Twitter that unlocks lot of hidden fields - 60% off on one time payment. Available on iOS/macOS/iPadOS
