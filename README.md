@@ -11,6 +11,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 
 
 ## 🛠 Development Software
+### 💰 [Swifty Compiler](https://apps.apple.com/app/id1544749600) - Write and run Swift code in Ipad . Lifetime Premium for 20% off 
 ### 💰 [Zen Mode](https://zenmode.carrd.co) - Avoid those awkward moments in public places or in presentation meetings for macOS users. Features: Raycast integration, Build your own modes. SALE - >40% OFF (no coupon code)
 ### 💰 [Proxyman](https://proxyman.io) - Modern. Native. Web Debugging Proxy for macOS, iOS, and Android. Capture & Inspect HTTP/HTTPS traffic with ease. Fully supports Apple M1 & macOS Ventura. 30% OFF with code **PROXYMAN_BLACK_FRIDAY_2022**
 ### 💸 [DevUtils](https://devutils.com) - All-in-one toolbox for developers. Fully supports Apple Silicon & macOS Ventura. 50% OFF with code **BLACKFRIDAY_2022**
