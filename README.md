@@ -244,7 +244,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 
 ## 🎶 Creative content
 
-### 💸 [Paprika Recipe Manager](https://www.paprikaapp.com) - Recipe manager for Mac, iOS, Android and Windows
+### 💸 [Paprika Recipe Manager](https://www.paprikaapp.com) - Recipe manager for Mac, iOS, Android and Windows. 40% Off
 ### 🎼 [FreeYourMusic - Easy Transfers](https://freeyourmusic.com) - Ultra simple transfer of playlists for Mac, iOS, Android and Windows. **30% off**
 
 ## 🤑 Finance
