@@ -30,7 +30,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ### 💰 [TeaCode](https://www.apptorium.com/teacode) - Text expanding app for developers. Write your code super fast – **40% OFF**
 ### 💰 [Expressions](https://www.apptorium.com/expressions) - App to play with regular expressions. Makes your regex testing easy – **37% OFF**
 ### 💸 [Simple Refresh for Safari](https://apps.apple.com/us/app/simple-refresh-for-safari/id1492951704) - Automatically refresh tabs in Safari. **50% off**
-### 💰 [Mailtrap](https://mailtrap.io/) - an end-to-end sending solution for devs to test, send and control emails in one place. Get **70% OFF on all Email API/SMTP pricing plans with code MAILTRAP2022**
+### 💸 [Mailtrap](https://mailtrap.io/) - an end-to-end sending solution for devs to test, send and control emails in one place. Get **70% OFF on all Email API/SMTP pricing plans with code MAILTRAP2022**
 
 ## 🎛 Utility Software
 ### 💸 [Sensei](https://cindori.com/sensei) - Maximise your Mac performance (macOS) · 50% off 
