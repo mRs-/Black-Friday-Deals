@@ -223,6 +223,10 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 
 ### 💰 [Pointfree](https://www.pointfree.co/discounts/black-friday-2022) * Pointfree Subscription 30% off
 
+### 💸 [PRE-SALE: Getting Started in Technical Writing.](https://theankurtyagi.gumroad.com/l/blogging) · Getting Started in Technical Writing: A Step-by-Step Guide to Earn Your First $1000 Per Month as a Writer. · 50% off 
+
+### 💸 [The Prime Guide For Next Gen Developer.](https://theankurtyagi.gumroad.com/l/nextgendev) · The book is everything you need in a typical career path of a software engineer or developer, from starting at a company as a fresher or new grad to a senior software engineer. · 50% off 
+
 
 ## 📈 Business Software
 
