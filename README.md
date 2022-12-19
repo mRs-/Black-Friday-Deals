@@ -30,6 +30,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ### 💰 [TeaCode](https://www.apptorium.com/teacode) - Text expanding app for developers. Write your code super fast – **40% OFF**
 ### 💰 [Expressions](https://www.apptorium.com/expressions) - App to play with regular expressions. Makes your regex testing easy – **37% OFF**
 ### 💸 [Simple Refresh for Safari](https://apps.apple.com/us/app/simple-refresh-for-safari/id1492951704) - Automatically refresh tabs in Safari. **50% off**
+### 💸 [GitKraken](https://www.gitkraken.com/lp/cyber-week?utm_campaign=Cyber%20Monday%20Promotion%202022&utm_source=GitHub%20Repo) - 50% OFF all GitKraken tools. Use code CYBER50 at checkout
 
 ## 🎛 Utility Software
 ### 💸 [Sensei](https://cindori.com/sensei) - Maximise your Mac performance (macOS) · 50% off 
