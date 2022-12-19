@@ -80,7 +80,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ### 💰 [FiveNotes](https://www.apptorium.com/fivenotes) - Five small notes to use as a cheat sheet from Menubar. Stays on top of other apps, even those in full-screen – **40% OFF**
 ### 💰 [Workspaces](https://www.apptorium.com/workspaces) - Project-based launcher. Launch chosen apps, websites, files, folders etc. for a given project. With one click – **40% OFF**
 ### 💰 [DisplayBuddy](https://displaybuddy.app) - Control the brightness of your monitors directly from your Mac – 33% OFF with code **BLACKFRIDAY**
-### 💸 [Bookshelf: Reading & TBR Tracker](https://getbookshelf.com](https://apps.apple.com/redeem?ctx=offercodes&id=1469372414&code=BLACKFRIDAY2022) - A beautiful reading tracker app that helps you track your library, build a lasting reading habit, and better remember what you read. – **50% off annual Gold membership**
+### 💸 [Bookshelf: Reading & TBR Tracker](https://getbookshelf.com), {[Apple Store Code Link](https://apps.apple.com/redeem?ctx=offercodes&id=1469372414&code=BLACKFRIDAY2022)} - A beautiful reading tracker app that helps you track your library, build a lasting reading habit, and better remember what you read. – **50% off annual Gold membership**
 ### 💰 [Hookmark](https://hookproductivity.com) - OSX, link anything to anything else. 30% off Hookmark Pro, Hookmark Standard, and upgrades and updates licenses with code BFCMHM22.
 ### 💰 [iNFC](https://apps.apple.com/cn/app/infc/id1562054959) – Mobile TV/Custom Live Streaming Player · Up to 50% off
 ### 💰 [iTelevision](https://apps.apple.com/cn/app/itelevision/id6443470500) – Read and write NFC tags, copy access control cards, and debug IC access control cards. · Up to 40% off
@@ -89,6 +89,8 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ### 💸 [Wins](https://wins.cool) - A New Mac Window Manager. Bring System-level Arrange Window features to Mac - 50% OFF with code **BLACKFRIDAY_2022**
 
 ### 💸 [Ubidrop](https://www.ubidrop.com/) - Transfer photos, music, video from Android to Mac seamlessly. 50% OFF for with code: BLACK_FRIDAY.
+
+### 💸 [CodeWeavers](https://www.codeweavers.com/blog/jschmid/2022/11/27/our-cyber-monday-sale-starts-on-well-monday) - CrossOver+ and renewals for 60% off with deal code HOORAY60. CrossOver Life will be 26% off with deal code HOORAY26.
 
 ## 🎨 Graphic Software
 ### 💸 [Xnapper](https://xnapper.com) - Take beautiful screenshot easy and fast. Smart features: auto balance, auto hide sensitive info, auto fill background color. Other features: with annotations, image compression, and keyboard shortcuts. Fully supports Apple Silicon & macOS Ventura. 50% OFF with code **BLACKFRIDAY_2022**
