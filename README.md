@@ -18,6 +18,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ## 📌 Productivity Software
 
 ## 🎨 Graphic Software
+### 💰 [Sparkle 5 - Visual Website Builder](https://sparkleapp.com/store/) - Build the website you always wanted, visually, on your Mac. 40% OFF (automatically applied)
 
 ## 🏝️ Lifestyle
 
