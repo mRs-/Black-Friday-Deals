@@ -1,6 +1,6 @@
 # 💰💸💰 Black Friday Deals 2023 💰💸💰
 
-This is a list of all Black Friday Deals for macOS / iOS Software & Books in 2022. Feel free to contribute via Pull Request, making sure to add new offers _below_ existing ones.
+This is a list of all Black Friday Deals for macOS / iOS Software & Books in 2023. Feel free to contribute via Pull Request, making sure to add new offers _below_ existing ones.
 
 **Legend**
 
@@ -23,7 +23,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 
 ## 🏝️ Lifestyle
 
-## Social
+## 🗣️ Social
 
 ## 🎓 Reference & Education
 
@@ -38,6 +38,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ## 🏃🏻‍♀️ Health & Fitness Software
 
 ## 🎁 Bundles
+### 💰 [BundleHunt BlackFriday Bundle](https://bundlehunt.com/bundle/2023-blackfriday-macos-bundle): Choose from 42 apps including CloudMounter, Downie, Permute and more. Get $3 when you spend $30.
 
 ## 🎶 Creative content
 
