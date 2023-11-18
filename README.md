@@ -42,6 +42,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ## 🎶 Creative content
 
 ## 🤑 Finance
+### 💰 [SubManager](https://getsubmanager.app) - Track your subscriptions all in one place with SubManager. Get 30% off SubManager+ and 20% off SubManager+ Family during Black Friday Week from 20th November! Includes features like App Lock, export/import and more! Available for iPhone, iPad, Apple Watch and Apple Silicon Macs.
 
 ## 🏡 Home Automation
 
