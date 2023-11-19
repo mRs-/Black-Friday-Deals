@@ -35,6 +35,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ## 👩‍🎓 Courses and Videos
 
 ## 📈 Business Software
+### 💸 [Appfigures](https://appfigures.com/account/upgrade?p=BF2350S) - Grow your downloads with powerful and intuitive tools for App Store Optimization and Competitor Intelligence. 50% with code BF2350S.
 
 ## 🏃🏻‍♀️ Health & Fitness Software
 
