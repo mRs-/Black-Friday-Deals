@@ -15,8 +15,11 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 
 ## 🎛 Utility Software
 ### 💸 [Reporting for RevenueCat](https://apps.apple.com/app/apple-store/id1638185419?pt=118518712&ct=black_friday_2023_github&mt=8) - Reporting for RevenueCat allows you to track your App Store revenue using RevenueCat in a native and great user interface. For iOS, iPadOS and macOS. 50% OFF, no code needed.
+### 💰 [Lingon X](https://www.peterborgapps.com/lingon/): An easy to use but powerful macOS app to run things automatically. 20% OFF (automatically applied)
 
 ## 📌 Productivity Software
+### 💸 [AnySelect](http://anyselectai.com/) The best and quickest way to use ChatGPT from anywhere on your Mac. Get 70% off with this code **MRSBF2023**
+### 💸 [Wins - A New Window Manager for macOS](https://wins.cool) -Bring System-level Arrange Window features to Mac. Dock Window Previewer. Floating Split Window. 50% OFF with code BLACKFRIDAY_2023
 ### 💰 [Smultron](https://www.peterborgapps.com/smultron/): An elegant and powerful text editor for macOS that is easy to use. 20% OFF (automatically applied)
 
 ## 🎨 Graphic Software
@@ -35,6 +38,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ## 👩‍🎓 Courses and Videos
 
 ## 📈 Business Software
+### 💸 [Appfigures](https://appfigures.com/account/upgrade?p=BF2350S) - Grow your downloads with powerful and intuitive tools for App Store Optimization and Competitor Intelligence. 50% with code BF2350S.
 
 ## 🏃🏻‍♀️ Health & Fitness Software
 
@@ -44,7 +48,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ## 🎶 Creative content
 
 ## 🤑 Finance
-### 💰 [SubManager](https://getsubmanager.app) - Track your subscriptions all in one place with SubManager. Get 30% off SubManager+ and 20% off SubManager+ Family during Black Friday Week from 20th November! Includes features like App Lock, export/import and more! Available for iPhone, iPad, Apple Watch and Apple Silicon Macs.
+### 💰 [SubManager](https://getsubmanager.app) - Track your subscriptions all in one place with SubManager. Get 30% off SubManager+ and 20% off SubManager+ Family during Black Friday Week from 20th November! Includes features like App Lock, export/import and more! Available for iPhone, iPad, Apple Watch and Mac.
 
 ## 🏡 Home Automation
 
