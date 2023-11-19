@@ -20,6 +20,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ## 📌 Productivity Software
 ### 💸 [AnySelect](http://anyselectai.com/) The best and quickest way to use ChatGPT from anywhere on your Mac. Get 70% off with this code **MRSBF2023**
 ### 💸 [Wins - A New Window Manager for macOS](https://wins.cool) -Bring System-level Arrange Window features to Mac. Dock Window Previewer. Floating Split Window. 50% OFF with code BLACKFRIDAY_2023
+### 💰 [Smultron](https://www.peterborgapps.com/smultron/): An elegant and powerful text editor for macOS that is easy to use. 20% OFF (automatically applied)
 
 ## 🎨 Graphic Software
 ### 💰 [Sparkle 5 - Visual Website Builder](https://sparkleapp.com/store/) - Build the website you always wanted, visually, on your Mac. 40% OFF (automatically applied)
