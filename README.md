@@ -42,9 +42,17 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 
 ## 🎨 Graphic Software
 
+### 💰 [Affinity Designer 2](https://apps.apple.com/us/app/affinity-designer-2/id1616831348?mt=12) - The next generation of the award-winning vector graphics software, Affinity Designer 2 is setting the new industry standard in the world of design. 40% OFF (automatically applied - lifetime)
+
+### 💰 [Affinity Photo 2](https://apps.apple.com/us/app/affinity-photo-2/id1616822987?mt=12) - Affinity Photo is a raster graphics editor developed by Serif Ltd. for iOS, macOS, and Windows, alongside Affinity Designer and Affinity Publisher. 40% OFF (automatically applied - lifetime)
+
+### 💰 [Affinity Publisher 2](https://apps.apple.com/us/app/affinity-publisher-2/id1606941598?mt=12) - Affinity Publisher is a desktop publishing application developed by Serif for macOS and Microsoft Windows. 40% OFF (automatically applied - lifetime)
+
+### 💸 [Pixelmator Pro](https://apps.apple.com/us/app/pixelmator-pro/id1289583905?mt=12) - Pixelmator Pro is an incredibly powerful, beautiful, and easy-to-use image editor designed exclusively for Mac. 50% OFF (automatically applied)
+
 ### 💰 [Sparkle 5 - Visual Website Builder](https://sparkleapp.com/store/) - Build the website you always wanted, visually, on your Mac. 40% OFF (automatically applied)
 
-### 💸 [Xnapper](https://xnapper.com) - Take beautiful screenshot easy and fast. 50% Off with **BLACKFRIDAY_2023**
+### 💸 [Xnapper](https://xnapper.com) - Take beautiful screenshots easy and fast. 50% Off with **BLACKFRIDAY_2023**
 
 ## 🏝️ Lifestyle
 
