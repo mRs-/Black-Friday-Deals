@@ -14,6 +14,9 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ### 💰 [TablePlus](https://http://tableplus.com) - Modern, native client with intuitive GUI tools to create, access, query & edit multiple relational databases: MySQL, PostgreSQL, SQLite, Microsoft SQL. 25% OFF with code **TABLEPLUS_BLACK_FRIDAY_2023**
 ### 💸 [Tower](https://www.git-tower.com/) - Powerful Git client · 50% off
 
+## :tophat: Security Software
+### 💸 [ExploitPack](https://exploitpack.com) - Advanced exploitation framework with 0days and 39.000+ exploits - DISCOUNT: **Upgrade from 1-year license to Lifetime (Only a 10 licenses are available)**
+
 ## 🎛 Utility Software
 ### 💸 [Reporting for RevenueCat](https://apps.apple.com/app/apple-store/id1638185419?pt=118518712&ct=black_friday_2023_github&mt=8) - Reporting for RevenueCat allows you to track your App Store revenue using RevenueCat in a native and great user interface. For iOS, iPadOS and macOS. 50% OFF, no code needed.
 ### 💰 [Lingon X](https://www.peterborgapps.com/lingon/): An easy to use but powerful macOS app to run things automatically. 20% OFF (automatically applied)
