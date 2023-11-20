@@ -26,6 +26,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ### 💰 [Lasso](https://thelasso.app) Move and resize windows with your mouse. 40% Off
 ### 💸 [MindPal](https://mindpal.space/) Effortlessly build AI Agents for your tasks, on your custom data. 50% off with BLACKFRIDAY50
 ### 💸 [ToDoBar](https://todobar.compzets.com) Effortlessly manage to-dos from your Mac menu bar. 50% Off
+### 💰 [Paste](https://pasteapp.io) - Endless clipboard: keep, search, and organize everything across your Mac and iOS devices. 30% off first year on all devices.
 
 ## 🎨 Graphic Software
 ### 💰 [Sparkle 5 - Visual Website Builder](https://sparkleapp.com/store/) - Build the website you always wanted, visually, on your Mac. 40% OFF (automatically applied)
