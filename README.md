@@ -57,6 +57,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ### 💰 [Astro](https://tryastro.app) App Store Optimization tool for Apple Developers Improve your app visibility and increase your revenue. Astro provides you with the most up-to-date data directly from Apple Search Ads. 40% Off with **KXMTK1MA**.
 
 ## 🏃🏻‍♀️ Health & Fitness Software
+### 💸 [DogNote - Pet journal](https://dognote.app) - App for journaling pet-related activities with your family. 40% off Annual Plan.
 
 ## 🎁 Bundles
 ### 💰 [BundleHunt BlackFriday Bundle](https://bundlehunt.com/bundle/2023-blackfriday-macos-bundle): Choose from 42 apps including CloudMounter, Downie, Permute and more. Get $3 when you spend $30.
