@@ -42,6 +42,8 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 
 ## 🎨 Graphic Software
 
+### 💰 [Affinity Designer 2](https://apps.apple.com/us/app/affinity-designer-2/id1616831348?mt=12) - The next generation of the award-winning vector graphics software, Affinity Designer 2 is setting the new industry standard in the world of design. 40% OFF (automatically applied - lifetime)
+
 ### 💸 [Pixelmator Pro](https://apps.apple.com/us/app/pixelmator-pro/id1289583905?mt=12) - Pixelmator Pro is an incredibly powerful, beautiful, and easy-to-use image editor designed exclusively for Mac. 50% OFF (automatically applied)
 
 ### 💰 [Sparkle 5 - Visual Website Builder](https://sparkleapp.com/store/) - Build the website you always wanted, visually, on your Mac. 40% OFF (automatically applied)
