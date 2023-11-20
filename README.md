@@ -25,6 +25,8 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 
 ### 💰 [Tasks](https://apps.apple.com/de/app/tasks-todo-lists-kanban/id1502903102) Todo Lists & Kanban. 50% Off
 
+### 💸 [Sensei](https://cindori.com/sensei) - Maximise your Mac performance (macOS) · 50% off
+
 ## 📌 Productivity Software
 
 ### 💸 [AnySelect](http://anyselectai.com/) The best and quickest way to use ChatGPT from anywhere on your Mac. Get 70% off with this code **MRSBF2023**
