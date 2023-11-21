@@ -73,6 +73,8 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 
 ## 📖 Books
 ### 💸 [Integrating SwiftUI into UIKit Apps](https://books.nilcoalescing.com/integrating-swiftui) - A detailed guide on gradually adopting SwiftUI in UIKit projects. 50% off no code needed.
+### 💰 [Modern Auto Layout](https://useyourloaf.com/autolayout/) Recently updated for Xcode 15 and iOS 17. 20% off with code BLACKFRIDAY.
+
 ## 👩‍🎓 Courses and Videos
 ### 💸 [Code4Startup - Building and Selling AI Startups](https://code4startup.com/black_friday/) Mega discount for the Bundle of AI Premium Series. 90% discount from now until Cyber Monday.
 
