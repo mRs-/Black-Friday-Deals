@@ -33,7 +33,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ### 💸 [AnySelect](http://anyselectai.com/) The best and quickest way to use ChatGPT from anywhere on your Mac. Get 70% off with this code **MRSBF2023**
 ### 💸 [Wins - A New Window Manager for macOS](https://wins.cool) -Bring System-level Arrange Window features to Mac. Dock Window Previewer. Floating Split Window. 50% OFF with code BLACKFRIDAY_2023
 ### 💰 [Smultron](https://www.peterborgapps.com/smultron/): An elegant and powerful text editor for macOS that is easy to use. 20% OFF (automatically applied)
-### 💰 [Lasso](https://thelasso.app) Move and resize windows with your mouse. 40% Off
+### 💰 [Lasso](https://thelasso.app) Move and resize windows with your mouse. 40% Off with code: BLACKBLACK40
 ### 💸 [MindPal](https://mindpal.space/) Effortlessly build AI Agents for your tasks, on your custom data. 50% off with BLACKFRIDAY50
 ### 💸 [ToDoBar](https://todobar.compzets.com) Effortlessly manage to-dos from your Mac menu bar. 50% Off
 ### 💰 [Paste](https://pasteapp.io) - Endless clipboard: keep, search, and organize everything across your Mac and iOS devices. 30% off first year on all devices.
