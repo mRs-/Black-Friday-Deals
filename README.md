@@ -13,6 +13,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ### 💰 [Proxyman](https://proxyman.io) - Debug HTTP/HTTPS Network Faster & Smarter with Proxyman. Proxyman is a modern native macOS app that helps developers to Capture & Inspect HTTP/HTTPS traffic with ease. Support macOS, iOS (Device & Simulators), Windows, and Linux. 30% OFF with code **PROXYMAN_BLACKFRIDAY_2023**
 ### 💰 [TablePlus](https://http://tableplus.com) - Modern, native client with intuitive GUI tools to create, access, query & edit multiple relational databases: MySQL, PostgreSQL, SQLite, Microsoft SQL. 25% OFF with code **TABLEPLUS_BLACK_FRIDAY_2023**
 ### 💸 [Tower](https://www.git-tower.com/) - Powerful Git client · 50% off
+### 💸 [Webhookify](https://webhookify.io?ref=bfd) - Simplify webhook integration with our desktop app. Easily generate, manage, and test custom webhook URLs for seamless third-party service connections · 50% off with coupon: **`BLACKFRIDAY2023`** until Dec 1
 
 ## :tophat: Security Software
 ### 💸 [ExploitPack](https://exploitpack.com) - Advanced exploitation framework with 0days and 39.000+ exploits - DISCOUNT: **Upgrade from 1-year license to Lifetime (Only a 10 licenses are available)**
