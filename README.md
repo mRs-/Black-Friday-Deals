@@ -41,6 +41,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ### 💸 [MindMac](https://mindmac.app/) - Use code BLACKFRIDAY to purchase a beautiful, native app with a ton of features (with a lot more upcoming!) at 55% discount.
 ### 💸 [Beam](https://getbeam.ai/) - Floating ChatGPT for Your Mac at 70% OFF with BLACKFRIDAY23
 ### 💰 [TypingMind](https://www.typingmind.com/) - The best advanced UI for ChatGPT/GPT-4/Claude. No monthly fee, no usage limit. Use your own API key. Advanced features: chat folders, search, export, prompt library, AI characters, Text-to-speech, Web Search, Plugins | 40% OFF with code **BLACKFRIDAY2023**
+### 💰 [superwhisper](https://superwhisper.com/) - AI powered voice to text for macOS - offline, fast and secure | 40% OFF with code **BLACKFRIDAY40**
 
 ### 💰 [DockView](https://noteifyapp.com/dockview/) - Enhance your Mac experience with live window previews in the Dock for easy application management. | 40% OFF with code **MACPLUSBLACKFRIDAY2023** or [using the link](https://sites.fastspring.com/noteifyapp/product/buydockview?option=show_contents&coupon=MACPLUSBLACKFRIDAY2023)
 
