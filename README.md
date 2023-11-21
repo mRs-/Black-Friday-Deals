@@ -13,6 +13,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ### 💰 [Proxyman](https://proxyman.io) - Debug HTTP/HTTPS Network Faster & Smarter with Proxyman. Proxyman is a modern native macOS app that helps developers to Capture & Inspect HTTP/HTTPS traffic with ease. Support macOS, iOS (Device & Simulators), Windows, and Linux. 30% OFF with code **PROXYMAN_BLACKFRIDAY_2023**
 ### 💰 [TablePlus](https://http://tableplus.com) - Modern, native client with intuitive GUI tools to create, access, query & edit multiple relational databases: MySQL, PostgreSQL, SQLite, Microsoft SQL. 25% OFF with code **TABLEPLUS_BLACK_FRIDAY_2023**
 ### 💸 [Tower](https://www.git-tower.com/) - Powerful Git client · 50% off
+### 💸 [Webhookify](https://webhookify.io?ref=bfd) - Simplify webhook integration with our desktop app. Easily generate, manage, and test custom webhook URLs for seamless third-party service connections · 50% off with coupon: **`BLACKFRIDAY2023`** until Dec 1
 ### 💰 [LocalCan™](https://www.localcan.com/) - Ngrok alternative, build and test apps with .local domains and persistent Public URLs · 25% OFF with code  **BLACKFRIDAY25**
 
 ## :tophat: Security Software
@@ -34,8 +35,10 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ### 💸 [ToDoBar](https://todobar.compzets.com) Effortlessly manage to-dos from your Mac menu bar. 50% Off
 ### 💰 [Paste](https://pasteapp.io) - Endless clipboard: keep, search, and organize everything across your Mac and iOS devices. 30% off first year on all devices.
 ### 💸 [BoltAI](https://boltai.com?ref=bfdeals) - A beautiful & powerful ChatGPT app for Mac. Enjoy 53% off with this discount code AWESOMEBF2023
+### 💰 [SideNotes](https://www.apptorium.com/sidenotes) - Take notes on your screen side while working, reading, browsing, studying. Always with you. With dozens of features. 40% off (automatically applied) for both macOS app and it's companion iOS / iPadOS app 
+### 💰 [Workspaces](https://www.apptorium.com/workspaces) - Project-based launcher that opens your files, folders, websites, apps etc. with one click. 40% off (automatically applied)
 ### 💸 [MindMac](https://mindmac.app/) - Use code BLACKFRIDAY to purchase a beautiful, native app with a ton of features (with a lot more upcoming!) at 55% discount.
-
+### 💸 [Beam](https://getbeam.ai/) - Floating ChatGPT for Your Mac at 70% OFF with BLACKFRIDAY23
 
 ## 🎨 Graphic Software
 ### 💰 [Sparkle 5 - Visual Website Builder](https://sparkleapp.com/store/) - Build the website you always wanted, visually, on your Mac. 40% OFF (automatically applied)
