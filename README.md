@@ -43,6 +43,14 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ### 💸 [MindMac](https://mindmac.app/) - Use code BLACKFRIDAY to purchase a beautiful, native app with a ton of features (with a lot more upcoming!) at 55% discount.
 ### 💸 [Beam](https://getbeam.ai/) - Floating ChatGPT for Your Mac at 70% OFF with BLACKFRIDAY23
 ### 💰 [TypingMind](https://www.typingmind.com/) - The best advanced UI for ChatGPT/GPT-4/Claude. No monthly fee, no usage limit. Use your own API key. Advanced features: chat folders, search, export, prompt library, AI characters, Text-to-speech, Web Search, Plugins | 40% OFF with code **BLACKFRIDAY2023**
+### 💰 [superwhisper](https://superwhisper.com/) - AI powered voice to text for macOS - offline, fast and secure | 40% OFF with code **BLACKFRIDAY40**
+### 💰 [DockView](https://noteifyapp.com/dockview/) - Enhance your Mac experience with live window previews in the Dock for easy application management. | 40% OFF with code **MACPLUSBLACKFRIDAY2023** or [using the link](https://sites.fastspring.com/noteifyapp/product/buydockview?option=show_contents&coupon=MACPLUSBLACKFRIDAY2023)
+### 💰 [ActiveDock](https://noteifyapp.com/activedock/) - Customizable Dock for Mac. | 40% OFF with code **MACPLUSBLACKFRIDAY2023** or [using the link](https://sites.fastspring.com/noteifyapp/product/activedock2?option=show_contents&coupon=MACPLUSBLACKFRIDAY2023)
+### 💰 [Plus AI](https://noteifyapp.com/plus-ai/) - Your AI text assistant. | 40% OFF with code **MACPLUSBLACKFRIDAY2023** or [using the link](https://sites.fastspring.com/noteifyapp/product/plusai?option=show_contents&coupon=MACPLUSBLACKFRIDAY2023)
+### 💰 [Command-Tab Plus](https://noteifyapp.com/command-tab-plus/) - Keyboard-centric application and window switcher for your Mac. | 40% OFF with code **MACPLUSBLACKFRIDAY2023** or [using the link](https://sites.fastspring.com/noteifyapp/product/commandtabplus2?option=show_contents&coupon=MACPLUSBLACKFRIDAY2023)
+### 💰 [Tab Finder](https://noteifyapp.com/tab-finder/) - A list of all your open tabs across all browser windows in one place. | 40% OFF with code **MACPLUSBLACKFRIDAY2023** or [using the link](https://sites.fastspring.com/noteifyapp/product/tabfinder?option=show_contents&coupon=MACPLUSBLACKFRIDAY2023)
+### 💰 [Quick Exposé](https://noteifyapp.com/quick-expose/) - Enhancing macOS Navigation Using Mission Control. | 40% OFF with code **MACPLUSBLACKFRIDAY2023** or [using the link](https://sites.fastspring.com/noteifyapp/product/quickexpose?option=show_contents&coupon=MACPLUSBLACKFRIDAY2023)
+### 💰 [Stage View](https://noteifyapp.com/stage-view/) - Stage View is a utility that adds a preview of the windows in the group in Stage Manager. | 40% OFF with code **MACPLUSBLACKFRIDAY2023** or [using the link](http://sites.fastspring.com/noteifyapp/product/stageview?option=show_contents&coupon=MACPLUSBLACKFRIDAY2023)
 ### 💰 [EagleFiler](https://c-command.com/store/sale) - Organize files, archive e-mails, save Web pages and notes, search everything (Mac) · 25% off
 
 ## 🎨 Graphic Software
@@ -52,7 +60,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ### 💰 [Affinity Photo 2](https://apps.apple.com/us/app/affinity-photo-2/id1616822987?mt=12) - Affinity Photo is a raster graphics editor developed by Serif Ltd. for iOS, macOS, and Windows, alongside Affinity Designer and Affinity Publisher. 40% OFF (automatically applied - lifetime)
 ### 💰 [Affinity Publisher 2](https://apps.apple.com/us/app/affinity-publisher-2/id1606941598?mt=12) - Affinity Publisher is a desktop publishing application developed by Serif for macOS and Microsoft Windows. 40% OFF (automatically applied - lifetime)
 ### 💸 [Pixelmator Pro](https://apps.apple.com/us/app/pixelmator-pro/id1289583905?mt=12) - Pixelmator Pro is an incredibly powerful, beautiful, and easy-to-use image editor designed exclusively for Mac. 50% OFF (automatically applied)
-
+### 💸 [Qlone 3D Scanner](https://apps.apple.com/app/qlone-3d-scanner/id1229460906) - The most User-Friendly 3D Scanning app with over 2M downloads! Enjoy 50% OFF on Premium Upgrade
 
 ## 🏝️ Lifestyle
 
