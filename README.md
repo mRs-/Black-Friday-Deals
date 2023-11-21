@@ -33,6 +33,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ### 💸 [ToDoBar](https://todobar.compzets.com) Effortlessly manage to-dos from your Mac menu bar. 50% Off
 ### 💰 [Paste](https://pasteapp.io) - Endless clipboard: keep, search, and organize everything across your Mac and iOS devices. 30% off first year on all devices.
 ### 💸 [BoltAI](https://boltai.com?ref=bfdeals) - A beautiful & powerful ChatGPT app for Mac. Enjoy 53% off with this discount code AWESOMEBF2023
+### 💸 [MindMac](https://mindmac.app/) - Use code BLACKFRIDAY to purchase a beautiful, native app with a ton of features (with a lot more upcoming!) at 55% discount.
 
 
 ## 🎨 Graphic Software
