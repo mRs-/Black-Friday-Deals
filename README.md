@@ -36,6 +36,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ### 💰 [SideNotes](https://www.apptorium.com/sidenotes) - Take notes on your screen side while working, reading, browsing, studying. Always with you. With dozens of features. 40% off (automatically applied) for both macOS app and it's companion iOS / iPadOS app 
 ### 💰 [Workspaces](https://www.apptorium.com/workspaces) - Project-based launcher that opens your files, folders, websites, apps etc. with one click. 40% off (automatically applied)
 ### 💸 [MindMac](https://mindmac.app/) - Use code BLACKFRIDAY to purchase a beautiful, native app with a ton of features (with a lot more upcoming!) at 55% discount.
+### 💸 [Beam](https://getbeam.ai/) - Floating ChatGPT for Your Mac at 70% OFF with BLACKFRIDAY23
 
 ## 🎨 Graphic Software
 ### 💰 [Sparkle 5 - Visual Website Builder](https://sparkleapp.com/store/) - Build the website you always wanted, visually, on your Mac. 40% OFF (automatically applied)
