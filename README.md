@@ -15,6 +15,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ### 💸 [Tower](https://www.git-tower.com/) - Powerful Git client · 50% off
 ### 💸 [Webhookify](https://webhookify.io?ref=bfd) - Simplify webhook integration with our desktop app. Easily generate, manage, and test custom webhook URLs for seamless third-party service connections · 50% off with coupon: **`BLACKFRIDAY2023`** until Dec 1
 ### 💰 [LocalCan™](https://www.localcan.com/) - Ngrok alternative, build and test apps with .local domains and persistent Public URLs · 25% OFF with code  **BLACKFRIDAY25**
+### 💸  [DevUtils](https://devutils.com) -All-in-one toolbox for developers. Fully supports Apple Silicon & macOS Ventura. | 50% OFF with code **BLACKFRIDAY_2023**
 
 ## :tophat: Security Software
 ### 💸 [ExploitPack](https://exploitpack.com) - Advanced exploitation framework with 0days and 39.000+ exploits - DISCOUNT: **Upgrade from 1-year license to Lifetime (Only a 10 licenses are available)**
