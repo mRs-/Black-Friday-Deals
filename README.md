@@ -84,6 +84,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ## 📈 Business Software
 ### 💸 [Appfigures](https://appfigures.com/account/upgrade?p=BF2350S) - Grow your downloads with powerful and intuitive tools for App Store Optimization and Competitor Intelligence. 50% with code BF2350S.
 ### 💰 [Astro](https://tryastro.app) App Store Optimization tool for Apple Developers Improve your app visibility and increase your revenue. Astro provides you with the most up-to-date data directly from Apple Search Ads. 40% Off with **KXMTK1MA**.
+### 💸 [WishKit](https://www.wishkit.io/) Build better products with customer feedback. Collect and analyze feedback and feature requests in one place. 50% Off with `BLACKFRIDAY23`.
 
 ## 🏃🏻‍♀️ Health & Fitness Software
 ### 💸 [DogNote - Pet journal](https://dognote.app) - App for journaling pet-related activities with your family. 40% off Annual Plan.
