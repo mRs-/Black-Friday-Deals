@@ -30,6 +30,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ### 💸 [Sensei](https://cindori.com/sensei) - Maximise your Mac performance (macOS) · 50% off
 ### 💰 [SpamSieve](https://c-command.com/store/sale) - Add powerful spam filtering to the e-mail client on your Mac · 25% off
 ### 💸 [HabitLoop](https://apps.apple.com/us/app/habit-tracker-habitloop/id6471393755?ref=black_friday_deals_by_marius) - Intuitive Habit tracker with interactive widgets. 50% OFF on HabitLoop Pro (Lifetime) · Valid till 28th Nov
+### 💸 [LinkYourFile](https://www.linkyourfile.com/) - Link local files or folders in any web application. 50% off (automatically applied)
 
 ## 📌 Productivity Software
 ### 💸 [AnySelect](http://anyselectai.com/) The best and quickest way to use ChatGPT from anywhere on your Mac. Get 70% off with this code **MRSBF2023**
