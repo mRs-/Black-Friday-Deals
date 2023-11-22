@@ -19,6 +19,9 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ### 💰 [DropDMG](https://c-command.com/store/sale) - Create professional disk images (.dmg files) for your Mac app · 25% off
 ### 💸 [OK JSON](https://okjson.app) - A scriptable JSON formatter for macOS. | 50% OFF, both on the Mac App Store and the website with code BF2023 from Nov 23 – Nov 29
 ### 💸 [Gitonium Git Client](https://gitonium.com) - Let AI generate your commit messages | 50% OFF on the Mac App Store
+### 💰 [Xloc](https://furnacecreek.org/xloc) - Count lines of code on Mac. 20% OFF for Black Friday & Cyber Monday, only in the App Store
+### 💰 [Xformat](https://furnacecreek.org/xformat) - Clang Format app and extension for Mac. 20% OFF for Black Friday & Cyber Monday, only in the App Store
+### 💰 [WebMap](https://furnacecreek.org/webmap) - Sitemap generator for Mac. 20% OFF for Black Friday & Cyber Monday, only in the App Store
 
 ## :tophat: Security Software
 ### 💸 [ExploitPack](https://exploitpack.com) - Advanced exploitation framework with 0days and 39.000+ exploits - DISCOUNT: **Upgrade from 1-year license to Lifetime (Only a 10 licenses are available)**
@@ -35,6 +38,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ### 💰 [Spaces](https://spacesformac.xyz) - Declutter & organize your workspace on macOS in one single click 🎊 · 35% off Lifetime deal
 ### 💸 [LinkYourFile](https://www.linkyourfile.com/) - Link local files or folders in any web application. 50% off (automatically applied)
 ### 💸 [iStat Menus 6](https://bjango.com/mac/istatmenus/) iStat Menus is an advanced Mac system monitor for your menubar. 75% OFF for Black Friday & Cyber Monday.
+### 💸 [RetinaCapture](https://furnacecreek.org/retinacapture) - Simultaneously take 1x and 2x screenshots on Retina Macs. FREE for Black Friday & Cyber Monday, only in the App Store
 
 ## 📌 Productivity Software
 ### 💸 [AnySelect](http://anyselectai.com/) The best and quickest way to use ChatGPT from anywhere on your Mac. Get 70% off with this code **MRSBF2023**
@@ -75,13 +79,16 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ### 💰 [Affinity Publisher 2](https://apps.apple.com/us/app/affinity-publisher-2/id1606941598?mt=12) - Affinity Publisher is a desktop publishing application developed by Serif for macOS and Microsoft Windows. 40% OFF (automatically applied - lifetime)
 ### 💸 [Pixelmator Pro](https://apps.apple.com/us/app/pixelmator-pro/id1289583905?mt=12) - Pixelmator Pro is an incredibly powerful, beautiful, and easy-to-use image editor designed exclusively for Mac. 50% OFF (automatically applied)
 ### 💸 [Qlone 3D Scanner](https://apps.apple.com/app/qlone-3d-scanner/id1229460906) - The most User-Friendly 3D Scanning app with over 2M downloads! Enjoy 50% OFF on Premium Upgrade
+### 💰 [Pixen](https://pixenapp.com) - Pixel art and animation editor for Mac and iOS. 20% OFF for Black Friday & Cyber Monday
 
 ## 🏝️ Lifestyle
 
 ## 🗣️ Social
+### 💰 [GroupMe](https://furnacecreek.org/unite) - Native GroupMe client for Mac. 20% OFF for Black Friday & Cyber Monday, only in the App Store
 
 ## 🎓 Reference & Education
 ### 💸 [PDF Pals](https://pdfpals.com?ref=bfdeals) - Native ChatPDF app for Mac. Enjoy 53% off with this discount code AWESOMEBF2023
+### 💰 [Archimedes](https://archimedesapp.com) - LaTeX and Markdown editor for Mac and iOS. 20% OFF for Black Friday & Cyber Monday, only in the App Store
 
 ## 📰 News
 
@@ -97,6 +104,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ### 💸 [Appfigures](https://appfigures.com/account/upgrade?p=BF2350S) - Grow your downloads with powerful and intuitive tools for App Store Optimization and Competitor Intelligence. 50% with code BF2350S.
 ### 💰 [Astro](https://tryastro.app) App Store Optimization tool for Apple Developers Improve your app visibility and increase your revenue. Astro provides you with the most up-to-date data directly from Apple Search Ads. 40% Off with **KXMTK1MA**.
 ### 💸 [WishKit](https://www.wishkit.io/) Build better products with customer feedback. Collect and analyze feedback and feature requests in one place. 50% Off with `BLACKFRIDAY23`.
+### 💰 [Simplefax](https://furnacecreek.org/simplefax) - Fax without subscriptions on Mac. 20% OFF for Black Friday & Cyber Monday
 
 ## 🏃🏻‍♀️ Health & Fitness Software
 ### 💸 [DogNote - Pet journal](https://dognote.app) - App for journaling pet-related activities with your family. 40% off Annual Plan.
