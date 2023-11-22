@@ -66,6 +66,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ### 💰 [Ochi](https://ochithe.app) - Block distracting apps & websites on all devices. 50% OFF Yearly/Monthly.
 ### 💸 [Audio writer iOS 🎙️](https://audiowriter.app/) - No more "ums" or "ahs" in your transcripts. Get a clean, error-free transcript with improved grammar & punctuation. | 50% OFF
 ### 💸 [Writers brew macOS 📝](https://writersbrew.app/) - An AI assistant app perfect for everyday writing that turns your rough notes into finished drafts WRITE. IMPROVE. REPLY. SUMMARIZE. TRANSLATE. | 40% OFF
+### 💰 [Elephas](https://elephas.app/?ref=black_friday_deals_by_marius) - Personal AI assistant for the Mac, iPhone and iPad - Your AI Powered Second Brain. 20% off on the lifetime deal for all plans - Standard, Pro and Pro Plus. Code: **`BFCM23`** (Valid till 27th Nov, 2023)
 
 ## 🎨 Graphic Software
 ### 💰 [Sparkle 5 - Visual Website Builder](https://sparkleapp.com/store/) - Build the website you always wanted, visually, on your Mac. 40% OFF (automatically applied)
