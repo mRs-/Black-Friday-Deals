@@ -30,6 +30,8 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ### 💸 [Sensei](https://cindori.com/sensei) - Maximise your Mac performance (macOS) · 50% off
 ### 💰 [SpamSieve](https://c-command.com/store/sale) - Add powerful spam filtering to the e-mail client on your Mac · 25% off
 ### 💸 [HabitLoop](https://apps.apple.com/us/app/habit-tracker-habitloop/id6471393755?ref=black_friday_deals_by_marius) - Intuitive Habit tracker with interactive widgets. 50% OFF on HabitLoop Pro (Lifetime) · Valid till 28th Nov
+### 💰 [Zen Mode](https://zenmode.app) - Avoid those awkward moments in public places or in presentation meetings in 1-click · 40% off Lifetime deal
+### 💰 [Spaces](https://spacesformac.xyz) - Declutter & organize your workspace on macOS in one single click 🎊 · 35% off Lifetime deal
 ### 💸 [LinkYourFile](https://www.linkyourfile.com/) - Link local files or folders in any web application. 50% off (automatically applied)
 
 ## 📌 Productivity Software
@@ -56,6 +58,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ### 💰 [Stage View](https://noteifyapp.com/stage-view/) - Stage View is a utility that adds a preview of the windows in the group in Stage Manager. | 40% OFF with code **MACPLUSBLACKFRIDAY2023** or [using the link](http://sites.fastspring.com/noteifyapp/product/stageview?option=show_contents&coupon=MACPLUSBLACKFRIDAY2023)
 ### 💰 [EagleFiler](https://c-command.com/store/sale) - Organize files, archive e-mails, save Web pages and notes, search everything (Mac) · 25% off
 ### 💸 [CleanClip](https://cleanclip.cc/?ref=blackfridaydeals) - The cleanest Clipboard Manager on macOS, ever! Say goodbye to clipboard content overwrite. Master your clipboard with precision using the paste stack function.	| 50% OFF with code **BF2023**
+### 💰 [GasbyAI](https://gasbyai.com/) - Fancy AI Personal Assistant + Apps, with Prompt and AI Character library support OpenAI, Azure, Claude, Openrouter and custom AI Provider | 30% OFF using code **BF30**
 
 ## 🎨 Graphic Software
 ### 💰 [Sparkle 5 - Visual Website Builder](https://sparkleapp.com/store/) - Build the website you always wanted, visually, on your Mac. 40% OFF (automatically applied)
@@ -85,6 +88,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ## 📈 Business Software
 ### 💸 [Appfigures](https://appfigures.com/account/upgrade?p=BF2350S) - Grow your downloads with powerful and intuitive tools for App Store Optimization and Competitor Intelligence. 50% with code BF2350S.
 ### 💰 [Astro](https://tryastro.app) App Store Optimization tool for Apple Developers Improve your app visibility and increase your revenue. Astro provides you with the most up-to-date data directly from Apple Search Ads. 40% Off with **KXMTK1MA**.
+### 💸 [WishKit](https://www.wishkit.io/) Build better products with customer feedback. Collect and analyze feedback and feature requests in one place. 50% Off with `BLACKFRIDAY23`.
 
 ## 🏃🏻‍♀️ Health & Fitness Software
 ### 💸 [DogNote - Pet journal](https://dognote.app) - App for journaling pet-related activities with your family. 40% off Annual Plan.
