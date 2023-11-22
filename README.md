@@ -93,6 +93,8 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 
 ## 🤑 Finance
 ### 💰 [SubManager](https://getsubmanager.app) - Track your subscriptions all in one place with SubManager. Get 30% off SubManager+ and 20% off SubManager+ Family during Black Friday Week from 20th November! Includes features like App Lock, export/import and more! Available for iPhone, iPad, Apple Watch and Mac.
+### 💸 [PiggyMoney](https://apps.apple.com/app/id6443419421) - The easiest way to get started with your household budget. Available for iPhone, iPad, and Mac. 60% off Lifetime, Annual Plan.
+
 
 ## 🔎 SEO
 ### 💸 [SEO Utils](http://seoutils.app/) - A powerful, user-friendly SEO desktop application available for macOS, Windows, and Linux. It's packed with essential features like Backlink Analytics, Traffic Analytics, Keyword Clustering, SERP Similarity, Sitemap Extractor, and more. | 50% OFF with code **BLACKFRIDAY23**
