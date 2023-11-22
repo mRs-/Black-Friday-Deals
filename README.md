@@ -11,12 +11,14 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 
 ## 🛠 Development Software
 ### 💰 [Proxyman](https://proxyman.io) - Debug HTTP/HTTPS Network Faster & Smarter with Proxyman. Proxyman is a modern native macOS app that helps developers to Capture & Inspect HTTP/HTTPS traffic with ease. Support macOS, iOS (Device & Simulators), Windows, and Linux. 30% OFF with code **PROXYMAN_BLACKFRIDAY_2023**
-### 💰 [TablePlus](https://http://tableplus.com) - Modern, native client with intuitive GUI tools to create, access, query & edit multiple relational databases: MySQL, PostgreSQL, SQLite, Microsoft SQL. 25% OFF with code **TABLEPLUS_BLACK_FRIDAY_2023**
+### 💰 [TablePlus](https://tableplus.com) - Modern, native client with intuitive GUI tools to create, access, query & edit multiple relational databases: MySQL, PostgreSQL, SQLite, Microsoft SQL. 25% OFF with code **TABLEPLUS_BLACK_FRIDAY_2023**
 ### 💸 [Tower](https://www.git-tower.com/) - Powerful Git client · 50% off
 ### 💸 [Webhookify](https://webhookify.io?ref=bfd) - Simplify webhook integration with our desktop app. Easily generate, manage, and test custom webhook URLs for seamless third-party service connections · 50% off with coupon: **`BLACKFRIDAY2023`** until Dec 1
 ### 💰 [LocalCan™](https://www.localcan.com/) - Ngrok alternative, build and test apps with .local domains and persistent Public URLs · 25% OFF with code  **BLACKFRIDAY25**
 ### 💸  [DevUtils](https://devutils.com) -All-in-one toolbox for developers. Fully supports Apple Silicon & macOS Ventura. | 50% OFF with code **BLACKFRIDAY_2023**
 ### 💰 [DropDMG](https://c-command.com/store/sale) - Create professional disk images (.dmg files) for your Mac app · 25% off
+### 💸 [OK JSON](https://okjson.app) - A scriptable JSON formatter for macOS. | 50% OFF, both on the Mac App Store and the website with code BF2023 from Nov 23 – Nov 29
+### 💸 [Gitonium Git Client](https://gitonium.com) - Let AI generate your commit messages | 50% OFF on the Mac App Store
 
 ## :tophat: Security Software
 ### 💸 [ExploitPack](https://exploitpack.com) - Advanced exploitation framework with 0days and 39.000+ exploits - DISCOUNT: **Upgrade from 1-year license to Lifetime (Only a 10 licenses are available)**
@@ -28,7 +30,11 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ### 💰 [Tasks](https://apps.apple.com/de/app/tasks-todo-lists-kanban/id1502903102) Todo Lists & Kanban. 50% Off
 ### 💸 [Sensei](https://cindori.com/sensei) - Maximise your Mac performance (macOS) · 50% off
 ### 💰 [SpamSieve](https://c-command.com/store/sale) - Add powerful spam filtering to the e-mail client on your Mac · 25% off
-### 💸 [HabitLoop](https://apps.apple.com/us/app/habit-tracker-habitloop/id6471393755?ref=black_friday_deals_by_marius) - Intuitive Habit tracker with interactive widgets. 50% OFF on HabitLoop Pro (Lifetime) · Valid till 28th Nov
+### 💸 [HabitLoop](https://apps.apple.com/us/app/habit-tracker-habitloop/id6471393755?ref=black_friday_deals_by_marius) - Intuitive Habit tracker with interactive 
+### 💰 [Zen Mode](https://zenmode.app) - Avoid those awkward moments in public places or in presentation meetings in 1-click · 40% off Lifetime deal
+### 💰 [Spaces](https://spacesformac.xyz) - Declutter & organize your workspace on macOS in one single click 🎊 · 35% off Lifetime deal
+### 💸 [LinkYourFile](https://www.linkyourfile.com/) - Link local files or folders in any web application. 50% off (automatically applied)
+### 💸 [iStat Menus 6](https://bjango.com/mac/istatmenus/) iStat Menus is an advanced Mac system monitor for your menubar. 75% OFF for Black Friday & Cyber Monday.
 
 ## 📌 Productivity Software
 ### 💸 [AnySelect](http://anyselectai.com/) The best and quickest way to use ChatGPT from anywhere on your Mac. Get 70% off with this code **MRSBF2023**
@@ -53,6 +59,13 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ### 💰 [Quick Exposé](https://noteifyapp.com/quick-expose/) - Enhancing macOS Navigation Using Mission Control. | 40% OFF with code **MACPLUSBLACKFRIDAY2023** or [using the link](https://sites.fastspring.com/noteifyapp/product/quickexpose?option=show_contents&coupon=MACPLUSBLACKFRIDAY2023)
 ### 💰 [Stage View](https://noteifyapp.com/stage-view/) - Stage View is a utility that adds a preview of the windows in the group in Stage Manager. | 40% OFF with code **MACPLUSBLACKFRIDAY2023** or [using the link](http://sites.fastspring.com/noteifyapp/product/stageview?option=show_contents&coupon=MACPLUSBLACKFRIDAY2023)
 ### 💰 [EagleFiler](https://c-command.com/store/sale) - Organize files, archive e-mails, save Web pages and notes, search everything (Mac) · 25% off
+### 💰 [GasbyAI](https://gasbyai.com/) - Fancy AI Personal Assistant + Apps, with Prompt and AI Character library support OpenAI, Azure, Claude, Openrouter and custom AI Provider | 30% OFF using code **BF30**
+### 💸 [Itemlist - Home Inventory App](https://getitemlist.app) - Track and organize your items, never forget where you put something again, and be prepared for home contents insurance.	| 50% off Lifetime PRO
+### 💸 [CleanClip](https://cleanclip.cc/?ref=blackfridaydeals) - The cleanest Clipboard Manager on macOS, ever! Say goodbye to clipboard content overwrite. Master your clipboard with precision using the paste stack function.	| 50% OFF with code **BF2023**
+### 💰 [Focused Work](https://focusedwork.app) - A powerful timer that helps you focus and be productive. 50% OFF Yearly/Monthly.
+### 💰 [Ochi](https://ochithe.app) - Block distracting apps & websites on all devices. 50% OFF Yearly/Monthly.
+### 💸 [Audio writer iOS 🎙️](https://audiowriter.app/) - No more "ums" or "ahs" in your transcripts. Get a clean, error-free transcript with improved grammar & punctuation. | 50% OFF
+### 💸 [Writers brew macOS 📝](https://writersbrew.app/) - An AI assistant app perfect for everyday writing that turns your rough notes into finished drafts WRITE. IMPROVE. REPLY. SUMMARIZE. TRANSLATE. | 40% OFF
 
 ## 🎨 Graphic Software
 ### 💰 [Sparkle 5 - Visual Website Builder](https://sparkleapp.com/store/) - Build the website you always wanted, visually, on your Mac. 40% OFF (automatically applied)
@@ -75,6 +88,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ## 📖 Books
 ### 💸 [Integrating SwiftUI into UIKit Apps](https://books.nilcoalescing.com/integrating-swiftui) - A detailed guide on gradually adopting SwiftUI in UIKit projects. 50% off no code needed.
 ### 💰 [Modern Auto Layout](https://useyourloaf.com/autolayout/) Recently updated for Xcode 15 and iOS 17. 20% off with code BLACKFRIDAY.
+### 💰 [Practical Bundle](https://donnywals.com/books) Get 25% off on all Practical Books including the Practical Bundle with code blackfriday2023
 
 ## 👩‍🎓 Courses and Videos
 ### 💸 [Code4Startup - Building and Selling AI Startups](https://code4startup.com/black_friday/) Mega discount for the Bundle of AI Premium Series. 90% discount from now until Cyber Monday.
@@ -82,9 +96,11 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ## 📈 Business Software
 ### 💸 [Appfigures](https://appfigures.com/account/upgrade?p=BF2350S) - Grow your downloads with powerful and intuitive tools for App Store Optimization and Competitor Intelligence. 50% with code BF2350S.
 ### 💰 [Astro](https://tryastro.app) App Store Optimization tool for Apple Developers Improve your app visibility and increase your revenue. Astro provides you with the most up-to-date data directly from Apple Search Ads. 40% Off with **KXMTK1MA**.
+### 💸 [WishKit](https://www.wishkit.io/) Build better products with customer feedback. Collect and analyze feedback and feature requests in one place. 50% Off with `BLACKFRIDAY23`.
 
 ## 🏃🏻‍♀️ Health & Fitness Software
 ### 💸 [DogNote - Pet journal](https://dognote.app) - App for journaling pet-related activities with your family. 40% off Annual Plan.
+### 💸 [Zenitizer - Meditation Timer](https://apps.apple.com/us/app/meditation-timer-zenitizer/id6444767911) - Elegant, clutter-free and customizable meditation timer designed for iPhone, Apple Watch and iPad • **50% Off Zenitizer+ Yearly** with code **`BLACKFRIDAY2023`**
 
 ## 🎁 Bundles
 ### 💰 [BundleHunt BlackFriday Bundle](https://bundlehunt.com/bundle/2023-blackfriday-macos-bundle): Choose from 42 apps including CloudMounter, Downie, Permute and more. Get $3 when you spend $30.
@@ -93,6 +109,8 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 
 ## 🤑 Finance
 ### 💰 [SubManager](https://getsubmanager.app) - Track your subscriptions all in one place with SubManager. Get 30% off SubManager+ and 20% off SubManager+ Family during Black Friday Week from 20th November! Includes features like App Lock, export/import and more! Available for iPhone, iPad, Apple Watch and Mac.
+### 💸 [PiggyMoney](https://apps.apple.com/app/id6443419421) - The easiest way to get started with your household budget. Available for iPhone, iPad, and Mac. 60% off Lifetime, Annual Plan.
+
 
 ## 🔎 SEO
 ### 💸 [SEO Utils](http://seoutils.app/) - A powerful, user-friendly SEO desktop application available for macOS, Windows, and Linux. It's packed with essential features like Backlink Analytics, Traffic Analytics, Keyword Clustering, SERP Similarity, Sitemap Extractor, and more. | 50% OFF with code **BLACKFRIDAY23**
