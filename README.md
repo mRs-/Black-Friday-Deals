@@ -19,6 +19,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ### 💰 [DropDMG](https://c-command.com/store/sale) - Create professional disk images (.dmg files) for your Mac app · 25% off
 ### 💸 [OK JSON](https://okjson.app) - A scriptable JSON formatter for macOS. | 50% OFF, both on the Mac App Store and the website with code BF2023 from Nov 23 – Nov 29
 ### 💸 [Gitonium Git Client](https://gitonium.com) - Let AI generate your commit messages | 50% OFF on the Mac App Store
+### 💸 [Blade Mail](https://blademail.app) - Desktop App for Email Testing locally | 50% OFF with code **BLACKFRIDAY**
 
 ## :tophat: Security Software
 ### 💸 [ExploitPack](https://exploitpack.com) - Advanced exploitation framework with 0days and 39.000+ exploits - DISCOUNT: **Upgrade from 1-year license to Lifetime (Only a 10 licenses are available)**
