@@ -54,6 +54,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ### 💰 [Quick Exposé](https://noteifyapp.com/quick-expose/) - Enhancing macOS Navigation Using Mission Control. | 40% OFF with code **MACPLUSBLACKFRIDAY2023** or [using the link](https://sites.fastspring.com/noteifyapp/product/quickexpose?option=show_contents&coupon=MACPLUSBLACKFRIDAY2023)
 ### 💰 [Stage View](https://noteifyapp.com/stage-view/) - Stage View is a utility that adds a preview of the windows in the group in Stage Manager. | 40% OFF with code **MACPLUSBLACKFRIDAY2023** or [using the link](http://sites.fastspring.com/noteifyapp/product/stageview?option=show_contents&coupon=MACPLUSBLACKFRIDAY2023)
 ### 💰 [EagleFiler](https://c-command.com/store/sale) - Organize files, archive e-mails, save Web pages and notes, search everything (Mac) · 25% off
+### 💸 [CleanClip](https://cleanclip.cc/?ref=blackfridaydeals) - The cleanest Clipboard Manager on macOS, ever! Say goodbye to clipboard content overwrite. Master your clipboard with precision using the paste stack function.	| 50% OFF with code **BF2023**
 
 ## 🎨 Graphic Software
 ### 💰 [Sparkle 5 - Visual Website Builder](https://sparkleapp.com/store/) - Build the website you always wanted, visually, on your Mac. 40% OFF (automatically applied)
