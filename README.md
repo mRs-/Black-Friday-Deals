@@ -62,6 +62,9 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ### 💸 [CleanClip](https://cleanclip.cc/?ref=blackfridaydeals) - The cleanest Clipboard Manager on macOS, ever! Say goodbye to clipboard content overwrite. Master your clipboard with precision using the paste
 ### 💰 [GasbyAI](https://gasbyai.com/) - Fancy AI Personal Assistant + Apps, with Prompt and AI Character library support OpenAI, Azure, Claude, Openrouter and custom AI Provider | 30% OFF using code **BF30**
 ### 💸 [Itemlist - Home Inventory App](https://getitemlist.app) - Track and organize your items, never forget where you put something again, and be prepared for home contents insurance.	| 50% off Lifetime PRO
+### 💸 [CleanClip](https://cleanclip.cc/?ref=blackfridaydeals) - The cleanest Clipboard Manager on macOS, ever! Say goodbye to clipboard content overwrite. Master your clipboard with precision using the paste stack function.	| 50% OFF with code **BF2023**
+### 💰 [Focused Work](https://focusedwork.app) - A powerful timer that helps you focus and be productive. 50% OFF Yearly/Monthly.
+### 💰 [Ochi](https://ochithe.app) - Block distracting apps & websites on all devices. 50% OFF Yearly/Monthly.
 
 ## 🎨 Graphic Software
 ### 💰 [Sparkle 5 - Visual Website Builder](https://sparkleapp.com/store/) - Build the website you always wanted, visually, on your Mac. 40% OFF (automatically applied)
