@@ -19,6 +19,12 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ### 💰 [DropDMG](https://c-command.com/store/sale) - Create professional disk images (.dmg files) for your Mac app · 25% off
 ### 💸 [OK JSON](https://okjson.app) - A scriptable JSON formatter for macOS. | 50% OFF, both on the Mac App Store and the website with code BF2023 from Nov 23 – Nov 29
 ### 💸 [Gitonium Git Client](https://gitonium.com) - Let AI generate your commit messages | 50% OFF on the Mac App Store
+### 💰 [Parallels](https://www.parallels.com/) - Parallels Desktop 19 - 25% Off - discount applied at checkout
+### 💸 [Jumpstart Pro](https://jumpstartrails.com/pricing) - If you're interested in building a product with Ruby on Rails, Jumpstart Pro is the perfect place to get started. | $50 off a single site license or $150 off an unlimited license.
+### 💸 [Blade Mail](https://blademail.app) - Desktop App for Email Testing locally | 50% OFF with code **BLACKFRIDAY**
+### 💰 [Xloc](https://furnacecreek.org/xloc) - Count lines of code on Mac. 20% OFF for Black Friday & Cyber Monday, only in the App Store
+### 💰 [Xformat](https://furnacecreek.org/xformat) - Clang Format app and extension for Mac. 20% OFF for Black Friday & Cyber Monday, only in the App Store
+### 💰 [WebMap](https://furnacecreek.org/webmap) - Sitemap generator for Mac. 20% OFF for Black Friday & Cyber Monday, only in the App Store
 
 ## :tophat: Security Software
 ### 💸 [ExploitPack](https://exploitpack.com) - Advanced exploitation framework with 0days and 39.000+ exploits - DISCOUNT: **Upgrade from 1-year license to Lifetime (Only a 10 licenses are available)**
@@ -35,6 +41,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ### 💰 [Spaces](https://spacesformac.xyz) - Declutter & organize your workspace on macOS in one single click 🎊 · 35% off Lifetime deal
 ### 💸 [LinkYourFile](https://www.linkyourfile.com/) - Link local files or folders in any web application. 50% off (automatically applied)
 ### 💸 [iStat Menus 6](https://bjango.com/mac/istatmenus/) iStat Menus is an advanced Mac system monitor for your menubar. 75% OFF for Black Friday & Cyber Monday.
+### 💸 [RetinaCapture](https://furnacecreek.org/retinacapture) - Simultaneously take 1x and 2x screenshots on Retina Macs. FREE for Black Friday & Cyber Monday, only in the App Store
 ### 💸 [DaisyDisk](https://unclutterapp.com/bundle/?coupon=UC-BLACKFRIDAY-2023&s=git#DAISYDISK) - Analyze disk usage and free up disk space on Mac (50% OFF).
 
 ## 📌 Productivity Software
@@ -67,6 +74,8 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ### 💰 [Ochi](https://ochithe.app) - Block distracting apps & websites on all devices. 50% OFF Yearly/Monthly.
 ### 💸 [Audio writer iOS 🎙️](https://audiowriter.app/) - No more "ums" or "ahs" in your transcripts. Get a clean, error-free transcript with improved grammar & punctuation. | 50% OFF
 ### 💸 [Writers brew macOS 📝](https://writersbrew.app/) - An AI assistant app perfect for everyday writing that turns your rough notes into finished drafts WRITE. IMPROVE. REPLY. SUMMARIZE. TRANSLATE. | 40% OFF
+### 💸 [Trickster](https://www.apparentsoft.com/trickster) - Find recently used and modified files at your fingertips. 50% off.
+### 💰 [Elephas](https://elephas.app/?ref=black_friday_deals_by_marius) - Personal AI assistant for the Mac, iPhone and iPad - Your AI Powered Second Brain. 20% off on the lifetime deal for all plans - Standard, Pro and Pro Plus. Code: **`BFCM23`** (Valid till 27th Nov, 2023)
 ### 💸 [Unclutter](https://unclutterapp.com/bundle/?coupon=UC-BLACKFRIDAY-2023&s=git#UNCLUTTER) - Files, Notes & Clipboard Manager for Mac (50% OFF).
 
 ## 🎨 Graphic Software
@@ -77,13 +86,19 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ### 💰 [Affinity Publisher 2](https://apps.apple.com/us/app/affinity-publisher-2/id1606941598?mt=12) - Affinity Publisher is a desktop publishing application developed by Serif for macOS and Microsoft Windows. 40% OFF (automatically applied - lifetime)
 ### 💸 [Pixelmator Pro](https://apps.apple.com/us/app/pixelmator-pro/id1289583905?mt=12) - Pixelmator Pro is an incredibly powerful, beautiful, and easy-to-use image editor designed exclusively for Mac. 50% OFF (automatically applied)
 ### 💸 [Qlone 3D Scanner](https://apps.apple.com/app/qlone-3d-scanner/id1229460906) - The most User-Friendly 3D Scanning app with over 2M downloads! Enjoy 50% OFF on Premium Upgrade
+### 💸 [ImageFramer](https://imageframer.net) - Add photo-releastic frames and mats to your art, add designer borders or overlays to photos on your Mac | 50% off.
+### 💰 [Pixen](https://pixenapp.com) - Pixel art and animation editor for Mac and iOS. 20% OFF for Black Friday & Cyber Monday
 
 ## 🏝️ Lifestyle
+### 💸 [Eter](https://apps.apple.com/app/eter/id1523221566) - Internet radio player (iOS, Mac, TV, Watch) | 50% off, only $2.5 one-time.
+### 💸 [Calm My Dog](https://calmmydog.app/) - Treat Dog Separation anxiety with a proven training method. iOS | 50% off lifetime access.
 
 ## 🗣️ Social
+### 💰 [GroupMe](https://furnacecreek.org/unite) - Native GroupMe client for Mac. 20% OFF for Black Friday & Cyber Monday, only in the App Store
 
 ## 🎓 Reference & Education
 ### 💸 [PDF Pals](https://pdfpals.com?ref=bfdeals) - Native ChatPDF app for Mac. Enjoy 53% off with this discount code AWESOMEBF2023
+### 💰 [Archimedes](https://archimedesapp.com) - LaTeX and Markdown editor for Mac and iOS. 20% OFF for Black Friday & Cyber Monday, only in the App Store
 
 ## 📰 News
 
@@ -94,11 +109,16 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 
 ## 👩‍🎓 Courses and Videos
 ### 💸 [Code4Startup - Building and Selling AI Startups](https://code4startup.com/black_friday/) Mega discount for the Bundle of AI Premium Series. 90% discount from now until Cyber Monday.
+### 💸 [GoRails.com](https://gorails.com/pricing) Get a yearly subscription to GoRails for just $144/year. That's only $12/mo to stay up-to-date with Hotwire, Rails 7, Ruby 3, and much more!
+### 💸 [Advanced Ruby: Behind the Magic](https://courses.gorails.com/advanced-ruby-for-rails-devs?coupon=GX2GK0G) We cover 6+ hours of Ruby techniques used in Rails and other Rubygems to see how they work from scratch.
+### 💸 [Refactoring Rails](https://courses.gorails.com/refactoring-rails?coupon=GX2GK0G) Ben Orenstein's Refactoring Rails course is one I refer back to several times a year. It's a great set of strategies for cleaning up and better organizing your code.
+### 💸 [Payments with Ruby on Rails Master Class](https://courses.gorails.com/payments-with-rails-master-class?coupon=GX2GK0G) This course walks you through accepting Payments with Stripe that are compatible with Strong Customer Authentication, webhooks, and more.
 
 ## 📈 Business Software
 ### 💸 [Appfigures](https://appfigures.com/account/upgrade?p=BF2350S) - Grow your downloads with powerful and intuitive tools for App Store Optimization and Competitor Intelligence. 50% with code BF2350S.
 ### 💰 [Astro](https://tryastro.app) App Store Optimization tool for Apple Developers Improve your app visibility and increase your revenue. Astro provides you with the most up-to-date data directly from Apple Search Ads. 40% Off with **KXMTK1MA**.
 ### 💸 [WishKit](https://www.wishkit.io/) Build better products with customer feedback. Collect and analyze feedback and feature requests in one place. 50% Off with `BLACKFRIDAY23`.
+### 💰 [Simplefax](https://furnacecreek.org/simplefax) - Fax without subscriptions on Mac. 20% OFF for Black Friday & Cyber Monday
 
 ## 🏃🏻‍♀️ Health & Fitness Software
 ### 💸 [DogNote - Pet journal](https://dognote.app) - App for journaling pet-related activities with your family. 40% off Annual Plan.
@@ -113,6 +133,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ## 🤑 Finance
 ### 💰 [SubManager](https://getsubmanager.app) - Track your subscriptions all in one place with SubManager. Get 30% off SubManager+ and 20% off SubManager+ Family during Black Friday Week from 20th November! Includes features like App Lock, export/import and more! Available for iPhone, iPad, Apple Watch and Mac.
 ### 💸 [PiggyMoney](https://apps.apple.com/app/id6443419421) - The easiest way to get started with your household budget. Available for iPhone, iPad, and Mac. 60% off Lifetime, Annual Plan.
+### 💸 [Cashculator](https://cashculator.app) - The easy way to track and forecast personal finances (Mac) | 50% off first year.
 
 
 ## 🔎 SEO
