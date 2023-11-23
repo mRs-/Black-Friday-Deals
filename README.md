@@ -35,6 +35,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ### 💰 [Spaces](https://spacesformac.xyz) - Declutter & organize your workspace on macOS in one single click 🎊 · 35% off Lifetime deal
 ### 💸 [LinkYourFile](https://www.linkyourfile.com/) - Link local files or folders in any web application. 50% off (automatically applied)
 ### 💸 [iStat Menus 6](https://bjango.com/mac/istatmenus/) iStat Menus is an advanced Mac system monitor for your menubar. 75% OFF for Black Friday & Cyber Monday.
+### 💸 [Push by Techulus](https://push.techulus.com) - Real-time monitoring with Push notifications. 50% OFF for Black Friday & Cyber Monday using coupon code **`BLACKFRIDAY2023`**.
 
 ## 📌 Productivity Software
 ### 💸 [AnySelect](http://anyselectai.com/) The best and quickest way to use ChatGPT from anywhere on your Mac. Get 70% off with this code **MRSBF2023**
