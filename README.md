@@ -19,6 +19,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ### 💰 [DropDMG](https://c-command.com/store/sale) - Create professional disk images (.dmg files) for your Mac app · 25% off
 ### 💸 [OK JSON](https://okjson.app) - A scriptable JSON formatter for macOS. | 50% OFF, both on the Mac App Store and the website with code BF2023 from Nov 23 – Nov 29
 ### 💸 [Gitonium Git Client](https://gitonium.com) - Let AI generate your commit messages | 50% OFF on the Mac App Store
+### 💰 [Parallels](https://www.parallels.com/) - Parallels Desktop 19 - 25% Off - discount applied at checkout
 ### 💸 [Jumpstart Pro](https://jumpstartrails.com/pricing) - If you're interested in building a product with Ruby on Rails, Jumpstart Pro is the perfect place to get started. | $50 off a single site license or $150 off an unlimited license.
 
 ## :tophat: Security Software
@@ -67,6 +68,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ### 💰 [Ochi](https://ochithe.app) - Block distracting apps & websites on all devices. 50% OFF Yearly/Monthly.
 ### 💸 [Audio writer iOS 🎙️](https://audiowriter.app/) - No more "ums" or "ahs" in your transcripts. Get a clean, error-free transcript with improved grammar & punctuation. | 50% OFF
 ### 💸 [Writers brew macOS 📝](https://writersbrew.app/) - An AI assistant app perfect for everyday writing that turns your rough notes into finished drafts WRITE. IMPROVE. REPLY. SUMMARIZE. TRANSLATE. | 40% OFF
+### 💸 [Trickster](https://www.apparentsoft.com/trickster) - Find recently used and modified files at your fingertips. 50% off.
 
 ## 🎨 Graphic Software
 ### 💰 [Sparkle 5 - Visual Website Builder](https://sparkleapp.com/store/) - Build the website you always wanted, visually, on your Mac. 40% OFF (automatically applied)
@@ -76,8 +78,11 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ### 💰 [Affinity Publisher 2](https://apps.apple.com/us/app/affinity-publisher-2/id1606941598?mt=12) - Affinity Publisher is a desktop publishing application developed by Serif for macOS and Microsoft Windows. 40% OFF (automatically applied - lifetime)
 ### 💸 [Pixelmator Pro](https://apps.apple.com/us/app/pixelmator-pro/id1289583905?mt=12) - Pixelmator Pro is an incredibly powerful, beautiful, and easy-to-use image editor designed exclusively for Mac. 50% OFF (automatically applied)
 ### 💸 [Qlone 3D Scanner](https://apps.apple.com/app/qlone-3d-scanner/id1229460906) - The most User-Friendly 3D Scanning app with over 2M downloads! Enjoy 50% OFF on Premium Upgrade
+### 💸 [ImageFramer](https://imageframer.net) - Add photo-releastic frames and mats to your art, add designer borders or overlays to photos on your Mac | 50% off.
 
 ## 🏝️ Lifestyle
+### 💸 [Eter](https://apps.apple.com/app/eter/id1523221566) - Internet radio player (iOS, Mac, TV, Watch) | 50% off, only $2.5 one-time.
+### 💸 [Calm My Dog](https://calmmydog.app/) - Treat Dog Separation anxiety with a proven training method. iOS | 50% off lifetime access.
 
 ## 🗣️ Social
 
@@ -115,6 +120,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ## 🤑 Finance
 ### 💰 [SubManager](https://getsubmanager.app) - Track your subscriptions all in one place with SubManager. Get 30% off SubManager+ and 20% off SubManager+ Family during Black Friday Week from 20th November! Includes features like App Lock, export/import and more! Available for iPhone, iPad, Apple Watch and Mac.
 ### 💸 [PiggyMoney](https://apps.apple.com/app/id6443419421) - The easiest way to get started with your household budget. Available for iPhone, iPad, and Mac. 60% off Lifetime, Annual Plan.
+### 💸 [Cashculator](https://cashculator.app) - The easy way to track and forecast personal finances (Mac) | 50% off first year.
 
 
 ## 🔎 SEO
