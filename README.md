@@ -21,6 +21,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ### 💸 [Gitonium Git Client](https://gitonium.com) - Let AI generate your commit messages | 50% OFF on the Mac App Store
 ### 💰 [Parallels](https://www.parallels.com/) - Parallels Desktop 19 - 25% Off - discount applied at checkout
 ### 💸 [Jumpstart Pro](https://jumpstartrails.com/pricing) - If you're interested in building a product with Ruby on Rails, Jumpstart Pro is the perfect place to get started. | $50 off a single site license or $150 off an unlimited license.
+### 💸 [Blade Mail](https://blademail.app) - Desktop App for Email Testing locally | 50% OFF with code **BLACKFRIDAY**
 
 ## :tophat: Security Software
 ### 💸 [ExploitPack](https://exploitpack.com) - Advanced exploitation framework with 0days and 39.000+ exploits - DISCOUNT: **Upgrade from 1-year license to Lifetime (Only a 10 licenses are available)**
