@@ -35,6 +35,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ### 💰 [Spaces](https://spacesformac.xyz) - Declutter & organize your workspace on macOS in one single click 🎊 · 35% off Lifetime deal
 ### 💸 [LinkYourFile](https://www.linkyourfile.com/) - Link local files or folders in any web application. 50% off (automatically applied)
 ### 💸 [iStat Menus 6](https://bjango.com/mac/istatmenus/) iStat Menus is an advanced Mac system monitor for your menubar. 75% OFF for Black Friday & Cyber Monday.
+### 💸 [DaisyDisk](https://unclutterapp.com/bundle/?coupon=UC-BLACKFRIDAY-2023&s=git#DAISYDISK) - Analyze disk usage and free up disk space on Mac (50% OFF).
 
 ## 📌 Productivity Software
 ### 💸 [AnySelect](http://anyselectai.com/) The best and quickest way to use ChatGPT from anywhere on your Mac. Get 70% off with this code **MRSBF2023**
@@ -66,6 +67,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ### 💰 [Ochi](https://ochithe.app) - Block distracting apps & websites on all devices. 50% OFF Yearly/Monthly.
 ### 💸 [Audio writer iOS 🎙️](https://audiowriter.app/) - No more "ums" or "ahs" in your transcripts. Get a clean, error-free transcript with improved grammar & punctuation. | 50% OFF
 ### 💸 [Writers brew macOS 📝](https://writersbrew.app/) - An AI assistant app perfect for everyday writing that turns your rough notes into finished drafts WRITE. IMPROVE. REPLY. SUMMARIZE. TRANSLATE. | 40% OFF
+### 💸 [Unclutter](https://unclutterapp.com/bundle/?coupon=UC-BLACKFRIDAY-2023&s=git#UNCLUTTER) - Files, Notes & Clipboard Manager for Mac (50% OFF).
 
 ## 🎨 Graphic Software
 ### 💰 [Sparkle 5 - Visual Website Builder](https://sparkleapp.com/store/) - Build the website you always wanted, visually, on your Mac. 40% OFF (automatically applied)
@@ -104,6 +106,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 
 ## 🎁 Bundles
 ### 💰 [BundleHunt BlackFriday Bundle](https://bundlehunt.com/bundle/2023-blackfriday-macos-bundle): Choose from 42 apps including CloudMounter, Downie, Permute and more. Get $3 when you spend $30.
+### 💸 [The Apps](https://unclutterapp.com/bundle/?coupon=UC-BLACKFRIDAY-2023&s=git) - 10 applications for your and your Mac (75% OFF).
 
 ## 🎶 Creative content
 
