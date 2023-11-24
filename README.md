@@ -122,10 +122,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 
 ## 👩‍🎓 Courses and Videos
 ### 💸 [Code4Startup - Building and Selling AI Startups](https://code4startup.com/black_friday/) Mega discount for the Bundle of AI Premium Series. 90% discount from now until Cyber Monday.
-### 💸 [GoRails.com](https://gorails.com/pricing) Get a yearly subscription to GoRails for just $144/year. That's only $12/mo to stay up-to-date with Hotwire, Rails 7, Ruby 3, and much more!
-### 💸 [Advanced Ruby: Behind the Magic](https://courses.gorails.com/advanced-ruby-for-rails-devs?coupon=GX2GK0G) We cover 6+ hours of Ruby techniques used in Rails and other Rubygems to see how they work from scratch.
-### 💸 [Refactoring Rails](https://courses.gorails.com/refactoring-rails?coupon=GX2GK0G) Ben Orenstein's Refactoring Rails course is one I refer back to several times a year. It's a great set of strategies for cleaning up and better organizing your code.
-### 💸 [Payments with Ruby on Rails Master Class](https://courses.gorails.com/payments-with-rails-master-class?coupon=GX2GK0G) This course walks you through accepting Payments with Stripe that are compatible with Strong Customer Authentication, webhooks, and more.
+### 💰 [GoRails.com](https://gorails.com/pricing) Get a yearly subscription to GoRails for just $144/year. That's only $12/mo to stay up-to-date with Hotwire, Rails 7, Ruby 3, and much more!
 
 ## 📈 Business Software
 ### 💸 [Appfigures](https://appfigures.com/account/upgrade?p=BF2350S) - Grow your downloads with powerful and intuitive tools for App Store Optimization and Competitor Intelligence. 50% with code BF2350S.
