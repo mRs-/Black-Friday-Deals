@@ -46,6 +46,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ### 💸 [RetinaCapture](https://furnacecreek.org/retinacapture) - Simultaneously take 1x and 2x screenshots on Retina Macs. FREE for Black Friday & Cyber Monday, only in the App Store
 ### 💸 [DaisyDisk](https://unclutterapp.com/bundle/?coupon=UC-BLACKFRIDAY-2023&s=git#DAISYDISK) - Analyze disk usage and free up disk space on Mac (50% OFF).
 ### 💸 [Push by Techulus](https://push.techulus.com) - Real-time monitoring with Push notifications. 50% OFF for Black Friday & Cyber Monday using coupon code **`BLACKFRIDAY2023`**.
+### 💸 [Star Order](https://starorder.akring.com) - Star Order is a repository management tool for GitHub users who want to make their stars neat and ordered.  (50% OFF) for Black Friday & Cyber Monday deals, check it out in Mac App Store.
 
 ## 📌 Productivity Software
 ### 💸 [AnySelect](http://anyselectai.com/) The best and quickest way to use ChatGPT from anywhere on your Mac. Get 70% off with this code **MRSBF2023**
