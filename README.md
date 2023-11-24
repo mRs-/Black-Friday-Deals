@@ -85,6 +85,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ### 💸 [Unclutter](https://unclutterapp.com/bundle/?coupon=UC-BLACKFRIDAY-2023&s=git#UNCLUTTER) - Files, Notes & Clipboard Manager for Mac (50% OFF).
 ### 💸 [Enconvo](https://enconvo.com?ref=bf) - The most productive all-in-one AI tool (Vision Chat, ChatPDF, TTS) with an easy plug-in system for macOS users. Enjoy 60% off with this discount code AWESOMEBF2023
 ### 💸 [HazeOver](https://hazeover.com) - Highlight the front window by fading out all the background windows to turn distractions down and focus on your current task. (75% OFF).
+### 💸 [timeMaster.ai](https://www.timemaster.ai/) - Experience a smarter way to manage your time with privacy-first tracking and insightful analytics that empower you to achieve more every day (For macOS). | 40% OFF with code **BF40**
 
 ## 🎨 Graphic Software
 ### 💰 [Sparkle 5 - Visual Website Builder](https://sparkleapp.com/store/) - Build the website you always wanted, visually, on your Mac. 40% OFF (automatically applied)
