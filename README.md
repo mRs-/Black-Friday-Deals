@@ -142,6 +142,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 
 ## 🔎 SEO
 ### 💸 [SEO Utils](http://seoutils.app/) - A powerful, user-friendly SEO desktop application available for macOS, Windows, and Linux. It's packed with essential features like Backlink Analytics, Traffic Analytics, Keyword Clustering, SERP Similarity, Sitemap Extractor, and more. | 50% OFF with code **BLACKFRIDAY23**
+### 💰 [Editby](https://www.editby.ai/) | Create high-quality, unique SEO-optimized content, keeping your brand's style, monitoring your keywords and best content, and adding citations and references | 40% off (for 12 months) with code: **`EDITBLACK23`** |
 
 ## 🏡 Home Automation
 
