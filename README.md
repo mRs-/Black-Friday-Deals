@@ -51,6 +51,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ### 💸 [Star Order](https://starorder.akring.com) - Star Order is a repository management tool for GitHub users who want to make their stars neat and ordered.  (50% OFF) for Black Friday & Cyber Monday deals, check it out in Mac App Store.
 ### 💸 [ShowMeYourHotKeys](https://showmeyourhotkeys.moxadventu.com) - Show all app menu items hotkeys. 70% OFF for Black Friday & Cyber Monday using coupon code **`BLFRIDAY`**.
 ### 💸 [Splendidis](https://splendidis.moxadventu.com) - Screen Capture and Editing Application for macOS. 70% OFF for Black Friday & Cyber Monday using coupon code **`BLFRIDAY`**.
+### 💸 [Quick Info](https://apps.apple.com/in/app/quick-info-one-click-info/id6447585182?mt=12) - Spotlight like search for your personal info · Free download · 50% OFF on upgrading to PRO
 
 ## 📌 Productivity Software
 ### 💸 [AnySelect](http://anyselectai.com/) The best and quickest way to use ChatGPT from anywhere on your Mac. Get 70% off with this code **MRSBF2023**
