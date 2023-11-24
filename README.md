@@ -25,9 +25,13 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ### 💰 [Xloc](https://furnacecreek.org/xloc) - Count lines of code on Mac. 20% OFF for Black Friday & Cyber Monday, only in the App Store
 ### 💰 [Xformat](https://furnacecreek.org/xformat) - Clang Format app and extension for Mac. 20% OFF for Black Friday & Cyber Monday, only in the App Store
 ### 💰 [WebMap](https://furnacecreek.org/webmap) - Sitemap generator for Mac. 20% OFF for Black Friday & Cyber Monday, only in the App Store
+### 💰 [WhaleDeck](https://whaledeck.io?ref=bfd) - The only Docker manager you will ever need. Available for iOS, iPadOS, and macOS. Lifetime 20% OFF for Black Friday & Cyber Monday
+### 💰 [ChatNBX](https://chat.nbox.ai/) - is an AI chat application that helps users generate text, images, and code. Get 50% off on our Plus subscription plan! Users can use the promo code 'BLACKFRIDAY50' to redeem the offer.
+
 
 ## :tophat: Security Software
 ### 💸 [ExploitPack](https://exploitpack.com) - Advanced exploitation framework with 0days and 39.000+ exploits - DISCOUNT: **Upgrade from 1-year license to Lifetime (Only a 10 licenses are available)**
+### 💰 [UnderDefense CyberSecurity](https://underdefense.com/black-friday-2023/?utm_source=github.com&utm_medium=online_media&utm_campaign=black_friday_2023) - 25% off Penetration testing, 24/7 Managed Detection and Response, Managed SIEM (SIEM-as-a-Service) and Incident Response Retainer. 
 
 ## 🎛 Utility Software
 ### 💸 [Reporting for RevenueCat](https://apps.apple.com/app/apple-store/id1638185419?pt=118518712&ct=black_friday_2023_github&mt=8) - Reporting for RevenueCat allows you to track your App Store revenue using RevenueCat in a native and great user interface. For iOS, iPadOS and macOS. 50% OFF, no code needed.
@@ -44,6 +48,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ### 💸 [RetinaCapture](https://furnacecreek.org/retinacapture) - Simultaneously take 1x and 2x screenshots on Retina Macs. FREE for Black Friday & Cyber Monday, only in the App Store
 ### 💸 [DaisyDisk](https://unclutterapp.com/bundle/?coupon=UC-BLACKFRIDAY-2023&s=git#DAISYDISK) - Analyze disk usage and free up disk space on Mac (50% OFF).
 ### 💸 [Push by Techulus](https://push.techulus.com) - Real-time monitoring with Push notifications. 50% OFF for Black Friday & Cyber Monday using coupon code **`BLACKFRIDAY2023`**.
+### 💸 [Star Order](https://starorder.akring.com) - Star Order is a repository management tool for GitHub users who want to make their stars neat and ordered.  (50% OFF) for Black Friday & Cyber Monday deals, check it out in Mac App Store.
 
 ## 📌 Productivity Software
 ### 💸 [AnySelect](http://anyselectai.com/) The best and quickest way to use ChatGPT from anywhere on your Mac. Get 70% off with this code **MRSBF2023**
@@ -79,6 +84,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ### 💰 [Elephas](https://elephas.app/?ref=black_friday_deals_by_marius) - Personal AI assistant for the Mac, iPhone and iPad - Your AI Powered Second Brain. 20% off on the lifetime deal for all plans - Standard, Pro and Pro Plus. Code: **`BFCM23`** (Valid till 27th Nov, 2023)
 ### 💸 [Unclutter](https://unclutterapp.com/bundle/?coupon=UC-BLACKFRIDAY-2023&s=git#UNCLUTTER) - Files, Notes & Clipboard Manager for Mac (50% OFF).
 ### 💸 [Enconvo](https://enconvo.com?ref=bf) - The most productive all-in-one AI tool (Vision Chat, ChatPDF, TTS) with an easy plug-in system for macOS users. Enjoy 60% off with this discount code AWESOMEBF2023
+### 💸 [HazeOver](https://hazeover.com) - Highlight the front window by fading out all the background windows to turn distractions down and focus on your current task. (75% OFF).
 
 ## 🎨 Graphic Software
 ### 💰 [Sparkle 5 - Visual Website Builder](https://sparkleapp.com/store/) - Build the website you always wanted, visually, on your Mac. 40% OFF (automatically applied)
@@ -121,6 +127,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ### 💰 [Astro](https://tryastro.app) App Store Optimization tool for Apple Developers Improve your app visibility and increase your revenue. Astro provides you with the most up-to-date data directly from Apple Search Ads. 40% Off with **KXMTK1MA**.
 ### 💸 [WishKit](https://www.wishkit.io/) Build better products with customer feedback. Collect and analyze feedback and feature requests in one place. 50% Off with `BLACKFRIDAY23`.
 ### 💰 [Simplefax](https://furnacecreek.org/simplefax) - Fax without subscriptions on Mac. 20% OFF for Black Friday & Cyber Monday
+### 💰 [Umami Manager](https://apple.co/40MP50F) - Monitor & Analyze & Manage you Umami Analytics on the go. Lifetime 30% OFF for Black Friday & Cyber Monday
 
 ## 🏃🏻‍♀️ Health & Fitness Software
 ### 💸 [DogNote - Pet journal](https://dognote.app) - App for journaling pet-related activities with your family. 40% off Annual Plan.
@@ -140,6 +147,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 
 ## 🔎 SEO
 ### 💸 [SEO Utils](http://seoutils.app/) - A powerful, user-friendly SEO desktop application available for macOS, Windows, and Linux. It's packed with essential features like Backlink Analytics, Traffic Analytics, Keyword Clustering, SERP Similarity, Sitemap Extractor, and more. | 50% OFF with code **BLACKFRIDAY23**
+### 💰 [Editby](https://www.editby.ai/) | Create high-quality, unique SEO-optimized content, keeping your brand's style, monitoring your keywords and best content, and adding citations and references | 40% off (for 12 months) with code: **`EDITBLACK23`** |
 
 ## 🏡 Home Automation
 
