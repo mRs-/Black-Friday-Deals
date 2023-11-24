@@ -53,6 +53,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ### 💸 [Star Order](https://starorder.akring.com) - Star Order is a repository management tool for GitHub users who want to make their stars neat and ordered.  (50% OFF) for Black Friday & Cyber Monday deals, check it out in Mac App Store.
 ### 💸 [ShowMeYourHotKeys](https://showmeyourhotkeys.moxadventu.com) - Show all app menu items hotkeys. 70% OFF for Black Friday & Cyber Monday using coupon code **`BLFRIDAY`**.
 ### 💸 [Splendidis](https://splendidis.moxadventu.com) - Screen Capture and Editing Application for macOS. 70% OFF for Black Friday & Cyber Monday using coupon code **`BLFRIDAY`**.
+### 💸 [Quick Info](https://apps.apple.com/in/app/quick-info-one-click-info/id6447585182?mt=12) - Spotlight like search for your personal info · Free download · 50% OFF on upgrading to PRO
 
 ## 📌 Productivity Software
 ### 💸 [AnySelect](http://anyselectai.com/) The best and quickest way to use ChatGPT from anywhere on your Mac. Get 70% off with this code **MRSBF2023**
@@ -91,6 +92,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ### 💸 [HazeOver](https://hazeover.com) - Highlight the front window by fading out all the background windows to turn distractions down and focus on your current task. (75% OFF).
 ### 💸 [timeMaster.ai](https://www.timemaster.ai/) - Experience a smarter way to manage your time with privacy-first tracking and insightful analytics that empower you to achieve more every day (For macOS). | 40% OFF with code **BF40**
 ### 💸 [Chronos Planner](https://apps.apple.com/us/app/chronos-planner/id1631767524) - Daily planner and task management app for Mac with calendar integration · 50% off
+### 💸 [Quick Note](https://apps.apple.com/in/app/quick-note-in-the-menu/id1472935217?mt=12) - Beautiful sticky notes in your menubar · Free download · 50% off on upgrading to PRO
 
 
 ## 🎨 Graphic Software
