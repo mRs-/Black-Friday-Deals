@@ -137,6 +137,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ## 🎁 Bundles
 ### 💰 [BundleHunt BlackFriday Bundle](https://bundlehunt.com/bundle/2023-blackfriday-macos-bundle): Choose from 42 apps including CloudMounter, Downie, Permute and more. Get $3 when you spend $30.
 ### 💸 [The Apps](https://unclutterapp.com/bundle/?coupon=UC-BLACKFRIDAY-2023&s=git) - 10 applications for your and your Mac (75% OFF).
+### 💰 [saas.blackfriday](https://saas.blackfriday/): 40+ deals for marketing, sales, SEO, dev, and CRM software. Offers feature extended trials, extra credits, discounts and lifetime plans.
 
 ## 🎶 Creative content
 
