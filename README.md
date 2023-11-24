@@ -125,6 +125,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ## 👩‍🎓 Courses and Videos
 ### 💸 [Code4Startup - Building and Selling AI Startups](https://code4startup.com/black_friday/) Mega discount for the Bundle of AI Premium Series. 90% discount from now until Cyber Monday.
 ### 💰 [GoRails.com](https://gorails.com/pricing) Get a yearly subscription to GoRails for just $144/year. That's only $12/mo to stay up-to-date with Hotwire, Rails 7, Ruby 3, and much more!
+### 💰 [Point-Free](https://www.pointfree.co/blog/posts/123-30-off-point-free-for-black-friday) - 30% off. Upgrade your Swift programming skills with advanced, quality videos on architecture, testing, and more.
 
 ## 📈 Business Software
 ### 💸 [Appfigures](https://appfigures.com/account/upgrade?p=BF2350S) - Grow your downloads with powerful and intuitive tools for App Store Optimization and Competitor Intelligence. 50% with code BF2350S.
