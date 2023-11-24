@@ -27,13 +27,15 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ### 💰 [WebMap](https://furnacecreek.org/webmap) - Sitemap generator for Mac. 20% OFF for Black Friday & Cyber Monday, only in the App Store
 ### 💰 [WhaleDeck](https://whaledeck.io?ref=bfd) - The only Docker manager you will ever need. Available for iOS, iPadOS, and macOS. Lifetime 20% OFF for Black Friday & Cyber Monday
 ### 💰 [ChatNBX](https://chat.nbox.ai/) - is an AI chat application that helps users generate text, images, and code. Get 50% off on our Plus subscription plan! Users can use the promo code 'BLACKFRIDAY50' to redeem the offer.
-
+### 💰 [Textastic](https://apps.apple.com/us/app/textastic-code-editor/id1049254261) - Code Editor for iPad and iPhone. Get Textastic for just $8.99 instead of $12.99 (30% off!)
 
 ## :tophat: Security Software
 ### 💸 [ExploitPack](https://exploitpack.com) - Advanced exploitation framework with 0days and 39.000+ exploits - DISCOUNT: **Upgrade from 1-year license to Lifetime (Only a 10 licenses are available)**
 ### 💰 [UnderDefense CyberSecurity](https://underdefense.com/black-friday-2023/?utm_source=github.com&utm_medium=online_media&utm_campaign=black_friday_2023) - 25% off Penetration testing, 24/7 Managed Detection and Response, Managed SIEM (SIEM-as-a-Service) and Incident Response Retainer. 
 
 ## 🎛 Utility Software
+### 💸 [Where To?](https://apps.apple.com/redeem/?ctx=offercodes&id=903955898&code=BLACK) - Discover the best places around you – wherever you are. The basic version is free, use code `BLACK` to get **66% OFF** the first year of Where To? PRO (includes widgets, directions, favorites, augmented reality and more).
+### 💸 [Streets](https://apps.apple.com/app/id1071879826) - The best way to browse, share and organize Street View panoramas on iPhone, iPad, Apple Watch and Mac with Apple Silicon processor. Now **66% OFF**, no code needed.
 ### 💸 [Reporting for RevenueCat](https://apps.apple.com/app/apple-store/id1638185419?pt=118518712&ct=black_friday_2023_github&mt=8) - Reporting for RevenueCat allows you to track your App Store revenue using RevenueCat in a native and great user interface. For iOS, iPadOS and macOS. 50% OFF, no code needed.
 ### 💰 [Lingon X](https://www.peterborgapps.com/lingon/): An easy to use but powerful macOS app to run things automatically. 20% OFF (automatically applied)
 ### 💸 [PastePal](https://onmyway133.com/pastepal/) PastePal is the best universal pasteboard manager for Mac, iPhone and iPad. 50% OFF
@@ -51,6 +53,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ### 💸 [Star Order](https://starorder.akring.com) - Star Order is a repository management tool for GitHub users who want to make their stars neat and ordered.  (50% OFF) for Black Friday & Cyber Monday deals, check it out in Mac App Store.
 ### 💸 [ShowMeYourHotKeys](https://showmeyourhotkeys.moxadventu.com) - Show all app menu items hotkeys. 70% OFF for Black Friday & Cyber Monday using coupon code **`BLFRIDAY`**.
 ### 💸 [Splendidis](https://splendidis.moxadventu.com) - Screen Capture and Editing Application for macOS. 70% OFF for Black Friday & Cyber Monday using coupon code **`BLFRIDAY`**.
+### 💸 [Quick Info](https://apps.apple.com/in/app/quick-info-one-click-info/id6447585182?mt=12) - Spotlight like search for your personal info · Free download · 50% OFF on upgrading to PRO
 
 ## 📌 Productivity Software
 ### 💸 [AnySelect](http://anyselectai.com/) The best and quickest way to use ChatGPT from anywhere on your Mac. Get 70% off with this code **MRSBF2023**
@@ -90,6 +93,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ### 💸 [timeMaster.ai](https://www.timemaster.ai/) - Experience a smarter way to manage your time with privacy-first tracking and insightful analytics that empower you to achieve more every day (For macOS). | 40% OFF with code **BF40**
 ### 💸 [Chronos Planner](https://apps.apple.com/us/app/chronos-planner/id1631767524) - Daily planner and task management app for Mac with calendar integration · 50% off
 ### 💸 [BetterTouchTool]([https://apps.apple.com/us/app/chronos-planner/id1631767524](https://folivora.ai/) - BetterTouchTool is a great, feature packed app that allows you to customize various input devices on your Mac. 25% off with code **BTT_BLACK_FRIDAY_2023**
+### 💸 [Quick Note](https://apps.apple.com/in/app/quick-note-in-the-menu/id1472935217?mt=12) - Beautiful sticky notes in your menubar · Free download · 50% off on upgrading to PR
 
 ## 🎨 Graphic Software
 ### 💰 [Sparkle 5 - Visual Website Builder](https://sparkleapp.com/store/) - Build the website you always wanted, visually, on your Mac. 40% OFF (automatically applied)
@@ -101,6 +105,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ### 💸 [Qlone 3D Scanner](https://apps.apple.com/app/qlone-3d-scanner/id1229460906) - The most User-Friendly 3D Scanning app with over 2M downloads! Enjoy 50% OFF on Premium Upgrade
 ### 💸 [ImageFramer](https://imageframer.net) - Add photo-releastic frames and mats to your art, add designer borders or overlays to photos on your Mac | 50% off.
 ### 💰 [Pixen](https://pixenapp.com) - Pixel art and animation editor for Mac and iOS. 20% OFF for Black Friday & Cyber Monday
+### 💸 [Screenshot Creator Pro](https://apps.apple.com/gb/app/screenshot-creator-pro/id1296597847?mt=12) - The easiest way to create great App Store screenshots | 50% off.
 
 ## 🏝️ Lifestyle
 ### 💸 [Eter](https://apps.apple.com/app/eter/id1523221566) - Internet radio player (iOS, Mac, TV, Watch) | 50% off, only $2.5 one-time.
@@ -123,6 +128,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ## 👩‍🎓 Courses and Videos
 ### 💸 [Code4Startup - Building and Selling AI Startups](https://code4startup.com/black_friday/) Mega discount for the Bundle of AI Premium Series. 90% discount from now until Cyber Monday.
 ### 💰 [GoRails.com](https://gorails.com/pricing) Get a yearly subscription to GoRails for just $144/year. That's only $12/mo to stay up-to-date with Hotwire, Rails 7, Ruby 3, and much more!
+### 💰 [Point-Free](https://www.pointfree.co/blog/posts/123-30-off-point-free-for-black-friday) - 30% off. Upgrade your Swift programming skills with advanced, quality videos on architecture, testing, and more.
 
 ## 📈 Business Software
 ### 💸 [Appfigures](https://appfigures.com/account/upgrade?p=BF2350S) - Grow your downloads with powerful and intuitive tools for App Store Optimization and Competitor Intelligence. 50% with code BF2350S.
