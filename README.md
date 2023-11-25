@@ -1,3 +1,4 @@
+
 # 💰💸💰 Black Friday Deals 2023 💰💸💰
 
 This is a list of all Black Friday Deals for macOS / iOS Software & Books in 2023. Feel free to contribute via Pull Request, making sure to add new offers _below_ existing ones.
@@ -96,6 +97,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ### 💸 [BetterTouchTool]([https://apps.apple.com/us/app/chronos-planner/id1631767524](https://folivora.ai/) - BetterTouchTool is a great, feature packed app that allows you to customize various input devices on your Mac. 25% off with code **BTT_BLACK_FRIDAY_2023**
 ### 💸 [Quick Note](https://apps.apple.com/in/app/quick-note-in-the-menu/id1472935217?mt=12) - Beautiful sticky notes in your menubar · Free download · 50% off on upgrading to PRO
 ### 💸 [Filma](https://filma.app) - Elevate your presence with pro-looking videos easily in no time · Free download · 90 days of Premium Plan for FREE - Claim at the website
+### 💰 [Pasta](https://apple.co/46omrEk) - Lightweight clipboard manager for designers and developers. 44% off on Pasta Pro (Lifetime).
 
 ## 🎨 Graphic Software
 ### 💰 [Sparkle 5 - Visual Website Builder](https://sparkleapp.com/store/) - Build the website you always wanted, visually, on your Mac. 40% OFF (automatically applied)
@@ -142,6 +144,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ## 🏃🏻‍♀️ Health & Fitness Software
 ### 💸 [DogNote - Pet journal](https://dognote.app) - App for journaling pet-related activities with your family. 40% off Annual Plan.
 ### 💸 [Zenitizer - Meditation Timer](https://apps.apple.com/us/app/meditation-timer-zenitizer/id6444767911) - Elegant, clutter-free and customizable meditation timer designed for iPhone, Apple Watch and iPad • **50% Off Zenitizer+ Yearly** with code **`BLACKFRIDAY2023`**
+### 💸 [Everlog - Markdown Journal](https://apple.co/3pmdUCn) - Full-featured markdown journaling or macOS, iPhone and iPad. 55% off Lifetime Plan.
 
 ## 🎁 Bundles
 ### 💰 [BundleHunt BlackFriday Bundle](https://bundlehunt.com/bundle/2023-blackfriday-macos-bundle): Choose from 42 apps including CloudMounter, Downie, Permute and more. Get $3 when you spend $30.
