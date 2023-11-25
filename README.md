@@ -154,6 +154,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ### 💰 [SubManager](https://getsubmanager.app) - Track your subscriptions all in one place with SubManager. Get 30% off SubManager+ and 20% off SubManager+ Family during Black Friday Week from 20th November! Includes features like App Lock, export/import and more! Available for iPhone, iPad, Apple Watch and Mac.
 ### 💸 [PiggyMoney](https://apps.apple.com/app/id6443419421) - The easiest way to get started with your household budget. Available for iPhone, iPad, and Mac. 60% off Lifetime, Annual Plan.
 ### 💸 [Cashculator](https://cashculator.app) - The easy way to track and forecast personal finances (Mac) | 50% off first year.
+### 💸 [AnyTracker](https://anytracker.org) - The most powerful price tracker for iOS, macOS and Android. 50% off Lifetime Premium.
 
 
 ## 🔎 SEO
