@@ -54,6 +54,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ### 💸 [ShowMeYourHotKeys](https://showmeyourhotkeys.moxadventu.com) - Show all app menu items hotkeys. 70% OFF for Black Friday & Cyber Monday using coupon code **`BLFRIDAY`**.
 ### 💸 [Splendidis](https://splendidis.moxadventu.com) - Screen Capture and Editing Application for macOS. 70% OFF for Black Friday & Cyber Monday using coupon code **`BLFRIDAY`**.
 ### 💸 [Quick Info](https://apps.apple.com/in/app/quick-info-one-click-info/id6447585182?mt=12) - Spotlight like search for your personal info · Free download · 50% OFF on upgrading to PRO
+### 💰 [Shottr](https://shottr.cc) - Shottr is a tiny and fast mac screenshot tool with annotations, scrolling screenshots and cloud upload capabilities. Black Friday Sale: Basic Tier price reduced to $6
 
 ## 📌 Productivity Software
 ### 💸 [AnySelect](http://anyselectai.com/) The best and quickest way to use ChatGPT from anywhere on your Mac. Get 70% off with this code **MRSBF2023**
