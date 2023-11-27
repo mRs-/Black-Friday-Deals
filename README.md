@@ -98,6 +98,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ### 💸 [Quick Note](https://apps.apple.com/in/app/quick-note-in-the-menu/id1472935217?mt=12) - Beautiful sticky notes in your menubar · Free download · 50% off on upgrading to PRO
 ### 💸 [Filma](https://filma.app) - Elevate your presence with pro-looking videos easily in no time · Free download · 90 days of Premium Plan for FREE - Claim at the website
 ### 💰 [Pasta](https://apple.co/46omrEk) - Lightweight clipboard manager for designers and developers. 44% off on Pasta Pro (Lifetime).
+### 💰 [Mini Note](https://apps.apple.com/us/app/note/id1602765272) — A note and widget for things you want to keep in focus. iOS & iPadOS. 33% off through November 28.
 
 ## 🎨 Graphic Software
 ### 💰 [Sparkle 5 - Visual Website Builder](https://sparkleapp.com/store/) - Build the website you always wanted, visually, on your Mac. 40% OFF (automatically applied)
