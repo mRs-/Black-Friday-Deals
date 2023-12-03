@@ -167,5 +167,5 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ### 💰 [Editby](https://www.editby.ai/) | Create high-quality, unique SEO-optimized content, keeping your brand's style, monitoring your keywords and best content, and adding citations and references | 40% off (for 12 months) with code: **`EDITBLACK23`** |
 
 ## 🏡 Home Automation
-### 💸 [Universal Remote Controler  50% off] https://www.newegg.com/p/09H-01DJ-00002?item=9SIAY7SERG6318 50% off promotion code MKTC0HD4CDVX  before Christmas, Universal Remote Control for Consumer Electronics
+### 💸 [Intelligent Universal Remote Controler](https://www.newegg.com/p/09H-01DJ-00002?item=9SIAY7SERG6318) | 50% off with code **`MKTC0HD4CDVX`** Intelligent Universal Remote Control for Consumer Electronics |
 ## 🕹 Games
