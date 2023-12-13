@@ -30,6 +30,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ### 💰 [ChatNBX](https://chat.nbox.ai/) - is an AI chat application that helps users generate text, images, and code. Get 50% off on our Plus subscription plan! Users can use the promo code 'BLACKFRIDAY50' to redeem the offer.
 ### 💰 [Textastic](https://apps.apple.com/us/app/textastic-code-editor/id1049254261) - Code Editor for iPad and iPhone. Get Textastic for just $8.99 instead of $12.99 (30% off!)
 ### 💰 [Kaleidoscope](https://kaleidoscope.app) - Diff tool for macOS. 40% off with code `CYBERMONDAY23`
+### 💰 [ShipFast](https://shipfa.st/?via=sale) - The NextJS boilerplate with all you need to build your SaaS, AI tool, blog, or any other web app.
 
 ## :tophat: Security Software
 ### 💸 [ExploitPack](https://exploitpack.com) - Advanced exploitation framework with 0days and 39.000+ exploits - DISCOUNT: **Upgrade from 1-year license to Lifetime (Only a 10 licenses are available)**
