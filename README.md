@@ -1,7 +1,7 @@
 
 # 💰💸💰 Black Friday Deals 2024 💰💸💰
 
-This is a list of all Black Friday Deals for macOS / iOS Software & Books in 2023. Feel free to contribute via Pull Request, making sure to add new offers _below_ existing ones.
+This is a list of all Black Friday Deals for macOS / iOS Software & Books in 2024. Feel free to contribute via Pull Request, making sure to add new offers _below_ existing ones.
 
 **Legend**
 
@@ -11,7 +11,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 |  💸   |  >= 50% |
 
 ## 🛠 Development Software
-### 💰 [Example](https://example.com) - Product Description - Deal details
+### 💰 [Proxyman](https://proxyman.io) - Debug HTTP/HTTPS Network Faster with Proxyman. Proxyman is a modern native macOS app that helps developers to Capture & Inspect HTTP/HTTPS traffic with ease. Support macOS, iOS (Device & Simulators), Windows, and Linux. 30% OFF with code **BLACKFRIDAY2024**
 
 ## :tophat: Security Software
 ### 💰 [Example](https://example.com) - Product Description - Deal details
