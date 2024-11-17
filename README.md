@@ -23,7 +23,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ### 💸 [BoltAI](https://boltai.com?ref=bfdeals) - Access all AI models in one native Mac app: Advanced Voice Mode, Document Analysis, AI Plugins and more. Enjoy 30% off with this discount code **BFCM2024**
 
 ## 🎨 Graphic Software
-### 💰 [Example](https://example.com) - Product Description - Deal details
+### 💸 [Sip](https://www.sipapp.io) - Sip is a modern color picker that brings ease to color organization & team collaboration. - 50% OFF with code **BF_2024** and **CM_2024**, Nov 29 - Dec 3
 
 ## 🏝️ Lifestyle
 ### 💰 [Example](https://example.com) - Product Description - Deal details
