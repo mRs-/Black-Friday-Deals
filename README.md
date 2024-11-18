@@ -12,6 +12,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 
 ## 🛠 Development Software
 ### 💰 [Proxyman](https://proxyman.io) - Debug HTTP/HTTPS Network Faster with Proxyman. Proxyman is a modern native macOS app that helps developers to Capture & Inspect HTTP/HTTPS traffic with ease. Support macOS, iOS (Device & Simulators), Windows, and Linux. 30% OFF with code **BLACKFRIDAY2024**
+### 💰 [WhaleDeck](https://apple.co/3NQJi4w) - The only Docker management tool you will ever need. Available for iOS, iPadOS, and macOS. - Lifetime 20% off, Nov 29 - Dec 2
 
 ## :tophat: Security Software
 ### 💰 [Example](https://example.com) - Product Description - Deal details
@@ -43,7 +44,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ### 💰 [Example](https://example.com) - Product Description - Deal details
 
 ## 📈 Business Software
-### 💰 [Example](https://example.com) - Product Description - Deal details
+### 💰 [Umami Manager](https://apple.co/40MP50F) - Monitor & Analyze & Manage your Umami Analytics on the go. Available for iOS & iPadOS. - Lifetime 30% off, Nov 29 - Dec 2
 
 ## 🏃🏻‍♀️ Health & Fitness Software
 ### 💰 [Example](https://example.com) - Product Description - Deal details
@@ -54,7 +55,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ## 🎶 Creative content
 
 ## 🤑 Finance
-### 💰 [Example](https://example.com) - Product Description - Deal details
+### 💸 [DriveDex](https://apple.co/3C8HoJX) - Track mileage and expenses for all your vehicles. Available for iOS, iPadOS, and visionOS. - Lifetime 100% off, Nov 29 - Dec 2
 
 
 ## 🔎 SEO
