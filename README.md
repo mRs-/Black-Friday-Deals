@@ -95,6 +95,8 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ## 🤑 Finance
 ### 💸 [DriveDex](https://apple.co/3C8HoJX) - Track mileage and expenses for all your vehicles. Available for iOS, iPadOS, and visionOS. - Lifetime 100% off, Nov 29 - Dec 2
 
+## 🤑 Navigation
+### 🚘 [EV Charge Stations Map](https://apple.co/3NWejUz) - This is an app to show all EV charging stations through their location. Available for iOS, iPadOS, watchOS and visionOS. - Lifetime 66% off, Nov 20 - Dec 2
 
 ## 🔎 SEO
 ### 💰 [Example](https://example.com) - Product Description - Deal details
