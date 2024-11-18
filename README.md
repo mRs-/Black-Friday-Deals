@@ -28,6 +28,11 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ## 📌 Productivity Software
 ### 💸 [BoltAI](https://boltai.com?ref=bfdeals) - Access all AI models in one native Mac app: Advanced Voice Mode, Document Analysis, AI Plugins and more. Enjoy 30% off with this discount code **BFCM2024**
 ### 💰 [CleanClip](https://cleanclip.cc?ref=bfdeals) - The cleanest Clipboard Manager for macOS, Clean UI/Immersive menu/Unlimited Storage/Paste Queue/Smart List, 30% off on all multi-device plans with code **BF2024**
+### 💰 [Presentify](https://apps.apple.com/app/id1507246666) - The best screen annotation app for macOS, featured by Apple 3 times. 25% off for the first on the App Store. No code needed.
+### 💸 [ToDoBar](https://apps.apple.com/app/id6470928617) - Tasks for today on your menu bar. 50% off for the first on the App Store. No code needed.
+
+## Video Software
+### 💸 [FaceScreen](https://apps.apple.com/app/id6702028512) - Live camera preview on your screen. 50% off for the first time on the App Store. No code needed.
 
 <p>&nbsp;</p>
 
