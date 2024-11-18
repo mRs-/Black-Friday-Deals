@@ -68,7 +68,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 <p>&nbsp;</p>
 
 ## 👩‍🎓 Courses and Videos
-### 💰 [Example](https://example.com) - Product Description - Deal details
+### 🧪 [LabEx](https://labex.io/pricing) - Learn Linux, DevOps & Cybersecurity with Hands-on Labs - Up to 50% OFF
 
 <p>&nbsp;</p>
 
