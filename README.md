@@ -19,6 +19,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 
 ## 🎛 Utility Software
 ### 💰 [CompressX](https://compressx.app) - CompressX is a powerful offline media compression tool that can significantly reduce file sizes without compromising quality. 30% OFF with code **BF**
+### 💸 [Fileside](https://www.fileside.app/?ref=mRsbfd) - A modern multi-pane file manager with project-based workspaces. Get it for $9.99 instead of $29 during Black Friday week, Nov 25 - Dec 2.
 
 ## 📌 Productivity Software
 ### 💸 [BoltAI](https://boltai.com?ref=bfdeals) - Access all AI models in one native Mac app: Advanced Voice Mode, Document Analysis, AI Plugins and more. Enjoy 30% off with this discount code **BFCM2024**
