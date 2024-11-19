@@ -13,6 +13,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ## 🛠 Development Software
 ### 💰 [Proxyman](https://proxyman.io) - Debug HTTP/HTTPS Network Faster with Proxyman. Proxyman is a modern native macOS app that helps developers to Capture & Inspect HTTP/HTTPS traffic with ease. Support macOS, iOS (Device & Simulators), Windows, and Linux. 30% OFF with code **BLACKFRIDAY2024**
 ### 💰 [WhaleDeck](https://apple.co/3NQJi4w) - The only Docker management tool you will ever need. Available for iOS, iPadOS, and macOS. - Lifetime 20% off, Nov 29 - Dec 2
+### 💰 [DropDMG](https://c-command.com/store/sale) - Create professional disk images (.dmg files) for your Mac app · 25% off with code **BLACKFRIDAY2024**
 ### 💸 [RocketSim](https://www.rocketsim.app) - Boost your productivity and streamline your workflow with powerful Xcode Simulator tools. - 50% OFF with code **BLACKFRIDAY**, Nov 26 - Nov 30
 ### 💰 [Reveal](https://www.revealapp.com) - Review, fix, and improve your iOS app’s accessible and visual user experiences with powerful UI inspection and testing tools. Enjoy 30% off with discount code **BLACKFRIDAY2024**, valid through Dec 2.
 
@@ -25,6 +26,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ### 💰 [CompressX](https://compressx.app) - CompressX is a powerful offline media compression tool that can significantly reduce file sizes without compromising quality. 30% OFF with code **BF**
 ### 💸 [Fileside](https://www.fileside.app/?ref=mRsbfd) - A modern multi-pane file manager with project-based workspaces. Get it for $9.99 instead of $29 during Black Friday week, Nov 25 - Dec 2.
 ### 💸 [Quick Notes: Email Me](https://www.emailmeapp.net) - The fastest way to record your thoughts. Capture your ideas & taks on-the-go. Available for iOS, iPadOS, macOS, watchOS & visionOS. - 50% OFF YEARLY Plan, Nov 29 - Dec 2.
+### 💰 [SpamSieve](https://c-command.com/store/sale) - Add powerful spam filtering to the e-mail client on your Mac · 25% off with code **BLACKFRIDAY2024**
 ### 💰 [Lasso - Window Manager](https://thelasso.app) - Lasso is a powerful window manager for macOS that allows you to easily move and resize windows with your mouse or keybord. 45% OFF with code **BLACKFRIDAY24**
 
 <p>&nbsp;</p>
@@ -34,6 +36,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ### 💰 [CleanClip](https://cleanclip.cc?ref=bfdeals) - The cleanest Clipboard Manager for macOS, Clean UI/Immersive menu/Unlimited Storage/Paste Queue/Smart List, 30% off on all multi-device plans with code **BF2024**
 ### 💰 [Presentify](https://apps.apple.com/app/id1507246666) - The best screen annotation app for macOS, featured by Apple 3 times. 25% off for the first on the App Store. No code needed.
 ### 💸 [ToDoBar](https://apps.apple.com/app/id6470928617) - Tasks for today on your menu bar. 50% off for the first on the App Store. No code needed.
+### 💰 [EagleFiler](https://c-command.com/store/sale) - Organize files, archive e-mails, save Web pages and notes, search everything (Mac) · 25% off with code **BLACKFRIDAY2024**
 
 ## Video Software
 ### 💸 [FaceScreen](https://apps.apple.com/app/id6702028512) - Live camera preview on your screen. 50% off for the first time on the App Store. No code needed.
