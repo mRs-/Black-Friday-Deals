@@ -23,7 +23,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ### 💰 [Example](https://example.com) - Product Description - Deal details
 
 ## 🎛 Utility Software
-### 💰 [CompressX](https://compressx.app) - CompressX is a powerful offline media compression tool that can significantly reduce file sizes without compromising quality. 30% OFF with code **BF**
+### 💰 [CompressX](https://compressx.app) - CompressX is a powerful offline media compression tool that can significantly reduce file sizes without compromising quality. 30% OFF with code **BF24**
 ### 💸 [Fileside](https://www.fileside.app/?ref=mRsbfd) - A modern multi-pane file manager with project-based workspaces. Get it for $9.99 instead of $29 during Black Friday week, Nov 25 - Dec 2.
 ### 💸 [Quick Notes: Email Me](https://www.emailmeapp.net) - The fastest way to record your thoughts. Capture your ideas & taks on-the-go. Available for iOS, iPadOS, macOS, watchOS & visionOS. - 50% OFF YEARLY Plan, Nov 29 - Dec 2.
 ### 💰 [SpamSieve](https://c-command.com/store/sale) - Add powerful spam filtering to the e-mail client on your Mac · 25% off with code **BLACKFRIDAY2024**
