@@ -87,7 +87,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 <p>&nbsp;</p>
 
 ## 🏃🏻‍♀️ Health & Fitness Software
-### 💰 [Example](https://example.com) - Product Description - Deal details
+### 💸 [Atomic](https://indiegoodies.com/atomic) - The simple app to build good habits, break bad habits, and achieve greatness! Available on iOS/iPadOS/MacOS/WatchOS - Lifetime 55% off 
 
 <p>&nbsp;</p>
 
