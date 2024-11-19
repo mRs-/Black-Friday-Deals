@@ -53,6 +53,10 @@ Boost your productivity and streamline your workflow with powerful Xcode Simulat
 
 Review, fix, and improve your iOS app’s accessible and visual user experiences with powerful UI inspection and testing tools.
 
+### 💰 [Kaleidoscope](https://cloud.kaleidoscope.app/store?utm_source=mRs-/Black-Friday-Deals&utm_medium=web&utm_campaign=bf24) - 40% OFF with discount code **BLACKFRIDAY2024**, valid through Dec 2
+
+The world's most powerful file comparison and merge app, with deep git integration.
+
 <p>&nbsp;</p>
 
 ## :tophat: Security Software
