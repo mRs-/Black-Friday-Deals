@@ -14,6 +14,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ### 💰 [Proxyman](https://proxyman.io) - Debug HTTP/HTTPS Network Faster with Proxyman. Proxyman is a modern native macOS app that helps developers to Capture & Inspect HTTP/HTTPS traffic with ease. Support macOS, iOS (Device & Simulators), Windows, and Linux. 30% OFF with code **BLACKFRIDAY2024**
 ### 💰 [WhaleDeck](https://apple.co/3NQJi4w) - The only Docker management tool you will ever need. Available for iOS, iPadOS, and macOS. - Lifetime 20% off, Nov 29 - Dec 2
 ### 💸 [RocketSim](https://www.rocketsim.app) - Boost your productivity and streamline your workflow with powerful Xcode Simulator tools. - 50% OFF with code **BLACKFRIDAY**, Nov 26 - Nov 30
+### 💰 [Reveal](https://www.revealapp.com) - Review, fix, and improve your iOS app’s accessible and visual user experiences with powerful UI inspection and testing tools. Enjoy 30% off with discount code **BLACKFRIDAY2024**, valid through Dec 2.
 
 <p>&nbsp;</p>
 
