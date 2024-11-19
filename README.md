@@ -14,6 +14,8 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ### 💰 [Proxyman](https://proxyman.io) - Debug HTTP/HTTPS Network Faster with Proxyman. Proxyman is a modern native macOS app that helps developers to Capture & Inspect HTTP/HTTPS traffic with ease. Support macOS, iOS (Device & Simulators), Windows, and Linux. 30% OFF with code **BLACKFRIDAY2024**
 ### 💰 [WhaleDeck](https://apple.co/3NQJi4w) - The only Docker management tool you will ever need. Available for iOS, iPadOS, and macOS. - Lifetime 20% off, Nov 29 - Dec 2
 ### 💰 [DropDMG](https://c-command.com/store/sale) - Create professional disk images (.dmg files) for your Mac app · 25% off with code **BLACKFRIDAY2024**
+### 💸 [RocketSim](https://www.rocketsim.app) - Boost your productivity and streamline your workflow with powerful Xcode Simulator tools. - 50% OFF with code **BLACKFRIDAY**, Nov 26 - Nov 30
+### 💰 [Reveal](https://www.revealapp.com) - Review, fix, and improve your iOS app’s accessible and visual user experiences with powerful UI inspection and testing tools. Enjoy 30% off with discount code **BLACKFRIDAY2024**, valid through Dec 2.
 
 <p>&nbsp;</p>
 
@@ -25,6 +27,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ### 💸 [Fileside](https://www.fileside.app/?ref=mRsbfd) - A modern multi-pane file manager with project-based workspaces. Get it for $9.99 instead of $29 during Black Friday week, Nov 25 - Dec 2.
 ### 💸 [Quick Notes: Email Me](https://www.emailmeapp.net) - The fastest way to record your thoughts. Capture your ideas & taks on-the-go. Available for iOS, iPadOS, macOS, watchOS & visionOS. - 50% OFF YEARLY Plan, Nov 29 - Dec 2.
 ### 💰 [SpamSieve](https://c-command.com/store/sale) - Add powerful spam filtering to the e-mail client on your Mac · 25% off with code **BLACKFRIDAY2024**
+### 💰 [Lasso - Window Manager](https://thelasso.app) - Lasso is a powerful window manager for macOS that allows you to easily move and resize windows with your mouse or keybord. 45% OFF with code **BLACKFRIDAY24**
 
 <p>&nbsp;</p>
 
@@ -73,6 +76,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 
 ## 👩‍🎓 Courses and Videos
 ### 🧪 [LabEx](https://labex.io/pricing) - Learn Linux, DevOps & Cybersecurity with Hands-on Labs - Up to 50% OFF
+### 💸 [From Side Project to Going Indie Course](https://courses.avanderlee.com/p/from-side-project-to-going-indie?coupon_code=BLACKFRIDAY50&product_id=5860309) - Turn your passion into independence - 50% off using code **BLACKFRIDAY50** - Nov 15 - Nov 30
 
 <p>&nbsp;</p>
 
@@ -98,6 +102,8 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ## 🤑 Finance
 ### 💸 [DriveDex](https://apple.co/3C8HoJX) - Track mileage and expenses for all your vehicles. Available for iOS, iPadOS, and visionOS. - Lifetime 100% off, Nov 29 - Dec 2
 
+## 🗺️ Navigation
+### 🚘 [EV Charge Stations Map](https://apple.co/3NWejUz) - This is an app to show all EV charging stations through their location. Available for iOS, iPadOS, watchOS and visionOS. - Lifetime 66% off, Nov 20 - Dec 2
 
 ## 🔎 SEO
 ### 💰 [Example](https://example.com) - Product Description - Deal details
