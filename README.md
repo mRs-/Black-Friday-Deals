@@ -188,6 +188,10 @@ Monitor, Analyze & Manage your Umami Analytics on the go. Available for iOS & iP
 
 Track mileage and expenses for all your vehicles. Available for iOS, iPadOS, and visionOS.
 
+### 💸 [SubManager](https://apps.apple.com/app/submanager-subscription-list/id1632853914) - Lifetime 80% OFF, Nov 29 - Dec 2
+
+Track your subscriptions in one place across all your Apple devices and get notified before a subscription is renewed. SubManager also provides powerful insights and widgets to keep you updated on your monthly spending. With no ads and a privacy-friendly approach, it’s an excellent tool to have in today’s subscription-heavy world.
+
 ## 🗺️ Navigation
 ### 🚘 [EV Charge Stations Map](https://apple.co/3NWejUz) - Lifetime 66% OFF, Nov 20 - Dec 2
 
