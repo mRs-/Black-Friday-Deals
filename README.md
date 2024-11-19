@@ -9,6 +9,29 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 |  💰   |   < 50% |
 |  💸   |  >= 50% |
 
+## Table of Contents
+
+- [🛠 Development Software](#-development-software)
+- [🎩 Security Software](#tophat-security-software)
+- [🎛 Utility Software](#-utility-software)
+- [📌 Productivity Software](#-productivity-software)
+- [🎥 Video Software](#video-software)
+- [🎨 Graphic Software](#-graphic-software)
+- [🏝️ Lifestyle](#-lifestyle)
+- [🗣️ Social](#-social)
+- [🎓 Reference & Education](#-reference--education)
+- [📖 Books](#-books)
+- [👩‍🎓 Courses and Videos](#-courses-and-videos)
+- [📈 Business Software](#-business-software)
+- [🏃🏻‍♀️ Health & Fitness Software](#-health--fitness-software)
+- [🎁 Bundles](#-bundles)
+- [🎶 Creative Content](#-creative-content)
+- [🤑 Finance](#-finance)
+- [🗺️ Navigation](#-navigation)
+- [🔎 SEO](#-seo)
+- [🏡 Home Automation](#-home-automation)
+- [🕹 Games](#-games)
+
 ## 🛠 Development Software
 ### 💰 [Proxyman](https://proxyman.io) - 30% OFF with code **BLACKFRIDAY2024**
 
