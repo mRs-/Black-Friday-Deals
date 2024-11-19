@@ -16,6 +16,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ### 💰 [DropDMG](https://c-command.com/store/sale) - Create professional disk images (.dmg files) for your Mac app · 25% off with code **BLACKFRIDAY2024**
 ### 💸 [RocketSim](https://www.rocketsim.app) - Boost your productivity and streamline your workflow with powerful Xcode Simulator tools. - 50% OFF with code **BLACKFRIDAY**, Nov 26 - Nov 30
 ### 💰 [Reveal](https://www.revealapp.com) - Review, fix, and improve your iOS app’s accessible and visual user experiences with powerful UI inspection and testing tools. Enjoy 30% off with discount code **BLACKFRIDAY2024**, valid through Dec 2.
+### 💸 [CSV Table](https://csvtable.com) - View & edit CSV, JSON files for Pros - 50% OFF on-site, Nov 26 - Dec 2
 
 <p>&nbsp;</p>
 
