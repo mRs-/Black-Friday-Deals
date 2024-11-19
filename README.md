@@ -13,6 +13,9 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ## 🛠 Development Software
 ### 💰 [Proxyman](https://proxyman.io) - Debug HTTP/HTTPS Network Faster with Proxyman. Proxyman is a modern native macOS app that helps developers to Capture & Inspect HTTP/HTTPS traffic with ease. Support macOS, iOS (Device & Simulators), Windows, and Linux. 30% OFF with code **BLACKFRIDAY2024**
 ### 💰 [WhaleDeck](https://apple.co/3NQJi4w) - The only Docker management tool you will ever need. Available for iOS, iPadOS, and macOS. - Lifetime 20% off, Nov 29 - Dec 2
+### 💰 [DropDMG](https://c-command.com/store/sale) - Create professional disk images (.dmg files) for your Mac app · 25% off with code **BLACKFRIDAY2024**
+### 💸 [RocketSim](https://www.rocketsim.app) - Boost your productivity and streamline your workflow with powerful Xcode Simulator tools. - 50% OFF with code **BLACKFRIDAY**, Nov 26 - Nov 30
+### 💰 [Reveal](https://www.revealapp.com) - Review, fix, and improve your iOS app’s accessible and visual user experiences with powerful UI inspection and testing tools. Enjoy 30% off with discount code **BLACKFRIDAY2024**, valid through Dec 2.
 
 <p>&nbsp;</p>
 
@@ -23,6 +26,8 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ### 💰 [CompressX](https://compressx.app) - CompressX is a powerful offline media compression tool that can significantly reduce file sizes without compromising quality. 30% OFF with code **BF**
 ### 💸 [Fileside](https://www.fileside.app/?ref=mRsbfd) - A modern multi-pane file manager with project-based workspaces. Get it for $9.99 instead of $29 during Black Friday week, Nov 25 - Dec 2.
 ### 💸 [Quick Notes: Email Me](https://www.emailmeapp.net) - The fastest way to record your thoughts. Capture your ideas & taks on-the-go. Available for iOS, iPadOS, macOS, watchOS & visionOS. - 50% OFF YEARLY Plan, Nov 29 - Dec 2.
+### 💰 [SpamSieve](https://c-command.com/store/sale) - Add powerful spam filtering to the e-mail client on your Mac · 25% off with code **BLACKFRIDAY2024**
+### 💰 [Lasso - Window Manager](https://thelasso.app) - Lasso is a powerful window manager for macOS that allows you to easily move and resize windows with your mouse or keybord. 45% OFF with code **BLACKFRIDAY24**
 
 <p>&nbsp;</p>
 
@@ -31,6 +36,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ### 💰 [CleanClip](https://cleanclip.cc?ref=bfdeals) - The cleanest Clipboard Manager for macOS, Clean UI/Immersive menu/Unlimited Storage/Paste Queue/Smart List, 30% off on all multi-device plans with code **BF2024**
 ### 💰 [Presentify](https://apps.apple.com/app/id1507246666) - The best screen annotation app for macOS, featured by Apple 3 times. 25% off for the first on the App Store. No code needed.
 ### 💸 [ToDoBar](https://apps.apple.com/app/id6470928617) - Tasks for today on your menu bar. 50% off for the first on the App Store. No code needed.
+### 💰 [EagleFiler](https://c-command.com/store/sale) - Organize files, archive e-mails, save Web pages and notes, search everything (Mac) · 25% off with code **BLACKFRIDAY2024**
 ### 💸 [Plinky](https://apps.apple.com/us/app/plinky-easily-save-links/id1597187737) - Easily save links from any device in just one tap, enjoy them later! No code needed, 50% off all sales that happen in the app from Nov 25 - Dec 3.
 
 ## Video Software
@@ -71,6 +77,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 
 ## 👩‍🎓 Courses and Videos
 ### 🧪 [LabEx](https://labex.io/pricing) - Learn Linux, DevOps & Cybersecurity with Hands-on Labs - Up to 50% OFF
+### 💸 [From Side Project to Going Indie Course](https://courses.avanderlee.com/p/from-side-project-to-going-indie?coupon_code=BLACKFRIDAY50&product_id=5860309) - Turn your passion into independence - 50% off using code **BLACKFRIDAY50** - Nov 15 - Nov 30
 
 <p>&nbsp;</p>
 
@@ -96,6 +103,8 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ## 🤑 Finance
 ### 💸 [DriveDex](https://apple.co/3C8HoJX) - Track mileage and expenses for all your vehicles. Available for iOS, iPadOS, and visionOS. - Lifetime 100% off, Nov 29 - Dec 2
 
+## 🗺️ Navigation
+### 🚘 [EV Charge Stations Map](https://apple.co/3NWejUz) - This is an app to show all EV charging stations through their location. Available for iOS, iPadOS, watchOS and visionOS. - Lifetime 66% off, Nov 20 - Dec 2
 
 ## 🔎 SEO
 ### 💰 [Example](https://example.com) - Product Description - Deal details
