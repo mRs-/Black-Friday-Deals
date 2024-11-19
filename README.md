@@ -61,7 +61,7 @@ Review, fix, and improve your iOS app’s accessible and visual user experiences
 <p>&nbsp;</p>
 
 ## 🎛 Utility Software
-### 💰 [CompressX](https://compressx.app) - 30% OFF with code **BF**
+### 💰 [CompressX](https://compressx.app) - 30% OFF with code **BF24**
 
 CompressX is a powerful offline media compression tool that can significantly reduce file sizes without compromising quality.
 
