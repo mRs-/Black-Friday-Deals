@@ -38,6 +38,8 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ### 💸 [ToDoBar](https://apps.apple.com/app/id6470928617) - Tasks for today on your menu bar. 50% off for the first on the App Store. No code needed.
 ### 💰 [EagleFiler](https://c-command.com/store/sale) - Organize files, archive e-mails, save Web pages and notes, search everything (Mac) · 25% off with code **BLACKFRIDAY2024**
 ### 💸 [Plinky](https://apps.apple.com/us/app/plinky-easily-save-links/id1597187737) - Easily save links from any device in just one tap, enjoy them later! No code needed, 50% off all sales that happen in the app from Nov 25 - Dec 3.
+### 💸 [Inventory Tracker Itemlist](https://getitemlist.app) - A powerful inventory tracker app for home and business, available on iOS and iPadOS (with macOS support coming soon). Easily organize, categorize, and locate items in seconds. 50% OFF Lifetime PRO. No code needed.
+
 
 ## Video Software
 ### 💸 [FaceScreen](https://apps.apple.com/app/id6702028512) - Live camera preview on your screen. 50% off for the first time on the App Store. No code needed.
