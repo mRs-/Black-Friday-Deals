@@ -57,6 +57,10 @@ Review, fix, and improve your iOS app’s accessible and visual user experiences
 
 The world's most powerful file comparison and merge app, with deep git integration.
 
+### 💰 [Secure ShellFish](https://apps.apple.com/app/apple-store/id1336634154?pt=15897&ct=BlackFriday1&mt=8) - Lifetime 38% OFF, valid through Dec 2
+
+Powerful SSH terminal and SFTP file access for iOS & Mac.
+
 <p>&nbsp;</p>
 
 ## :tophat: Security Software
@@ -94,6 +98,10 @@ Beautiful Countdown widgets on your Home Screen and Lock Screen.
 
 View & edit CSV, JSON files for Pros
 
+### 💰 [Lingon X](https://www.peterborgapps.com/lingon/) - 20% off (automatically applied)
+
+An easy to use but powerful macOS app to run things automatically.
+
 <p>&nbsp;</p>
 
 ## 📌 Productivity Software
@@ -129,9 +137,13 @@ Manage, organize, and execute perfect meetings effortlessly, right from your Mac
 
 Fancy ChatGPT with appsuite. Supports OpenAI, OpenRouter, Claude, Gemini and more
 
+### 💸 [Inventory Tracker Itemlist](https://getitemlist.app) - 50% OFF Lifetime PRO, no code needed
+
+A powerful inventory tracker app for home and business, available on iOS and iPadOS (with macOS support coming soon). Easily organize, categorize, and locate items in seconds. 
+
 ### 💸 [kgrep](https://kgrep.com) - 10% OFF with code **FRIYAY** on Stripe
 
-Small search engine without the fluff. 
+Small search engine without the fluff.
 
 <p>&nbsp;</p>
 
@@ -174,6 +186,10 @@ Sleep Sounds & Sunrise Alarm for Apple TV. Enjoy a total black screen with relax
 
 Make Your TV a Mood Lamp. Transform your space with the Mood Lights Apple TV app – endless colors and sounds for relaxation, focus, and beautiful ambiance.
 
+### 🌤️ [Pro Forecasts: Sonuby Weather](https://sonuby.com) - 40% OFF
+
+Reliable and customisable weather forecasts, incl. tides, waves and altitudes / Available for iOS and Android / 40% OFF PERMANENTLY on Annual Enthusiast Subscription / Offer available from within the app
+
 <p>&nbsp;</p>
 
 ## 🗣️ Social
@@ -193,6 +209,7 @@ Native ChatPDF app for Mac.
 ### 💸 [The Swift Power Pack (includes eight books)](https://gumroad.com/l/swift-power-pack/blackfriday24) - 50% OFF
 ### 💸 [The Swift Platform Pack (includes six books)](https://gumroad.com/l/swift-platform-pack/blackfriday24) - 50% OFF
 ### 💸 [The Swift Plus Pack (includes seven books)](https://gumroad.com/l/swift-plus-pack/blackfriday24) - 50% OFF
+### 💰 [Modern Auto Layout (9th edition)](https://useyourloaf.com/autolayout/) - 20% OFF
 
 <p>&nbsp;</p>
 
