@@ -108,6 +108,10 @@ Organize files, archive e-mails, save Web pages and notes, search everything (Ma
 
 Easily save links from any device in just one tap, enjoy them later!
 
+### 💸 [MeetingMenu](https://www.meetingmenu.app) - 60% OFF
+
+Manage, organize, and execute perfect meetings effortlessly, right from your Mac menu bar.
+
 <p>&nbsp;</p>
 
 ## Video Software
@@ -122,12 +126,23 @@ Live camera preview on your screen.
 
 Sip is a modern color picker that brings ease to color organization & team collaboration.
 
+### 📺 [Screen Canvas](https://www.screencanvas.app) - 50% OFF
+
+Create Custom Designs on Your Apple TV. The fastest way to instantly create digital signs and message boards on your TV, all from your remote.
 <p>&nbsp;</p>
 
 ## 🏝️ Lifestyle
 ### 💸 [Digital Photo Frame App](https://www.digitalphotoframeapp.com) - 50% OFF YEARLY Plan, Nov 29 - Dec 2
 
 The most gorgeous and powerful photo player application. Available for iOS, iPadOS, and macOS.
+
+### 💤 [Dark Sleep](https://www.darksleep.app) - 50% OFF
+
+Sleep Sounds & Sunrise Alarm for Apple TV. Enjoy a total black screen with relaxing sounds at night and a gentle sunrise alarm clock in the morning. 
+
+### 💡 [Mood Lights](https://www.moodlights.app) - 50% OFF
+
+Make Your TV a Mood Lamp. Transform your space with the Mood Lights Apple TV app – endless colors and sounds for relaxation, focus, and beautiful ambiance.
 
 <p>&nbsp;</p>
 
