@@ -129,6 +129,10 @@ Manage, organize, and execute perfect meetings effortlessly, right from your Mac
 
 Fancy ChatGPT with appsuite. Supports OpenAI, OpenRouter, Claude, Gemini and more
 
+### 💸 [kgrep](https://kgrep.com) - 10% OFF with code **FRIYAY** on Stripe
+
+Small search engine without the fluff. 
+
 <p>&nbsp;</p>
 
 ## Video Software
