@@ -129,6 +129,10 @@ Manage, organize, and execute perfect meetings effortlessly, right from your Mac
 
 Fancy ChatGPT with appsuite. Supports OpenAI, OpenRouter, Claude, Gemini and more
 
+### 💸 [DeskRest](https://deskrest.app/offers) - 70% OFF with code **BLACKFRIDAY70**
+
+A Mac app that enhances productivity through customizable break and posture reminders to improve work habits.
+
 <p>&nbsp;</p>
 
 ## Video Software
