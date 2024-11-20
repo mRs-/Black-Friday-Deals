@@ -149,7 +149,7 @@ Advanced student planner app to keep track of timetables, homework and grades.
 
 A powerful inventory tracker app for home and business, available on iOS and iPadOS (with macOS support coming soon). Easily organize, categorize, and locate items in seconds. 
 
-### 💸 [kgrep](https://kgrep.com) - 10% OFF with code **FRIYAY** on Stripe
+### 💰 [kgrep](https://kgrep.com) - 10% OFF with code **FRIYAY** on Stripe
 
 Small search engine without the fluff.
 
