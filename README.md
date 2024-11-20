@@ -60,7 +60,8 @@ The world's most powerful file comparison and merge app, with deep git integrati
 <p>&nbsp;</p>
 
 ## :tophat: Security Software
-### 💰 [Example](https://example.com) - Product Description - Deal details
+### 💰 [ExploitPack](https://exploitpack.com/indexexploitpack.html) - Advanced Exploitation Framework with 0days and 39,500+ exploits - LIFETIME Licenses - Until 30 November - Only 10 licenses available
+### 💰 [ControlPack](https://exploitpack.com/indexcontrolpack.html) - Command & Control Framework, not detected by AVs and EDRs - LIFETIME Licenses - Until 30 November - Only 10 licenses available
 
 <p>&nbsp;</p>
 
