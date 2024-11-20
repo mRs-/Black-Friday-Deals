@@ -176,6 +176,10 @@ Sleep Sounds & Sunrise Alarm for Apple TV. Enjoy a total black screen with relax
 
 Make Your TV a Mood Lamp. Transform your space with the Mood Lights Apple TV app – endless colors and sounds for relaxation, focus, and beautiful ambiance.
 
+### 🌤️ [Pro Forecasts: Sonuby Weather](https://sonuby.com) - 40% OFF
+
+Reliable and customisable weather forecasts, incl. tides, waves and altitudes / Available for iOS and Android / 40% OFF PERMANENTLY on Annual Enthusiast Subscription / Offer available from within the app
+
 <p>&nbsp;</p>
 
 ## 🗣️ Social
