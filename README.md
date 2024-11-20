@@ -189,6 +189,7 @@ Native ChatPDF app for Mac.
 ### 💸 [The Swift Power Pack (includes eight books)](https://gumroad.com/l/swift-power-pack/blackfriday24) - 50% OFF
 ### 💸 [The Swift Platform Pack (includes six books)](https://gumroad.com/l/swift-platform-pack/blackfriday24) - 50% OFF
 ### 💸 [The Swift Plus Pack (includes seven books)](https://gumroad.com/l/swift-plus-pack/blackfriday24) - 50% OFF
+### 💰 [Modern Auto Layout (9th edition)](https://useyourloaf.com/autolayout/) - 20% OFF
 
 <p>&nbsp;</p>
 
