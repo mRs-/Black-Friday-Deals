@@ -141,6 +141,10 @@ Fancy ChatGPT with appsuite. Supports OpenAI, OpenRouter, Claude, Gemini and mor
 
 A powerful inventory tracker app for home and business, available on iOS and iPadOS (with macOS support coming soon). Easily organize, categorize, and locate items in seconds. 
 
+### 💸 [Milestones - Project Management]([https://apps.apple.com/us/app/project-planner-milestones/id6737195092) - 50% OFF all plans, including lifetime, no code needed
+
+Divide projects into milestones and track your progress, the ideal app for indie developers, made by an indie developer
+
 ## Video Software
 ### 💸 [FaceScreen](https://apps.apple.com/app/id6702028512) - 50% OFF on the App Store, no code needed
 
