@@ -127,6 +127,10 @@ Fancy ChatGPT with appsuite. Supports OpenAI, OpenRouter, Claude, Gemini and mor
 
 Live camera preview on your screen.
 
+### 💰 [🎬 Video Short Generator](https://harishgarg.gumroad.com/l/vxolwd/yqfeq2r) ~ 30% OFF on the one time purchase
+
+Generate Video Shorts locally without any subscriptions. Comes with Full source code.
+
 <p>&nbsp;</p>
 
 ## 🎨 Graphic Software
