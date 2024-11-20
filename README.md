@@ -129,7 +129,9 @@ Manage, organize, and execute perfect meetings effortlessly, right from your Mac
 
 Fancy ChatGPT with appsuite. Supports OpenAI, OpenRouter, Claude, Gemini and more
 
-<p>&nbsp;</p>
+### 💸 [Inventory Tracker Itemlist](https://getitemlist.app) - 50% OFF Lifetime PRO, no code needed
+
+A powerful inventory tracker app for home and business, available on iOS and iPadOS (with macOS support coming soon). Easily organize, categorize, and locate items in seconds. 
 
 ## Video Software
 ### 💸 [FaceScreen](https://apps.apple.com/app/id6702028512) - 50% OFF on the App Store, no code needed
