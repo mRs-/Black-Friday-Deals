@@ -137,9 +137,19 @@ Manage, organize, and execute perfect meetings effortlessly, right from your Mac
 
 Fancy ChatGPT with appsuite. Supports OpenAI, OpenRouter, Claude, Gemini and more
 
+### 💸 [Taskheat](https://eyen.fr/taskheat/) - 70% OFF the Full Version
+
+Innovative to-do app that uses flowcharts to define and visualize dependencies between tasks.
+
+### 💸 [Subjects](https://eyen.fr/subjects/) - 70% OFF the Yearly Plan
+
+Advanced student planner app to keep track of timetables, homework and grades.
+
 ### 💸 [Inventory Tracker Itemlist](https://getitemlist.app) - 50% OFF Lifetime PRO, no code needed
 
 A powerful inventory tracker app for home and business, available on iOS and iPadOS (with macOS support coming soon). Easily organize, categorize, and locate items in seconds. 
+
+<p>&nbsp;</p>
 
 ## Video Software
 ### 💸 [FaceScreen](https://apps.apple.com/app/id6702028512) - 50% OFF on the App Store, no code needed
