@@ -98,6 +98,10 @@ Beautiful Countdown widgets on your Home Screen and Lock Screen.
 
 View & edit CSV, JSON files for Pros
 
+### 💰 [Lingon X](https://www.peterborgapps.com/lingon/) - 20% off (automatically applied)
+
+An easy to use but powerful macOS app to run things automatically.
+
 <p>&nbsp;</p>
 
 ## 📌 Productivity Software
