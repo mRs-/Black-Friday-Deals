@@ -90,6 +90,10 @@ Lasso is a powerful window manager for macOS that allows you to easily move and 
 
 Beautiful Countdown widgets on your Home Screen and Lock Screen.
 
+### 💸 [CSV Table](https://csvtable.com) - 50% OFF on-site, Nov 26 - Dec 2
+
+View & edit CSV, JSON files for Pros
+
 <p>&nbsp;</p>
 
 ## 📌 Productivity Software
