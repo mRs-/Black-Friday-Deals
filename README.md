@@ -116,6 +116,10 @@ Easily save links from any device in just one tap, enjoy them later!
 
 Manage, organize, and execute perfect meetings effortlessly, right from your Mac menu bar.
 
+### 💸 [GasbyAI](https://gasbyai.com?ref=bfdeals) - 30% OFF with code **BLACKFRIDAY2024**
+
+Fancy ChatGPT with appsuite. Supports OpenAI, OpenRouter, Claude, Gemini and more
+
 <p>&nbsp;</p>
 
 ## Video Software
