@@ -146,6 +146,11 @@ Sip is a modern color picker that brings ease to color organization & team colla
 ### 📺 [Screen Canvas](https://www.screencanvas.app) - 50% OFF
 
 Create Custom Designs on Your Apple TV. The fastest way to instantly create digital signs and message boards on your TV, all from your remote.
+
+### 💸 [Sitely](https://sitely.app) - 50% OFF
+
+Formerly known as Sparkle, build the website you always wanted, visually, on your Mac.
+
 <p>&nbsp;</p>
 
 ## 🏝️ Lifestyle
