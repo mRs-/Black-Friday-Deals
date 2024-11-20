@@ -189,7 +189,9 @@ Monitor, Analyze & Manage your Umami Analytics on the go. Available for iOS & iP
 <p>&nbsp;</p>
 
 ## 🏃🏻‍♀️ Health & Fitness Software
-### 💸 [Atomic](https://indiegoodies.com/atomic) - The simple app to build good habits, break bad habits, and achieve greatness! Available on iOS/iPadOS/MacOS/WatchOS - Lifetime 55% off 
+### 💰 [Atomic](https://apple.co/40MP50F) - Lifetime 55% OFF
+
+The simple app to build good habits, break bad habits, and achieve greatness! Available on iOS/iPadOS/MacOS/WatchOS.
 
 <p>&nbsp;</p>
 
