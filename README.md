@@ -85,6 +85,10 @@ Add powerful spam filtering to the e-mail client on your Mac.
 
 Lasso is a powerful window manager for macOS that allows you to easily move and resize windows with your mouse or keyboard.
 
+### 💰 [Countdown - Pretty Progress](https://apps.apple.com/us/app/countdown-pretty-progress/id1597616326?platform=iphone) - 50% OFF Lifetime - No code needed
+
+Beautiful Countdown widgets on your Home Screen and Lock Screen.
+
 <p>&nbsp;</p>
 
 ## 📌 Productivity Software
