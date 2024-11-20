@@ -190,6 +190,10 @@ Turn your passion into independence.
 
 Monitor, Analyze & Manage your Umami Analytics on the go. Available for iOS & iPadOS.
 
+### 📊 [Trendly](https://apple.co/4hQcaI1) - 50% OFF all paid plans for the first 6 months, Nov 29 - Dec 4
+
+Track your App Store sales, subscribers, downloads, and more.
+
 <p>&nbsp;</p>
 
 ## 🏃🏻‍♀️ Health & Fitness Software
