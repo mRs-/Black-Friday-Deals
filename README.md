@@ -57,6 +57,10 @@ Review, fix, and improve your iOS app’s accessible and visual user experiences
 
 The world's most powerful file comparison and merge app, with deep git integration.
 
+### 💰 [Secure ShellFish](https://apps.apple.com/app/apple-store/id1336634154?pt=15897&ct=BlackFriday1&mt=8) - Lifetime 38% OFF, valid through Dec 2
+
+Powerful SSH terminal and SFTP file access for iOS & Mac.
+
 <p>&nbsp;</p>
 
 ## :tophat: Security Software
