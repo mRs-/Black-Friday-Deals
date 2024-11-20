@@ -129,6 +129,14 @@ Manage, organize, and execute perfect meetings effortlessly, right from your Mac
 
 Fancy ChatGPT with appsuite. Supports OpenAI, OpenRouter, Claude, Gemini and more
 
+### 💸 [Taskheat](https://eyen.fr/taskheat/) - 70% OFF the Full Version
+
+Innovative to-do app that uses flowcharts to define and visualize dependencies between tasks.
+
+### 💸 [Subjects](https://eyen.fr/subjects/) - 70% OFF the Yearly Plan
+
+Advanced student planner app to keep track of timetables, homework and grades.
+
 <p>&nbsp;</p>
 
 ## Video Software
