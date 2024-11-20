@@ -123,6 +123,10 @@ Manage, organize, and execute perfect meetings effortlessly, right from your Mac
 
 Live camera preview on your screen.
 
+### 💰 [🎬 Video Short Generator](https://harishgarg.gumroad.com/l/vxolwd/yqfeq2r) ~ 30% OFF on the one time purchase
+
+Generate Video Shorts locally without any subscriptions. Comes with Full source code.
+
 <p>&nbsp;</p>
 
 ## 🎨 Graphic Software
