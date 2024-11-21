@@ -160,6 +160,10 @@ Live camera preview on your screen.
 
 Generate Video Shorts locally without any subscriptions. Comes with Full source code.
 
+### 💰 [Recut](https://getrecut.com) ~ $50 OFF the one time purchase
+
+Cuts out the pauses automatically for you, creating an instant rough cut. Speed up your video production!
+
 <p>&nbsp;</p>
 
 ## 🎨 Graphic Software
