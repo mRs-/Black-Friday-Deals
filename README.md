@@ -106,6 +106,10 @@ An easy to use but powerful macOS app to run things automatically.
 
 Cross-platform window manager and switcher.
 
+### 💰 [SupaSend iOS](https://supasend.app/) - Lifetime 50% OFF
+
+Quickly capture your notes instantly in your second brain apps 🧠
+
 <p>&nbsp;</p>
 
 ## 📌 Productivity Software
