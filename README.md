@@ -61,6 +61,10 @@ The world's most powerful file comparison and merge app, with deep git integrati
 
 Powerful SSH terminal and SFTP file access for iOS & Mac.
 
+### 💸 [Runestone Text Editor](https://apps.apple.com/us/app/runestone-editor/id1548193893) - 50% off Premium, Nov 29 - Dec 2
+
+A plain text editor with syntax highlighting, line numbers, search and replace, page guide, and much more. It's like TextEdit but more powerful and optimised for iPhone and iPad.
+
 <p>&nbsp;</p>
 
 ## :tophat: Security Software
@@ -109,6 +113,14 @@ Cross-platform window manager and switcher.
 ### 💰 [SupaSend iOS](https://supasend.app/) - Lifetime 50% OFF
 
 Quickly capture your notes instantly in your second brain apps 🧠
+
+### 💰 [Spaces for macOS](https://spacesformac.xyz) - Lifetime 35% off
+
+Declutter & organize your workspace on macOS in one single click 🎊
+
+### 💰 [Zen mode for macOS](https://zenmode.app) - Lifetime 40% off
+
+Avoid those awkward moments in public places or in presentation meetings in 1-click
 
 ### 💰 [Clockzones - Timeszones Menubar Widget](https://apps.apple.com/app/clockzones/id6737234391) - 50% OFF Lifetime - No code needed
 
