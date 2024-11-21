@@ -113,6 +113,10 @@ Cross-platform window manager and switcher.
 
 Access all AI models in one native Mac app: Advanced Voice Mode, Document Analysis, AI Plugins, and more.
 
+### 💰 [CalGet](https://calget.com) - 30% OFF on All Annual Plans with code **BLACKFRIDAY2024**
+
+CalGet is a platform that simplifies event management by generating shareable “Add to Calendar” links, collecting RSVPs, and embedding customizable calendars on websites.
+
 ### 💰 [CleanClip](https://cleanclip.cc?ref=bfdeals) - 30% OFF on all multi-device plans with code **BF2024**
 
 The cleanest Clipboard Manager for macOS, Clean UI/Immersive menu/Unlimited Storage/Paste Queue/Smart List.
