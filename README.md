@@ -166,10 +166,17 @@ Advanced student planner app to keep track of timetables, homework and grades.
 
 A powerful inventory tracker app for home and business, available on iOS and iPadOS (with macOS support coming soon). Easily organize, categorize, and locate items in seconds. 
 
-
 ### 💸 [Milestones - Project Management]([https://apps.apple.com/us/app/project-planner-milestones/id6737195092) - 50% OFF all plans, including lifetime, no code needed
 
 Divide projects into milestones and track your progress, the ideal app for indie developers, made by an indie developer
+
+### 💸 [Writers brew macOS](https://writersbrew.app) - Lifetime 40% OFF
+
+An AI writing assistant that is perfect for everyday use. It can seamlessly work across your apps.
+
+### 💸 [Audio Writer](https://audiowriter.app) - Lifetime 40% OFF
+
+Braindump your thoughts - It turns your stream of thoughts from speech into well-structured written text ✨
 
 <p>&nbsp;</p>
 
