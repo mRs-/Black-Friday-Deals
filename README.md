@@ -247,7 +247,15 @@ Reliable and customisable weather forecasts, incl. tides, waves and altitudes / 
 <p>&nbsp;</p>
 
 ## 🗣️ Social
-### 💰 [Example](https://example.com) - Product Description - Deal details
+### 💰 [Subreddit tracker](https://subreddittraffic.live/) - 30% OFF lifetime |Use code **BLACKFRIDAY2024** 
+
+Reach maximum Reddit traffic by finding the best times to post. Track 400+ subreddits activity and optimize your posting schedule to increase your brand awareness and traffic.  
+
+
+
+
+
+
 
 <p>&nbsp;</p>
 
