@@ -149,6 +149,10 @@ Advanced student planner app to keep track of timetables, homework and grades.
 
 A powerful inventory tracker app for home and business, available on iOS and iPadOS (with macOS support coming soon). Easily organize, categorize, and locate items in seconds. 
 
+### 💸 [RabbitHolesAI](https://www.rabbitholes.ai/?ref=bfdeals) - 30% OFF with code **BLACKFRIDAY** (till Dec 2) 
+
+Chat with AI on an Infinite Canvas. Connect multiple chats on the canvas to share context. Change models for each chat. Add images, PDFs, and more to the canvas and chat with them.
+
 <p>&nbsp;</p>
 
 ## Video Software
