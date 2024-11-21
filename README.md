@@ -65,6 +65,23 @@ Powerful SSH terminal and SFTP file access for iOS & Mac.
 
 A plain text editor with syntax highlighting, line numbers, search and replace, page guide, and much more. It's like TextEdit but more powerful and optimised for iPhone and iPad.
 
+### 💸 [StoreReviewKit](https://apps.apple.com/app/apple-store/id6670761635?pt=594185&ct=mrs-bf&mt=8) - 50% OFF, valid through Dec 3
+
+Read and respond to App Store reviews without language boundaries.
+
+### 💸 [LocalizeBot](https://apps.apple.com/app/apple-store/id6448173982?pt=594185&ct=mrs-bf&mt=8) - 50% OFF, valid through Dec 3
+
+Translate your app in 1 click. Localize Xliff and Xcloc files.
+
+### 💸 [Localization Buddy](https://apps.apple.com/app/apple-store/id6503285923?pt=594185&ct=mrs-bf&mt=8) - 50% OFF, valid through Dec 3
+
+Easiest way to localize and update App Store metadata.
+
+### 💰 [Screenshot Studio](https://apps.apple.com/app/apple-store/id6473832582?pt=594185&ct=mrs-bf&mt=8) - 30% OFF, valid through Dec 3 
+
+Create App Store screenshots in minutes not hours.
+
+
 <p>&nbsp;</p>
 
 ## :tophat: Security Software
@@ -121,6 +138,10 @@ Avoid those awkward moments in public places or in presentation meetings in 1-cl
 ### 💰 [Clockzones - Timeszones Menubar Widget](https://apps.apple.com/app/clockzones/id6737234391) - 50% OFF Lifetime - No code needed
 
 Easy view of up to 5 different timezones in your menubar.
+
+### 💸 [Matcha](https://apps.apple.com/app/apple-store/id6504923811?pt=594185&ct=mrs-bf&mt=8) - 50% OFF, valid through Dec 3
+
+Currency calculator for traveler.
 
 <p>&nbsp;</p>
 
@@ -189,6 +210,14 @@ An AI writing assistant that is perfect for everyday use. It can seamlessly work
 ### 💸 [Audio Writer](https://audiowriter.app) - Lifetime 40% OFF
 
 Braindump your thoughts - It turns your stream of thoughts from speech into well-structured written text ✨
+
+### 💸 [Offline privacy transcription](https://apps.apple.com/app/apple-store/id6465955389?pt=594185&ct=mrs-bf&mt=8) - 50% OFF, valid through Dec 3
+
+Fast, privacy-focus way to transcribe audio, video, and podcast files.
+
+### 💸 [Note Taking - Voice Photo Memo](https://apps.apple.com/app/apple-store/id6479198427?pt=594185&ct=mrs-bf&mt=8) - 50% OFF, valid through Dec 3
+
+Write it, Speak it, Snap it – Your Notes, Your Way.
 
 <p>&nbsp;</p>
 
