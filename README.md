@@ -61,6 +61,10 @@ The world's most powerful file comparison and merge app, with deep git integrati
 
 Powerful SSH terminal and SFTP file access for iOS & Mac.
 
+### 💰 [DevUtils](https://devutils.com) - 50% OFF, BLACKFRIDAY_2024
+
+All-in-one toolbox for developers. 42+ carefully crafted developer tools. Native macOS app, fast & beautiful. Work offline, and respect your data. Fully supports Apple Silicon & macOS Ventura.
+
 <p>&nbsp;</p>
 
 ## :tophat: Security Software
@@ -148,6 +152,10 @@ Advanced student planner app to keep track of timetables, homework and grades.
 ### 💸 [Inventory Tracker Itemlist](https://getitemlist.app) - 50% OFF Lifetime PRO, no code needed
 
 A powerful inventory tracker app for home and business, available on iOS and iPadOS (with macOS support coming soon). Easily organize, categorize, and locate items in seconds. 
+
+### 💸 [TypingMind](https://typingmind.com) - 55% OFF Lifetime for Premium plan, BLACKFRIDAY2024
+
+Your Personal AI Workspace. Frontend for ChatGPT, Claude, Gemini to use with your API key. Support Artifact, Projects, Vision, Canvas, AI agents builder, DALL-E, Plugins, etc.
 
 <p>&nbsp;</p>
 
