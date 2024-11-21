@@ -106,6 +106,14 @@ An easy to use but powerful macOS app to run things automatically.
 
 Cross-platform window manager and switcher.
 
+### 💰 [Spaces for macOS](https://spacesformac.xyz) - Lifetime 35% off
+
+Declutter & organize your workspace on macOS in one single click 🎊
+
+### 💰 [Zen mode for macOS](https://zenmode.app) - Lifetime 40% off
+
+Avoid those awkward moments in public places or in presentation meetings in 1-click
+
 ### 💰 [Clockzones - Timeszones Menubar Widget](https://apps.apple.com/app/clockzones/id6737234391) - 50% OFF Lifetime - No code needed
 
 Easy view of up to 5 different timezones in your menubar.
