@@ -102,6 +102,10 @@ View & edit CSV, JSON files for Pros
 
 An easy to use but powerful macOS app to run things automatically.
 
+### 💰 [SMBAct](https://www.smbact.com) - 30% off with code **BF2024** until Dec 21st
+
+Cross-platform window manager and switcher.
+
 ### 💰 [Clockzones - Timeszones Menubar Widget](https://apps.apple.com/app/clockzones/id6737234391) - 50% OFF Lifetime - No code needed
 
 Easy view of up to 5 different timezones in your menubar.
@@ -112,6 +116,10 @@ Easy view of up to 5 different timezones in your menubar.
 ### 💸 [BoltAI](https://boltai.com?ref=bfdeals) - 30% OFF with code **BFCM2024**
 
 Access all AI models in one native Mac app: Advanced Voice Mode, Document Analysis, AI Plugins, and more.
+
+### 💰 [CalGet](https://calget.com) - 30% OFF on All Annual Plans with code **BLACKFRIDAY2024**
+
+CalGet is a platform that simplifies event management by generating shareable “Add to Calendar” links, collecting RSVPs, and embedding customizable calendars on websites.
 
 ### 💰 [CleanClip](https://cleanclip.cc?ref=bfdeals) - 30% OFF on all multi-device plans with code **BF2024**
 
@@ -153,6 +161,11 @@ Advanced student planner app to keep track of timetables, homework and grades.
 
 A powerful inventory tracker app for home and business, available on iOS and iPadOS (with macOS support coming soon). Easily organize, categorize, and locate items in seconds. 
 
+
+### 💸 [Milestones - Project Management]([https://apps.apple.com/us/app/project-planner-milestones/id6737195092) - 50% OFF all plans, including lifetime, no code needed
+
+Divide projects into milestones and track your progress, the ideal app for indie developers, made by an indie developer
+
 <p>&nbsp;</p>
 
 ## Video Software
@@ -163,6 +176,10 @@ Live camera preview on your screen.
 ### 💰 [🎬 Video Short Generator](https://harishgarg.gumroad.com/l/vxolwd/yqfeq2r) ~ 30% OFF on the one time purchase
 
 Generate Video Shorts locally without any subscriptions. Comes with Full source code.
+
+### 💰 [Recut](https://getrecut.com) ~ $50 OFF the one time purchase
+
+Cuts out the pauses automatically for you, creating an instant rough cut. Speed up your video production!
 
 <p>&nbsp;</p>
 
