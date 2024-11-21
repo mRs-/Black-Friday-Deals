@@ -190,6 +190,10 @@ An AI writing assistant that is perfect for everyday use. It can seamlessly work
 
 Braindump your thoughts - It turns your stream of thoughts from speech into well-structured written text ✨
 
+### 💸 [PaletteBrain 3](https://www.palettebrain.com/?utm_source=github&utm_medium_social&utm_campaign=bf2024&utm_content=mrs) - Lifetime Family Plan 51% OFF with code **LASTLTDBF51**
+
+Access the power of ChatGPT across all your macOS apps with the press of a shortcut. Stop wasting time switching between windows and copying-pasting texts.
+
 <p>&nbsp;</p>
 
 ## Video Software
