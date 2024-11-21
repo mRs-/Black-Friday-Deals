@@ -210,7 +210,7 @@ Formerly known as Sparkle, build the website you always wanted, visually, on you
 
 <p>&nbsp;</p>
 
-### 💸 [Inspotype](https://www.inspotype.com?ref=github2) - 20% OFF of LIFETIME license with code **BLACKFRIDAY2024**
+### 💰 [Inspotype](https://www.inspotype.com?ref=github2) - 20% OFF of LIFETIME license with code **BLACKFRIDAY2024**
 
 Build brands in a blink. For product makers, designers, productivized designers and design agencies.
 
