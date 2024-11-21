@@ -149,7 +149,7 @@ Advanced student planner app to keep track of timetables, homework and grades.
 
 A powerful inventory tracker app for home and business, available on iOS and iPadOS (with macOS support coming soon). Easily organize, categorize, and locate items in seconds. 
 
-### 💸 [Resmume](https://resmume.com?ref=bfdeals) - 37% OFF Lifetime deal
+### 💰 [Resmume](https://resmume.com?ref=bfdeals) - 37% OFF Lifetime deal
 
 Create a professional resume in minutes with unlimited downloads, updates, AI reviews, AI writing assistant, and more.
 
@@ -179,7 +179,7 @@ Create Custom Designs on Your Apple TV. The fastest way to instantly create digi
 
 Formerly known as Sparkle, build the website you always wanted, visually, on your Mac.
 
-### 💸 [VectorUbi](https://vectorubi.com?ref=bfdeals) - 20% OFF Lifetime deal
+### 💰 [VectorUbi](https://vectorubi.com?ref=bfdeals) - 20% OFF Lifetime deal
 
 Create illustrations with AI that are unique, consistent, and customizable.
 
