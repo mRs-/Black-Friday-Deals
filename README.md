@@ -114,9 +114,18 @@ Declutter & organize your workspace on macOS in one single click 🎊
 
 Avoid those awkward moments in public places or in presentation meetings in 1-click
 
+### 💰 [Clockzones - Timeszones Menubar Widget](https://apps.apple.com/app/clockzones/id6737234391) - 50% OFF Lifetime - No code needed
+
+Easy view of up to 5 different timezones in your menubar.
+
 <p>&nbsp;</p>
 
 ## 📌 Productivity Software
+### 💸 [Quick Capture - Obsidian iOS](https://quickcaptureobsidian.app/) - Lifetime 50% OFF 
+
+Send anything to any vault in Obsidian 10x faster
+
+Access all AI models in one native Mac app: Advanced Voice Mode, Document Analysis, AI Plugins, and more.
 ### 💸 [BoltAI](https://boltai.com?ref=bfdeals) - 30% OFF with code **BFCM2024**
 
 Access all AI models in one native Mac app: Advanced Voice Mode, Document Analysis, AI Plugins, and more.
@@ -165,10 +174,17 @@ Advanced student planner app to keep track of timetables, homework and grades.
 
 A powerful inventory tracker app for home and business, available on iOS and iPadOS (with macOS support coming soon). Easily organize, categorize, and locate items in seconds. 
 
-
 ### 💸 [Milestones - Project Management]([https://apps.apple.com/us/app/project-planner-milestones/id6737195092) - 50% OFF all plans, including lifetime, no code needed
 
 Divide projects into milestones and track your progress, the ideal app for indie developers, made by an indie developer
+
+### 💸 [Writers brew macOS](https://writersbrew.app) - Lifetime 40% OFF
+
+An AI writing assistant that is perfect for everyday use. It can seamlessly work across your apps.
+
+### 💸 [Audio Writer](https://audiowriter.app) - Lifetime 40% OFF
+
+Braindump your thoughts - It turns your stream of thoughts from speech into well-structured written text ✨
 
 <p>&nbsp;</p>
 
@@ -201,6 +217,11 @@ Create Custom Designs on Your Apple TV. The fastest way to instantly create digi
 Formerly known as Sparkle, build the website you always wanted, visually, on your Mac.
 
 <p>&nbsp;</p>
+
+### 💰 [Inspotype](https://www.inspotype.com?ref=github2) - 20% OFF of LIFETIME license with code **BLACKFRIDAY2024**
+
+Build brands in a blink. For product makers, designers, productivized designers and design agencies.
+
 
 ## 🏝️ Lifestyle
 ### 💸 [Digital Photo Frame App](https://www.digitalphotoframeapp.com) - 50% OFF YEARLY Plan, Nov 29 - Dec 2
@@ -261,6 +282,12 @@ Monitor, Analyze & Manage your Umami Analytics on the go. Available for iOS & iP
 ### 📊 [Trendly](https://apple.co/4hQcaI1) - 50% OFF all paid plans for the first 6 months, Nov 29 - Dec 4
 
 Track your App Store sales, subscribers, downloads, and more.
+
+### 💰 [Aikeedo](https://aikeedo.com/?utm_source=github&utm_medium=social&utm_campaign=bfcm&utm_content=mRs-%2FBlack-Friday-Deals) - 35-50% OFF, Nov 20 - Dec 5
+
+Aikeedo is a ready-made PHP software with customizable features to launch your AI SaaS business quickly and generate revenue fast.
+
+* From November 20th to December 5th, we're offering exclusive discounts that decrease by 1% each day—starting at an incredible 50% OFF on Day 1 and ending with 35% OFF on the final day. 
 
 <p>&nbsp;</p>
 
