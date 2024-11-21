@@ -102,6 +102,10 @@ View & edit CSV, JSON files for Pros
 
 An easy to use but powerful macOS app to run things automatically.
 
+### 💰 [SMBAct](https://www.smbact.com) - 30% off with code **BF2024** until Dec 21st
+
+Cross-platform window manager and switcher.
+
 <p>&nbsp;</p>
 
 ## 📌 Productivity Software
