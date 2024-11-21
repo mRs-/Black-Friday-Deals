@@ -106,6 +106,10 @@ An easy to use but powerful macOS app to run things automatically.
 
 Cross-platform window manager and switcher.
 
+### 💰 [Clockzones - Timeszones Menubar Widget](https://apps.apple.com/app/clockzones/id6737234391) - 50% OFF Lifetime - No code needed
+
+Easy view of up to 5 different timezones in your menubar.
+
 <p>&nbsp;</p>
 
 ## 📌 Productivity Software
