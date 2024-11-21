@@ -254,6 +254,10 @@ Monitor, Analyze & Manage your Umami Analytics on the go. Available for iOS & iP
 
 Track your App Store sales, subscribers, downloads, and more.
 
+### 🚀 [Microlaunch](https://microlaunch.net/premium) - 20% OFF Pro Launches with the code BLACKFRIDAY2024, Nov 20 - Dec 4
+
+Launch, Get Exposure and First Sales.
+
 <p>&nbsp;</p>
 
 ## 🏃🏻‍♀️ Health & Fitness Software
