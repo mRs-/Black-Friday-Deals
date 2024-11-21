@@ -61,6 +61,10 @@ The world's most powerful file comparison and merge app, with deep git integrati
 
 Powerful SSH terminal and SFTP file access for iOS & Mac.
 
+### 💸 [Runestone Text Editor](https://apps.apple.com/us/app/runestone-editor/id1548193893) - 50% off Premium, Nov 29 - Dec 2
+
+A plain text editor with syntax highlighting, line numbers, search and replace, page guide, and much more. It's like TextEdit but more powerful and optimised for iPhone and iPad.
+
 <p>&nbsp;</p>
 
 ## :tophat: Security Software
