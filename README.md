@@ -106,10 +106,6 @@ An easy to use but powerful macOS app to run things automatically.
 
 Cross-platform window manager and switcher.
 
-### 💰 [Clockzones - Timeszones Menubar Widget](https://apps.apple.com/app/clockzones/id6737234391) - 50% OFF Lifetime - No code needed
-
-Easy view of up to 5 different timezones in your menubar.
-
 <p>&nbsp;</p>
 
 ## 📌 Productivity Software
@@ -196,6 +192,10 @@ Create Custom Designs on Your Apple TV. The fastest way to instantly create digi
 
 Formerly known as Sparkle, build the website you always wanted, visually, on your Mac.
 
+### 📷 [Darkroom](https://darkroom.co/blog/2024-11-15-black-friday) - 50% OFF First Year, Nov 15 -  Dec 3
+
+Photo & Video Editing for iPhone, Mac, iPad and Vision Pro. Apple Design Award winning, premium creative app designed for creators who value workflow speed, simplicity, and power.
+
 <p>&nbsp;</p>
 
 ## 🏝️ Lifestyle
@@ -257,12 +257,6 @@ Monitor, Analyze & Manage your Umami Analytics on the go. Available for iOS & iP
 ### 📊 [Trendly](https://apple.co/4hQcaI1) - 50% OFF all paid plans for the first 6 months, Nov 29 - Dec 4
 
 Track your App Store sales, subscribers, downloads, and more.
-
-### 💰 [Aikeedo](https://aikeedo.com/?utm_source=github&utm_medium=social&utm_campaign=bfcm&utm_content=mRs-%2FBlack-Friday-Deals) - 35-50% OFF, Nov 20 - Dec 5
-
-Aikeedo is a ready-made PHP software with customizable features to launch your AI SaaS business quickly and generate revenue fast.
-
-* From November 20th to December 5th, we're offering exclusive discounts that decrease by 1% each day—starting at an incredible 50% OFF on Day 1 and ending with 35% OFF on the final day. 
 
 <p>&nbsp;</p>
 
