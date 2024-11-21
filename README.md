@@ -190,6 +190,10 @@ An AI writing assistant that is perfect for everyday use. It can seamlessly work
 
 Braindump your thoughts - It turns your stream of thoughts from speech into well-structured written text ✨
 
+### 💰 [TabTab](https://tabtabapp.net/) - 30% OFF One Time Purchase with code **TABTABLAUNCH**
+
+Supercharged Windows & Tabs Manager for the Mac. TabTab aims to replace ⌘Command+Tab by making it easy to manage windows and tabs across your Mac apps at the OS level.
+
 <p>&nbsp;</p>
 
 ## Video Software
