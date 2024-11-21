@@ -109,6 +109,11 @@ Cross-platform window manager and switcher.
 <p>&nbsp;</p>
 
 ## 📌 Productivity Software
+### 💸 [Quick Capture - Obsidian iOS](https://quickcaptureobsidian.app/) - 30% OFF with code **BFCM2024**
+
+Send anything to any vault in Obsidian 10x faster
+
+Access all AI models in one native Mac app: Advanced Voice Mode, Document Analysis, AI Plugins, and more.
 ### 💸 [BoltAI](https://boltai.com?ref=bfdeals) - 30% OFF with code **BFCM2024**
 
 Access all AI models in one native Mac app: Advanced Voice Mode, Document Analysis, AI Plugins, and more.
