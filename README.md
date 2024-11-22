@@ -254,6 +254,10 @@ Write it, Speak it, Snap it – Your Notes, Your Way.
 
 Supercharged Windows & Tabs Manager for the Mac. TabTab aims to replace ⌘Command+Tab by making it easy to manage windows and tabs across your Mac apps at the OS level.
 
+### 💸 [NoteSLAYER](https://note-slayer.com/) - 55% OFF Lifetime and other plans, use BLACKBLACK24
+
+Note SLAYER: Advanced note-taking & task management for Desktop(Linux, Windows and MacOS).
+
 <p>&nbsp;</p>
 
 ## Video Software
