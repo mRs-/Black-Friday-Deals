@@ -199,6 +199,10 @@ An AI writing assistant that is perfect for everyday use. It can seamlessly work
 
 Braindump your thoughts - It turns your stream of thoughts from speech into well-structured written text ✨
 
+### 💸 [Capture - Quick Notes](https://apps.apple.com/app/apple-store/id6458535284?pt=118518712&ct=github&mt=8) - 50% OFF Lifetime
+
+Easily capture your thoughts & ideas on iOS, macOS & visionOS.
+
 <p>&nbsp;</p>
 
 ## Video Software
