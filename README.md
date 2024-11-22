@@ -154,6 +154,10 @@ Your Personal AI Workspace. Frontend for ChatGPT, Claude, Gemini to use with you
 
 Currency calculator for traveler.
 
+### 💸 [FileMinutes](https://www.fileminutes.com) - 50% OFF with code BF2024
+
+FileMinutes simplifies file handling on your Mac with fast search, easy navigation, and file actions in one app.
+
 <p>&nbsp;</p>
 
 ## 📌 Productivity Software
@@ -258,6 +262,15 @@ Supercharged Windows & Tabs Manager for the Mac. TabTab aims to replace ⌘Comma
 
 Time tracking for Mac without toggling timers. 5-star rated by thousands of professionals globally.
 
+### 💸 [PaletteBrain 3](https://www.palettebrain.com/?utm_source=github&utm_medium_social&utm_campaign=bf2024&utm_content=mrs) - Lifetime Family Plan 51% OFF with code **LASTLTDBF51**
+
+Access the power of ChatGPT across all your macOS apps with the press of a shortcut. Stop wasting time switching between windows and copying-pasting texts.
+
+### 💸 [Focu - Mindful Productivity](https://focu.app) - 50% OFF Lifetime
+
+Mindful productivity app with your own locally running AI, helpful for planning, procrastination, distractions, emotions and thoughts.
+
+
 <p>&nbsp;</p>
 
 ## Video Software
@@ -304,6 +317,9 @@ macOS app for effortless batch resizing and editing of images.
 
 macOS app for redacting sensitive information from images effortlessly.
 
+### 💸 [Affinity Photo/Designer/Publisher](https://affinity.serif.com/en-us/) - 50% each, one time purchase
+
+macOS, Windows, and iOS photo editing, illustration editing, and page layout products.
 
 ### 📷 [Darkroom](https://darkroom.co/blog/2024-11-15-black-friday) - 50% OFF First Year, Nov 15 -  Dec 3
 
@@ -332,6 +348,10 @@ Reliable and customisable weather forecasts, incl. tides, waves and altitudes / 
 ### 💸 [Thoughts - Quotes Manager](https://apps.apple.com/app/thoughts-inspiration-manager/id6444917751) - 50% OFF on Lifetime License
 
 Remember what inspires you with Thoughts. Save and organize your quotes, thoughts, lessons learned, etc. and review them in a feed of your inspirations and in widgets.
+
+### 💸 [HammerAI](https://www.hammerai.com) - 50% OFF
+
+Private character chat app and story writer - either run models locally with Ollama, or use our cloud-hosted models. 50% OFF with code **BZAOH18**.
 
 <p>&nbsp;</p>
 
