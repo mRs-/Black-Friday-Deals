@@ -290,6 +290,9 @@ Cuts out the pauses automatically for you, creating an instant rough cut. Speed 
 
 macOS app for recording your face directly into your videos. Loom but with 1 time payment.
 
+### 💰 [Loomos](https://loomos.co) ~ 50% OFF till BLACK FRIDAY
+
+Transform boring screen recordings into studio-quality videos in single click. Remove all the 'uhms', translate to 20+ languages
 <p>&nbsp;</p>
 
 ## 🎨 Graphic Software
