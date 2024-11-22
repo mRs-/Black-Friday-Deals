@@ -68,6 +68,23 @@ A plain text editor with syntax highlighting, line numbers, search and replace, 
 ### 💰 [DevUtils](https://devutils.com) - 50% OFF, BLACKFRIDAY_2024
 
 All-in-one toolbox for developers. 42+ carefully crafted developer tools. Native macOS app, fast & beautiful. Work offline, and respect your data. Fully supports Apple Silicon & macOS Ventura.
+
+### 💸 [StoreReviewKit](https://apps.apple.com/app/apple-store/id6670761635?pt=594185&ct=mrs-bf&mt=8) - 50% OFF, valid through Dec 3
+
+Read and respond to App Store reviews without language boundaries.
+
+### 💸 [LocalizeBot](https://apps.apple.com/app/apple-store/id6448173982?pt=594185&ct=mrs-bf&mt=8) - 50% OFF, valid through Dec 3
+
+Translate your app in 1 click. Localize Xliff and Xcloc files.
+
+### 💸 [Localization Buddy](https://apps.apple.com/app/apple-store/id6503285923?pt=594185&ct=mrs-bf&mt=8) - 50% OFF, valid through Dec 3
+
+Easiest way to localize and update App Store metadata.
+
+### 💰 [Screenshot Studio](https://apps.apple.com/app/apple-store/id6473832582?pt=594185&ct=mrs-bf&mt=8) - 30% OFF, valid through Dec 3 
+
+Create App Store screenshots in minutes not hours.
+
 <p>&nbsp;</p>
 
 ## :tophat: Security Software
@@ -132,6 +149,10 @@ Easy view of up to 5 different timezones in your menubar.
 ### 💸 [TypingMind](https://typingmind.com) - 55% OFF Lifetime for Premium plan, BLACKFRIDAY2024
 
 Your Personal AI Workspace. Frontend for ChatGPT, Claude, Gemini to use with your API key. Support Artifact, Projects, Vision, Canvas, AI agents builder, DALL-E, Plugins, etc.
+
+### 💸 [Matcha](https://apps.apple.com/app/apple-store/id6504923811?pt=594185&ct=mrs-bf&mt=8) - 50% OFF, valid through Dec 3
+
+Currency calculator for traveler.
 
 <p>&nbsp;</p>
 
@@ -221,6 +242,13 @@ Easily capture your thoughts & ideas on iOS, macOS & visionOS.
 
 Chat with AI on an Infinite Canvas. Connect multiple chats on the canvas to share context. Change models for each chat. Add images, PDFs, and more to the canvas and chat with them.
 
+### 💸 [Offline privacy transcription](https://apps.apple.com/app/apple-store/id6465955389?pt=594185&ct=mrs-bf&mt=8) - 50% OFF, valid through Dec 3
+
+Fast, privacy-focus way to transcribe audio, video, and podcast files.
+
+### 💸 [Note Taking - Voice Photo Memo](https://apps.apple.com/app/apple-store/id6479198427?pt=594185&ct=mrs-bf&mt=8) - 50% OFF, valid through Dec 3
+
+Write it, Speak it, Snap it – Your Notes, Your Way.
 
 <p>&nbsp;</p>
 
