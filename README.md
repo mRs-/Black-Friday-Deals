@@ -359,6 +359,10 @@ Aikeedo is a ready-made PHP software with customizable features to launch your A
 
 * From November 20th to December 5th, we're offering exclusive discounts that decrease by 1% each day—starting at an incredible 50% OFF on Day 1 and ending with 35% OFF on the final day. 
 
+### 🚀 [Microlaunch](https://microlaunch.net/premium) - 20% OFF Pro Launches with the code BLACKFRIDAY2024, Nov 20 - Dec 4
+
+Launch, Get Exposure and First Sales.
+
 <p>&nbsp;</p>
 
 ## 🏃🏻‍♀️ Health & Fitness Software
