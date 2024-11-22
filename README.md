@@ -158,6 +158,10 @@ Currency calculator for traveler.
 
 FileMinutes simplifies file handling on your Mac with fast search, easy navigation, and file actions in one app.
 
+### 💰� [Cursor Teleporter](https://www.apptorium.com/cursor-teleporter) - Lifetime 50% OFF
+
+Teleport your cursor across your displays
+
 <p>&nbsp;</p>
 
 ## 📌 Productivity Software
@@ -270,6 +274,17 @@ Access the power of ChatGPT across all your macOS apps with the press of a short
 
 Mindful productivity app with your own locally running AI, helpful for planning, procrastination, distractions, emotions and thoughts.
 
+### 💸 [SideNotes](https://www.apptorium.com/sidenotes) - Lifetime 40% OFF
+
+SideNotes keeps your notes on the side of the screen. Appears when you click a little bar or move your cursor to the screen side.
+
+### 💰 [Workspaces](https://www.apptorium.com/workspaces) - Lifetime 50% OFF
+
+Project-based launcher that opens your files, folders, websites, apps etc. with one click.
+
+### 💸 [FiveNotes](https://www.apptorium.com/fivenotes) - Lifetime 37% OFF
+
+Five quick notes in your Menubar.
 
 <p>&nbsp;</p>
 
