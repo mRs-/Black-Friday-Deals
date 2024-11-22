@@ -158,6 +158,10 @@ Currency calculator for traveler.
 
 FileMinutes simplifies file handling on your Mac with fast search, easy navigation, and file actions in one app.
 
+### 💸 [XGetter](https://xgetter.com/?utm_source=aw_bf2024_2) - 60% OFF with code BLACKFRIDAY2024
+
+Cross-platform media downloader - allows to download media from over 50+ platforms, likes YouTube, X, Facebook, Instagram, TikTok, Youku, QQ, Weibo,...
+
 <p>&nbsp;</p>
 
 ## 📌 Productivity Software
