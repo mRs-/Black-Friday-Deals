@@ -270,6 +270,10 @@ Access the power of ChatGPT across all your macOS apps with the press of a short
 
 Mindful productivity app with your own locally running AI, helpful for planning, procrastination, distractions, emotions and thoughts.
 
+### 💸 [screenpipe](https://screenpi.pe) - 30% OFF Lifetime
+
+AI assistant that has all the context
+screenpipe captures your computer while you work - including your meetings - letting you go back to any moment in an instant
 
 <p>&nbsp;</p>
 
