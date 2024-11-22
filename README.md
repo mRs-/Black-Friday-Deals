@@ -451,6 +451,10 @@ Track your subscriptions in one place across all your Apple devices and get noti
 
 A standalone spreadsheet to track your net worth and prepare for financial freedom.
 
+### 💰 [Ghostfolio](https://ghostfol.io/en/blog/2024/11/black-weeks-2024) - 25% OFF + plus 3 months extra
+
+Ghostfolio is a privacy-first, open source dashboard for your personal finances. Designed to simplify asset tracking and empower informed investment decisions.
+
 ## 🗺️ Navigation
 ### 🚘 [EV Charge Stations Map](https://apple.co/3NWejUz) - Lifetime 66% OFF, Nov 20 - Dec 2
 
