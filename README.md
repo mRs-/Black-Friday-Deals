@@ -222,6 +222,10 @@ Generate Video Shorts locally without any subscriptions. Comes with Full source 
 
 Cuts out the pauses automatically for you, creating an instant rough cut. Speed up your video production!
 
+### 💰 [FaceCam](https://gracehuang.gumroad.com/l/facecam/BLACKFRIDAY24) ~ 40% OFF the one time purchase
+
+macOS app for recording your face directly into your videos. Loom but with 1 time payment.
+
 <p>&nbsp;</p>
 
 ## 🎨 Graphic Software
@@ -237,11 +241,19 @@ Create Custom Designs on Your Apple TV. The fastest way to instantly create digi
 
 Formerly known as Sparkle, build the website you always wanted, visually, on your Mac.
 
-<p>&nbsp;</p>
-
 ### 💰 [Inspotype](https://www.inspotype.com?ref=github2) - 20% OFF of LIFETIME license with code **BLACKFRIDAY2024**
 
 Build brands in a blink. For product makers, designers, productivized designers and design agencies.
+
+### 💰 [ResizeGenius](https://gracehuang.gumroad.com/l/resizegenius/BLACKFRIDAY24) ~ 40% OFF the one time purchase
+
+macOS app for effortless batch resizing and editing of images.
+
+### 💰 [Redact](https://gracehuang.gumroad.com/l/redact/BLACKFRIDAY24) ~ 40% OFF the one time purchase
+
+macOS app for redacting sensitive information from images effortlessly.
+
+<p>&nbsp;</p>
 
 
 ## 🏝️ Lifestyle
@@ -289,6 +301,12 @@ Native ChatPDF app for Mac.
 ### 💸 [The Swift Platform Pack (includes six books)](https://gumroad.com/l/swift-platform-pack/blackfriday24) - 50% OFF
 ### 💸 [The Swift Plus Pack (includes seven books)](https://gumroad.com/l/swift-plus-pack/blackfriday24) - 50% OFF
 ### 💰 [Modern Auto Layout (9th edition)](https://useyourloaf.com/autolayout/) - 20% OFF
+### 💰 [macOS App Development: The SwiftUI Way](https://gracehuang.gumroad.com/l/macos-app-dev-swiftui/BLACKFRIDAY24) - 40% OFF
+### 💰 [Nail A Coding Interview: Six-Step Mental Framework, Second Edition](https://gracehuang.gumroad.com/l/coding-interview/BLACKFRIDAY24) - 40% OFF
+### 💰 [Code Reviews in Tech: The Missing Guide](https://gracehuang.gumroad.com/l/codereviews/BLACKFRIDAY24) - 40% OFF
+### 💰 [A Practical Guide to Writing a Software Technical Design Document](https://gracehuang.gumroad.com/l/mqmUt/BLACKFRIDAY24) - 40% OFF
+### 💰 [Dynamic Trio: Building Web Applications with React, Next.js & Tailwind](https://gracehuang.gumroad.com/l/dynamic-trio/BLACKFRIDAY24) - 40% OFF
+### 💰 [Optimizing The 4% Rule: How to Build, Backtest, and Manage a Financial Independence Portfolio](https://gracehuang.gumroad.com/l/4percentrule/BLACKFRIDAY24) - 40% OFF
 
 <p>&nbsp;</p>
 
@@ -300,6 +318,10 @@ Learn Linux, DevOps & Cybersecurity with Hands-on Labs.
 ### 💸 [From Side Project to Going Indie Course](https://courses.avanderlee.com/p/from-side-project-to-going-indie?coupon_code=BLACKFRIDAY50&product_id=5860309) - 50% OFF with code **BLACKFRIDAY50**, Nov 15 - Nov 30
 
 Turn your passion into independence.
+
+### 💰 [Getting Started: macOS apps with SwiftUI](https://gracehuang.gumroad.com/l/course-macos-swiftui/BLACKFRIDAY24) - 40% OFF
+
+Learn SwiftUI for macOS development.
 
 <p>&nbsp;</p>
 
@@ -328,7 +350,9 @@ The simple app to build good habits, break bad habits, and achieve greatness! Av
 <p>&nbsp;</p>
 
 ## 🎁 Bundles
-### 💰 [Example](https://example.com) - Product Description - Deal details
+### 💰 [Books for Software Engineers at Work](https://gracehuang.gumroad.com/l/engineering-books/BLACKFRIDAY24) - 40% OFF
+
+A bundle of 3 engineering books.
 
 <p>&nbsp;</p>
 
@@ -344,6 +368,10 @@ Track mileage and expenses for all your vehicles. Available for iOS, iPadOS, and
 ### 💸 [SubManager](https://apps.apple.com/app/submanager-subscription-list/id1632853914) - Lifetime 80% OFF, Nov 29 - Dec 2
 
 Track your subscriptions in one place across all your Apple devices and get notified before a subscription is renewed. SubManager also provides powerful insights and widgets to keep you updated on your monthly spending. With no ads and a privacy-friendly approach, it’s an excellent tool to have in today’s subscription-heavy world.
+
+### 💰 [Know Your Numbers: Personal & Family Net Worth Tracker](https://gracehuang.gumroad.com/l/networth/BLACKFRIDAY24) - 40% OFF
+
+A standalone spreadsheet to track your net worth and prepare for financial freedom.
 
 ## 🗺️ Navigation
 ### 🚘 [EV Charge Stations Map](https://apple.co/3NWejUz) - Lifetime 66% OFF, Nov 20 - Dec 2
