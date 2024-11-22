@@ -217,6 +217,11 @@ Braindump your thoughts - It turns your stream of thoughts from speech into well
 
 Easily capture your thoughts & ideas on iOS, macOS & visionOS.
 
+### 💸 [RabbitHolesAI](https://www.rabbitholes.ai/?ref=bfdeals) - 30% OFF with code **BLACKFRIDAY** (till Dec 2) 
+
+Chat with AI on an Infinite Canvas. Connect multiple chats on the canvas to share context. Change models for each chat. Add images, PDFs, and more to the canvas and chat with them.
+
+
 <p>&nbsp;</p>
 
 ## Video Software
