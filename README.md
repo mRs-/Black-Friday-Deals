@@ -68,6 +68,23 @@ A plain text editor with syntax highlighting, line numbers, search and replace, 
 ### 💰 [DevUtils](https://devutils.com) - 50% OFF, BLACKFRIDAY_2024
 
 All-in-one toolbox for developers. 42+ carefully crafted developer tools. Native macOS app, fast & beautiful. Work offline, and respect your data. Fully supports Apple Silicon & macOS Ventura.
+
+### 💸 [StoreReviewKit](https://apps.apple.com/app/apple-store/id6670761635?pt=594185&ct=mrs-bf&mt=8) - 50% OFF, valid through Dec 3
+
+Read and respond to App Store reviews without language boundaries.
+
+### 💸 [LocalizeBot](https://apps.apple.com/app/apple-store/id6448173982?pt=594185&ct=mrs-bf&mt=8) - 50% OFF, valid through Dec 3
+
+Translate your app in 1 click. Localize Xliff and Xcloc files.
+
+### 💸 [Localization Buddy](https://apps.apple.com/app/apple-store/id6503285923?pt=594185&ct=mrs-bf&mt=8) - 50% OFF, valid through Dec 3
+
+Easiest way to localize and update App Store metadata.
+
+### 💰 [Screenshot Studio](https://apps.apple.com/app/apple-store/id6473832582?pt=594185&ct=mrs-bf&mt=8) - 30% OFF, valid through Dec 3 
+
+Create App Store screenshots in minutes not hours.
+
 <p>&nbsp;</p>
 
 ## :tophat: Security Software
@@ -133,6 +150,10 @@ Easy view of up to 5 different timezones in your menubar.
 
 Your Personal AI Workspace. Frontend for ChatGPT, Claude, Gemini to use with your API key. Support Artifact, Projects, Vision, Canvas, AI agents builder, DALL-E, Plugins, etc.
 
+### 💸 [Matcha](https://apps.apple.com/app/apple-store/id6504923811?pt=594185&ct=mrs-bf&mt=8) - 50% OFF, valid through Dec 3
+
+Currency calculator for traveler.
+
 <p>&nbsp;</p>
 
 ## 📌 Productivity Software
@@ -197,7 +218,7 @@ A powerful inventory tracker app for home and business, available on iOS and iPa
 
 Small search engine without the fluff.
 
-### 💸 [Milestones - Project Management]([https://apps.apple.com/us/app/project-planner-milestones/id6737195092) - 50% OFF all plans, including lifetime, no code needed
+### 💸 [Milestones - Project Management](https://apps.apple.com/us/app/project-planner-milestones/id6737195092) - 50% OFF all plans, including lifetime, no code needed
 
 Divide projects into milestones and track your progress, the ideal app for indie developers, made by an indie developer
 
@@ -221,10 +242,25 @@ Easily capture your thoughts & ideas on iOS, macOS & visionOS.
 
 Chat with AI on an Infinite Canvas. Connect multiple chats on the canvas to share context. Change models for each chat. Add images, PDFs, and more to the canvas and chat with them.
 
+### 💸 [Offline privacy transcription](https://apps.apple.com/app/apple-store/id6465955389?pt=594185&ct=mrs-bf&mt=8) - 50% OFF, valid through Dec 3
+
+Fast, privacy-focus way to transcribe audio, video, and podcast files.
+
+### 💸 [Note Taking - Voice Photo Memo](https://apps.apple.com/app/apple-store/id6479198427?pt=594185&ct=mrs-bf&mt=8) - 50% OFF, valid through Dec 3
+
+Write it, Speak it, Snap it – Your Notes, Your Way.
+
+### 💰 [TabTab](https://tabtabapp.net/) - 30% OFF One Time Purchase with code **TABTABLAUNCH**
+
+Supercharged Windows & Tabs Manager for the Mac. TabTab aims to replace ⌘Command+Tab by making it easy to manage windows and tabs across your Mac apps at the OS level.
+
+### 💸 [PaletteBrain 3](https://www.palettebrain.com/?utm_source=github&utm_medium_social&utm_campaign=bf2024&utm_content=mrs) - Lifetime Family Plan 51% OFF with code **LASTLTDBF51**
+
+Access the power of ChatGPT across all your macOS apps with the press of a shortcut. Stop wasting time switching between windows and copying-pasting texts.
+
 ### 💸 [Focu - Mindful Productivity](https://focu.app) - 50% OFF Lifetime
 
 Mindful productivity app with your own locally running AI, helpful for planning, procrastination, distractions, emotions and thoughts.
-
 
 <p>&nbsp;</p>
 
@@ -272,6 +308,11 @@ macOS app for effortless batch resizing and editing of images.
 
 macOS app for redacting sensitive information from images effortlessly.
 
+
+### 📷 [Darkroom](https://darkroom.co/blog/2024-11-15-black-friday) - 50% OFF First Year, Nov 15 -  Dec 3
+
+Photo & Video Editing for iPhone, Mac, iPad and Vision Pro. Apple Design Award winning, premium creative app designed for creators who value workflow speed, simplicity, and power.
+
 <p>&nbsp;</p>
 
 
@@ -302,11 +343,6 @@ Remember what inspires you with Thoughts. Save and organize your quotes, thought
 ### 💰 [Subreddit tracker](https://subreddittraffic.live/) - 30% OFF lifetime |Use code **BLACKFRIDAY2024** 
 
 Reach maximum Reddit traffic by finding the best times to post. Track 400+ subreddits activity and optimize your posting schedule to increase your brand awareness and traffic.  
-
-
-
-
-
 
 
 <p>&nbsp;</p>
@@ -362,6 +398,10 @@ Track your App Store sales, subscribers, downloads, and more.
 Aikeedo is a ready-made PHP software with customizable features to launch your AI SaaS business quickly and generate revenue fast.
 
 * From November 20th to December 5th, we're offering exclusive discounts that decrease by 1% each day—starting at an incredible 50% OFF on Day 1 and ending with 35% OFF on the final day. 
+
+### 🚀 [Microlaunch](https://microlaunch.net/premium) - 20% OFF Pro Launches with the code BLACKFRIDAY2024, Nov 20 - Dec 4
+
+Launch, Get Exposure and First Sales.
 
 <p>&nbsp;</p>
 
