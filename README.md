@@ -273,6 +273,10 @@ Make Your TV a Mood Lamp. Transform your space with the Mood Lights Apple TV app
 
 Reliable and customisable weather forecasts, incl. tides, waves and altitudes / Available for iOS and Android / 40% OFF PERMANENTLY on Annual Enthusiast Subscription / Offer available from within the app
 
+### 💸 [Thoughts - Quotes Manager](https://apps.apple.com/app/thoughts-inspiration-manager/id6444917751) - 50% OFF on Lifetime License
+
+Remember what inspires you with Thoughts. Save and organize your quotes, thoughts, lessons learned, etc. and review them in a feed of your inspirations and in widgets.
+
 <p>&nbsp;</p>
 
 ## 🗣️ Social
