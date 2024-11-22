@@ -341,6 +341,10 @@ Reliable and customisable weather forecasts, incl. tides, waves and altitudes / 
 
 Remember what inspires you with Thoughts. Save and organize your quotes, thoughts, lessons learned, etc. and review them in a feed of your inspirations and in widgets.
 
+### 💸 [HammerAI](https://www.hammerai.com) - 50% OFF
+
+Private character chat app and story writer - either run models locally with Ollama, or use our cloud-hosted models. 50% OFF with code **BZAOH18**.
+
 <p>&nbsp;</p>
 
 ## 🗣️ Social
