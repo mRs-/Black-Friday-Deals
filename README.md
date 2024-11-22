@@ -154,6 +154,10 @@ Your Personal AI Workspace. Frontend for ChatGPT, Claude, Gemini to use with you
 
 Currency calculator for traveler.
 
+### 💸 [FileMinutes](https://www.fileminutes.com) - 50% OFF with code BF2024
+
+FileMinutes simplifies file handling on your Mac with fast search, easy navigation, and file actions in one app.
+
 <p>&nbsp;</p>
 
 ## 📌 Productivity Software
