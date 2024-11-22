@@ -85,6 +85,10 @@ Easiest way to localize and update App Store metadata.
 
 Create App Store screenshots in minutes not hours.
 
+### 💸 [Picasso: App Store Screenshots](https://apps.apple.com/app/apple-store/id6472062986?pt=972586&ct=Black-Friday-Deals-GitHub&mt=8) - 50% OFF Lifetime Pass, valid through Dec 3
+
+Take the headache out of App Store Screenshots with full device support, localization, and direct upload to App Store Connect.
+
 <p>&nbsp;</p>
 
 ## :tophat: Security Software
