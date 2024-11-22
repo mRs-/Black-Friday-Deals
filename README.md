@@ -382,6 +382,8 @@ Native ChatPDF app for Mac.
 ### 💰 [A Practical Guide to Writing a Software Technical Design Document](https://gracehuang.gumroad.com/l/mqmUt/BLACKFRIDAY24) - 40% OFF
 ### 💰 [Dynamic Trio: Building Web Applications with React, Next.js & Tailwind](https://gracehuang.gumroad.com/l/dynamic-trio/BLACKFRIDAY24) - 40% OFF
 ### 💰 [Optimizing The 4% Rule: How to Build, Backtest, and Manage a Financial Independence Portfolio](https://gracehuang.gumroad.com/l/4percentrule/BLACKFRIDAY24) - 40% OFF
+### 💰 [Swift Gems: 100+ tips to take your Swift code to the next level](https://books.nilcoalescing.com/swift-gems) - 30% OFF
+### 💰 [Integrating SwiftUI into UIKit Apps](https://books.nilcoalescing.com/integrating-swiftui) - 30% OFF
 
 <p>&nbsp;</p>
 
@@ -436,6 +438,10 @@ Calorific is a nutrition app that lets users log meals by photo and uses artific
 ### 💰 [Books for Software Engineers at Work](https://gracehuang.gumroad.com/l/engineering-books/BLACKFRIDAY24) - 40% OFF
 
 A bundle of 3 engineering books.
+
+### 💰 [Books for Swift and SwiftUI developers](https://books.nilcoalescing.com) - 30% OFF
+
+A bundle of 2 books: Integrating SwiftUI into UIKit Apps and Swift Gems.
 
 <p>&nbsp;</p>
 
