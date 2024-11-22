@@ -258,6 +258,10 @@ Supercharged Windows & Tabs Manager for the Mac. TabTab aims to replace ⌘Comma
 
 Access the power of ChatGPT across all your macOS apps with the press of a shortcut. Stop wasting time switching between windows and copying-pasting texts.
 
+### 💸 [Focu - Mindful Productivity](https://focu.app) - 50% OFF Lifetime
+
+Mindful productivity app with your own locally running AI, helpful for planning, procrastination, distractions, emotions and thoughts.
+
 <p>&nbsp;</p>
 
 ## Video Software
