@@ -382,6 +382,7 @@ Native ChatPDF app for Mac.
 ### 💰 [A Practical Guide to Writing a Software Technical Design Document](https://gracehuang.gumroad.com/l/mqmUt/BLACKFRIDAY24) - 40% OFF
 ### 💰 [Dynamic Trio: Building Web Applications with React, Next.js & Tailwind](https://gracehuang.gumroad.com/l/dynamic-trio/BLACKFRIDAY24) - 40% OFF
 ### 💰 [Optimizing The 4% Rule: How to Build, Backtest, and Manage a Financial Independence Portfolio](https://gracehuang.gumroad.com/l/4percentrule/BLACKFRIDAY24) - 40% OFF
+### 💰 [Mobile System Design](https://www.mobilesystemdesign.com) - 25% OFF
 
 <p>&nbsp;</p>
 
