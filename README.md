@@ -254,6 +254,10 @@ Write it, Speak it, Snap it – Your Notes, Your Way.
 
 Supercharged Windows & Tabs Manager for the Mac. TabTab aims to replace ⌘Command+Tab by making it easy to manage windows and tabs across your Mac apps at the OS level.
 
+### 💰 [Daily Time Tracking](https://dailytimetracking.com?utm_source=mrs) - 30% discount on lifetime and annual licenses.
+
+Time tracking for Mac without toggling timers. 5-star rated by thousands of professionals globally.
+
 <p>&nbsp;</p>
 
 ## Video Software
