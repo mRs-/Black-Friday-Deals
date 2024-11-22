@@ -268,6 +268,11 @@ macOS app for effortless batch resizing and editing of images.
 
 macOS app for redacting sensitive information from images effortlessly.
 
+
+### 📷 [Darkroom](https://darkroom.co/blog/2024-11-15-black-friday) - 50% OFF First Year, Nov 15 -  Dec 3
+
+Photo & Video Editing for iPhone, Mac, iPad and Vision Pro. Apple Design Award winning, premium creative app designed for creators who value workflow speed, simplicity, and power.
+
 <p>&nbsp;</p>
 
 
@@ -298,11 +303,6 @@ Remember what inspires you with Thoughts. Save and organize your quotes, thought
 ### 💰 [Subreddit tracker](https://subreddittraffic.live/) - 30% OFF lifetime |Use code **BLACKFRIDAY2024** 
 
 Reach maximum Reddit traffic by finding the best times to post. Track 400+ subreddits activity and optimize your posting schedule to increase your brand awareness and traffic.  
-
-
-
-
-
 
 
 <p>&nbsp;</p>
