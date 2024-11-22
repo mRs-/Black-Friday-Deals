@@ -250,6 +250,10 @@ Fast, privacy-focus way to transcribe audio, video, and podcast files.
 
 Write it, Speak it, Snap it – Your Notes, Your Way.
 
+### 💰 [TabTab](https://tabtabapp.net/) - 30% OFF One Time Purchase with code **TABTABLAUNCH**
+
+Supercharged Windows & Tabs Manager for the Mac. TabTab aims to replace ⌘Command+Tab by making it easy to manage windows and tabs across your Mac apps at the OS level.
+
 <p>&nbsp;</p>
 
 ## Video Software
