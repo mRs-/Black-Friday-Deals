@@ -312,6 +312,9 @@ macOS app for effortless batch resizing and editing of images.
 
 macOS app for redacting sensitive information from images effortlessly.
 
+### 💸 [Affinity Photo/Designer/Publisher](https://affinity.serif.com/en-us/) - 50% each, one time purchase
+
+macOS, Windows, and iOS photo editing, illustration editing, and page layout products.
 
 ### 📷 [Darkroom](https://darkroom.co/blog/2024-11-15-black-friday) - 50% OFF First Year, Nov 15 -  Dec 3
 
