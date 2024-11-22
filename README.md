@@ -61,6 +61,13 @@ The world's most powerful file comparison and merge app, with deep git integrati
 
 Powerful SSH terminal and SFTP file access for iOS & Mac.
 
+### 💸 [Runestone Text Editor](https://apps.apple.com/us/app/runestone-editor/id1548193893) - 50% off Premium, Nov 29 - Dec 2
+
+A plain text editor with syntax highlighting, line numbers, search and replace, page guide, and much more. It's like TextEdit but more powerful and optimised for iPhone and iPad.
+
+### 💰 [DevUtils](https://devutils.com) - 50% OFF, BLACKFRIDAY_2024
+
+All-in-one toolbox for developers. 42+ carefully crafted developer tools. Native macOS app, fast & beautiful. Work offline, and respect your data. Fully supports Apple Silicon & macOS Ventura.
 <p>&nbsp;</p>
 
 ## :tophat: Security Software
@@ -102,12 +109,45 @@ View & edit CSV, JSON files for Pros
 
 An easy to use but powerful macOS app to run things automatically.
 
+### 💰 [SMBAct](https://www.smbact.com) - 30% off with code **BF2024** until Dec 21st
+
+Cross-platform window manager and switcher.
+
+### 💰 [SupaSend iOS](https://supasend.app/) - Lifetime 50% OFF
+
+Quickly capture your notes instantly in your second brain apps 🧠
+
+### 💰 [Spaces for macOS](https://spacesformac.xyz) - Lifetime 35% off
+
+Declutter & organize your workspace on macOS in one single click 🎊
+
+### 💰 [Zen mode for macOS](https://zenmode.app) - Lifetime 40% off
+
+Avoid those awkward moments in public places or in presentation meetings in 1-click
+
+### 💰 [Clockzones - Timeszones Menubar Widget](https://apps.apple.com/app/clockzones/id6737234391) - 50% OFF Lifetime - No code needed
+
+Easy view of up to 5 different timezones in your menubar.
+
+### 💸 [TypingMind](https://typingmind.com) - 55% OFF Lifetime for Premium plan, BLACKFRIDAY2024
+
+Your Personal AI Workspace. Frontend for ChatGPT, Claude, Gemini to use with your API key. Support Artifact, Projects, Vision, Canvas, AI agents builder, DALL-E, Plugins, etc.
+
 <p>&nbsp;</p>
 
 ## 📌 Productivity Software
+### 💸 [Quick Capture - Obsidian iOS](https://quickcaptureobsidian.app/) - Lifetime 50% OFF 
+
+Send anything to any vault in Obsidian 10x faster
+
+Access all AI models in one native Mac app: Advanced Voice Mode, Document Analysis, AI Plugins, and more.
 ### 💸 [BoltAI](https://boltai.com?ref=bfdeals) - 30% OFF with code **BFCM2024**
 
 Access all AI models in one native Mac app: Advanced Voice Mode, Document Analysis, AI Plugins, and more.
+
+### 💰 [CalGet](https://calget.com) - 30% OFF on All Annual Plans with code **BLACKFRIDAY2024**
+
+CalGet is a platform that simplifies event management by generating shareable “Add to Calendar” links, collecting RSVPs, and embedding customizable calendars on websites.
 
 ### 💰 [CleanClip](https://cleanclip.cc?ref=bfdeals) - 30% OFF on all multi-device plans with code **BF2024**
 
@@ -137,6 +177,10 @@ Manage, organize, and execute perfect meetings effortlessly, right from your Mac
 
 Fancy ChatGPT with appsuite. Supports OpenAI, OpenRouter, Claude, Gemini and more
 
+### 💸 [DeskRest](https://deskrest.app/offers) - 70% OFF with code **BLACKFRIDAY70**
+
+A Mac app that enhances productivity through customizable break and posture reminders to improve work habits.
+
 ### 💸 [Taskheat](https://eyen.fr/taskheat/) - 70% OFF the Full Version
 
 Innovative to-do app that uses flowcharts to define and visualize dependencies between tasks.
@@ -149,9 +193,34 @@ Advanced student planner app to keep track of timetables, homework and grades.
 
 A powerful inventory tracker app for home and business, available on iOS and iPadOS (with macOS support coming soon). Easily organize, categorize, and locate items in seconds. 
 
+### 💰 [kgrep](https://kgrep.com) - 10% OFF with code **FRIYAY** on Stripe
+
+Small search engine without the fluff.
+
+### 💸 [Milestones - Project Management]([https://apps.apple.com/us/app/project-planner-milestones/id6737195092) - 50% OFF all plans, including lifetime, no code needed
+
+Divide projects into milestones and track your progress, the ideal app for indie developers, made by an indie developer
+
+### 💸 [Writers brew macOS](https://writersbrew.app) - Lifetime 40% OFF
+
+An AI writing assistant that is perfect for everyday use. It can seamlessly work across your apps.
+
+### 💸 [Audio Writer](https://audiowriter.app) - Lifetime 40% OFF
+
+### 💸 [Mango - Twilio Calls & SMS](https://itsok.xyz/bfdealNghiaTranUIT) - 50% OFF on the App Store, no code needed
+
+A Calling and Texting app for Small Businesses. Keep Business And Personal Life Separate.
+ 
+Braindump your thoughts - It turns your stream of thoughts from speech into well-structured written text ✨
+
+### 💸 [Capture - Quick Notes](https://apps.apple.com/app/apple-store/id6458535284?pt=118518712&ct=github&mt=8) - 50% OFF Lifetime
+
+Easily capture your thoughts & ideas on iOS, macOS & visionOS.
+
 ### 💸 [RabbitHolesAI](https://www.rabbitholes.ai/?ref=bfdeals) - 30% OFF with code **BLACKFRIDAY** (till Dec 2) 
 
 Chat with AI on an Infinite Canvas. Connect multiple chats on the canvas to share context. Change models for each chat. Add images, PDFs, and more to the canvas and chat with them.
+
 
 <p>&nbsp;</p>
 
@@ -163,6 +232,14 @@ Live camera preview on your screen.
 ### 💰 [🎬 Video Short Generator](https://harishgarg.gumroad.com/l/vxolwd/yqfeq2r) ~ 30% OFF on the one time purchase
 
 Generate Video Shorts locally without any subscriptions. Comes with Full source code.
+
+### 💰 [Recut](https://getrecut.com) ~ $50 OFF the one time purchase
+
+Cuts out the pauses automatically for you, creating an instant rough cut. Speed up your video production!
+
+### 💰 [FaceCam](https://gracehuang.gumroad.com/l/facecam/BLACKFRIDAY24) ~ 40% OFF the one time purchase
+
+macOS app for recording your face directly into your videos. Loom but with 1 time payment.
 
 <p>&nbsp;</p>
 
@@ -179,7 +256,20 @@ Create Custom Designs on Your Apple TV. The fastest way to instantly create digi
 
 Formerly known as Sparkle, build the website you always wanted, visually, on your Mac.
 
+### 💰 [Inspotype](https://www.inspotype.com?ref=github2) - 20% OFF of LIFETIME license with code **BLACKFRIDAY2024**
+
+Build brands in a blink. For product makers, designers, productivized designers and design agencies.
+
+### 💰 [ResizeGenius](https://gracehuang.gumroad.com/l/resizegenius/BLACKFRIDAY24) ~ 40% OFF the one time purchase
+
+macOS app for effortless batch resizing and editing of images.
+
+### 💰 [Redact](https://gracehuang.gumroad.com/l/redact/BLACKFRIDAY24) ~ 40% OFF the one time purchase
+
+macOS app for redacting sensitive information from images effortlessly.
+
 <p>&nbsp;</p>
+
 
 ## 🏝️ Lifestyle
 ### 💸 [Digital Photo Frame App](https://www.digitalphotoframeapp.com) - 50% OFF YEARLY Plan, Nov 29 - Dec 2
@@ -198,10 +288,22 @@ Make Your TV a Mood Lamp. Transform your space with the Mood Lights Apple TV app
 
 Reliable and customisable weather forecasts, incl. tides, waves and altitudes / Available for iOS and Android / 40% OFF PERMANENTLY on Annual Enthusiast Subscription / Offer available from within the app
 
+### 💸 [Thoughts - Quotes Manager](https://apps.apple.com/app/thoughts-inspiration-manager/id6444917751) - 50% OFF on Lifetime License
+
+Remember what inspires you with Thoughts. Save and organize your quotes, thoughts, lessons learned, etc. and review them in a feed of your inspirations and in widgets.
+
 <p>&nbsp;</p>
 
 ## 🗣️ Social
-### 💰 [Example](https://example.com) - Product Description - Deal details
+### 💰 [Subreddit tracker](https://subreddittraffic.live/) - 30% OFF lifetime |Use code **BLACKFRIDAY2024** 
+
+Reach maximum Reddit traffic by finding the best times to post. Track 400+ subreddits activity and optimize your posting schedule to increase your brand awareness and traffic.  
+
+
+
+
+
+
 
 <p>&nbsp;</p>
 
@@ -218,6 +320,12 @@ Native ChatPDF app for Mac.
 ### 💸 [The Swift Platform Pack (includes six books)](https://gumroad.com/l/swift-platform-pack/blackfriday24) - 50% OFF
 ### 💸 [The Swift Plus Pack (includes seven books)](https://gumroad.com/l/swift-plus-pack/blackfriday24) - 50% OFF
 ### 💰 [Modern Auto Layout (9th edition)](https://useyourloaf.com/autolayout/) - 20% OFF
+### 💰 [macOS App Development: The SwiftUI Way](https://gracehuang.gumroad.com/l/macos-app-dev-swiftui/BLACKFRIDAY24) - 40% OFF
+### 💰 [Nail A Coding Interview: Six-Step Mental Framework, Second Edition](https://gracehuang.gumroad.com/l/coding-interview/BLACKFRIDAY24) - 40% OFF
+### 💰 [Code Reviews in Tech: The Missing Guide](https://gracehuang.gumroad.com/l/codereviews/BLACKFRIDAY24) - 40% OFF
+### 💰 [A Practical Guide to Writing a Software Technical Design Document](https://gracehuang.gumroad.com/l/mqmUt/BLACKFRIDAY24) - 40% OFF
+### 💰 [Dynamic Trio: Building Web Applications with React, Next.js & Tailwind](https://gracehuang.gumroad.com/l/dynamic-trio/BLACKFRIDAY24) - 40% OFF
+### 💰 [Optimizing The 4% Rule: How to Build, Backtest, and Manage a Financial Independence Portfolio](https://gracehuang.gumroad.com/l/4percentrule/BLACKFRIDAY24) - 40% OFF
 
 <p>&nbsp;</p>
 
@@ -230,6 +338,10 @@ Learn Linux, DevOps & Cybersecurity with Hands-on Labs.
 
 Turn your passion into independence.
 
+### 💰 [Getting Started: macOS apps with SwiftUI](https://gracehuang.gumroad.com/l/course-macos-swiftui/BLACKFRIDAY24) - 40% OFF
+
+Learn SwiftUI for macOS development.
+
 <p>&nbsp;</p>
 
 ## 📈 Business Software
@@ -241,6 +353,12 @@ Monitor, Analyze & Manage your Umami Analytics on the go. Available for iOS & iP
 
 Track your App Store sales, subscribers, downloads, and more.
 
+### 💰 [Aikeedo](https://aikeedo.com/?utm_source=github&utm_medium=social&utm_campaign=bfcm&utm_content=mRs-%2FBlack-Friday-Deals) - 35-50% OFF, Nov 20 - Dec 5
+
+Aikeedo is a ready-made PHP software with customizable features to launch your AI SaaS business quickly and generate revenue fast.
+
+* From November 20th to December 5th, we're offering exclusive discounts that decrease by 1% each day—starting at an incredible 50% OFF on Day 1 and ending with 35% OFF on the final day. 
+
 <p>&nbsp;</p>
 
 ## 🏃🏻‍♀️ Health & Fitness Software
@@ -248,10 +366,16 @@ Track your App Store sales, subscribers, downloads, and more.
 
 The simple app to build good habits, break bad habits, and achieve greatness! Available on iOS/iPadOS/MacOS/WatchOS.
 
+### 💰 [Calorific - Calorie Counter](https://apps.apple.com/app/calorific-nutrition-tracker/id6645043253?pt=118518712&ct=github&mt=8) - 50% off your first year! Promo code 'BF24'.
+
+Calorific is a nutrition app that lets users log meals by photo and uses artificial intelligence to estimate calories and macronutrients.
+
 <p>&nbsp;</p>
 
 ## 🎁 Bundles
-### 💰 [Example](https://example.com) - Product Description - Deal details
+### 💰 [Books for Software Engineers at Work](https://gracehuang.gumroad.com/l/engineering-books/BLACKFRIDAY24) - 40% OFF
+
+A bundle of 3 engineering books.
 
 <p>&nbsp;</p>
 
@@ -267,6 +391,10 @@ Track mileage and expenses for all your vehicles. Available for iOS, iPadOS, and
 ### 💸 [SubManager](https://apps.apple.com/app/submanager-subscription-list/id1632853914) - Lifetime 80% OFF, Nov 29 - Dec 2
 
 Track your subscriptions in one place across all your Apple devices and get notified before a subscription is renewed. SubManager also provides powerful insights and widgets to keep you updated on your monthly spending. With no ads and a privacy-friendly approach, it’s an excellent tool to have in today’s subscription-heavy world.
+
+### 💰 [Know Your Numbers: Personal & Family Net Worth Tracker](https://gracehuang.gumroad.com/l/networth/BLACKFRIDAY24) - 40% OFF
+
+A standalone spreadsheet to track your net worth and prepare for financial freedom.
 
 ## 🗺️ Navigation
 ### 🚘 [EV Charge Stations Map](https://apple.co/3NWejUz) - Lifetime 66% OFF, Nov 20 - Dec 2
