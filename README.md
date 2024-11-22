@@ -221,6 +221,10 @@ Easily capture your thoughts & ideas on iOS, macOS & visionOS.
 
 Chat with AI on an Infinite Canvas. Connect multiple chats on the canvas to share context. Change models for each chat. Add images, PDFs, and more to the canvas and chat with them.
 
+### 💸 [Focu - Mindful Productivity](https://focu.app) - 50% OFF Lifetime
+
+Mindful productivity app with your own locally running AI, helpful for planning, procrastination, distractions, emotions and thoughts.
+
 
 <p>&nbsp;</p>
 
