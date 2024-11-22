@@ -258,6 +258,10 @@ Write it, Speak it, Snap it – Your Notes, Your Way.
 
 Supercharged Windows & Tabs Manager for the Mac. TabTab aims to replace ⌘Command+Tab by making it easy to manage windows and tabs across your Mac apps at the OS level.
 
+### 💰 [Daily Time Tracking](https://dailytimetracking.com?utm_source=mrs) - 30% discount on lifetime and annual licenses.
+
+Time tracking for Mac without toggling timers. 5-star rated by thousands of professionals globally.
+
 ### 💸 [PaletteBrain 3](https://www.palettebrain.com/?utm_source=github&utm_medium_social&utm_campaign=bf2024&utm_content=mrs) - Lifetime Family Plan 51% OFF with code **LASTLTDBF51**
 
 Access the power of ChatGPT across all your macOS apps with the press of a shortcut. Stop wasting time switching between windows and copying-pasting texts.
@@ -265,6 +269,7 @@ Access the power of ChatGPT across all your macOS apps with the press of a short
 ### 💸 [Focu - Mindful Productivity](https://focu.app) - 50% OFF Lifetime
 
 Mindful productivity app with your own locally running AI, helpful for planning, procrastination, distractions, emotions and thoughts.
+
 
 <p>&nbsp;</p>
 
