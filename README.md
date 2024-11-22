@@ -197,6 +197,10 @@ An AI writing assistant that is perfect for everyday use. It can seamlessly work
 
 ### 💸 [Audio Writer](https://audiowriter.app) - Lifetime 40% OFF
 
+### 💸 [Mango - Twilio Calls & SMS](https://itsok.xyz/bfdealNghiaTranUIT) - 50% OFF on the App Store, no code needed
+
+A Calling and Texting app for Small Businesses. Keep Business And Personal Life Separate.
+ 
 Braindump your thoughts - It turns your stream of thoughts from speech into well-structured written text ✨
 
 ### 💸 [Capture - Quick Notes](https://apps.apple.com/app/apple-store/id6458535284?pt=118518712&ct=github&mt=8) - 50% OFF Lifetime
