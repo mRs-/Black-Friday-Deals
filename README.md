@@ -161,11 +161,6 @@ FileMinutes simplifies file handling on your Mac with fast search, easy navigati
 <p>&nbsp;</p>
 
 ## 📌 Productivity Software
-### 💸 [Quick Capture - Obsidian iOS](https://quickcaptureobsidian.app/) - Lifetime 50% OFF 
-
-Send anything to any vault in Obsidian 10x faster
-
-Access all AI models in one native Mac app: Advanced Voice Mode, Document Analysis, AI Plugins, and more.
 ### 💸 [BoltAI](https://boltai.com?ref=bfdeals) - 30% OFF with code **BFCM2024**
 
 Access all AI models in one native Mac app: Advanced Voice Mode, Document Analysis, AI Plugins, and more.
@@ -356,10 +351,14 @@ Private character chat app and story writer - either run models locally with Oll
 <p>&nbsp;</p>
 
 ## 🗣️ Social
+
 ### 💰 [Subreddit tracker](https://subreddittraffic.live/) - 30% OFF lifetime |Use code **BLACKFRIDAY2024** 
 
 Reach maximum Reddit traffic by finding the best times to post. Track 400+ subreddits activity and optimize your posting schedule to increase your brand awareness and traffic.  
 
+### 💰 [Glass — Photography Community](https://glass.photo/offer/blackfriday) - 50% OFF your first year
+
+Fall in Love with Photography Again  Discover a new home for your photography with Glass — the subscription-based, community-driven platform designed by photographers, for photographers.
 
 <p>&nbsp;</p>
 
