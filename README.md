@@ -65,6 +65,26 @@ Powerful SSH terminal and SFTP file access for iOS & Mac.
 
 A plain text editor with syntax highlighting, line numbers, search and replace, page guide, and much more. It's like TextEdit but more powerful and optimised for iPhone and iPad.
 
+### 💰 [DevUtils](https://devutils.com) - 50% OFF, BLACKFRIDAY_2024
+
+All-in-one toolbox for developers. 42+ carefully crafted developer tools. Native macOS app, fast & beautiful. Work offline, and respect your data. Fully supports Apple Silicon & macOS Ventura.
+
+### 💸 [StoreReviewKit](https://apps.apple.com/app/apple-store/id6670761635?pt=594185&ct=mrs-bf&mt=8) - 50% OFF, valid through Dec 3
+
+Read and respond to App Store reviews without language boundaries.
+
+### 💸 [LocalizeBot](https://apps.apple.com/app/apple-store/id6448173982?pt=594185&ct=mrs-bf&mt=8) - 50% OFF, valid through Dec 3
+
+Translate your app in 1 click. Localize Xliff and Xcloc files.
+
+### 💸 [Localization Buddy](https://apps.apple.com/app/apple-store/id6503285923?pt=594185&ct=mrs-bf&mt=8) - 50% OFF, valid through Dec 3
+
+Easiest way to localize and update App Store metadata.
+
+### 💰 [Screenshot Studio](https://apps.apple.com/app/apple-store/id6473832582?pt=594185&ct=mrs-bf&mt=8) - 30% OFF, valid through Dec 3 
+
+Create App Store screenshots in minutes not hours.
+
 <p>&nbsp;</p>
 
 ## :tophat: Security Software
@@ -126,6 +146,17 @@ Avoid those awkward moments in public places or in presentation meetings in 1-cl
 
 Easy view of up to 5 different timezones in your menubar.
 
+### 💸 [TypingMind](https://typingmind.com) - 55% OFF Lifetime for Premium plan, BLACKFRIDAY2024
+
+Your Personal AI Workspace. Frontend for ChatGPT, Claude, Gemini to use with your API key. Support Artifact, Projects, Vision, Canvas, AI agents builder, DALL-E, Plugins, etc.
+
+### 💸 [Matcha](https://apps.apple.com/app/apple-store/id6504923811?pt=594185&ct=mrs-bf&mt=8) - 50% OFF, valid through Dec 3
+
+Currency calculator for traveler.
+
+### 💸 [FileMinutes](https://www.fileminutes.com) - 50% OFF with code BF2024
+
+FileMinutes simplifies file handling on your Mac with fast search, easy navigation, and file actions in one app.
 
 <p>&nbsp;</p>
 
@@ -171,6 +202,10 @@ Manage, organize, and execute perfect meetings effortlessly, right from your Mac
 
 Fancy ChatGPT with appsuite. Supports OpenAI, OpenRouter, Claude, Gemini and more
 
+### 💸 [DeskRest](https://deskrest.app/offers) - 70% OFF with code **BLACKFRIDAY70**
+
+A Mac app that enhances productivity through customizable break and posture reminders to improve work habits.
+
 ### 💸 [Taskheat](https://eyen.fr/taskheat/) - 70% OFF the Full Version
 
 Innovative to-do app that uses flowcharts to define and visualize dependencies between tasks.
@@ -187,7 +222,7 @@ A powerful inventory tracker app for home and business, available on iOS and iPa
 
 Small search engine without the fluff.
 
-### 💸 [Milestones - Project Management]([https://apps.apple.com/us/app/project-planner-milestones/id6737195092) - 50% OFF all plans, including lifetime, no code needed
+### 💸 [Milestones - Project Management](https://apps.apple.com/us/app/project-planner-milestones/id6737195092) - 50% OFF all plans, including lifetime, no code needed
 
 Divide projects into milestones and track your progress, the ideal app for indie developers, made by an indie developer
 
@@ -206,6 +241,30 @@ Braindump your thoughts - It turns your stream of thoughts from speech into well
 ### 💸 [Capture - Quick Notes](https://apps.apple.com/app/apple-store/id6458535284?pt=118518712&ct=github&mt=8) - 50% OFF Lifetime
 
 Easily capture your thoughts & ideas on iOS, macOS & visionOS.
+
+### 💸 [RabbitHolesAI](https://www.rabbitholes.ai/?ref=bfdeals) - 30% OFF with code **BLACKFRIDAY** (till Dec 2) 
+
+Chat with AI on an Infinite Canvas. Connect multiple chats on the canvas to share context. Change models for each chat. Add images, PDFs, and more to the canvas and chat with them.
+
+### 💸 [Offline privacy transcription](https://apps.apple.com/app/apple-store/id6465955389?pt=594185&ct=mrs-bf&mt=8) - 50% OFF, valid through Dec 3
+
+Fast, privacy-focus way to transcribe audio, video, and podcast files.
+
+### 💸 [Note Taking - Voice Photo Memo](https://apps.apple.com/app/apple-store/id6479198427?pt=594185&ct=mrs-bf&mt=8) - 50% OFF, valid through Dec 3
+
+Write it, Speak it, Snap it – Your Notes, Your Way.
+
+### 💰 [TabTab](https://tabtabapp.net/) - 30% OFF One Time Purchase with code **TABTABLAUNCH**
+
+Supercharged Windows & Tabs Manager for the Mac. TabTab aims to replace ⌘Command+Tab by making it easy to manage windows and tabs across your Mac apps at the OS level.
+
+### 💸 [PaletteBrain 3](https://www.palettebrain.com/?utm_source=github&utm_medium_social&utm_campaign=bf2024&utm_content=mrs) - Lifetime Family Plan 51% OFF with code **LASTLTDBF51**
+
+Access the power of ChatGPT across all your macOS apps with the press of a shortcut. Stop wasting time switching between windows and copying-pasting texts.
+
+### 💸 [Focu - Mindful Productivity](https://focu.app) - 50% OFF Lifetime
+
+Mindful productivity app with your own locally running AI, helpful for planning, procrastination, distractions, emotions and thoughts.
 
 <p>&nbsp;</p>
 
@@ -253,6 +312,11 @@ macOS app for effortless batch resizing and editing of images.
 
 macOS app for redacting sensitive information from images effortlessly.
 
+
+### 📷 [Darkroom](https://darkroom.co/blog/2024-11-15-black-friday) - 50% OFF First Year, Nov 15 -  Dec 3
+
+Photo & Video Editing for iPhone, Mac, iPad and Vision Pro. Apple Design Award winning, premium creative app designed for creators who value workflow speed, simplicity, and power.
+
 <p>&nbsp;</p>
 
 
@@ -273,6 +337,10 @@ Make Your TV a Mood Lamp. Transform your space with the Mood Lights Apple TV app
 
 Reliable and customisable weather forecasts, incl. tides, waves and altitudes / Available for iOS and Android / 40% OFF PERMANENTLY on Annual Enthusiast Subscription / Offer available from within the app
 
+### 💸 [Thoughts - Quotes Manager](https://apps.apple.com/app/thoughts-inspiration-manager/id6444917751) - 50% OFF on Lifetime License
+
+Remember what inspires you with Thoughts. Save and organize your quotes, thoughts, lessons learned, etc. and review them in a feed of your inspirations and in widgets.
+
 ### 💸 [HammerAI](https://www.hammerai.com) - 50% OFF
 
 Private character chat app and story writer - either run models locally with Ollama, or use our cloud-hosted models. 50% OFF with code **BZAOH18**.
@@ -283,11 +351,6 @@ Private character chat app and story writer - either run models locally with Oll
 ### 💰 [Subreddit tracker](https://subreddittraffic.live/) - 30% OFF lifetime |Use code **BLACKFRIDAY2024** 
 
 Reach maximum Reddit traffic by finding the best times to post. Track 400+ subreddits activity and optimize your posting schedule to increase your brand awareness and traffic.  
-
-
-
-
-
 
 
 <p>&nbsp;</p>
@@ -343,6 +406,10 @@ Track your App Store sales, subscribers, downloads, and more.
 Aikeedo is a ready-made PHP software with customizable features to launch your AI SaaS business quickly and generate revenue fast.
 
 * From November 20th to December 5th, we're offering exclusive discounts that decrease by 1% each day—starting at an incredible 50% OFF on Day 1 and ending with 35% OFF on the final day. 
+
+### 🚀 [Microlaunch](https://microlaunch.net/premium) - 20% OFF Pro Launches with the code BLACKFRIDAY2024, Nov 20 - Dec 4
+
+Launch, Get Exposure and First Sales.
 
 <p>&nbsp;</p>
 
