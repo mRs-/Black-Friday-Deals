@@ -85,6 +85,11 @@ Easiest way to localize and update App Store metadata.
 
 Create App Store screenshots in minutes not hours.
 
+### 💰 [Dash](https://kapeli.com/dash) - 30% OFF the first year, code BLACKFRIDAY, valid through Dec 3
+
+Instant offline access to 200+ API documentation sets and code snippet manager.
+
+
 <p>&nbsp;</p>
 
 ## :tophat: Security Software
