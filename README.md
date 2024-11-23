@@ -158,6 +158,10 @@ Currency calculator for traveler.
 
 FileMinutes simplifies file handling on your Mac with fast search, easy navigation, and file actions in one app.
 
+### 💸 [Kompressor - Image Converter](https://apps.apple.com/us/app/kompressor-image-converter/id6468196574?mt=12&pt=123127751&ct=mrs-bf) - Lifetime 50% OFF
+
+A beautifully designed and fun-to-use image converter for macOS with support for over 50 different formats.
+
 <p>&nbsp;</p>
 
 ## 📌 Productivity Software
