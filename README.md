@@ -101,6 +101,10 @@ Take the headache out of App Store Screenshots with full device support, localiz
 
 Simplified App Localization: Take your SwiftUI app global effortlessly by localize your Xcode String Catalog files with ease. Extend your potential customer base by billions within minutes! [Learn more](https://translatekit.app)
 
+### 💰 [DevControls](https://jontelang.com/DevControls) - CODE: **BLACKFRIDAY2024** 25% off
+
+Project management and shortcuts in your macOS menu bar
+
 <p>&nbsp;</p>
 
 ## :tophat: Security Software
@@ -324,6 +328,14 @@ AI assistant that has all the context screenpipe captures your computer while yo
 ### 💸 [BoloSign](https://www.boloforms.com/) - 40% OFF on Annual Plans. Use code **BOLOBFCM40**
 
 The eSignature/digital signature Platform for Small Businesses. Unlimited PDF signatures, templates, forms, and team members. One fixed price. No extra charges, ever.
+
+### 💰 [ScreenMemory](https://screenmemory.app) - CODE: **BLACKFRIDAY2024** 25% off
+
+Photographic memory for your macOS screen, rewind time on your screen
+
+### 💰 [Monkey Notes](https://jontelang.com/monkeynotes)  - CODE **BLACKFRIDAY2024** 25% off
+
+Sticky notes that attaches directly to your macOS windows
 
 <p>&nbsp;</p>
 
