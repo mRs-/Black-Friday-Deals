@@ -394,6 +394,10 @@ macOS, Windows, and iOS photo editing, illustration editing, and page layout pro
 
 Photo & Video Editing for iPhone, Mac, iPad and Vision Pro. Apple Design Award winning, premium creative app designed for creators who value workflow speed, simplicity, and power.
 
+### 💰 [Savvyshot](https://www.savvyshot.app/) - **70% OFF** with code **BLACKFRIDAY2024**
+
+No more boring Screenshot, ever! Beautify, enhance, and share stunning screenshots effortlessly on Windows and Mac.
+
 <p>&nbsp;</p>
 
 
