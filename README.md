@@ -302,6 +302,11 @@ Project-based launcher that opens your files, folders, websites, apps etc. with 
 
 Five quick notes in your Menubar.
 
+
+### 💸 [BoloSign](https://www.boloforms.com/) - 40% OFF on Annual Plans. Use code **BOLOBFCM40**
+
+The eSignature/digital signature Platform for Small Businesses. Unlimited PDF signatures, templates, forms, and team members. One fixed price. No extra charges, ever.
+
 <p>&nbsp;</p>
 
 ## Video Software
