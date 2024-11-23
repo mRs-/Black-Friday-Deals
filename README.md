@@ -85,6 +85,18 @@ Easiest way to localize and update App Store metadata.
 
 Create App Store screenshots in minutes not hours.
 
+### 💰 [Folge](https://folge.me) - 25% OFF all licenses with code **FRIDAY25**
+
+Easily create step-by-step guides, tutorials, SOPs, and documentation for any process. 
+
+### 💰 [Dash](https://kapeli.com/dash) - 30% OFF the first year, code BLACKFRIDAY, valid through Dec 3
+
+Instant offline access to 200+ API documentation sets and code snippet manager.
+
+### 💸 [Picasso: App Store Screenshots](https://apps.apple.com/app/apple-store/id6472062986?pt=972586&ct=Black-Friday-Deals-GitHub&mt=8) - 50% OFF Lifetime Pass, valid through Dec 3
+
+Take the headache out of App Store Screenshots with full device support, localization, and direct upload to App Store Connect.
+
 <p>&nbsp;</p>
 
 ## :tophat: Security Software
@@ -282,6 +294,10 @@ Access the power of ChatGPT across all your macOS apps with the press of a short
 
 Mindful productivity app with your own locally running AI, helpful for planning, procrastination, distractions, emotions and thoughts.
 
+### 💸 [Tailored Emails - Cold Email Assistant](https://tailoredemails.com) - 50% OFF Lifetime
+
+AI MacOS app to create personalized cold email openers that can be imported into your cold outreach tool to close clients faster
+
 ### 💸 [NoteSLAYER](https://note-slayer.com/) - 55% OFF Lifetime and other plans, use BLACKBLACK24
 
 Note SLAYER: Advanced note-taking & task management for Desktop(Linux, Windows and MacOS).
@@ -302,6 +318,9 @@ Project-based launcher that opens your files, folders, websites, apps etc. with 
 
 Five quick notes in your Menubar.
 
+### 💸 [screenpipe](https://screenpi.pe) - 30% OFF Lifetime
+
+AI assistant that has all the context screenpipe captures your computer while you work - including your meetings - letting you go back to any moment in an instant
 
 ### 💸 [BoloSign](https://www.boloforms.com/) - 40% OFF on Annual Plans. Use code **BOLOBFCM40**
 
@@ -430,6 +449,8 @@ Native ChatPDF app for Mac.
 ### 💰 [A Developer's Guide to Blogging](https://theankurtyagi.gumroad.com/l/blogging/BlackFriday) - 50% OFF
 ### 💰 [Indexing Beyond the Basics](https://goodindexes.com) - 50% OFF
 ### 💰 [Mobile System Design](https://www.mobilesystemdesign.com) - 25% OFF
+### 💰 [Swift Gems: 100+ tips to take your Swift code to the next level](https://books.nilcoalescing.com/swift-gems) - 30% OFF
+### 💰 [Integrating SwiftUI into UIKit Apps](https://books.nilcoalescing.com/integrating-swiftui) - 30% OFF
 
 <p>&nbsp;</p>
 
@@ -467,6 +488,10 @@ Aikeedo is a ready-made PHP software with customizable features to launch your A
 
 Launch, Get Exposure and First Sales.
 
+### 🛒 [Zylvie](https://zylvie.com) - 75% OFF all plans with code BFRIDAY2024, Nov 21 - Dec 4
+
+High-converting checkout software for coaches and creators to sell info products, subscriptions, coaching, services, programs, etc.
+
 <p>&nbsp;</p>
 
 ## 🏃🏻‍♀️ Health & Fitness Software
@@ -484,6 +509,10 @@ Calorific is a nutrition app that lets users log meals by photo and uses artific
 ### 💰 [Books for Software Engineers at Work](https://gracehuang.gumroad.com/l/engineering-books/BLACKFRIDAY24) - 40% OFF
 
 A bundle of 3 engineering books.
+
+### 💰 [Books for Swift and SwiftUI developers](https://books.nilcoalescing.com) - 30% OFF
+
+A bundle of 2 books: Integrating SwiftUI into UIKit Apps and Swift Gems.
 
 <p>&nbsp;</p>
 
