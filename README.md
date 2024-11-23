@@ -396,6 +396,7 @@ Native ChatPDF app for Mac.
 ### 💰 [Dynamic Trio: Building Web Applications with React, Next.js & Tailwind](https://gracehuang.gumroad.com/l/dynamic-trio/BLACKFRIDAY24) - 40% OFF
 ### 💰 [Optimizing The 4% Rule: How to Build, Backtest, and Manage a Financial Independence Portfolio](https://gracehuang.gumroad.com/l/4percentrule/BLACKFRIDAY24) - 40% OFF
 ### 💰 [A Developer's Guide to Blogging](https://theankurtyagi.gumroad.com/l/blogging/BlackFriday) - 50% OFF
+### 💰 [Indexing Beyond the Basics](https://goodindexes.com) - 50% OFF
 
 <p>&nbsp;</p>
 
