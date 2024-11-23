@@ -158,6 +158,10 @@ Currency calculator for traveler.
 
 FileMinutes simplifies file handling on your Mac with fast search, easy navigation, and file actions in one app.
 
+### 💰 [BookletCreator](https://www.bookletcreator.com) - 25% off (automatically applied)
+
+BookletCreator is a simple tool that allows you to create a booklet from a PDF document. It reorders pages so that after printing and folding the pages, a small book is created.
+
 <p>&nbsp;</p>
 
 ## 📌 Productivity Software
