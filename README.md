@@ -181,11 +181,18 @@ Teleport your cursor across your displays
 <p>&nbsp;</p>
 
 ## 📌 Productivity Software
+### 💰 [Muse - Inspired & focused thinking](https://museapp.com/) - 30% OFF Annual Plan
+
+Muse is a cozy space for deep thinking. Import anything into Muse's infinite canvas, write, highlight, excerpt, and make sense of what matters most.
+
+Available on Mac, iPad, and iPhone.
+
 ### 💸 [Quick Capture - Obsidian iOS](https://quickcaptureobsidian.app/) - Lifetime 50% OFF 
 
 Send anything to any vault in Obsidian 10x faster
 
 Access all AI models in one native Mac app: Advanced Voice Mode, Document Analysis, AI Plugins, and more.
+
 ### 💸 [BoltAI](https://boltai.com?ref=bfdeals) - 30% OFF with code **BFCM2024**
 
 Access all AI models in one native Mac app: Advanced Voice Mode, Document Analysis, AI Plugins, and more.
