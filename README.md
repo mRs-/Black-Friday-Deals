@@ -457,6 +457,9 @@ Turn your passion into independence.
 
 Learn SwiftUI for macOS development.
 
+### 💸 [Get Your First Client as a Freelancer](https://getyourfirstclient.freelancerpath.com/) - 50% OFF
+A complete step by step guide to get your first client as a freelancer from scratch.
+
 <p>&nbsp;</p>
 
 ## 📈 Business Software
