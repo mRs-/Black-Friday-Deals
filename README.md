@@ -85,6 +85,10 @@ Easiest way to localize and update App Store metadata.
 
 Create App Store screenshots in minutes not hours.
 
+### 💰 [Folge](https://folge.me) - 25% OFF all licenses with code **FRIDAY25**
+
+Easily create step-by-step guides, tutorials, SOPs, and documentation for any process. 
+
 <p>&nbsp;</p>
 
 ## :tophat: Security Software
