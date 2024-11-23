@@ -85,6 +85,10 @@ Easiest way to localize and update App Store metadata.
 
 Create App Store screenshots in minutes not hours.
 
+### 💰 [DevControls](https://jontelang.com/DevControls) - CODE: **BLACKFRIDAY2024** 25% off
+
+Project management and shortcuts in your macOS menu bar
+
 <p>&nbsp;</p>
 
 ## :tophat: Security Software
@@ -301,6 +305,14 @@ Project-based launcher that opens your files, folders, websites, apps etc. with 
 ### 💸 [FiveNotes](https://www.apptorium.com/fivenotes) - Lifetime 37% OFF
 
 Five quick notes in your Menubar.
+
+### 💰 [ScreenMemory](https://screenmemory.app) - CODE: **BLACKFRIDAY2024** 25% off
+
+Photographic memory for your macOS screen, rewind time on your screen
+
+### 💰 [Monkey Notes](https://jontelang.com/monkeynotes)  - CODE **BLACKFRIDAY2024** 25% off
+
+Sticky notes that attaches directly to your macOS windows
 
 <p>&nbsp;</p>
 
