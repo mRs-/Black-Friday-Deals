@@ -89,6 +89,10 @@ Create App Store screenshots in minutes not hours.
 
 Easily create step-by-step guides, tutorials, SOPs, and documentation for any process. 
 
+### 💰 [Dash](https://kapeli.com/dash) - 30% OFF the first year, code BLACKFRIDAY, valid through Dec 3
+
+Instant offline access to 200+ API documentation sets and code snippet manager.
+
 <p>&nbsp;</p>
 
 ## :tophat: Security Software
