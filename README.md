@@ -278,6 +278,10 @@ Mindful productivity app with your own locally running AI, helpful for planning,
 
 Note SLAYER: Advanced note-taking & task management for Desktop(Linux, Windows and MacOS).
 
+### 🐰 [CodeRabbit](https://coderabbit.ai) - Free for open-source projects | Use code **BLACKFRIDAY** for 1 month free on the pro version.
+
+AI-Powered Code Review Bot - Detailed code reviews and actionable suggestions to enhance code quality. Integrates with GitHub and GitLab. 
+
 <p>&nbsp;</p>
 
 ## Video Software
