@@ -286,6 +286,9 @@ Access the power of ChatGPT across all your macOS apps with the press of a short
 
 Mindful productivity app with your own locally running AI, helpful for planning, procrastination, distractions, emotions and thoughts.
 
+### 💸 [Tailored Emails - Cold Email Assistant](https://tailoredemails.com) - 50% OFF Lifetime
+
+AI MacOS app to create personalized cold email openers that can be imported into your cold outreach tool to close clients faster
 
 ### 💸 [NoteSLAYER](https://note-slayer.com/) - 55% OFF Lifetime and other plans, use BLACKBLACK24
 
