@@ -274,6 +274,9 @@ Access the power of ChatGPT across all your macOS apps with the press of a short
 
 Mindful productivity app with your own locally running AI, helpful for planning, procrastination, distractions, emotions and thoughts.
 
+### 💸 [NoteSLAYER](https://note-slayer.com/) - 55% OFF Lifetime and other plans, use BLACKBLACK24
+
+Note SLAYER: Advanced note-taking & task management for Desktop(Linux, Windows and MacOS).
 
 <p>&nbsp;</p>
 
