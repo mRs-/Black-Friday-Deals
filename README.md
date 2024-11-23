@@ -166,6 +166,10 @@ BookletCreator is a simple tool that allows you to create a booklet from a PDF d
 
 Cross-platform media downloader - allows to download media from over 50+ platforms, likes YouTube, X, Facebook, Instagram, TikTok, Youku, QQ, Weibo,...
 
+### 💰� [Cursor Teleporter](https://www.apptorium.com/cursor-teleporter) - Lifetime 50% OFF
+
+Teleport your cursor across your displays
+
 <p>&nbsp;</p>
 
 ## 📌 Productivity Software
@@ -285,6 +289,18 @@ Note SLAYER: Advanced note-taking & task management for Desktop(Linux, Windows a
 ### 🐰 [CodeRabbit](https://coderabbit.ai) - Free for open-source projects | Use code **BLACKFRIDAY** for 1 month free on the pro version.
 
 AI-Powered Code Review Bot - Detailed code reviews and actionable suggestions to enhance code quality. Integrates with GitHub and GitLab. 
+
+### 💸 [SideNotes](https://www.apptorium.com/sidenotes) - Lifetime 40% OFF
+
+SideNotes keeps your notes on the side of the screen. Appears when you click a little bar or move your cursor to the screen side.
+
+### 💰 [Workspaces](https://www.apptorium.com/workspaces) - Lifetime 50% OFF
+
+Project-based launcher that opens your files, folders, websites, apps etc. with one click.
+
+### 💸 [FiveNotes](https://www.apptorium.com/fivenotes) - Lifetime 37% OFF
+
+Five quick notes in your Menubar.
 
 <p>&nbsp;</p>
 
