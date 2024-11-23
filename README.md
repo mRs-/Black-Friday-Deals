@@ -368,6 +368,10 @@ Remember what inspires you with Thoughts. Save and organize your quotes, thought
 
 Private character chat app and story writer - either run models locally with Ollama, or use our cloud-hosted models. 50% OFF with code **BZAOH18**.
 
+### 💸 [Lines of Zen](https://linesofzen.com) - 62% OFF
+
+Lines of Zen is a meditation app where you relax through a series of guided drawing exercises. During the sale, get a year of access for $14.99 (62% off).
+
 <p>&nbsp;</p>
 
 ## 🗣️ Social
