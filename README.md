@@ -105,6 +105,10 @@ Simplified App Localization: Take your SwiftUI app global effortlessly by locali
 
 Project management and shortcuts in your macOS menu bar
 
+### 💰 [Clobbr](https://clobbr.app/?ref=mrs) - 50% OFF in the AppStore valid through Dec 7
+
+Find concurrency & performance issues early and ship with more confidence.
+
 <p>&nbsp;</p>
 
 ## :tophat: Security Software
