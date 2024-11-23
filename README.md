@@ -162,6 +162,10 @@ FileMinutes simplifies file handling on your Mac with fast search, easy navigati
 
 BookletCreator is a simple tool that allows you to create a booklet from a PDF document. It reorders pages so that after printing and folding the pages, a small book is created.
 
+### 💸 [XGetter](https://xgetter.com/?utm_source=aw_bf2024_2) - 60% OFF with code BLACKFRIDAY2024
+
+Cross-platform media downloader - allows to download media from over 50+ platforms, likes YouTube, X, Facebook, Instagram, TikTok, Youku, QQ, Weibo,...
+
 <p>&nbsp;</p>
 
 ## 📌 Productivity Software
