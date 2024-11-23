@@ -93,6 +93,10 @@ Easily create step-by-step guides, tutorials, SOPs, and documentation for any pr
 
 Instant offline access to 200+ API documentation sets and code snippet manager.
 
+### 💸 [Picasso: App Store Screenshots](https://apps.apple.com/app/apple-store/id6472062986?pt=972586&ct=Black-Friday-Deals-GitHub&mt=8) - 50% OFF Lifetime Pass, valid through Dec 3
+
+Take the headache out of App Store Screenshots with full device support, localization, and direct upload to App Store Connect.
+
 <p>&nbsp;</p>
 
 ## :tophat: Security Software
