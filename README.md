@@ -85,6 +85,10 @@ Easiest way to localize and update App Store metadata.
 
 Create App Store screenshots in minutes not hours.
 
+### 💰 [TranslateKit: App Localization](https://apps.apple.com/app/apple-store/id6476773066?pt=549314&ct=github.com&mt=8) – $30 OFF, valid through Nov 30
+
+Simplified App Localization: Take your SwiftUI app global effortlessly by localize your Xcode String Catalog files with ease. Extend your potential customer base by billions within minutes! [Learn more](https://translatekit.app)
+
 <p>&nbsp;</p>
 
 ## :tophat: Security Software
