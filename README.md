@@ -484,6 +484,8 @@ Experience the power of real-time link monitoring with BLM. Stay updated on your
 ### 💰 [Example](https://example.com) - Product Description - Deal details
 
 ## 🏡 Home Automation
-### 💰 [Example](https://example.com) - Product Description - Deal details
+### 💸 [GlanceCam - IP Camera Viewer](https://apps.apple.com/us/app/glancecam-ip-camera-viewer/id1360797896) - 50% OFF, Nov 28 - Dec 3
+
+GlanceCam is a secure and beloved IP camera viewer for macOS, with over 600 App Store ratings averaging more than 4.2 stars. It supports standard streaming protocols and offers lots of advanced features. With 41 free updates over 6 years, GlanceCam is the best choice for streaming IP Cameras from any manufacturer, with powerful features (Instazoom, Always on top...) and automations.
 
 ## 🕹 Games
