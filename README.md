@@ -367,6 +367,8 @@ Private character chat app and story writer - either run models locally with Oll
 
 Reach maximum Reddit traffic by finding the best times to post. Track 400+ subreddits activity and optimize your posting schedule to increase your brand awareness and traffic.  
 
+### 💰 [Postiz](https://postiz.com) - 50% OFF lifetime |Use code **BF2024** 
+The ultimate AI social media scheduling tool also open-source!	
 
 <p>&nbsp;</p>
 
