@@ -282,6 +282,7 @@ Access the power of ChatGPT across all your macOS apps with the press of a short
 
 Mindful productivity app with your own locally running AI, helpful for planning, procrastination, distractions, emotions and thoughts.
 
+
 ### 💸 [NoteSLAYER](https://note-slayer.com/) - 55% OFF Lifetime and other plans, use BLACKBLACK24
 
 Note SLAYER: Advanced note-taking & task management for Desktop(Linux, Windows and MacOS).
@@ -301,6 +302,10 @@ Project-based launcher that opens your files, folders, websites, apps etc. with 
 ### 💸 [FiveNotes](https://www.apptorium.com/fivenotes) - Lifetime 37% OFF
 
 Five quick notes in your Menubar.
+
+### 💸 [screenpipe](https://screenpi.pe) - 30% OFF Lifetime
+
+AI assistant that has all the context screenpipe captures your computer while you work - including your meetings - letting you go back to any moment in an instant
 
 <p>&nbsp;</p>
 
