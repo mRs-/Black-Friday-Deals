@@ -322,6 +322,10 @@ Five quick notes in your Menubar.
 
 AI assistant that has all the context screenpipe captures your computer while you work - including your meetings - letting you go back to any moment in an instant
 
+### 💸 [BoloSign](https://www.boloforms.com/) - 40% OFF on Annual Plans. Use code **BOLOBFCM40**
+
+The eSignature/digital signature Platform for Small Businesses. Unlimited PDF signatures, templates, forms, and team members. One fixed price. No extra charges, ever.
+
 <p>&nbsp;</p>
 
 ## Video Software
