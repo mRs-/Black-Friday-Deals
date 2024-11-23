@@ -441,6 +441,8 @@ Native ChatPDF app for Mac.
 ### 💰 [A Developer's Guide to Blogging](https://theankurtyagi.gumroad.com/l/blogging/BlackFriday) - 50% OFF
 ### 💰 [Indexing Beyond the Basics](https://goodindexes.com) - 50% OFF
 ### 💰 [Mobile System Design](https://www.mobilesystemdesign.com) - 25% OFF
+### 💰 [Swift Gems: 100+ tips to take your Swift code to the next level](https://books.nilcoalescing.com/swift-gems) - 30% OFF
+### 💰 [Integrating SwiftUI into UIKit Apps](https://books.nilcoalescing.com/integrating-swiftui) - 30% OFF
 
 <p>&nbsp;</p>
 
@@ -495,6 +497,10 @@ Calorific is a nutrition app that lets users log meals by photo and uses artific
 ### 💰 [Books for Software Engineers at Work](https://gracehuang.gumroad.com/l/engineering-books/BLACKFRIDAY24) - 40% OFF
 
 A bundle of 3 engineering books.
+
+### 💰 [Books for Swift and SwiftUI developers](https://books.nilcoalescing.com) - 30% OFF
+
+A bundle of 2 books: Integrating SwiftUI into UIKit Apps and Swift Gems.
 
 <p>&nbsp;</p>
 
