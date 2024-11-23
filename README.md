@@ -484,6 +484,10 @@ Aikeedo is a ready-made PHP software with customizable features to launch your A
 
 Launch, Get Exposure and First Sales.
 
+### 🛒 [Zylvie](https://zylvie.com) - 75% OFF all plans with code BFRIDAY2024, Nov 21 - Dec 4
+
+High-converting checkout software for coaches and creators to sell info products, subscriptions, coaching, services, programs, etc.
+
 <p>&nbsp;</p>
 
 ## 🏃🏻‍♀️ Health & Fitness Software
