@@ -357,6 +357,7 @@ Sticky notes that attaches directly to your macOS windows
 
 All-in-one platform to build, run, & share AI agents and multi-agent workflows to automate business processes.
 
+
 ### 💰 [Pasta](https://apps.apple.com/us/app/pasta-clipboard-manager/id1438389787) - 45% off lifetime, Nov 29 - Dec 2
 
 Clipboard manager for macOS.
@@ -368,6 +369,10 @@ Quickly run parametric prompts with AI.
 ### 💸 [SumyAI - Youtube summarize tool](https://sumyai.com) -  50% OFF with code BF24
 
 Turn YouTube videos to A Summary, Thread and Post.
+
+### 💰 [DisplayBuddy](https://displaybuddy.app) - 25% OFF with code **BLACKFRIDAY**
+
+Control the brightness of your monitors directly from your Mac - no need to touch your clunky monitor buttons!
 
 <p>&nbsp;</p>
 
