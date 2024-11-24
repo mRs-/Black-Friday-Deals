@@ -341,6 +341,10 @@ Photographic memory for your macOS screen, rewind time on your screen
 
 Sticky notes that attaches directly to your macOS windows
 
+### 😎 [MindPal](https://mindpal.space/) - 60% OFF all YEARLY plans with code BLACKFRIDAY24 (valid until Dec 8, 2024)
+
+All-in-one platform to build, run, & share AI agents and multi-agent workflows to automate business processes.
+
 <p>&nbsp;</p>
 
 ## Video Software
