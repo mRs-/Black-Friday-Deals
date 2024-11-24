@@ -194,6 +194,14 @@ Teleport your cursor across your displays
 
 A beautifully designed and fun-to-use image converter for macOS with support for over 50 different formats.
 
+### 🌍 [QuakeSense](https://apps.apple.com/us/app/quakesense-earthquake-alerts/id6630381970) - 50% OFF Pro Plans (Nov 25 - Dec 2)
+
+Real-time global earthquake monitoring app that aggregates data from multiple authoritative sources worldwide (USGS, EMSC, CENC, etc.), with native SwiftUI design, critical push notifications, and comprehensive earthquake information presentation.
+
+### 📸 [ThenNow](https://apps.apple.com/us/app/thennow-photo-time-machine/id6711347898) - 50% OFF Pro Plans (Nov 25 - Dec 2)
+
+Your Photo Time Machine that helps you rediscover memories by automatically displaying photos from this day in history. Features include auto photo display by date, location-based timeline, beautiful sharing templates, and privacy-first local processing.
+
 <p>&nbsp;</p>
 
 ## 📌 Productivity Software
