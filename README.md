@@ -109,6 +109,10 @@ Project management and shortcuts in your macOS menu bar
 
 Find concurrency & performance issues early and ship with more confidence.
 
+### 💸 [Webhookify](https://webhookify.io?ref=bfd24) - 70% OFF all licenses until Dec 14
+
+Effortless Webhook Integrations for Developers.
+
 <p>&nbsp;</p>
 
 ## :tophat: Security Software
