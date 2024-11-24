@@ -575,6 +575,10 @@ Calorific is a nutrition app that lets users log meals by photo and uses artific
 
 Beautiful and intuitive journaling app for iPhone, iPad, Mac, and Vision Pro.
 
+### 💸 [Moderation - Food Diary](https://apps.apple.com/app/apple-store/id1086750452?pt=486587&ct=Github%20Black%20Friday&mt=8) - 66% off Annual, Nov 29 - Dec 2, Promo code 'BLACKFRIDAY'
+
+Moderation is the simple food diary that brings joy back to mindful eating. No calorie counting, just quick meal logging and smart insights.
+
 <p>&nbsp;</p>
 
 ## 🎁 Bundles
