@@ -161,10 +161,6 @@ FileMinutes simplifies file handling on your Mac with fast search, easy navigati
 <p>&nbsp;</p>
 
 ## 📌 Productivity Software
-### 💸 [PhotInfo](https://apps.apple.com/app/photinfo/id597139381) - 66% OFF , Nov 29 - Dec 3
-
-PhotInfo is an app to view and edit the information (location, date, dimensions, camera, IPTC tags, etc.) contained in your in your photos.
-
 ### 💸 [Quick Capture - Obsidian iOS](https://quickcaptureobsidian.app/) - Lifetime 50% OFF 
 
 Send anything to any vault in Obsidian 10x faster
@@ -274,6 +270,9 @@ Access the power of ChatGPT across all your macOS apps with the press of a short
 
 Mindful productivity app with your own locally running AI, helpful for planning, procrastination, distractions, emotions and thoughts.
 
+### 💸 [PhotInfo](https://apps.apple.com/app/photinfo/id597139381) - 66% OFF , Nov 29 - Dec 3
+
+PhotInfo is an app to view and edit the information (location, date, dimensions, camera, IPTC tags, etc.) contained in your in your photos.
 
 <p>&nbsp;</p>
 
