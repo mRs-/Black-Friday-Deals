@@ -382,6 +382,8 @@ Control the brightness of your monitors directly from your Mac - no need to touc
 
 PhotInfo is an app to view and edit the information (location, date, dimensions, camera, IPTC tags, etc.) contained in your in your photos.
 
+### 💸 [AnySelect](https://anyselectai.com/) The best and quickest way to use ChatGPT/LLM from any app on macOS!. Get 60% off with this code **BF2024**
+
 <p>&nbsp;</p>
 
 ## Video Software
