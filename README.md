@@ -365,6 +365,10 @@ Clipboard manager for macOS.
 
 Quickly run parametric prompts with AI.
 
+### 💸 [SumyAI - Youtube summarize tool](https://sumyai.com) -  50% OFF with code BF24
+
+Turn YouTube videos to A Summary, Thread and Post.
+
 <p>&nbsp;</p>
 
 ## Video Software
@@ -498,6 +502,7 @@ Native ChatPDF app for Mac.
 ### 💰 [Mobile System Design](https://www.mobilesystemdesign.com) - 25% OFF
 ### 💰 [Swift Gems: 100+ tips to take your Swift code to the next level](https://books.nilcoalescing.com/swift-gems) - 30% OFF
 ### 💰 [Integrating SwiftUI into UIKit Apps](https://books.nilcoalescing.com/integrating-swiftui) - 30% OFF
+### 📚 [Honkist - Short key ideas from non-fiction books](https://honkist.com) -  50% OFF with code BF24
 
 <p>&nbsp;</p>
 
