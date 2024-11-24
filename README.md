@@ -105,6 +105,10 @@ Simplified App Localization: Take your SwiftUI app global effortlessly by locali
 
 Project management and shortcuts in your macOS menu bar
 
+### 💰 [Clobbr](https://clobbr.app/?ref=mrs) - 50% OFF in the AppStore valid through Dec 7
+
+Find concurrency & performance issues early and ship with more confidence.
+
 <p>&nbsp;</p>
 
 ## :tophat: Security Software
@@ -193,6 +197,14 @@ Teleport your cursor across your displays
 ### 💸 [Kompressor - Image Converter](https://apps.apple.com/us/app/kompressor-image-converter/id6468196574?mt=12&pt=123127751&ct=mrs-bf) - Lifetime 50% OFF
 
 A beautifully designed and fun-to-use image converter for macOS with support for over 50 different formats.
+
+### 🌍 [QuakeSense](https://apps.apple.com/us/app/quakesense-earthquake-alerts/id6630381970) - 50% OFF Pro Plans (Nov 25 - Dec 2)
+
+Real-time global earthquake monitoring app that aggregates data from multiple authoritative sources worldwide (USGS, EMSC, CENC, etc.), with native SwiftUI design, critical push notifications, and comprehensive earthquake information presentation.
+
+### 📸 [ThenNow](https://apps.apple.com/us/app/thennow-photo-time-machine/id6711347898) - 50% OFF Pro Plans (Nov 25 - Dec 2)
+
+Your Photo Time Machine that helps you rediscover memories by automatically displaying photos from this day in history. Features include auto photo display by date, location-based timeline, beautiful sharing templates, and privacy-first local processing.
 
 <p>&nbsp;</p>
 
@@ -345,6 +357,19 @@ Sticky notes that attaches directly to your macOS windows
 
 All-in-one platform to build, run, & share AI agents and multi-agent workflows to automate business processes.
 
+
+### 💰 [Pasta](https://apps.apple.com/us/app/pasta-clipboard-manager/id1438389787) - 45% off lifetime, Nov 29 - Dec 2
+
+Clipboard manager for macOS.
+
+### 💸 [Promptastic](https://apps.apple.com/us/app/promptastic/id1663791696) - 60% off first year of Pro, Nov 29 - Dec 2
+
+Quickly run parametric prompts with AI.
+
+### 💸 [SumyAI - Youtube summarize tool](https://sumyai.com) -  50% OFF with code BF24
+
+Turn YouTube videos to A Summary, Thread and Post.
+
 ### 💰 [DisplayBuddy](https://displaybuddy.app) - 25% OFF with code **BLACKFRIDAY**
 
 Control the brightness of your monitors directly from your Mac - no need to touch your clunky monitor buttons!
@@ -406,6 +431,10 @@ macOS, Windows, and iOS photo editing, illustration editing, and page layout pro
 
 Photo & Video Editing for iPhone, Mac, iPad and Vision Pro. Apple Design Award winning, premium creative app designed for creators who value workflow speed, simplicity, and power.
 
+### 💰 [Savvyshot](https://www.savvyshot.app/) - **70% OFF** with code **BLACKFRIDAY2024**
+
+No more boring Screenshot, ever! Beautify, enhance, and share stunning screenshots effortlessly on Windows and Mac.
+
 <p>&nbsp;</p>
 
 
@@ -437,6 +466,10 @@ Private character chat app and story writer - either run models locally with Oll
 ### 💸 [Lines of Zen](https://linesofzen.com) - 62% OFF
 
 Lines of Zen is a meditation app where you relax through a series of guided drawing exercises. During the sale, get a year of access for $14.99 (62% off).
+
+### 💸 [LEDit - LED Banner](https://apps.apple.com/us/app/led-banner-ledit/id307741537) - 53% off lifetime, Nov 29 - Dec 2
+
+LED matrix display app for iPhone and iPad.
 
 <p>&nbsp;</p>
 
@@ -474,6 +507,7 @@ Native ChatPDF app for Mac.
 ### 💰 [Mobile System Design](https://www.mobilesystemdesign.com) - 25% OFF
 ### 💰 [Swift Gems: 100+ tips to take your Swift code to the next level](https://books.nilcoalescing.com/swift-gems) - 30% OFF
 ### 💰 [Integrating SwiftUI into UIKit Apps](https://books.nilcoalescing.com/integrating-swiftui) - 30% OFF
+### 📚 [Honkist - Short key ideas from non-fiction books](https://honkist.com) -  50% OFF with code BF24
 
 <p>&nbsp;</p>
 
@@ -489,6 +523,9 @@ Turn your passion into independence.
 ### 💰 [Getting Started: macOS apps with SwiftUI](https://gracehuang.gumroad.com/l/course-macos-swiftui/BLACKFRIDAY24) - 40% OFF
 
 Learn SwiftUI for macOS development.
+
+### 💸 [Get Your First Client as a Freelancer](https://getyourfirstclient.freelancerpath.com/) - 50% OFF
+A complete step by step guide to get your first client as a freelancer from scratch.
 
 <p>&nbsp;</p>
 
@@ -525,6 +562,10 @@ The simple app to build good habits, break bad habits, and achieve greatness! Av
 ### 💰 [Calorific - Calorie Counter](https://apps.apple.com/app/calorific-nutrition-tracker/id6645043253?pt=118518712&ct=github&mt=8) - 50% off your first year! Promo code 'BF24'.
 
 Calorific is a nutrition app that lets users log meals by photo and uses artificial intelligence to estimate calories and macronutrients.
+
+### 💰 [Everlog Journal](https://apps.apple.com/us/app/everlog-journal/id1519935634) - 45% off Lifetime, Nov 29 - Dec 2
+
+Beautiful and intuitive journaling app for iPhone, iPad, Mac, and Vision Pro.
 
 <p>&nbsp;</p>
 
