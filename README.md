@@ -85,6 +85,26 @@ Easiest way to localize and update App Store metadata.
 
 Create App Store screenshots in minutes not hours.
 
+### 💰 [Folge](https://folge.me) - 25% OFF all licenses with code **FRIDAY25**
+
+Easily create step-by-step guides, tutorials, SOPs, and documentation for any process. 
+
+### 💰 [Dash](https://kapeli.com/dash) - 30% OFF the first year, code BLACKFRIDAY, valid through Dec 3
+
+Instant offline access to 200+ API documentation sets and code snippet manager.
+
+### 💸 [Picasso: App Store Screenshots](https://apps.apple.com/app/apple-store/id6472062986?pt=972586&ct=Black-Friday-Deals-GitHub&mt=8) - 50% OFF Lifetime Pass, valid through Dec 3
+
+Take the headache out of App Store Screenshots with full device support, localization, and direct upload to App Store Connect.
+
+### 💰 [TranslateKit: App Localization](https://apps.apple.com/app/apple-store/id6476773066?pt=549314&ct=github.com&mt=8) – $30 OFF, valid through Nov 30
+
+Simplified App Localization: Take your SwiftUI app global effortlessly by localize your Xcode String Catalog files with ease. Extend your potential customer base by billions within minutes! [Learn more](https://translatekit.app)
+
+### 💰 [DevControls](https://jontelang.com/DevControls) - CODE: **BLACKFRIDAY2024** 25% off
+
+Project management and shortcuts in your macOS menu bar
+
 <p>&nbsp;</p>
 
 ## :tophat: Security Software
@@ -158,6 +178,18 @@ Currency calculator for traveler.
 
 FileMinutes simplifies file handling on your Mac with fast search, easy navigation, and file actions in one app.
 
+### 💰 [BookletCreator](https://www.bookletcreator.com) - 25% off (automatically applied)
+
+BookletCreator is a simple tool that allows you to create a booklet from a PDF document. It reorders pages so that after printing and folding the pages, a small book is created.
+
+### 💸 [XGetter](https://xgetter.com/?utm_source=aw_bf2024_2) - 60% OFF with code BLACKFRIDAY2024
+
+Cross-platform media downloader - allows to download media from over 50+ platforms, likes YouTube, X, Facebook, Instagram, TikTok, Youku, QQ, Weibo,...
+
+### 💰� [Cursor Teleporter](https://www.apptorium.com/cursor-teleporter) - Lifetime 50% OFF
+
+Teleport your cursor across your displays
+
 ### 💸 [Kompressor - Image Converter](https://apps.apple.com/us/app/kompressor-image-converter/id6468196574?mt=12&pt=123127751&ct=mrs-bf) - Lifetime 50% OFF
 
 A beautifully designed and fun-to-use image converter for macOS with support for over 50 different formats.
@@ -165,11 +197,6 @@ A beautifully designed and fun-to-use image converter for macOS with support for
 <p>&nbsp;</p>
 
 ## 📌 Productivity Software
-### 💸 [Quick Capture - Obsidian iOS](https://quickcaptureobsidian.app/) - Lifetime 50% OFF 
-
-Send anything to any vault in Obsidian 10x faster
-
-Access all AI models in one native Mac app: Advanced Voice Mode, Document Analysis, AI Plugins, and more.
 ### 💸 [BoltAI](https://boltai.com?ref=bfdeals) - 30% OFF with code **BFCM2024**
 
 Access all AI models in one native Mac app: Advanced Voice Mode, Document Analysis, AI Plugins, and more.
@@ -274,6 +301,45 @@ Access the power of ChatGPT across all your macOS apps with the press of a short
 
 Mindful productivity app with your own locally running AI, helpful for planning, procrastination, distractions, emotions and thoughts.
 
+### 💸 [Tailored Emails - Cold Email Assistant](https://tailoredemails.com) - 50% OFF Lifetime
+
+AI MacOS app to create personalized cold email openers that can be imported into your cold outreach tool to close clients faster
+
+### 💸 [NoteSLAYER](https://note-slayer.com/) - 55% OFF Lifetime and other plans, use BLACKBLACK24
+
+Note SLAYER: Advanced note-taking & task management for Desktop(Linux, Windows and MacOS).
+
+### 🐰 [CodeRabbit](https://coderabbit.ai) - Free for open-source projects | Use code **BLACKFRIDAY** for 1 month free on the pro version.
+
+AI-Powered Code Review Bot - Detailed code reviews and actionable suggestions to enhance code quality. Integrates with GitHub and GitLab. 
+
+### 💸 [SideNotes](https://www.apptorium.com/sidenotes) - Lifetime 40% OFF
+
+SideNotes keeps your notes on the side of the screen. Appears when you click a little bar or move your cursor to the screen side.
+
+### 💰 [Workspaces](https://www.apptorium.com/workspaces) - Lifetime 50% OFF
+
+Project-based launcher that opens your files, folders, websites, apps etc. with one click.
+
+### 💸 [FiveNotes](https://www.apptorium.com/fivenotes) - Lifetime 37% OFF
+
+Five quick notes in your Menubar.
+
+### 💸 [screenpipe](https://screenpi.pe) - 30% OFF Lifetime
+
+AI assistant that has all the context screenpipe captures your computer while you work - including your meetings - letting you go back to any moment in an instant
+
+### 💸 [BoloSign](https://www.boloforms.com/) - 40% OFF on Annual Plans. Use code **BOLOBFCM40**
+
+The eSignature/digital signature Platform for Small Businesses. Unlimited PDF signatures, templates, forms, and team members. One fixed price. No extra charges, ever.
+
+### 💰 [ScreenMemory](https://screenmemory.app) - CODE: **BLACKFRIDAY2024** 25% off
+
+Photographic memory for your macOS screen, rewind time on your screen
+
+### 💰 [Monkey Notes](https://jontelang.com/monkeynotes)  - CODE **BLACKFRIDAY2024** 25% off
+
+Sticky notes that attaches directly to your macOS windows
 
 <p>&nbsp;</p>
 
@@ -294,6 +360,9 @@ Cuts out the pauses automatically for you, creating an instant rough cut. Speed 
 
 macOS app for recording your face directly into your videos. Loom but with 1 time payment.
 
+### 💰 [Loomos](https://loomos.co) ~ 50% OFF till BLACK FRIDAY
+
+Transform boring screen recordings into studio-quality videos in single click. Remove all the 'uhms', translate to 20+ languages
 <p>&nbsp;</p>
 
 ## 🎨 Graphic Software
@@ -357,6 +426,10 @@ Remember what inspires you with Thoughts. Save and organize your quotes, thought
 
 Private character chat app and story writer - either run models locally with Ollama, or use our cloud-hosted models. 50% OFF with code **BZAOH18**.
 
+### 💸 [Lines of Zen](https://linesofzen.com) - 62% OFF
+
+Lines of Zen is a meditation app where you relax through a series of guided drawing exercises. During the sale, get a year of access for $14.99 (62% off).
+
 <p>&nbsp;</p>
 
 ## 🗣️ Social
@@ -364,6 +437,8 @@ Private character chat app and story writer - either run models locally with Oll
 
 Reach maximum Reddit traffic by finding the best times to post. Track 400+ subreddits activity and optimize your posting schedule to increase your brand awareness and traffic.  
 
+### 💰 [Postiz](https://postiz.com) - 50% OFF lifetime |Use code **BF2024** 
+The ultimate AI social media scheduling tool also open-source!	
 
 <p>&nbsp;</p>
 
@@ -386,6 +461,11 @@ Native ChatPDF app for Mac.
 ### 💰 [A Practical Guide to Writing a Software Technical Design Document](https://gracehuang.gumroad.com/l/mqmUt/BLACKFRIDAY24) - 40% OFF
 ### 💰 [Dynamic Trio: Building Web Applications with React, Next.js & Tailwind](https://gracehuang.gumroad.com/l/dynamic-trio/BLACKFRIDAY24) - 40% OFF
 ### 💰 [Optimizing The 4% Rule: How to Build, Backtest, and Manage a Financial Independence Portfolio](https://gracehuang.gumroad.com/l/4percentrule/BLACKFRIDAY24) - 40% OFF
+### 💰 [A Developer's Guide to Blogging](https://theankurtyagi.gumroad.com/l/blogging/BlackFriday) - 50% OFF
+### 💰 [Indexing Beyond the Basics](https://goodindexes.com) - 50% OFF
+### 💰 [Mobile System Design](https://www.mobilesystemdesign.com) - 25% OFF
+### 💰 [Swift Gems: 100+ tips to take your Swift code to the next level](https://books.nilcoalescing.com/swift-gems) - 30% OFF
+### 💰 [Integrating SwiftUI into UIKit Apps](https://books.nilcoalescing.com/integrating-swiftui) - 30% OFF
 
 <p>&nbsp;</p>
 
@@ -423,6 +503,10 @@ Aikeedo is a ready-made PHP software with customizable features to launch your A
 
 Launch, Get Exposure and First Sales.
 
+### 🛒 [Zylvie](https://zylvie.com) - 75% OFF all plans with code BFRIDAY2024, Nov 21 - Dec 4
+
+High-converting checkout software for coaches and creators to sell info products, subscriptions, coaching, services, programs, etc.
+
 <p>&nbsp;</p>
 
 ## 🏃🏻‍♀️ Health & Fitness Software
@@ -440,6 +524,10 @@ Calorific is a nutrition app that lets users log meals by photo and uses artific
 ### 💰 [Books for Software Engineers at Work](https://gracehuang.gumroad.com/l/engineering-books/BLACKFRIDAY24) - 40% OFF
 
 A bundle of 3 engineering books.
+
+### 💰 [Books for Swift and SwiftUI developers](https://books.nilcoalescing.com) - 30% OFF
+
+A bundle of 2 books: Integrating SwiftUI into UIKit Apps and Swift Gems.
 
 <p>&nbsp;</p>
 
@@ -460,15 +548,25 @@ Track your subscriptions in one place across all your Apple devices and get noti
 
 A standalone spreadsheet to track your net worth and prepare for financial freedom.
 
+### 💰 [Ghostfolio](https://ghostfol.io/en/blog/2024/11/black-weeks-2024) - 25% OFF plus 3 months extra
+
+Ghostfolio is a privacy-first, open source dashboard for your personal finances. Designed to simplify asset tracking and empower informed investment decisions.
+
 ## 🗺️ Navigation
 ### 🚘 [EV Charge Stations Map](https://apple.co/3NWejUz) - Lifetime 66% OFF, Nov 20 - Dec 2
 
 This is an app to show all EV charging stations through their location. Available for iOS, iPadOS, watchOS, and visionOS.
 
 ## 🔎 SEO
+### 💰 [Backlinkmonitor](https://www.backlinkmonitor.com/) - Coupon Code: BLACKFRIDAY30  - 30% OFF on All Plans of BacklinkMonitor
+
+Experience the power of real-time link monitoring with BLM. Stay updated on your website's link profile with instant status change notifications
+
 ### 💰 [Example](https://example.com) - Product Description - Deal details
 
 ## 🏡 Home Automation
-### 💰 [Example](https://example.com) - Product Description - Deal details
+### 💸 [GlanceCam - IP Camera Viewer](https://apps.apple.com/us/app/glancecam-ip-camera-viewer/id1360797896) - 50% OFF, Nov 28 - Dec 3
+
+GlanceCam is a secure and beloved IP camera viewer for macOS, with over 600 App Store ratings averaging more than 4.2 stars. It supports standard streaming protocols and offers lots of advanced features. With 41 free updates over 6 years, GlanceCam is the best choice for streaming IP Cameras from any manufacturer, with powerful features (Instazoom, Always on top...) and automations.
 
 ## 🕹 Games
