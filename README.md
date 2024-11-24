@@ -479,6 +479,10 @@ Lines of Zen is a meditation app where you relax through a series of guided draw
 
 LED matrix display app for iPhone and iPad.
 
+### 💸 [AIhairstyles](https://aihairstyles.com) - 30% off all purchases, Nov 24 - Dec 6
+
+Find the right hairstyle for you with the power of AI - use code BFRIDAY30 in checkout
+
 <p>&nbsp;</p>
 
 ## 🗣️ Social
