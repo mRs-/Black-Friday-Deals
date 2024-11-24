@@ -345,6 +345,14 @@ Sticky notes that attaches directly to your macOS windows
 
 All-in-one platform to build, run, & share AI agents and multi-agent workflows to automate business processes.
 
+### 💰 [Pasta](https://apps.apple.com/us/app/pasta-clipboard-manager/id1438389787) - 45% off lifetime, Nov 29 - Dec 2
+
+Clipboard manager for macOS.
+
+### 💸 [Promptastic](https://apps.apple.com/us/app/promptastic/id1663791696) - 60% off first year of Pro, Nov 29 - Dec 2
+
+Quickly run parametric prompts with AI.
+
 <p>&nbsp;</p>
 
 ## Video Software
@@ -434,6 +442,10 @@ Private character chat app and story writer - either run models locally with Oll
 
 Lines of Zen is a meditation app where you relax through a series of guided drawing exercises. During the sale, get a year of access for $14.99 (62% off).
 
+### 💸 [LEDit - LED Banner](https://apps.apple.com/us/app/led-banner-ledit/id307741537) - 53% off lifetime, Nov 29 - Dec 2
+
+LED matrix display app for iPhone and iPad.
+
 <p>&nbsp;</p>
 
 ## 🗣️ Social
@@ -521,6 +533,10 @@ The simple app to build good habits, break bad habits, and achieve greatness! Av
 ### 💰 [Calorific - Calorie Counter](https://apps.apple.com/app/calorific-nutrition-tracker/id6645043253?pt=118518712&ct=github&mt=8) - 50% off your first year! Promo code 'BF24'.
 
 Calorific is a nutrition app that lets users log meals by photo and uses artificial intelligence to estimate calories and macronutrients.
+
+### 💰 [Everlog Journal](https://apps.apple.com/us/app/everlog-journal/id1519935634) - 45% off Lifetime, Nov 29 - Dec 2
+
+Beautiful and intuitive journaling app for iPhone, iPad, Mac, and Vision Pro.
 
 <p>&nbsp;</p>
 
