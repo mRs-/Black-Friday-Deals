@@ -93,6 +93,18 @@ Easily create step-by-step guides, tutorials, SOPs, and documentation for any pr
 
 Instant offline access to 200+ API documentation sets and code snippet manager.
 
+### 💸 [Picasso: App Store Screenshots](https://apps.apple.com/app/apple-store/id6472062986?pt=972586&ct=Black-Friday-Deals-GitHub&mt=8) - 50% OFF Lifetime Pass, valid through Dec 3
+
+Take the headache out of App Store Screenshots with full device support, localization, and direct upload to App Store Connect.
+
+### 💰 [TranslateKit: App Localization](https://apps.apple.com/app/apple-store/id6476773066?pt=549314&ct=github.com&mt=8) – $30 OFF, valid through Nov 30
+
+Simplified App Localization: Take your SwiftUI app global effortlessly by localize your Xcode String Catalog files with ease. Extend your potential customer base by billions within minutes! [Learn more](https://translatekit.app)
+
+### 💰 [DevControls](https://jontelang.com/DevControls) - CODE: **BLACKFRIDAY2024** 25% off
+
+Project management and shortcuts in your macOS menu bar
+
 <p>&nbsp;</p>
 
 ## :tophat: Security Software
@@ -178,6 +190,10 @@ Cross-platform media downloader - allows to download media from over 50+ platfor
 
 Teleport your cursor across your displays
 
+### 💸 [Kompressor - Image Converter](https://apps.apple.com/us/app/kompressor-image-converter/id6468196574?mt=12&pt=123127751&ct=mrs-bf) - Lifetime 50% OFF
+
+A beautifully designed and fun-to-use image converter for macOS with support for over 50 different formats.
+
 ### 🌍 [QuakeSense](https://apps.apple.com/us/app/quakesense-earthquake-alerts/id6630381970) - 50% OFF Pro Plans (Nov 25 - Dec 2)
 
 Real-time global earthquake monitoring app that aggregates data from multiple authoritative sources worldwide (USGS, EMSC, CENC, etc.), with native SwiftUI design, critical push notifications, and comprehensive earthquake information presentation.
@@ -189,11 +205,6 @@ Your Photo Time Machine that helps you rediscover memories by automatically disp
 <p>&nbsp;</p>
 
 ## 📌 Productivity Software
-### 💸 [Quick Capture - Obsidian iOS](https://quickcaptureobsidian.app/) - Lifetime 50% OFF 
-
-Send anything to any vault in Obsidian 10x faster
-
-Access all AI models in one native Mac app: Advanced Voice Mode, Document Analysis, AI Plugins, and more.
 ### 💸 [BoltAI](https://boltai.com?ref=bfdeals) - 30% OFF with code **BFCM2024**
 
 Access all AI models in one native Mac app: Advanced Voice Mode, Document Analysis, AI Plugins, and more.
@@ -326,6 +337,30 @@ Five quick notes in your Menubar.
 
 AI assistant that has all the context screenpipe captures your computer while you work - including your meetings - letting you go back to any moment in an instant
 
+### 💸 [BoloSign](https://www.boloforms.com/) - 40% OFF on Annual Plans. Use code **BOLOBFCM40**
+
+The eSignature/digital signature Platform for Small Businesses. Unlimited PDF signatures, templates, forms, and team members. One fixed price. No extra charges, ever.
+
+### 💰 [ScreenMemory](https://screenmemory.app) - CODE: **BLACKFRIDAY2024** 25% off
+
+Photographic memory for your macOS screen, rewind time on your screen
+
+### 💰 [Monkey Notes](https://jontelang.com/monkeynotes)  - CODE **BLACKFRIDAY2024** 25% off
+
+Sticky notes that attaches directly to your macOS windows
+
+### 😎 [MindPal](https://mindpal.space/) - 60% OFF all YEARLY plans with code BLACKFRIDAY24 (valid until Dec 8, 2024)
+
+All-in-one platform to build, run, & share AI agents and multi-agent workflows to automate business processes.
+
+### 💰 [Pasta](https://apps.apple.com/us/app/pasta-clipboard-manager/id1438389787) - 45% off lifetime, Nov 29 - Dec 2
+
+Clipboard manager for macOS.
+
+### 💸 [Promptastic](https://apps.apple.com/us/app/promptastic/id1663791696) - 60% off first year of Pro, Nov 29 - Dec 2
+
+Quickly run parametric prompts with AI.
+
 <p>&nbsp;</p>
 
 ## Video Software
@@ -415,6 +450,10 @@ Private character chat app and story writer - either run models locally with Oll
 
 Lines of Zen is a meditation app where you relax through a series of guided drawing exercises. During the sale, get a year of access for $14.99 (62% off).
 
+### 💸 [LEDit - LED Banner](https://apps.apple.com/us/app/led-banner-ledit/id307741537) - 53% off lifetime, Nov 29 - Dec 2
+
+LED matrix display app for iPhone and iPad.
+
 <p>&nbsp;</p>
 
 ## 🗣️ Social
@@ -449,6 +488,8 @@ Native ChatPDF app for Mac.
 ### 💰 [A Developer's Guide to Blogging](https://theankurtyagi.gumroad.com/l/blogging/BlackFriday) - 50% OFF
 ### 💰 [Indexing Beyond the Basics](https://goodindexes.com) - 50% OFF
 ### 💰 [Mobile System Design](https://www.mobilesystemdesign.com) - 25% OFF
+### 💰 [Swift Gems: 100+ tips to take your Swift code to the next level](https://books.nilcoalescing.com/swift-gems) - 30% OFF
+### 💰 [Integrating SwiftUI into UIKit Apps](https://books.nilcoalescing.com/integrating-swiftui) - 30% OFF
 
 <p>&nbsp;</p>
 
@@ -464,6 +505,9 @@ Turn your passion into independence.
 ### 💰 [Getting Started: macOS apps with SwiftUI](https://gracehuang.gumroad.com/l/course-macos-swiftui/BLACKFRIDAY24) - 40% OFF
 
 Learn SwiftUI for macOS development.
+
+### 💸 [Get Your First Client as a Freelancer](https://getyourfirstclient.freelancerpath.com/) - 50% OFF
+A complete step by step guide to get your first client as a freelancer from scratch.
 
 <p>&nbsp;</p>
 
@@ -486,6 +530,10 @@ Aikeedo is a ready-made PHP software with customizable features to launch your A
 
 Launch, Get Exposure and First Sales.
 
+### 🛒 [Zylvie](https://zylvie.com) - 75% OFF all plans with code BFRIDAY2024, Nov 21 - Dec 4
+
+High-converting checkout software for coaches and creators to sell info products, subscriptions, coaching, services, programs, etc.
+
 <p>&nbsp;</p>
 
 ## 🏃🏻‍♀️ Health & Fitness Software
@@ -497,12 +545,20 @@ The simple app to build good habits, break bad habits, and achieve greatness! Av
 
 Calorific is a nutrition app that lets users log meals by photo and uses artificial intelligence to estimate calories and macronutrients.
 
+### 💰 [Everlog Journal](https://apps.apple.com/us/app/everlog-journal/id1519935634) - 45% off Lifetime, Nov 29 - Dec 2
+
+Beautiful and intuitive journaling app for iPhone, iPad, Mac, and Vision Pro.
+
 <p>&nbsp;</p>
 
 ## 🎁 Bundles
 ### 💰 [Books for Software Engineers at Work](https://gracehuang.gumroad.com/l/engineering-books/BLACKFRIDAY24) - 40% OFF
 
 A bundle of 3 engineering books.
+
+### 💰 [Books for Swift and SwiftUI developers](https://books.nilcoalescing.com) - 30% OFF
+
+A bundle of 2 books: Integrating SwiftUI into UIKit Apps and Swift Gems.
 
 <p>&nbsp;</p>
 
