@@ -206,6 +206,10 @@ Real-time global earthquake monitoring app that aggregates data from multiple au
 
 Your Photo Time Machine that helps you rediscover memories by automatically displaying photos from this day in history. Features include auto photo display by date, location-based timeline, beautiful sharing templates, and privacy-first local processing.
 
+### 💰 [Captionify](https://captionify.app) - 40% off (Nov 23 - Nov 30)
+
+Easily transcribe into subtitle, plain text, or video captions from your video or audio files. All processed privately without any data leaving your Mac.
+
 <p>&nbsp;</p>
 
 ## 📌 Productivity Software
