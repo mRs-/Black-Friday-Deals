@@ -345,6 +345,10 @@ Sticky notes that attaches directly to your macOS windows
 
 All-in-one platform to build, run, & share AI agents and multi-agent workflows to automate business processes.
 
+### 💰 [DisplayBuddy](https://displaybuddy.app) - 25% OFF with code **BLACKFRIDAY**
+
+Control the brightness of your monitors directly from your Mac - no need to touch your clunky monitor buttons!
+
 <p>&nbsp;</p>
 
 ## Video Software
