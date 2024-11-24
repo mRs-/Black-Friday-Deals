@@ -601,6 +601,14 @@ A standalone spreadsheet to track your net worth and prepare for financial freed
 
 Ghostfolio is a privacy-first, open source dashboard for your personal finances. Designed to simplify asset tracking and empower informed investment decisions.
 
+### 💸 [Expenses Manager](https://apps.apple.com/us/app/monthly-expenses-tracker-app/id1590852070) - Lifetime 80% OFF, Nov 26 - Dec 2
+
+#1 Private Expense Tracker: Budget, Track Spending, and Save Smarter with Expenses Manager.
+
+### 💸 [ReceiptBox](https://apps.apple.com/us/app/receipt-organizer-receiptbox/id6657987970) - 50% OFF, Nov 26 - Dec 2
+
+Say goodbye to paper clutter! Store your receipts securely in cloud and access them whenever you need.
+
 ## 🗺️ Navigation
 ### 🚘 [EV Charge Stations Map](https://apple.co/3NWejUz) - Lifetime 66% OFF, Nov 20 - Dec 2
 
