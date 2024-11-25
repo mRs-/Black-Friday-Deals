@@ -12,6 +12,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ## Table of Contents
 
 - [🛠 Development Software](#-development-software)
+- [🌈 Marketing Software](#-marketing-software)
 - [🎩 Security Software](#tophat-security-software)
 - [🎛 Utility Software](#-utility-software)
 - [📌 Productivity Software](#-productivity-software)
@@ -112,6 +113,13 @@ Find concurrency & performance issues early and ship with more confidence.
 ### 💸 [Webhookify](https://webhookify.io?ref=bfd24) - 70% OFF all licenses until Dec 14
 
 Effortless Webhook Integrations for Developers.
+
+<p>&nbsp;</p>
+
+## 🛠 Marketing Software
+### 💸 [SyncSignature](https://syncsignature.com) - Get 60% on all recurring plans. Use code BF24CM60 on checkout - Until 10 December
+
+Branded email signatures for your teams. SyncSignature helps design, update and automatically install email signatures for everyone across your business.
 
 <p>&nbsp;</p>
 
