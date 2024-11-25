@@ -388,6 +388,10 @@ PhotInfo is an app to view and edit the information (location, date, dimensions,
 
 ### 💸 [AnySelect](https://anyselectai.com/) The best and quickest way to use ChatGPT/LLM from any app on macOS!. Get 60% off with this code **BF2024**
 
+### 💸 [Trickster](https://www.apparentsoft.com/trickster) ~ 50% OFF till Dec 2nd
+
+Find Recently used and modified files at your fingertips. 50% off.
+
 <p>&nbsp;</p>
 
 ## Video Software
@@ -410,10 +414,6 @@ macOS app for recording your face directly into your videos. Loom but with 1 tim
 ### 💰 [Loomos](https://loomos.co) ~ 50% OFF till BLACK FRIDAY
 
 Transform boring screen recordings into studio-quality videos in single click. Remove all the 'uhms', translate to 20+ languages
-
-### 💸 [Trickster](https://www.apparentsoft.com/trickster) ~ 50% OFF till Dec 2nd
-
-Find Recently used and modified files at your fingertips. 50% off.
 
 <p>&nbsp;</p>
 
