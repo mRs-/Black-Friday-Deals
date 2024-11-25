@@ -214,6 +214,10 @@ Your Photo Time Machine that helps you rediscover memories by automatically disp
 
 Easily transcribe into subtitle, plain text, or video captions from your video or audio files. All processed privately without any data leaving your Mac.
 
+### 💰 [Wins](https://wins.cool) - 40% off (Nov 23 - Nov 30)
+
+A New Mac Window Manager. Dock Window Previewer, Aero shake, Mission Control Pro and more. Bring System-level Arrange Window features to Mac
+
 <p>&nbsp;</p>
 
 ## 📌 Productivity Software
