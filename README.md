@@ -113,6 +113,10 @@ Find concurrency & performance issues early and ship with more confidence.
 
 Effortless Webhook Integrations for Developers.
 
+### 💰 [Tower](https://www.git-tower.com/) - 30% OFF valid through Dec 8
+
+Powerful Git client for Mac and Windows.
+
 <p>&nbsp;</p>
 
 ## :tophat: Security Software
