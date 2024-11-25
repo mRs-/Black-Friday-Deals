@@ -530,6 +530,11 @@ Native ChatPDF app for Mac.
 <p>&nbsp;</p>
 
 ## 👩‍🎓 Courses and Videos
+
+### 💰 [BoringCashCow](https://boringcashcow.com/premium) - 40% OFF with code **CLMVBG**, Nov 25 - Nov 30
+
+Access to proven business ideas that solving real problems and build your own profitable business.
+
 ### 🧪 [LabEx](https://labex.io/pricing) - Up to 50% OFF
 
 Learn Linux, DevOps & Cybersecurity with Hands-on Labs.
