@@ -631,6 +631,10 @@ Ghostfolio is a privacy-first, open source dashboard for your personal finances.
 
 Say goodbye to paper clutter! Store your receipts securely in cloud and access them whenever you need.
 
+### 💰 [Capitally](https://www.mycapitally.com/) - Lifetime on offer, Nov 25 - Dec 8
+
+Track, understand and improve the performance of your investment strategy, no matter how simple or complex, and achieve your life goals sooner!
+
 ## 🗺️ Navigation
 ### 🚘 [EV Charge Stations Map](https://apple.co/3NWejUz) - Lifetime 66% OFF, Nov 20 - Dec 2
 
