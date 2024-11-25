@@ -214,6 +214,9 @@ Your Photo Time Machine that helps you rediscover memories by automatically disp
 
 Easily transcribe into subtitle, plain text, or video captions from your video or audio files. All processed privately without any data leaving your Mac.
 
+### 💸 [Sensei](https://cindori.com/sensei) - 50% off (Nob 25 - Dec 2)
+Maximise your Mac performance (macOS). Disk cleaner, performance dashboard, status bar monitor & more.
+
 <p>&nbsp;</p>
 
 ## 📌 Productivity Software
