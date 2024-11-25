@@ -570,7 +570,7 @@ Launch, Get Exposure and First Sales.
 
 High-converting checkout software for coaches and creators to sell info products, subscriptions, coaching, services, programs, etc.
 
-### 💰 [Appfigures](https://appfigures.com) - 50% OFF ASO + App Intelligence with Code BF2450
+### 💸 [Appfigures](https://appfigures.com) - 50% OFF ASO + App Intelligence with Code BF2450
 
 Grow your app's downloads and revenue with the best-in-class ASO and App Intelligence tools.
 
