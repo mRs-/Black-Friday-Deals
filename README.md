@@ -214,6 +214,10 @@ Your Photo Time Machine that helps you rediscover memories by automatically disp
 
 Easily transcribe into subtitle, plain text, or video captions from your video or audio files. All processed privately without any data leaving your Mac.
 
+### 💰 [Split the Bill with Checkparty](https://itunes.apple.com/us/app/checkparty/id905723797) - 50% off lifetime (Nov 24 - Dec 3rd)
+
+Fairly split your bill with friends at restaurants so everyone pays the correct percent of tax, tip. Send payment summaries and requests. See share breakdown and track who's paid you back already.
+
 <p>&nbsp;</p>
 
 ## 📌 Productivity Software
