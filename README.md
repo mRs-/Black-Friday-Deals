@@ -388,6 +388,10 @@ PhotInfo is an app to view and edit the information (location, date, dimensions,
 
 ### 💸 [AnySelect](https://anyselectai.com/) The best and quickest way to use ChatGPT/LLM from any app on macOS!. Get 60% off with this code **BF2024**
 
+### 💸 [SuperText](https://apps.apple.com/app/supertext/id6503445499) - 50% OFF for yearly plan with code **BLACKFRIDAY24** (till Dec 30)
+
+A spell checker that combine traditional spell checking with AI to provide the best possible correction. Shortcuts and Services Menu compatible to spell check from any app. Available on macOS, iOS and visionOS.
+
 <p>&nbsp;</p>
 
 ## Video Software
