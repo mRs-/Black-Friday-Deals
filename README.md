@@ -526,6 +526,7 @@ Native ChatPDF app for Mac.
 ### 💰 [Swift Gems: 100+ tips to take your Swift code to the next level](https://books.nilcoalescing.com/swift-gems) - 30% OFF
 ### 💰 [Integrating SwiftUI into UIKit Apps](https://books.nilcoalescing.com/integrating-swiftui) - 30% OFF
 ### 📚 [Honkist - Short key ideas from non-fiction books](https://honkist.com) -  50% OFF with code BF24
+### 📚 [Kodeco - All Books 50% Off](https://www.kodeco.com/library?content_types%5B%5D=edition&q=) - 50% OFF
 
 <p>&nbsp;</p>
 
@@ -544,6 +545,10 @@ Learn SwiftUI for macOS development.
 
 ### 💸 [Get Your First Client as a Freelancer](https://getyourfirstclient.freelancerpath.com/) - 50% OFF
 A complete step by step guide to get your first client as a freelancer from scratch.
+
+### 💸 [Kodeco Subscription](https://www.kodeco.com/46129936-black-friday-sale-huge-discounts-on-subscriptions-bootcamps-and-books) - 50% OFF
+
+Subscribe to get unlimited access to the largest and most up-to-date collection of mobile development courses and books available online.
 
 <p>&nbsp;</p>
 
