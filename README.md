@@ -390,7 +390,7 @@ PhotInfo is an app to view and edit the information (location, date, dimensions,
 
 ### 💸 [Hemingway Editor Plus](https://hemingwayapp.com) - 20% OFF, Nov 25 - Dec 6
 
-Edit your writing faster. Hemingway Editor Plus fixes wordy sentences,grammar issues, and more — with a click.
+Edit your writing faster. Hemingway Editor Plus fixes wordy sentences, grammar issues, and more — with a click.
 
 <p>&nbsp;</p>
 
