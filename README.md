@@ -570,6 +570,10 @@ Launch, Get Exposure and First Sales.
 
 High-converting checkout software for coaches and creators to sell info products, subscriptions, coaching, services, programs, etc.
 
+### 💰 [Appfigures](https://appfigures.com) - 50% OFF ASO + App Intelligence with Code BF2450
+
+Grow your app's downloads and revenue with the best-in-class ASO and App Intelligence tools.
+
 <p>&nbsp;</p>
 
 ## 🏃🏻‍♀️ Health & Fitness Software
@@ -640,8 +644,6 @@ This is an app to show all EV charging stations through their location. Availabl
 ### 💰 [Backlinkmonitor](https://www.backlinkmonitor.com/) - Coupon Code: BLACKFRIDAY30  - 30% OFF on All Plans of BacklinkMonitor
 
 Experience the power of real-time link monitoring with BLM. Stay updated on your website's link profile with instant status change notifications
-
-### 💰 [Example](https://example.com) - Product Description - Deal details
 
 ## 🏡 Home Automation
 ### 💸 [GlanceCam - IP Camera Viewer](https://apps.apple.com/us/app/glancecam-ip-camera-viewer/id1360797896) - 50% OFF, Nov 28 - Dec 3
