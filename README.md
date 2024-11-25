@@ -410,6 +410,11 @@ macOS app for recording your face directly into your videos. Loom but with 1 tim
 ### 💰 [Loomos](https://loomos.co) ~ 50% OFF till BLACK FRIDAY
 
 Transform boring screen recordings into studio-quality videos in single click. Remove all the 'uhms', translate to 20+ languages
+
+### 💸 [ScreenSage](https://screensage.macaify.com/) ~ 50% OFF the one time purchase
+
+Professional Screen Recording & Tutorial Creation Tool for macOS.Auto-zoom screen recorder that makes every event count.
+
 <p>&nbsp;</p>
 
 ## 🎨 Graphic Software
