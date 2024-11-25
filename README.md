@@ -503,6 +503,9 @@ Reach maximum Reddit traffic by finding the best times to post. Track 400+ subre
 ### 💰 [Postiz](https://postiz.com) - 50% OFF lifetime |Use code **BF2024** 
 The ultimate AI social media scheduling tool also open-source!	
 
+### 💸 [ReplyPulse](https://replypulse.com) - 50% OFF Yearly plans | Use code **BLACKFRIDAY** 
+ReplyPulse uses AI to help you generate smart, relevant, and personalized replies.
+
 <p>&nbsp;</p>
 
 ## 🎓 Reference & Education
