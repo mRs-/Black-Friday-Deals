@@ -113,6 +113,12 @@ Find concurrency & performance issues early and ship with more confidence.
 
 Effortless Webhook Integrations for Developers.
 
+### 🔌 [Terminalwire](https://terminalwire.com/black-friday?utm_source=gh-mRs-) - 25% off annual Terminalwire Pro License with the coupon code BF24 by December 14.
+
+Ship terminal applications 10× faster, without an API or binaires, using your favorite web framework.
+
+Effortless Webhook Integrations for Developers.
+
 <p>&nbsp;</p>
 
 ## :tophat: Security Software
@@ -498,6 +504,9 @@ Reach maximum Reddit traffic by finding the best times to post. Track 400+ subre
 
 ### 💰 [Postiz](https://postiz.com) - 50% OFF lifetime |Use code **BF2024** 
 The ultimate AI social media scheduling tool also open-source!	
+### ⚡️ [TinyZap](https://tinyzap.com/black-friday?utm_source=gh-mRs-) - 50% off annual TinyZap plan with the coupon code BF24 by December 14.
+
+TinyZap improves click-through rates 📈 for links shared on Twitter, LinkedIn, Facebook, and social posts with automatically generated OpenGraph webpage screenshots. 💅
 
 <p>&nbsp;</p>
 
@@ -505,6 +514,10 @@ The ultimate AI social media scheduling tool also open-source!
 ### 💸 [PDF Pals](https://pdfpals.com?ref=bfdeals) - 53% OFF with code **BFCM2024**
 
 Native ChatPDF app for Mac.
+
+### 📰 [Legible News](https://legiblenews.com/black-friday?utm_source=gh-mRs-) - 25% OFF annual subscription with code **BF24**
+
+A minimalist news website that's fast, no ads, private, that's delivered to your inbox daily.
 
 <p>&nbsp;</p>
 
@@ -647,5 +660,9 @@ Experience the power of real-time link monitoring with BLM. Stay updated on your
 ### 💸 [GlanceCam - IP Camera Viewer](https://apps.apple.com/us/app/glancecam-ip-camera-viewer/id1360797896) - 50% OFF, Nov 28 - Dec 3
 
 GlanceCam is a secure and beloved IP camera viewer for macOS, with over 600 App Store ratings averaging more than 4.2 stars. It supports standard streaming protocols and offers lots of advanced features. With 41 free updates over 6 years, GlanceCam is the best choice for streaming IP Cameras from any manufacturer, with powerful features (Instazoom, Always on top...) and automations.
+
+### 🧸 [Thingybase](https://thingybase.com/black-friday?utm_source=gh-mRs-) - 50% Off Thingybase annual plan.
+
+Organize, track, and treasure your stuff with Thingybase, a home inventory application for collectors, hobbyists, and families. When you need to know where something is in your home, just search for it.
 
 ## 🕹 Games
