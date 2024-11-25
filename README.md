@@ -631,6 +631,10 @@ Ghostfolio is a privacy-first, open source dashboard for your personal finances.
 
 Say goodbye to paper clutter! Store your receipts securely in cloud and access them whenever you need.
 
+### 💸 [Bills to Budget](https://apps.apple.com/us/app/bills-to-budget/id1636872963) - Over 55% OFF, Nov 29 - Dec 3
+
+Get your Bills paid on time and your Budgets under control, with Bills to Budget!
+
 ## 🗺️ Navigation
 ### 🚘 [EV Charge Stations Map](https://apple.co/3NWejUz) - Lifetime 66% OFF, Nov 20 - Dec 2
 
