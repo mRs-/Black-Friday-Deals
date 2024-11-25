@@ -449,6 +449,10 @@ Photo & Video Editing for iPhone, Mac, iPad and Vision Pro. Apple Design Award w
 
 No more boring Screenshot, ever! Beautify, enhance, and share stunning screenshots effortlessly on Windows and Mac.
 
+### 💰 [Anybox](https://apps.apple.com/app/id1593408455) - **30% OFF**, the lifetime plan, Nov 26 – Dec 3
+
+A native bookmark manager for macOS and iOS.
+
 <p>&nbsp;</p>
 
 
