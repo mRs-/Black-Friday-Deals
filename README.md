@@ -526,7 +526,7 @@ Native ChatPDF app for Mac.
 ### 💰 [Swift Gems: 100+ tips to take your Swift code to the next level](https://books.nilcoalescing.com/swift-gems) - 30% OFF
 ### 💰 [Integrating SwiftUI into UIKit Apps](https://books.nilcoalescing.com/integrating-swiftui) - 30% OFF
 ### 📚 [Honkist - Short key ideas from non-fiction books](https://honkist.com) -  50% OFF with code BF24
-### 📚 [Kodeco - All Books 50% Off](https://www.kodeco.com/library?content_types%5B%5D=edition&q=) - 50% OFF
+### 📚 [Kodeco - All iOS & MacOS Books 50% Off](https://www.kodeco.com/library?domain_ids%5B%5D=1&domain_ids%5B%5D=5&content_types%5B%5D=edition&q=) - 50% OFF
 
 <p>&nbsp;</p>
 
