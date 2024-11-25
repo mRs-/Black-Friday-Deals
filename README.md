@@ -388,6 +388,10 @@ PhotInfo is an app to view and edit the information (location, date, dimensions,
 
 ### 💸 [AnySelect](https://anyselectai.com/) The best and quickest way to use ChatGPT/LLM from any app on macOS!. Get 60% off with this code **BF2024**
 
+### 💸 [RewriteBar](https://rewritebar.com) - 50% off with code **BF2024** (valid till Dec 3)
+
+Improve your writing in any macOS application with the help of AI. Correct grammar errors, rewrite your text in a different style, translate a sentence quickly or create your own AI action.
+
 <p>&nbsp;</p>
 
 ## Video Software
