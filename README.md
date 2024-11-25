@@ -631,6 +631,10 @@ Ghostfolio is a privacy-first, open source dashboard for your personal finances.
 
 Say goodbye to paper clutter! Store your receipts securely in cloud and access them whenever you need.
 
+### 🚀 [xChangeApi](https://xchangeapi.com/?utm_source=github&utm_medium=Black-Friday-Deals) - 50% OFF, Nov 25 - Dec 30
+
+Financial market Data for Developers.
+
 ## 🗺️ Navigation
 ### 🚘 [EV Charge Stations Map](https://apple.co/3NWejUz) - Lifetime 66% OFF, Nov 20 - Dec 2
 
