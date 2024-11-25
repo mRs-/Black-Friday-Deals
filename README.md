@@ -489,6 +489,10 @@ LED matrix display app for iPhone and iPad.
 
 Find the right hairstyle for you with the power of AI - use code BFRIDAY30 in checkout
 
+### 💡 [Signals for HomeKit](https://apps.apple.com/us/app/signals-for-homekit/id1453293391) - 40% off all In-App Purchases, Nov 29 - Dec 3
+
+Communicate at home with the smart lights you already have, with Signals for HomeKit!
+
 <p>&nbsp;</p>
 
 ## 🗣️ Social
