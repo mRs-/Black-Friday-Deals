@@ -113,6 +113,10 @@ Find concurrency & performance issues early and ship with more confidence.
 
 Effortless Webhook Integrations for Developers.
 
+### 💸 [Pingify](https://pingify.com) - 50% off Lifetime Deal
+
+Monitor website uptime, SSL certificates, DNS records, and more. Instant alerts for downtime and performance issues.
+
 <p>&nbsp;</p>
 
 ## :tophat: Security Software
