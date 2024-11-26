@@ -424,6 +424,10 @@ PhotInfo is an app to view and edit the information (location, date, dimensions,
 
 Write down your thoughts in your favourite text editor, and Deckset will turn them into beautiful presentations.
 
+### 💸 [SuperText](https://apps.apple.com/app/supertext/id6503445499) - 50% OFF for yearly plan with code **BLACKFRIDAY24** (till Dec 30)
+
+A spell checker that combine traditional spell checking with AI to provide the best possible correction. Shortcuts and Services Menu compatible to spell check from any app. Available on macOS, iOS and visionOS.
+
 <p>&nbsp;</p>
 
 ## Video Software
