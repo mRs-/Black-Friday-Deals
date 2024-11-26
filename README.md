@@ -33,6 +33,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 - [🕹 Games](#-games)
 
 ## 🛠 Development Software
+
 ### 💰 [Proxyman](https://proxyman.io) - 30% OFF with code **BLACKFRIDAY2024**
 
 Debug HTTP/HTTPS Network Faster with Proxyman. Proxyman is a modern native macOS app that helps developers to Capture & Inspect HTTP/HTTPS traffic with ease. Support macOS, iOS (Device & Simulators), Windows, and Linux.
@@ -68,12 +69,15 @@ A plain text editor with syntax highlighting, line numbers, search and replace, 
 <p>&nbsp;</p>
 
 ## :tophat: Security Software
+
 ### 💰 [ExploitPack](https://exploitpack.com/indexexploitpack.html) - Advanced Exploitation Framework with 0days and 39,500+ exploits - LIFETIME Licenses - Until 30 November - Only 10 licenses available
+
 ### 💰 [ControlPack](https://exploitpack.com/indexcontrolpack.html) - Command & Control Framework, not detected by AVs and EDRs - LIFETIME Licenses - Until 30 November - Only 10 licenses available
 
 <p>&nbsp;</p>
 
 ## 🎛 Utility Software
+
 ### 💰 [CompressX](https://compressx.app) - 30% OFF with code **BF24**
 
 CompressX is a powerful offline media compression tool that can significantly reduce file sizes without compromising quality.
@@ -125,11 +129,13 @@ Easy view of up to 5 different timezones in your menubar.
 <p>&nbsp;</p>
 
 ## 📌 Productivity Software
-### 💸 [Quick Capture - Obsidian iOS](https://quickcaptureobsidian.app/) - Lifetime 50% OFF 
+
+### 💸 [Quick Capture - Obsidian iOS](https://quickcaptureobsidian.app/) - Lifetime 50% OFF
 
 Send anything to any vault in Obsidian 10x faster
 
 Access all AI models in one native Mac app: Advanced Voice Mode, Document Analysis, AI Plugins, and more.
+
 ### 💸 [BoltAI](https://boltai.com?ref=bfdeals) - 30% OFF with code **BFCM2024**
 
 Access all AI models in one native Mac app: Advanced Voice Mode, Document Analysis, AI Plugins, and more.
@@ -176,7 +182,7 @@ Advanced student planner app to keep track of timetables, homework and grades.
 
 ### 💸 [Inventory Tracker Itemlist](https://getitemlist.app) - 50% OFF Lifetime PRO, no code needed
 
-A powerful inventory tracker app for home and business, available on iOS and iPadOS (with macOS support coming soon). Easily organize, categorize, and locate items in seconds. 
+A powerful inventory tracker app for home and business, available on iOS and iPadOS (with macOS support coming soon). Easily organize, categorize, and locate items in seconds.
 
 ### 💸 [Milestones - Project Management]([https://apps.apple.com/us/app/project-planner-milestones/id6737195092) - 50% OFF all plans, including lifetime, no code needed
 
@@ -193,6 +199,7 @@ Braindump your thoughts - It turns your stream of thoughts from speech into well
 <p>&nbsp;</p>
 
 ## Video Software
+
 ### 💸 [FaceScreen](https://apps.apple.com/app/id6702028512) - 50% OFF on the App Store, no code needed
 
 Live camera preview on your screen.
@@ -208,6 +215,7 @@ Cuts out the pauses automatically for you, creating an instant rough cut. Speed 
 <p>&nbsp;</p>
 
 ## 🎨 Graphic Software
+
 ### 💸 [Sip](https://www.sipapp.io) - 50% OFF with code **BF_2024** and **CM_2024**, Nov 29 - Dec 3
 
 Sip is a modern color picker that brings ease to color organization & team collaboration.
@@ -226,15 +234,15 @@ Formerly known as Sparkle, build the website you always wanted, visually, on you
 
 Build brands in a blink. For product makers, designers, productivized designers and design agencies.
 
-
 ## 🏝️ Lifestyle
+
 ### 💸 [Digital Photo Frame App](https://www.digitalphotoframeapp.com) - 50% OFF YEARLY Plan, Nov 29 - Dec 2
 
 The most gorgeous and powerful photo player application. Available for iOS, iPadOS, and macOS.
 
 ### 💤 [Dark Sleep](https://www.darksleep.app) - 50% OFF
 
-Sleep Sounds & Sunrise Alarm for Apple TV. Enjoy a total black screen with relaxing sounds at night and a gentle sunrise alarm clock in the morning. 
+Sleep Sounds & Sunrise Alarm for Apple TV. Enjoy a total black screen with relaxing sounds at night and a gentle sunrise alarm clock in the morning.
 
 ### 💡 [Mood Lights](https://www.moodlights.app) - 50% OFF
 
@@ -247,19 +255,15 @@ Reliable and customisable weather forecasts, incl. tides, waves and altitudes / 
 <p>&nbsp;</p>
 
 ## 🗣️ Social
-### 💰 [Subreddit tracker](https://subreddittraffic.live/) - 30% OFF lifetime |Use code **BLACKFRIDAY2024** 
 
-Reach maximum Reddit traffic by finding the best times to post. Track 400+ subreddits activity and optimize your posting schedule to increase your brand awareness and traffic.  
+### 💰 [Subreddit tracker](https://subreddittraffic.live/) - 30% OFF lifetime |Use code **BLACKFRIDAY2024**
 
-
-
-
-
-
+Reach maximum Reddit traffic by finding the best times to post. Track 400+ subreddits activity and optimize your posting schedule to increase your brand awareness and traffic.
 
 <p>&nbsp;</p>
 
 ## 🎓 Reference & Education
+
 ### 💸 [PDF Pals](https://pdfpals.com?ref=bfdeals) - 53% OFF with code **BFCM2024**
 
 Native ChatPDF app for Mac.
@@ -267,15 +271,21 @@ Native ChatPDF app for Mac.
 <p>&nbsp;</p>
 
 ## 📖 Books
+
 ### 💸 [The Hacking with Swift Everything Pack (includes 23 books)](https://twostraws.gumroad.com/l/hws-everything/blackfriday24) - 50% OFF
+
 ### 💸 [The Swift Power Pack (includes eight books)](https://gumroad.com/l/swift-power-pack/blackfriday24) - 50% OFF
+
 ### 💸 [The Swift Platform Pack (includes six books)](https://gumroad.com/l/swift-platform-pack/blackfriday24) - 50% OFF
+
 ### 💸 [The Swift Plus Pack (includes seven books)](https://gumroad.com/l/swift-plus-pack/blackfriday24) - 50% OFF
+
 ### 💰 [Modern Auto Layout (9th edition)](https://useyourloaf.com/autolayout/) - 20% OFF
 
 <p>&nbsp;</p>
 
 ## 👩‍🎓 Courses and Videos
+
 ### 🧪 [LabEx](https://labex.io/pricing) - Up to 50% OFF
 
 Learn Linux, DevOps & Cybersecurity with Hands-on Labs.
@@ -287,6 +297,7 @@ Turn your passion into independence.
 <p>&nbsp;</p>
 
 ## 📈 Business Software
+
 ### 💰 [Umami Manager](https://apple.co/40MP50F) - Lifetime 30% OFF, Nov 29 - Dec 2
 
 Monitor, Analyze & Manage your Umami Analytics on the go. Available for iOS & iPadOS.
@@ -299,13 +310,16 @@ Track your App Store sales, subscribers, downloads, and more.
 
 Aikeedo is a ready-made PHP software with customizable features to launch your AI SaaS business quickly and generate revenue fast.
 
-* From November 20th to December 5th, we're offering exclusive discounts that decrease by 1% each day—starting at an incredible 50% OFF on Day 1 and ending with 35% OFF on the final day.
+- From November 20th to December 5th, we're offering exclusive discounts that decrease by 1% each day—starting at an incredible 50% OFF on Day 1 and ending with 35% OFF on the final day.
 
-### 💰 [Reddit Growth Bundle](https://www.bynapkin.com/guides/reddit) -  40% OFF ($89 instead of $148), Nov 26 -Dec 10
+### 💰 [Reddit Growth Bundle](https://www.bynapkin.com/guides/reddit) - 40% OFF ($89 instead of $148), Nov 26 -Dec 10
 
- Complete Reddit growth package combining the comprehensive Reddit Marketing Guide ($99 value) with SubredditTraffic.live Premium ($49 value). Includes traffic analytics dashboard, subreddit growth insights, and business strategy templates. The guide covers everything from Reddit fundamentals to advanced growth tactics, while the premium tool provides real-time traffic insights and analytics.
+Complete Reddit growth package combining the comprehensive Reddit Marketing Guide ($99 value) with SubredditTraffic.live Premium ($49 value). Includes traffic analytics dashboard, subreddit growth insights, and business strategy templates. The guide covers everything from Reddit fundamentals to advanced growth tactics, while the premium tool provides real-time traffic insights and analytics.
+
+ <p>&nbsp;</p>
 
 ## s🏃🏻‍♀️ Health & Fitness Software
+
 ### 💰 [Atomic](https://apple.co/40MP50F) - Lifetime 55% OFF
 
 The simple app to build good habits, break bad habits, and achieve greatness! Available on iOS/iPadOS/MacOS/WatchOS.
@@ -313,6 +327,7 @@ The simple app to build good habits, break bad habits, and achieve greatness! Av
 <p>&nbsp;</p>
 
 ## 🎁 Bundles
+
 ### 💰 [Example](https://example.com) - Product Description - Deal details
 
 <p>&nbsp;</p>
@@ -322,6 +337,7 @@ The simple app to build good habits, break bad habits, and achieve greatness! Av
 <p>&nbsp;</p>
 
 ## 🤑 Finance
+
 ### 💸 [DriveDex](https://apple.co/3C8HoJX) - Lifetime 100% OFF, Nov 29 - Dec 2
 
 Track mileage and expenses for all your vehicles. Available for iOS, iPadOS, and visionOS.
@@ -331,14 +347,17 @@ Track mileage and expenses for all your vehicles. Available for iOS, iPadOS, and
 Track your subscriptions in one place across all your Apple devices and get notified before a subscription is renewed. SubManager also provides powerful insights and widgets to keep you updated on your monthly spending. With no ads and a privacy-friendly approach, it’s an excellent tool to have in today’s subscription-heavy world.
 
 ## 🗺️ Navigation
+
 ### 🚘 [EV Charge Stations Map](https://apple.co/3NWejUz) - Lifetime 66% OFF, Nov 20 - Dec 2
 
 This is an app to show all EV charging stations through their location. Available for iOS, iPadOS, watchOS, and visionOS.
 
 ## 🔎 SEO
+
 ### 💰 [Example](https://example.com) - Product Description - Deal details
 
 ## 🏡 Home Automation
+
 ### 💰 [Example](https://example.com) - Product Description - Deal details
 
 ## 🕹 Games
