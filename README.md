@@ -365,7 +365,6 @@ Sticky notes that attaches directly to your macOS windows
 
 All-in-one platform to build, run, & share AI agents and multi-agent workflows to automate business processes.
 
-
 ### 💰 [Pasta](https://apps.apple.com/us/app/pasta-clipboard-manager/id1438389787) - 45% off lifetime, Nov 29 - Dec 2
 
 Clipboard manager for macOS.
@@ -387,6 +386,10 @@ Control the brightness of your monitors directly from your Mac - no need to touc
 PhotInfo is an app to view and edit the information (location, date, dimensions, camera, IPTC tags, etc.) contained in your in your photos.
 
 ### 💸 [AnySelect](https://anyselectai.com/) The best and quickest way to use ChatGPT/LLM from any app on macOS!. Get 60% off with this code **BF2024**
+
+### 💸 [Memento: Modern Reminders](https://apps.apple.com/app/apple-store/id1200227397?pt=972586&ct=black-friday-github&mt=8) - 85% OFF, only $0.99 , Nov 25 - Dec 2
+
+A minimalist reminders app available on all Apple platforms.
 
 <p>&nbsp;</p>
 
