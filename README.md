@@ -12,6 +12,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ## Table of Contents
 
 - [🛠 Development Software](#-development-software)
+- [🌈 Marketing Software](#-marketing-software)
 - [🎩 Security Software](#tophat-security-software)
 - [🎛 Utility Software](#-utility-software)
 - [📌 Productivity Software](#-productivity-software)
@@ -113,6 +114,17 @@ Find concurrency & performance issues early and ship with more confidence.
 
 Effortless Webhook Integrations for Developers.
 
+### 💸 [Pingify](https://pingify.com) - 50% off Lifetime Deal
+
+Monitor website uptime, SSL certificates, DNS records, and more. Instant alerts for downtime and performance issues.
+
+<p>&nbsp;</p>
+
+## 🛠 Marketing Software
+### 💸 [SyncSignature](https://syncsignature.com) - Get 60% on all recurring plans. Use code BF24CM60 on checkout - Until 10 December
+
+Branded email signatures for your teams. SyncSignature helps design, update and automatically install email signatures for everyone across your business.
+
 <p>&nbsp;</p>
 
 ## :tophat: Security Software
@@ -213,6 +225,10 @@ Your Photo Time Machine that helps you rediscover memories by automatically disp
 ### 💰 [Captionify](https://captionify.app) - 40% off (Nov 23 - Nov 30)
 
 Easily transcribe into subtitle, plain text, or video captions from your video or audio files. All processed privately without any data leaving your Mac.
+
+### 🎵 [2MP3](https://apps.apple.com/app/2mp3/id6737749090) - 50% OFF Lifetime - No code needed
+
+Minimalist mp3 Converter, Nothing Else,Convert videos and audio files to AAC, FLAC, M4A, MP3 & WAV - Nothing else, just pure conversion.
 
 ### 💸 [Link Unshortener](https://apps.apple.com/app/link-unshortener/id1506953658?mt=12) - 50% off (Nov 25 - Dec 8)
 
@@ -404,6 +420,10 @@ PhotInfo is an app to view and edit the information (location, date, dimensions,
 
 ### 💸 [AnySelect](https://anyselectai.com/) The best and quickest way to use ChatGPT/LLM from any app on macOS!. Get 60% off with this code **BF2024**
 
+### 💸 [Deckset](hhttps://www.deckset.com) - 50% OFF with code **BF2024** , Nov 25 - Dec 3
+
+Write down your thoughts in your favourite text editor, and Deckset will turn them into beautiful presentations.
+
 <p>&nbsp;</p>
 
 ## Video Software
@@ -515,6 +535,9 @@ Reach maximum Reddit traffic by finding the best times to post. Track 400+ subre
 ### 💰 [Postiz](https://postiz.com) - 50% OFF lifetime |Use code **BF2024** 
 The ultimate AI social media scheduling tool also open-source!	
 
+### 💸 [ReplyPulse](https://replypulse.com) - 50% OFF Yearly plans | Use code **BLACKFRIDAY** 
+ReplyPulse uses AI to help you generate smart, relevant, and personalized replies.
+
 <p>&nbsp;</p>
 
 ## 🎓 Reference & Education
@@ -546,6 +569,11 @@ Native ChatPDF app for Mac.
 <p>&nbsp;</p>
 
 ## 👩‍🎓 Courses and Videos
+
+### 💰 [BoringCashCow](https://boringcashcow.com/premium) - 40% OFF with code **CLMVBG**, Nov 25 - Nov 30
+
+Access to proven business ideas that solving real problems and build your own profitable business.
+
 ### 🧪 [LabEx](https://labex.io/pricing) - Up to 50% OFF
 
 Learn Linux, DevOps & Cybersecurity with Hands-on Labs.
@@ -585,6 +613,10 @@ Launch, Get Exposure and First Sales.
 ### 🛒 [Zylvie](https://zylvie.com) - 75% OFF all plans with code BFRIDAY2024, Nov 21 - Dec 4
 
 High-converting checkout software for coaches and creators to sell info products, subscriptions, coaching, services, programs, etc.
+
+### 💸 [Appfigures](https://appfigures.com) - 50% OFF ASO + App Intelligence with Code BF2450
+
+Grow your app's downloads and revenue with the best-in-class ASO and App Intelligence tools.
 
 <p>&nbsp;</p>
 
@@ -656,8 +688,6 @@ This is an app to show all EV charging stations through their location. Availabl
 ### 💰 [Backlinkmonitor](https://www.backlinkmonitor.com/) - Coupon Code: BLACKFRIDAY30  - 30% OFF on All Plans of BacklinkMonitor
 
 Experience the power of real-time link monitoring with BLM. Stay updated on your website's link profile with instant status change notifications
-
-### 💰 [Example](https://example.com) - Product Description - Deal details
 
 ## 🏡 Home Automation
 ### 💸 [GlanceCam - IP Camera Viewer](https://apps.apple.com/us/app/glancecam-ip-camera-viewer/id1360797896) - 50% OFF, Nov 28 - Dec 3
