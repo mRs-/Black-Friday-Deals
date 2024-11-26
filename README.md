@@ -698,6 +698,13 @@ Say goodbye to paper clutter! Store your receipts securely in cloud and access t
 
 This is an app to show all EV charging stations through their location. Available for iOS, iPadOS, watchOS, and visionOS.
 
+### 💸 [Where To? – Search nearby places](https://apps.apple.com/redeem/?ctx=offercodes&id=903955898&code=BLACK) - 66% OFF, Nov 26 - Dec 3
+
+With Where To? for iPhone and Apple Watch, you can easily find the nearest restaurants, hotels and stores. It also provides detailed information such as reviews, menus, special offers and opening hours. The full range of functions with widgets, directions, favorites, augmented reality and much more now costs **just 0.99 €/$** for the first year (normally €3.49 / $2.99). Use code BLACK.
+
+### 💸 [Streets: Street View Browser](https://apps.apple.com/app/id1071879826) - 66% OFF, Nov 26 - Dec 3
+The best way to browse, share and organize Street View panoramas on iPhone, iPad, Apple Watch and Mac with Apple Silicon processor. Now **66% OFF**, no code needed.
+
 ## 🔎 SEO
 ### 💰 [Backlinkmonitor](https://www.backlinkmonitor.com/) - Coupon Code: BLACKFRIDAY30  - 30% OFF on All Plans of BacklinkMonitor
 
