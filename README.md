@@ -230,6 +230,22 @@ Easily transcribe into subtitle, plain text, or video captions from your video o
 
 Minimalist mp3 Converter, Nothing Else,Convert videos and audio files to AAC, FLAC, M4A, MP3 & WAV - Nothing else, just pure conversion.
 
+### 💸 [Link Unshortener](https://apps.apple.com/app/link-unshortener/id1506953658?mt=12) - 50% off (Nov 25 - Dec 8)
+
+Native Mac app that reveals and bypasses URL redirects.
+
+### 💸 [StopTheScript](https://apps.apple.com/app/stopthescript/id1588394487) - 50% off (Nov 25 - Dec 8)
+
+Safari extension for iOS and Mac that stops JavaScript on selected websites.
+
+### 💸 [StopTheFonts](https://apps.apple.com/app/stopthefonts/id1671452642) - 50% off (Nov 25 - Dec 8)
+
+Safari content blocker for iOS and Mac that blocks web fonts.
+
+### 💸 [Homecoming for Mastodon](https://apps.apple.com/app/homecoming-for-mastodon/id1666139593) - 50% off (Nov 25 - Dec 8)
+
+Safari extension for iOS and Mac that opens Mastodon URLs in your own instance.
+
 <p>&nbsp;</p>
 
 ## 📌 Productivity Software
