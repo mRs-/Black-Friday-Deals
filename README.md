@@ -127,6 +127,10 @@ Branded email signatures for your teams. SyncSignature helps design, update and 
 
 Lintastic helps developers audit their app's name, subtitle, and keyword fields for App Store best practices. Use the word bank to keep track of all of the keywords you care about and efficiently use all of the space available to you in your metadata to rank as high as possible in the App Store.
 
+### 💰 [RunJS](https://runjs.app) - 30% OFF
+
+A fast, zero-config playground for JavaScript and TypeScript. Run your code and see results instantly. 🚀
+
 <p>&nbsp;</p>
 
 ## :tophat: Security Software
