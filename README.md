@@ -603,6 +603,9 @@ Learn SwiftUI for macOS development.
 ### 💸 [Get Your First Client as a Freelancer](https://getyourfirstclient.freelancerpath.com/) - 50% OFF
 A complete step by step guide to get your first client as a freelancer from scratch.
 
+### 💰 [Learn advanced Swift with PointFree.co](https://www.pointfree.co/discounts/black-friday-2024) - 30% OFF
+Feeling overwhelmed by Swift concurrency, generics, data persistence, domain modeling, navigation, and testing? Level up your Swift skills with over 190 hours of advanced and original content crafted by industry experts.
+
 <p>&nbsp;</p>
 
 ## 📈 Business Software
