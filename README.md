@@ -113,6 +113,10 @@ Find concurrency & performance issues early and ship with more confidence.
 
 Effortless Webhook Integrations for Developers.
 
+### 💸 [OK JSON](https://okjson.app) - 50% OFF with Code **BF2024**
+
+JSON formatter with viewing history for macOS.
+
 <p>&nbsp;</p>
 
 ## :tophat: Security Software
