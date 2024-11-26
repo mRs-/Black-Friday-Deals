@@ -118,6 +118,10 @@ Effortless Webhook Integrations for Developers.
 
 Monitor website uptime, SSL certificates, DNS records, and more. Instant alerts for downtime and performance issues.
 
+### 💸 [AppDab for App Store Connect](https://AppDab.app) - 50% OFF yearly subscriptions and lifetime until Dec 3
+
+Ship your apps faster with a native macOS and iOS app for App Store Connect
+
 <p>&nbsp;</p>
 
 ## 🛠 Marketing Software
