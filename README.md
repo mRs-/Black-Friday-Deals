@@ -123,15 +123,9 @@ Monitor website uptime, SSL certificates, DNS records, and more. Instant alerts 
 
 Branded email signatures for your teams. SyncSignature helps design, update and automatically install email signatures for everyone across your business.
 
-### 💸 [SyncSignature](https://syncsignature.com) - Get 60% on all recurring plans. Use code BF24CM60 on checkout - Until 10 December
-
-Branded email signatures for your teams. SyncSignature helps design, update and automatically install email signatures for everyone across your business.
-
 ### 💸 [Reddit Growth Bundle](https://www.bynapkin.com/guides/reddit) - 40% off the complete bundle ($89 instead of $148)
 
 Complete Reddit growth package combining the comprehensive Reddit Marketing Guide ($99 value) with SubredditTraffic.live Premium ($49 value). Includes traffic analytics dashboard, subreddit growth insights, and business strategy templates. The guide covers everything from Reddit fundamentals to advanced growth tactics, while the premium tool provides real-time traffic insights and analytics.
-
-
 
 
 ### 💸 [Lintastic ASO Metadata Linter](https://apps.apple.com/redeem?ctx=offercodes&id=6479271017&code=BLACKFRIDAY2024) - 50% OFF license until Dec 6th
