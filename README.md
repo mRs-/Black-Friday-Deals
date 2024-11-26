@@ -230,6 +230,10 @@ Easily transcribe into subtitle, plain text, or video captions from your video o
 
 Minimalist mp3 Converter, Nothing Else,Convert videos and audio files to AAC, FLAC, M4A, MP3 & WAV - Nothing else, just pure conversion.
 
+### 🔍 [HoudahSpot](https://www.houdah.com/houdahSpot/buy.html?coupon=BLACKFRIDAY2024)  - 30% OFF with code BLACKFRIDAY2024
+
+HoudahSpot is a file search tool that helps you organize files and finds these if you did not. 
+
 <p>&nbsp;</p>
 
 ## 📌 Productivity Software
@@ -407,6 +411,14 @@ PhotInfo is an app to view and edit the information (location, date, dimensions,
 ### 💸 [Deckset](hhttps://www.deckset.com) - 50% OFF with code **BF2024** , Nov 25 - Dec 3
 
 Write down your thoughts in your favourite text editor, and Deckset will turn them into beautiful presentations.
+
+### 🌎 [HoudahGeo](https://www.houdah.com/houdahGeo/buy.html?coupon=BLACKFRIDAY2024) - 30% OFF with code BLACKFRIDAY2024
+
+Photo geotagging for Mac. Know where you took that photo. Add GPS locations to JPEG, RAW, Apple Photos.
+
+### 📷 [Photos Workbench](https://www.houdah.com/photosWorkbench/buy.html?coupon=BLACKFRIDAY2024) - 30% OFF with code BLACKFRIDAY2024
+
+Photos Workbench help you organize, rate, and compare your Apple Photos library. Add locations & star ratings. Batch change titles.
 
 <p>&nbsp;</p>
 
