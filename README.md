@@ -545,6 +545,10 @@ ReplyPulse uses AI to help you generate smart, relevant, and personalized replie
 
 Native ChatPDF app for Mac.
 
+### 💸 [Echo Interview Prep](https://apps.apple.com/redeem?ctx=offercodes&id=6474445689&code=BLACKFRIDAY2024) - 55% OFF with code **BLACKFRIDAY2024**, valid until December 6th
+
+Echo helps you ace soft skills interviews with 50+ common questions, practice tools to refine your answers, and personalized feedback to improve your performance.
+
 <p>&nbsp;</p>
 
 ## 📖 Books
