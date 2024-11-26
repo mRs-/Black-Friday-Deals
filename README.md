@@ -118,12 +118,14 @@ Effortless Webhook Integrations for Developers.
 
 Monitor website uptime, SSL certificates, DNS records, and more. Instant alerts for downtime and performance issues.
 
-<p>&nbsp;</p>
-
 ## 🛠 Marketing Software
 ### 💸 [SyncSignature](https://syncsignature.com) - Get 60% on all recurring plans. Use code BF24CM60 on checkout - Until 10 December
 
 Branded email signatures for your teams. SyncSignature helps design, update and automatically install email signatures for everyone across your business.
+
+### 💸 [Lintastic ASO Metadata Linter](https://apps.apple.com/redeem?ctx=offercodes&id=6479271017&code=BLACKFRIDAY2024) - 50% OFF license until Dec 6th
+
+Lintastic helps developers audit their app's name, subtitle, and keyword fields for App Store best practices. Use the word bank to keep track of all of the keywords you care about and efficiently use all of the space available to you in your metadata to rank as high as possible in the App Store.
 
 <p>&nbsp;</p>
 
