@@ -11,6 +11,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 
 ## Table of Contents
 
+- [♿️ Accessibility Software](#-accessibility-software)
 - [🛠 Development Software](#-development-software)
 - [🌈 Marketing Software](#-marketing-software)
 - [🎩 Security Software](#tophat-security-software)
@@ -32,6 +33,11 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 - [🔎 SEO](#-seo)
 - [🏡 Home Automation](#-home-automation)
 - [🕹 Games](#-games)
+
+## ♿️ Accessibility Software
+### 💰 [Contrasts](https://contrasts.app) - Lifetime 40% off, Nov 29 - Dec 2
+
+One-click color contrast checking like Spotlight for WCAG compliance, with live previews, text-to-color recognition, and versatile exports to prepare for the Accessibility Act!
 
 ## 🛠 Development Software
 ### 💰 [Proxyman](https://proxyman.io) - 30% OFF with code **BLACKFRIDAY2024**
