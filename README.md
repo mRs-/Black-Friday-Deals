@@ -246,6 +246,10 @@ Safari content blocker for iOS and Mac that blocks web fonts.
 
 Safari extension for iOS and Mac that opens Mastodon URLs in your own instance.
 
+### 💰 [Split the Bill with Checkparty](https://itunes.apple.com/us/app/checkparty/id905723797) - 50% off lifetime (Nov 24 - Dec 3rd)
+
+Fairly split your bill with friends at restaurants so everyone pays the correct percent of tax, tip. Send payment summaries and requests. See share breakdown and track who's paid you back already.
+
 <p>&nbsp;</p>
 
 ## 📌 Productivity Software
