@@ -230,6 +230,10 @@ Easily transcribe into subtitle, plain text, or video captions from your video o
 
 Minimalist mp3 Converter, Nothing Else,Convert videos and audio files to AAC, FLAC, M4A, MP3 & WAV - Nothing else, just pure conversion.
 
+### 💸 [Music Library Tracker](https://itunes.apple.com/us/app/music-tracker-automatic-tracking/id1062583712?ls=1&mt=8) - 50% OFF, Nov 29 - Dec 3
+
+The only app that can tell you when your tracks have been automatically upgraded to Spatial Audio. Keep an eye on your music library and get alerted when songs are added, deleted, or changed (by you or by Apple!)
+
 <p>&nbsp;</p>
 
 ## 📌 Productivity Software
@@ -509,6 +513,10 @@ LED matrix display app for iPhone and iPad.
 
 Find the right hairstyle for you with the power of AI - use code BFRIDAY30 in checkout
 
+### 💸 [Browser Note](https://apps.apple.com/us/app/browser-note/id1613527249) - 50% OFF, Nov 29 - Dec 3
+
+A simple way to add a pause to your browsing with dismissable reminders or notes blocking you from certain sites (i.e. social media)
+
 <p>&nbsp;</p>
 
 ## 🗣️ Social
@@ -620,6 +628,10 @@ Beautiful and intuitive journaling app for iPhone, iPad, Mac, and Vision Pro.
 ### 💸 [Moderation - Food Diary](https://apps.apple.com/app/apple-store/id1086750452?pt=486587&ct=Github%20Black%20Friday&mt=8) - 66% off Annual, Nov 29 - Dec 2, Promo code 'BLACKFRIDAY'
 
 Moderation is the simple food diary that brings joy back to mindful eating. No calorie counting, just quick meal logging and smart insights.
+
+### 💸 [Chaise Longue to 5K](https://apps.apple.com/us/app/chaise-longue-to-5k/id1633434180) - 50% OFF, Nov 29 - Dec 3
+
+Because couches are so common. Keep an eye on your run with Picture-in-Picture so you can use other apps at the same time!
 
 <p>&nbsp;</p>
 
