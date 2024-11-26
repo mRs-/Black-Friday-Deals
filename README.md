@@ -408,6 +408,10 @@ PhotInfo is an app to view and edit the information (location, date, dimensions,
 
 Write down your thoughts in your favourite text editor, and Deckset will turn them into beautiful presentations.
 
+### 💸 [LinkYourFile](https://www.linkyourfile.com/) ~ Lifetime 50% OFF until Dec 1
+
+Link your local files or folders in any web application.
+
 <p>&nbsp;</p>
 
 ## Video Software
