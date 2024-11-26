@@ -408,6 +408,10 @@ PhotInfo is an app to view and edit the information (location, date, dimensions,
 
 Write down your thoughts in your favourite text editor, and Deckset will turn them into beautiful presentations.
 
+### 🤖 [DocuChat](https://www.docuchat.io) - **90% OFF** for two months or **65% OFF** on yearly plans, Nov 25 - Dec 2
+
+Create AI chatbots trained on your documents, with unrivaled accuracy in answers and full EU data residency. 
+
 <p>&nbsp;</p>
 
 ## Video Software
@@ -662,6 +666,10 @@ Ghostfolio is a privacy-first, open source dashboard for your personal finances.
 ### 💸 [ReceiptBox](https://apps.apple.com/us/app/receipt-organizer-receiptbox/id6657987970) - 50% OFF, Nov 26 - Dec 2
 
 Say goodbye to paper clutter! Store your receipts securely in cloud and access them whenever you need.
+
+### 🗒️ [Notion Finance Tracker](https://www.notionfinancetracker.com) - 80% OFF, lifetime deal, Nov 26 - Dec 2
+
+An API-enhanced Notion template for tracking net worth, investments, liabilities, and budgeting. All-in-one solution with real-time asset prices, multi-currency support, and charts inside Notion. 
 
 ## 🗺️ Navigation
 ### 🚘 [EV Charge Stations Map](https://apple.co/3NWejUz) - Lifetime 66% OFF, Nov 20 - Dec 2
