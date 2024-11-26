@@ -299,11 +299,13 @@ Track your App Store sales, subscribers, downloads, and more.
 
 Aikeedo is a ready-made PHP software with customizable features to launch your AI SaaS business quickly and generate revenue fast.
 
-* From November 20th to December 5th, we're offering exclusive discounts that decrease by 1% each day—starting at an incredible 50% OFF on Day 1 and ending with 35% OFF on the final day. 
+* From November 20th to December 5th, we're offering exclusive discounts that decrease by 1% each day—starting at an incredible 50% OFF on Day 1 and ending with 35% OFF on the final day.
 
-<p>&nbsp;</p>
+### 💰 [Reddit Growth Bundle](https://www.bynapkin.com/guides/reddit) -  40% OFF ($89 instead of $148), Nov 26 -Dec 10
 
-## 🏃🏻‍♀️ Health & Fitness Software
+ Complete Reddit growth package combining the comprehensive Reddit Marketing Guide ($99 value) with SubredditTraffic.live Premium ($49 value). Includes traffic analytics dashboard, subreddit growth insights, and business strategy templates. The guide covers everything from Reddit fundamentals to advanced growth tactics, while the premium tool provides real-time traffic insights and analytics.
+
+## s🏃🏻‍♀️ Health & Fitness Software
 ### 💰 [Atomic](https://apple.co/40MP50F) - Lifetime 55% OFF
 
 The simple app to build good habits, break bad habits, and achieve greatness! Available on iOS/iPadOS/MacOS/WatchOS.
