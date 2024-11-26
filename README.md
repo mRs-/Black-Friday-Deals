@@ -118,6 +118,11 @@ Effortless Webhook Integrations for Developers.
 
 Monitor website uptime, SSL certificates, DNS records, and more. Instant alerts for downtime and performance issues.
 
+### 💸 [KAppMaker](https://kappmaker.com) - 30% off. Use code BLACKFRIDAY30 on checkout - Until 30 November
+
+Kotlin and Compose Multiplatform boilerplate code for fast mobile app development on Android and iOS.
+
+
 ## 🛠 Marketing Software
 ### 💸 [SyncSignature](https://syncsignature.com) - Get 60% on all recurring plans. Use code BF24CM60 on checkout - Until 10 December
 
