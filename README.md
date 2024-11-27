@@ -282,6 +282,10 @@ Maximise your Mac performance (macOS). Disk cleaner, performance dashboard, stat
 
 The only app that can tell you when your tracks have been automatically upgraded to Spatial Audio. Keep an eye on your music library and get alerted when songs are added, deleted, or changed (by you or by Apple!)
 
+### 🔍 [HoudahSpot](https://www.houdah.com/houdahSpot/buy.html?coupon=BLACKFRIDAY2024)  - 30% OFF with code BLACKFRIDAY2024
+
+HoudahSpot is a file search tool that helps you organize files and finds these if you did not. 
+
 <p>&nbsp;</p>
 
 ## 📌 Productivity Software
@@ -490,6 +494,14 @@ A minimalist reminders app available on all Apple platforms.
 ### 💸 [LinkYourFile](https://www.linkyourfile.com/) ~ Lifetime 50% OFF until Dec 1
 
 Link your local files or folders in any web application.
+
+### 🌎 [HoudahGeo](https://www.houdah.com/houdahGeo/buy.html?coupon=BLACKFRIDAY2024) - 30% OFF with code BLACKFRIDAY2024
+
+Photo geotagging for Mac. Know where you took that photo. Add GPS locations to JPEG, RAW, Apple Photos.
+
+### 📷 [Photos Workbench](https://www.houdah.com/photosWorkbench/buy.html?coupon=BLACKFRIDAY2024) - 30% OFF with code BLACKFRIDAY2024
+
+Photos Workbench help you organize, rate, and compare your Apple Photos library. Add locations & star ratings. Batch change titles.
 
 <p>&nbsp;</p>
 
