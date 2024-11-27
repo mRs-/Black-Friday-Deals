@@ -280,6 +280,11 @@ Maximise your Mac performance (macOS). Disk cleaner, performance dashboard, stat
 <p>&nbsp;</p>
 
 ## 📌 Productivity Software
+
+### 💰 [QuickWhisper](https://calget.com](https://iwtcom.gumroad.com/l/quickwhisper?code=BFRIDAY2024) - 50% OFF on Pro license with code **BFRIDAY2024**
+
+QuickWhisper turns any audio or video into accurate text instantly on your Mac, handling everything from meetings to podcasts with lightning-fast speed and accuracy.
+
 ### 💸 [BoltAI](https://boltai.com?ref=bfdeals) - 30% OFF with code **BFCM2024**
 
 Access all AI models in one native Mac app: Advanced Voice Mode, Document Analysis, AI Plugins, and more.
