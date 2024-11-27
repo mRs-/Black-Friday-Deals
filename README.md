@@ -268,6 +268,9 @@ Fairly split your bill with friends at restaurants so everyone pays the correct 
 
 A New Mac Window Manager. Dock Window Previewer, Aero shake, Mission Control Pro and more. Bring System-level Arrange Window features to Mac
 
+### 💸 [Sensei](https://cindori.com/sensei) - 50% off (Nov 25 - Dec 2)
+Maximise your Mac performance (macOS). Disk cleaner, performance dashboard, status bar monitor & more.
+
 <p>&nbsp;</p>
 
 ## 📌 Productivity Software
