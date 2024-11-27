@@ -595,6 +595,10 @@ Add photo-realistic frames and mats to your art, and add designer borders or ove
 
 A native bookmark manager for macOS and iOS.
 
+### 💰 [Contrasts - WCAG Accessibility](https://contrasts.app) - Lifetime 40% off, Nov 29 - Dec 2
+
+One-click color contrast checking like Spotlight for WCAG compliance, with live previews, text-to-color recognition, and versatile exports to prepare for the Accessibility Act!
+
 <p>&nbsp;</p>
 
 ## 🏝️ Lifestyle
