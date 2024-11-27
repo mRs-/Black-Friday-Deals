@@ -660,6 +660,9 @@ TinyZap improves click-through rates 📈 for links shared on Twitter, LinkedIn,
 ### 💸 [ReplyPulse](https://replypulse.com) - 50% OFF Yearly plans | Use code **BLACKFRIDAY** 
 ReplyPulse uses AI to help you generate smart, relevant, and personalized replies.
 
+### 💰 [Protego for Reddit](https://apps.apple.com/us/app/protego-for-reddit/id6737959724) - $1.49 lifetime (**25% off**)
+Like a spell shield for your mental health, Protego is a browser extension for Safari which lets you filter out unwanted posts from Reddit and customize your browsing experience to focus on what matters to you.	
+
 <p>&nbsp;</p>
 
 ## 🎓 Reference & Education
