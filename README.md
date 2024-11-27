@@ -734,6 +734,9 @@ Subscribe to get unlimited access to the largest and most up-to-date collection 
 ### 💰 [Learn advanced Swift with PointFree.co](https://www.pointfree.co/discounts/black-friday-2024) - 30% OFF
 Feeling overwhelmed by Swift concurrency, generics, data persistence, domain modeling, navigation, and testing? Level up your Swift skills with over 190 hours of advanced and original content crafted by industry experts.
 
+### 💸 [DNS for Developers](https://nslookup.io/dns-course/) - 66% OFF
+Everything developers should know about DNS. Delegation, propagation, SPF, DKIM, DMARC, security, and much more. Learn DNS once and for all.
+
 
 <p>&nbsp;</p>
 
