@@ -428,7 +428,6 @@ Sticky notes that attaches directly to your macOS windows
 
 All-in-one platform to build, run, & share AI agents and multi-agent workflows to automate business processes.
 
-
 ### 💰 [Pasta](https://apps.apple.com/us/app/pasta-clipboard-manager/id1438389787) - 45% off lifetime, Nov 29 - Dec 2
 
 Clipboard manager for macOS.
@@ -480,6 +479,9 @@ Keep, search, and organize everything you copy on your Mac, iPhone, and iPad.
 
 AI podcasting platform where we take insights from popular books and transform them into quick, fun podcast episodes you can enjoy anytime. We have over 10k+ books on parenting, startups, self help, history, science fiction and more. Think of it as a way to keep learning during stroller walks, coffee runs, long commutes or just rare quiet times.
 
+### 💸 [Memento: Modern Reminders](https://apps.apple.com/app/apple-store/id1200227397?pt=972586&ct=black-friday-github&mt=8) - 85% OFF, only $0.99 , Nov 25 - Dec 2
+
+A minimalist reminders app available on all Apple platforms.
 
 <p>&nbsp;</p>
 
