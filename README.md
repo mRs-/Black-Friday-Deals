@@ -122,6 +122,10 @@ Monitor website uptime, SSL certificates, DNS records, and more. Instant alerts 
 
 Ship your apps faster with a native macOS and iOS app for App Store Connect
 
+### 💸 [KAppMaker](https://kappmaker.com) - 30% off. Use code BLACKFRIDAY30 on checkout - Until 30 November
+
+Kotlin and Compose Multiplatform boilerplate code for fast mobile app development on Android and iOS.
+
 <p>&nbsp;</p>
 
 ## 🛠 Marketing Software
