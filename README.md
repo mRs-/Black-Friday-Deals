@@ -640,6 +640,10 @@ Echo helps you ace soft skills interviews with 50+ common questions, practice to
 
 A minimalist news website that's fast, no ads, private, that's delivered to your inbox daily.
 
+### 💸 [Liquid Player](https://apps.apple.com/app/id1448868559) - 50% OFF Forever Access (ends Dec 1)
+
+Liquid Player is a simple and user-friendly video player that supports all video formats, online playback, and subtitle translation. It is the best tool for watching videos and learning languages.
+
 <p>&nbsp;</p>
 
 ## 📖 Books
