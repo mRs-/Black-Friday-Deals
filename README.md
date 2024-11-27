@@ -728,6 +728,10 @@ A complete step by step guide to get your first client as a freelancer from scra
 
 Subscribe to get unlimited access to the largest and most up-to-date collection of mobile development courses and books available online.
 
+### 💰 [Learn advanced Swift with PointFree.co](https://www.pointfree.co/discounts/black-friday-2024) - 30% OFF
+Feeling overwhelmed by Swift concurrency, generics, data persistence, domain modeling, navigation, and testing? Level up your Swift skills with over 190 hours of advanced and original content crafted by industry experts.
+
+
 <p>&nbsp;</p>
 
 ## 📈 Business Software
