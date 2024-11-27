@@ -751,6 +751,7 @@ Ghostfolio is a privacy-first, open source dashboard for your personal finances.
 
 Say goodbye to paper clutter! Store your receipts securely in cloud and access them whenever you need.
 
+
 ### 💸 [Cashculator](https://cashculator.app) -  50% off first year.
 
 The easy way to track and forecast personal finances (Mac). Discount works using [this link only (applies coupon code)](https://apps.apple.com/redeem?ctx=offercodes&id=1591642644&code=BLACKFRIDAY24).
@@ -758,6 +759,10 @@ The easy way to track and forecast personal finances (Mac). Discount works using
 ### 🚀 [xChangeApi](https://xchangeapi.com/?utm_source=github&utm_medium=Black-Friday-Deals) - 50% OFF, Nov 25 - Dec 30
 
 Financial market Data for Developers.
+
+### 💰 [Capitally](https://www.mycapitally.com/) - Lifetime on offer, Nov 25 - Dec 8
+
+Track, understand and improve the performance of your investment strategy, no matter how simple or complex, and achieve your life goals sooner!
 
 ## 🗺️ Navigation
 ### 🚘 [EV Charge Stations Map](https://apple.co/3NWejUz) - Lifetime 66% OFF, Nov 20 - Dec 2
