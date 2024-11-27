@@ -447,6 +447,10 @@ Improve your writing in any macOS application with the help of AI. Correct gramm
 
 Edit your writing faster. Hemingway Editor Plus fixes wordy sentences, grammar issues, and more — with a click.
 
+### 💸 [Trickster](https://www.apparentsoft.com/trickster) ~ 50% OFF till Dec 2nd
+
+Find Recently used and modified files at your fingertips. 50% off.
+
 <p>&nbsp;</p>
 
 ## Video Software
@@ -469,6 +473,7 @@ macOS app for recording your face directly into your videos. Loom but with 1 tim
 ### 💰 [Loomos](https://loomos.co) ~ 50% OFF till BLACK FRIDAY
 
 Transform boring screen recordings into studio-quality videos in single click. Remove all the 'uhms', translate to 20+ languages
+
 <p>&nbsp;</p>
 
 ## 🎨 Graphic Software
@@ -508,8 +513,11 @@ Photo & Video Editing for iPhone, Mac, iPad and Vision Pro. Apple Design Award w
 
 No more boring Screenshot, ever! Beautify, enhance, and share stunning screenshots effortlessly on Windows and Mac.
 
-<p>&nbsp;</p>
+### 💸 [ImageFramer](https://imageframer.net) -  50% off - Dec 2
 
+Add photo-realistic frames and mats to your art, and add designer borders or overlays to photos on your Mac |
+
+<p>&nbsp;</p>
 
 ## 🏝️ Lifestyle
 ### 💸 [Digital Photo Frame App](https://www.digitalphotoframeapp.com) - 50% OFF YEARLY Plan, Nov 29 - Dec 2
@@ -547,6 +555,14 @@ LED matrix display app for iPhone and iPad.
 ### 💸 [AIhairstyles](https://aihairstyles.com) - 30% off all purchases, Nov 24 - Dec 6
 
 Find the right hairstyle for you with the power of AI - use code BFRIDAY30 in checkout
+
+### 💸 [Eter](https://apps.apple.com/app/eter/id1523221566) - 50% off, only $2.5 one-time.
+
+Internet radio player (iOS, Mac, TV, Watch)
+
+### 💸 [Calm My Dog](https://calmmydog.app/) - iOS | 50% off first year.
+
+Treat Dog Separation anxiety with a proven training method. (Discount with [this link only](https://apps.apple.com/redeem?ctx=offercodes&id=1629500193&code=BLACKFRIDAY24)).
 
 <p>&nbsp;</p>
 
@@ -710,6 +726,10 @@ Ghostfolio is a privacy-first, open source dashboard for your personal finances.
 ### 💸 [ReceiptBox](https://apps.apple.com/us/app/receipt-organizer-receiptbox/id6657987970) - 50% OFF, Nov 26 - Dec 2
 
 Say goodbye to paper clutter! Store your receipts securely in cloud and access them whenever you need.
+
+### 💸 [Cashculator](https://cashculator.app) -  50% off first year.
+
+The easy way to track and forecast personal finances (Mac). Discount works using [this link only (applies coupon code)](https://apps.apple.com/redeem?ctx=offercodes&id=1591642644&code=BLACKFRIDAY24).
 
 ## 🗺️ Navigation
 ### 🚘 [EV Charge Stations Map](https://apple.co/3NWejUz) - Lifetime 66% OFF, Nov 20 - Dec 2
