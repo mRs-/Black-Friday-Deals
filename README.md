@@ -281,7 +281,7 @@ Maximise your Mac performance (macOS). Disk cleaner, performance dashboard, stat
 
 ## 📌 Productivity Software
 
-### 💰 [QuickWhisper](https://calget.com](https://iwtcom.gumroad.com/l/quickwhisper?code=BFRIDAY2024) - 50% OFF on Pro license with code **BFRIDAY2024**
+### 💰 [QuickWhisper](https://iwtcom.gumroad.com/l/quickwhisper?code=BFRIDAY2024) - 50% OFF on Pro license with code **BFRIDAY2024**
 
 QuickWhisper turns any audio or video into accurate text instantly on your Mac, handling everything from meetings to podcasts with lightning-fast speed and accuracy.
 
