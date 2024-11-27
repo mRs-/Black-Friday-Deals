@@ -455,6 +455,10 @@ Edit your writing faster. Hemingway Editor Plus fixes wordy sentences, grammar i
 
 Find Recently used and modified files at your fingertips. 50% off.
 
+### 💸 [Paste - Endless Clipboard](https://pasteapp.io/black-friday-2024) - 50% OFF Mac + iOS
+
+Keep, search, and organize everything you copy on your Mac, iPhone, and iPad.
+
 <p>&nbsp;</p>
 
 ## Video Software
