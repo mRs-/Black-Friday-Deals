@@ -739,6 +739,10 @@ Say goodbye to paper clutter! Store your receipts securely in cloud and access t
 
 The easy way to track and forecast personal finances (Mac). Discount works using [this link only (applies coupon code)](https://apps.apple.com/redeem?ctx=offercodes&id=1591642644&code=BLACKFRIDAY24).
 
+### 🚀 [xChangeApi](https://xchangeapi.com/?utm_source=github&utm_medium=Black-Friday-Deals) - 50% OFF, Nov 25 - Dec 30
+
+Financial market Data for Developers.
+
 ## 🗺️ Navigation
 ### 🚘 [EV Charge Stations Map](https://apple.co/3NWejUz) - Lifetime 66% OFF, Nov 20 - Dec 2
 
