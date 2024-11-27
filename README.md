@@ -520,6 +520,10 @@ Photos Workbench help you organize, rate, and compare your Apple Photos library.
 
 Create AI chatbots trained on your documents, with unrivaled accuracy in answers and full EU data residency. 
 
+### 💰 [Pycopaste](https://pycopaste.foxfortmobile.com) - 40% OFF lifetime purchase
+
+Clipboard manager for iOS and Mac OS
+
 
 <p>&nbsp;</p>
 
