@@ -483,6 +483,10 @@ AI podcasting platform where we take insights from popular books and transform t
 
 A minimalist reminders app available on all Apple platforms.
 
+### 💸 [LinkYourFile](https://www.linkyourfile.com/) ~ Lifetime 50% OFF until Dec 1
+
+Link your local files or folders in any web application.
+
 <p>&nbsp;</p>
 
 ## Video Software
