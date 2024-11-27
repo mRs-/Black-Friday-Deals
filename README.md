@@ -161,6 +161,9 @@ Effortless Webhook Integrations for Developers.
 ### 💰 [ExploitPack](https://exploitpack.com/indexexploitpack.html) - Advanced Exploitation Framework with 0days and 39,500+ exploits - LIFETIME Licenses - Until 30 November - Only 10 licenses available
 ### 💰 [ControlPack](https://exploitpack.com/indexcontrolpack.html) - Command & Control Framework, not detected by AVs and EDRs - LIFETIME Licenses - Until 30 November - Only 10 licenses available
 
+### 💰 [Strongbox](https://strongboxsafe.com) - 25% OFF Lifetime Pro licenses in the App Store - Nov 29 - Dec 2
+Local First password manager supporting formats open formats like KeePass and Password Safe on iOS and macOS. Store your passwords where you choose. Own your secrets.
+
 <p>&nbsp;</p>
 
 ## 🎛 Utility Software
