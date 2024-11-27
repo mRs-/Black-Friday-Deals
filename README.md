@@ -774,6 +774,10 @@ High-converting checkout software for coaches and creators to sell info products
 
 Grow your app's downloads and revenue with the best-in-class ASO and App Intelligence tools.
 
+### 💚 [WishKit](https://www.wishkit.io) - 33% OFF for an entire year! Code BLACKFRIDAY24
+
+Gather user feedback for your iOS app and prioritize features based on user votes.
+
 <p>&nbsp;</p>
 
 ## 🏃🏻‍♀️ Health & Fitness Software
