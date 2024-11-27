@@ -260,6 +260,10 @@ Safari extension for iOS and Mac that opens Mastodon URLs in your own instance.
 
 Fairly split your bill with friends at restaurants so everyone pays the correct percent of tax, tip. Send payment summaries and requests. See share breakdown and track who's paid you back already.
 
+### 💰 [Wins](https://wins.cool) - 40% off (Nov 23 - Nov 30)
+
+A New Mac Window Manager. Dock Window Previewer, Aero shake, Mission Control Pro and more. Bring System-level Arrange Window features to Mac
+
 <p>&nbsp;</p>
 
 ## 📌 Productivity Software
