@@ -118,12 +118,32 @@ Effortless Webhook Integrations for Developers.
 
 Monitor website uptime, SSL certificates, DNS records, and more. Instant alerts for downtime and performance issues.
 
-<p>&nbsp;</p>
-
 ## 🛠 Marketing Software
 ### 💸 [SyncSignature](https://syncsignature.com) - Get 60% on all recurring plans. Use code BF24CM60 on checkout - Until 10 December
 
 Branded email signatures for your teams. SyncSignature helps design, update and automatically install email signatures for everyone across your business.
+
+### 💸 [Lintastic ASO Metadata Linter](https://apps.apple.com/redeem?ctx=offercodes&id=6479271017&code=BLACKFRIDAY2024) - 50% OFF license until Dec 6th
+
+Lintastic helps developers audit their app's name, subtitle, and keyword fields for App Store best practices. Use the word bank to keep track of all of the keywords you care about and efficiently use all of the space available to you in your metadata to rank as high as possible in the App Store.
+
+### 💰 [Tower](https://www.git-tower.com/) - 30% OFF valid through Dec 8
+
+Powerful Git client for Mac and Windows.
+
+### 💰 [RunJS](https://runjs.app) - 30% OFF
+
+A fast, zero-config playground for JavaScript and TypeScript. Run your code and see results instantly. 🚀
+
+### 💸 [OK JSON](https://okjson.app) - 50% OFF with Code **BF2024**
+
+JSON formatter with viewing history for macOS.
+
+### 🔌 [Terminalwire](https://terminalwire.com/black-friday?utm_source=gh-mRs-) - 25% off annual Terminalwire Pro License with the coupon code BF24 by December 14.
+
+Ship terminal applications 10× faster, without an API or binaires, using your favorite web framework.
+
+Effortless Webhook Integrations for Developers.
 
 <p>&nbsp;</p>
 
@@ -229,6 +249,33 @@ Easily transcribe into subtitle, plain text, or video captions from your video o
 ### 🎵 [2MP3](https://apps.apple.com/app/2mp3/id6737749090) - 50% OFF Lifetime - No code needed
 
 Minimalist mp3 Converter, Nothing Else,Convert videos and audio files to AAC, FLAC, M4A, MP3 & WAV - Nothing else, just pure conversion.
+
+### 💸 [Link Unshortener](https://apps.apple.com/app/link-unshortener/id1506953658?mt=12) - 50% off (Nov 25 - Dec 8)
+
+Native Mac app that reveals and bypasses URL redirects.
+
+### 💸 [StopTheScript](https://apps.apple.com/app/stopthescript/id1588394487) - 50% off (Nov 25 - Dec 8)
+
+Safari extension for iOS and Mac that stops JavaScript on selected websites.
+
+### 💸 [StopTheFonts](https://apps.apple.com/app/stopthefonts/id1671452642) - 50% off (Nov 25 - Dec 8)
+
+Safari content blocker for iOS and Mac that blocks web fonts.
+
+### 💸 [Homecoming for Mastodon](https://apps.apple.com/app/homecoming-for-mastodon/id1666139593) - 50% off (Nov 25 - Dec 8)
+
+Safari extension for iOS and Mac that opens Mastodon URLs in your own instance.
+
+### 💰 [Split the Bill with Checkparty](https://itunes.apple.com/us/app/checkparty/id905723797) - 50% off lifetime (Nov 24 - Dec 3rd)
+
+Fairly split your bill with friends at restaurants so everyone pays the correct percent of tax, tip. Send payment summaries and requests. See share breakdown and track who's paid you back already.
+
+### 💰 [Wins](https://wins.cool) - 40% off (Nov 23 - Nov 30)
+
+A New Mac Window Manager. Dock Window Previewer, Aero shake, Mission Control Pro and more. Bring System-level Arrange Window features to Mac
+
+### 💸 [Sensei](https://cindori.com/sensei) - 50% off (Nov 25 - Dec 2)
+Maximise your Mac performance (macOS). Disk cleaner, performance dashboard, status bar monitor & more.
 
 <p>&nbsp;</p>
 
@@ -381,7 +428,6 @@ Sticky notes that attaches directly to your macOS windows
 
 All-in-one platform to build, run, & share AI agents and multi-agent workflows to automate business processes.
 
-
 ### 💰 [Pasta](https://apps.apple.com/us/app/pasta-clipboard-manager/id1438389787) - 45% off lifetime, Nov 29 - Dec 2
 
 Clipboard manager for macOS.
@@ -404,9 +450,38 @@ PhotInfo is an app to view and edit the information (location, date, dimensions,
 
 ### 💸 [AnySelect](https://anyselectai.com/) The best and quickest way to use ChatGPT/LLM from any app on macOS!. Get 60% off with this code **BF2024**
 
+
 ### 💸 [Deckset](hhttps://www.deckset.com) - 50% OFF with code **BF2024** , Nov 25 - Dec 3
 
 Write down your thoughts in your favourite text editor, and Deckset will turn them into beautiful presentations.
+
+### 💸 [SuperText](https://apps.apple.com/app/supertext/id6503445499) - 50% OFF for yearly plan with code **BLACKFRIDAY24** (till Dec 30)
+
+A spell checker that combine traditional spell checking with AI to provide the best possible correction. Shortcuts and Services Menu compatible to spell check from any app. Available on macOS, iOS and visionOS.
+
+### 💸 [RewriteBar](https://rewritebar.com) - 50% off with code **BF2024** (valid till Dec 3)
+
+Improve your writing in any macOS application with the help of AI. Correct grammar errors, rewrite your text in a different style, translate a sentence quickly or create your own AI action.
+
+### 💸 [Hemingway Editor Plus](https://hemingwayapp.com) - 20% OFF, Nov 25 - Dec 6
+
+Edit your writing faster. Hemingway Editor Plus fixes wordy sentences, grammar issues, and more — with a click.
+
+### 💸 [Trickster](https://www.apparentsoft.com/trickster) ~ 50% OFF till Dec 2nd
+
+Find Recently used and modified files at your fingertips. 50% off.
+
+### 💸 [Paste - Endless Clipboard](https://pasteapp.io/black-friday-2024) - 50% OFF Mac + iOS
+
+Keep, search, and organize everything you copy on your Mac, iPhone, and iPad.
+
+### 💸 [Tales.so](https://www.tales.so) - 75% OFF with code **BFCM24**
+
+AI podcasting platform where we take insights from popular books and transform them into quick, fun podcast episodes you can enjoy anytime. We have over 10k+ books on parenting, startups, self help, history, science fiction and more. Think of it as a way to keep learning during stroller walks, coffee runs, long commutes or just rare quiet times.
+
+### 💸 [Memento: Modern Reminders](https://apps.apple.com/app/apple-store/id1200227397?pt=972586&ct=black-friday-github&mt=8) - 85% OFF, only $0.99 , Nov 25 - Dec 2
+
+A minimalist reminders app available on all Apple platforms.
 
 <p>&nbsp;</p>
 
@@ -430,6 +505,11 @@ macOS app for recording your face directly into your videos. Loom but with 1 tim
 ### 💰 [Loomos](https://loomos.co) ~ 50% OFF till BLACK FRIDAY
 
 Transform boring screen recordings into studio-quality videos in single click. Remove all the 'uhms', translate to 20+ languages
+
+### 💸 [ScreenSage](https://screensage.macaify.com/) ~ 50% OFF the one time purchase
+
+Professional Screen Recording & Tutorial Creation Tool for macOS.Auto-zoom screen recorder that makes every event count.
+
 <p>&nbsp;</p>
 
 ## 🎨 Graphic Software
@@ -469,8 +549,15 @@ Photo & Video Editing for iPhone, Mac, iPad and Vision Pro. Apple Design Award w
 
 No more boring Screenshot, ever! Beautify, enhance, and share stunning screenshots effortlessly on Windows and Mac.
 
-<p>&nbsp;</p>
+### 💸 [ImageFramer](https://imageframer.net) -  50% off - Dec 2
 
+Add photo-realistic frames and mats to your art, and add designer borders or overlays to photos on your Mac
+
+### 💰 [Anybox](https://anybox.app) - **30% OFF**, the lifetime plan, Nov 26 – Dec 3
+
+A native bookmark manager for macOS and iOS.
+
+<p>&nbsp;</p>
 
 ## 🏝️ Lifestyle
 ### 💸 [Digital Photo Frame App](https://www.digitalphotoframeapp.com) - 50% OFF YEARLY Plan, Nov 29 - Dec 2
@@ -509,6 +596,19 @@ LED matrix display app for iPhone and iPad.
 
 Find the right hairstyle for you with the power of AI - use code BFRIDAY30 in checkout
 
+
+### 💸 [Eter](https://apps.apple.com/app/eter/id1523221566) - 50% off, only $2.5 one-time.
+
+Internet radio player (iOS, Mac, TV, Watch)
+
+### 💸 [Calm My Dog](https://calmmydog.app/) - iOS | 50% off first year.
+
+Treat Dog Separation anxiety with a proven training method. (Discount with [this link only](https://apps.apple.com/redeem?ctx=offercodes&id=1629500193&code=BLACKFRIDAY24)).
+
+### 💡 [Signals for HomeKit](https://apps.apple.com/us/app/signals-for-homekit/id1453293391) - 40% off all In-App Purchases, Nov 29 - Dec 3
+
+Communicate at home with the smart lights you already have, with Signals for HomeKit!
+
 <p>&nbsp;</p>
 
 ## 🗣️ Social
@@ -518,6 +618,9 @@ Reach maximum Reddit traffic by finding the best times to post. Track 400+ subre
 
 ### 💰 [Postiz](https://postiz.com) - 50% OFF lifetime |Use code **BF2024** 
 The ultimate AI social media scheduling tool also open-source!	
+### ⚡️ [TinyZap](https://tinyzap.com/black-friday?utm_source=gh-mRs-) - 50% off annual TinyZap plan with the coupon code BF24 by December 14.
+
+TinyZap improves click-through rates 📈 for links shared on Twitter, LinkedIn, Facebook, and social posts with automatically generated OpenGraph webpage screenshots. 💅
 
 ### 💸 [ReplyPulse](https://replypulse.com) - 50% OFF Yearly plans | Use code **BLACKFRIDAY** 
 ReplyPulse uses AI to help you generate smart, relevant, and personalized replies.
@@ -528,6 +631,14 @@ ReplyPulse uses AI to help you generate smart, relevant, and personalized replie
 ### 💸 [PDF Pals](https://pdfpals.com?ref=bfdeals) - 53% OFF with code **BFCM2024**
 
 Native ChatPDF app for Mac.
+
+### 💸 [Echo Interview Prep](https://apps.apple.com/redeem?ctx=offercodes&id=6474445689&code=BLACKFRIDAY2024) - 55% OFF with code **BLACKFRIDAY2024**, valid until December 6th
+
+Echo helps you ace soft skills interviews with 50+ common questions, practice tools to refine your answers, and personalized feedback to improve your performance.
+
+### 📰 [Legible News](https://legiblenews.com/black-friday?utm_source=gh-mRs-) - 25% OFF annual subscription with code **BF24**
+
+A minimalist news website that's fast, no ads, private, that's delivered to your inbox daily.
 
 ### 💸 [Liquid Player](https://apps.apple.com/app/id1448868559) - 50% OFF Forever Access (ends Dec 1)
 
@@ -553,6 +664,7 @@ Liquid Player is a simple and user-friendly video player that supports all video
 ### 💰 [Swift Gems: 100+ tips to take your Swift code to the next level](https://books.nilcoalescing.com/swift-gems) - 30% OFF
 ### 💰 [Integrating SwiftUI into UIKit Apps](https://books.nilcoalescing.com/integrating-swiftui) - 30% OFF
 ### 📚 [Honkist - Short key ideas from non-fiction books](https://honkist.com) -  50% OFF with code BF24
+### 📚 [Kodeco - All iOS & MacOS Books 50% Off](https://www.kodeco.com/library?domain_ids%5B%5D=1&domain_ids%5B%5D=5&content_types%5B%5D=edition&q=) - 50% OFF
 
 <p>&nbsp;</p>
 
@@ -576,6 +688,10 @@ Learn SwiftUI for macOS development.
 
 ### 💸 [Get Your First Client as a Freelancer](https://getyourfirstclient.freelancerpath.com/) - 50% OFF
 A complete step by step guide to get your first client as a freelancer from scratch.
+
+### 💸 [Kodeco Subscription](https://www.kodeco.com/46129936-black-friday-sale-huge-discounts-on-subscriptions-bootcamps-and-books) - 50% OFF
+
+Subscribe to get unlimited access to the largest and most up-to-date collection of mobile development courses and books available online.
 
 <p>&nbsp;</p>
 
@@ -609,7 +725,7 @@ Grow your app's downloads and revenue with the best-in-class ASO and App Intelli
 <p>&nbsp;</p>
 
 ## 🏃🏻‍♀️ Health & Fitness Software
-### 💰 [Atomic](https://apple.co/40MP50F) - Lifetime 55% OFF
+### 💰 [Atomic](https://apps.apple.com/app/id6478046939) - Lifetime 55% OFF
 
 The simple app to build good habits, break bad habits, and achieve greatness! Available on iOS/iPadOS/MacOS/WatchOS.
 
@@ -639,6 +755,9 @@ A bundle of 2 books: Integrating SwiftUI into UIKit Apps and Swift Gems.
 <p>&nbsp;</p>
 
 ## 🎶 Creative content
+### 💸 [Roads Audio](https://roadsaudio.com) - 50% OFF First Year, Nov 29 - Dec 2
+
+Create private podcasts and grow your community with async audio chats.
 
 <p>&nbsp;</p>
 
@@ -667,6 +786,22 @@ Ghostfolio is a privacy-first, open source dashboard for your personal finances.
 
 Say goodbye to paper clutter! Store your receipts securely in cloud and access them whenever you need.
 
+### 💸 [Cashculator](https://cashculator.app) -  50% off first year.
+
+The easy way to track and forecast personal finances (Mac). Discount works using [this link only (applies coupon code)](https://apps.apple.com/redeem?ctx=offercodes&id=1591642644&code=BLACKFRIDAY24).
+
+### 🚀 [xChangeApi](https://xchangeapi.com/?utm_source=github&utm_medium=Black-Friday-Deals) - 50% OFF, Nov 25 - Dec 30
+
+Financial market Data for Developers.
+
+### 💰 [Capitally](https://www.mycapitally.com/) - Lifetime on offer, Nov 25 - Dec 8
+
+Track, understand and improve the performance of your investment strategy, no matter how simple or complex, and achieve your life goals sooner!
+
+### 💸 [Bills to Budget](https://apps.apple.com/us/app/bills-to-budget/id1636872963) - Over 55% OFF, Nov 29 - Dec 3
+
+Get your Bills paid on time and your Budgets under control, with Bills to Budget!
+
 ## 🗺️ Navigation
 ### 🚘 [EV Charge Stations Map](https://apple.co/3NWejUz) - Lifetime 66% OFF, Nov 20 - Dec 2
 
@@ -681,5 +816,9 @@ Experience the power of real-time link monitoring with BLM. Stay updated on your
 ### 💸 [GlanceCam - IP Camera Viewer](https://apps.apple.com/us/app/glancecam-ip-camera-viewer/id1360797896) - 50% OFF, Nov 28 - Dec 3
 
 GlanceCam is a secure and beloved IP camera viewer for macOS, with over 600 App Store ratings averaging more than 4.2 stars. It supports standard streaming protocols and offers lots of advanced features. With 41 free updates over 6 years, GlanceCam is the best choice for streaming IP Cameras from any manufacturer, with powerful features (Instazoom, Always on top...) and automations.
+
+### 🧸 [Thingybase](https://thingybase.com/black-friday?utm_source=gh-mRs-) - 50% Off Thingybase annual plan.
+
+Organize, track, and treasure your stuff with Thingybase, a home inventory application for collectors, hobbyists, and families. When you need to know where something is in your home, just search for it.
 
 ## 🕹 Games
