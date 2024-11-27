@@ -250,6 +250,7 @@ Easily transcribe into subtitle, plain text, or video captions from your video o
 
 Minimalist mp3 Converter, Nothing Else,Convert videos and audio files to AAC, FLAC, M4A, MP3 & WAV - Nothing else, just pure conversion.
 
+
 ### 💸 [Link Unshortener](https://apps.apple.com/app/link-unshortener/id1506953658?mt=12) - 50% off (Nov 25 - Dec 8)
 
 Native Mac app that reveals and bypasses URL redirects.
@@ -276,6 +277,10 @@ A New Mac Window Manager. Dock Window Previewer, Aero shake, Mission Control Pro
 
 ### 💸 [Sensei](https://cindori.com/sensei) - 50% off (Nov 25 - Dec 2)
 Maximise your Mac performance (macOS). Disk cleaner, performance dashboard, status bar monitor & more.
+
+### 💸 [Music Library Tracker](https://itunes.apple.com/us/app/music-tracker-automatic-tracking/id1062583712?ls=1&mt=8) - 50% OFF, Nov 29 - Dec 3
+
+The only app that can tell you when your tracks have been automatically upgraded to Spatial Audio. Keep an eye on your music library and get alerted when songs are added, deleted, or changed (by you or by Apple!)
 
 <p>&nbsp;</p>
 
@@ -612,6 +617,10 @@ Treat Dog Separation anxiety with a proven training method. (Discount with [this
 
 Communicate at home with the smart lights you already have, with Signals for HomeKit!
 
+### 💸 [Browser Note](https://apps.apple.com/us/app/browser-note/id1613527249) - 50% OFF, Nov 29 - Dec 3
+
+A simple way to add a pause to your browsing with dismissable reminders or notes blocking you from certain sites (i.e. social media)
+
 <p>&nbsp;</p>
 
 ## 🗣️ Social
@@ -747,6 +756,10 @@ Moderation is the simple food diary that brings joy back to mindful eating. No c
 ### 💰 [Presence App](https://web.presence.app/en/subscription/90-days/black-friday-2024) - FREE for 3 months (No coupon code required)
 
 Presence is a meditation app and platform based on yoga and eastern spiritual practices.
+
+### 💸 [Chaise Longue to 5K](https://apps.apple.com/us/app/chaise-longue-to-5k/id1633434180) - 50% OFF, Nov 29 - Dec 3
+
+Because couches are so common. Keep an eye on your run with Picture-in-Picture so you can use other apps at the same time!
 
 <p>&nbsp;</p>
 
