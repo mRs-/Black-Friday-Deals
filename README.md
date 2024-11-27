@@ -737,6 +737,10 @@ Beautiful and intuitive journaling app for iPhone, iPad, Mac, and Vision Pro.
 
 Moderation is the simple food diary that brings joy back to mindful eating. No calorie counting, just quick meal logging and smart insights.
 
+### 💪🏻 [BodyPeak: Workout Planner & Tracker](https://apps.apple.com/app/id6476585712) - 33% OFF Annual, Nov 22 - Dec 2, No Promo Code Required
+
+Take your workouts to the next level with BodyPeak, your iOS coach for muscle building and workout tracking. Stay motivated, track progress, and crush your goals!
+
 <p>&nbsp;</p>
 
 ## 🎁 Bundles
