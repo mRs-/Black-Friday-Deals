@@ -135,6 +135,10 @@ Powerful Git client for Mac and Windows.
 
 A fast, zero-config playground for JavaScript and TypeScript. Run your code and see results instantly. 🚀
 
+### 💸 [OK JSON](https://okjson.app) - 50% OFF with Code **BF2024**
+
+JSON formatter with viewing history for macOS.
+
 <p>&nbsp;</p>
 
 ## :tophat: Security Software
@@ -527,7 +531,11 @@ No more boring Screenshot, ever! Beautify, enhance, and share stunning screensho
 
 ### 💸 [ImageFramer](https://imageframer.net) -  50% off - Dec 2
 
-Add photo-realistic frames and mats to your art, and add designer borders or overlays to photos on your Mac |
+Add photo-realistic frames and mats to your art, and add designer borders or overlays to photos on your Mac
+
+### 💰 [Anybox](https://anybox.app) - **30% OFF**, the lifetime plan, Nov 26 – Dec 3
+
+A native bookmark manager for macOS and iOS.
 
 <p>&nbsp;</p>
 
