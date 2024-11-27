@@ -127,6 +127,14 @@ Branded email signatures for your teams. SyncSignature helps design, update and 
 
 Lintastic helps developers audit their app's name, subtitle, and keyword fields for App Store best practices. Use the word bank to keep track of all of the keywords you care about and efficiently use all of the space available to you in your metadata to rank as high as possible in the App Store.
 
+### 💰 [Tower](https://www.git-tower.com/) - 30% OFF valid through Dec 8
+
+Powerful Git client for Mac and Windows.
+
+### 💰 [RunJS](https://runjs.app) - 30% OFF
+
+A fast, zero-config playground for JavaScript and TypeScript. Run your code and see results instantly. 🚀
+
 ### 💸 [OK JSON](https://okjson.app) - 50% OFF with Code **BF2024**
 
 JSON formatter with viewing history for macOS.
@@ -255,6 +263,10 @@ Safari extension for iOS and Mac that opens Mastodon URLs in your own instance.
 ### 💰 [Split the Bill with Checkparty](https://itunes.apple.com/us/app/checkparty/id905723797) - 50% off lifetime (Nov 24 - Dec 3rd)
 
 Fairly split your bill with friends at restaurants so everyone pays the correct percent of tax, tip. Send payment summaries and requests. See share breakdown and track who's paid you back already.
+
+### 💰 [Wins](https://wins.cool) - 40% off (Nov 23 - Nov 30)
+
+A New Mac Window Manager. Dock Window Previewer, Aero shake, Mission Control Pro and more. Bring System-level Arrange Window features to Mac
 
 <p>&nbsp;</p>
 
@@ -430,6 +442,7 @@ PhotInfo is an app to view and edit the information (location, date, dimensions,
 
 ### 💸 [AnySelect](https://anyselectai.com/) The best and quickest way to use ChatGPT/LLM from any app on macOS!. Get 60% off with this code **BF2024**
 
+
 ### 💸 [Deckset](hhttps://www.deckset.com) - 50% OFF with code **BF2024** , Nov 25 - Dec 3
 
 Write down your thoughts in your favourite text editor, and Deckset will turn them into beautiful presentations.
@@ -437,6 +450,22 @@ Write down your thoughts in your favourite text editor, and Deckset will turn th
 ### 💸 [SuperText](https://apps.apple.com/app/supertext/id6503445499) - 50% OFF for yearly plan with code **BLACKFRIDAY24** (till Dec 30)
 
 A spell checker that combine traditional spell checking with AI to provide the best possible correction. Shortcuts and Services Menu compatible to spell check from any app. Available on macOS, iOS and visionOS.
+
+### 💸 [RewriteBar](https://rewritebar.com) - 50% off with code **BF2024** (valid till Dec 3)
+
+Improve your writing in any macOS application with the help of AI. Correct grammar errors, rewrite your text in a different style, translate a sentence quickly or create your own AI action.
+
+### 💸 [Hemingway Editor Plus](https://hemingwayapp.com) - 20% OFF, Nov 25 - Dec 6
+
+Edit your writing faster. Hemingway Editor Plus fixes wordy sentences, grammar issues, and more — with a click.
+
+### 💸 [Trickster](https://www.apparentsoft.com/trickster) ~ 50% OFF till Dec 2nd
+
+Find Recently used and modified files at your fingertips. 50% off.
+
+### 💸 [Paste - Endless Clipboard](https://pasteapp.io/black-friday-2024) - 50% OFF Mac + iOS
+
+Keep, search, and organize everything you copy on your Mac, iPhone, and iPad.
 
 <p>&nbsp;</p>
 
@@ -460,6 +489,7 @@ macOS app for recording your face directly into your videos. Loom but with 1 tim
 ### 💰 [Loomos](https://loomos.co) ~ 50% OFF till BLACK FRIDAY
 
 Transform boring screen recordings into studio-quality videos in single click. Remove all the 'uhms', translate to 20+ languages
+
 <p>&nbsp;</p>
 
 ## 🎨 Graphic Software
@@ -499,12 +529,15 @@ Photo & Video Editing for iPhone, Mac, iPad and Vision Pro. Apple Design Award w
 
 No more boring Screenshot, ever! Beautify, enhance, and share stunning screenshots effortlessly on Windows and Mac.
 
+### 💸 [ImageFramer](https://imageframer.net) -  50% off - Dec 2
+
+Add photo-realistic frames and mats to your art, and add designer borders or overlays to photos on your Mac
+
 ### 💰 [Anybox](https://anybox.app) - **30% OFF**, the lifetime plan, Nov 26 – Dec 3
 
 A native bookmark manager for macOS and iOS.
 
 <p>&nbsp;</p>
-
 
 ## 🏝️ Lifestyle
 ### 💸 [Digital Photo Frame App](https://www.digitalphotoframeapp.com) - 50% OFF YEARLY Plan, Nov 29 - Dec 2
@@ -542,6 +575,14 @@ LED matrix display app for iPhone and iPad.
 ### 💸 [AIhairstyles](https://aihairstyles.com) - 30% off all purchases, Nov 24 - Dec 6
 
 Find the right hairstyle for you with the power of AI - use code BFRIDAY30 in checkout
+
+### 💸 [Eter](https://apps.apple.com/app/eter/id1523221566) - 50% off, only $2.5 one-time.
+
+Internet radio player (iOS, Mac, TV, Watch)
+
+### 💸 [Calm My Dog](https://calmmydog.app/) - iOS | 50% off first year.
+
+Treat Dog Separation anxiety with a proven training method. (Discount with [this link only](https://apps.apple.com/redeem?ctx=offercodes&id=1629500193&code=BLACKFRIDAY24)).
 
 <p>&nbsp;</p>
 
@@ -587,6 +628,7 @@ Echo helps you ace soft skills interviews with 50+ common questions, practice to
 ### 💰 [Swift Gems: 100+ tips to take your Swift code to the next level](https://books.nilcoalescing.com/swift-gems) - 30% OFF
 ### 💰 [Integrating SwiftUI into UIKit Apps](https://books.nilcoalescing.com/integrating-swiftui) - 30% OFF
 ### 📚 [Honkist - Short key ideas from non-fiction books](https://honkist.com) -  50% OFF with code BF24
+### 📚 [Kodeco - All iOS & MacOS Books 50% Off](https://www.kodeco.com/library?domain_ids%5B%5D=1&domain_ids%5B%5D=5&content_types%5B%5D=edition&q=) - 50% OFF
 
 <p>&nbsp;</p>
 
@@ -610,6 +652,10 @@ Learn SwiftUI for macOS development.
 
 ### 💸 [Get Your First Client as a Freelancer](https://getyourfirstclient.freelancerpath.com/) - 50% OFF
 A complete step by step guide to get your first client as a freelancer from scratch.
+
+### 💸 [Kodeco Subscription](https://www.kodeco.com/46129936-black-friday-sale-huge-discounts-on-subscriptions-bootcamps-and-books) - 50% OFF
+
+Subscribe to get unlimited access to the largest and most up-to-date collection of mobile development courses and books available online.
 
 <p>&nbsp;</p>
 
@@ -643,7 +689,7 @@ Grow your app's downloads and revenue with the best-in-class ASO and App Intelli
 <p>&nbsp;</p>
 
 ## 🏃🏻‍♀️ Health & Fitness Software
-### 💰 [Atomic](https://apple.co/40MP50F) - Lifetime 55% OFF
+### 💰 [Atomic](https://apps.apple.com/app/id6478046939) - Lifetime 55% OFF
 
 The simple app to build good habits, break bad habits, and achieve greatness! Available on iOS/iPadOS/MacOS/WatchOS.
 
@@ -700,6 +746,14 @@ Ghostfolio is a privacy-first, open source dashboard for your personal finances.
 ### 💸 [ReceiptBox](https://apps.apple.com/us/app/receipt-organizer-receiptbox/id6657987970) - 50% OFF, Nov 26 - Dec 2
 
 Say goodbye to paper clutter! Store your receipts securely in cloud and access them whenever you need.
+
+### 💸 [Cashculator](https://cashculator.app) -  50% off first year.
+
+The easy way to track and forecast personal finances (Mac). Discount works using [this link only (applies coupon code)](https://apps.apple.com/redeem?ctx=offercodes&id=1591642644&code=BLACKFRIDAY24).
+
+### 🚀 [xChangeApi](https://xchangeapi.com/?utm_source=github&utm_medium=Black-Friday-Deals) - 50% OFF, Nov 25 - Dec 30
+
+Financial market Data for Developers.
 
 ## 🗺️ Navigation
 ### 🚘 [EV Charge Stations Map](https://apple.co/3NWejUz) - Lifetime 66% OFF, Nov 20 - Dec 2
