@@ -583,6 +583,7 @@ LED matrix display app for iPhone and iPad.
 
 Find the right hairstyle for you with the power of AI - use code BFRIDAY30 in checkout
 
+
 ### 💸 [Eter](https://apps.apple.com/app/eter/id1523221566) - 50% off, only $2.5 one-time.
 
 Internet radio player (iOS, Mac, TV, Watch)
@@ -590,6 +591,10 @@ Internet radio player (iOS, Mac, TV, Watch)
 ### 💸 [Calm My Dog](https://calmmydog.app/) - iOS | 50% off first year.
 
 Treat Dog Separation anxiety with a proven training method. (Discount with [this link only](https://apps.apple.com/redeem?ctx=offercodes&id=1629500193&code=BLACKFRIDAY24)).
+
+### 💡 [Signals for HomeKit](https://apps.apple.com/us/app/signals-for-homekit/id1453293391) - 40% off all In-App Purchases, Nov 29 - Dec 3
+
+Communicate at home with the smart lights you already have, with Signals for HomeKit!
 
 <p>&nbsp;</p>
 
