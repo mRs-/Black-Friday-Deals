@@ -648,7 +648,7 @@ Grow your app's downloads and revenue with the best-in-class ASO and App Intelli
 <p>&nbsp;</p>
 
 ## 🏃🏻‍♀️ Health & Fitness Software
-### 💰 [Atomic](https://apple.co/40MP50F) - Lifetime 55% OFF
+### 💰 [Atomic](https://apps.apple.com/app/id6478046939) - Lifetime 55% OFF
 
 The simple app to build good habits, break bad habits, and achieve greatness! Available on iOS/iPadOS/MacOS/WatchOS.
 
