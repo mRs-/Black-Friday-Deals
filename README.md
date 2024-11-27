@@ -434,6 +434,11 @@ Write down your thoughts in your favourite text editor, and Deckset will turn th
 
 A spell checker that combine traditional spell checking with AI to provide the best possible correction. Shortcuts and Services Menu compatible to spell check from any app. Available on macOS, iOS and visionOS.
 
+### 💸 [RewriteBar](https://rewritebar.com) - 50% off with code **BF2024** (valid till Dec 3)
+
+Improve your writing in any macOS application with the help of AI. Correct grammar errors, rewrite your text in a different style, translate a sentence quickly or create your own AI action.
+
+
 <p>&nbsp;</p>
 
 ## Video Software
