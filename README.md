@@ -430,6 +430,7 @@ PhotInfo is an app to view and edit the information (location, date, dimensions,
 
 ### 💸 [AnySelect](https://anyselectai.com/) The best and quickest way to use ChatGPT/LLM from any app on macOS!. Get 60% off with this code **BF2024**
 
+
 ### 💸 [Deckset](hhttps://www.deckset.com) - 50% OFF with code **BF2024** , Nov 25 - Dec 3
 
 Write down your thoughts in your favourite text editor, and Deckset will turn them into beautiful presentations.
@@ -442,6 +443,9 @@ A spell checker that combine traditional spell checking with AI to provide the b
 
 Improve your writing in any macOS application with the help of AI. Correct grammar errors, rewrite your text in a different style, translate a sentence quickly or create your own AI action.
 
+### 💸 [Hemingway Editor Plus](https://hemingwayapp.com) - 20% OFF, Nov 25 - Dec 6
+
+Edit your writing faster. Hemingway Editor Plus fixes wordy sentences, grammar issues, and more — with a click.
 
 <p>&nbsp;</p>
 
