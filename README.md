@@ -741,6 +741,10 @@ Beautiful and intuitive journaling app for iPhone, iPad, Mac, and Vision Pro.
 
 Moderation is the simple food diary that brings joy back to mindful eating. No calorie counting, just quick meal logging and smart insights.
 
+### 💰 [Presence App](https://web.presence.app/en/subscription/90-days/black-friday-2024) - FREE for 3 months (No coupon code required)
+
+Presence is a meditation app and platform based on yoga and eastern spiritual practices.
+
 <p>&nbsp;</p>
 
 ## 🎁 Bundles
