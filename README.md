@@ -509,6 +509,11 @@ Photo geotagging for Mac. Know where you took that photo. Add GPS locations to J
 
 Photos Workbench help you organize, rate, and compare your Apple Photos library. Add locations & star ratings. Batch change titles.
 
+### 🤖 [DocuChat](https://www.docuchat.io) - **90% OFF** for two months or **65% OFF** on yearly plans, Nov 25 - Dec 2
+
+Create AI chatbots trained on your documents, with unrivaled accuracy in answers and full EU data residency. 
+
+
 <p>&nbsp;</p>
 
 ## Video Software
@@ -839,6 +844,11 @@ Track, understand and improve the performance of your investment strategy, no ma
 ### 💸 [Bills to Budget](https://apps.apple.com/us/app/bills-to-budget/id1636872963) - Over 55% OFF, Nov 29 - Dec 3
 
 Get your Bills paid on time and your Budgets under control, with Bills to Budget!
+
+### 🗒️ [Notion Finance Tracker](https://www.notionfinancetracker.com) - 80% OFF, lifetime deal, Nov 26 - Dec 2
+
+An API-enhanced Notion template for tracking net worth, investments, liabilities, and budgeting. All-in-one solution with real-time asset prices, multi-currency support, and charts inside Notion. 
+
 
 ## 🗺️ Navigation
 ### 🚘 [EV Charge Stations Map](https://apple.co/3NWejUz) - Lifetime 66% OFF, Nov 20 - Dec 2
