@@ -127,6 +127,10 @@ Branded email signatures for your teams. SyncSignature helps design, update and 
 
 Lintastic helps developers audit their app's name, subtitle, and keyword fields for App Store best practices. Use the word bank to keep track of all of the keywords you care about and efficiently use all of the space available to you in your metadata to rank as high as possible in the App Store.
 
+### 💰 [Tower](https://www.git-tower.com/) - 30% OFF valid through Dec 8
+
+Powerful Git client for Mac and Windows.
+
 <p>&nbsp;</p>
 
 ## :tophat: Security Software
