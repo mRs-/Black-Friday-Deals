@@ -131,6 +131,10 @@ Lintastic helps developers audit their app's name, subtitle, and keyword fields 
 
 Powerful Git client for Mac and Windows.
 
+### 💰 [RunJS](https://runjs.app) - 30% OFF
+
+A fast, zero-config playground for JavaScript and TypeScript. Run your code and see results instantly. 🚀
+
 <p>&nbsp;</p>
 
 ## :tophat: Security Software
