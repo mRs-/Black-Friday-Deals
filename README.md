@@ -487,6 +487,10 @@ A minimalist reminders app available on all Apple platforms.
 
 Link your local files or folders in any web application.
 
+### 🟣 [QuickWhisper](https://iwtcom.gumroad.com/l/quickwhisper?code=BFRIDAY2024) - 50% OFF on Pro license with code **BFRIDAY2024**
+
+QuickWhisper turns any audio or video into accurate text instantly on your Mac, handling everything from meetings to podcasts with lightning-fast speed and accuracy.
+
 <p>&nbsp;</p>
 
 ## Video Software
