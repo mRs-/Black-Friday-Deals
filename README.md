@@ -470,6 +470,11 @@ Find Recently used and modified files at your fingertips. 50% off.
 
 Keep, search, and organize everything you copy on your Mac, iPhone, and iPad.
 
+### 💸 [Tales.so](https://www.tales.so) - 75% OFF with code **BFCM24**
+
+AI podcasting platform where we take insights from popular books and transform them into quick, fun podcast episodes you can enjoy anytime. We have over 10k+ books on parenting, startups, self help, history, science fiction and more. Think of it as a way to keep learning during stroller walks, coffee runs, long commutes or just rare quiet times.
+
+
 <p>&nbsp;</p>
 
 ## Video Software
