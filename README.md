@@ -689,6 +689,10 @@ Communicate at home with the smart lights you already have, with Signals for Hom
 
 A simple way to add a pause to your browsing with dismissable reminders or notes blocking you from certain sites (i.e. social media)
 
+### 💰 [Note - mini note](https://apps.apple.com/app/note/id1602765272) - $2.99 (40% off) one-time purchase.
+
+Keep what’s most important in focus with this mini note app and interactive widget. It’s like a pinned note in its own app.
+
 <p>&nbsp;</p>
 
 ## 🗣️ Social
