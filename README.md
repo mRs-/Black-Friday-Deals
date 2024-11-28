@@ -311,7 +311,7 @@ Create simple packing lists. Share and edit them with friends and family.
 <p>&nbsp;</p>
 
 ## 📌 Productivity Software
-### 💸 [BoltAI](https://boltai.com?ref=bfdeals) - 30% OFF with code **BFCM2024**
+### 💸 [BoltAI](https://boltai.com?ref=bfdeals) - 60% OFF for Premium+ license, 30% OFF with code **BFCM2024**
 
 Access all AI models in one native Mac app: Advanced Voice Mode, Document Analysis, AI Plugins, and more.
 
