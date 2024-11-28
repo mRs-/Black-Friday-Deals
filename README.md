@@ -520,6 +520,10 @@ Photos Workbench help you organize, rate, and compare your Apple Photos library.
 
 Create AI chatbots trained on your documents, with unrivaled accuracy in answers and full EU data residency. 
 
+### 💸 [Flux AI Image Generator](https://flux1.ai/) - **50% OFF** on all plans, Nov 25 - Dec 2
+
+Flux AI Image Generator By Flux.1 AI - Create Flux AI images from Flux.1 AI for free ✨✨. 
+
 
 <p>&nbsp;</p>
 
