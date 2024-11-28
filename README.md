@@ -520,6 +520,12 @@ Photos Workbench help you organize, rate, and compare your Apple Photos library.
 
 Create AI chatbots trained on your documents, with unrivaled accuracy in answers and full EU data residency. 
 
+### 💸 [Chronos Planner](https://bosc.app/chronos.html) - 50% off one-time purchase
+
+Take control of your day with better daily planning. Features daily pages, a fully-featured editor, calendar integration, fast local searching, and many more helpful tools.
+
+
+
 
 <p>&nbsp;</p>
 
