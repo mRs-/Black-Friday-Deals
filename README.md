@@ -312,6 +312,11 @@ Create simple packing lists. Share and edit them with friends and family.
 
 Find out what’s taking up your disk space and recover it in the most efficient and easy way.
 
+### 💰 [Usage](https://usage.pro) - 40% off yearly plan (Nov 28 - Nov 30)
+
+Beautiful and customizable system activity monitor for Mac, iPhone and iPad.
+
+
 <p>&nbsp;</p>
 
 ## 📌 Productivity Software
