@@ -537,6 +537,10 @@ Clipboard manager for iOS and Mac OS
 
 All in one tool for everyone. Get the benefits of all the best AI products in one place, for one price.
 
+### 💸 [Chronos Planner](https://bosc.app/chronos.html) - 50% off one-time purchase
+
+Take control of your day with better daily planning. Features daily pages, a fully-featured editor, calendar integration, fast local searching, and many more helpful tools.
+
 <p>&nbsp;</p>
 
 ## Video Software
