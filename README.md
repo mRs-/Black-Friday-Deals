@@ -18,17 +18,17 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 - [📌 Productivity Software](#-productivity-software)
 - [🎥 Video Software](#video-software)
 - [🎨 Graphic Software](#-graphic-software)
-- [🏝️ Lifestyle](#-lifestyle)
-- [🗣️ Social](#-social)
+- [🏝️ Lifestyle](#%EF%B8%8F-lifestyle)
+- [🗣️ Social](#%EF%B8%8F-social)
 - [🎓 Reference & Education](#-reference--education)
 - [📖 Books](#-books)
 - [👩‍🎓 Courses and Videos](#-courses-and-videos)
 - [📈 Business Software](#-business-software)
-- [🏃🏻‍♀️ Health & Fitness Software](#-health--fitness-software)
+- [🏃🏻‍♀️ Health & Fitness Software](#%EF%B8%8F-health--fitness-software)
 - [🎁 Bundles](#-bundles)
 - [🎶 Creative Content](#-creative-content)
 - [🤑 Finance](#-finance)
-- [🗺️ Navigation](#-navigation)
+- [🗺️ Navigation](#%EF%B8%8F-navigation)
 - [🔎 SEO](#-seo)
 - [🏡 Home Automation](#-home-automation)
 - [🕹 Games](#-games)
@@ -122,12 +122,17 @@ Monitor website uptime, SSL certificates, DNS records, and more. Instant alerts 
 
 Ship your apps faster with a native macOS and iOS app for App Store Connect
 
+### 💸 [KAppMaker](https://kappmaker.com) - 30% off. Use code BLACKFRIDAY30 on checkout - Until 30 November
+
+Kotlin and Compose Multiplatform boilerplate code for fast mobile app development on Android and iOS.
+
 <p>&nbsp;</p>
 
 ## 🛠 Marketing Software
 ### 💸 [SyncSignature](https://syncsignature.com) - Get 60% on all recurring plans. Use code BF24CM60 on checkout - Until 10 December
 
 Branded email signatures for your teams. SyncSignature helps design, update and automatically install email signatures for everyone across your business.
+
 
 ### 💸 [Lintastic ASO Metadata Linter](https://apps.apple.com/redeem?ctx=offercodes&id=6479271017&code=BLACKFRIDAY2024) - 50% OFF license until Dec 6th
 
@@ -151,11 +156,18 @@ Ship terminal applications 10× faster, without an API or binaires, using your f
 
 Effortless Webhook Integrations for Developers.
 
+### 💸 [Reddit Growth Bundle](https://www.bynapkin.com/guides/reddit) - 40% off the complete bundle ($89 instead of $148)
+
+Complete Reddit growth package combining the comprehensive Reddit Marketing Guide ($99 value) with SubredditTraffic.live Premium ($49 value). Includes traffic analytics dashboard, subreddit growth insights, and business strategy templates. The guide covers everything from Reddit fundamentals to advanced growth tactics, while the premium tool provides real-time traffic insights and analytics.
+
 <p>&nbsp;</p>
 
 ## :tophat: Security Software
 ### 💰 [ExploitPack](https://exploitpack.com/indexexploitpack.html) - Advanced Exploitation Framework with 0days and 39,500+ exploits - LIFETIME Licenses - Until 30 November - Only 10 licenses available
 ### 💰 [ControlPack](https://exploitpack.com/indexcontrolpack.html) - Command & Control Framework, not detected by AVs and EDRs - LIFETIME Licenses - Until 30 November - Only 10 licenses available
+
+### 💰 [Strongbox](https://strongboxsafe.com) - 25% OFF Lifetime Pro licenses in the App Store - Nov 29 - Dec 2
+Local First password manager supporting formats open formats like KeePass and Password Safe on iOS and macOS. Store your passwords where you choose. Own your secrets.
 
 <p>&nbsp;</p>
 
@@ -513,10 +525,13 @@ Photos Workbench help you organize, rate, and compare your Apple Photos library.
 
 Create AI chatbots trained on your documents, with unrivaled accuracy in answers and full EU data residency. 
 
+### 🟢 [QuickWhisper](https://iwtcom.gumroad.com/l/quickwhisper?code=BFRIDAY2024) - 50% OFF on Pro license with code **BFRIDAY2024**, Nov 25 - Dec 8
+
+QuickWhisper turns any audio or video into accurate text instantly on your Mac, handling everything from meetings to podcasts with lightning-fast speed and accuracy.
+
 ### 💰 [Pycopaste](https://pycopaste.foxfortmobile.com) - 40% OFF lifetime purchase
 
 Clipboard manager for iOS and Mac OS
-
 
 <p>&nbsp;</p>
 
@@ -591,6 +606,10 @@ Add photo-realistic frames and mats to your art, and add designer borders or ove
 ### 💰 [Anybox](https://anybox.app) - **30% OFF**, the lifetime plan, Nov 26 – Dec 3
 
 A native bookmark manager for macOS and iOS.
+
+### 💰 [Contrasts - WCAG Accessibility](https://contrasts.app) - Lifetime 40% off, Nov 29 - Dec 2
+
+One-click color contrast checking like Spotlight for WCAG compliance, with live previews, text-to-color recognition, and versatile exports to prepare for the Accessibility Act!
 
 <p>&nbsp;</p>
 
@@ -738,6 +757,9 @@ Subscribe to get unlimited access to the largest and most up-to-date collection 
 ### 💰 [Learn advanced Swift with PointFree.co](https://www.pointfree.co/discounts/black-friday-2024) - 30% OFF
 Feeling overwhelmed by Swift concurrency, generics, data persistence, domain modeling, navigation, and testing? Level up your Swift skills with over 190 hours of advanced and original content crafted by industry experts.
 
+### 💸 [DNS for Developers](https://nslookup.io/dns-course/) - 66% OFF
+Everything developers should know about DNS. Delegation, propagation, SPF, DKIM, DMARC, security, and much more. Learn DNS once and for all.
+
 
 <p>&nbsp;</p>
 
@@ -794,6 +816,10 @@ Presence is a meditation app and platform based on yoga and eastern spiritual pr
 ### 💸 [Chaise Longue to 5K](https://apps.apple.com/us/app/chaise-longue-to-5k/id1633434180) - 50% OFF, Nov 29 - Dec 3
 
 Because couches are so common. Keep an eye on your run with Picture-in-Picture so you can use other apps at the same time!
+
+### 💪🏻 [BodyPeak: Workout Planner & Tracker](https://apps.apple.com/app/id6476585712) - 33% OFF Annual, Nov 22 - Dec 2, No Promo Code Required
+
+Take your workouts to the next level with BodyPeak, your iOS coach for muscle building and workout tracking. Stay motivated, track progress, and crush your goals!
 
 <p>&nbsp;</p>
 
@@ -865,6 +891,13 @@ An API-enhanced Notion template for tracking net worth, investments, liabilities
 ### 🚘 [EV Charge Stations Map](https://apple.co/3NWejUz) - Lifetime 66% OFF, Nov 20 - Dec 2
 
 This is an app to show all EV charging stations through their location. Available for iOS, iPadOS, watchOS, and visionOS.
+
+### 💸 [Where To? – Search nearby places](https://apps.apple.com/redeem/?ctx=offercodes&id=903955898&code=BLACK) - 66% OFF, Nov 26 - Dec 3
+
+With Where To? for iPhone and Apple Watch, you can easily find the nearest restaurants, hotels and stores. It also provides detailed information such as reviews, menus, special offers and opening hours. The full range of functions with widgets, directions, favorites, augmented reality and much more now costs **just 0.99 €/$** for the first year (normally €3.49 / $2.99). Use code BLACK.
+
+### 💸 [Streets: Street View Browser](https://apps.apple.com/app/id1071879826) - 66% OFF, Nov 26 - Dec 3
+The best way to browse, share and organize Street View panoramas on iPhone, iPad, Apple Watch and Mac with Apple Silicon processor. Now **66% OFF**, no code needed.
 
 ## 🔎 SEO
 ### 💰 [Backlinkmonitor](https://www.backlinkmonitor.com/) - Coupon Code: BLACKFRIDAY30  - 30% OFF on All Plans of BacklinkMonitor
