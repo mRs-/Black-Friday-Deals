@@ -520,6 +520,9 @@ Photos Workbench help you organize, rate, and compare your Apple Photos library.
 
 Create AI chatbots trained on your documents, with unrivaled accuracy in answers and full EU data residency. 
 
+### 🟢 [QuickWhisper](https://iwtcom.gumroad.com/l/quickwhisper?code=BFRIDAY2024) - 50% OFF on Pro license with code **BFRIDAY2024**, Nov 25 - Dec 8
+
+QuickWhisper turns any audio or video into accurate text instantly on your Mac, handling everything from meetings to podcasts with lightning-fast speed and accuracy.
 
 <p>&nbsp;</p>
 
