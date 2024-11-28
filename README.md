@@ -126,6 +126,10 @@ Ship your apps faster with a native macOS and iOS app for App Store Connect
 
 Kotlin and Compose Multiplatform boilerplate code for fast mobile app development on Android and iOS.
 
+### 💸 [Helm for App Store Connect](https://helm-app.com) - Lifetime for €99 instead of €174,99 - Until Dec 2
+
+The all-in-one macOS app that enhances App Store Connect, supercharging your app updates, localization, and ASO with AI-powered tools. **[Get the discount here](https://hiddevdploeg91.gumroad.com/l/helm-lifetime/REBECCABLACKTHEDEVELOPER)**
+
 <p>&nbsp;</p>
 
 ## 🛠 Marketing Software
