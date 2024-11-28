@@ -520,6 +520,9 @@ Photos Workbench help you organize, rate, and compare your Apple Photos library.
 
 Create AI chatbots trained on your documents, with unrivaled accuracy in answers and full EU data residency. 
 
+### 📄 [NinjaTools AI](https://ninjatools.ai) - 20% OFF with code BLACKFRIDAY20
+
+All in one tool for everyone. Get the benefits of all the best AI products in one place, for one price.
 
 <p>&nbsp;</p>
 
