@@ -308,6 +308,10 @@ HoudahSpot is a file search tool that helps you organize files and finds these i
 
 Create simple packing lists. Share and edit them with friends and family.
 
+### 💰 [Usage](https://usage.pro) - 40% off yearly plan (Nov 28 - Nov 30)
+
+Beautiful and customizable system activity monitor for Mac, iPhone and iPad.
+
 <p>&nbsp;</p>
 
 ## 📌 Productivity Software
