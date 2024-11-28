@@ -748,6 +748,9 @@ Feeling overwhelmed by Swift concurrency, generics, data persistence, domain mod
 ### 💸 [DNS for Developers](https://nslookup.io/dns-course/) - 66% OFF
 Everything developers should know about DNS. Delegation, propagation, SPF, DKIM, DMARC, security, and much more. Learn DNS once and for all.
 
+### 💰 [GreatFrontEnd]([https://www.greatfrontend.com?](https://www.greatfrontend.com/?utm_source=github&utm_medium=referral&utm_campaign=bfcm&gnrs=mrsbf) - 30% OFF
+The complete front end interview prep platform by ex-FAANG engineers. 300+ practice questions across coding, UI, system design with detailed solutions.
+
 
 <p>&nbsp;</p>
 
