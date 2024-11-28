@@ -686,6 +686,10 @@ ReplyPulse uses AI to help you generate smart, relevant, and personalized replie
 ### 💰 [Protego for Reddit](https://apps.apple.com/us/app/protego-for-reddit/id6737959724) - $1.49 lifetime (**25% off**)
 Like a spell shield for your mental health, Protego is a browser extension for Safari which lets you filter out unwanted posts from Reddit and customize your browsing experience to focus on what matters to you.	
 
+### 💰 [Snowball](https://snowball.club) - 50% OFF for 1 year |**Automatically applied** 
+Grow and monetize your X (Twitter) audience. Create high quality content consistently, schedule tweets, drive engagement and get more followers FAST with AI.
+
+
 <p>&nbsp;</p>
 
 ## 🎓 Reference & Education
