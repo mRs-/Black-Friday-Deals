@@ -520,6 +520,12 @@ Photos Workbench help you organize, rate, and compare your Apple Photos library.
 
 Create AI chatbots trained on your documents, with unrivaled accuracy in answers and full EU data residency. 
 
+### 🎙️ [VoicePen - AI Note Taker](https://apps.apple.com/app/id6462815872) - 30% OFF, Nov 28 - Dec 2
+
+Record and Transcribe Speech, Files, Videos, YouTube to Text.
+Rewrite with AI to perfect Notes, Summaries, Quizzes, Journal entries, and more.
+Native for iOS, iPadOS, macOS, visionOS with iCloud sync.
+
 
 <p>&nbsp;</p>
 
