@@ -524,9 +524,6 @@ Create AI chatbots trained on your documents, with unrivaled accuracy in answers
 
 Take control of your day with better daily planning. Features daily pages, a fully-featured editor, calendar integration, fast local searching, and many more helpful tools.
 
-
-
-
 <p>&nbsp;</p>
 
 ## Video Software
