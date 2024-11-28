@@ -545,6 +545,12 @@ All in one tool for everyone. Get the benefits of all the best AI products in on
 
 Take control of your day with better daily planning. Features daily pages, a fully-featured editor, calendar integration, fast local searching, and many more helpful tools.
 
+### 🎙️ [VoicePen - AI Note Taker](https://apps.apple.com/app/id6462815872) - 30% OFF, Nov 28 - Dec 2
+
+Record and Transcribe Speech, Files, Videos, YouTube to Text.
+Rewrite with AI to perfect Notes, Summaries, Quizzes, Journal entries, and more.
+Native for iOS, iPadOS, macOS, visionOS with iCloud sync.
+
 <p>&nbsp;</p>
 
 ## Video Software
