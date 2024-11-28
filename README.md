@@ -707,6 +707,10 @@ A simple way to add a pause to your browsing with dismissable reminders or notes
 
 Keep what’s most important in focus with this mini note app and interactive widget. It’s like a pinned note in its own app.
 
+### 💰 [AI Headshot Generator](https://aiheadshotgenerator.com) - 20% OFF with promo code "BF2024", Nov 29 - Dec 3
+
+AI Headshot Generator is designed to transform your ordinary selfies into polished, professional corporate headshots.
+
 <p>&nbsp;</p>
 
 ## 🗣️ Social
