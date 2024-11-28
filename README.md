@@ -551,6 +551,10 @@ Record and Transcribe Speech, Files, Videos, YouTube to Text.
 Rewrite with AI to perfect Notes, Summaries, Quizzes, Journal entries, and more.
 Native for iOS, iPadOS, macOS, visionOS with iCloud sync.
 
+### 💸 [Flux AI Image Generator](https://flux1.ai/) - **50% OFF** on all plans, Nov 25 - Dec 2
+
+Flux AI Image Generator By Flux.1 AI - Create Flux AI images from Flux.1 AI for free ✨✨. 
+
 <p>&nbsp;</p>
 
 ## Video Software
