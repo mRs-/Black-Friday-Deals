@@ -308,9 +308,14 @@ HoudahSpot is a file search tool that helps you organize files and finds these i
 
 Create simple packing lists. Share and edit them with friends and family.
 
+### 💸 [DaisyDisk](https://unclutterapp.com/bundle/?coupon=UN-BLACKFRIDAY-2024&s=git#DAISYDISK) - 50% OFF for Black Friday season
+
+Find out what’s taking up your disk space and recover it in the most efficient and easy way.
+
 ### 💰 [Usage](https://usage.pro) - 40% off yearly plan (Nov 28 - Nov 30)
 
 Beautiful and customizable system activity monitor for Mac, iPhone and iPad.
+
 
 <p>&nbsp;</p>
 
@@ -558,6 +563,11 @@ Native for iOS, iPadOS, macOS, visionOS with iCloud sync.
 ### 💸 [Flux AI Image Generator](https://flux1.ai/) - **50% OFF** on all plans, Nov 25 - Dec 2
 
 Flux AI Image Generator By Flux.1 AI - Create Flux AI images from Flux.1 AI for free ✨✨. 
+
+### 💸 [Unclutter for Mac](https://unclutterapp.com/bundle/?coupon=UN-BLACKFRIDAY-2024&s=git#UNCLUTTER) - 50% OFF for Black Friday season
+
+A new space on your desktop to efficiently manage your daily files, notes, and clipboard data.
+
 
 <p>&nbsp;</p>
 
@@ -872,6 +882,10 @@ A bundle of 3 engineering books.
 ### 💰 [Books for Swift and SwiftUI developers](https://books.nilcoalescing.com) - 30% OFF
 
 A bundle of 2 books: Integrating SwiftUI into UIKit Apps and Swift Gems.
+
+### 💸 [Space/Time Bundle](https://unclutterapp.com/bundle/?coupon=UN-BLACKFRIDAY-2024&s=git) - 13 fantastic Mac apps at 76% OFF
+
+AirBuddy 2, App Tamer, Bartender 5, BatFi, BusyCal, CleanShotX, DaisyDisk, Key Cue, Keyboard Maestro, Swish, TextSniper, TextSoap 9 and Unclutter.
 
 <p>&nbsp;</p>
 
