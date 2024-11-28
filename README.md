@@ -568,6 +568,10 @@ Flux AI Image Generator By Flux.1 AI - Create Flux AI images from Flux.1 AI for 
 
 A new space on your desktop to efficiently manage your daily files, notes, and clipboard data.
 
+### 💸 [Accounting - Bookkeeping for Self Employed](https://apps.apple.com/app/accounting-money-manager/id6463010770) - 50% OFF Annual **BLACK50**, Nov 28 - Jan 5
+
+Accounting App is a stress-free and simple accounting solution that is designed for small business owners, solopreneurs, freelancers, and accountants in charge of managing small-scale ventures.
+
 
 <p>&nbsp;</p>
 
@@ -770,6 +774,8 @@ Liquid Player is a simple and user-friendly video player that supports all video
 ### 💰 [Integrating SwiftUI into UIKit Apps](https://books.nilcoalescing.com/integrating-swiftui) - 30% OFF
 ### 📚 [Honkist - Short key ideas from non-fiction books](https://honkist.com) -  50% OFF with code BF24
 ### 📚 [Kodeco - All iOS & MacOS Books 50% Off](https://www.kodeco.com/library?domain_ids%5B%5D=1&domain_ids%5B%5D=5&content_types%5B%5D=edition&q=) - 50% OFF
+### 💰 [Uplift iOS Interview - A Comprehensive Guide to Master Your iOS Interview](https://ishtiakahmed.lemonsqueezy.com/buy/6a4db36d-59b9-4fc7-b2cc-9e57a482a771) - 25% OFF using code **BLACK25**, Nov 28 - Jan 05
+### 💰 [Ace iOS Coding Interview - Conquer iOS Coding Interviews with Confidence and Expertise](https://ishtiakahmed.lemonsqueezy.com/buy/9116d101-ef55-4244-a61d-e63e0c38ad4d) - 25% OFF using code **BLACK25**, Nov 28 - Jan 05 
 
 <p>&nbsp;</p>
 
