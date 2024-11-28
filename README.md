@@ -529,6 +529,10 @@ Create AI chatbots trained on your documents, with unrivaled accuracy in answers
 
 QuickWhisper turns any audio or video into accurate text instantly on your Mac, handling everything from meetings to podcasts with lightning-fast speed and accuracy.
 
+### 💰 [Pycopaste](https://pycopaste.foxfortmobile.com) - 40% OFF lifetime purchase
+
+Clipboard manager for iOS and Mac OS
+
 <p>&nbsp;</p>
 
 ## Video Software
