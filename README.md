@@ -533,6 +533,10 @@ QuickWhisper turns any audio or video into accurate text instantly on your Mac, 
 
 Clipboard manager for iOS and Mac OS
 
+### 📄 [NinjaTools AI](https://ninjatools.ai) - 20% OFF with code BLACKFRIDAY20
+
+All in one tool for everyone. Get the benefits of all the best AI products in one place, for one price.
+
 <p>&nbsp;</p>
 
 ## Video Software
