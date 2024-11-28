@@ -311,6 +311,12 @@ Create simple packing lists. Share and edit them with friends and family.
 <p>&nbsp;</p>
 
 ## 📌 Productivity Software
+
+
+### 💰 [VisualSitemaps](https://app.visualsitemaps.com/pricing#yearly_2020_09) - 33% OFF with code **VISUALFRIDAY-33-OFF-ANNUAL**
+
+Autogenerate VisualSitemaps in Seconds. >> Plan Content. Create Flows. Track Competitors.
+
 ### 💸 [BoltAI](https://boltai.com?ref=bfdeals) - 30% OFF with code **BFCM2024**
 
 Access all AI models in one native Mac app: Advanced Voice Mode, Document Analysis, AI Plugins, and more.
