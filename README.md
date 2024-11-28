@@ -133,6 +133,7 @@ Kotlin and Compose Multiplatform boilerplate code for fast mobile app developmen
 
 Branded email signatures for your teams. SyncSignature helps design, update and automatically install email signatures for everyone across your business.
 
+
 ### 💸 [Lintastic ASO Metadata Linter](https://apps.apple.com/redeem?ctx=offercodes&id=6479271017&code=BLACKFRIDAY2024) - 50% OFF license until Dec 6th
 
 Lintastic helps developers audit their app's name, subtitle, and keyword fields for App Store best practices. Use the word bank to keep track of all of the keywords you care about and efficiently use all of the space available to you in your metadata to rank as high as possible in the App Store.
@@ -154,6 +155,10 @@ JSON formatter with viewing history for macOS.
 Ship terminal applications 10× faster, without an API or binaires, using your favorite web framework.
 
 Effortless Webhook Integrations for Developers.
+
+### 💸 [Reddit Growth Bundle](https://www.bynapkin.com/guides/reddit) - 40% off the complete bundle ($89 instead of $148)
+
+Complete Reddit growth package combining the comprehensive Reddit Marketing Guide ($99 value) with SubredditTraffic.live Premium ($49 value). Includes traffic analytics dashboard, subreddit growth insights, and business strategy templates. The guide covers everything from Reddit fundamentals to advanced growth tactics, while the premium tool provides real-time traffic insights and analytics.
 
 <p>&nbsp;</p>
 
@@ -520,6 +525,18 @@ Photos Workbench help you organize, rate, and compare your Apple Photos library.
 
 Create AI chatbots trained on your documents, with unrivaled accuracy in answers and full EU data residency. 
 
+### 🟢 [QuickWhisper](https://iwtcom.gumroad.com/l/quickwhisper?code=BFRIDAY2024) - 50% OFF on Pro license with code **BFRIDAY2024**, Nov 25 - Dec 8
+
+QuickWhisper turns any audio or video into accurate text instantly on your Mac, handling everything from meetings to podcasts with lightning-fast speed and accuracy.
+
+### 💰 [Pycopaste](https://pycopaste.foxfortmobile.com) - 40% OFF lifetime purchase
+
+Clipboard manager for iOS and Mac OS
+
+### 📄 [NinjaTools AI](https://ninjatools.ai) - 20% OFF with code BLACKFRIDAY20
+
+All in one tool for everyone. Get the benefits of all the best AI products in one place, for one price.
+
 ### 💸 [Chronos Planner](https://bosc.app/chronos.html) - 50% off one-time purchase
 
 Take control of your day with better daily planning. Features daily pages, a fully-featured editor, calendar integration, fast local searching, and many more helpful tools.
@@ -677,6 +694,10 @@ ReplyPulse uses AI to help you generate smart, relevant, and personalized replie
 ### 💰 [Protego for Reddit](https://apps.apple.com/us/app/protego-for-reddit/id6737959724) - $1.49 lifetime (**25% off**)
 Like a spell shield for your mental health, Protego is a browser extension for Safari which lets you filter out unwanted posts from Reddit and customize your browsing experience to focus on what matters to you.	
 
+### 💰 [Snowball](https://snowball.club) - 50% OFF for 1 year |**Automatically applied** 
+Grow and monetize your X (Twitter) audience. Create high quality content consistently, schedule tweets, drive engagement and get more followers FAST with AI.
+
+
 <p>&nbsp;</p>
 
 ## 🎓 Reference & Education
@@ -751,6 +772,9 @@ Feeling overwhelmed by Swift concurrency, generics, data persistence, domain mod
 ### 💸 [DNS for Developers](https://nslookup.io/dns-course/) - 66% OFF
 Everything developers should know about DNS. Delegation, propagation, SPF, DKIM, DMARC, security, and much more. Learn DNS once and for all.
 
+### 💰 [GreatFrontEnd]([https://www.greatfrontend.com?](https://www.greatfrontend.com/?utm_source=github&utm_medium=referral&utm_campaign=bfcm&gnrs=mrsbf) - 30% OFF
+The complete front end interview prep platform by ex-FAANG engineers. 300+ practice questions across coding, UI, system design with detailed solutions.
+
 
 <p>&nbsp;</p>
 
@@ -780,6 +804,10 @@ High-converting checkout software for coaches and creators to sell info products
 ### 💸 [Appfigures](https://appfigures.com) - 50% OFF ASO + App Intelligence with Code BF2450
 
 Grow your app's downloads and revenue with the best-in-class ASO and App Intelligence tools.
+
+### 💚 [WishKit](https://www.wishkit.io) - 33% OFF for an entire year! Code BLACKFRIDAY24
+
+Gather user feedback for your iOS app and prioritize features based on user votes.
 
 <p>&nbsp;</p>
 
