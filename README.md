@@ -520,6 +520,9 @@ Photos Workbench help you organize, rate, and compare your Apple Photos library.
 
 Create AI chatbots trained on your documents, with unrivaled accuracy in answers and full EU data residency. 
 
+### 🖥️ [Beaconly](https://beaconly.app/) - **33% OFF** until the end of December 
+
+Manage your Jira, Asana, Trello, Linear, Confluence tasks, your AWS, IBM and other service statues right inside your macOs menu bar. 500+ extensions and more being added frequently. 
 
 <p>&nbsp;</p>
 
