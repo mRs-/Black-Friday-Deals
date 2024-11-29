@@ -575,6 +575,10 @@ A new space on your desktop to efficiently manage your daily files, notes, and c
 Snippety boosts productivity by providing instant access to your snippets. Create reusable templates from frequently used sentences, code fragments, email templates, test data, and more.
 Take your productivity to the next level with smart placeholders, AI integration, iCloud Collaboration, scripts, and much more!
 
+### 💸 [Accounting - Bookkeeping for Self Employed](https://apps.apple.com/app/accounting-money-manager/id6463010770) - 50% OFF Annual **BLACK50**, Nov 28 - Jan 5
+
+Accounting App is a stress-free and simple accounting solution that is designed for small business owners, solopreneurs, freelancers, and accountants in charge of managing small-scale ventures.
+
 <p>&nbsp;</p>
 
 ## Video Software
@@ -780,6 +784,8 @@ Liquid Player is a simple and user-friendly video player that supports all video
 ### 💰 [Integrating SwiftUI into UIKit Apps](https://books.nilcoalescing.com/integrating-swiftui) - 30% OFF
 ### 📚 [Honkist - Short key ideas from non-fiction books](https://honkist.com) -  50% OFF with code BF24
 ### 📚 [Kodeco - All iOS & MacOS Books 50% Off](https://www.kodeco.com/library?domain_ids%5B%5D=1&domain_ids%5B%5D=5&content_types%5B%5D=edition&q=) - 50% OFF
+### 💰 [Uplift iOS Interview - A Comprehensive Guide to Master Your iOS Interview](https://ishtiakahmed.lemonsqueezy.com/buy/6a4db36d-59b9-4fc7-b2cc-9e57a482a771) - 25% OFF using code **BLACK25**, Nov 28 - Jan 05
+### 💰 [Ace iOS Coding Interview - Conquer iOS Coding Interviews with Confidence and Expertise](https://ishtiakahmed.lemonsqueezy.com/buy/9116d101-ef55-4244-a61d-e63e0c38ad4d) - 25% OFF using code **BLACK25**, Nov 28 - Jan 05 
 
 <p>&nbsp;</p>
 
@@ -950,7 +956,6 @@ Get your Bills paid on time and your Budgets under control, with Bills to Budget
 ### 🗒️ [Notion Finance Tracker](https://www.notionfinancetracker.com) - 80% OFF, lifetime deal, Nov 26 - Dec 2
 
 An API-enhanced Notion template for tracking net worth, investments, liabilities, and budgeting. All-in-one solution with real-time asset prices, multi-currency support, and charts inside Notion. 
-
 
 ## 🗺️ Navigation
 ### 🚘 [EV Charge Stations Map](https://apple.co/3NWejUz) - Lifetime 66% OFF, Nov 20 - Dec 2
