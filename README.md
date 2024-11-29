@@ -587,6 +587,10 @@ Accounting App is a stress-free and simple accounting solution that is designed 
 
 AI Copilot for your Mac. Instant access to multiple LLM models, whisper powered voice-to-text and quick AI actions
 
+### 💰 [Duckboard](https://duckboard.pro/) - 20% OFF One Time Purchase with code BLACK2024FRIDAY
+
+Stop the browser tabs madness. Capture web fragments as interactive widgets.
+
 <p>&nbsp;</p>
 
 ## Video Software
@@ -750,6 +754,9 @@ Like a spell shield for your mental health, Protego is a browser extension for S
 
 ### 💰 [Snowball](https://snowball.club) - 50% OFF for 1 year |**Automatically applied** 
 Grow and monetize your X (Twitter) audience. Create high quality content consistently, schedule tweets, drive engagement and get more followers FAST with AI.
+
+### 💸 [YouTube Comments Downloader](https://youtubecommentsdownloader.com) - 50% off lifetime desktop app license
+Download, search, analyze and export any type of YouTube comments, with no limits, fully on your device. Offer valid for first 100 orders made with code BF2024 until December 2nd.
 
 ### 💰 [Hypefury](https://hypefury.com/black-friday-2024) - 33% off the monthly price when you pay yearly for any plan. |**Automatically applied when you sign up** 
 One-stop solution to all your social media needs! We help you with building an audience and making more money online. We help you create engaging posts, maximize reach and build an income online.
