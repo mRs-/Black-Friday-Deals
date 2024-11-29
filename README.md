@@ -82,13 +82,13 @@ Translate your app in 1 click. Localize Xliff and Xcloc files.
 
 Easiest way to localize and update App Store metadata.
 
-### 💰 [Screenshot Studio](https://apps.apple.com/app/apple-store/id6473832582?pt=594185&ct=mrs-bf&mt=8) - 30% OFF, valid through Dec 3 
+### 💰 [Screenshot Studio](https://apps.apple.com/app/apple-store/id6473832582?pt=594185&ct=mrs-bf&mt=8) - 30% OFF, valid through Dec 3
 
 Create App Store screenshots in minutes not hours.
 
 ### 💰 [Folge](https://folge.me) - 25% OFF all licenses with code **FRIDAY25**
 
-Easily create step-by-step guides, tutorials, SOPs, and documentation for any process. 
+Easily create step-by-step guides, tutorials, SOPs, and documentation for any process.
 
 ### 💰 [Dash](https://kapeli.com/dash) - 30% OFF the first year, code BLACKFRIDAY, valid through Dec 3
 
@@ -171,6 +171,12 @@ Autogenerate VisualSitemaps in Seconds. >> Plan Content. Create Flows. Track Com
 ## :tophat: Security Software
 ### 💰 [ExploitPack](https://exploitpack.com/indexexploitpack.html) - Advanced Exploitation Framework with 0days and 39,500+ exploits - LIFETIME Licenses - Until 30 November - Only 10 licenses available
 ### 💰 [ControlPack](https://exploitpack.com/indexcontrolpack.html) - Command & Control Framework, not detected by AVs and EDRs - LIFETIME Licenses - Until 30 November - Only 10 licenses available
+
+### 💰 [Little Snitch](https://obdev.at/products/littlesnitch/index.html) - 30% OFF
+Little Snitch informs you whenever a program attempts to establish an outgoing Internet connection.
+
+### 💰 [Micro Snitch](https://obdev.at/products/microsnitch/index.html) - 30% OFF
+Micro Snitch is an ultra-light menu bar application that operates inconspicuously in the background. It monitors and reports any microphone and camera activity to help you figure out if someone’s spying on you.
 
 ### 💰 [Strongbox](https://strongboxsafe.com) - 25% OFF Lifetime Pro licenses in the App Store - Nov 29 - Dec 2
 Local First password manager supporting formats open formats like KeePass and Password Safe on iOS and macOS. Store your passwords where you choose. Own your secrets.
@@ -308,7 +314,7 @@ The only app that can tell you when your tracks have been automatically upgraded
 
 ### 🔍 [HoudahSpot](https://www.houdah.com/houdahSpot/buy.html?coupon=BLACKFRIDAY2024)  - 30% OFF with code BLACKFRIDAY2024
 
-HoudahSpot is a file search tool that helps you organize files and finds these if you did not. 
+HoudahSpot is a file search tool that helps you organize files and finds these if you did not.
 
 ### 💸 [Get Packy](https://getpacky.app) - Lifetime 50% off
 
@@ -376,7 +382,7 @@ Advanced student planner app to keep track of timetables, homework and grades.
 
 ### 💸 [Inventory Tracker Itemlist](https://getitemlist.app) - 50% OFF Lifetime PRO, no code needed
 
-A powerful inventory tracker app for home and business, available on iOS and iPadOS (with macOS support coming soon). Easily organize, categorize, and locate items in seconds. 
+A powerful inventory tracker app for home and business, available on iOS and iPadOS (with macOS support coming soon). Easily organize, categorize, and locate items in seconds.
 
 ### 💰 [kgrep](https://kgrep.com) - 10% OFF with code **FRIYAY** on Stripe
 
@@ -395,14 +401,14 @@ An AI writing assistant that is perfect for everyday use. It can seamlessly work
 ### 💸 [Mango - Twilio Calls & SMS](https://itsok.xyz/bfdealNghiaTranUIT) - 50% OFF on the App Store, no code needed
 
 A Calling and Texting app for Small Businesses. Keep Business And Personal Life Separate.
- 
+
 Braindump your thoughts - It turns your stream of thoughts from speech into well-structured written text ✨
 
 ### 💸 [Capture - Quick Notes](https://apps.apple.com/app/apple-store/id6458535284?pt=118518712&ct=github&mt=8) - 50% OFF Lifetime
 
 Easily capture your thoughts & ideas on iOS, macOS & visionOS.
 
-### 💸 [RabbitHolesAI](https://www.rabbitholes.ai/?ref=bfdeals) - 30% OFF with code **BLACKFRIDAY** (till Dec 2) 
+### 💸 [RabbitHolesAI](https://www.rabbitholes.ai/?ref=bfdeals) - 30% OFF with code **BLACKFRIDAY** (till Dec 2)
 
 Chat with AI on an Infinite Canvas. Connect multiple chats on the canvas to share context. Change models for each chat. Add images, PDFs, and more to the canvas and chat with them.
 
@@ -440,7 +446,7 @@ Note SLAYER: Advanced note-taking & task management for Desktop(Linux, Windows a
 
 ### 🐰 [CodeRabbit](https://coderabbit.ai) - Free for open-source projects | Use code **BLACKFRIDAY** for 1 month free on the pro version.
 
-AI-Powered Code Review Bot - Detailed code reviews and actionable suggestions to enhance code quality. Integrates with GitHub and GitLab. 
+AI-Powered Code Review Bot - Detailed code reviews and actionable suggestions to enhance code quality. Integrates with GitHub and GitLab.
 
 ### 💸 [SideNotes](https://www.apptorium.com/sidenotes) - Lifetime 40% OFF
 
@@ -542,7 +548,7 @@ Photos Workbench help you organize, rate, and compare your Apple Photos library.
 
 ### 🤖 [DocuChat](https://www.docuchat.io) - **90% OFF** for two months or **65% OFF** on yearly plans, Nov 25 - Dec 2
 
-Create AI chatbots trained on your documents, with unrivaled accuracy in answers and full EU data residency. 
+Create AI chatbots trained on your documents, with unrivaled accuracy in answers and full EU data residency.
 
 ### 🟢 [QuickWhisper](https://iwtcom.gumroad.com/l/quickwhisper?code=BFRIDAY2024) - 50% OFF on Pro license with code **BFRIDAY2024**, Nov 25 - Dec 8
 
@@ -568,7 +574,7 @@ Native for iOS, iPadOS, macOS, visionOS with iCloud sync.
 
 ### 💸 [Flux AI Image Generator](https://flux1.ai/) - **50% OFF** on all plans, Nov 25 - Dec 2
 
-Flux AI Image Generator By Flux.1 AI - Create Flux AI images from Flux.1 AI for free ✨✨. 
+Flux AI Image Generator By Flux.1 AI - Create Flux AI images from Flux.1 AI for free ✨✨.
 
 ### 💸 [Unclutter for Mac](https://unclutterapp.com/bundle/?coupon=UN-BLACKFRIDAY-2024&s=git#UNCLUTTER) - 50% OFF for Black Friday season
 
@@ -678,7 +684,7 @@ The most gorgeous and powerful photo player application. Available for iOS, iPad
 
 ### 💤 [Dark Sleep](https://www.darksleep.app) - 50% OFF
 
-Sleep Sounds & Sunrise Alarm for Apple TV. Enjoy a total black screen with relaxing sounds at night and a gentle sunrise alarm clock in the morning. 
+Sleep Sounds & Sunrise Alarm for Apple TV. Enjoy a total black screen with relaxing sounds at night and a gentle sunrise alarm clock in the morning.
 
 ### 💡 [Mood Lights](https://www.moodlights.app) - 50% OFF
 
@@ -736,32 +742,32 @@ AI Headshot Generator is designed to transform your ordinary selfies into polish
 <p>&nbsp;</p>
 
 ## 🗣️ Social
-### 💰 [Subreddit tracker](https://subreddittraffic.live/) - 30% OFF lifetime |Use code **BLACKFRIDAY2024** 
+### 💰 [Subreddit tracker](https://subreddittraffic.live/) - 30% OFF lifetime |Use code **BLACKFRIDAY2024**
 
-Reach maximum Reddit traffic by finding the best times to post. Track 400+ subreddits activity and optimize your posting schedule to increase your brand awareness and traffic.  
+Reach maximum Reddit traffic by finding the best times to post. Track 400+ subreddits activity and optimize your posting schedule to increase your brand awareness and traffic.
 
-### 💰 [Postiz](https://postiz.com) - 50% OFF lifetime |Use code **BF2024** 
-The ultimate AI social media scheduling tool also open-source!	
+### 💰 [Postiz](https://postiz.com) - 50% OFF lifetime |Use code **BF2024**
+The ultimate AI social media scheduling tool also open-source!
 ### ⚡️ [TinyZap](https://tinyzap.com/black-friday?utm_source=gh-mRs-) - 50% off annual TinyZap plan with the coupon code BF24 by December 14.
 
 TinyZap improves click-through rates 📈 for links shared on Twitter, LinkedIn, Facebook, and social posts with automatically generated OpenGraph webpage screenshots. 💅
 
-### 💸 [ReplyPulse](https://replypulse.com) - 50% OFF Yearly plans | Use code **BLACKFRIDAY** 
+### 💸 [ReplyPulse](https://replypulse.com) - 50% OFF Yearly plans | Use code **BLACKFRIDAY**
 ReplyPulse uses AI to help you generate smart, relevant, and personalized replies.
 
 ### 💰 [Protego for Reddit](https://apps.apple.com/us/app/protego-for-reddit/id6737959724) - $1.49 lifetime (**25% off**)
-Like a spell shield for your mental health, Protego is a browser extension for Safari which lets you filter out unwanted posts from Reddit and customize your browsing experience to focus on what matters to you.	
+Like a spell shield for your mental health, Protego is a browser extension for Safari which lets you filter out unwanted posts from Reddit and customize your browsing experience to focus on what matters to you.
 
-### 💰 [Snowball](https://snowball.club) - 50% OFF for 1 year |**Automatically applied** 
+### 💰 [Snowball](https://snowball.club) - 50% OFF for 1 year |**Automatically applied**
 Grow and monetize your X (Twitter) audience. Create high quality content consistently, schedule tweets, drive engagement and get more followers FAST with AI.
 
 ### 💸 [YouTube Comments Downloader](https://youtubecommentsdownloader.com) - 50% off lifetime desktop app license
 Download, search, analyze and export any type of YouTube comments, with no limits, fully on your device. Offer valid for first 100 orders made with code BF2024 until December 2nd.
 
-### 💰 [Hypefury](https://hypefury.com/black-friday-2024) - 33% off the monthly price when you pay yearly for any plan. |**Automatically applied when you sign up** 
+### 💰 [Hypefury](https://hypefury.com/black-friday-2024) - 33% off the monthly price when you pay yearly for any plan. |**Automatically applied when you sign up**
 One-stop solution to all your social media needs! We help you with building an audience and making more money online. We help you create engaging posts, maximize reach and build an income online.
 
-### 💰 [Black Magic](https://blackmagic.so/pricing?code=BLACKFRIDAY_2024) - 40% off any yearly plan |**Coupon code: BLACKFRIDAY_2024** 
+### 💰 [Black Magic](https://blackmagic.so/pricing?code=BLACKFRIDAY_2024) - 40% off any yearly plan |**Coupon code: BLACKFRIDAY_2024**
 A powerful tool to enhance your 𝕏/Twitter experience. We help you track live tweets, increase engagement, best times to tweets and much more. Blackmagic.so is your personal CRM for 𝕏/Twitter
 
 
@@ -806,7 +812,7 @@ Liquid Player is a simple and user-friendly video player that supports all video
 ### 📚 [Honkist - Short key ideas from non-fiction books](https://honkist.com) -  50% OFF with code BF24
 ### 📚 [Kodeco - All iOS & MacOS Books 50% Off](https://www.kodeco.com/library?domain_ids%5B%5D=1&domain_ids%5B%5D=5&content_types%5B%5D=edition&q=) - 50% OFF
 ### 💰 [Uplift iOS Interview - A Comprehensive Guide to Master Your iOS Interview](https://ishtiakahmed.lemonsqueezy.com/buy/6a4db36d-59b9-4fc7-b2cc-9e57a482a771) - 25% OFF using code **BLACK25**, Nov 28 - Jan 05
-### 💰 [Ace iOS Coding Interview - Conquer iOS Coding Interviews with Confidence and Expertise](https://ishtiakahmed.lemonsqueezy.com/buy/9116d101-ef55-4244-a61d-e63e0c38ad4d) - 25% OFF using code **BLACK25**, Nov 28 - Jan 05 
+### 💰 [Ace iOS Coding Interview - Conquer iOS Coding Interviews with Confidence and Expertise](https://ishtiakahmed.lemonsqueezy.com/buy/9116d101-ef55-4244-a61d-e63e0c38ad4d) - 25% OFF using code **BLACK25**, Nov 28 - Jan 05
 
 <p>&nbsp;</p>
 
@@ -860,7 +866,7 @@ Track your App Store sales, subscribers, downloads, and more.
 
 Aikeedo is a ready-made PHP software with customizable features to launch your AI SaaS business quickly and generate revenue fast.
 
-* From November 20th to December 5th, we're offering exclusive discounts that decrease by 1% each day—starting at an incredible 50% OFF on Day 1 and ending with 35% OFF on the final day. 
+* From November 20th to December 5th, we're offering exclusive discounts that decrease by 1% each day—starting at an incredible 50% OFF on Day 1 and ending with 35% OFF on the final day.
 
 ### 🚀 [Microlaunch](https://microlaunch.net/premium) - 20% OFF Pro Launches with the code BLACKFRIDAY2024, Nov 20 - Dec 4
 
@@ -976,7 +982,7 @@ Get your Bills paid on time and your Budgets under control, with Bills to Budget
 
 ### 🗒️ [Notion Finance Tracker](https://www.notionfinancetracker.com) - 80% OFF, lifetime deal, Nov 26 - Dec 2
 
-An API-enhanced Notion template for tracking net worth, investments, liabilities, and budgeting. All-in-one solution with real-time asset prices, multi-currency support, and charts inside Notion. 
+An API-enhanced Notion template for tracking net worth, investments, liabilities, and budgeting. All-in-one solution with real-time asset prices, multi-currency support, and charts inside Notion.
 
 ## 🗺️ Navigation
 ### 🚘 [EV Charge Stations Map](https://apple.co/3NWejUz) - Lifetime 66% OFF, Nov 20 - Dec 2
