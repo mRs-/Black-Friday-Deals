@@ -568,6 +568,10 @@ Flux AI Image Generator By Flux.1 AI - Create Flux AI images from Flux.1 AI for 
 
 A new space on your desktop to efficiently manage your daily files, notes, and clipboard data.
 
+### 💰 [Snippety](https://snippety.app) - 34% OFF, one-time purchase for all devices
+
+Snippety boosts productivity by providing instant access to your snippets. Create reusable templates from frequently used sentences, code fragments, email templates, test data, and more.
+Take your productivity to the next level with smart placeholders, AI integration, iCloud Collaboration, scripts, and much more!
 
 <p>&nbsp;</p>
 
