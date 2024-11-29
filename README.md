@@ -758,6 +758,13 @@ Grow and monetize your X (Twitter) audience. Create high quality content consist
 ### 💸 [YouTube Comments Downloader](https://youtubecommentsdownloader.com) - 50% off lifetime desktop app license
 Download, search, analyze and export any type of YouTube comments, with no limits, fully on your device. Offer valid for first 100 orders made with code BF2024 until December 2nd.
 
+### 💰 [Hypefury](https://hypefury.com/black-friday-2024) - 33% off the monthly price when you pay yearly for any plan. |**Automatically applied when you sign up** 
+One-stop solution to all your social media needs! We help you with building an audience and making more money online. We help you create engaging posts, maximize reach and build an income online.
+
+### 💰 [Black Magic](https://blackmagic.so/pricing?code=BLACKFRIDAY_2024) - 40% off any yearly plan |**Coupon code: BLACKFRIDAY_2024** 
+A powerful tool to enhance your 𝕏/Twitter experience. We help you track live tweets, increase engagement, best times to tweets and much more. Blackmagic.so is your personal CRM for 𝕏/Twitter
+
+
 <p>&nbsp;</p>
 
 ## 🎓 Reference & Education
