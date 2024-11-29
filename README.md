@@ -160,6 +160,8 @@ Effortless Webhook Integrations for Developers.
 
 Complete Reddit growth package combining the comprehensive Reddit Marketing Guide ($99 value) with SubredditTraffic.live Premium ($49 value). Includes traffic analytics dashboard, subreddit growth insights, and business strategy templates. The guide covers everything from Reddit fundamentals to advanced growth tactics, while the premium tool provides real-time traffic insights and analytics.
 
+### 💰 [VisualSitemaps](https://app.visualsitemaps.com/pricing#yearly_2020_09) - 33% OFF ANNUAL Plans with code **VISUALFRIDAY-33-OFF-ANNUAL**
+Autogenerate VisualSitemaps in Seconds. >> Plan Content. Create Flows. Track Competitors.
 <p>&nbsp;</p>
 
 ## :tophat: Security Software
@@ -236,7 +238,7 @@ Currency calculator for traveler.
 
 FileMinutes simplifies file handling on your Mac with fast search, easy navigation, and file actions in one app.
 
-### 💰 [BookletCreator](https://www.bookletcreator.com) - 25% off (automatically applied)
+### 💰 [BookletCreator](https://www.bookletcreator.com) - 40% off (automatically applied)
 
 BookletCreator is a simple tool that allows you to create a booklet from a PDF document. It reorders pages so that after printing and folding the pages, a small book is created.
 
@@ -568,10 +570,14 @@ Flux AI Image Generator By Flux.1 AI - Create Flux AI images from Flux.1 AI for 
 
 A new space on your desktop to efficiently manage your daily files, notes, and clipboard data.
 
+### 💰 [Snippety](https://snippety.app) - 34% OFF, one-time purchase for all devices
+
+Snippety boosts productivity by providing instant access to your snippets. Create reusable templates from frequently used sentences, code fragments, email templates, test data, and more.
+Take your productivity to the next level with smart placeholders, AI integration, iCloud Collaboration, scripts, and much more!
+
 ### 💸 [Accounting - Bookkeeping for Self Employed](https://apps.apple.com/app/accounting-money-manager/id6463010770) - 50% OFF Annual **BLACK50**, Nov 28 - Jan 5
 
 Accounting App is a stress-free and simple accounting solution that is designed for small business owners, solopreneurs, freelancers, and accountants in charge of managing small-scale ventures.
-
 
 <p>&nbsp;</p>
 
@@ -710,6 +716,10 @@ A simple way to add a pause to your browsing with dismissable reminders or notes
 ### 💰 [Note - mini note](https://apps.apple.com/app/note/id1602765272) - $2.99 (40% off) one-time purchase.
 
 Keep what’s most important in focus with this mini note app and interactive widget. It’s like a pinned note in its own app.
+
+### 💰 [AI Headshot Generator](https://aiheadshotgenerator.com) - 20% OFF with promo code "BF2024", Nov 29 - Dec 3
+
+AI Headshot Generator is designed to transform your ordinary selfies into polished, professional corporate headshots.
 
 <p>&nbsp;</p>
 
@@ -946,7 +956,6 @@ Get your Bills paid on time and your Budgets under control, with Bills to Budget
 ### 🗒️ [Notion Finance Tracker](https://www.notionfinancetracker.com) - 80% OFF, lifetime deal, Nov 26 - Dec 2
 
 An API-enhanced Notion template for tracking net worth, investments, liabilities, and budgeting. All-in-one solution with real-time asset prices, multi-currency support, and charts inside Notion. 
-
 
 ## 🗺️ Navigation
 ### 🚘 [EV Charge Stations Map](https://apple.co/3NWejUz) - Lifetime 66% OFF, Nov 20 - Dec 2
