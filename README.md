@@ -751,6 +751,12 @@ Like a spell shield for your mental health, Protego is a browser extension for S
 ### 💰 [Snowball](https://snowball.club) - 50% OFF for 1 year |**Automatically applied** 
 Grow and monetize your X (Twitter) audience. Create high quality content consistently, schedule tweets, drive engagement and get more followers FAST with AI.
 
+### 💰 [Hypefury](https://hypefury.com/black-friday-2024) - 33% off the monthly price when you pay yearly for any plan. |**Automatically applied when you sign up** 
+One-stop solution to all your social media needs! We help you with building an audience and making more money online. We help you create engaging posts, maximize reach and build an income online.
+
+### 💰 [Black Magic](https://blackmagic.so/pricing?code=BLACKFRIDAY_2024) - 40% off any yearly plan |**Coupon code: BLACKFRIDAY_2024** 
+A powerful tool to enhance your 𝕏/Twitter experience. We help you track live tweets, increase engagement, best times to tweets and much more. Blackmagic.so is your personal CRM for 𝕏/Twitter
+
 
 <p>&nbsp;</p>
 
