@@ -184,7 +184,7 @@ Local First password manager supporting formats open formats like KeePass and Pa
 <p>&nbsp;</p>
 
 ## 🎛 Utility Software
-### 💰 [iStat Menus](https://bjango.com/mac/istatmenus/) - 50% OFF everything, no coupon needed
+### 💸 [iStat Menus](https://bjango.com/mac/istatmenus/) - 50% OFF everything, no coupon needed
 
 iStat Menus is an advanced system monitoring tool that provides detailed insights into your Mac's performance, including CPU, GPU, memory usage, temperature, and network activity, all from your menu bar.
 
