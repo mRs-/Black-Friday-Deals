@@ -587,6 +587,10 @@ Accounting App is a stress-free and simple accounting solution that is designed 
 
 AI Copilot for your Mac. Instant access to multiple LLM models, whisper powered voice-to-text and quick AI actions
 
+### 💰 [Duckboard](https://duckboard.pro/) - 20% OFF One Time Purchase with code BLACK2024FRIDAY
+
+Stop the browser tabs madness. Capture web fragments as interactive widgets.
+
 <p>&nbsp;</p>
 
 ## Video Software
