@@ -583,6 +583,10 @@ Take your productivity to the next level with smart placeholders, AI integration
 
 Accounting App is a stress-free and simple accounting solution that is designed for small business owners, solopreneurs, freelancers, and accountants in charge of managing small-scale ventures.
 
+### 💸 [FridayGPT](https://fridaygpt.app/) - 30% OFF with code **BF2024**
+
+AI Copilot for your Mac. Instant access to multiple LLM models, whisper powered voice-to-text and quick AI actions
+
 <p>&nbsp;</p>
 
 ## Video Software
