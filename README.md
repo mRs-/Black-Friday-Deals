@@ -751,6 +751,8 @@ Like a spell shield for your mental health, Protego is a browser extension for S
 ### 💰 [Snowball](https://snowball.club) - 50% OFF for 1 year |**Automatically applied** 
 Grow and monetize your X (Twitter) audience. Create high quality content consistently, schedule tweets, drive engagement and get more followers FAST with AI.
 
+### 💸 [YouTube Comments Downloader](https://youtubecommentsdownloader.com) - 50% off lifetime desktop app license
+Download, search, analyze and export any type of YouTube comments, with no limits, fully on your device. Offer valid for first 100 orders made with code BF2024 until December 2nd.
 
 <p>&nbsp;</p>
 
