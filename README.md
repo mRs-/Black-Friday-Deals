@@ -160,6 +160,8 @@ Effortless Webhook Integrations for Developers.
 
 Complete Reddit growth package combining the comprehensive Reddit Marketing Guide ($99 value) with SubredditTraffic.live Premium ($49 value). Includes traffic analytics dashboard, subreddit growth insights, and business strategy templates. The guide covers everything from Reddit fundamentals to advanced growth tactics, while the premium tool provides real-time traffic insights and analytics.
 
+### 💰 [VisualSitemaps](https://app.visualsitemaps.com/pricing#yearly_2020_09) - 33% OFF ANNUAL Plans with code **VISUALFRIDAY-33-OFF-ANNUAL**
+Autogenerate VisualSitemaps in Seconds. >> Plan Content. Create Flows. Track Competitors.
 <p>&nbsp;</p>
 
 ## :tophat: Security Software
