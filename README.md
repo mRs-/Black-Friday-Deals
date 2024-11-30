@@ -184,22 +184,6 @@ Local First password manager supporting formats open formats like KeePass and Pa
 <p>&nbsp;</p>
 
 ## 🎛 Utility Software
-### 💸 [iStat Menus](https://bjango.com/mac/istatmenus/) - 50% OFF everything, no coupon needed
-
-iStat Menus is an advanced system monitoring tool that provides detailed insights into your Mac's performance, including CPU, GPU, memory usage, temperature, and network activity, all from your menu bar.
-
-### 💰 [CleanMyMac](https://macpaw.com/store/cleanmymac) - 30% OFF everything with coupon BF2024 applied at checkout
-
-CleanMyMac is an all-in-one optimization tool that helps you declutter, speed up, and protect your Mac by removing unnecessary files, managing apps, and ensuring peak performance.
-
-### 💰 [ClearVPN](https://macpaw.com/store/clearvpn) - 30% OFF everything, coupon **BF2024** applied at checkout
-
-ClearVPN is a secure and user-friendly VPN service that enhances your online privacy, unlocks geo-restricted content, and ensures a safe and smooth browsing experience on all your devices.
-
-### 💰 [Gemini](https://macpaw.com/store/gemini) - 30% OFF everything, coupon **BF2024** applied at checkout
-
-Gemini is a smart duplicate file finder that helps you quickly locate and remove duplicate files and similar photos, freeing up space and keeping your Mac organized.
-
 ### 💰 [CompressX](https://compressx.app) - 30% OFF with code **BF24**
 
 CompressX is a powerful offline media compression tool that can significantly reduce file sizes without compromising quality.
@@ -343,6 +327,22 @@ Find out what’s taking up your disk space and recover it in the most efficient
 ### 💰 [Usage](https://usage.pro) - 40% off yearly plan (Nov 28 - Nov 30)
 
 Beautiful and customizable system activity monitor for Mac, iPhone and iPad.
+
+### 💸 [iStat Menus](https://bjango.com/mac/istatmenus/) - 50% OFF everything, no coupon needed
+
+iStat Menus is an advanced system monitoring tool that provides detailed insights into your Mac's performance, including CPU, GPU, memory usage, temperature, and network activity, all from your menu bar.
+
+### 💰 [CleanMyMac](https://macpaw.com/store/cleanmymac) - 30% OFF everything with coupon BF2024 applied at checkout
+
+CleanMyMac is an all-in-one optimization tool that helps you declutter, speed up, and protect your Mac by removing unnecessary files, managing apps, and ensuring peak performance.
+
+### 💰 [ClearVPN](https://macpaw.com/store/clearvpn) - 30% OFF everything, coupon **BF2024** applied at checkout
+
+ClearVPN is a secure and user-friendly VPN service that enhances your online privacy, unlocks geo-restricted content, and ensures a safe and smooth browsing experience on all your devices.
+
+### 💰 [Gemini](https://macpaw.com/store/gemini) - 30% OFF everything, coupon **BF2024** applied at checkout
+
+Gemini is a smart duplicate file finder that helps you quickly locate and remove duplicate files and similar photos, freeing up space and keeping your Mac organized.
 
 
 <p>&nbsp;</p>
