@@ -915,6 +915,10 @@ Because couches are so common. Keep an eye on your run with Picture-in-Picture s
 
 Take your workouts to the next level with BodyPeak, your iOS coach for muscle building and workout tracking. Stay motivated, track progress, and crush your goals!
 
+### 💪🏻 [Fitbod: Effortless Workout Planning](https://apps.apple.com/us/app/fitbod-gym-fitness-planner/id1041517543) - 40% OFF Annual
+
+Fitbod builds custom-fit workouts, designed to meet your goals on your terms.
+
 <p>&nbsp;</p>
 
 ## 🎁 Bundles
