@@ -790,6 +790,9 @@ A minimalist news website that's fast, no ads, private, that's delivered to your
 
 Liquid Player is a simple and user-friendly video player that supports all video formats, online playback, and subtitle translation. It is the best tool for watching videos and learning languages.
 
+### 📰 [BacklinkBot](https://backlinkbot.ai) - 40% off use code "BLACKLINKBOT" (ends 5 Dec)
+Submit your Startup to 100+ directories in 10 minutes
+
 <p>&nbsp;</p>
 
 ## 📖 Books
