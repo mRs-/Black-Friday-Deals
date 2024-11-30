@@ -640,6 +640,11 @@ Transform boring screen recordings into studio-quality videos in single click. R
 
 Professional Screen Recording & Tutorial Creation Tool for macOS.Auto-zoom screen recorder that makes every event count.
 
+### 🎨 [A1D AI](https://a1d.ai) ~ 50% OFF with code **BLACKFRIDAY** 
+
+Create stunning whiteboard and hand-drawn animation videos in one click with A1D.ai! Many more AI design tools included. 
+
+
 <p>&nbsp;</p>
 
 ## 🎨 Graphic Software
