@@ -130,6 +130,10 @@ Kotlin and Compose Multiplatform boilerplate code for fast mobile app developmen
 
 The all-in-one macOS app that enhances App Store Connect, supercharging your app updates, localization, and ASO with AI-powered tools. **[Get the discount here](https://hiddevdploeg91.gumroad.com/l/helm-lifetime/REBECCABLACKTHEDEVELOPER)**
 
+ ### 💸 [Screenshot Master](https://apple.co/3V8XKZR) - 50% OFF Lifetime - Until Dec 2
+
+Screenshot Master helps indie devs create perfect screenshots for the App Store and Play Store without any design knowledge.
+
 <p>&nbsp;</p>
 
 ## 🛠 Marketing Software
