@@ -912,6 +912,14 @@ Grow your app's downloads and revenue with the best-in-class ASO and App Intelli
 
 Gather user feedback for your iOS app and prioritize features based on user votes.
 
+### 💰 [One Word Domains](https://owd.li/marius-bfcm-repo) – **$50 OFF** lifetime deal w/ code BFCM50OFF
+
+One Word Domains is a database of 1,381,826 available & brandable one-word domain names for your next startup idea.
+
+### 💸 [DomainsGPT](https://domainsg.pt/marius-bfcm-repo) – **50% OFF** lifetime deal w/ code BFCM2024
+
+DomainsGPT is an AI-powered domain name generator for you to generate brandable & memorable domain names for your next startup idea.
+
 <p>&nbsp;</p>
 
 ## 🏃🏻‍♀️ Health & Fitness Software
