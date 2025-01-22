@@ -1041,6 +1041,10 @@ The best way to browse, share and organize Street View panoramas on iPhone, iPad
 
 Experience the power of real-time link monitoring with BLM. Stay updated on your website's link profile with instant status change notifications
 
+### 🐸 [FrogDR](https://frogdr.com/) - Coupon Code: FROG2025  - 20% OFF, Nov 26 - Jan 31
+
+Monitor and grow your Domain Rating
+
 ## 🏡 Home Automation
 ### 💸 [GlanceCam - IP Camera Viewer](https://apps.apple.com/us/app/glancecam-ip-camera-viewer/id1360797896) - 50% OFF, Nov 28 - Dec 3
 
