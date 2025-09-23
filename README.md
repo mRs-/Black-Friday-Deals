@@ -596,6 +596,10 @@ Native for iOS, iPadOS, macOS, visionOS with iCloud sync.
 
 Flux AI Image Generator By Flux.1 AI - Create Flux AI images from Flux.1 AI for free ✨✨.
 
+### 💸 [Imagefx AI Image Generator](https://imgfx.dev/) - **50% OFF** on all plans, Sep 25 - Dec 2
+
+Transform your ideas into stunning artwork with ImageFX, the professional AI image generator.
+
 ### 💸 [Unclutter for Mac](https://unclutterapp.com/bundle/?coupon=UN-BLACKFRIDAY-2024&s=git#UNCLUTTER) - 50% OFF for Black Friday season
 
 A new space on your desktop to efficiently manage your daily files, notes, and clipboard data.
