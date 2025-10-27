@@ -348,6 +348,9 @@ ClearVPN is a secure and user-friendly VPN service that enhances your online pri
 
 Gemini is a smart duplicate file finder that helps you quickly locate and remove duplicate files and similar photos, freeing up space and keeping your Mac organized.
 
+### 💰 [Folder Preview Pro](https://anybox.ltd/folder-preview-pro) - 30% OFF, discount code **BF2025** applied at checkout
+
+Folder Preview Pro is a quick look extension for folders on macOS, which comes with extra features like opening and copying files within the quick look window.
 
 <p>&nbsp;</p>
 
