@@ -955,6 +955,11 @@ Take your workouts to the next level with BodyPeak, your iOS coach for muscle bu
 
 Fitbod builds custom-fit workouts, designed to meet your goals on your terms.
 
+### 💰 [Steps & Beasts iOS App](https://apps.apple.com/app/id6670788226) - 20% OFF Annual, November 2025
+
+Gamified Step Tracker with a fun twist. Reach your goal every day, hatch an egg and collect 200 unique creatures.
+
+
 <p>&nbsp;</p>
 
 ## 🎁 Bundles
