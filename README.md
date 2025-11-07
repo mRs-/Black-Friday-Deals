@@ -1,4 +1,4 @@
-# 💰💸💰 Black Friday Deals 2024 💰💸💰
+# 💰💸💰 Black Friday Deals 2025 💰💸💰
 
 This is a list of all Black Friday Deals for macOS / iOS Software & Books in 2024. Feel free to contribute via Pull Request, making sure to add new offers _below_ existing ones.
 
