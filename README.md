@@ -43,6 +43,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 | 💰 | [Compresto](https://compresto.app/pricing?ref=Black-Friday-Deals) | Video, image, gif, and PDF compression for macOS. | 40% OFF with code **BFCM25** |
 | 💰 | [Cozy Watch](https://cozywatch.com) | Focus without missing GitHub updates | $4 OFF with code **BLACKFRIDAY** |
 | 💸 | [HTTP Toolkit](https://httptoolkit.com/?ref=Black-Friday-Deals) | Open-source HTTP debugger & client, with instant one-click setup for Docker, Android, node.js & more | **50% off** forever on annual subscriptions, with code **BLACKFRIDAY25** |
+| 💸 | [BucketMate](https://bucketmate.app/pricing?ref=Black-Friday-Deals) | a Finder-style S3-compatible manager for macOS. | 70% OFF with code **BLACKFRIDAY11** |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
