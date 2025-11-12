@@ -96,6 +96,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 | 💸 | [Fenn](https://www.usefenn.com/?utm_source=mRs-Black-Friday-Deals) | AI file search agent for macOS. | 50% OFF with code **BLACKFRIDAY** |
 | 💸 | [LookAway](https://lookaway.com/?utm_source=mRs-Black-Friday-Deals) | Smart break reminder app for macOS | 50% OFF with code **BFCM25** |
 | 💸 | [MailMaven](https://smallcubed.com/pricing) | The email app for professionals. Make email mangement more effective by tagging messages,  automating tasks, and customizing templates and signatures.| **50% OFF** From Nov 27 - Dec 2 |
+| 💸 | [KeyboardStack](https://keyboardstack.com) | Control your Mac entirely from the keyboard - mouse-free navigation to stay in flow and reduce wrist strain. | **50% OFF** (auto-applied) |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
