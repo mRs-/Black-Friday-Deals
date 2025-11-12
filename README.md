@@ -77,6 +77,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 | -- | ---| ------ | ------ |
 | 💰 | [Folder Preview Pro](https://anybox.ltd/folder-preview-pro) | Quick Look Inside Folders and Archive Files on macOS |30% OFF with code **BFCM2025**|
 | 💸 | [Pify - Convert Picture to PDF](https://apps.apple.com/app/apple-store/id6748066045) | The easiest way to turn your photos and images into polished PDFs in just a few taps. | **66% OFF** Lifetime plan with code **BLACKFRIDAY** |
+| 💸 | [Fileside](https://www.fileside.app/?ref=mRsbfd) | A modern multi-pane file manager with project-based workspaces. | **66% OFF** lifetime license between 24 Nov and 1 Dec |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
