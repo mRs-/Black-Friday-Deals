@@ -53,6 +53,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 | 💸 | [BoltAI](https://boltai.com/?utm_source=mrsbf) | Best AI client for Mac. Instantly switch between 300+ AI models. Feature-packed, Native Performance, Private by default. | 51% OFF with code **BFCM25** |
 | 💸 | [TypingMind](https://www.typingmind.com/?utm_source=mrsbf) |Chat UI for ChatGPT, Claude, Gemini to use with your API key. Support MCP, multi-model, Artifact, Projects, Vision, Canvas, AI agents builder, DALL-E, Plugins, etc. | 60% OFF Lifetime **BLACKFRIDAY2025** |
 | 💸 | [RabbitHoles AI](https://www.rabbitholes.ai/?utm_source=mrsbf) | Chat with AI models on an Infinite Canvas. Bring your own API keys for ChatGPT, Claude, Gemini, xAI, OpenRouter, Groq, etc. Local stored | 51% OFF with code **BLACKFRIDAY2025** |
+| 💰 | [HyperWhisper](https://hyperwhisper.com/?utm_source=tonybf) | Highly customizable speech-to-text. Ultra-fast and accurate. Offline models. 8+ STT providers. | 50% OFF Lifetime **BLACKFRIDAY2025** |
 ⬆️ | [Go to Top](#table-of-contents)
 
 ## 🛠 Marketing Software
