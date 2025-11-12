@@ -71,7 +71,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
-| 💸 | [Folder Preview Pro](https://anybox.ltd/folder-preview-pro) | Quick Look Inside Folders and Archive Files on macOS |30% OFF with code **BFCM2025**|
+| 💰 | [Folder Preview Pro](https://anybox.ltd/folder-preview-pro) | Quick Look Inside Folders and Archive Files on macOS |30% OFF with code **BFCM2025**|
 
 ⬆️ | [Go to Top](#table-of-contents)
 
