@@ -57,7 +57,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ## 🛠 Marketing Software
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
-| 💸 | [New Row Template](https://example.com/?utm_source=mrsbf) |Example description |**BFCM25** |
+| 💰 | [viral.app](https://viral.app) | UGC analytics platform to track TikTok, Instagram, and YouTube performance for brands and agencies. | 30% off the first 3 months on monthly plans with code **viralblackfriday30** (redeem by 2025-12-07). |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
