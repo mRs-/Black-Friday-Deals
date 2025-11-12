@@ -95,7 +95,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 | 💸 | [Sumy AI](https://www.sumyai.com/) |  Study smarter with the Feynman method — create smart notes, quizzes & flashcards to learn faster and remember longer.. | 50% OFF with code **BLACKFRIDAY2025** |
 | 💸 | [Fenn](https://www.usefenn.com/?utm_source=mRs-Black-Friday-Deals) | AI file search agent for macOS. | 50% OFF with code **BLACKFRIDAY** |
 | 💸 | [LookAway](https://lookaway.com/?utm_source=mRs-Black-Friday-Deals) | Smart break reminder app for macOS | 50% OFF with code **BFCM25** |
-| 💸 | [MailMaven](https://smallcubed.com/pricing) | The email app for professionals. Make email mangement more effective by tagging messages,  automating task, and customizing templates and signatures.| **50% OFF** From Nov 27 - Dec 2 |
+| 💸 | [MailMaven](https://smallcubed.com/pricing) | The email app for professionals. Make email mangement more effective by tagging messages,  automating tasks, and customizing templates and signatures.| **50% OFF** From Nov 27 - Dec 2 |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
