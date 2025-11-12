@@ -1,139 +1,241 @@
-# 💰💸💰 Black Friday Deals 2019 💰💸💰
-This is a list of all Black Friday Deals for macOS / iOS Software & Books in 2019. Feel free to contribute via Pull Request, making sure to add new offers *below* existing ones.
+# 💰💸💰 Black Friday Deals 2025 💰💸💰
+
+This is a list of all Black Friday Deals for macOS / iOS Software & Books in 2025. Feel free to contribute via Pull Request, making sure to add new offers _below_ existing ones.
 
 **Legend**
 
 | Emoji | Savings |
-|-----|---|
-| 💰 | < 50% |
-| 💸 | >= 50% |
+| :---: | ------: |
+|  💰   |   < 50% |
+|  💸   |  >= 50% |
 
+## Table of Contents
+
+- [🛠 Development Software](#-development-software)
+- [🤖 AI Tools](#-ai-tools)
+- [🌈 Marketing Software](#-marketing-software)
+- [🎩 Security Software](#tophat-security-software)
+- [🎛 Utility Software](#-utility-software)
+- [📌 Productivity Software](#-productivity-software)
+- [🎥 Video Software](#-video-software)
+- [🎨 Graphic Software](#-graphic-software)
+- [🏝️ Lifestyle](#%EF%B8%8F-lifestyle)
+- [🗣️ Social](#%EF%B8%8F-social)
+- [🎓 Reference & Education](#-reference--education)
+- [📖 Books](#-books)
+- [👩‍🎓 Courses and Videos](#-courses-and-videos)
+- [📈 Business Software](#-business-software)
+- [🏃🏻‍♀️ Health & Fitness Software](#%EF%B8%8F-health--fitness-software)
+- [🎁 Bundles](#-bundles)
+- [🎶 Creative Content](#-creative-content)
+- [🤑 Finance](#-finance)
+- [🗺️ Navigation](#%EF%B8%8F-navigation)
+- [🔎 SEO](#-seo)
+- [🏡 Home Automation](#-home-automation)
+- [🕹 Games](#-games)
 
 ## 🛠 Development Software
-### [Flawless App | 50% off 💸](https://gumroad.com/l/SyRKm/50_discount_black_friday) — a tool to compare the design with the real app
-### [Git Tower | 50% off 💸](https://www.git-tower.com) — Git desktop client for Mac and Windows  
-### [Linguan | 50% off 💸](http://linguanapp.com) — Manage the localization of iOS and Mac apps
-### [Tokens | 50% off 💸](https://tokn.co) — Generate, Share and Track promo codes for your apps
-### [Woodpecker | 50% off 💸](https://apps.apple.com/app/id1333548463) — View and edit iOS app's Sandbox,UserDefaults from Mac
-### [DropDMG | 25% off 💰](https://c-command.com/store/sale) - Create Mac disk images (.dmg files)
-### [Adaptivity | 50% off 💸](https://itunes.apple.com/app/id1054670022) - Explore iOS layout, System Colors/Images/Materials and more.
-### [Sip | 50% off 💸](https://sipapp.io/pricing/?coupon=BLACK_FRIDAY_2019) - A better way to collect, organize & share your colors.
-### [Git Kraken | 20% off 💰](https://www.gitkraken.com) - Git desktop client for Mac and Windows
-### [Proxyman | 50% off 💸](https://proxyman.io) - Native, Modern and Delightful Web Debugging Proxy for macOS, iOS, Android.
-### [SQLPro Studio | 50% off 💸](https://www.sqlprostudio.com/blackfriday.html) - A fully native database client for macOS and iOS.
-### [Paw | 50% off 💸](https://www.macheist.com/sales/paw-the-most-advanced-api-tool-for-mac) - REST Client
-### [StudIO Code | 50% off 💸](https://studiocode.app) - The first hackable code editor for iOS
-### [Charles | 30% off💰](http://charlesproxy.com) - with code CHARLESBLACK19
-### [RapidWeaver 8 | 30% off 💸](https://www.realmacsoftware.com/black/) - web design software for Mac
+
+|  | Name | Description | Discount Code & Terms |
+| -- | ---| ------ | ------ |
+| 💰 | [Proxyman](https://proxyman.com/?utm_source=black-friday-2025) | Need to capture HTTPS request on your iPhone or Android device? Proxyman is what you need. Best-in-class HTTP debugging proxy for macOS and iOS |30% OFF - **BLACKFRIDAY2025** |
+| 💸 | [DevUtils](https://devutils.com) | All-in-one toolbox for developers. Fully supports Apple Silicon & macOS Ventura. | 50% OFF with code **BLACKFRIDAY2025** |
+| 💰 | [Compresto](https://compresto.app/pricing?ref=Black-Friday-Deals) | Video, image, gif, and PDF compression for macOS. | 40% OFF with code **BFCM25** |
+| 💰 | [Cozy Watch](https://cozywatch.com) | Focus without missing GitHub updates | $4 OFF with code **BLACKFRIDAY** |
+| 💸 | [HTTP Toolkit](https://httptoolkit.com/?ref=Black-Friday-Deals) | Open-source HTTP debugger & client, with instant one-click setup for Docker, Android, node.js & more | **50% off** forever on annual subscriptions, with code **BLACKFRIDAY25** |
+| 💸 | [BucketMate](https://bucketmate.app/pricing?ref=Black-Friday-Deals) | a Finder-style S3-compatible manager for macOS. | 70% OFF with code **BLACKFRIDAY11** |
+| 💰 | [Tower](https://www.git-tower.com/) | Powerful Git client for Mac and Windows. | 30% OFF any plan for new customers only, no coupon needed (Nov 25–Dec 7) |
+
+⬆️ | [Go to Top](#table-of-contents)
+
+## 🤖 AI Tools
+
+|  | Name | Description | Discount Code & Terms |
+| -- | ---| ------ | ------ |
+| 💸 | [BoltAI](https://boltai.com/?utm_source=mrsbf) | Best AI client for Mac. Instantly switch between 300+ AI models. Feature-packed, Native Performance, Private by default. | 51% OFF with code **BFCM25** |
+| 💸 | [TypingMind](https://www.typingmind.com/?utm_source=mrsbf) |Chat UI for ChatGPT, Claude, Gemini to use with your API key. Support MCP, multi-model, Artifact, Projects, Vision, Canvas, AI agents builder, DALL-E, Plugins, etc. | 60% OFF Lifetime **BLACKFRIDAY2025** |
+| 💸 | [RabbitHoles AI](https://www.rabbitholes.ai/?utm_source=mrsbf) | Chat with AI models on an Infinite Canvas. Bring your own API keys for ChatGPT, Claude, Gemini, xAI, OpenRouter, Groq, etc. Local stored | 51% OFF with code **BLACKFRIDAY2025** |
+| 💰 | [HyperWhisper](https://hyperwhisper.com/?utm_source=tonybf) | Highly customizable speech-to-text. Ultra-fast and accurate. Offline models. 8+ STT providers. | 50% OFF Lifetime **BLACKFRIDAY2025** |
+⬆️ | [Go to Top](#table-of-contents)
+
+## 🛠 Marketing Software
+|  | Name | Description | Discount Code & Terms |
+| -- | ---| ------ | ------ |
+| 💰 | [viral.app](https://viral.app) | UGC analytics platform to track TikTok, Instagram, and YouTube performance for brands and agencies. | 30% off the first 3 months on monthly plans with code **viralblackfriday30** (redeem by 2025-12-07). |
+
+⬆️ | [Go to Top](#table-of-contents)
+
+## :tophat: Security Software
+
+|  | Name | Description | Discount Code & Terms |
+| -- | ---| ------ | ------ |
+| 💰 | [New Row Template](https://example.com/?utm_source=mrsbf) |Example description |**BFCM25** |
+
+⬆️ | [Go to Top](#table-of-contents)
 
 ## 🎛 Utility Software
-### [Secure ShellFish | 30% off 💰](https://secureshellfish.app/) — SFTP support in Shortcuts & the Files app on iOS
-### [VPN Tracker 365 (IPsec, L2TP, OpenVPN, PPTP) | 30$ off 💰](https://www.vpntracker.com/goto/vpntblackfriday2019)
-### [Screens | 35% off 💰](https://edovia.com) - Screen Sharing/VNC client for iOS and Mac
-### [SpamSieve | 25% off 💰](https://c-command.com/store/sale) - E-mail spam filtering for Mac
-### [Hummingbird | 50% off 💸](https://hummingbirdapp.site) - Make macOS window management a breeze
-### [iStat Menus (Website version) | 50% off 💸](https://bjango.com/mac/istatmenus/) - The most powerful system monitoring app for macOS.
-### [iStat Menus (Appstore version) | 50% off 💸](https://itunes.apple.com/app/id1319778037?at=11l3KP&mt=12) - The most powerful system monitoring app for macOS.
-### [StopTheMadness | 33% off 💰](https://apps.apple.com/app/stopthemadness/id1376402589?mt=12) - Web browser extension for Safari and Firefox
-### [Find Any File | 50% off 💸](http://findanyfile.app) - Find files that Spotlight won't, and show them in a better way.
-### [iClip | 66% off 💸](http://iclipapp.com) - The most versatile Clipboard manager & recorder. It's even scriptable!
-### [NetSnips | 50% off on Unlimited Snippets upgrade 💸](https://apps.apple.com/app/netsnips/id507888242) — Stop opening dozens of browser tabs every day. Save time with NetSnips!
-### [Banner Hunter (iOS) | 66% off 💸](https://apps.apple.com/us/app/banner-hunter/id1031752878) - Cookie banner blocker for Safari
-### [Banner Hunter (Mac) | 66% off 💸](https://apps.apple.com/us/app/banner-hunter/id1151217174?mt=12) - Cookie banner blocker for Safari
-### [Paprika | 50% off on MacOS, iOS, Windows and Android 💸](https://www.paprikaapp.com/blog/2019/11/24/2019-thanksgiving-sale/) - Organize your recipes, make meal plans, and create grocery lists. 
-### [iMazing 2 | 50% off 💸](https://imazing.com/de/store)
-### [KeepSolid VPN | 50% off💸](https://www.keepsolid.com)
-### [Little Snitch | 50% off💸](https://www.obdev.at/shop/index.html) - Little Snitch informs you whenever a program attempts to establish an outgoing Internet connection. You can allow or deny these connections, or define rules to handle future attempts automatically. Little Snitch reliably prevents your private data from being sent out to the Internet without your knowledge.
-### [Micro Snitch | 50% off💸](https://www.obdev.at/shop/index.html) - Micro Snitch is an ultra-light menu bar application that operates inconspicuously in the background. It monitors and reports any microphone and camera activity to help you figure out if someone’s spying on you.
-### [F-Secure Freedome VPN | 50% off💸](https://campaigns.f-secure.com/blackweek/en_global/) - FREEDOME VPN is continuously ranked among the top VPN online privacy apps by experts. Its simple, elegant interface and fast servers make it an easy choice for staying private.
-### [DaisyDisk | 51% off💸](https://daisydiskapp.com/) - Recover disk space by finding and removing large useless files.
+
+|  | Name | Description | Discount Code & Terms |
+| -- | ---| ------ | ------ |
+| 💰 | [Folder Preview Pro](https://anybox.ltd/folder-preview-pro) | Quick Look Inside Folders and Archive Files on macOS |30% OFF with code **BFCM2025**|
+| 💸 | [Pify - Convert Picture to PDF](https://apps.apple.com/app/apple-store/id6748066045) | The easiest way to turn your photos and images into polished PDFs in just a few taps. | **66% OFF** Lifetime plan with code **BLACKFRIDAY** |
+| 💸 | [Fileside](https://www.fileside.app/?ref=mRsbfd) | A modern multi-pane file manager with project-based workspaces. | **66% OFF** lifetime license between 24 Nov and 1 Dec |
+| 🔥 | [Scrape Creators](https://scrapecreators.com/) | Real-time social media scraping API. Scrape social media + ad libraries. No monthly commitment. | Use code **BLACKFRIDAY2025** for **50% OFF** on Black Friday Only | 
+
+⬆️ | [Go to Top](#table-of-contents)
 
 ## 📌 Productivity Software
-### [FocusList | 60% off 💸](http://focuslist.co) - Daily planner based on Pomodoro technique
-### [EagleFiler | 25% off 💰](https://c-command.com/store/sale) - Organize files/notes and archive e-mails (Mac)
-### [Side Mirror | 50% off 💸](https://sidemirrorapp.com) - A useful tool for presenters, shows you the projector screen in a window on your laptop.
-### [WordCounter | 50% off 💸](https://wordcounterapp.com) - Provides clarity about your daily production output as a writer/coder
-### [TableFlip | 50% off 💸](https://tableflipapp.com) - Visual Markdown table editor
-### [Stonewall Call Blocker | 33% off 💰 starting 11/28](https://apps.apple.com/de/app/stonewall-call-blocker/id1144155216?l=en&at=1001ldfc&pt=251505&ct=bfd) - temporarily block calls from a group of contacts or numbers (iOS)
-### [Phonetrait | 50% off 💸 starting 11/28](https://apps.apple.com/us/app/phonetrait-address-book/id479472176?at=1001ldfc&pt=251505&ct=bfd) - Smart Address Book (iOS)
-### [Trickster | 50% off 💸](https://www.apparentsoft.com/trickster) - Fast access to Recently Used Files that you care about (Mac)
-### [Devonthink | 25% off 💰](https://www.devontechnologies.com/blog/20191125-blackfriday)
-### [Unclutter | 50% off 💸 starting 11/28](https://unclutterapp.com) – 3-in-1 productivity tool for daily routine work on a Mac. Clipboard, files, notes – at your fingertips.
-### [Secrets | 30% off 💰](https://outercorner.com/secrets/) - Password Manager for Mac & iOS
-### [Fantastical, Cardhop and Chatology | 20% off 💰](https://flexibits.com/store) - MacOS/iOS calendar, contacts and chat search apps
-### [Litur | 50% off 💸](https://apps.apple.com/us/app/litur/id1487096693?ls=1) - Color picker app to find and collect colors around you
-### [Toothfairy | 20% off 💰](https://apps.apple.com/us/app/toothfairy/id1191449274) - Easily connect Bluetooth devices on your Mac
-### [SmallCubed MailSuite | 50% off  💸](https://sites.fastspring.com/smallcubed/product/scs2019?coupon=BLACK19) - Apple Mail productivity plugin that adds much needed functionality to Apple’s Mail.app.
 
-## 🖥 Virtualization Software
-### [Parallels Desktop | 20% off 💰](https://www.parallels.com/de/products/desktop/buy/)
+|  | Name | Description | Discount Code & Terms |
+| -- | ---| ------ | ------ |
+| 💸 | [Tiny Shield](https://tinyshield.proxyman.com/?utm_source=black-friday-2025) | Alternative to Little Snitch Mini - See all traffic from your Mac and block it | 60% OFF with code **BLACKFRIDAY2025** |
+| 💰 | [Anybox](https://anybox.app) | Bookmarking App on macOS and iOS | Up to 30% OFF on App Store |
+| 💸 | [Capture - Quick Notes](https://apps.apple.com/app/apple-store/id6458535284) | Easily capture your thoughts & ideas on the go and export them to your favourite apps. | **50% OFF** Lifetime plan with code **BLACKFRIDAY** |
+| 💸 | [Chronoid - Automatic Time Tracking](https://www.chronoid.app?utm_source=mRs-Black-Friday-Deals) | AI-powered time tracking with website blocking and productivity insights. Automatically categorize activities, block distractions, stay focused, all private on Mac. | **50% OFF** Lifetime plan with code **BLACKFRIDAY** |
+| 💸 | [Sumy AI](https://www.sumyai.com/) |  Study smarter with the Feynman method — create smart notes, quizzes & flashcards to learn faster and remember longer.. | 50% OFF with code **BLACKFRIDAY2025** |
+| 💸 | [Fenn](https://www.usefenn.com/?utm_source=mRs-Black-Friday-Deals) | AI file search agent for macOS. | 50% OFF with code **BLACKFRIDAY** |
+| 💸 | [LookAway](https://lookaway.com/?utm_source=mRs-Black-Friday-Deals) | Smart break reminder app for macOS | 50% OFF with code **BFCM25** |
+
+⬆️ | [Go to Top](#table-of-contents)
+
+## 🎥 Video Software
+
+|  | Name | Description | Discount Code & Terms |
+| -- | ---| ------ | ------ |
+| 💸 | [New Row Template](https://example.com/?utm_source=mrsbf) |Example description |**BFCM25** |
+
+⬆️ | [Go to Top](#table-of-contents)
 
 ## 🎨 Graphic Software
-### [Adobe CC All Products Plan | 40% off 💰](https://www.adobe.com/creativecloud/plans.html?red=a&red=a)
-### [Corel Products | Various Savings from 10-40% 💰](https://www.corel.com/en/special-offers/)
-### [Affinity Designer| 30% off 💰](https://affinity.serif.com)
-### [Affinity Photo| 30% off 💰](https://affinity.serif.com)
-### [Affinity Publisher| 30% off 💰](https://affinity.serif.com)
-### [Mail Designer 365 | 50% off 💰](https://www.maildesigner365.com/goto/mdblackfriday2019)
-### [Sparkle, Visual Website Builder| 40% off 💰](https://sparkleapp.com/store/)
-### [Cascable — Supercharge your WiFi-enabled Camera | 33% off 💰](https://cascable.se/ios/)
-### [Pixelmator Pro (macOS) | 25% off 💰](https://www.pixelmator.com/pro/buy/)
-### [Pixelmator Photo (iPad) | Free 💸](https://apps.apple.com/app/pixelmator/id1444636541)
-### [ImageFramer | 50% off 💸](https://imageframer.net) - Add frames, borders, mats and text to pictures (Mac)
-### [Luminar | 10% off with free add-ons 💰](https://skylum.com/luminar)
-### [Tumult Hype Pro (macOS) | 25% off 💰](https://sites.fastspring.com/tumultco/instant/hype4-pro?coupon=CYBERHYPERMONDAY)
-### [VisualEyes - AI design assistant | 30% off 💰](https://www.visualeyes.design/pricing)
+
+|  | Name | Description | Discount Code & Terms |
+| -- | ---| ------ | ------ |
+| 💸 | [Sitely 6](https://sitely.app) | Visual + AI Website Builder for macOS | 50% OFF * NO CODE REQUIRED * |
+| 💸 | [New Row Template](https://example.com/?utm_source=mrsbf) |Example description |**BFCM25** |
+
+⬆️ | [Go to Top](#table-of-contents)
+
+## 🏝️ Lifestyle
+
+|  | Name | Description | Discount Code & Terms |
+| -- | ---| ------ | ------ |
+| 💸 | [Cuts - Hairstyle Try On Men](https://apps.apple.com/app/apple-store/id6753205043) | The easiest way to try instant men’s haircuts and colors with a quick selfie. | **50% OFF** first week with code **BLACKFRIDAY** |
+| 💸 | [Gardenly - AI Garden Design](https://apps.apple.com/app/apple-store/id6747178697) | Transform your garden instantly from one photo with photorealistic garden designs. | **50% OFF** first week with code **BLACKFRIDAY** |
+
+⬆️ | [Go to Top](#table-of-contents)
+
+## 🗣️ Social
+
+|  | Name | Description | Discount Code & Terms |
+| -- | ---| ------ | ------ |
+| 💸 | [Mockly](https://getmockly.com/?utm_source=mrsbf) |Create realistic one-on-one and group chat mockups (and videos) for WhatsApp, Messenger, Instagram, iMessage, Telegram, Slack, and more. Ideal for marketing, social media, creators, and filmmakers. | 20% off on weekly subscription, 50% off on lifetime subscription, no code needed | 
+| 💸 | [Glass](https://glass.photo/) | Discover a new home for your photography with Glass — the subscription-based, community-driven platform designed by photographers, for photographers. | **50% OFF** first year with code **BLACKFRIDAY25** |
+
+⬆️ | [Go to Top](#table-of-contents)
+
+## 🎓 Reference & Education
+
+|  | Name | Description | Discount Code & Terms |
+| -- | ---| ------ | ------ |
+| 💸 | [PDF Pals](https://pdfpals.com/?utm_source=mrsbf) | Instantly chat with any PDF on your Mac. Native, fast and respect your privacy. | 51% OFF with code **BFCM25** |
+| 💸 | [Mathy - Math Answer Scanner](https://apps.apple.com/app/apple-store/id6746950449) | Your pocket math tutor that solves and explains equations instantly from text or a photo. | **50% OFF** yearly plan with code **BLACKFRIDAY** |
+| 💸 | [Chemy - Chemistry Answers](https://apps.apple.com/app/apple-store/id6747715456) | Your pocket chemistry tutor that solves and explains chemistry problems instantly from text or a photo. | **50% OFF** yearly plan with code **BLACKFRIDAY** |
+| 💰 | [SpatialRead](https://spatialread.com/?utm_source=mrs) | Quickly understand complex research papers with AI-powered explanations. | **45% OFF** Lifetime plan ($49) |
+
+
+⬆️ | [Go to Top](#table-of-contents)
+
+## 📖 Books
+
+|  | Name | Description | Discount Code & Terms |
+| -- | ---| ------ | ------ |
+| 💸 | [The Hacking with Swift Everything Pack](https://twostraws.gumroad.com/l/hws-everything/blackfriday25) | The world's biggest collection of Swift tutorials, for one unbeatable price 🔥 | [50% OFF with link](https://twostraws.gumroad.com/l/hws-everything/blackfriday25)
+| 💸 | [The Swift Power Pack](https://gumroad.com/l/swift-power-pack/blackfriday25) | Everything you need to jumpstart learning Swift and SwiftUI. | [50% OFF with link](https://gumroad.com/l/swift-power-pack/blackfriday25)
+| 💸 | [The Swift Platform Pack](https://gumroad.com/l/swift-platform-pack/blackfriday25) | Learn to build apps for macOS, watchOS, and beyond. | [50% OFF with link](https://gumroad.com/l/swift-platform-pack/blackfriday25)
+| 💸 | [The Swift Plus Pack](https://gumroad.com/l/swift-plus-pack/blackfriday25) | Take your career to the next level by mastering Swift Testing, design patterns, and more. | [50% OFF with link](https://gumroad.com/l/swift-plus-pack/blackfriday25)
+| 💸 | [Everything but the Code](https://gumroad.com/l/everything-but-the-code/blackfriday25) | Learn how the experts design, price, position, and promote apps for maximum success. Code got you started – this gets you *paid*. | [50% OFF with link](https://twostraws.gumroad.com/l/hws-everything/blackfriday25)
+
+⬆️ | [Go to Top](#table-of-contents)
+
+## 👩‍🎓 Courses and Videos
+
+|  | Name | Description | Discount Code & Terms |
+| -- | ---| ------ | ------ |
+| 💸 | [New Row Template](https://example.com/?utm_source=mrsbf) |Example description |**BFCM25** |
+
+⬆️ | [Go to Top](#table-of-contents)
 
 ## 📈 Business Software
-### [Landlordy Mini/Plus/Pro | 30% off 💰](https://www.landlordy.com) - property management app for private landlords
-### [Appfigures (All plans) | 50% off 💸](https://appfigures.com/) - App store optimization & analytics tools for mobile app developers
+
+|  | Name | Description | Discount Code & Terms |
+| -- | ---| ------ | ------ |
+| 💸 | [New Row Template](https://example.com/?utm_source=mrsbf) |Example description |**BFCM25** |
+
+⬆️ | [Go to Top](#table-of-contents)
 
 ## 🏃🏻‍♀️ Health & Fitness Software
-### [Thirstic | 50% off on Lifetime Premium upgrade 💸](https://thirstic.app) — A smart water reminder app that adapts to your activity and weather
 
-## 📖 Books and Videos
-### [The Swift Power Pack (includes six books) | 50% off 💸](https://gumroad.com/l/swift-power-pack/blackfriday19)
-### [The Swift Platform Pack (includes six books) | 50% off 💸](https://gumroad.com/l/swift-platform-pack/blackfriday19)
-### [The Swift Plus Pack (includes six books) | 50% off 💸](https://gumroad.com/l/swift-plus-pack/blackfriday19)
-### [SwiftUI By Example | 50% off 💸](https://gumroad.com/l/swiftui/blackfriday19)
-### [Pro Swift | 50% off 💸](https://gumroad.com/l/proswift/blackfriday19)
-### [Swift Design Patterns | 50% off 💸](https://gumroad.com/l/swift-design-patterns/blackfriday19)
-### [Testing Swift | 50% off 💸](https://gumroad.com/l/testing-swift/blackfriday19)
-### [Hacking with iOS (includes UIKit and SwiftUI) | 50% off 💸](https://gumroad.com/l/hws-book-pack/blackfriday19)
-### [Swift on Sundays: Volume One | 50% off 💸](https://gumroad.com/l/swift-on-sundays-1/blackfriday19)
-### [Server-side Swift: Vapor Edition | 50% off 💸](https://gumroad.com/l/server-side-swift-vapor/blackfriday19)
-### [Dive Into SpriteKit | 50% off 💸](https://gumroad.com/l/dive-into-spritekit/blackfriday19)
-### [Advanced iOS: Volume One | 50% off 💸](https://gumroad.com/l/advanced-ios-1/blackfriday19)
-### [Advanced iOS: Volume Two | 50% off 💸](https://gumroad.com/l/advanced-ios-2/blackfriday19)
-### [Advanced iOS: Volume Three | 50% off 💸](https://gumroad.com/l/advanced-ios-3/blackfriday19)
-### [Hacking with macOS | 50% off 💸](https://gumroad.com/l/hwmacos/blackfriday19)
-### [Hacking with watchOS | 50% off 💸](https://gumroad.com/l/hwwatchos/blackfriday19)
-### [Hacking with tvOS | 50% off 💸](https://gumroad.com/l/hwtvos/blackfriday19)
-### [Swift in Sixty Seconds | 50% off 💸](https://gumroad.com/l/sixty/blackfriday19)
-### [Objective-C for Swift Developers | 50% off 💸](https://gumroad.com/l/objcswift/blackfriday19)
-### [Server-side Swift: Kitura Edition | 50% off 💸](https://gumroad.com/l/server-side-swift/blackfriday19)
-### [Beyond Code | 50% off 💸](https://gumroad.com/l/beyondcode/blackfriday19)
-### [iOS Unit Testing by Example | 40% off 💰](https://pragprog.com/book/jrlegios/ios-unit-testing-by-example) with discount code *turkeysale2019*
-### [Xcode Treasures | 40% off 💰](https://pragprog.com/book/caxcode/xcode-treasures) with discount code *turkeysale2019*
-### [Swift Style | 40% off 💰](https://pragprog.com/book/esswift2/swift-style-second-edition) with discount code *turkeysale2019*
-### [A Swift Kickstart | 40% off 💰](https://pragprog.com/book/d-dsswift/a-swift-kickstart-second-edition) with discount code *turkeysale2019*
-### [A Swift Kickstart (updated for Swift 5.1/Xcode 11) | 33% off 💰](https://gumroad.com/l/swift-kickstart/hindsight) with discount code *hindsight*
-### [A SwiftUI Kickstart | 33% off 💰](https://gumroad.com/l/swiftuikickstart/hindsight) with discount code *hindsight*
-### [Affinity Photo Workbook | 30% off 💰](https://affinity.serif.com)
-### [Affinity Designer Workbook | 30% off 💰](https://affinity.serif.com)
-### [Packt | eBooks: $10 each or 3 for $25 💰](https://www.packtpub.com/)
-### [Packt | Subscription: Free Week 💸](https://subscription.packtpub.com/)
-### [raywenderlich.com Yearly Subscriptions | 58% off 💸](https://store.raywenderlich.com/products/subscription)
-### [raywenderlich.com Advanced iOS Book Bundle | 65% off 💸](https://store.raywenderlich.com/products/advanced-ios-swift-bundle-2019)
-### [raywenderlich.com Beginning iOS Book Bundle | 60% off 💸](https://store.raywenderlich.com/products/beginning-ios-swift-bundle-2019)
-### [raywenderlich.com Complete Collection Book Bundle | 75% off 💸](https://store.raywenderlich.com/products/rw-complete-collection-bundle-2019)
-### [NSScreencast Subscription | 50% off 💸](https://nsscreencast.com/coupons/blfr19-50) - over 400 videos on iOS development
-### [Make Money Outside the Mac App Store | 50% off 💸](https://christiantietze.de/books/make-money-outside-mac-app-store-fastspring/) - Set up your own store and make your app ready for sale on your own website
-### [Modern Auto Layout | 20% off 💰](https://gum.co/albook/blackfriday19)
-### [Swift 5.0 Algorithms and Data Structures | 50% off 💸](https://www.waynewbishop.com/ios-interview/book) - with discount code SWIFT5
-### [iOS Interview Email Course | 75% off 💸](https://www.waynewbishop.com/ios-interview/course)
-### [SwiftUI Masterclass: iOS 13 App Development with Swift 5 | $9.99 💸 67% Off](https://www.udemy.com/course/swiftui-masterclass-course-ios-development-with-swift/?couponCode=BLACKFRIDAY2019)
-### [Applied Network Defense Online Training | 20% off 💸](https://www.networkdefense.io)
+|  | Name | Description | Discount Code & Terms |
+| -- | ---| ------ | ------ |
+| 💰 | [Calorific - Nutrition Tracker](https://apps.apple.com/app/apple-store/id6645043253) | Quickly capture your meals and get instant nutritional insights. | **30% OFF** yearly plan with code **BLACKFRIDAY** |
+| 💸 | [GetJacked](https://getjacked.app/download?utm_source=mrsbf) | GetJacked is a science-based hypertrophy coach on your iPhone. No more guesswork, just results. Train smarter with GetJacked. | 75% OFF Lifetime Premium Plan Discount automatically applied in App |
+| 💰 | [Dark Sleep for Apple TV](https://www.darksleep.app) | The #1 free sleep and relaxation app for Apple TV. Dolby Atmos soundscapes, calming videos, meditations, sunrise alarms, and more — all in one app. | 30% OFF lifetime purchase (in-app) | 2025-12-01 |
+
+⬆️ | [Go to Top](#table-of-contents)
 
 ## 🎁 Bundles
-### [BundleHunt | 50+% off 💸](https://bundlehunt.com) Create your own bundle from 43 apps including TextSoap, Luminar Flex, Dropshare, Name Mangler, Permute and more
+
+|  | Name | Description | Discount Code & Terms |
+| -- | ---| ------ | ------ |
+| 💸 | [New Row Template](https://example.com/?utm_source=mrsbf) |Example description |**BFCM25** |
+
+⬆️ | [Go to Top](#table-of-contents)
+
+## 🎶 Creative content
+
+|  | Name | Description | Discount Code & Terms |
+| -- | ---| ------ | ------ |
+| 💸 | [New Row Template](https://example.com/?utm_source=mrsbf) |Example description |**BFCM25** |
+
+⬆️ | [Go to Top](#table-of-contents)
+
+## 🤑 Finance
+
+|  | Name | Description | Discount Code & Terms |
+| -- | ---| ------ | ------ |
+| 💸 | [New Row Template](https://example.com/?utm_source=mrsbf) |Example description |**BFCM25** |
+| 💰 | [SubManager](https://submanager.app) | Track your subscriptions in one place on all your Apple devices and get notified whenever a subscription is due for renewal. | 75% off SubManager+ IAP ($1.49, available from Nov 28 to Dec 3) |
+
+⬆️ | [Go to Top](#table-of-contents)
+
+## 🗺️ Navigation
+
+|  | Name | Description | Discount Code & Terms |
+| -- | ---| ------ | ------ |
+| 💸 | [New Row Template](https://example.com/?utm_source=mrsbf) |Example description |**BFCM25** |
+
+⬆️ | [Go to Top](#table-of-contents)
+
+## 🔎 SEO
+
+|  | Name | Description | Discount Code & Terms |
+| -- | ---| ------ | ------ |
+| 💸 | [New Row Template](https://example.com/?utm_source=mrsbf) |Example description |**BFCM25** |
+
+⬆️ | [Go to Top](#table-of-contents)
+
+## 🏡 Home Automation
+
+|  | Name | Description | Discount Code & Terms |
+| -- | ---| ------ | ------ |
+| 💸 | [New Row Template](https://example.com/?utm_source=mrsbf) |Example description |**BFCM25** |
+
+⬆️ | [Go to Top](#table-of-contents)
+
+## 🕹 Games
+
+|  | Name | Description | Discount Code & Terms |
+| -- | ---| ------ | ------ |
+| 💸 | [New Row Template](https://example.com/?utm_source=mrsbf) |Example description |**BFCM25** |
+
+⬆️ | [Go to Top](#table-of-contents)
