@@ -41,6 +41,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 | 💰 | [Proxyman](https://proxyman.com/?utm_source=black-friday-2025) | Need to capture HTTPS request on your iPhone or Android device? Proxyman is what you need. Best-in-class HTTP debugging proxy for macOS and iOS |30% OFF - **BLACKFRIDAY2025** |
 | 💸 | [DevUtils](https://devutils.com) | All-in-one toolbox for developers. Fully supports Apple Silicon & macOS Ventura. | 50% OFF with code **BLACKFRIDAY2025** |
 | 💰 | [Compresto](https://compresto.app/pricing?ref=Black-Friday-Deals) | Video, image, gif, and PDF compression for macOS. | 40% OFF with code **BFCM25** |
+| 💰 | [Cozy Watch](https://cozywatch.com) | Focus without missing GitHub updates | $4 OFF with code **BLACKFRIDAY** |
 | 💸 | [HTTP Toolkit](https://httptoolkit.com/?ref=Black-Friday-Deals) | Open-source HTTP debugger & client, with instant one-click setup for Docker, Android, node.js & more | **50% off** forever on annual subscriptions, with code **BLACKFRIDAY25** |
 
 ⬆️ | [Go to Top](#table-of-contents)
@@ -57,7 +58,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 ## 🛠 Marketing Software
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
-| 💸 | [New Row Template](https://example.com/?utm_source=mrsbf) |Example description |**BFCM25** |
+| 💰 | [viral.app](https://viral.app) | UGC analytics platform to track TikTok, Instagram, and YouTube performance for brands and agencies. | 30% off the first 3 months on monthly plans with code **viralblackfriday30** (redeem by 2025-12-07). |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
@@ -85,6 +86,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 | 💸 | [Tiny Shield](https://tinyshield.proxyman.com/?utm_source=black-friday-2025) | Alternative to Little Snitch Mini - See all traffic from your Mac and block it | 60% OFF with code **BLACKFRIDAY2025** |
 | 💰 | [Anybox](https://anybox.app) | Bookmarking App on macOS and iOS | Up to 30% OFF on App Store |
 | 💸 | [Capture - Quick Notes](https://apps.apple.com/app/apple-store/id6458535284) | Easily capture your thoughts & ideas on the go and export them to your favourite apps. | **50% OFF** Lifetime plan with code **BLACKFRIDAY** |
+| 💸 | [Chronoid - Automatic Time Tracking](https://www.chronoid.app?utm_source=mRs-Black-Friday-Deals) | AI-powered time tracking with website blocking and productivity insights. Automatically categorize activities, block distractions, stay focused, all private on Mac. | **50% OFF** Lifetime plan with code **BLACKFRIDAY** |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
