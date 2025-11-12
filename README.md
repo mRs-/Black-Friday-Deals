@@ -127,7 +127,11 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
-| 💸 | [New Row Template](https://boltai.com/?utm_source=mrsbf) |Example description |**BFCM25** |
+| 💸 | [The Hacking with Swift Everything Pack](https://twostraws.gumroad.com/l/hws-everything/blackfriday25) | The world's biggest collection of Swift tutorials, for one unbeatable price 🔥 | [50% OFF with link](https://twostraws.gumroad.com/l/hws-everything/blackfriday25)
+| 💸 | [The Swift Power Pack](https://gumroad.com/l/swift-power-pack/blackfriday25) | Everything you need to jumpstart learning Swift and SwiftUI. | [50% OFF with link](https://gumroad.com/l/swift-power-pack/blackfriday25)
+| 💸 | [The Swift Platform Pack](https://gumroad.com/l/swift-platform-pack/blackfriday25) | Learn to build apps for macOS, watchOS, and beyond. | [50% OFF with link](https://gumroad.com/l/swift-platform-pack/blackfriday25)
+| 💸 | [The Swift Plus Pack](https://gumroad.com/l/swift-plus-pack/blackfriday25) | Take your career to the next level by mastering Swift Testing, design patterns, and more. | [50% OFF with link](https://gumroad.com/l/swift-plus-pack/blackfriday25)
+| 💸 | [Everything but the Code](https://gumroad.com/l/everything-but-the-code/blackfriday25) | Learn how the experts design, price, position, and promote apps for maximum success. Code got you started – this gets you *paid*. | [50% OFF with link](https://twostraws.gumroad.com/l/hws-everything/blackfriday25)
 
 ⬆️ | [Go to Top](#table-of-contents)
 
