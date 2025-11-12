@@ -16,7 +16,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 - [🌈 Marketing Software](#-marketing-software)
 - [🎩 Security Software](#tophat-security-software)
 - [🎛 Utility Software](#-utility-software)
-- [📌 Productivity Software](#-productivity-software)
+- [📌 Productivity Software](Productivity Software)
 - [🎥 Video Software](#-video-software)
 - [🎨 Graphic Software](#-graphic-software)
 - [🏝️ Lifestyle](#%EF%B8%8F-lifestyle)
@@ -40,7 +40,6 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 | -- | ---| ------ | ------ |
 | 💰 | [Proxyman](https://proxyman.com/?utm_source=black-friday-2025) | Need to capture HTTPS request on your iPhone or Android device? Proxyman is what you need. Best-in-class HTTP debugging proxy for macOS and iOS |30% OFF - **BLACKFRIDAY2025** |
 | 💸 | [DevUtils](https://devutils.com) | All-in-one toolbox for developers. Fully supports Apple Silicon & macOS Ventura. | 50% OFF with code **BLACKFRIDAY2025** |
-| 💸 | [Compresto](https://compresto.app/pricing?ref=Black-Friday-Deals) | Video, image, gif, and PDF compression for macOS. | 40% OFF with code **BFCM25** |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
@@ -84,6 +83,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 | 💸 | [Tiny Shield](https://tinyshield.proxyman.com/?utm_source=black-friday-2025) | Alternative to Little Snitch Mini - See all traffic from your Mac and block it | 60% OFF with code **BLACKFRIDAY2025** |
 | 💰 | [Anybox](https://anybox.app) | Bookmarking App on macOS and iOS | Up to 30% OFF on App Store |
 | 💸 | [Capture - Quick Notes](https://apps.apple.com/app/apple-store/id6458535284) | Easily capture your thoughts & ideas on the go and export them to your favourite apps. | **50% OFF** Lifetime plan with code **BLACKFRIDAY** |
+| 💸 | [Chronoid - Automatic Time Tracking](https://www.chronoid.app?utm_source=mRs-Black-Friday-Deals) | AI-powered time tracking with website blocking and productivity insights. Automatically categorize activities, block distractions, stay focused, all private on Mac. | **50% OFF** Lifetime plan with code **BLACKFRIDAY** |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
