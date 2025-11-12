@@ -138,6 +138,8 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 | 💸 | [PDF Pals](https://pdfpals.com/?utm_source=mrsbf) | Instantly chat with any PDF on your Mac. Native, fast and respect your privacy. | 51% OFF with code **BFCM25** |
 | 💸 | [Mathy - Math Answer Scanner](https://apps.apple.com/app/apple-store/id6746950449) | Your pocket math tutor that solves and explains equations instantly from text or a photo. | **50% OFF** yearly plan with code **BLACKFRIDAY** |
 | 💸 | [Chemy - Chemistry Answers](https://apps.apple.com/app/apple-store/id6747715456) | Your pocket chemistry tutor that solves and explains chemistry problems instantly from text or a photo. | **50% OFF** yearly plan with code **BLACKFRIDAY** |
+| 💰 | [SpatialRead](https://spatialread.com/?utm_source=mrs) | Quickly understand complex research papers with AI-powered explanations. | **45% OFF** Lifetime plan ($49) |
+
 
 ⬆️ | [Go to Top](#table-of-contents)
 
