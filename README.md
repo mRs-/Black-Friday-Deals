@@ -122,8 +122,8 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
-| 💸 | [Glass](https://glass.photo/) | Discover a new home for your photography with Glass — the subscription-based, community-driven platform designed by photographers, for photographers. | **50% OFF** first year with code **BLACKFRIDAY25** |
 | 💸 | [Mockly](https://getmockly.com/?utm_source=mrsbf) |Create realistic one-on-one and group chat mockups (and videos) for WhatsApp, Messenger, Instagram, iMessage, Telegram, Slack, and more. Ideal for marketing, social media, creators, and filmmakers. | 20% off on weekly subscription, 50% off on lifetime subscription, no code needed | 
+| 💸 | [Glass](https://glass.photo/) | Discover a new home for your photography with Glass — the subscription-based, community-driven platform designed by photographers, for photographers. | **50% OFF** first year with code **BLACKFRIDAY25** |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
