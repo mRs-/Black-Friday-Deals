@@ -72,6 +72,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
 | 💰 | [Folder Preview Pro](https://anybox.ltd/folder-preview-pro) | Quick Look Inside Folders and Archive Files on macOS |30% OFF with code **BFCM2025**|
+| 💸 | [Pify - Convert Picture to PDF](https://apps.apple.com/app/apple-store/id6748066045) | The easiest way to turn your photos and images into polished PDFs in just a few taps. | **66% OFF** Lifetime plan with code **BLACKFRIDAY** |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
@@ -81,6 +82,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 | -- | ---| ------ | ------ |
 | 💸 | [Tiny Shield](https://tinyshield.proxyman.com/?utm_source=black-friday-2025) | Alternative to Little Snitch Mini - See all traffic from your Mac and block it | 60% OFF with code **BLACKFRIDAY2025** |
 | 💰 | [Anybox](https://anybox.app) | Bookmarking App on macOS and iOS | Up to 30% OFF on App Store |
+| 💸 | [Capture - Quick Notes](https://apps.apple.com/app/apple-store/id6458535284) | Easily capture your thoughts & ideas on the go and export them to your favourite apps. | **50% OFF** Lifetime plan with code **BLACKFRIDAY** |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
@@ -105,7 +107,8 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
-| 💸 | [New Row Template](https://example.com/?utm_source=mrsbf) |Example description |**BFCM25** |
+| 💸 | [Cuts - Hairstyle Try On Men](https://apps.apple.com/app/apple-store/id6753205043) | The easiest way to try instant men’s haircuts and colors with a quick selfie. | **50% OFF** first week with code **BLACKFRIDAY** |
+| 💸 | [Gardenly - AI Garden Design](https://apps.apple.com/app/apple-store/id6747178697) | Transform your garden instantly from one photo with photorealistic garden designs. | **50% OFF** first week with code **BLACKFRIDAY** |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
@@ -122,7 +125,8 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
 | 💸 | [PDF Pals](https://pdfpals.com/?utm_source=mrsbf) | Instantly chat with any PDF on your Mac. Native, fast and respect your privacy. | 51% OFF with code **BFCM25** |
-| 💸 | [New Row Template](https://example.com/?utm_source=mrsbf) |Example description |**BFCM25** |
+| 💸 | [Mathy - Math Answer Scanner](https://apps.apple.com/app/apple-store/id6746950449) | Your pocket math tutor that solves and explains equations instantly from text or a photo. | **50% OFF** yearly plan with code **BLACKFRIDAY** |
+| 💸 | [Chemy - Chemistry Answers](https://apps.apple.com/app/apple-store/id6747715456) | Your pocket chemistry tutor that solves and explains chemistry problems instantly from text or a photo. | **50% OFF** yearly plan with code **BLACKFRIDAY** |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
@@ -158,7 +162,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
-| 💸 | [New Row Template](https://example.com/?utm_source=mrsbf) |Example description |**BFCM25** |
+| 💰 | [Calorific - Nutrition Tracker](https://apps.apple.com/app/apple-store/id6645043253) | Quickly capture your meals and get instant nutritional insights. | **30% OFF** yearly plan with code **BLACKFRIDAY** |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
