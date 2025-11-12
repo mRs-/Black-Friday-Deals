@@ -47,14 +47,14 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
 | 💸 | [BoltAI](https://boltai.com/?utm_source=mrsbf) | Best AI client for Mac. Instantly switch between 300+ AI models. Feature-packed, Native Performance, Private by default. | 51% OFF with code **BFCM25** |
-| 💸 | [New Row Template](https://boltai.com/?utm_source=mrsbf) |Example description |**BFCM25** |
+| 💸 | [New Row Template](https://example.com/?utm_source=mrsbf) |Example description |**BFCM25** |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
 ## 🛠 Marketing Software
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
-| 💸 | [New Row Template](https://boltai.com/?utm_source=mrsbf) |Example description |**BFCM25** |
+| 💸 | [New Row Template](https://example.com/?utm_source=mrsbf) |Example description |**BFCM25** |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
@@ -62,7 +62,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
-| 💸 | [New Row Template](https://boltai.com/?utm_source=mrsbf) |Example description |**BFCM25** |
+| 💸 | [New Row Template](https://example.com/?utm_source=mrsbf) |Example description |**BFCM25** |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
@@ -70,7 +70,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
-| 💸 | [New Row Template](https://boltai.com/?utm_source=mrsbf) |Example description |**BFCM25** |
+| 💸 | [New Row Template](https://example.com/?utm_source=mrsbf) |Example description |**BFCM25** |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
@@ -86,7 +86,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
-| 💸 | [New Row Template](https://boltai.com/?utm_source=mrsbf) |Example description |**BFCM25** |
+| 💸 | [New Row Template](https://example.com/?utm_source=mrsbf) |Example description |**BFCM25** |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
@@ -95,7 +95,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
 | 💸 | [Sitely 6](https://sitely.app) | Visual + AI Website Builder for macOS | 50% OFF * NO CODE REQUIRED * |
-| 💸 | [New Row Template](https://boltai.com/?utm_source=mrsbf) |Example description |**BFCM25** |
+| 💸 | [New Row Template](https://example.com/?utm_source=mrsbf) |Example description |**BFCM25** |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
@@ -103,7 +103,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
-| 💸 | [New Row Template](https://boltai.com/?utm_source=mrsbf) |Example description |**BFCM25** |
+| 💸 | [New Row Template](https://example.com/?utm_source=mrsbf) |Example description |**BFCM25** |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
@@ -111,7 +111,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
-| 💸 | [New Row Template](https://boltai.com/?utm_source=mrsbf) |Example description |**BFCM25** |
+| 💸 | [New Row Template](https://example.com/?utm_source=mrsbf) |Example description |**BFCM25** |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
@@ -120,7 +120,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
 | 💸 | [PDF Pals](https://pdfpals.com/?utm_source=mrsbf) | Instantly chat with any PDF on your Mac. Native, fast and respect your privacy. | 51% OFF with code **BFCM25** |
-| 💸 | [New Row Template](https://boltai.com/?utm_source=mrsbf) |Example description |**BFCM25** |
+| 💸 | [New Row Template](https://example.com/?utm_source=mrsbf) |Example description |**BFCM25** |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
@@ -140,7 +140,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
-| 💸 | [New Row Template](https://boltai.com/?utm_source=mrsbf) |Example description |**BFCM25** |
+| 💸 | [New Row Template](https://example.com/?utm_source=mrsbf) |Example description |**BFCM25** |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
@@ -148,7 +148,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
-| 💸 | [New Row Template](https://boltai.com/?utm_source=mrsbf) |Example description |**BFCM25** |
+| 💸 | [New Row Template](https://example.com/?utm_source=mrsbf) |Example description |**BFCM25** |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
@@ -156,7 +156,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
-| 💸 | [New Row Template](https://boltai.com/?utm_source=mrsbf) |Example description |**BFCM25** |
+| 💸 | [New Row Template](https://example.com/?utm_source=mrsbf) |Example description |**BFCM25** |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
@@ -164,7 +164,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
-| 💸 | [New Row Template](https://boltai.com/?utm_source=mrsbf) |Example description |**BFCM25** |
+| 💸 | [New Row Template](https://example.com/?utm_source=mrsbf) |Example description |**BFCM25** |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
@@ -172,7 +172,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
-| 💸 | [New Row Template](https://boltai.com/?utm_source=mrsbf) |Example description |**BFCM25** |
+| 💸 | [New Row Template](https://example.com/?utm_source=mrsbf) |Example description |**BFCM25** |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
@@ -180,7 +180,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
-| 💸 | [New Row Template](https://boltai.com/?utm_source=mrsbf) |Example description |**BFCM25** |
+| 💸 | [New Row Template](https://example.com/?utm_source=mrsbf) |Example description |**BFCM25** |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
@@ -188,7 +188,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
-| 💸 | [New Row Template](https://boltai.com/?utm_source=mrsbf) |Example description |**BFCM25** |
+| 💸 | [New Row Template](https://example.com/?utm_source=mrsbf) |Example description |**BFCM25** |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
@@ -196,7 +196,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
-| 💸 | [New Row Template](https://boltai.com/?utm_source=mrsbf) |Example description |**BFCM25** |
+| 💸 | [New Row Template](https://example.com/?utm_source=mrsbf) |Example description |**BFCM25** |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
@@ -204,7 +204,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
-| 💸 | [New Row Template](https://boltai.com/?utm_source=mrsbf) |Example description |**BFCM25** |
+| 💸 | [New Row Template](https://example.com/?utm_source=mrsbf) |Example description |**BFCM25** |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
@@ -212,6 +212,6 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
-| 💸 | [New Row Template](https://boltai.com/?utm_source=mrsbf) |Example description |**BFCM25** |
+| 💸 | [New Row Template](https://example.com/?utm_source=mrsbf) |Example description |**BFCM25** |
 
 ⬆️ | [Go to Top](#table-of-contents)
