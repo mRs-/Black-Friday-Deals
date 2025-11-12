@@ -46,6 +46,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 | 💸 | [BucketMate](https://bucketmate.app/pricing?ref=Black-Friday-Deals) | a Finder-style S3-compatible manager for macOS. | 70% OFF with code **BLACKFRIDAY11** |
 | 💰 | [Tower](https://www.git-tower.com/) | Powerful Git client for Mac and Windows. | 30% OFF any plan for new customers only, no coupon needed (Nov 25–Dec 7) |
 | 💰 | [Dirstarter](https://dirstarter.com?discountCode=BF2025) | Launch Your Directory Website and Start Making Money Today | **40% OFF** on all tiers with code **BF2025** |
+| 💸 | [KloudUtils](https://kloudutils.com/) | Your Toolbox For Daily Work - AWS, K8S, Web and Dev tasks & Shareable links  | **50% OFF** Lifetime License with code **LAUNCH50** |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
