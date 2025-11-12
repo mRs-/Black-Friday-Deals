@@ -46,8 +46,8 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 | 💸 | [BucketMate](https://bucketmate.app/pricing?ref=Black-Friday-Deals) | a Finder-style S3-compatible manager for macOS. | 70% OFF with code **BLACKFRIDAY11** |
 | 💰 | [Tower](https://www.git-tower.com/) | Powerful Git client for Mac and Windows. | 30% OFF any plan for new customers only, no coupon needed (Nov 25–Dec 7) |
 | 💰 | [Dirstarter](https://dirstarter.com?discountCode=BF2025) | Launch Your Directory Website and Start Making Money Today | **40% OFF** on all tiers with code **BF2025** |
-| ⌛ | [Crontap](https://crontap.com/) | Schedule recurring API calls without the hassle. | **40% off** with discount code **BF2025** |
-| 🏏 | [Clobbr](https://clobbr.app) | The app & CLI tool to load test your API endpoints. | **50% off** in the AppStore (already applied) |
+| 💰 | [Crontap](https://crontap.com/) | Schedule recurring API calls without the hassle. | **40% off** with discount code **BF2025** |
+| 💸 | [Clobbr](https://clobbr.app) | The app & CLI tool to load test your API endpoints. | **50% off** in the AppStore (already applied) |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
@@ -60,7 +60,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 | 💸 | [TypingMind](https://www.typingmind.com/?utm_source=mrsbf) |Chat UI for ChatGPT, Claude, Gemini to use with your API key. Support MCP, multi-model, Artifact, Projects, Vision, Canvas, AI agents builder, DALL-E, Plugins, etc. | 60% OFF Lifetime **BLACKFRIDAY2025** |
 | 💸 | [RabbitHoles AI](https://www.rabbitholes.ai/?utm_source=mrsbf) | Chat with AI models on an Infinite Canvas. Bring your own API keys for ChatGPT, Claude, Gemini, xAI, OpenRouter, Groq, etc. Local stored | 51% OFF with code **BLACKFRIDAY2025** |
 | 💰 | [HyperWhisper](https://hyperwhisper.com/?utm_source=tonybf) | Highly customizable speech-to-text. Ultra-fast and accurate. Offline models. 8+ STT providers. | 50% OFF Lifetime **BLACKFRIDAY2025** |
-| 📃 | [Page AI](https://pageai.pro) | The website generator that 1 shots production codebases, with design, SEO & copy! | **50% OFF** with code **BF2025** |
+| 💸 | [Page AI](https://pageai.pro) | The website generator that 1 shots production codebases, with design, SEO & copy! | **50% OFF** with code **BF2025** |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
