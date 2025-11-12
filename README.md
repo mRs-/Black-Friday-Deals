@@ -63,7 +63,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
-| 💸 | [New Row Template](https://example.com/?utm_source=mrsbf) |Example description |**BFCM25** |
+| 💰 | [New Row Template](https://example.com/?utm_source=mrsbf) |Example description |**BFCM25** |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
