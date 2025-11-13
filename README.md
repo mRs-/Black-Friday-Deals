@@ -62,6 +62,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 | 💸 | [RabbitHoles AI](https://www.rabbitholes.ai/?utm_source=mrsbf) | Chat with AI models on an Infinite Canvas. Bring your own API keys for ChatGPT, Claude, Gemini, xAI, OpenRouter, Groq, etc. Local stored | 51% OFF with code **BLACKFRIDAY2025** |
 | 💰 | [HyperWhisper](https://hyperwhisper.com/?utm_source=tonybf) | Highly customizable speech-to-text. Ultra-fast and accurate. Offline models. 8+ STT providers. | 50% OFF Lifetime **BLACKFRIDAY2025** |
 | 💸 | [Page AI](https://pageai.pro) | The website generator that 1 shots production codebases, with design, SEO & copy! | **50% OFF** with code **BF2025** |
+| 💸 | [WhisperUI](https://whisperui.com/desktop?utm_source=mrsbf) | Affordable, accurate transcription powered by OpenAI Whisper | 55% OFF |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
