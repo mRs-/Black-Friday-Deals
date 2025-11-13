@@ -174,7 +174,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
-| 💸 | [New Row Template](https://example.com/?utm_source=mrsbf) |Example description |**BFCM25** |
+| 💸 | [**LabEx**](https://labex.io/learn) | Learn Linux, DevOps & Cybersecurity with Hands-on Labs | [50% OFF for Two Years](https://labex.io/checkout?type=4&coupon=2025BF50) (Coupon: 2025BF50) and [30% OFF for One Year](https://labex.io/checkout?type=2&coupon=2025BF30) (Coupon: 2025BF30) |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
