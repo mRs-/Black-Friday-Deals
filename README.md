@@ -77,7 +77,6 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
-| 💰 | [New Row Template](https://example.com/?utm_source=mrsbf) |Example description |**BFCM25** |
 | 💸 | [iScan.today](https://iscan.today/?utm_source=mrsbf) | Discover Hidden Secrets Worth Thousands. | **50% off on all plans** with discount code **ISCANBF25** |
 
 ⬆️ | [Go to Top](#table-of-contents)
@@ -92,6 +91,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 | 🔥 | [Scrape Creators](https://scrapecreators.com/) | Real-time social media scraping API. Scrape social media + ad libraries. No monthly commitment. | Use code **BLACKFRIDAY2025** for **50% OFF** on Black Friday Only | 
 | 💸 | [Lasso](https://thelasso.app?utm_source=mRs-Black-Friday-Deals) | Grid-based, intuitive and fast Window Manager. Pay once, use forever | **50% OFF** on Single and Personal licence types with code **BLACKFRIDAY25** |
 | 💸 | [Launchy: App Launcher Switcher](https://apps.apple.com/us/app/launchy-app-launcher-switcher/id6739782043) | Radial app launcher & switcher for macOS with a customizable wheel and quick keyboard/mouse switching. | **57% OFF** (no code needed). Valid Nov 16–Dec 2, 2025 |
+| 💰 | [Wins](https://wins.cool?utm_source=blf) | Mac window manager — enhances the system App Switcher with Cmd-Tab Plus, improves Dock efficiency with Dock Preview, and offers many other practical features — all designed to feel just like Apple’s built-in features. | **40% OFF** with code **BLACKFRIDAY25**|
 
 
 ⬆️ | [Go to Top](#table-of-contents)
@@ -110,6 +110,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 | 💸 | [MailMaven](https://smallcubed.com/pricing) | The email app for professionals. Make email mangement more effective by tagging messages,  automating tasks, and customizing templates and signatures.| **50% OFF** From Nov 27 - Dec 2 |
 | 💸 | [KeyboardStack](https://keyboardstack.com) | Control your Mac entirely from the keyboard - mouse-free navigation to stay in flow and reduce wrist strain. | **50% OFF** (auto-applied) |
 | 💸 | [TimeGo Clock](https://apps.apple.com/cn/app/timego-clock/id6448658165?l=en-GB&mt=12) | TimeGo is a lightweight timer app with a fresh 2.0 Ul. Create custom countdown combinations for your workflow. | 50% OFF (Nov 20 - Dec 2) |
+| 💰 | [BugSmash](https://bugsmash.io) | Instant Visual Feedback & Collaboration for Product, Design, Marketing Teams & Agencies. Review live websites, designs, videos all in one place. Collect contextual annotated feedback from clients without asking them to login. | **$100 OFF** with code “SPLBF100”. Lifetime at just $149! |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
@@ -177,7 +178,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
-| 💸 | [New Row Template](https://example.com/?utm_source=mrsbf) |Example description |**BFCM25** |
+| 💸 | [**LabEx**](https://labex.io/learn) | Learn Linux, DevOps & Cybersecurity with Hands-on Labs | [50% OFF for Two Years](https://labex.io/checkout?type=4&coupon=2025BF50) (Coupon: 2025BF50) and [30% OFF for One Year](https://labex.io/checkout?type=2&coupon=2025BF30) (Coupon: 2025BF30) |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
