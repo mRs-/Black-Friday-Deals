@@ -70,6 +70,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 | 💰 | [TTS Reader AI](https://apps.apple.com/us/app/id6746346171) | Unlimited listening with premium realistic AI voices. Supports PDF, EPUB, Kindle, and more. | Annual plan: **$9.99** (no VAT, automatically applied) |
 | ⭐ | [Prompty](https://prompty.to/) | A unified LLM playground to manage prompts, compare models, and debug AI prompts with ease. | 50% OFF Lifetime Pro Plan **BLACKFRIDAY50** |
 | 🎥 | [inReels.ai](https://www.inreels.ai/?utm_source=bfdeals) | Create videos in seconds using AI. Turn text, PDFs, or images into videos. Repurpose content for YouTube, TikTok, Reels, and more. | **50% OFF on Yearly Plans** with code **BLACKFRIDAY2025** |
+| 🎙️ | [VoicePen](https://apps.apple.com/app/id6462815872) | Speech to text AI note taker. For meetings, lectures, voice memos, files, youtube, podcasts, and web links. Native on all  Apple devices: iPhone, iPad, Mac, Watch. | **30% OFF** with code **BLACKFRIDAY25** *plus free week trial* |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
