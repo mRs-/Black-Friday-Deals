@@ -245,7 +245,6 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
-| 💸 | [New Row Template](https://example.com/?utm_source=mrsbf) |Example description |**BFCM25** |
 | 💰 | [SubManager](https://submanager.app) | Track your subscriptions in one place on all your Apple devices and get notified whenever a subscription is due for renewal. | 75% off SubManager+ IAP ($1.49, available from Nov 28 to Dec 3) |
 
 ⬆️ | [Go to Top](#table-of-contents)
