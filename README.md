@@ -127,6 +127,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 | 💰 | [WhatPulse](https://whatpulse.org/?ref=mRs) | WhatPulse maps your time, typing, clicking, and app usage into beautiful stats, and turns them into insights with your personal dashboard. | **35%** on first year on annual plan with code **BFCM2025** |
 | 💰 | [MuteDeck](https://mutedeck.com/?ref=mRs) | Navigate any call app with consistent controls. Toggle Mute, Video, Record, Share, and Leave a meeting with a single press of a button. | **35%** off perpetual license with code **BFCM2025** |
 | 💰 | [Presentify](https://presentifyapp.com) | Screen annotation app for Mac, featured by Apple 4 times | 30% OFF (Nov 21 - Dec 2) No code Needed |
+| 💰 | [CleanClip](https://cleanclip.cc?ref=mRs) | The cleanest system-level clipboard manager for Mac, Clean UI/Immersive menu/Paste Queue/Smart List/Unlimited Storage | 30% OFF with code **BFC2025** | 
 
 
 ⬆️ | [Go to Top](#table-of-contents)
@@ -138,6 +139,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 | 💸 | [TranslateMom](https://translatemom.com/?utm_source=mrsbf) | Instantly caption, translate, or dub HD videos in 100+ languages with natural voices. | 70% OFF Annual Pro Plan ($159 vs $528) with code **BLACK** — 2,000 min/mo, 29-language dubbing, GPT-4o workflows, and watermark-free exports. |
 | 💰 | [Recut](https://getrecut.com/?ref=mrsbf) | Quickly edit videos by automatically cutting pauses | **$50 off** one-time purchase (auto-applied) |
 | 💰 | [FaceScreen](https://facescreenapp.com) | Show your face and brand on screen on top of everything else. | 30% OFF (Nov 21 - Dec 2) No code Needed |
+| 💸 | [ScreenSage Pro](https://screensage.pro?ref=mRs) | A screen recording app on maOS that simultaneously captures your screen, webcam, microphone. Create 2D/3D auto zoom with cursor tracking for beautiful demos; smooth A‑roll/B‑roll switching for beautiful vlogs | 53% OFF with code **BFS2025L** |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
