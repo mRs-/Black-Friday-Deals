@@ -190,6 +190,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 | 💸 | [The Swift Platform Pack](https://gumroad.com/l/swift-platform-pack/blackfriday25) | Learn to build apps for macOS, watchOS, and beyond. | [50% OFF with link](https://gumroad.com/l/swift-platform-pack/blackfriday25)
 | 💸 | [The Swift Plus Pack](https://gumroad.com/l/swift-plus-pack/blackfriday25) | Take your career to the next level by mastering Swift Testing, design patterns, and more. | [50% OFF with link](https://gumroad.com/l/swift-plus-pack/blackfriday25)
 | 💸 | [Everything but the Code](https://gumroad.com/l/everything-but-the-code/blackfriday25) | Learn how the experts design, price, position, and promote apps for maximum success. Code got you started – this gets you *paid*. | [50% OFF with link](https://twostraws.gumroad.com/l/hws-everything/blackfriday25)
+| 💸 | [Indexing Beyond the Basics](https://goodindexes.com/) | Learn to create indexes for your slow queries by following simple principles. | 50% OFF (automatically applied)
 
 ⬆️ | [Go to Top](#table-of-contents)
 
