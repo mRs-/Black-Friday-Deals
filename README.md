@@ -120,8 +120,8 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
-| 💸 | [New Row Template](https://example.com/?utm_source=mrsbf) |Example description |**BFCM25** |
 | 💸 | [TranslateMom](https://translatemom.com/?utm_source=mrsbf) | Instantly caption, translate, or dub HD videos in 100+ languages with natural voices. | 70% OFF Annual Pro Plan ($159 vs $528) with code **BLACK** — 2,000 min/mo, 29-language dubbing, GPT-4o workflows, and watermark-free exports. |
+| 💰 | [Recut](https://getrecut.com/?ref=mrsbf) | Quickly edit videos by automatically cutting pauses | **$50 off** one-time purchase (auto-applied) |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
