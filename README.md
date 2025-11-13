@@ -38,6 +38,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
+| 💰 | [FullStro](http://fullstro.com/black-friday-deals/) | FullStro is an all-in-one multi-channel business automation platform that helps e-commerce businesses manage inventory, orders, and websites effortlessly. No code needed, fully integrated, and synchronized across sales, payments, and delivery systems. |70% OFF - Auto-Applied |
 | 💰 | [Proxyman](https://proxyman.com/?utm_source=black-friday-2025) | Need to capture HTTPS request on your iPhone or Android device? Proxyman is what you need. Best-in-class HTTP debugging proxy for macOS and iOS |30% OFF - **BLACKFRIDAY2025** |
 | 💸 | [DevUtils](https://devutils.com) | All-in-one toolbox for developers. Fully supports Apple Silicon & macOS Ventura. | 50% OFF with code **BLACKFRIDAY2025** |
 | 💰 | [Compresto](https://compresto.app/pricing?ref=Black-Friday-Deals) | Video, image, gif, and PDF compression for macOS. | 40% OFF with code **BFCM25** |
@@ -50,7 +51,6 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 | 💸 | [Clobbr](https://clobbr.app) | The app & CLI tool to load test your API endpoints. | **50% off** in the AppStore (already applied) |
 | 💸 | [KloudUtils](https://kloudutils.com/) | Your Toolbox For Daily Work - AWS, K8S, Web and Dev tasks & Shareable links  | **50% OFF** Lifetime License with code **LAUNCH50** |
 | 💸 | [KeygenGo](https://keygengo.5km.tech) | A native macOS app that transforms your Keygen.sh experience. Manage licenses, track users, and monitor products through an elegant visual interface. | 50% OFF for Lifetime Plan with code **BF2025** (Nov 20 - Dec 2) |
-| ☁️ | [DNSDeck](https://apps.apple.com/us/app/dnsdeck-manage-dns-zones/id6753925998?utm_source=BF-2025) | A powerful macOS DNS zone management client for CloudFlare and AWS Route 53. | ****50% OFF**** ($4.99) one-time purchase via the App Store |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
@@ -98,7 +98,6 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 | 💸 | [Launchy: App Launcher Switcher](https://apps.apple.com/us/app/launchy-app-launcher-switcher/id6739782043) | Radial app launcher & switcher for macOS with a customizable wheel and quick keyboard/mouse switching. | **57% OFF** (no code needed). Valid Nov 16–Dec 2, 2025 |
 | 💰 | [Wins](https://wins.cool?utm_source=blf) | Mac window manager — enhances the system App Switcher with Cmd-Tab Plus, improves Dock efficiency with Dock Preview, and offers many other practical features — all designed to feel just like Apple’s built-in features. | **40% OFF** with code **BLACKFRIDAY25**|
 | 💸 | [Pretty Progress](https://prettyprogress.app/download) | Beautiful countdown widgets on your Home Screen & Lock Screen (iOS & Android). | **50% OFF** Lifetime plan between 24 Nov and 3 Dec |
-| 💸 | [FileMinutes](https://www.fileminutes.com?utm_source=Black-Friday-Deals2) | A Better Way to Find Files on Your Mac | 50% OFF with code **BF2025** |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
@@ -120,10 +119,6 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 | 💰 | [BugSmash](https://bugsmash.io) | Instant Visual Feedback & Collaboration for Product, Design, Marketing Teams & Agencies. Review live websites, designs, videos all in one place. Collect contextual annotated feedback from clients without asking them to login. | **$100 OFF** with code “SPLBF100”. Lifetime at just $149! |
 | 💸 | [Juicy: Battery Alerts & Health](https://apps.apple.com/us/app/juicy-battery-alerts-health/id6752221257) | Get beautiful Mac battery alerts at any level, track battery health and monitor temperature. All from a beautiful Mac menu bar icon. | **50% OFF** with code "BF25"  |
 | 💸 | [DeskRest](https://deskrest.com/offers) | Smart break and posture reminder for macOS. Transform your workday. | 50% OFF (Nov 10 - Dec 2) |
-| 💸 | [TextSniper](https://textsniper.app) | Copy and paste any uncopyable text from your Mac's screen, listen to it with text-to-speech, or scan QR codes instantly. | 75% OFF with code **BFCM2025** |
-| 📊 | [WhatPulse](https://whatpulse.org/?ref=mRs) | WhatPulse maps your time, typing, clicking, and app usage into beautiful stats, and turns them into insights with your personal dashboard. | **35%** on first year on annual plan with code **BFCM2025** |
-| 📞 | [MuteDeck](https://mutedeck.com/?ref=mRs) | Navigate any call app with consistent controls. Toggle Mute, Video, Record, Share, and Leave a meeting with a single press of a button. | **35%** off perpetual license with code **BFCM2025** |
-
 
 ⬆️ | [Go to Top](#table-of-contents)
 
