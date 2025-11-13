@@ -73,8 +73,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 | 💰 | [TTS Reader AI](https://apps.apple.com/us/app/id6746346171) | Unlimited listening with premium realistic AI voices. Supports PDF, EPUB, Kindle, and more. | Annual plan: **$9.99** (no VAT, automatically applied) |
 | ⭐ | [Prompty](https://prompty.to/) | A unified LLM playground to manage prompts, compare models, and debug AI prompts with ease. | 50% OFF Lifetime Pro Plan **BLACKFRIDAY50** |
 | 🎥 | [inReels.ai](https://www.inreels.ai/?utm_source=bfdeals) | Create videos in seconds using AI. Turn text, PDFs, or images into videos. Repurpose content for YouTube, TikTok, Reels, and more. | **50% OFF on Yearly Plans** with code **BLACKFRIDAY2025** |
-| 💸 | [PromptKit – AI Prompt Generator](https://www.promptkit.app/?utm_source=mrsbf) | Generate, organize, and use prompts with top AI models while building your personal prompt library. | [**50% OFF** with code **BF2025**](https://apps.apple.com/redeem?ctx=offercodes&id=6504561145&code=BF2025) |
-
+| 🎙️ | [VoicePen](https://apps.apple.com/app/id6462815872) | Speech to text AI note taker. For meetings, lectures, voice memos, files, youtube, podcasts, and web links. Native on all  Apple devices: iPhone, iPad, Mac, Watch. | **30% OFF** with code **BLACKFRIDAY25** *plus free week trial* |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
@@ -107,7 +106,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 | 💸 | [Pretty Progress](https://prettyprogress.app/download) | Beautiful countdown widgets on your Home Screen & Lock Screen (iOS & Android). | **50% OFF** Lifetime plan between 24 Nov and 3 Dec |
 | 💸 | [FileMinutes](https://www.fileminutes.com?utm_source=Black-Friday-Deals2) | A Better Way to Find Files on Your Mac | 50% OFF with code **BF2025** |
 | 💰 | [KeyScreen](https://keyscreenapp.com) | The most customizable keystrokes viewer for Mac | 30% OFF (Nov 21 - Dec 2) No code Needed |
-| 💸 | [UnitKit – Unit Converter](https://apps.apple.com/us/app/conversion-calculator-unitkit/id6748941419) | Convert any unit with ease. UnitKit is your simple, flexible unit converter and conversion calculator. | [**50% OFF** with code **BF2025**](https://apps.apple.com/redeem?ctx=offercodes&id=6748941419&code=BF2025) |
+
 
 ⬆️ | [Go to Top](#table-of-contents)
 
@@ -132,6 +131,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 | 💰 | [WhatPulse](https://whatpulse.org/?ref=mRs) | WhatPulse maps your time, typing, clicking, and app usage into beautiful stats, and turns them into insights with your personal dashboard. | **35%** on first year on annual plan with code **BFCM2025** |
 | 💰 | [MuteDeck](https://mutedeck.com/?ref=mRs) | Navigate any call app with consistent controls. Toggle Mute, Video, Record, Share, and Leave a meeting with a single press of a button. | **35%** off perpetual license with code **BFCM2025** |
 | 💰 | [Presentify](https://presentifyapp.com) | Screen annotation app for Mac, featured by Apple 4 times | 30% OFF (Nov 21 - Dec 2) No code Needed |
+| 💰 | [CleanClip](https://cleanclip.cc?ref=mRs) | The cleanest system-level clipboard manager for Mac, Clean UI/Immersive menu/Paste Queue/Smart List/Unlimited Storage | 30% OFF with code **BFC2025** | 
 
 
 ⬆️ | [Go to Top](#table-of-contents)
@@ -143,6 +143,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 | 💸 | [TranslateMom](https://translatemom.com/?utm_source=mrsbf) | Instantly caption, translate, or dub HD videos in 100+ languages with natural voices. | 70% OFF Annual Pro Plan ($159 vs $528) with code **BLACK** — 2,000 min/mo, 29-language dubbing, GPT-4o workflows, and watermark-free exports. |
 | 💰 | [Recut](https://getrecut.com/?ref=mrsbf) | Quickly edit videos by automatically cutting pauses | **$50 off** one-time purchase (auto-applied) |
 | 💰 | [FaceScreen](https://facescreenapp.com) | Show your face and brand on screen on top of everything else. | 30% OFF (Nov 21 - Dec 2) No code Needed |
+| 💸 | [ScreenSage Pro](https://screensage.pro?ref=mRs) | A screen recording app on maOS that simultaneously captures your screen, webcam, microphone. Create 2D/3D auto zoom with cursor tracking for beautiful demos; smooth A‑roll/B‑roll switching for beautiful vlogs | 53% OFF with code **BFS2025L** |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
@@ -198,6 +199,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 | 💸 | [The Swift Platform Pack](https://gumroad.com/l/swift-platform-pack/blackfriday25) | Learn to build apps for macOS, watchOS, and beyond. | [50% OFF with link](https://gumroad.com/l/swift-platform-pack/blackfriday25)
 | 💸 | [The Swift Plus Pack](https://gumroad.com/l/swift-plus-pack/blackfriday25) | Take your career to the next level by mastering Swift Testing, design patterns, and more. | [50% OFF with link](https://gumroad.com/l/swift-plus-pack/blackfriday25)
 | 💸 | [Everything but the Code](https://gumroad.com/l/everything-but-the-code/blackfriday25) | Learn how the experts design, price, position, and promote apps for maximum success. Code got you started – this gets you *paid*. | [50% OFF with link](https://twostraws.gumroad.com/l/hws-everything/blackfriday25)
+| 💸 | [Indexing Beyond the Basics](https://goodindexes.com/) | Learn to create indexes for your slow queries by following simple principles. | 50% OFF (automatically applied)
 
 ⬆️ | [Go to Top](#table-of-contents)
 
@@ -233,6 +235,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
 | 💸 | [New Row Template](https://example.com/?utm_source=mrsbf) |Example description |**BFCM25** |
+| 💸 | [Tailkits UI](https://tailkits.com/ui/) | Modern library of over 200 customizable Tailwind components | **Up to 60% OFF with code BLACKFRIDAY2025** |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
@@ -240,7 +243,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
-| 💸 | [Imaginarium](https://apps.apple.com/us/app/ai-art-imaginarium/id6739706784) | Create stunning images, art, and photos with the state-of-the-art Flux Pro AI model. Unlock your visions and unleash your creativity. | [**50% OFF** with code **BF2025**](https://apps.apple.com/redeem?ctx=offercodes&id=6739706784&code=BF2025) |
+| 💸 | [New Row Template](https://example.com/?utm_source=mrsbf) |Example description |**BFCM25** |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
@@ -250,8 +253,6 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 | -- | ---| ------ | ------ |
 | 💸 | [New Row Template](https://example.com/?utm_source=mrsbf) |Example description |**BFCM25** |
 | 💰 | [SubManager](https://submanager.app) | Track your subscriptions in one place on all your Apple devices and get notified whenever a subscription is due for renewal. | 75% off SubManager+ IAP ($1.49, available from Nov 28 to Dec 3) |
-| 💸 | [Sumio – Net Worth Tracker](https://www.sumio.app) | Calculate and track the value of your net worth and investments. Get AI-generated insights and summaries to grow your wealth. | [**50% OFF** with code **BF2025**](https://apps.apple.com/redeem?ctx=offercodes&id=1560198579&code=BF2025) |
-| 💸 | [Foreign Currency Converter](https://apps.apple.com/us/app/foreign-currency-converter/id6751902789) | Effortless currency converter and money conversion calculator. | [**50% OFF** with code **BF2025**](https://apps.apple.com/redeem?ctx=offercodes&id=6751902789&code=BF2025) |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
@@ -259,7 +260,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
-| 💸 | [DirectionKit – GPS Compass](https://apps.apple.com/us/app/directionkit-compass/id6752239993) | Tap the map, set a point, and get GPS direction, bearing, and distance. Search for coordinates, save favorites, find places nearby, share locations, and sync via iCloud. | [**50% OFF**  with code **BF2025**](https://apps.apple.com/redeem?ctx=offercodes&id=6752239993&code=BF2025) |
+| 💸 | [New Row Template](https://example.com/?utm_source=mrsbf) |Example description |**BFCM25** |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
@@ -275,7 +276,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
-| 💸 | [ChezAI – Home Remodel](https://apps.apple.com/us/app/interior-design-ai-chezai/id6740142224) | Home Design & Remodel: ChezAI is your AI home designer and planner. Visualize, design, remodel, and transform your space like a pro with cutting-edge AI. | [**50% OFF** with code **BF2025**](https://apps.apple.com/redeem?ctx=offercodes&id=6740142224&code=BF2025) |
+| 💸 | [New Row Template](https://example.com/?utm_source=mrsbf) |Example description |**BFCM25** |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
