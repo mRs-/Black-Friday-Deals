@@ -236,7 +236,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 | --- | --------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------- |
 | 💰  | [SubManager](https://submanager.app)                      | Track your subscriptions in one place on all your Apple devices and get notified whenever a subscription is due for renewal. | 75% off SubManager+ IAP ($1.49, available from Nov 28 to Dec 3) |
 | 💸  | [Sumio – Net Worth Tracker](https://www.sumio.app) | Calculate and track the value of your net worth and investments. Get AI-generated insights and summaries to grow your wealth. | [**50% OFF** with code **BF2025**](https://apps.apple.com/redeem?ctx=offercodes&id=1560198579&code=BF2025)                                                      |
-| 💸  | [Foreign Currency Converter](https://apps.apple.com/us/app/foreign-currency-converter/id6751902789) | Effortless currency converter and money conversion calculator. | [**50% OFF** with code 2025**](https://apps.apple.com/redeem?ctx=offercodes&id=6751902789&code=BF2025)                                         |
+| 💸  | [Foreign Currency Converter](https://apps.apple.com/us/app/foreign-currency-converter/id6751902789) | Effortless currency converter and money conversion calculator. | [**50% OFF** with code **BF2025**](https://apps.apple.com/redeem?ctx=offercodes&id=6751902789&code=BF2025)                                         |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
