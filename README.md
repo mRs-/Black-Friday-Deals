@@ -114,6 +114,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 | 💸 | [TimeGo Clock](https://apps.apple.com/cn/app/timego-clock/id6448658165?l=en-GB&mt=12) | TimeGo is a lightweight timer app with a fresh 2.0 Ul. Create custom countdown combinations for your workflow. | 50% OFF (Nov 20 - Dec 2) |
 | 💰 | [BugSmash](https://bugsmash.io) | Instant Visual Feedback & Collaboration for Product, Design, Marketing Teams & Agencies. Review live websites, designs, videos all in one place. Collect contextual annotated feedback from clients without asking them to login. | **$100 OFF** with code “SPLBF100”. Lifetime at just $149! |
 | 💸 | [Juicy: Battery Alerts & Health](https://apps.apple.com/us/app/juicy-battery-alerts-health/id6752221257) | Get beautiful Mac battery alerts at any level, track battery health and monitor temperature. All from a beautiful Mac menu bar icon. | **50% OFF** with code "BF25"  |
+| 💸 | [DeskRest](https://deskrest.com/offers) | Smart break and posture reminder for macOS. Transform your workday. | 50% OFF (Nov 10 - Dec 2) |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
