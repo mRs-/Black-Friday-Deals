@@ -49,7 +49,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 | 💰 | [Crontap](https://crontap.com/) | Schedule recurring API calls without the hassle. | **40% off** with discount code **BF2025** |
 | 💸 | [Clobbr](https://clobbr.app) | The app & CLI tool to load test your API endpoints. | **50% off** in the AppStore (already applied) |
 | 💸 | [KloudUtils](https://kloudutils.com/) | Your Toolbox For Daily Work - AWS, K8S, Web and Dev tasks & Shareable links  | **50% OFF** Lifetime License with code **LAUNCH50** |
-
+| 💸 | [KeygenGo](https://keygengo.5km.tech) | A native macOS app that transforms your Keygen.sh experience. Manage licenses, track users, and monitor products through an elegant visual interface. | 50% OFF for Lifetime Plan with code **BF2025** (Nov 20 - Dec 2) |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
@@ -62,6 +62,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 | 💸 | [RabbitHoles AI](https://www.rabbitholes.ai/?utm_source=mrsbf) | Chat with AI models on an Infinite Canvas. Bring your own API keys for ChatGPT, Claude, Gemini, xAI, OpenRouter, Groq, etc. Local stored | 51% OFF with code **BLACKFRIDAY2025** |
 | 💰 | [HyperWhisper](https://hyperwhisper.com/?utm_source=tonybf) | Highly customizable speech-to-text. Ultra-fast and accurate. Offline models. 8+ STT providers. | 50% OFF Lifetime **BLACKFRIDAY2025** |
 | 💸 | [Page AI](https://pageai.pro) | The website generator that 1 shots production codebases, with design, SEO & copy! | **50% OFF** with code **BF2025** |
+| 💸 | [Orchard](https://orchard.5km.tech) | Orchard bridges MCP‑compatible AI assistants with your Apple ecosystem, turning plain language into real actions across native macOS apps—privately, instantly, and locally. | 50% OFF for Lifetime Plan with code **BF2025** (Nov 20 - Dec 2) |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
@@ -108,6 +109,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 | 💸 | [LookAway](https://lookaway.com/?utm_source=mRs-Black-Friday-Deals) | Smart break reminder app for macOS | 50% OFF with code **BFCM25** |
 | 💸 | [MailMaven](https://smallcubed.com/pricing) | The email app for professionals. Make email mangement more effective by tagging messages,  automating tasks, and customizing templates and signatures.| **50% OFF** From Nov 27 - Dec 2 |
 | 💸 | [KeyboardStack](https://keyboardstack.com) | Control your Mac entirely from the keyboard - mouse-free navigation to stay in flow and reduce wrist strain. | **50% OFF** (auto-applied) |
+| 💸 | [TimeGo Clock](https://apps.apple.com/cn/app/timego-clock/id6448658165?l=en-GB&mt=12) | TimeGo is a lightweight timer app with a fresh 2.0 Ul. Create custom countdown combinations for your workflow. | 50% OFF (Nov 20 - Dec 2) |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
@@ -126,6 +128,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 | -- | ---| ------ | ------ |
 | 💸 | [Sitely 6](https://sitely.app) | Visual + AI Website Builder for macOS | 50% OFF * NO CODE REQUIRED * |
 | 💸 | [New Row Template](https://example.com/?utm_source=mrsbf) |Example description |**BFCM25** |
+| 💰 | [Zipic](https://zipic.app) | A Mac image compression tool that optimizes images while preserving quality. Features multiple formats, batch processing, automated workflows, and local processing. | 33% OFF with code **BF2025** (Nov 20 - Dec 2) |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
