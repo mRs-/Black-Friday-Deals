@@ -71,6 +71,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 | ⭐ | [Prompty](https://prompty.to/) | A unified LLM playground to manage prompts, compare models, and debug AI prompts with ease. | 50% OFF Lifetime Pro Plan **BLACKFRIDAY50** |
 | 🎥 | [inReels.ai](https://www.inreels.ai/?utm_source=bfdeals) | Create videos in seconds using AI. Turn text, PDFs, or images into videos. Repurpose content for YouTube, TikTok, Reels, and more. | **50% OFF on Yearly Plans** with code **BLACKFRIDAY2025** |
 | 🎙️ | [VoicePen](https://apps.apple.com/app/id6462815872) | Speech to text AI note taker. For meetings, lectures, voice memos, files, youtube, podcasts, and web links. Native on all  Apple devices: iPhone, iPad, Mac, Watch. | **30% OFF** with code **BLACKFRIDAY25** *plus free week trial* |
+| 💸 | [Contentpen.ai](https://contentpen.ai/black-friday) | Contentpen.ai is an AI-driven blog creation tool built to streamline SEO-optimized writing workflows. It features keyword & SERP analysis, multiple AI agents for research, drafting & optimization, brand-voice alignment, and publishing support, making it easy to scale high-quality articles that perform in search. | **20% off** on monthly plans, **50% off** on annual plans, discount automatically applied at checkout. |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
@@ -78,6 +79,8 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
 | 💰 | [viral.app](https://viral.app) | UGC analytics platform to track TikTok, Instagram, and YouTube performance for brands and agencies. | 30% off the first 3 months on monthly plans with code **viralblackfriday30** (redeem by 2025-12-07). |
+| 💰 | [ContentStudio.io](https://contentstudio.io/black-friday) | ContentStudio is a unified social media and content marketing platform that helps brands and teams plan, create, publish, and analyse content. With smart scheduling, visual content calendars, AI-powered caption and image generation, and analytics, it helps you scale content creation while keeping quality and strategy intact. | **40% off** on the first annual plan, discount automatically applied at checkout. |
+| 💸 | [Replug.io](https://replug.io/black-friday) | Replug.io is a link management and branded short link platform tailored for marketers and agencies. It offers custom branded short links, bio-link pages, QR codes, link analytics, A/B testing, retargeting pixels, and white-label capabilities, so you can turn every link into a measurable marketing asset and boost conversions from clicks. | Flat **60% off** on all annual plans, discount automatically applied at checkout. |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
