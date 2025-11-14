@@ -56,6 +56,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 | 💸 | [Compot – SwiftUI Components](https://www.compotui.com/?utm_source=mrsbf) | Develop iOS apps faster with AI coding assistant and 100+ predesigned SwiftUI components. Explore SwiftUI and discover resources and tools for iOS app developers. | [**50% OFF** with code **BF2025**](https://apps.apple.com/redeem?ctx=offercodes&id=6471916279&code=BF2025) |
 | 💰 | [FullStro](http://fullstro.com/black-friday-deals/) | FullStro is an all-in-one multi-channel business automation platform that helps e-commerce businesses manage inventory, orders, and websites effortlessly. No code needed, fully integrated, and synchronized across sales, payments, and delivery systems. |70% OFF - Auto-Applied |
 | 💰 | [WhaleDeck](https://apple.co/3NQJi4w) | Effortlessly manage and monitor your Docker servers on your iPhone, iPad, and Mac. | Lifetime 20% off - Auto-Applied |
+| 💰 | [Ultimate Web Scraper](https://ultimatewebscraper.com/) | The best no-code web scraper chrome extension. Grab text, images, emails & links from any website with a single click. | 20% OFF with code **BLACKFRIDAY20** |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
