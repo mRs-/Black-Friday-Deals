@@ -76,6 +76,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 | 🎥 | [inReels.ai](https://www.inreels.ai/?utm_source=bfdeals) | Create videos in seconds using AI. Turn text, PDFs, or images into videos. Repurpose content for YouTube, TikTok, Reels, and more. | **50% OFF on Yearly Plans** with code **BLACKFRIDAY2025** |
 | 🎙️ | [VoicePen](https://apps.apple.com/app/id6462815872) | Speech to text AI note taker. For meetings, lectures, voice memos, files, youtube, podcasts, and web links. Native on all  Apple devices: iPhone, iPad, Mac, Watch. | **30% OFF** with code **BLACKFRIDAY25** *plus free week trial* |
 | 💸 | [Contentpen.ai](https://contentpen.ai/black-friday) | Contentpen.ai is an AI-driven blog creation tool built to streamline SEO-optimized writing workflows. It features keyword & SERP analysis, multiple AI agents for research, drafting & optimization, brand-voice alignment, and publishing support, making it easy to scale high-quality articles that perform in search. | **20% off** on monthly plans, **50% off** on annual plans, discount automatically applied at checkout. |
+| 💰 | [Fluent](https://fluentmac.app) | A superior BYOK context‑aware AI assistant for every app and browser tab. Stop app-switching or manual copy-pasting – start keeping your focus on things to be done, not tools. Use 450+ models or local AI. Customizable actions with shortcuts. Lifetime purchase. | 25% OFF **BLACKFRIDAY25** |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
