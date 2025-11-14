@@ -222,6 +222,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
 | 💰 | [Umami Manager](https://apple.co/40MP50F) | Monitor & Analyze & Manage your Umami Analytics on the go. Available for iOS & iPadOS. | Lifetime 25% off - Auto-Applied |
+| 💰 | [Motherboard](https://trymotherboard.com) | Motherboard brings all your key metrics into one dashboard. Works with any website. Saves you hours every week. Needs zero coding. | BF2K25 (40% off) |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
