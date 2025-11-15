@@ -113,6 +113,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 | 💸 | [Pretty Progress](https://prettyprogress.app/download) | Beautiful countdown widgets on your Home Screen & Lock Screen (iOS & Android). | **50% OFF** Lifetime plan between 24 Nov and 3 Dec |
 | 💸 | [FileMinutes](https://www.fileminutes.com?utm_source=Black-Friday-Deals2) | A Better Way to Find Files on Your Mac | 50% OFF with code **BF2025** |
 | 💰 | [KeyScreen](https://keyscreenapp.com) | The most customizable keystrokes viewer for Mac | 30% OFF (Nov 21 - Dec 2) No code Needed |
+| 💸 | [iSsl.today](https://issl.today) | Simple SSL monitoring that alerts you when certificates expire. | **100% off** for 1st month with discount code **FREESSL** (expires: 2025-11-30) |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
