@@ -247,6 +247,8 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 | -- | ---| ------ | ------ |
 | 💸 | [New Row Template](https://example.com/?utm_source=mrsbf) |Example description |**BFCM25** |
 | 💸 | [Tailkits UI](https://tailkits.com/ui/) | Modern library of over 200 customizable Tailwind components | **Up to 60% OFF with code BLACKFRIDAY2025** |
+| 💸 | [MGC UI](https://mgcui.framer.website/?utm_source=mrsbf) | Design system and UI Kit for Figma | 30% OFF with code **BF2025** |
+| 💸 | [MGC ICON](https://mgc.mingcute.com/?utm_source=mrsbf) | Carefully crafted icon pack collection featuring over 14,000 high-quality vector icons | 30% OFF with code **BF2025** |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
