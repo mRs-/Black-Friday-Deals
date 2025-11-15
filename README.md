@@ -138,7 +138,8 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 | 💰 | [WhatPulse](https://whatpulse.org/?ref=mRs) | WhatPulse maps your time, typing, clicking, and app usage into beautiful stats, and turns them into insights with your personal dashboard. | **35%** on first year on annual plan with code **BFCM2025** |
 | 💰 | [MuteDeck](https://mutedeck.com/?ref=mRs) | Navigate any call app with consistent controls. Toggle Mute, Video, Record, Share, and Leave a meeting with a single press of a button. | **35%** off perpetual license with code **BFCM2025** |
 | 💰 | [Presentify](https://presentifyapp.com) | Screen annotation app for Mac, featured by Apple 4 times | 30% OFF (Nov 21 - Dec 2) No code Needed |
-| 💰 | [CleanClip](https://cleanclip.cc?ref=mRs) | The cleanest system-level clipboard manager for Mac, Clean UI/Immersive menu/Paste Queue/Smart List/Unlimited Storage | 30% OFF with code **BFC2025** | 
+| 💰 | [CleanClip](https://cleanclip.cc?ref=mRs) | The cleanest system-level clipboard manager for Mac, Clean UI/Immersive menu/Paste Queue/Smart List/Unlimited Storage | 30% OFF with code **BFC2025** |
+| 💰 | [SupaSidebar](https://supasidebar.com) | SupaSidebar brings an Arc-style sidebar to Mac, letting you save and open links, files, and folders from any browser or Finder instantly. | 50% OFF with code **BLF50** |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
