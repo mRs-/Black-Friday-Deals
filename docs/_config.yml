@@ -1,0 +1,13 @@
+# Site settings for the README-driven Jekyll build
+name: Black Friday Deals
+title: "Black Friday Deals 2025"
+description: "Auto-generated site that mirrors README.md data with search and category filtering."
+url: ""
+baseurl: ""
+markdown: kramdown
+plugins:
+  - jekyll-github-metadata
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
