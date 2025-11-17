@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>{{ page.title | default: site.title }}</title>
+    {% if page.description or site.description %}
+    <meta
+      name="description"
+      content="{{ page.description | default: site.description | escape }}"
+    />
+    {% endif %}
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="{{ '/styles.css' | relative_url }}" />
+  </head>
+  <body
+    data-repo-owner="{{ site.github.owner_name | default: site.github.organization | default: '' }}"
+    data-repo-name="{{ site.github.repository_name | default: site.github.project_title | default: '' }}"
+    data-default-branch="{{ site.github.source.branch | default: 'master' }}"
+  >
+    {{ content }}
+    <script type="module" src="{{ '/app.js' | relative_url }}"></script>
+  </body>
+</html>

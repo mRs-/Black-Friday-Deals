@@ -2,6 +2,19 @@
 
 This is a list of all Black Friday Deals for macOS / iOS Software & Books in 2025. Feel free to contribute via Pull Request, making sure to add new offers _below_ existing ones.
 
+## 🚀 Deploying the static site on GitHub Pages
+
+1. In **Settings → Pages**, set **Build and deployment → Source** to **GitHub Actions** so Pages listens for deployments from workflows.
+2. The custom workflow at `.github/workflows/pages.yml` is triggered on every push to the `master` branch (or via **Run workflow**) and performs the recommended steps:
+   - Check out the repository with `actions/checkout`.
+   - Install Ruby/Bundler dependencies inside `docs/` with `ruby/setup-ruby`.
+   - Run `bundle exec jekyll build --destination ../_site` so the README-driven site becomes production-ready HTML.
+   - Upload the generated `_site/` directory with `actions/upload-pages-artifact`.
+   - Deploy the artifact to the `github-pages` environment through `actions/deploy-pages`.
+3. The environment is automatically created the first time the workflow runs; restrict deployments to the default branch if needed by adding a protection rule under **Settings → Environments → github-pages**.
+
+Once configured, every change merged into `master` rebuilds and publishes the static site without any manual steps.
+
 **Legend**
 
 | Emoji | Savings |
