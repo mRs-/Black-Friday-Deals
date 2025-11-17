@@ -59,6 +59,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 | 💰 | [Ultimate Web Scraper](https://ultimatewebscraper.com/) | The best no-code web scraper chrome extension. Grab text, images, emails & links from any website with a single click. | 20% OFF with code **BLACKFRIDAY20** |
 | 💸 | [KMPShip](https://www.kmpship.app/) | Ship iOS & Android apps from one codebase with Kotlin Multiplatform | 50% OFF with code **BLACKFRIDAY25** |
 | 💸 | [Dash](https://kapeli.com/dash) | Instant offline access to 200+ API documentation sets, snippets and more! | 50% OFF the first year with code [BLACKFRIDAY](https://kapeli.com/subscribe?coupon=BLACKFRIDAY) |
+| 💰 | [Verba](https://apple.co/43AG6kX) | String Catalog editor with AI capabilities to translate strings and generate comments using your own API keys | **50% OFF** Lifetime Package from Nov.28 to Dec.2 |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
@@ -144,6 +145,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 | 💰 | [Presentify](https://presentifyapp.com) | Screen annotation app for Mac, featured by Apple 4 times | 30% OFF (Nov 21 - Dec 2) No code Needed |
 | 💰 | [CleanClip](https://cleanclip.cc?ref=mRs) | The cleanest system-level clipboard manager for Mac, Clean UI/Immersive menu/Paste Queue/Smart List/Unlimited Storage | 30% OFF with code **BFC2025** |
 | 💰 | [SupaSidebar](https://supasidebar.com) | SupaSidebar brings an Arc-style sidebar to Mac, letting you save and open links, files, and folders from any browser or Finder instantly. | 50% OFF with code **BLF50** |
+| 💰 | [Pasta](https://apple.co/46omrEk) | Visual Clipboard Manager for your Mac | **50% OFF** Lifetime Package from Nov.28 to Dec.2 |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
@@ -179,6 +181,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 | 💸 | [Heart2Heart – Couples Questions](https://www.couplequestions.com) | Conversation starters to help you get to know each other better and fall in love.  | [**50% OFF** with code **BF2025**](https://apps.apple.com/redeem?ctx=offercodes&id=6501986735&code=BF2025) |
 | 💸 | [Kindest – Relationship Tracker](https://www.kindest.app) | Keep strong relationships with your friends and family. Kindest helps you start and keep track of healthy and fun habits to nurture connections with your loved ones. |  [**50% OFF** with code **BF2025**](https://apps.apple.com/redeem?ctx=offercodes&id=6453754317&code=BF2025) |
 | 💸 | [DriveDex](https://apple.co/3C8HoJX) | Track mileage and expenses for all your vehicles. Available for iOS, iPadOS, and visionOS. | Lifetime 50% off - Auto-Applied |
+| 💰 | [LEDit](https://apple.co/47mMM6W) | Turns your iPhone or iPad into a LED-screen matrix to display messages | **50% OFF** Lifetime Package from Nov.28 to Dec.2 |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
@@ -245,6 +248,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 | 💸 | [GetJacked](https://getjacked.app/download?utm_source=mrsbf) | GetJacked is a science-based hypertrophy coach on your iPhone. No more guesswork, just results. Train smarter with GetJacked. | 75% OFF Lifetime Premium Plan Discount automatically applied in App |
 | 💰 | [Dark Sleep for Apple TV](https://www.darksleep.app) | The #1 free sleep and relaxation app for Apple TV. Dolby Atmos soundscapes, calming videos, meditations, sunrise alarms, and more — all in one app. | 30% OFF lifetime purchase (in-app) | 2025-12-01 |
 | 💰 | [Steps & Beasts - Step Tracker](https://www.stepsandbeasts.app) | Gamified Step Tracker with a fun twist. Reach your goal every day, hatch an egg and collect 200 unique creatures. | 20% OFF yearly subscription (in-app) | 2025-11-30 |
+| 💸 | [Everlog](https://apple.co/3pmdUCn) | Full-featured journaling app for iPhone, iPad, Mac and Vision Pro | **40% OFF** Lifetime Package from Nov.28 to Dec.2 |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
