@@ -79,6 +79,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 | 💸 | [Contentpen.ai](https://contentpen.ai/black-friday) | Contentpen.ai is an AI-driven blog creation tool built to streamline SEO-optimized writing workflows. It features keyword & SERP analysis, multiple AI agents for research, drafting & optimization, brand-voice alignment, and publishing support, making it easy to scale high-quality articles that perform in search. | **20% off** on monthly plans, **50% off** on annual plans, discount automatically applied at checkout. |
 | 💰 | [Fluent](https://fluentmac.app) | A superior BYOK context‑aware AI assistant for every app and browser tab. Stop app-switching or manual copy-pasting – start keeping your focus on things to be done, not tools. Use 450+ models or local AI. Customizable actions with shortcuts. Lifetime purchase. | 25% OFF **BLACKFRIDAY25** |
 | 🚀 | [Aikeedo](https://aikeedo.com/self-hosted/) | Launch your own AI SaaS, branded and self-hosted. AI videos, images, and chat - all in one AI workspace. | **BFCM2025** 50% OFF (LIFETIME) |
+| 💰 | [SEOengine.ai](https://seoengine.ai) | SEOengine.ai deploys 5 specialized AI agents that analyze competitors, mine real user questions from Reddit/Quora, and generate 4,000-6,000 word AEO-optimized articles in your authentic brand voice—not generic ChatGPT content. From research to publication-ready content with E-E-A-T compliance, internal linking, and multimedia integration—all automated in one seamless workflow. | 35% OFF with code **BLACKFRIDAY** (Nov 17 - Dec 7)|
 
 ⬆️ | [Go to Top](#table-of-contents)
 
@@ -89,6 +90,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 | 💰 | [ContentStudio.io](https://contentstudio.io/black-friday) | ContentStudio is a unified social media and content marketing platform that helps brands and teams plan, create, publish, and analyse content. With smart scheduling, visual content calendars, AI-powered caption and image generation, and analytics, it helps you scale content creation while keeping quality and strategy intact. | **40% off** on the first annual plan, discount automatically applied at checkout. |
 | 💸 | [Replug.io](https://replug.io/black-friday) | Replug.io is a link management and branded short link platform tailored for marketers and agencies. It offers custom branded short links, bio-link pages, QR codes, link analytics, A/B testing, retargeting pixels, and white-label capabilities, so you can turn every link into a measurable marketing asset and boost conversions from clicks. | Flat **60% off** on all annual plans, discount automatically applied at checkout. |
 | 💰 | [Rising Trends](https://risingtrends.co) | Never miss a trending niche again! (Get access to 12,000 trending markets as well trending apps, mega trends and niche reports) | **40% off** by using code BF2025 (redeem before 2025-12-07)|
+| 💰 | [SEOengine.ai](https://seoengine.ai) | SEOengine.ai deploys 5 specialized AI agents that analyze competitors, mine real user questions from Reddit/Quora, and generate 4,000-6,000 word AEO-optimized articles in your authentic brand voice—not generic ChatGPT content. From research to publication-ready content with E-E-A-T compliance, internal linking, and multimedia integration—all automated in one seamless workflow. | 35% OFF with code **BLACKFRIDAY** (Nov 17 - Dec 7)|
 
 
 ⬆️ | [Go to Top](#table-of-contents)
@@ -286,7 +288,7 @@ This is a list of all Black Friday Deals for macOS / iOS Software & Books in 202
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
-| 💸 | [New Row Template](https://example.com/?utm_source=mrsbf) |Example description |**BFCM25** |
+| 💰 | [SEOengine.ai](https://seoengine.ai) | SEOengine.ai deploys 5 specialized AI agents that analyze competitors, mine real user questions from Reddit/Quora, and generate 4,000-6,000 word AEO-optimized articles in your authentic brand voice—not generic ChatGPT content. From research to publication-ready content with E-E-A-T compliance, internal linking, and multimedia integration—all automated in one seamless workflow. | 35% OFF with code **BLACKFRIDAY** (Nov 17 - Dec 7)|
 
 ⬆️ | [Go to Top](#table-of-contents)
 
