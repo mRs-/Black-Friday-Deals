@@ -165,6 +165,7 @@ Once configured, every change merged into `master` rebuilds and publishes the st
 | 💰 | [SupaSidebar](https://supasidebar.com) | SupaSidebar brings an Arc-style sidebar to Mac, letting you save and open links, files, and folders from any browser or Finder instantly. | 50% OFF with code **BLF50** |
 | 💰 | [Pasta](https://apple.co/46omrEk) | Visual Clipboard Manager for your Mac | **50% OFF** Lifetime Package from Nov.28 to Dec.2 |
 | 💰 | [XGetter](https://xgetter.com/?utm_source=Awesome-Black-Friday-Cyber-Monday) | Media downloader - Download media from YouTube, Douyin, Instagram, X, TikTok and 50+ platforms | Lifetime Package 30% off with discount code **BLACKFRIDAY2025** |
+| 💸 | [Supasend](https://supasend.app) | Quickly capture your notes & tasks instantly in your second brain apps 🧠 | 40% off on LIFETIME PLAN ✨ |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
