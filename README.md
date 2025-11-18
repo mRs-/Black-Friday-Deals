@@ -98,6 +98,9 @@ Once configured, every change merged into `master` rebuilds and publishes the st
 | 💸 | [Contentpen.ai](https://contentpen.ai/black-friday) | Contentpen.ai is an AI-driven blog creation tool built to streamline SEO-optimized writing workflows. It features keyword & SERP analysis, multiple AI agents for research, drafting & optimization, brand-voice alignment, and publishing support, making it easy to scale high-quality articles that perform in search. | **20% off** on monthly plans, **50% off** on annual plans, discount automatically applied at checkout. |
 | 💰 | [Fluent](https://fluentmac.app) | A superior BYOK context‑aware AI assistant for every app and browser tab. Stop app-switching or manual copy-pasting – start keeping your focus on things to be done, not tools. Use 450+ models or local AI. Customizable actions with shortcuts. Lifetime purchase. | 25% OFF **BLACKFRIDAY25** |
 | 💸 | [Aikeedo](https://aikeedo.com/self-hosted/) | Launch your own AI SaaS, branded and self-hosted. AI videos, images, and chat - all in one AI workspace. | **BFCM2025** 50% OFF (LIFETIME) |
+| 💸 | [SharpAPI](https://sharpapi.com/en/pricing/?utm_source=mrsbf) | AI workflow automation API for product descriptions, resume parsing, job-match scoring, SEO tags, and custom workflows. Built for developers who need reliable AI endpoints without managing models. | **50% OFF first year** with code **BF2025** |
+
+
 
 ⬆️ | [Go to Top](#table-of-contents)
 
