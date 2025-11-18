@@ -73,6 +73,7 @@ Once configured, every change merged into `master` rebuilds and publishes the st
 | 💸 | [KMPShip](https://www.kmpship.app/) | Ship iOS & Android apps from one codebase with Kotlin Multiplatform | 50% OFF with code **BLACKFRIDAY25** |
 | 💸 | [Dash](https://kapeli.com/dash) | Instant offline access to 200+ API documentation sets, snippets and more! | 50% OFF the first year with code [BLACKFRIDAY](https://kapeli.com/subscribe?coupon=BLACKFRIDAY) |
 | 💰 | [Verba](https://apple.co/43AG6kX) | String Catalog editor with AI capabilities to translate strings and generate comments using your own API keys | **50% OFF** Lifetime Package from Nov.28 to Dec.2 |
+| 💰 | [Kaleidoscope](https://kaleidoscope.app) | Effortlessly compare and merge any text, images, and folders. Kaleidoscope also compares Git branches, tags, or commits. | **40% OFF** for the first 2 years of subscription + 2 extra free months with code [**MRSBFD25**](https://cloud.kaleidoscope.app/store?discount_code=MRSBFD25&utm_source=trungdq88&utm_medium=referral&utm_campaign=MRSBFD25) |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
@@ -123,7 +124,7 @@ Once configured, every change merged into `master` rebuilds and publishes the st
 | 💰 | [Folder Preview Pro](https://anybox.ltd/folder-preview-pro) | Quick Look Inside Folders and Archive Files on macOS |30% OFF with code **BFCM2025**|
 | 💸 | [Pify - Convert Picture to PDF](https://apps.apple.com/app/apple-store/id6748066045) | The easiest way to turn your photos and images into polished PDFs in just a few taps. | **66% OFF** Lifetime plan with code **BLACKFRIDAY** |
 | 💸 | [Fileside](https://www.fileside.app/?ref=mRsbfd) | A modern multi-pane file manager with project-based workspaces. | **66% OFF** lifetime license between 24 Nov and 1 Dec |
-| 🔥 | [Scrape Creators](https://scrapecreators.com/) | Real-time social media scraping API. Scrape social media + ad libraries. No monthly commitment. | Use code **BLACKFRIDAY2025** for **50% OFF** on Black Friday Only | 
+| 🔥 | [Scrape Creators](https://scrapecreators.com/) | Real-time social media scraping API. Scrape social media + ad libraries. No monthly commitment. | Use code **BLACKFRIDAY2025** for **50% OFF** on Black Friday Only |
 | 💸 | [Lasso](https://thelasso.app?utm_source=mRs-Black-Friday-Deals) | Grid-based, intuitive and fast Window Manager. Pay once, use forever | **50% OFF** on Single and Personal licence types with code **BLACKFRIDAY25** |
 | 💸 | [Launchy: App Launcher Switcher](https://apps.apple.com/us/app/launchy-app-launcher-switcher/id6739782043) | Radial app launcher & switcher for macOS with a customizable wheel and quick keyboard/mouse switching. | **57% OFF** (no code needed). Valid Nov 16–Dec 2, 2025 |
 | 💰 | [Wins](https://wins.cool?utm_source=blf) | Mac window manager — enhances the system App Switcher with Cmd-Tab Plus, improves Dock efficiency with Dock Preview, and offers many other practical features — all designed to feel just like Apple’s built-in features. | **40% OFF** with code **BLACKFRIDAY25**|
@@ -202,7 +203,7 @@ Once configured, every change merged into `master` rebuilds and publishes the st
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
-| 💸 | [Mockly](https://getmockly.com/?utm_source=mrsbf) |Create realistic one-on-one and group chat mockups (and videos) for WhatsApp, Messenger, Instagram, iMessage, Telegram, Slack, and more. Ideal for marketing, social media, creators, and filmmakers. | 20% off on weekly subscription, 50% off on lifetime subscription, no code needed | 
+| 💸 | [Mockly](https://getmockly.com/?utm_source=mrsbf) |Create realistic one-on-one and group chat mockups (and videos) for WhatsApp, Messenger, Instagram, iMessage, Telegram, Slack, and more. Ideal for marketing, social media, creators, and filmmakers. | 20% off on weekly subscription, 50% off on lifetime subscription, no code needed |
 | 💸 | [Glass](https://glass.photo/) | Discover a new home for your photography with Glass — the subscription-based, community-driven platform designed by photographers, for photographers. | **50% OFF** first year with code **BLACKFRIDAY25** |
 | 🚀 | [Nuelink](https://www.nuelink.com/) | Nuelink is a social media management platform that automates scheduling, publishing, and content workflows across major platforms like Instagram, Twitter/X, LinkedIn, TikTok, and YouTube. It offers powerful features such as bulk scheduling, post recycling, analytics, content automation, integrations with tools like Zapier and n8n, AI-powered caption generation, and team collaboration tools. All designed to simplify content management and scale social media growth efficiently. | **30% off** monthly & Up to **65% off** yearly|
 
