@@ -75,6 +75,8 @@ Once configured, every change merged into `master` rebuilds and publishes the st
 | 💰 | [Verba](https://apple.co/43AG6kX) | String Catalog editor with AI capabilities to translate strings and generate comments using your own API keys | **50% OFF** Lifetime Package from Nov.28 to Dec.2 |
 | 💰 | [Kaleidoscope](https://kaleidoscope.app) | Effortlessly compare and merge any text, images, and folders. Kaleidoscope also compares Git branches, tags, or commits. | **40% OFF** for the first 2 years of subscription + 2 extra free months with code [**MRSBFD25**](https://cloud.kaleidoscope.app/store?discount_code=MRSBFD25&utm_source=trungdq88&utm_medium=referral&utm_campaign=MRSBFD25) |
 | 💸 | [RunJS](https://runjs.app) | A playground for JavaScript and TypeScript. Zero config needed. Just run your code and see instant feedback. | 30% OFF wifth code **BLACKFRIDAY2025** |
+| 💰 | [MkSaaS](https://mksaas.com) | Make Your AI SaaS Product in a weekend | **$30 OFF** Lifetime Package from Nov.18 to Dec.2 |
+| 💰 | [Mkdirs](https://mkdirs.com) | Launch AI-powered directory in 30 minutes | **$30 OFF** Lifetime Package from Nov.18 to Dec.2 |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
