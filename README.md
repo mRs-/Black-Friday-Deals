@@ -78,6 +78,7 @@ Once configured, every change merged into `master` rebuilds and publishes the st
 | 💰 | [MkSaaS](https://mksaas.com) | Make Your AI SaaS Product in a weekend | **$30 OFF** Lifetime Package from Nov.18 to Dec.2 |
 | 💰 | [Mkdirs](https://mkdirs.com) | Launch AI-powered directory in 30 minutes | **$30 OFF** Lifetime Package from Nov.18 to Dec.2 |
 | 💰 | [Unicorn Platform](https://unicornplatform.com/) | AI website builder to quickly create websites without design or dev skills for SaaS, Apps, Directories, Blogs, Personal pages | **20% OFF** first payment, code **JOHNRUSH** (Nov 21 to Dec 7) |
+| 💰 | [Dynomate](https://dynomate.io?utm_source=trungdq88-blackfriday) | Cross-platform Dynamodb GUI client for desktop with Multi-tab, multi-account support, SSO & MFA support, and more  | 30% off with code **BF25** (Nov 21 to Dec 31) |
 | 💸 | [Tailkit](https://tailkit.com/) | 640+ carefully crafted, easy to customize, fully responsive Tailwind components, templates and tools for all your Tailwind CSS based projects. 2,000+ code snippets for React, Vue.js, Alpine.js and HTML along with 10 templates are included. | Up to **50% OFF** for a limited number of licenses with code **BLACKFRIDAY2025** (Nov 24 - Dec 2, 2025) |
 
 ⬆️ | [Go to Top](#table-of-contents)
@@ -115,6 +116,7 @@ Once configured, every change merged into `master` rebuilds and publishes the st
 | 💰 | [Rising Trends](https://risingtrends.co) | Never miss a trending niche again! (Get access to 12,000 trending markets as well trending apps, mega trends and niche reports) | **40% off** by using code BF2025 (redeem before 2025-12-07)|
 | 💰 | [ListingBott](https://listingbott.com/) | Your ultimate solution to efficiently list your SaaS, tool, product, newsletter, or blog on 100 directories in just one click | **20% OFF** first payment, code **JOHNRUSH** (Nov 21 to Dec 7) |
 | 💰 | [TinyAdz](https://tinyadz.com/) | Ad network with no fluff, no fraud. Advertisers get real ROI, publishers earn legit revenue | **20% OFF** first payment, code **JOHNRUSH** (Nov 21 to Dec 7) |
+| 💰 | [WaveGen.ai](https://wavegen.ai) | Turn text content(e.g. blog url, podcast scripts) into clips / carousels for social media. Create, edit, schedule, publish all in one - turn expertise into visibility automatically, and consistently. | **40% OFF** yearly plan with code **BF2025** |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
@@ -143,6 +145,7 @@ Once configured, every change merged into `master` rebuilds and publishes the st
 | 💰 | [KeyScreen](https://keyscreenapp.com) | The most customizable keystrokes viewer for Mac | 30% OFF (Nov 21 - Dec 2) No code Needed |
 | 💸 | [iSsl.today](https://issl.today) | Simple SSL monitoring that alerts you when certificates expire. | **100% off** for 1st month with discount code **FREESSL** (expires: 2025-11-30) |
 | 💰 | [Keystro](https://keystro.app) | Display keystrokes, highlight cursor, and virtualize mechanical keyboard sounds. Massively enhance your tutorial and presentation. Available for Windows and MacOS for free with watermark. | **30% OFF** with code **BFRIDAY25** at checkout|
+| 💸 | [Unplugged: Battery Life tracking from Apple Watch](https://apps.apple.com/us/app/unplugged-battery-life-watch/id6476698892) | Your iPhone's battery level, displayed on your Apple Watch. | **UP TO 50% OFF** on Lifetime subcription. Use code **INDIEAPPSALES2025**. Valid Nov 22–Dec 3, 2025 |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
@@ -226,6 +229,7 @@ Once configured, every change merged into `master` rebuilds and publishes the st
 | 💸 | [Glass](https://glass.photo/) | Discover a new home for your photography with Glass — the subscription-based, community-driven platform designed by photographers, for photographers. | **50% OFF** first year with code **BLACKFRIDAY25** |
 | 💸 | [Nuelink](https://www.nuelink.com/) | Nuelink is a social media management platform that automates scheduling, publishing, and content workflows across major platforms like Instagram, Twitter/X, LinkedIn, TikTok, and YouTube. It offers powerful features such as bulk scheduling, post recycling, analytics, content automation, integrations with tools like Zapier and n8n, AI-powered caption generation, and team collaboration tools. All designed to simplify content management and scale social media growth efficiently. | **30% off** monthly & Up to **65% off** yearly|
 | 💰 | [SocialBott](https://socialbott.com/) | AI assistant managing your social media using your existing content — no fabricated advice | **20% OFF** first payment, code **JOHNRUSH** (Nov 21 to Dec 7) |
+| 💰 | [OutlierKit](https://outlierkit.com/) | AI Powered YouTube Research tool that helps you find outlier videos, low-competition & high-volume keywords, channel analytics, script analysis. | **30% OFF** on all plans, code **BFCM25** (Nov 17 to Dec 4) |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
