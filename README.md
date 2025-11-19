@@ -242,6 +242,7 @@ Once configured, every change merged into `master` rebuilds and publishes the st
 | 💸 | [Mathy - Math Answer Scanner](https://apps.apple.com/app/apple-store/id6746950449) | Your pocket math tutor that solves and explains equations instantly from text or a photo. | **50% OFF** yearly plan with code **BLACKFRIDAY** |
 | 💸 | [Chemy - Chemistry Answers](https://apps.apple.com/app/apple-store/id6747715456) | Your pocket chemistry tutor that solves and explains chemistry problems instantly from text or a photo. | **50% OFF** yearly plan with code **BLACKFRIDAY** |
 | 💰 | [SpatialRead](https://spatialread.com/?utm_source=mrs) | Quickly understand complex research papers with AI-powered explanations. | **45% OFF** Lifetime plan ($49) |
+| 💸 | [Thoughts - Quotes Manager](https://apps.apple.com/app/thoughts-inspiration-manager/id6444917751) | Remember what inspires you with Thoughts — a central place for all your quotes, thoughts, life lessons, and whatever else you want to remind yourself of. | **50% OFF Lifetime** with code BLACK25 |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
