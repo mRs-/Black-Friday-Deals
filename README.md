@@ -80,6 +80,7 @@ Once configured, every change merged into `master` rebuilds and publishes the st
 | 💰 | [Unicorn Platform](https://unicornplatform.com/) | AI website builder to quickly create websites without design or dev skills for SaaS, Apps, Directories, Blogs, Personal pages | **20% OFF** first payment, code **JOHNRUSH** (Nov 21 to Dec 7) |
 | 💰 | [Dynomate](https://dynomate.io?utm_source=trungdq88-blackfriday) | Cross-platform Dynamodb GUI client for desktop with Multi-tab, multi-account support, SSO & MFA support, and more  | 30% off with code **BF25** (Nov 21 to Dec 31) |
 | 💸 | [Tailkit](https://tailkit.com/) | 640+ carefully crafted, easy to customize, fully responsive Tailwind components, templates and tools for all your Tailwind CSS based projects. 2,000+ code snippets for React, Vue.js, Alpine.js and HTML along with 10 templates are included. | Up to **50% OFF** for a limited number of licenses with code **BLACKFRIDAY2025** (Nov 24 - Dec 2, 2025) |
+| 💰 | [KAppMaker](https://kappmaker.com/) | Kotlin & Compose Multiplatform mobile app boilerplate | **40% OFF**, code **BLACKFRIDAY40** (Nov 19 to Dec 1) |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
