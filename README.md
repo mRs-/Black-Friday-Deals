@@ -80,6 +80,7 @@ Once configured, every change merged into `master` rebuilds and publishes the st
 | 💰 | [Unicorn Platform](https://unicornplatform.com/) | AI website builder to quickly create websites without design or dev skills for SaaS, Apps, Directories, Blogs, Personal pages | **20% OFF** first payment, code **JOHNRUSH** (Nov 21 to Dec 7) |
 | 💰 | [Dynomate](https://dynomate.io?utm_source=trungdq88-blackfriday) | Cross-platform Dynamodb GUI client for desktop with Multi-tab, multi-account support, SSO & MFA support, and more  | 30% off with code **BF25** (Nov 21 to Dec 31) |
 | 💸 | [Tailkit](https://tailkit.com/) | 640+ carefully crafted, easy to customize, fully responsive Tailwind components, templates and tools for all your Tailwind CSS based projects. 2,000+ code snippets for React, Vue.js, Alpine.js and HTML along with 10 templates are included. | Up to **50% OFF** for a limited number of licenses with code **BLACKFRIDAY2025** (Nov 24 - Dec 2, 2025) |
+| 💰 | [DropDMG](https://c-command.com/dropdmg/) | The easiest way to create and work with Mac disk images (.dmg files). | 25% off with code **BLACKFRIDAY2025** |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
@@ -177,7 +178,8 @@ Once configured, every change merged into `master` rebuilds and publishes the st
 | 💰 | [XGetter](https://xgetter.com/?utm_source=Awesome-Black-Friday-Cyber-Monday) | Media downloader - Download media from YouTube, Douyin, Instagram, X, TikTok and 50+ platforms | Lifetime Package 30% off with discount code **BLACKFRIDAY2025** |
 | 💸 | [Supasend](https://supasend.app) | Quickly capture your notes & tasks instantly in your second brain apps 🧠 | 40% off on LIFETIME PLAN ✨ |
 | 💸 | [Voice Memos - Email Me](https://ww.emailmeapp.net) | The fastest way to record your thoughts. For iOS, iPadOS, macOS, watchOS, visionOS & CarPlay. | **50%** OFF. No promocode required |
-
+| 💰 | [EagleFiler](https://c-command.com/eaglfiler/) | Organize files on your Mac, archive e-mails, save Web pages and notes, search everything. | 25% off with code **BLACKFRIDAY2025** |
+| 💰 | [SpamSieve](https://c-command.com/spamsieve/) | Save time by adding powerful spam filtering to the e-mail client on your Mac. | 25% off with code **BLACKFRIDAY2025** |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
