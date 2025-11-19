@@ -101,6 +101,7 @@ Once configured, every change merged into `master` rebuilds and publishes the st
 | 💸 | [Aikeedo](https://aikeedo.com/self-hosted/) | Launch your own AI SaaS, branded and self-hosted. AI videos, images, and chat - all in one AI workspace. | **BFCM2025** 50% OFF (LIFETIME) |
 | 💰 | [AIScraper](https://aiscraper.co/) | Extract data from any website in seconds | **20% OFF** first payment, code **JOHNRUSH** (Nov 21 to Dec 7) |
 | 💸 | [SharpAPI](https://sharpapi.com/en/pricing/?utm_source=mrsbf) | AI workflow automation API for product descriptions, resume parsing, job-match scoring, SEO tags, and custom workflows. Built for developers who need reliable AI endpoints without managing models. | **50% OFF first year** with code **BF2025** |
+| 💸 | [Anything](https://createanything.com) | Anything is your AI agent for turning ideas into apps. Build sites, apps, tools, products and more just by describing what you want| **BFMRS2K25** 50% OFF (all plans) |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
