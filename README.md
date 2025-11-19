@@ -178,6 +178,7 @@ Once configured, every change merged into `master` rebuilds and publishes the st
 | 💰 | [XGetter](https://xgetter.com/?utm_source=Awesome-Black-Friday-Cyber-Monday) | Media downloader - Download media from YouTube, Douyin, Instagram, X, TikTok and 50+ platforms | Lifetime Package 30% off with discount code **BLACKFRIDAY2025** |
 | 💸 | [Supasend](https://supasend.app) | Quickly capture your notes & tasks instantly in your second brain apps 🧠 | 40% off on LIFETIME PLAN ✨ |
 | 💸 | [Voice Memos - Email Me](https://ww.emailmeapp.net) | The fastest way to record your thoughts. For iOS, iPadOS, macOS, watchOS, visionOS & CarPlay. | **50%** OFF. No promocode required |
+| 💸 | [Koofr](https://koofr.eu/black-friday/) | Koofr is a secure, reliable, and user-friendly European cloud storage service. Backup, sync and share files while maintaining complete privacy - Koofr doesn't use trackers, cookies nor ads. | Use code **BF2025** for **55% OFF** on yearly plans **100 GB** or larger. 
 
 
 ⬆️ | [Go to Top](#table-of-contents)
