@@ -77,6 +77,7 @@ Once configured, every change merged into `master` rebuilds and publishes the st
 | 💸 | [RunJS](https://runjs.app) | A playground for JavaScript and TypeScript. Zero config needed. Just run your code and see instant feedback. | 30% OFF wifth code **BLACKFRIDAY2025** |
 | 💰 | [MkSaaS](https://mksaas.com) | Make Your AI SaaS Product in a weekend | **$30 OFF** Lifetime Package from Nov.18 to Dec.2 |
 | 💰 | [Mkdirs](https://mkdirs.com) | Launch AI-powered directory in 30 minutes | **$30 OFF** Lifetime Package from Nov.18 to Dec.2 |
+| 💰 | [Unicorn Platform](https://unicornplatform.com/) | AI website builder to quickly create websites without design or dev skills for SaaS, Apps, Directories, Blogs, Personal pages | **20% OFF** first payment, code **JOHNRUSH** (Nov 21 to Dec 7) |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
@@ -98,7 +99,9 @@ Once configured, every change merged into `master` rebuilds and publishes the st
 | 💸 | [Contentpen.ai](https://contentpen.ai/black-friday) | Contentpen.ai is an AI-driven blog creation tool built to streamline SEO-optimized writing workflows. It features keyword & SERP analysis, multiple AI agents for research, drafting & optimization, brand-voice alignment, and publishing support, making it easy to scale high-quality articles that perform in search. | **20% off** on monthly plans, **50% off** on annual plans, discount automatically applied at checkout. |
 | 💰 | [Fluent](https://fluentmac.app) | A superior BYOK context‑aware AI assistant for every app and browser tab. Stop app-switching or manual copy-pasting – start keeping your focus on things to be done, not tools. Use 450+ models or local AI. Customizable actions with shortcuts. Lifetime purchase. | 25% OFF **BLACKFRIDAY25** |
 | 💸 | [Aikeedo](https://aikeedo.com/self-hosted/) | Launch your own AI SaaS, branded and self-hosted. AI videos, images, and chat - all in one AI workspace. | **BFCM2025** 50% OFF (LIFETIME) |
-| 🏗️ | [Anything](https://createanything.com) | Anything is your AI agent for turning ideas into apps. Build sites, apps, tools, products and more just by describing what you want| **BFMRS2K25** 50% OFF (all plans) |
+| 💰 | [AIScraper](https://aiscraper.co/) | Extract data from any website in seconds | **20% OFF** first payment, code **JOHNRUSH** (Nov 21 to Dec 7) |
+| 💸 | [SharpAPI](https://sharpapi.com/en/pricing/?utm_source=mrsbf) | AI workflow automation API for product descriptions, resume parsing, job-match scoring, SEO tags, and custom workflows. Built for developers who need reliable AI endpoints without managing models. | **50% OFF first year** with code **BF2025** |
+| 💸 | [Anything](https://createanything.com) | Anything is your AI agent for turning ideas into apps. Build sites, apps, tools, products and more just by describing what you want| **BFMRS2K25** 50% OFF (all plans) |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
@@ -109,6 +112,8 @@ Once configured, every change merged into `master` rebuilds and publishes the st
 | 💰 | [ContentStudio.io](https://contentstudio.io/black-friday) | ContentStudio is a unified social media and content marketing platform that helps brands and teams plan, create, publish, and analyse content. With smart scheduling, visual content calendars, AI-powered caption and image generation, and analytics, it helps you scale content creation while keeping quality and strategy intact. | **40% off** on the first annual plan, discount automatically applied at checkout. |
 | 💸 | [Replug.io](https://replug.io/black-friday) | Replug.io is a link management and branded short link platform tailored for marketers and agencies. It offers custom branded short links, bio-link pages, QR codes, link analytics, A/B testing, retargeting pixels, and white-label capabilities, so you can turn every link into a measurable marketing asset and boost conversions from clicks. | Flat **60% off** on all annual plans, discount automatically applied at checkout. |
 | 💰 | [Rising Trends](https://risingtrends.co) | Never miss a trending niche again! (Get access to 12,000 trending markets as well trending apps, mega trends and niche reports) | **40% off** by using code BF2025 (redeem before 2025-12-07)|
+| 💰 | [ListingBott](https://listingbott.com/) | Your ultimate solution to efficiently list your SaaS, tool, product, newsletter, or blog on 100 directories in just one click | **20% OFF** first payment, code **JOHNRUSH** (Nov 21 to Dec 7) |
+| 💰 | [TinyAdz](https://tinyadz.com/) | Ad network with no fluff, no fraud. Advertisers get real ROI, publishers earn legit revenue | **20% OFF** first payment, code **JOHNRUSH** (Nov 21 to Dec 7) |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
@@ -166,6 +171,7 @@ Once configured, every change merged into `master` rebuilds and publishes the st
 | 💰 | [SupaSidebar](https://supasidebar.com) | SupaSidebar brings an Arc-style sidebar to Mac, letting you save and open links, files, and folders from any browser or Finder instantly. | 50% OFF with code **BLF50** |
 | 💰 | [Pasta](https://apple.co/46omrEk) | Visual Clipboard Manager for your Mac | **50% OFF** Lifetime Package from Nov.28 to Dec.2 |
 | 💰 | [XGetter](https://xgetter.com/?utm_source=Awesome-Black-Friday-Cyber-Monday) | Media downloader - Download media from YouTube, Douyin, Instagram, X, TikTok and 50+ platforms | Lifetime Package 30% off with discount code **BLACKFRIDAY2025** |
+| 💸 | [Supasend](https://supasend.app) | Quickly capture your notes & tasks instantly in your second brain apps 🧠 | 40% off on LIFETIME PLAN ✨ |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
@@ -179,6 +185,8 @@ Once configured, every change merged into `master` rebuilds and publishes the st
 | 💰 | [FaceScreen](https://facescreenapp.com) | Show your face and brand on screen on top of everything else. | 30% OFF (Nov 21 - Dec 2) No code Needed |
 | 💸 | [ScreenSage Pro](https://screensage.pro?ref=mRs) | A screen recording app on maOS that simultaneously captures your screen, webcam, microphone. Create 2D/3D auto zoom with cursor tracking for beautiful demos; smooth A‑roll/B‑roll switching for beautiful vlogs | 53% OFF with code **BFS2025L** |
 | 💸 | [Evelize Teleprompter](https://evelize.com?utm_source=mRs) | Don't memorize your script and create studio quality videos with 4K and HDR from your phone. Record in 1 take instead of 100. Get your content to the next level. | [Get 53% off Premium Lifetime deal](https://evelize.com?utm_source=mRs) for <s>$149</s> $69, (Nov 25 - Dec 6)
+| 💸 | [FilterGrade](https://filtergrade.com) | The visual marketplace for creators. Get discounts up to 60% OFF Video LUTs, Photo Presets, Social Media Templates and more. | **30% OFF ENTIRE CART** with discount code **BFCM2025** from 2025-11-25 to 2025-12-02 |
+
 
 ⬆️ | [Go to Top](#table-of-contents)
 
@@ -188,6 +196,7 @@ Once configured, every change merged into `master` rebuilds and publishes the st
 | -- | ---| ------ | ------ |
 | 💸 | [Sitely 6](https://sitely.app) | Visual + AI Website Builder for macOS | 50% OFF * NO CODE REQUIRED * |
 | 💰 | [Zipic](https://zipic.app) | A Mac image compression tool that optimizes images while preserving quality. Features multiple formats, batch processing, automated workflows, and local processing. | 33% OFF with code **BF2025** (Nov 20 - Dec 2) |
+| 💰 | [FontVisual](https://fontvisual.com) | Font preview tool for crafters and designers. Easily create font preview pages for your personalized products. | 40% OFF on Yearly plan with code **BFCM2025** |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
@@ -212,6 +221,8 @@ Once configured, every change merged into `master` rebuilds and publishes the st
 | 💸 | [Mockly](https://getmockly.com/?utm_source=mrsbf) |Create realistic one-on-one and group chat mockups (and videos) for WhatsApp, Messenger, Instagram, iMessage, Telegram, Slack, and more. Ideal for marketing, social media, creators, and filmmakers. | 20% off on weekly subscription, 50% off on lifetime subscription, no code needed |
 | 💸 | [Glass](https://glass.photo/) | Discover a new home for your photography with Glass — the subscription-based, community-driven platform designed by photographers, for photographers. | **50% OFF** first year with code **BLACKFRIDAY25** |
 | 💸 | [Nuelink](https://www.nuelink.com/) | Nuelink is a social media management platform that automates scheduling, publishing, and content workflows across major platforms like Instagram, Twitter/X, LinkedIn, TikTok, and YouTube. It offers powerful features such as bulk scheduling, post recycling, analytics, content automation, integrations with tools like Zapier and n8n, AI-powered caption generation, and team collaboration tools. All designed to simplify content management and scale social media growth efficiently. | **30% off** monthly & Up to **65% off** yearly|
+| 💰 | [SocialBott](https://socialbott.com/) | AI assistant managing your social media using your existing content — no fabricated advice | **20% OFF** first payment, code **JOHNRUSH** (Nov 21 to Dec 7) |
+
 
 ⬆️ | [Go to Top](#table-of-contents)
 
@@ -247,6 +258,7 @@ Once configured, every change merged into `master` rebuilds and publishes the st
 | 💸 | [**LabEx**](https://labex.io/learn) | Learn Linux, DevOps & Cybersecurity with Hands-on Labs | [50% OFF for Two Years](https://labex.io/checkout?type=4&coupon=2025BF50) (Coupon: 2025BF50) and [30% OFF for One Year](https://labex.io/checkout?type=2&coupon=2025BF30) (Coupon: 2025BF30) |
 | 💸 | [**DNS for Developers**](https://dnsfordevelopers.com) | A video course about the DNS, domain names, and email deliverability | ~~$149~~ **$49**. Discount automatically applied. |
 | 💸 | [Get Your First Client](https://getyourfirstclient.freelancerpath.com/) | A complete step by step guide to get your first client as a freelancer from scratch.  | 50% off with coupon code **BLACK** |
+| 💰 | [Phlex on Rails](https://beautifulruby.com/phlex#bfd) | Video course about building Rails apps entirely out of UI components with Phlex | Over 20% off coupon applied at checkout |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
@@ -312,6 +324,8 @@ Once configured, every change merged into `master` rebuilds and publishes the st
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
 | 💸 | [New Row Template](https://example.com/?utm_source=mrsbf) |Example description |**BFCM25** |
+| 💰 | [SEO Bot](https://seobotai.com/) | Fully autonomous "SEO Robot" with AI agents for Busy Founders | **20% OFF** first payment, code **JOHNRUSH** (Nov 21 to Dec 7) |
+| 💰 | [IndexRusher](https://indexrusher.com/) | A tool that helps get a website indexed by Google faster; boosts searchability & SEO ranking | **20% OFF** first payment, code **JOHNRUSH** (Nov 21 to Dec 7) |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
