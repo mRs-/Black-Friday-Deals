@@ -84,6 +84,7 @@ Once configured, every change merged into `master` rebuilds and publishes the st
 | 💰 | [Poedit](https://poedit.net/?utm_source=mrsbf) | Translation editor supporting modern formats incl. JSON, plus automatic pre-translation via DeepL. | 30% OFF with code **BLACKFRIDAY25** |
 | 💰 | [KAppMaker](https://kappmaker.com/) | Kotlin & Compose Multiplatform mobile app boilerplate | **40% OFF**, code **BLACKFRIDAY40** (Nov 19 to Dec 1) |
 | 💸 | [saasbrella](https://saasbrella.co/?utm_source=mRsbf25) | Hosted, Deployed & Fully Functional SaaS Template with instant Dev Environment setup | $99 LIFETIME PRO PLAN with 10 Hosting Years|
+| 💸 | [SQLPro Studio](https://www.sqlprostudio.com/blackfriday.html?utm_source=mRsbf25) | A native, lightweight database client for macOS that supports MySQL, Postgres, SQL Server, SQLite, and more. | **50% off** with promo code **BFHALFOFF** |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
