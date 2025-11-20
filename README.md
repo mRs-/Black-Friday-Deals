@@ -108,7 +108,7 @@ Once configured, every change merged into `master` rebuilds and publishes the st
 | 💰 | [AIScraper](https://aiscraper.co/) | Extract data from any website in seconds | **20% OFF** first payment, code **JOHNRUSH** (Nov 21 to Dec 7) |
 | 💸 | [SharpAPI](https://sharpapi.com/en/pricing/?utm_source=mrsbf) | AI workflow automation API for product descriptions, resume parsing, job-match scoring, SEO tags, and custom workflows. Built for developers who need reliable AI endpoints without managing models. | **50% OFF first year** with code **BF2025** |
 | 💸 | [Anything](https://createanything.com) | Anything is your AI agent for turning ideas into apps. Build sites, apps, tools, products and more just by describing what you want| **BFMRS2K25** 50% OFF (all plans) |
-| 🐝 | [SubtitleBee](https://subtitlebee.com/) | Add accurate subtitles to your videos with SubtitleBee. You can also use this tool to translate subtitles in 120+ languages and transcribe both audio and video content | Up to 322% OFF using code BEE20 at [checkout](https://subtitlebee.com/#pricing), Nov 1 - Dec 4|
+| 🐝 | [SubtitleBee](https://subtitlebee.com/) | Add accurate subtitles to your videos with SubtitleBee. You can also use this tool to translate subtitles in 120+ languages and transcribe both audio and video content | Up to 32% OFF using code BEE20 at [checkout](https://subtitlebee.com/#pricing), Nov 1 - Dec 4|
 
 ⬆️ | [Go to Top](#table-of-contents)
 
