@@ -293,6 +293,7 @@ Once configured, every change merged into `master` rebuilds and publishes the st
 | 💰 | [Phlex on Rails](https://beautifulruby.com/phlex#bfd) | Video course about building Rails apps entirely out of UI components with Phlex | Over 20% off coupon applied at checkout |
 | 💰 | [Fragments](https://www.fragments.supply) | Learn creative coding with Three.js shaders | 25% OFF with code **C4H8PG6T** |
 | 💎 | [SecDim Learn](https://learn.secdim.com) | Get 35% OFF for the 1st Year. Valid from 20th Nov to 5th Dec |**APPSECONABUDGET2025** |
+| 💰 | [**pwn.guide**](https://pwn.guide) | Learn hacking from 150+ tutorials, ranging from web, wireless, hardware... hacking to forensics, defense & certitfication training (CompTIA Security+ SY0-701 for example) | [20% OFF ALL Plans, Including **Lifetime**](https://pwn.guide): Coupon: **BLKFRI20** |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
