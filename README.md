@@ -81,6 +81,7 @@ Once configured, every change merged into `master` rebuilds and publishes the st
 | 💰 | [Dynomate](https://dynomate.io?utm_source=trungdq88-blackfriday) | Cross-platform Dynamodb GUI client for desktop with Multi-tab, multi-account support, SSO & MFA support, and more  | 30% off with code **BF25** (Nov 21 to Dec 31) |
 | 💸 | [Tailkit](https://tailkit.com/) | 640+ carefully crafted, easy to customize, fully responsive Tailwind components, templates and tools for all your Tailwind CSS based projects. 2,000+ code snippets for React, Vue.js, Alpine.js and HTML along with 10 templates are included. | Up to **50% OFF** for a limited number of licenses with code **BLACKFRIDAY2025** (Nov 24 - Dec 2, 2025) |
 | 💰 | [DropDMG](https://c-command.com/dropdmg/) | The easiest way to create and work with Mac disk images (.dmg files). | 25% off with code **BLACKFRIDAY2025** |
+| 💰 | [Poedit](https://poedit.net/?utm_source=mrsbf) | Translation editor supporting modern formats incl. JSON, plus automatic pre-translation via DeepL. | 30% OFF with code **BLACKFRIDAY25** |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
