@@ -132,6 +132,7 @@ Once configured, every change merged into `master` rebuilds and publishes the st
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
 | 💸 | [iScan.today](https://iscan.today/?utm_source=mrsbf) | Discover Hidden Secrets Worth Thousands. | **50% off on all plans** with discount code **ISCANBF25** |
+| 💰 | [SimpleumSafe](https://simpleum.com/en/?utm_source=bf25) | SimpleumSafe protects the moments and documents that are nobody else's business: intimate photos that shouldn't appear in the photo app. Copies of ID cards. Travel documents. Medical records. Tax documents. | **30% off** No code needed |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
