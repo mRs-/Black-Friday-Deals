@@ -290,6 +290,7 @@ Once configured, every change merged into `master` rebuilds and publishes the st
 | 💰 | [Phlex on Rails](https://beautifulruby.com/phlex#bfd) | Video course about building Rails apps entirely out of UI components with Phlex | Over 20% off coupon applied at checkout |
 | 💰 | [Fragments](https://www.fragments.supply) | Learn creative coding with Three.js shaders | 25% OFF with code **C4H8PG6T** |
 | 💎 | [SecDim Learn](https://learn.secdim.com) | Get 35% OFF for the 1st Year. Valid from 20th Nov to 5th Dec |**APPSECONABUDGET2025** |
+| 💸 | [Build Your Own Pub/Sub Protocol (NATS)](https://protocol-zero.pmbanugo.me) | Master Distributed Systems by building a Pub/Sub server from raw TCP/Sockets. A deep-dive course & workshop on building a [NATS-compatible](https://nats.io) server from scratch | **60+% only during Cyberweek** ($49 Course / $129 Live Workshop). Discount is automatically from Nov. 27 to Dec. 1 |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
