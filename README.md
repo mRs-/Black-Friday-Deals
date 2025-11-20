@@ -108,6 +108,7 @@ Once configured, every change merged into `master` rebuilds and publishes the st
 | 💸 | [SharpAPI](https://sharpapi.com/en/pricing/?utm_source=mrsbf) | AI workflow automation API for product descriptions, resume parsing, job-match scoring, SEO tags, and custom workflows. Built for developers who need reliable AI endpoints without managing models. | **50% OFF first year** with code **BF2025** |
 | 💸 | [Anything](https://createanything.com) | Anything is your AI agent for turning ideas into apps. Build sites, apps, tools, products and more just by describing what you want| **BFMRS2K25** 50% OFF (all plans) |
 | 🐝 | [SubtitleBee](https://subtitlebee.com/) | Add accurate subtitles to your videos with SubtitleBee. You can also use this tool to translate subtitles in 120+ languages and transcribe both audio and video content | Up to 322% OFF using code BEE20 at [checkout](https://subtitlebee.com/#pricing), Nov 1 - Dec 4|
+| 💰 | [Sussurro Whisper Speech to Text](https://apps.apple.com/us/app/sussurro-speech-to-text-ai/id6742109110) | Sussurro (Italian for Whisper) is a Mac, iPhone & iPad app for private audio-to-text transcription using OpenAI’s Whisper models, running entirely on-device for privacy. It lets users choose models to balance speed and accuracy and has 0 tracking. Free to Test: Preview any model with complete real-time transcription during processing Then, a one-time in-app purchase unlocks forever | **40% OFF** Pro Lifetime only $ 2.99 between Nov 27 - Dec 3 |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
