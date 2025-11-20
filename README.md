@@ -273,6 +273,7 @@ Once configured, every change merged into `master` rebuilds and publishes the st
 | 💸 | [**DNS for Developers**](https://dnsfordevelopers.com) | A video course about the DNS, domain names, and email deliverability | ~~$149~~ **$49**. Discount automatically applied. |
 | 💸 | [Get Your First Client](https://getyourfirstclient.freelancerpath.com/) | A complete step by step guide to get your first client as a freelancer from scratch.  | 50% off with coupon code **BLACK** |
 | 💰 | [Phlex on Rails](https://beautifulruby.com/phlex#bfd) | Video course about building Rails apps entirely out of UI components with Phlex | Over 20% off coupon applied at checkout |
+| 💎 | [SecDim Learn](https://learn.secdim.com) | Get 35% OFF for the 1st Year. Valid from 20th Nov to 5th Dec |**APPSECONABUDGET2025** |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
@@ -355,6 +356,6 @@ Once configured, every change merged into `master` rebuilds and publishes the st
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
-| 💸 | [New Row Template](https://example.com/?utm_source=mrsbf) |Example description |**BFCM25** |
+| 💎 | [SecDim Play](https://play.secdim.com) | Get 35% OFF for the 1st Year. Valid from 20th Nov to 5th Dec |**APPSECONABUDGET2025** |
 
 ⬆️ | [Go to Top](#table-of-contents)
