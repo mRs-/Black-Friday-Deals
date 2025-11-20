@@ -153,6 +153,7 @@ Once configured, every change merged into `master` rebuilds and publishes the st
 | 💸 | [Unplugged: Battery Life tracking from Apple Watch](https://apps.apple.com/us/app/unplugged-battery-life-watch/id6476698892) | Your iPhone's battery level, displayed on your Apple Watch. | **UP TO 50% OFF** on Lifetime subcription. Use code **INDIEAPPSALES2025**. Valid Nov 22–Dec 3, 2025 |
 | 💰 | [WebsiteVoice](https://websitevoice.com/) | Add text-to-speech to your website with a simple play button widget to ensure your target audience can listen to your site's content | 20% OFF on all plans using code **VOICE20** at checkout, Nov 1 - Dec 4|
 | 💰 | [BookletCreator](https://www.bookletcreator.com) | BookletCreator is a simple tool that allows you to create a booklet from a PDF document. It reorders pages so that after printing and folding the pages, a small book is created. | **40% OFF** (automatically applied). Until Dec 5, 2025 |
+| 💰 | [GlanceCam IP Camera Viewer for Mac](https://apps.apple.com/us/app/glancecam-ip-camera-viewer/id1360797896) | GlanceCam is a secure and beloved IP camera viewer for macOS, with over 670 App Store ratings averaging more than 4.3 stars. It supports standard streaming protocols and offers lots of advanced features. With 42 free updates over 7 years, GlanceCam is the best choice for streaming IP Cameras from any manufacturer, with powerful features (Instazoom, Always on top...) and automations. | **25% OFF** (standard version) between Nov 27 - Dec 3 |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
