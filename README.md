@@ -131,6 +131,7 @@ Once configured, every change merged into `master` rebuilds and publishes the st
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
 | 💸 | [iScan.today](https://iscan.today/?utm_source=mrsbf) | Discover Hidden Secrets Worth Thousands. | **50% off on all plans** with discount code **ISCANBF25** |
+| 🛡️ | [Beagle Security](https://beaglesecurity.com/black-friday-sale) | Beagle Security is an AI-powered automated pentesting platform that simulates real-world attacks to uncover vulnerabilities in web apps, APIs, and GraphQL. With agentic AI agents, it streamlines testing, analyzes results, and delivers actionable insights for smarter vulnerability management. | **35% OFF annual** (Code **BFCMY25**) & **20% OFF monthly** (Code **BFCMM25**) — Valid for both Advanced & Essential plans for the next 6 months | **Nov 25 – Dec 4, 2025** |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
