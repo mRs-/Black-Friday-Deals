@@ -118,6 +118,7 @@ Once configured, every change merged into `master` rebuilds and publishes the st
 | 🔥 | [RightBlogger](https://rightblogger.com?utm_source=mrsbf) | RightBlogger is the best AI article writer for bloggers, helping you automate your entire content workflow with powerful autoblogging features so you can drive more SEO and ChatGPT traffic effortlessly. | **50% OFF annual plans** (automatically applied), Nov 20 - Dec 1|
 | 💸 | [QuickWhisper](https://quickwhisper.app) | QuickWhisper turns your Mac into a voice-first workspace. Speak instead of typing anywhere with system-wide dictation, automatically record and transcribe your meetings, then get instant AI summaries of everything you've recorded. | **[BFRIDAY25](https://iwtcom.gumroad.com/l/quickwhisper/BFRIDAY25)** to get **65% OFF**, Nov 20 - Dec 4|
 | ⚫ | [Alter](https://alterhq.com) | Most AI tools are chat windows. Alter is a system. It captures context from your apps. Learns your voice and workflow to deliver one-click outcomes. | **70% off** Exclusive Lifetime Bundle With 40,000 AI requests included and 2,000+ tools | NOV 20 - DEC 1 |
+| 💰 | [Dartassist](https://www.dartassist.com/) | AI-first career copilot that helps you create tailored resumes, track job applications, and enhance your career profile effortlessly. | **30% OFF** any plan with code **BLACKFRIDAY** (Nov 21 - Dec 2). Renews at discount for 6 months |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
