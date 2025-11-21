@@ -340,6 +340,7 @@ Once configured, every change merged into `master` rebuilds and publishes the st
 | 💸 | [Everlog](https://apple.co/3pmdUCn) | Full-featured journaling app for iPhone, iPad, Mac and Vision Pro | **40% OFF** Lifetime Package from Nov.28 to Dec.2 |
 | 💰 | [Habit Pixel](https://habitpixel.com/get) | A simple, satisfying habit tracker that helps you stay consistent, build better routines, and actually stick to your goals. Available on iOS and Android. | **40% OFF** Lifetime plan (auto-applied, Nov 20 - Dec 1, 2025) |
 | 💸 | [Migraine Tracker: Auralog](https://apps.apple.com/us/app/auralog-migraine-tracker/id6752360306) | Capture migraines quickly and uncover patterns that matter. | **60% OFF** Annual Package from Nov 24 to Dec 8 |
+| 💸 | [None to Run: Beginner Running Plans](https://apps.apple.com/us/app/none-to-run-beginner-5k-10k/id1491658094) | Achievable Walk/Run training programs for beginner runners. Start running today!| **50% OFF** Annual Plan with code **BLACKFRIDAY**|
 
 ⬆️ | [Go to Top](#table-of-contents)
 
