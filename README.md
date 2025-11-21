@@ -217,6 +217,8 @@ Once configured, every change merged into `master` rebuilds and publishes the st
 | 💸 | [CSV Table](https://csvtable.com/) | View and edit CSV, JSON data for Professional s| 60% off with code **BLACKFRIDAY2025** |
 | 💸 | [Focusmo](https://www.focusmo.app/?utm_source=mrs-github) | #1 Focus app for ADHD timeblindness. Focusmo helps you log your day as you go — so you stop losing hours to distractions and end every day proud of what you achieved | **50% OFF** Lifetime Updates (Nov 21 - Dec 1). Pay once. (code automatically applied) |
 | 💰 | [Migi](https://migiapp.com/) | Make your prompt templates just once and bring them up instantly with ⌥ Space. Just fill in the blanks, and in a second you'll have a custom prompt ready to go. | $19.99 from $29.99 lifetime |
+| 💸 | [DockFlow](https://dockflow.appitstudio.com) | Save and Switch between macOS Dock presets | 50% off with code **BLACKXXFRIDAY50** Nov 26th - Dec 1st |
+| 💸 | [ExtraDock](https://extradock.app) | Create unlimited floating Docks for macOS - Perfect for multiple monitors setups | 50% off with code **BLACKXXFRIDAY50** Nov 26th - Dec 1st |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
