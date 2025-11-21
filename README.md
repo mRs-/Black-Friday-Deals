@@ -117,7 +117,9 @@ Once configured, every change merged into `master` rebuilds and publishes the st
 | ✍️ | [RewriteBar](https://rewritebar.com?ref=mrs&utm_source=mrsbf) | Improve your writing in any macOS application with AI assistance. Fix grammar, adjust tone, translate, rewrite, summarize — plus powerful custom actions and templates. | **50% OFF** with code **BF2025**, Nov 20 - Dec 2|
 | 🔥 | [RightBlogger](https://rightblogger.com?utm_source=mrsbf) | RightBlogger is the best AI article writer for bloggers, helping you automate your entire content workflow with powerful autoblogging features so you can drive more SEO and ChatGPT traffic effortlessly. | **50% OFF annual plans** (automatically applied), Nov 20 - Dec 1|
 | 💸 | [QuickWhisper](https://quickwhisper.app) | QuickWhisper turns your Mac into a voice-first workspace. Speak instead of typing anywhere with system-wide dictation, automatically record and transcribe your meetings, then get instant AI summaries of everything you've recorded. | **[BFRIDAY25](https://iwtcom.gumroad.com/l/quickwhisper/BFRIDAY25)** to get **65% OFF**, Nov 20 - Dec 4|
+| ⚫ | [Alter](https://alterhq.com) | Most AI tools are chat windows. Alter is a system. It captures context from your apps. Learns your voice and workflow to deliver one-click outcomes. | **70% off** Exclusive Lifetime Bundle With 40,000 AI requests included and 2,000+ tools | NOV 20 - DEC 1 |
 | 💰 | [Dartassist](https://www.dartassist.com/) | AI-first career copilot that helps you create tailored resumes, track job applications, and enhance your career profile effortlessly. | **30% OFF** any plan with code **BLACKFRIDAY** (Nov 21 - Dec 2). Renews at discount for 6 months |
+
 
 ⬆️ | [Go to Top](#table-of-contents)
 
@@ -168,9 +170,11 @@ Once configured, every change merged into `master` rebuilds and publishes the st
 | 💰 | [GlanceCam IP Camera Viewer for Mac](https://apps.apple.com/us/app/glancecam-ip-camera-viewer/id1360797896) | GlanceCam is a secure and beloved IP camera viewer for macOS, with over 670 App Store ratings averaging more than 4.3 stars. It supports standard streaming protocols and offers lots of advanced features. With 42 free updates over 7 years, GlanceCam is the best choice for streaming IP Cameras from any manufacturer, with powerful features (Instazoom, Always on top...) and automations. | **25% OFF** (standard version) between Nov 27 - Dec 3 |
 | 💰 | [SendScan Scanner with Workflows](https://apps.apple.com/us/app/sendscan-quick-scan-share/id6753208936) | SendScan combines a best-in-class scanner with text recognition and workflows to send your documents exactly where they need to go: for instance, scan, rename, send via email to your accountant, share via Messages, and then delete. An essential new app for iPhone and iPad, it's really fast and integrates with iCloud for absolute privacy (so your scans are always on your Mac too!) | **40% OFF** Pro Lifetime only $ 5.99 between Nov 27 - Dec 3 |
 | 💰 | [Lingon Pro](https://www.peterborgapps.com/lingon) | Run whatever you want, whenever you want with Lingon Pro | **20% OFF** (automatically applied)|
+| 💸 | [LaunchOS](https://launchosapp.com/) | The best launchpad alternative for macOS 26 (Tahoe). Built to feel instantly familiar, effortlessly smooth, and surprisingly powerful. | **60% OFF** plus an additional **5% OFF** with code **EARLYBIRDBLACKFRIDAY** |
 | 💸 | [QRGenie – QR Code Generator](https://www.qrgenie.app) | Create stunning, branded QR codes on iPhone, iPad, and Mac. Add your logo, pick custom colors, and design QR codes that stand out and boost scan rates. | **50% OFF** Lifetime PRO (prices may vary based on purchasing parity), Nov 21–Dec 7, 2025 |
 | 💸 | [BarcodeCraft – Barcode Generator](https://barcodecraft.com) | Design and customize high-quality barcodes, then test them instantly with the built-in camera scanner. Supports formats like Code 128, EAN-13, PDF417, and more. | **50% OFF** Lifetime PRO (prices may vary based on purchasing parity), Nov 21–Dec 7, 2025 |
 | 💰 | [NewsNinja](https://apps.apple.com/app/newsninja-ai-rss-news-reader/id6504148117) | Optimized AI News from multiple sources: RSS, Reddit, Youtube. Your smart news companion. Follow global sources, read in reader mode, translate instantly, get quick AI summaries from RSS, Reddit, and YouTube with no ads or sign-ups. | **70% OFF** Lifetime package from Nov 21st to Dec 2nd | 
+| 🌤️ | [Sonuby Weather (iOS & Android)](https://sonuby.com/download/?utm_campaign=mRs_black_friday_deals) | Sonuby Weather is a highly customizable weather & forecast app for daily life, drone flying, sailing, health and other weather dependent activities and scenarios. | **58% off lifetime** (offer will be shown in-app), until Dec 4 | 
 
 ⬆️ | [Go to Top](#table-of-contents)
 
@@ -212,6 +216,10 @@ Once configured, every change merged into `master` rebuilds and publishes the st
 | 💸 | [Itemlist – Inventory Tracker App](https://www.getitemlist.app) | Powerful inventory tracker app for home and business. Organize, categorize, and locate items in seconds so you never forget where anything is again. | **50% OFF** Lifetime PRO (prices may vary based on purchasing parity), Nov 21–Dec 7, 2025 |
 | 💸 | [DoubleMemory](https://doublememory.com) | Bookmark & read later & clipbard all in one translucent board. For iOS, iPadOS and macOS. | **60% OFF** on lifetime plan with code: `CYBERWEEK` |
 | 💸 | [CSV Table](https://csvtable.com/) | View and edit CSV, JSON data for Professional s| 60% off with code **BLACKFRIDAY2025** |
+| 💸 | [Focusmo](https://www.focusmo.app/?utm_source=mrs-github) | #1 Focus app for ADHD timeblindness. Focusmo helps you log your day as you go — so you stop losing hours to distractions and end every day proud of what you achieved | **50% OFF** Lifetime Updates (Nov 21 - Dec 1). Pay once. (code automatically applied) |
+| 💰 | [Migi](https://migiapp.com/) | Make your prompt templates just once and bring them up instantly with ⌥ Space. Just fill in the blanks, and in a second you'll have a custom prompt ready to go. | $19.99 from $29.99 lifetime |
+| 💸 | [DockFlow](https://dockflow.appitstudio.com) | Save and Switch between macOS Dock presets | 50% off with code **BLACKXXFRIDAY50** Nov 26th - Dec 1st |
+| 💸 | [ExtraDock](https://extradock.app) | Create unlimited floating Docks for macOS - Perfect for multiple monitors setups | 50% off with code **BLACKXXFRIDAY50** Nov 26th - Dec 1st |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
@@ -333,6 +341,7 @@ Once configured, every change merged into `master` rebuilds and publishes the st
 | 💸 | [Everlog](https://apple.co/3pmdUCn) | Full-featured journaling app for iPhone, iPad, Mac and Vision Pro | **40% OFF** Lifetime Package from Nov.28 to Dec.2 |
 | 💰 | [Habit Pixel](https://habitpixel.com/get) | A simple, satisfying habit tracker that helps you stay consistent, build better routines, and actually stick to your goals. Available on iOS and Android. | **40% OFF** Lifetime plan (auto-applied, Nov 20 - Dec 1, 2025) |
 | 💸 | [Migraine Tracker: Auralog](https://apps.apple.com/us/app/auralog-migraine-tracker/id6752360306) | Capture migraines quickly and uncover patterns that matter. | **60% OFF** Annual Package from Nov 24 to Dec 8 |
+| 💸 | [None to Run: Beginner Running Plans](https://apps.apple.com/us/app/none-to-run-beginner-5k-10k/id1491658094) | Achievable Walk/Run training programs for beginner runners. Start running today!| **50% OFF** Annual Plan with code **BLACKFRIDAY**|
 
 ⬆️ | [Go to Top](#table-of-contents)
 
