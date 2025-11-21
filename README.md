@@ -84,6 +84,7 @@ Once configured, every change merged into `master` rebuilds and publishes the st
 | 💰 | [Poedit](https://poedit.net/?utm_source=mrsbf) | Translation editor supporting modern formats incl. JSON, plus automatic pre-translation via DeepL. | 30% OFF with code **BLACKFRIDAY25** |
 | 💰 | [KAppMaker](https://kappmaker.com/) | Kotlin & Compose Multiplatform mobile app boilerplate | **40% OFF**, code **BLACKFRIDAY40** (Nov 19 to Dec 1) |
 | 💸 | [saasbrella](https://saasbrella.co/?utm_source=mRsbf25) | Hosted, Deployed & Fully Functional SaaS Template with instant Dev Environment setup | $99 LIFETIME PRO PLAN with 10 Hosting Years|
+| 💸 | [SQLPro Studio](https://www.sqlprostudio.com/blackfriday.html?utm_source=mRsbf25) | A native, lightweight database client for macOS that supports MySQL, Postgres, SQL Server, SQLite, and more. | **50% off** with promo code **BFHALFOFF** |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
@@ -112,6 +113,7 @@ Once configured, every change merged into `master` rebuilds and publishes the st
 | 🐝 | [SubtitleBee](https://subtitlebee.com/) | Add accurate subtitles to your videos with SubtitleBee. You can also use this tool to translate subtitles in 120+ languages and transcribe both audio and video content | Up to 322% OFF using code BEE20 at [checkout](https://subtitlebee.com/#pricing), Nov 1 - Dec 4|
 | 💰 | [Sussurro Whisper Speech to Text](https://apps.apple.com/us/app/sussurro-speech-to-text-ai/id6742109110) | Sussurro (Italian for Whisper) is a Mac, iPhone & iPad app for private audio-to-text transcription using OpenAI’s Whisper models, running entirely on-device for privacy. It lets users choose models to balance speed and accuracy and has 0 tracking. Free to Test: Preview any model with complete real-time transcription during processing Then, a one-time in-app purchase unlocks forever | **40% OFF** Pro Lifetime only $ 2.99 between Nov 27 - Dec 3 |
 | ✍️ | [RewriteBar](https://rewritebar.com?ref=mrs&utm_source=mrsbf) | Improve your writing in any macOS application with AI assistance. Fix grammar, adjust tone, translate, rewrite, summarize — plus powerful custom actions and templates. | **50% OFF** with code **BF2025**, Nov 20 - Dec 2|
+| 🔥 | [RightBlogger](https://rightblogger.com?utm_source=mrsbf) | RightBlogger is the best AI article writer for bloggers, helping you automate your entire content workflow with powerful autoblogging features so you can drive more SEO and ChatGPT traffic effortlessly. | **50% OFF annual plans** (automatically applied), Nov 20 - Dec 1|
 
 ⬆️ | [Go to Top](#table-of-contents)
 
@@ -162,6 +164,8 @@ Once configured, every change merged into `master` rebuilds and publishes the st
 | 💰 | [GlanceCam IP Camera Viewer for Mac](https://apps.apple.com/us/app/glancecam-ip-camera-viewer/id1360797896) | GlanceCam is a secure and beloved IP camera viewer for macOS, with over 670 App Store ratings averaging more than 4.3 stars. It supports standard streaming protocols and offers lots of advanced features. With 42 free updates over 7 years, GlanceCam is the best choice for streaming IP Cameras from any manufacturer, with powerful features (Instazoom, Always on top...) and automations. | **25% OFF** (standard version) between Nov 27 - Dec 3 |
 | 💰 | [SendScan Scanner with Workflows](https://apps.apple.com/us/app/sendscan-quick-scan-share/id6753208936) | SendScan combines a best-in-class scanner with text recognition and workflows to send your documents exactly where they need to go: for instance, scan, rename, send via email to your accountant, share via Messages, and then delete. An essential new app for iPhone and iPad, it's really fast and integrates with iCloud for absolute privacy (so your scans are always on your Mac too!) | **40% OFF** Pro Lifetime only $ 5.99 between Nov 27 - Dec 3 |
 | 💰 | [Lingon Pro](https://www.peterborgapps.com/lingon) | Run whatever you want, whenever you want with Lingon Pro | **20% OFF** (automatically applied)|
+| 💸 | [QRGenie – QR Code Generator](https://www.qrgenie.app) | Create stunning, branded QR codes on iPhone, iPad, and Mac. Add your logo, pick custom colors, and design QR codes that stand out and boost scan rates. | **50% OFF** Lifetime PRO (prices may vary based on purchasing parity), Nov 21–Dec 7, 2025 |
+| 💸 | [BarcodeCraft – Barcode Generator](https://barcodecraft.com) | Design and customize high-quality barcodes, then test them instantly with the built-in camera scanner. Supports formats like Code 128, EAN-13, PDF417, and more. | **50% OFF** Lifetime PRO (prices may vary based on purchasing parity), Nov 21–Dec 7, 2025 |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
@@ -200,6 +204,7 @@ Once configured, every change merged into `master` rebuilds and publishes the st
 | 💰 | [Smultron](https://www.peterborgapps.com/smultron) | Smultron - The text editor for all of us | **20% OFF** (automatically applied)|
 | 💰 | [PastePal](https://indiegoodies.com/pastepal) |PastePal is the best universal clipboard manager for Mac, iPhone and iPad| 50% OFF on App Store. For stanalone versions, use code INDIEGOODIESBF25 for 50% discount | 
 | 💰 | [Almighty](https://indiegoodies.com/almighty) |Over 50 cool Mac tweaks and extra utilities to supercharge your Mac experience| 50% OFF on App Store. For stanalone versions, use code INDIEGOODIESBF25 for 50% discount | 
+| 💸 | [Itemlist – Inventory Tracker App](https://www.getitemlist.app) | Powerful inventory tracker app for home and business. Organize, categorize, and locate items in seconds so you never forget where anything is again. | **50% OFF** Lifetime PRO (prices may vary based on purchasing parity), Nov 21–Dec 7, 2025 |
 | 💸 | [DoubleMemory](https://doublememory.com) | Bookmark & read later & clipbard all in one translucent board. For iOS, iPadOS and macOS. | **60% OFF** on lifetime plan with code: `CYBERWEEK` |
 
 ⬆️ | [Go to Top](#table-of-contents)
@@ -321,6 +326,7 @@ Once configured, every change merged into `master` rebuilds and publishes the st
 | 💰 | [Steps & Beasts - Step Tracker](https://www.stepsandbeasts.app) | Gamified Step Tracker with a fun twist. Reach your goal every day, hatch an egg and collect 200 unique creatures. | 20% OFF yearly subscription (in-app) | 2025-11-30 |
 | 💸 | [Everlog](https://apple.co/3pmdUCn) | Full-featured journaling app for iPhone, iPad, Mac and Vision Pro | **40% OFF** Lifetime Package from Nov.28 to Dec.2 |
 | 💰 | [Habit Pixel](https://habitpixel.com/get) | A simple, satisfying habit tracker that helps you stay consistent, build better routines, and actually stick to your goals. Available on iOS and Android. | **40% OFF** Lifetime plan (auto-applied, Nov 20 - Dec 1, 2025) |
+| 💸 | [Migraine Tracker: Auralog](https://apps.apple.com/us/app/auralog-migraine-tracker/id6752360306) | Capture migraines quickly and uncover patterns that matter. | **60% OFF** Annual Package from Nov 24 to Dec 8 |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
