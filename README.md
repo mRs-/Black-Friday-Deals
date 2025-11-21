@@ -200,6 +200,7 @@ Once configured, every change merged into `master` rebuilds and publishes the st
 | 💰 | [Smultron](https://www.peterborgapps.com/smultron) | Smultron - The text editor for all of us | **20% OFF** (automatically applied)|
 | 💰 | [PastePal](https://indiegoodies.com/pastepal) |PastePal is the best universal clipboard manager for Mac, iPhone and iPad| 50% OFF on App Store. For stanalone versions, use code INDIEGOODIESBF25 for 50% discount | 
 | 💰 | [Almighty](https://indiegoodies.com/almighty) |Over 50 cool Mac tweaks and extra utilities to supercharge your Mac experience| 50% OFF on App Store. For stanalone versions, use code INDIEGOODIESBF25 for 50% discount | 
+| ⭐ | [CSV Table](https://csvtable.com/) | View and edit CSV, JSON data for Professional s| 60% off with code **BLACKFRIDAY2025** |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
