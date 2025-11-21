@@ -211,6 +211,8 @@ Once configured, every change merged into `master` rebuilds and publishes the st
 | 💸 | [Itemlist – Inventory Tracker App](https://www.getitemlist.app) | Powerful inventory tracker app for home and business. Organize, categorize, and locate items in seconds so you never forget where anything is again. | **50% OFF** Lifetime PRO (prices may vary based on purchasing parity), Nov 21–Dec 7, 2025 |
 | 💸 | [DoubleMemory](https://doublememory.com) | Bookmark & read later & clipbard all in one translucent board. For iOS, iPadOS and macOS. | **60% OFF** on lifetime plan with code: `CYBERWEEK` |
 | 💸 | [CSV Table](https://csvtable.com/) | View and edit CSV, JSON data for Professional s| 60% off with code **BLACKFRIDAY2025** |
+| 💸 | [CSV Table](https://dockflow.appitstudio.com) | Save and Switch between macOS Dock presets | 50% off with code **BLACKXXFRIDAY50** Nov 26th - Dec 1st |
+| 💸 | [CSV Table](https://extradock.app) | Create unlimited floating Docks for macOS - Perfect for multiple monitors setups | 50% off with code **BLACKXXFRIDAY50** Nov 26th - Dec 1st |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
