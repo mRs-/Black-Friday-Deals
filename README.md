@@ -174,6 +174,7 @@ Once configured, every change merged into `master` rebuilds and publishes the st
 | 💸 | [BarcodeCraft – Barcode Generator](https://barcodecraft.com) | Design and customize high-quality barcodes, then test them instantly with the built-in camera scanner. Supports formats like Code 128, EAN-13, PDF417, and more. | **50% OFF** Lifetime PRO (prices may vary based on purchasing parity), Nov 21–Dec 7, 2025 |
 | 💰 | [NewsNinja](https://apps.apple.com/app/newsninja-ai-rss-news-reader/id6504148117) | Optimized AI News from multiple sources: RSS, Reddit, Youtube. Your smart news companion. Follow global sources, read in reader mode, translate instantly, get quick AI summaries from RSS, Reddit, and YouTube with no ads or sign-ups. | **70% OFF** Lifetime package from Nov 21st to Dec 2nd | 
 | 🌤️ | [Sonuby Weather (iOS & Android)](https://sonuby.com/download/?utm_campaign=mRs_black_friday_deals) | Sonuby Weather is a highly customizable weather & forecast app for daily life, drone flying, sailing, health and other weather dependent activities and scenarios. | **58% off lifetime** (offer will be shown in-app), until Dec 4 | 
+| 💰 | [StopTheMadness Pro](https://apps.apple.com/app/stopthemadness-pro/id6471380298) | Web browser extension for iOS and macOS that stops web site annoyances and privacy violations | **25% OFF** from Nov 21 to Dec 5 | 
 
 ⬆️ | [Go to Top](#table-of-contents)
 
