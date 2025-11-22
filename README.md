@@ -260,6 +260,9 @@ Once configured, every change merged into `master` rebuilds and publishes the st
 | 💰 | [Zipic](https://zipic.app) | A Mac image compression tool that optimizes images while preserving quality. Features multiple formats, batch processing, automated workflows, and local processing. | 33% OFF with code **BF2025** (Nov 20 - Dec 2) |
 | 💰 | [FontVisual](https://fontvisual.com) | Font preview tool for crafters and designers. Easily create font preview pages for your personalized products. | 40% OFF on Yearly plan with code **BFCM2025** |
 | 💰 | [Xnapper](https://xnapper.com) | Take screenshots that are beautiful by default. #1 Screenshot Tool for macOS and Windows with new features including GIF recording, cloud storage, and video capture. | 30% OFF Lifetime Premium Plan **BLACKFRIDAY2025** |
+| 💰 | [RapidWeaver Elements](https://realmacsoftware.com/rapidweaver) | A Powerful, Next-Gen Website Builder for Mac. Design and publish modern, responsive websites visually with complete design freedom, no-code required. | Save 45% on first year with code **BLACKFRIDAY45**. Ends December 1st. |
+| 💰 | [RapidWeaver Classic](https://realmacsoftware.com/rapidweaver-classic/) | The Original Easy to Use Web Design Software for Mac. Select a theme, add your content, and publish. No-code required | Save 45% on first year with code **BLACKFRIDAY45**. Ends December 1st. |
+| 💰 | [Squash 3](https://realmacsoftware.com/squash/) | Powerful Batch Photo Editor. Quickly batch convert, and resize images. Apply layered watermarks and filters, rename files, remove or edit private metadata, and so much more. | Save 45% on first year with code **BLACKFRIDAY45**. Ends December 1st. |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
