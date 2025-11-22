@@ -184,6 +184,7 @@ Once configured, every change merged into `master` rebuilds and publishes the st
 | 💸 | [Lingon](https://apps.apple.com/redeem?ctx=offercodes&id=6742142873&code=BLACKWEEK25YEAR) | Meet the new easy to use Lingon to help you run whatever you want, whenever you want | **50% OFF** for one year with the link |
 | 💰 | [KeyScreen (macOS)](https://keyscreenapp.com) | Show your keystrokes on screen. The most customizable keypress visualizer for Mac | **40% OFF** from Nov 21 to Dec 2. No code needed. |
 | 💰 | [Tripsy Pro](http://tripsy.app/download) | Travel Planner for iOS and Mac. Finalist as App of the Year for iPhone 2024. | **50% OFF** on [Lifetime](https://buy.stripe.com/3cscMW3wb1aybqocMN?prefilled_promo_code=BLACKFRIDAY202550OFF) and [1-Year plan](https://buy.stripe.com/dR6aEO9Uz3iG2TS6os?prefilled_promo_code=BLACKFRIDAY202550OFF), until Dec 2 |
+| 💰 | [AIWATransfer](https://aiwatransfer.com/) | AIWATransfer lets you securely move your WhatsApp chats, media, and attachments between Android and iPhone — no cloud storage, no data loss, no technical steps required. Use the promo code "**BF2025**" | **50% OFF** on Premium & Pro Plans, until Dec 2 |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
