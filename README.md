@@ -24,28 +24,31 @@ Once configured, every change merged into `master` rebuilds and publishes the st
 
 ## Table of Contents
 
-- [🛠 Development Software](#-development-software)
-- [🤖 AI Tools](#-ai-tools)
-- [🌈 Marketing Software](#-marketing-software)
-- [🎩 Security Software](#tophat-security-software)
-- [🎛 Utility Software](#-utility-software)
-- [📌 Productivity Software](#-productivity-software)
-- [🎥 Video Software](#-video-software)
-- [🎨 Graphic Software](#-graphic-software)
-- [🏝️ Lifestyle](#%EF%B8%8F-lifestyle)
-- [🗣️ Social](#%EF%B8%8F-social)
-- [🎓 Reference & Education](#-reference--education)
-- [📖 Books](#-books)
-- [👩‍🎓 Courses and Videos](#-courses-and-videos)
-- [📈 Business Software](#-business-software)
-- [🏃🏻‍♀️ Health & Fitness Software](#%E2%80%8D%EF%B8%8F-health--fitness-software)
-- [🎁 Bundles](#-bundles)
-- [🎶 Creative Content](#-creative-content)
-- [🤑 Finance](#-finance)
-- [🗺️ Navigation](#%EF%B8%8F-navigation)
-- [🔎 SEO](#-seo)
-- [🏡 Home Automation](#-home-automation)
-- [🕹 Games](#-games)
+- [�💸💰 Black Friday Deals 2025 💰💸💰](#-black-friday-deals-2025-)
+  - [🚀 Deploying the static site on GitHub Pages](#-deploying-the-static-site-on-github-pages)
+  - [Table of Contents](#table-of-contents)
+  - [🛠 Development Software](#-development-software)
+  - [🤖 AI Tools](#-ai-tools)
+  - [🛠 Marketing Software](#-marketing-software)
+  - [:tophat: Security Software](#tophat-security-software)
+  - [🎛 Utility Software](#-utility-software)
+  - [📌 Productivity Software](#-productivity-software)
+  - [🎥 Video Software](#-video-software)
+  - [🎨 Graphic Software](#-graphic-software)
+  - [🏝️ Lifestyle](#️-lifestyle)
+  - [🗣️ Social](#️-social)
+  - [🎓 Reference \& Education](#-reference--education)
+  - [📖 Books](#-books)
+  - [👩‍🎓 Courses and Videos](#-courses-and-videos)
+  - [📈 Business Software](#-business-software)
+  - [🏃🏻‍♀️ Health \& Fitness Software](#️-health--fitness-software)
+  - [🎁 Bundles](#-bundles)
+  - [🎶 Creative content](#-creative-content)
+  - [🤑 Finance](#-finance)
+  - [🗺️ Navigation](#️-navigation)
+  - [🔎 SEO](#-seo)
+  - [🏡 Home Automation](#-home-automation)
+  - [🕹 Games](#-games)
 
 ## 🛠 Development Software
 
@@ -341,6 +344,7 @@ Once configured, every change merged into `master` rebuilds and publishes the st
 | 💎 | [SecDim Learn](https://learn.secdim.com) | Get 35% OFF for the 1st Year. Valid from 20th Nov to 5th Dec |**APPSECONABUDGET2025** |
 | 💰 | [Fast Track To Senior Engineer](https://maven.com/top-engineer/fast-track-to-senior?promoCode=BF1125) | Become a high-performing software engineer and get promoted in 2026! | **25% off** autoapplied, code `BF1125` |
 | 💸 | [Build Your Own Pub/Sub Protocol (NATS)](https://protocol-zero.pmbanugo.me) | Master Distributed Systems by building a Pub/Sub server from raw TCP/Sockets. A deep-dive course & workshop on building a [NATS-compatible](https://nats.io) server from scratch | **60+% only during Cyberweek** ($49 Course / $129 Live Workshop). Discount is applied automatically from Nov. 27 to Dec. 1 |
+| 💸 | [Zero to Mastery](https://zerotomastery.io/) | Learn the most in-demand tech skills including AI, machine learning, data science, and software engineering with Zero To Mastery. | 66% OFF with code **BFCM25** from Nov 21 - Dec 1 |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
