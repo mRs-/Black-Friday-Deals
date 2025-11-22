@@ -234,6 +234,7 @@ Once configured, every change merged into `master` rebuilds and publishes the st
 | 💸 | [Workspaces 2](https://www.apptorium.com/workspaces) | Project-based launcher that opens your files, folders, websites, apps etc. with one click. | 50% OFF Lifetime, Nov 21th - Dec 3th |
 | 💰 | [SideNotes](https://www.apptorium.com/sidenotes) | Take notes on your screen side with no distraction. | 40% OFF Lifetime, Nov 21th - Dec 3th |
 | 💸 | [Lattix](https://www.lattix.app) | Lattix is a powerful launcher which helps you to open any app or file with preset layouts across your monitors. | 50% off with code **BLACKFRIDAY25** Nov 21th - Dec 1st |
+| 💰 | [InfiniDesk (macOS)](https://infinidesk.app) | InfiniDesk lets you create multiple virtual desktops on your Mac, each with their own layout of files, folders and wallpaper. | **30% OFF** (no code needed) during **BLACK FRIDAY** Nov 27th - Dec 2nd 2025 |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
