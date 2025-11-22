@@ -64,7 +64,7 @@ Once configured, every change merged into `master` rebuilds and publishes the st
 | 💸 | [KloudUtils](https://kloudutils.com/) | Your Toolbox For Daily Work - AWS, K8S, Web and Dev tasks & Shareable links  | **50% OFF** Lifetime License with code **LAUNCH50** |
 | 💸 | [KeygenGo](https://keygengo.5km.tech) | A native macOS app that transforms your Keygen.sh experience. Manage licenses, track users, and monitor products through an elegant visual interface. | 50% OFF for Lifetime Plan with code **BF2025** (Nov 20 - Dec 2) |
 | 💸 | [DNSDeck](https://apps.apple.com/us/app/dnsdeck-manage-dns-zones/id6753925998?utm_source=BF-2025) | A powerful macOS DNS zone management client for CloudFlare and AWS Route 53. | ****50% OFF**** ($4.99) one-time purchase via the App Store |
-| 💰 | [ShipAhead](https://shipahe.ad) | Build your AI SaaS Startup in days, not months | **40% OFF** with code **BF2025** |
+| 💰 | [ShipAhead](https://shipahe.ad) | Launch your AI SaaS in days, not months | **40% OFF** with code **BF2025** |
 | 💰 | [DevWorkspace Pro](https://devworkspacepro.com) | Desktop app to easily build and manage Docker-powered web apps. | **40% off** with discount code **BLACKFRIDAY40OFF** |
 | 💸 | [Compot – SwiftUI Components](https://www.compotui.com/?utm_source=mrsbf) | Develop iOS apps faster with AI coding assistant and 100+ predesigned SwiftUI components. Explore SwiftUI and discover resources and tools for iOS app developers. | [**50% OFF** with code **BF2025**](https://apps.apple.com/redeem?ctx=offercodes&id=6471916279&code=BF2025) |
 | 💰 | [FullStro](http://fullstro.com/black-friday-deals/) | FullStro is an all-in-one multi-channel business automation platform that helps e-commerce businesses manage inventory, orders, and websites effortlessly. No code needed, fully integrated, and synchronized across sales, payments, and delivery systems. |70% OFF - Auto-Applied |
@@ -111,15 +111,15 @@ Once configured, every change merged into `master` rebuilds and publishes the st
 | 💰 | [AIScraper](https://aiscraper.co/) | Extract data from any website in seconds | **20% OFF** first payment, code **JOHNRUSH** (Nov 21 to Dec 7) |
 | 💸 | [SharpAPI](https://sharpapi.com/en/pricing/?utm_source=mrsbf) | AI workflow automation API for product descriptions, resume parsing, job-match scoring, SEO tags, and custom workflows. Built for developers who need reliable AI endpoints without managing models. | **50% OFF first year** with code **BF2025** |
 | 💸 | [Anything](https://createanything.com) | Anything is your AI agent for turning ideas into apps. Build sites, apps, tools, products and more just by describing what you want| **BFMRS2K25** 50% OFF (all plans) |
-| 🐝 | [SubtitleBee](https://subtitlebee.com/) | Add accurate subtitles to your videos with SubtitleBee. You can also use this tool to translate subtitles in 120+ languages and transcribe both audio and video content | Up to 32% OFF using code BEE20 at [checkout](https://subtitlebee.com/#pricing), Nov 1 - Dec 4|
-| 🐝 | [SubtitleBee](https://subtitlebee.com/) | Add accurate subtitles to your videos with SubtitleBee. You can also use this tool to translate subtitles in 120+ languages and transcribe both audio and video content | Up to 322% OFF using code BEE20 at [checkout](https://subtitlebee.com/#pricing), Nov 1 - Dec 4|
+| 💰 | [SubtitleBee](https://subtitlebee.com/) | Add accurate subtitles to your videos with SubtitleBee. You can also use this tool to translate subtitles in 120+ languages and transcribe both audio and video content | Up to 32% OFF using code BEE20 at [checkout](https://subtitlebee.com/#pricing), Nov 1 - Dec 4|
 | 💰 | [Sussurro Whisper Speech to Text](https://apps.apple.com/us/app/sussurro-speech-to-text-ai/id6742109110) | Sussurro (Italian for Whisper) is a Mac, iPhone & iPad app for private audio-to-text transcription using OpenAI’s Whisper models, running entirely on-device for privacy. It lets users choose models to balance speed and accuracy and has 0 tracking. Free to Test: Preview any model with complete real-time transcription during processing Then, a one-time in-app purchase unlocks forever | **40% OFF** Pro Lifetime only $ 2.99 between Nov 27 - Dec 3 |
-| ✍️ | [RewriteBar](https://rewritebar.com?ref=mrs&utm_source=mrsbf) | Improve your writing in any macOS application with AI assistance. Fix grammar, adjust tone, translate, rewrite, summarize — plus powerful custom actions and templates. | **50% OFF** with code **BF2025**, Nov 20 - Dec 2|
-| 🔥 | [RightBlogger](https://rightblogger.com?utm_source=mrsbf) | RightBlogger is the best AI article writer for bloggers, helping you automate your entire content workflow with powerful autoblogging features so you can drive more SEO and ChatGPT traffic effortlessly. | **50% OFF annual plans** (automatically applied), Nov 20 - Dec 1|
+| 💸 | [RewriteBar](https://rewritebar.com?ref=mrs&utm_source=mrsbf) | Improve your writing in any macOS application with AI assistance. Fix grammar, adjust tone, translate, rewrite, summarize — plus powerful custom actions and templates. | **50% OFF** with code **BF2025**, Nov 20 - Dec 2|
+| 💸 | [RightBlogger](https://rightblogger.com?utm_source=mrsbf) | RightBlogger is the best AI article writer for bloggers, helping you automate your entire content workflow with powerful autoblogging features so you can drive more SEO and ChatGPT traffic effortlessly. | **50% OFF annual plans** (automatically applied), Nov 20 - Dec 1|
 | 💸 | [QuickWhisper](https://quickwhisper.app) | QuickWhisper turns your Mac into a voice-first workspace. Speak instead of typing anywhere with system-wide dictation, automatically record and transcribe your meetings, then get instant AI summaries of everything you've recorded. | **[BFRIDAY25](https://iwtcom.gumroad.com/l/quickwhisper/BFRIDAY25)** to get **65% OFF**, Nov 20 - Dec 4|
-| ⚫ | [Alter](https://alterhq.com) | Most AI tools are chat windows. Alter is a system. It captures context from your apps. Learns your voice and workflow to deliver one-click outcomes. | **70% off** Exclusive Lifetime Bundle With 40,000 AI requests included and 2,000+ tools | NOV 20 - DEC 1 |
+| 💸 | [Alter](https://alterhq.com) | Most AI tools are chat windows. Alter is a system. It captures context from your apps. Learns your voice and workflow to deliver one-click outcomes. | **70% off** Exclusive Lifetime Bundle With 40,000 AI requests included and 2,000+ tools | NOV 20 - DEC 1 |
 | 💰 | [Dartassist](https://www.dartassist.com/) | AI-first career copilot that helps you create tailored resumes, track job applications, and enhance your career profile effortlessly. | **30% OFF** any plan with code **BLACKFRIDAY** (Nov 21 - Dec 2). Renews at discount for 6 months |
-| 💰 | [TranscribeX](https://www.transcribex.io/) | Local AI Transcription for macOS, Built for Privacy. No Cloud. Convert your audio and video into accurate transcripts. Support speaker diarisation and distilled whisper models. | **70% OFF Lifetime** with code **4OH6Y0D** from Gumroad |
+| 💸 | [PostSam](https://postsam.ai) | Build. Ship. Let Sam Grow Your Social Media. AI that creates, schedules, and publishes viral content automatically. | 50% OFF with code **BLACKFRIDAY2025** |
+| 💸 | [TranscribeX](https://www.transcribex.io/) | Local AI Transcription for macOS, Built for Privacy. No Cloud. Convert your audio and video into accurate transcripts. Support speaker diarisation and distilled whisper models. | **70% OFF Lifetime** with code **4OH6Y0D** from Gumroad |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
@@ -179,6 +179,8 @@ Once configured, every change merged into `master` rebuilds and publishes the st
 | 💰 | [StopTheMadness Pro](https://apps.apple.com/app/stopthemadness-pro/id6471380298) | Web browser extension for iOS and macOS that stops web site annoyances and privacy violations | **25% OFF** from Nov 21 to Dec 5 | 
 | 💰 | [Viso](https://getviso.app) | Beautiful minimal image viewer for macOS | 30% OFF LIFETIME- NO CODE REQUIRED, Nov 24th - Dec 4th |
 | 💰 | [Litur(iOS)](https://litur.app) | A color picker for the real world. Litur helps you find and collect all the colors around you. | 33% OFF Lifetime, Nov 24th - Dec 4th |
+| 💰 | [Dropshare (macOS)](https://dropshare.app) | Upload File, Share Link, Done. Upload screen shots, screen recordings and any files to your trusted storage provider and share them immediately with just a link. | **US$ 10 OFF** on Nov 28th |
+| 💸 | [Cursor Teleporter](https://www.apptorium.com/cursor-teleporter) | Teleport your cursor across your screens. | 50% OFF Lifetime, Nov 21th - Dec 3th |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
@@ -228,6 +230,10 @@ Once configured, every change merged into `master` rebuilds and publishes the st
 | 💸 | [ExtraDock](https://extradock.app) | Create unlimited floating Docks for macOS - Perfect for multiple monitors setups | 50% off with code **BLACKXXFRIDAY50** Nov 26th - Dec 1st |
 | 💰 | [Blark](https://blark.app) | The best way to take monochrome/black & white pictures and videos on the iPhone and iPad. | 30% OFF Yearly Plan with <strong>BLARKFRIDAY</strong>, Nov 24th - Dec 4th |
 | 💰 | [Litur(macOS)](https://litur.app) | A designer’s best-kept secret, a developer's best friend. Litur helps you manage and improve your colors and design workflow. | 30% OFF Lifetime - NO CODE REQUIRED, Nov 24th - Dec 4th |
+| 💸 | [FiveNotes](https://www.apptorium.com/fivenotes) | Teleport your cursor across your screens. | 50% OFF Lifetime, Nov 21th - Dec 3th |
+| 💸 | [Workspaces 2](https://www.apptorium.com/workspaces) | Project-based launcher that opens your files, folders, websites, apps etc. with one click. | 50% OFF Lifetime, Nov 21th - Dec 3th |
+| 💰 | [SideNotes](https://www.apptorium.com/sidenotes) | Take notes on your screen side with no distraction. | 40% OFF Lifetime, Nov 21th - Dec 3th |
+| 💸 | [Lattix](https://www.lattix.app) | Lattix is a powerful launcher which helps you to open any app or file with preset layouts across your monitors. | 50% off with code **BLACKFRIDAY25** Nov 21th - Dec 1st |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
@@ -262,7 +268,7 @@ Once configured, every change merged into `master` rebuilds and publishes the st
 | -- | ---| ------ | ------ |
 | 💸 | [Cuts - Hairstyle Try On Men](https://apps.apple.com/app/apple-store/id6753205043) | The easiest way to try instant men’s haircuts and colors with a quick selfie. | **50% OFF** first week with code **BLACKFRIDAY** |
 | 💸 | [Gardenly - AI Garden Design](https://apps.apple.com/app/apple-store/id6747178697) | Transform your garden instantly from one photo with photorealistic garden designs. | **50% OFF** first week with code **BLACKFRIDAY** |
-| 💸 | [BorderPrep](https://borderprep.com) | Arrive Ready for Any Country with pre-arrival checklist | **50% OFF** product feature |
+| 💸 | [BorderPrep](https://borderprep.com) | Arrive stress-free in any country | **50% OFF** product feature site-wide |
 | 💸 | [Heart2Heart – Couples Questions](https://www.couplequestions.com) | Conversation starters to help you get to know each other better and fall in love.  | [**50% OFF** with code **BF2025**](https://apps.apple.com/redeem?ctx=offercodes&id=6501986735&code=BF2025) |
 | 💸 | [Kindest – Relationship Tracker](https://www.kindest.app) | Keep strong relationships with your friends and family. Kindest helps you start and keep track of healthy and fun habits to nurture connections with your loved ones. |  [**50% OFF** with code **BF2025**](https://apps.apple.com/redeem?ctx=offercodes&id=6453754317&code=BF2025) |
 | 💸 | [DriveDex](https://apple.co/3C8HoJX) | Track mileage and expenses for all your vehicles. Available for iOS, iPadOS, and visionOS. | Lifetime 50% off - Auto-Applied |
