@@ -230,7 +230,8 @@ Once configured, every change merged into `master` rebuilds and publishes the st
 | 💸 | [ExtraDock](https://extradock.app) | Create unlimited floating Docks for macOS - Perfect for multiple monitors setups | 50% off with code **BLACKXXFRIDAY50** Nov 26th - Dec 1st |
 | 💰 | [Blark](https://blark.app) | The best way to take monochrome/black & white pictures and videos on the iPhone and iPad. | 30% OFF Yearly Plan with <strong>BLARKFRIDAY</strong>, Nov 24th - Dec 4th |
 | 💰 | [Litur(macOS)](https://litur.app) | A designer’s best-kept secret, a developer's best friend. Litur helps you manage and improve your colors and design workflow. | 30% OFF Lifetime - NO CODE REQUIRED, Nov 24th - Dec 4th |
-| 💸 | [FiveNotes](https://www.apptorium.com/fivenotes) | Teleport your cursor across your screens. | 50% OFF Lifetime, Nov 21th - Dec 3th |
+| 💸 | [FiveNotes](https://www.apptorium.com/fivenotes) | 5 quickly accessed notes. Floating above other apps and looking great with themes.
+  | 50% OFF Lifetime, Nov 21th - Dec 3th |
 | 💸 | [Workspaces 2](https://www.apptorium.com/workspaces) | Project-based launcher that opens your files, folders, websites, apps etc. with one click. | 50% OFF Lifetime, Nov 21th - Dec 3th |
 | 💰 | [SideNotes](https://www.apptorium.com/sidenotes) | Take notes on your screen side with no distraction. | 40% OFF Lifetime, Nov 21th - Dec 3th |
 | 💸 | [Lattix](https://www.lattix.app) | Lattix is a powerful launcher which helps you to open any app or file with preset layouts across your monitors. | 50% off with code **BLACKFRIDAY25** Nov 21th - Dec 1st |
