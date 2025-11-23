@@ -120,6 +120,7 @@ Once configured, every change merged into `master` rebuilds and publishes the st
 | 💰 | [Dartassist](https://www.dartassist.com/) | AI-first career copilot that helps you create tailored resumes, track job applications, and enhance your career profile effortlessly. | **30% OFF** any plan with code **BLACKFRIDAY** (Nov 21 - Dec 2). Renews at discount for 6 months |
 | 💸 | [PostSam](https://postsam.ai) | Build. Ship. Let Sam Grow Your Social Media. AI that creates, schedules, and publishes viral content automatically. | 50% OFF with code **BLACKFRIDAY2025** |
 | 💸 | [TranscribeX](https://www.transcribex.io/) | Local AI Transcription for macOS, Built for Privacy. No Cloud. Convert your audio and video into accurate transcripts. Support speaker diarisation and distilled whisper models. | **70% OFF Lifetime** with code **4OH6Y0D** from Gumroad |
+| 💸 | [Transcrybe - Live Translation](https://apps.apple.com/app/transcrybe-live-translation/id6670778781) | macOS menu bar app that adds live subtitles in 20 different languages to audio from your mic or any other app on your Mac. All on-device for speed & privacy. | **50% OFF** Lifetime access (no code needed, ends Dec 2, 2025) |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
@@ -312,6 +313,8 @@ Once configured, every change merged into `master` rebuilds and publishes the st
 | 💰 | [SpatialRead](https://spatialread.com/?utm_source=mrs) | Quickly understand complex research papers with AI-powered explanations. | **45% OFF** Lifetime plan ($49) |
 | 💸 | [Dictionaries](https://dictionaries.io/?utm_source=mrsbf) | Adds 80+ Wiktionary-based dictionaries directly to your Mac and Kindle, available system-wide (plus Kindle). | 50% OFF with code **BLACKFRIDAY25** |
 | 💸 | [Thoughts - Quotes Manager](https://apps.apple.com/app/thoughts-inspiration-manager/id6444917751) | Remember what inspires you with Thoughts — a central place for all your quotes, thoughts, life lessons, and whatever else you want to remind yourself of. | **50% OFF Lifetime** with code BLACK25 |
+| 💸 | [Nihongo – Japanese Dictionary](https://apps.apple.com/app/nihongo-japanese-dictionary/id881697245) | Modern Japanese dictionary & study tool with fast search, OCR, example sentences, kanji breakdowns, and flashcards. | **50% OFF** Nihongo Pro Lifetime Subscription (no code needed, in-app Black Friday upgrade, ends Dec 2, 2025) |
+| 💸 | [Nihongo Lessons](https://apps.apple.com/app/nihongo-lessons/id1640204242) | Step-by-step Japanese course app based on Japanese Level Up (Jalup), taking you from beginner to advanced with sentence-based SRS. | **50% OFF** Lifetime access (no code needed, in-app Black Friday pricing, ends Dec 2, 2025) |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
