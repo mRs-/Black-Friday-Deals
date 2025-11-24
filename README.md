@@ -255,7 +255,7 @@ Once configured, every change merged into `master` rebuilds and publishes the st
 | 💸 | [Chronos Planner](https://bosc.app/chronos.html) | Take control of your life with better daily planning. Features daily pages, a fully-featured editor, calendar integration, fast local searching, and many more helpful tools. | **50% OFF** one-time purchase (no code necessary) Nov 23rd - Dec 8th |
 | 💸 | [PostPocket](https://apps.apple.com/us/app/bookmark-links-postpocket/id6670723615) | Save everything you love in one clean space and access it instantly across all your devices. | **75% OFF Lifetime** (auto-applied), Nov 22 - Dec 4 |
 | 💸 | [ConniePad](https://conniepad.com) | Powerful note app for your brain. Offline-first. Native on macOS and iOS. AI Search & AI Chat inside notes. | 50% OFF with code **F25** |
-| 💸 | [ScreenFloat for Mac](https://eternalstorms.at/tameno) | Your Mac's Screen Capture All-Rounder | **50% OFF** from Nov 27th 2025 to December 1st, 2025 on the Mac App Store and Direct Purchase on the Website | (30% of proceeeds go to charity)
+| 💸 | [ScreenFloat for Mac](https://eternalstorms.at/ScreenFloat) | Your Mac's Screen Capture All-Rounder | **50% OFF** from Nov 27th 2025 to December 1st, 2025 on the Mac App Store and Direct Purchase on the Website | (30% of proceeeds go to charity)
 
 ⬆️ | [Go to Top](#table-of-contents)
 
