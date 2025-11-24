@@ -89,6 +89,7 @@ Once configured, every change merged into `master` rebuilds and publishes the st
 | 💸 | [Dataflare](https://dataflare.app) | Fast, simple, and lightweight database manager with intuitive GUI for 20+ databases: PostgreSQL, MySQL, SQLite, ClickHouse, DuckDB, Redis, and more. | **50% OFF** with code **BF2025** (Nov 20 - Dec 2) |
 | 💸 | [Textastic](https://apps.apple.com/us/app/textastic-code-editor/id1049254261?ct=mRsbf25&pt=15967&mt=8) | Powerful native code editor for iPad and iPhone with remote file access (SFTP, WebDAV, iCloud Drive, Dropbox) and SSH terminal. | **50% OFF** the first year with code **BF2025**, (Nov 20 - Dec 3) |
 | 💰 | [Produktly](https://produktly.com) | All-in-one platform for product-led growth | **40% OFF** everything with code **BF2025** |
+| 💰 | [Lineicones](https://lineicons.com/) | 5300+ line icons for designers and developers with Pro CDN, multiple variations, an icon editor, and more. Available in WebFont, SVG, React, Vue and Figma files. | **40% OFF** with code **BLFCM2024** |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
