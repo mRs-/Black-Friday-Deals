@@ -120,6 +120,7 @@ Once configured, every change merged into `master` rebuilds and publishes the st
 | 💰 | [Dartassist](https://www.dartassist.com/) | AI-first career copilot that helps you create tailored resumes, track job applications, and enhance your career profile effortlessly. | **30% OFF** any plan with code **BLACKFRIDAY** (Nov 21 - Dec 2). Renews at discount for 6 months |
 | 💸 | [PostSam](https://postsam.ai) | Build. Ship. Let Sam Grow Your Social Media. AI that creates, schedules, and publishes viral content automatically. | 50% OFF with code **BLACKFRIDAY2025** |
 | 💸 | [TranscribeX](https://www.transcribex.io/) | Local AI Transcription for macOS, Built for Privacy. No Cloud. Convert your audio and video into accurate transcripts. Support speaker diarisation and distilled whisper models. | **70% OFF Lifetime** with code **4OH6Y0D** from Gumroad |
+| 💸 | [GasbyAI](https://gasbyai.com/?utm_source=mrsbf) | Web and Desktop AI Chat - Support latest AI models (GPT, Claude, Gemini, OpenRouter & more). Generate images, craft content, analyze documents, code, or research online — all in one place | 60% OFF with code **BlackFriday2025** |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
