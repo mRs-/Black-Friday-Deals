@@ -312,7 +312,7 @@ Once configured, every change merged into `master` rebuilds and publishes the st
 | 💰 | [SpatialRead](https://spatialread.com/?utm_source=mrs) | Quickly understand complex research papers with AI-powered explanations. | **45% OFF** Lifetime plan ($49) |
 | 💸 | [Dictionaries](https://dictionaries.io/?utm_source=mrsbf) | Adds 80+ Wiktionary-based dictionaries directly to your Mac and Kindle, available system-wide (plus Kindle). | 50% OFF with code **BLACKFRIDAY25** |
 | 💸 | [Thoughts - Quotes Manager](https://apps.apple.com/app/thoughts-inspiration-manager/id6444917751) | Remember what inspires you with Thoughts — a central place for all your quotes, thoughts, life lessons, and whatever else you want to remind yourself of. | **50% OFF Lifetime** with code BLACK25 |
-
+| 💸 | [TweetBlink](https://tweetbl.ink) | AI-powered tweet generator that creates optimized, personalized content. Turn ideas into engaging posts that sound like you | **50% OFF Lifetime** with code BLACKFRIDAY2025 |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
