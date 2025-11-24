@@ -250,6 +250,7 @@ Once configured, every change merged into `master` rebuilds and publishes the st
 | 💸 | [Chronos Planner](https://bosc.app/chronos.html) | Take control of your life with better daily planning. Features daily pages, a fully-featured editor, calendar integration, fast local searching, and many more helpful tools. | **50% OFF** one-time purchase (no code necessary) Nov 23rd - Dec 8th |
 | 💸 | [PostPocket](https://apps.apple.com/us/app/bookmark-links-postpocket/id6670723615) | Save everything you love in one clean space and access it instantly across all your devices. | **75% OFF Lifetime** (auto-applied), Nov 22 - Dec 4 |
 | 💸 | [ConniePad](https://conniepad.com) | Powerful note app for your brain. Offline-first. Native on macOS and iOS. AI Search & AI Chat inside notes. | 50% OFF with code **F25** |
+| 💸 | [Focusito](https://apps.apple.com/us/app/focusito-pomodoro-focus-timer/id1473808464?mt=12) | Focusito is the Mac-native Pomodoro timer that boosts focus with 16 nature and binaural soundscapes. | 50% off (Expires Nov 30) |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
@@ -298,7 +299,7 @@ Once configured, every change merged into `master` rebuilds and publishes the st
 | 💸 | [Digital Photo Frame App](https://www.digitalphotoframeapp.com) | Turn your device into a powerful Smart Photo Frame. For iOS, iPadOS, macOS and tvOS. | **67% OFF** No promocode required |
 | 💰 | [LifePace Habit Streaks Tracker](https://apps.apple.com/us/app/lifepace-habit-streaks-tracker/id6751773159) | Start 2026 the right way with LifePace, the new habit tracker that turns good intentions into lasting results: create routines that fit your life, stay motivated with clear progress, and enjoy a modern Liquid Glass design. Widgets, Siri, Shortcuts and on‑device Apple Intelligence keep you on track every day while your data sync privately via iCloud on iPhone, iPad, Mac, Apple Watch | **40% OFF** Pro Forever only $ 7.99 between Nov 27 - Dec 3 |
 | 💸 | [Airfare Alerts: Price Tracker](https://getairfarealerts.com/) | Get real‑time flight price alerts that match your budget and travel preferences, not generic deals. For iOS and Android. | **90% OFF** forever on Premium Annual plan. Auto-applied in app. |
-| 💸 | [AudioBo: AudioBook Converter](https://apps.apple.com/us/app/audiobo-audiobook-converter/id6754019673) | AudioBo turns messy audio folders into a polished, chaptered M4B — ready for Apple Books and old iPods alike. Unlike MP3, the M4B format is designed specifically for audiobooks. | **50%** off (Expires Nov 30) |
+| 💸 | [AudioBo: AudioBook Converter](https://apps.apple.com/us/app/audiobo-audiobook-converter/id6754019673) | AudioBo turns messy audio folders into a polished, chaptered M4B — ready for Apple Books and old iPods alike. Unlike MP3, the M4B format is designed specifically for audiobooks. | 50% off (Expires Nov 30) |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
