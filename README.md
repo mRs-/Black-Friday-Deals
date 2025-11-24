@@ -87,8 +87,11 @@ Once configured, every change merged into `master` rebuilds and publishes the st
 | 💸 | [SQLPro Studio](https://www.sqlprostudio.com/blackfriday.html?utm_source=mRsbf25) | A native, lightweight database client for macOS that supports MySQL, Postgres, SQL Server, SQLite, and more. | **50% off** with promo code **BFHALFOFF** |
 | 💰 | [JuxtaCode](https://juxtacode.app/) | Compare Git branches and resolve merge conflicts with ease. | 25% off with code **BLACKFRIDAY25** |
 | 💸 | [Dataflare](https://dataflare.app) | Fast, simple, and lightweight database manager with intuitive GUI for 20+ databases: PostgreSQL, MySQL, SQLite, ClickHouse, DuckDB, Redis, and more. | **50% OFF** with code **BF2025** (Nov 20 - Dec 2) |
+| 💸 | [Pixpa](https://www.pixpa.com/?via=blfpixpa55) | Pixpa is a no-code website builder for creatives and small businesses to showcase work, run blogs, sell online, and manage client galleries. | **55%** discount on Pixpa’s annual plans. **BLFPIXPA55** |
 | 💸 | [Textastic](https://apps.apple.com/us/app/textastic-code-editor/id1049254261?ct=mRsbf25&pt=15967&mt=8) | Powerful native code editor for iPad and iPhone with remote file access (SFTP, WebDAV, iCloud Drive, Dropbox) and SSH terminal. | **50% OFF** the first year with code **BF2025**, (Nov 20 - Dec 3) |
 | 💰 | [Produktly](https://produktly.com) | All-in-one platform for product-led growth | **40% OFF** everything with code **BF2025** |
+| 💰 | [Lineicones](https://lineicons.com/) | 5300+ line icons for designers and developers with Pro CDN, multiple variations, an icon editor, and more. Available in WebFont, SVG, React, Vue and Figma files. | **40% OFF** with code **BLFCM2024** |
+| 💰 | [Swifty Compiler: Swift IDE](https://apps.apple.com/app/id1544749600) | Swifty Compiler is your go-to tool for Swift coding on the fly! Available on both macOS and iOS. Perfect for testing algorithms, experimenting with new ideas, or brushing up on your Swift skills. It’s like having a mini playground in your pocket! | **20% OFF** on Lifetime Premium |
 | 💰 | [Pagerly](https://pagerly.io) | Oncalls, Rotations, Incidents, Tasks on Slack/Teams with Ease | 20% Black Friday off on oncall products Use code BF2025 on checkout |
 | 💰 | [SyncMyGroup](https://syncmygroup.com) | Sync Users, Teams, Groups across platforms | 20% Black Friday off on oncall products Use code BF2025 on checkout |
 
@@ -126,8 +129,8 @@ Once configured, every change merged into `master` rebuilds and publishes the st
 | 💸 | [TranscribeX](https://www.transcribex.io/) | Local AI Transcription for macOS, Built for Privacy. No Cloud. Convert your audio and video into accurate transcripts. Support speaker diarisation and distilled whisper models. | **70% OFF Lifetime** with code **4OH6Y0D** from Gumroad |
 | 💸 | [Transcrybe - Live Translation](https://apps.apple.com/app/transcrybe-live-translation/id6670778781) | macOS menu bar app that adds live subtitles in 20 different languages to audio from your mic or any other app on your Mac. All on-device for speed & privacy. | **50% OFF** Lifetime access (no code needed, ends Dec 2, 2025) |
 | 💸 | [GasbyAI](https://gasbyai.com/?utm_source=mrsbf) | Web and Desktop AI Chat - Support latest AI models (GPT, Claude, Gemini, OpenRouter & more). Generate images, craft content, analyze documents, code, or research online — all in one place | 60% OFF with code **BlackFriday2025** |
+| 💰 | [LilyFM](https://apps.apple.com/us/app/lilyfm-ai-text-to-speech/id6745472149) | Turn URLs, PDFs, and scanned documents into podcasts with AI insights tailored to you so you learn while multitasking. | App Store **21% OFF** for Annual Plan |
 | 💸 | [Updately](https://updately.ai) | Monitor and grow your product mentions in ChatGPT, and your customer conversations over Reddit, X, LinkedIn, Facebook, etc | 20% Black Friday off on oncall products Use code BF2025 on checkout |
-
 
 ⬆️ | [Go to Top](#table-of-contents)
 
@@ -142,6 +145,7 @@ Once configured, every change merged into `master` rebuilds and publishes the st
 | 💰 | [TinyAdz](https://tinyadz.com/) | Ad network with no fluff, no fraud. Advertisers get real ROI, publishers earn legit revenue | **20% OFF** first payment, code **JOHNRUSH** (Nov 21 to Dec 7) |
 | 💰 | [WaveGen.ai](https://wavegen.ai) | Turn text content(e.g. blog url, podcast scripts) into clips / carousels for social media. Create, edit, schedule, publish all in one - turn expertise into visibility automatically, and consistently. | **40% OFF** yearly plan with code **BF2025** |
 | 💰 | [Snov.io](https://snov.io/) | Snov.io is sales automation platform to find, verify, and manage leads, run personalized email campaigns.| **50% OFF** annual plan with code **BLACKFRIDAY** |
+| 💸 | [Appfigures](https://appfigures.com?utm_source=mrsbf) | ASO, Apple Ads Optimization, and App Intelligence tools to help you get more downloads.| 50% OFF monthly and yearly plans **BF2550** |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
@@ -249,6 +253,8 @@ Once configured, every change merged into `master` rebuilds and publishes the st
 | 💰 | [InfiniDesk (macOS)](https://infinidesk.app) | InfiniDesk lets you create multiple virtual desktops on your Mac, each with their own layout of files, folders and wallpaper. | **30% OFF** (no code needed) during **BLACK FRIDAY** Nov 27th - Dec 2nd 2025 |
 | 💸 | [Chronos Planner](https://bosc.app/chronos.html) | Take control of your life with better daily planning. Features daily pages, a fully-featured editor, calendar integration, fast local searching, and many more helpful tools. | **50% OFF** one-time purchase (no code necessary) Nov 23rd - Dec 8th |
 | 💸 | [PostPocket](https://apps.apple.com/us/app/bookmark-links-postpocket/id6670723615) | Save everything you love in one clean space and access it instantly across all your devices. | **75% OFF Lifetime** (auto-applied), Nov 22 - Dec 4 |
+| 💸 | [ConniePad](https://conniepad.com) | Powerful note app for your brain. Offline-first. Native on macOS and iOS. AI Search & AI Chat inside notes. | 50% OFF with code **F25** |
+| 💰 | [Paste](https://pasteapp.io) | Paste keeps everything you copy organized and searchable. Lightweight, intuitive, packed with smart features, and private by design. | **50% OFF** Mac + iOS, on the Apple App Store or with code **BLACKFRIDAY2025** Nov 24th - Dec 1st 2025 |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
@@ -264,6 +270,7 @@ Once configured, every change merged into `master` rebuilds and publishes the st
 | 💸 | [FilterGrade](https://filtergrade.com) | The visual marketplace for creators. Get discounts up to 60% OFF Video LUTs, Photo Presets, Social Media Templates and more. | **30% OFF ENTIRE CART** with discount code **BFCM2025** from 2025-11-25 to 2025-12-02 |
 | 💰 | [FaceScreen (macOS)](https://facescreenapp.com) | Show your face and brand on top of everything else. | **40% OFF** from Nov 21 to Dec 2. No code needed. |
 | 💸 | [Motionik](https://motionik.com) | A screen recorder for Windows & macOS with a built-in editor for creating engaging product demos & tutorials with auto zoom, cursor effects & more. | **50% OFF** lifetime plan with code **BF50** from 2025-11-21 to 2025-11-30 |
+| 💰 | [TopazLabs](https://www.topazlabs.com/) | Best finishing platform for every image and video you create, shoot and generate | **43% OFF** for Studio and **15% OFF** for single apps. No code needed | 
 
 
 ⬆️ | [Go to Top](#table-of-contents)
@@ -279,6 +286,7 @@ Once configured, every change merged into `master` rebuilds and publishes the st
 | 💰 | [RapidWeaver Elements](https://realmacsoftware.com/rapidweaver) | A Powerful, Next-Gen Website Builder for Mac. Design and publish modern, responsive websites visually with complete design freedom, no-code required. | Save 45% on first year with code **BLACKFRIDAY45**. Ends December 1st. |
 | 💰 | [RapidWeaver Classic](https://realmacsoftware.com/rapidweaver-classic/) | The Original Easy to Use Web Design Software for Mac. Select a theme, add your content, and publish. No-code required | Save 45% on first year with code **BLACKFRIDAY45**. Ends December 1st. |
 | 💰 | [Squash 3](https://realmacsoftware.com/squash/) | Powerful Batch Photo Editor. Quickly batch convert, and resize images. Apply layered watermarks and filters, rename files, remove or edit private metadata, and so much more. | Save 45% on first year with code **BLACKFRIDAY45**. Ends December 1st. |
+| 💰 | [Animock: 3D Mockup Maker](https://apps.apple.com/app/id6471911398) | Turn screenshots and recordings into stunning 3D mockups and videos. Showcase your content in animated, realistic device frames — perfect for App Store shots, preview videos, social posts, and client presentations. | **20% OFF** on Lifetime PRO |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
@@ -325,7 +333,7 @@ Once configured, every change merged into `master` rebuilds and publishes the st
 | 💸 | [Thoughts - Quotes Manager](https://apps.apple.com/app/thoughts-inspiration-manager/id6444917751) | Remember what inspires you with Thoughts — a central place for all your quotes, thoughts, life lessons, and whatever else you want to remind yourself of. | **50% OFF Lifetime** with code BLACK25 |
 | 💸 | [Nihongo – Japanese Dictionary](https://apps.apple.com/app/nihongo-japanese-dictionary/id881697245) | Modern Japanese dictionary & study tool with fast search, OCR, example sentences, kanji breakdowns, and flashcards. | **50% OFF** Nihongo Pro Lifetime Subscription (no code needed, in-app Black Friday upgrade, ends Dec 2, 2025) |
 | 💸 | [Nihongo Lessons](https://apps.apple.com/app/nihongo-lessons/id1640204242) | Step-by-step Japanese course app based on Japanese Level Up (Jalup), taking you from beginner to advanced with sentence-based SRS. | **50% OFF** Lifetime access (no code needed, in-app Black Friday pricing, ends Dec 2, 2025) |
-
+| 💸 | [TweetBlink](https://tweetbl.ink) | AI-powered tweet generator that creates optimized, personalized content. Turn ideas into engaging posts that sound like you | **50% OFF Lifetime** with code BLACKFRIDAY2025 |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
@@ -408,7 +416,7 @@ Once configured, every change merged into `master` rebuilds and publishes the st
 | -- | ---| ------ | ------ |
 | 💰 | [SubManager](https://submanager.app) | Track your subscriptions in one place on all your Apple devices and get notified whenever a subscription is due for renewal. | 75% off SubManager+ IAP ($1.49, available from Nov 28 to Dec 3) |
 | 💰 | [Capitally](https://www.mycapitally.com?ref=awsm-bfd&discount=BLACKWEEK25) | Wealth tracker for assets, liabilities, and stock options, allowing for deep analysis and control for portfolios of any size | **20% OFF** on all plans, including **5-Year** plan, code: **BLACKWEEK25** |
-
+| 💰 | [Vexly](https://vexly.app) | Track all your subscriptions in one place. Get reminded 7 days before renewals, set budgets, and avoid surprise charges. No bank connections required - privacy-first design. | 50% OFF Lifetime |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
