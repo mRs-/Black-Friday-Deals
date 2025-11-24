@@ -266,7 +266,7 @@ Once configured, every change merged into `master` rebuilds and publishes the st
 | 💰 | [FaceScreen (macOS)](https://facescreenapp.com) | Show your face and brand on top of everything else. | **40% OFF** from Nov 21 to Dec 2. No code needed. |
 | 💸 | [Motionik](https://motionik.com) | A screen recorder for Windows & macOS with a built-in editor for creating engaging product demos & tutorials with auto zoom, cursor effects & more. | **50% OFF** lifetime plan with code **BF50** from 2025-11-21 to 2025-11-30 |
 | 💰 | [TopazLabs](https://www.topazlabs.com/) | Best finishing platform for every image and video you create, shoot and generate | **43% OFF** for Studio and **15% OFF** for single apps. No code needed | 
-
+| 💰 | [Rendley](https://rendley.com?utm_source=mRs-) | Rendley is an online video editor that brings together all the editing tools you need to create great video content. | 35% OFF annual plan with code **RENDLEY35** from 2025-11-21 to 2025-11-30 |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
