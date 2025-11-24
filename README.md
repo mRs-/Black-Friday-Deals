@@ -132,6 +132,7 @@ Once configured, every change merged into `master` rebuilds and publishes the st
 | 💰 | [LilyFM](https://apps.apple.com/us/app/lilyfm-ai-text-to-speech/id6745472149) | Turn URLs, PDFs, and scanned documents into podcasts with AI insights tailored to you so you learn while multitasking. | App Store **21% OFF** for Annual Plan |
 | 💸 | [Updately](https://updately.ai) | Monitor and grow your product mentions in ChatGPT, and your customer conversations over Reddit, X, LinkedIn, Facebook, etc | 20% Black Friday off on oncall products Use code BF2025 on checkout |
 | 🎨 | [Infography](https://infography.in/) | Turn your blogs into stunning, shareable infographics. | **50% OFF** on Lifetime Deals with code **BFCM2025** |
+| 💰 | [Manzoni](https://manzoni.app) | Word processor that runs LLMs entirely on your device to help you brainstorm, draft, and edit text without cloud processing or data tracking. | 10% OFF LIFETIME with code **BLACKFRIDAY10** |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
