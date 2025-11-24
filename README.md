@@ -94,6 +94,7 @@ Once configured, every change merged into `master` rebuilds and publishes the st
 | 💰 | [Swifty Compiler: Swift IDE](https://apps.apple.com/app/id1544749600) | Swifty Compiler is your go-to tool for Swift coding on the fly! Available on both macOS and iOS. Perfect for testing algorithms, experimenting with new ideas, or brushing up on your Swift skills. It’s like having a mini playground in your pocket! | **20% OFF** on Lifetime Premium |
 | 💰 | [Pagerly](https://pagerly.io) | Oncalls, Rotations, Incidents, Tasks on Slack/Teams with Ease | 20% Black Friday off on oncall products Use code BF2025 on checkout |
 | 💰 | [SyncMyGroup](https://syncmygroup.com) | Sync Users, Teams, Groups across platforms | 20% Black Friday off on oncall products Use code BF2025 on checkout |
+| 💰 | [AppCatalystRN](https://appcatalystrn.com/) | React Native/Expo Cross Platform Starter Kit | **20% OFF**, code **BLACKFRIDAY25** (Nov 19 to Dec 31) |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
