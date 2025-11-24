@@ -260,6 +260,7 @@ Once configured, every change merged into `master` rebuilds and publishes the st
 | 💸 | [ConniePad](https://conniepad.com) | Powerful note app for your brain. Offline-first. Native on macOS and iOS. AI Search & AI Chat inside notes. | 50% OFF with code **F25** |
 | 💰 | [Paste](https://pasteapp.io) | Paste keeps everything you copy organized and searchable. Lightweight, intuitive, packed with smart features, and private by design. | **50% OFF** Mac + iOS, on the Apple App Store or with code **BLACKFRIDAY2025** Nov 24th - Dec 1st 2025 |
 | 💸 | [DeskMinder²](https://appps.od.ua/deskminder/) | A simple yet effective macOS app for people who get easily distracted. Create quick reminders & start tasks on your desktop | 50% OFF Lifetime (Nov 24-28) |
+| 💰 | [Snippety](https://snippety.app) | Powerful productivity tool for macOS and iOS that helps you work faster with instantly accessible snippets and intelligent placeholders. | **34% OFF Lifetime**, Mac + iOS, on the App Store (Nov 27th - Dec 2nd) |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
