@@ -201,6 +201,11 @@ Once configured, every change merged into `master` rebuilds and publishes the st
 | 💰 | [KeyScreen (macOS)](https://keyscreenapp.com) | Show your keystrokes on screen. The most customizable keypress visualizer for Mac | **40% OFF** from Nov 21 to Dec 2. No code needed. |
 | 💰 | [Tripsy Pro](http://tripsy.app/download) | Travel Planner for iOS and Mac. Finalist as App of the Year for iPhone 2024. | **50% OFF** on [Lifetime](https://buy.stripe.com/3cscMW3wb1aybqocMN?prefilled_promo_code=BLACKFRIDAY202550OFF) and [1-Year plan](https://buy.stripe.com/dR6aEO9Uz3iG2TS6os?prefilled_promo_code=BLACKFRIDAY202550OFF), until Dec 2 |
 | 💸 | [AIWATransfer](https://aiwatransfer.com/) | AIWATransfer lets you securely move your WhatsApp chats, media, and attachments between Android and iPhone — no cloud storage, no data loss, no technical steps required. Use the promo code "**BF2025**" | **50% OFF** on Premium & Pro Plans, until Dec 2 |
+| 💸 | [Yoink for Mac](https://eternalstorms.at/yoink/mac) | Improve and Simplify Drag and Drop on your Mac with Yoink | **77% OFF** from Nov 27th 2025 to December 1st, 2025 on the Mac App Store and Direct Purchase on the Website | (30% of proceeeds go to charity)
+| 💸 | [Yoink for iPhone and iPad](https://eternalstorms.at/yoink/ios) | Your files and snippet shelf with clipboard observing powers | **66% OFF** from Nov 27th 2025 to December 1st, 2025 on the Mac App Store and Direct Purchase on the Website | (30% of proceeeds go to charity)
+| 💸 | [Transloader for Mac](https://eternalstorms.at/transloader) | Manage downloads on your Macs, remotely from your iPhone, iPad, and other Macs | **60% OFF** from Nov 27th 2025 to December 1st, 2025 on the Mac App Store and Direct Purchase on the Website | (30% of proceeeds go to charity)
+| 💸 | [DeskMat for Mac](https://eternalstorms.at/DeskMat) | Cover your messy desktop with a single click | **50% OFF** from Nov 27th 2025 to December 1st, 2025 on the Mac App Store and Direct Purchase on the Website | (30% of proceeeds go to charity)
+| 💸 | [Tameno for Apple Watch, iPhone, iPad, Mac and Apple TV](https://eternalstorms.at/tameno) | Keep your mind at peace, let Tameno keep the pace | **50% OFF** from Nov 27th 2025 to December 1st, 2025 on the Mac App Store and Direct Purchase on the Website | (30% of proceeeds go to charity)
 
 ⬆️ | [Go to Top](#table-of-contents)
 
@@ -262,6 +267,7 @@ Once configured, every change merged into `master` rebuilds and publishes the st
 | 💰 | [Paste](https://pasteapp.io) | Paste keeps everything you copy organized and searchable. Lightweight, intuitive, packed with smart features, and private by design. | **50% OFF** Mac + iOS, on the Apple App Store or with code **BLACKFRIDAY2025** Nov 24th - Dec 1st 2025 |
 | 💸 | [DeskMinder²](https://appps.od.ua/deskminder/) | A simple yet effective macOS app for people who get easily distracted. Create quick reminders & start tasks on your desktop | 50% OFF Lifetime (Nov 24-28) |
 | 💸 | [Focusito](https://apps.apple.com/us/app/focusito-pomodoro-focus-timer/id1473808464?mt=12) | Focusito is the Mac-native Pomodoro timer that boosts focus with 16 nature and binaural soundscapes. | 50% off (Expires Nov 30) |
+| 💸 | [ScreenFloat for Mac](https://eternalstorms.at/ScreenFloat) | Your Mac's Screen Capture All-Rounder | **50% OFF** from Nov 27th 2025 to December 1st, 2025 on the Mac App Store and Direct Purchase on the Website | (30% of proceeeds go to charity)
 
 ⬆️ | [Go to Top](#table-of-contents)
 
