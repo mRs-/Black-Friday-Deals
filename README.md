@@ -87,6 +87,7 @@ Once configured, every change merged into `master` rebuilds and publishes the st
 | 💸 | [SQLPro Studio](https://www.sqlprostudio.com/blackfriday.html?utm_source=mRsbf25) | A native, lightweight database client for macOS that supports MySQL, Postgres, SQL Server, SQLite, and more. | **50% off** with promo code **BFHALFOFF** |
 | 💰 | [JuxtaCode](https://juxtacode.app/) | Compare Git branches and resolve merge conflicts with ease. | 25% off with code **BLACKFRIDAY25** |
 | 💸 | [Dataflare](https://dataflare.app) | Fast, simple, and lightweight database manager with intuitive GUI for 20+ databases: PostgreSQL, MySQL, SQLite, ClickHouse, DuckDB, Redis, and more. | **50% OFF** with code **BF2025** (Nov 20 - Dec 2) |
+| 💸 | [Textastic](https://apps.apple.com/us/app/textastic-code-editor/id1049254261?ct=mRsbf25&pt=15967&mt=8) | Powerful native code editor for iPad and iPhone with remote file access (SFTP, WebDAV, iCloud Drive, Dropbox) and SSH terminal. | **50% OFF** the first year with code **BF2025**, (Nov 20 - Dec 3) |
 | 💰 | [Produktly](https://produktly.com) | All-in-one platform for product-led growth | **40% OFF** everything with code **BF2025** |
 
 ⬆️ | [Go to Top](#table-of-contents)
@@ -185,6 +186,7 @@ Once configured, every change merged into `master` rebuilds and publishes the st
 | 💸 | [Lingon](https://apps.apple.com/redeem?ctx=offercodes&id=6742142873&code=BLACKWEEK25YEAR) | Meet the new easy to use Lingon to help you run whatever you want, whenever you want | **50% OFF** for one year with the link |
 | 💰 | [KeyScreen (macOS)](https://keyscreenapp.com) | Show your keystrokes on screen. The most customizable keypress visualizer for Mac | **40% OFF** from Nov 21 to Dec 2. No code needed. |
 | 💰 | [Tripsy Pro](http://tripsy.app/download) | Travel Planner for iOS and Mac. Finalist as App of the Year for iPhone 2024. | **50% OFF** on [Lifetime](https://buy.stripe.com/3cscMW3wb1aybqocMN?prefilled_promo_code=BLACKFRIDAY202550OFF) and [1-Year plan](https://buy.stripe.com/dR6aEO9Uz3iG2TS6os?prefilled_promo_code=BLACKFRIDAY202550OFF), until Dec 2 |
+| 💸 | [AIWATransfer](https://aiwatransfer.com/) | AIWATransfer lets you securely move your WhatsApp chats, media, and attachments between Android and iPhone — no cloud storage, no data loss, no technical steps required. Use the promo code "**BF2025**" | **50% OFF** on Premium & Pro Plans, until Dec 2 |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
@@ -299,6 +301,7 @@ Once configured, every change merged into `master` rebuilds and publishes the st
 | 💸 | [Nuelink](https://www.nuelink.com/) | Nuelink is a social media management platform that automates scheduling, publishing, and content workflows across major platforms like Instagram, Twitter/X, LinkedIn, TikTok, and YouTube. It offers powerful features such as bulk scheduling, post recycling, analytics, content automation, integrations with tools like Zapier and n8n, AI-powered caption generation, and team collaboration tools. All designed to simplify content management and scale social media growth efficiently. | **30% off** monthly & Up to **65% off** yearly|
 | 💰 | [SocialBott](https://socialbott.com/) | AI assistant managing your social media using your existing content — no fabricated advice | **20% OFF** first payment, code **JOHNRUSH** (Nov 21 to Dec 7) |
 | 💰 | [OutlierKit](https://outlierkit.com/) | AI Powered YouTube Research tool that helps you find outlier videos, low-competition & high-volume keywords, channel analytics, script analysis. | **30% OFF** on all plans, code **BFCM25** (Nov 17 to Dec 4) |
+| 💰 | [TranscriptBunny](https://www.transcriptbunny.com) | YouTube transcript API - Extract transcripts from any YouTube video with timestamps and text. Fast, reliable API for developers who want to ship fast | Use promo code **BF25** for a **30% discount** on all plans |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
