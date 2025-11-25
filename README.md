@@ -480,7 +480,7 @@ Once configured, every change merged into `master` rebuilds and publishes the st
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
-| 💸 | [New Row Template](https://example.com/?utm_source=mrsbf) |Example description |**BFCM25** |
+| 💸 | [ChezAI – Home Design](https://apps.apple.com/us/app/id6740142224) | Home Design & Remodel: ChezAI is your AI home designer and planner. Visualize, design, remodel, and transform your space like a pro with cutting-edge AI. |[**50% Off** Premium AI Credits Package](https://apps.apple.com/redeem?ctx=offercodes&id=6740142224&code=BF2025) |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
