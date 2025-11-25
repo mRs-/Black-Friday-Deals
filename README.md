@@ -137,6 +137,7 @@ Once configured, every change merged into `master` rebuilds and publishes the st
 | 💰 | [Manzoni](https://manzoni.app) | Word processor that runs LLMs entirely on your device to help you brainstorm, draft, and edit text without cloud processing or data tracking. | 10% OFF LIFETIME with code **BLACKFRIDAY10** |
 | 🎙️ | [Voibe](https://www.getvoibe.com) | Voibe is a really fast dictation app for Mac built for AI power users. Prompt with your voice, 3x faster. Works offline and fully private. Your data never leaves your Mac. | **50% OFF** on lifetime plan for BFCM |
 | 📝 | [AI Meeting Notes & Recorder](https://apps.apple.com/app/ai-meeting-notes-recorder/id6746161214) | Turn meetings, lectures, and voice memos into structured notes using AI. Record audio, transcribe speech to text, generate summaries, create mind maps, and turn notes into flashcards instantly. Perfect for professionals, students, and creators who want to save time and stay organized. | 30% OFF with code **BLACKFRIDAY2025** |
+| 💸 | [Backona AI](https://backona.com/?utm_source=black-friday-deals-github&utm_medium=sale-list&utm_campaign=blackfriday2025) | Backona AI helps you turn marketing data into clear, actionable insights. It connects your key platforms like Google Analytics and advertising channels into one smart chat solution. | Get 30% off yearly subscriptions with code **BIGWIN30** or enjoy 50% off your first month with code **QUICKWIN50** |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
