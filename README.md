@@ -135,6 +135,7 @@ Once configured, every change merged into `master` rebuilds and publishes the st
 | 🎨 | [Infography](https://infography.in/) | Turn your blogs into stunning, shareable infographics. | **50% OFF** on Lifetime Deals with code **BFCM2025** |
 | 💰 | [Manzoni](https://manzoni.app) | Word processor that runs LLMs entirely on your device to help you brainstorm, draft, and edit text without cloud processing or data tracking. | 10% OFF LIFETIME with code **BLACKFRIDAY10** |
 | 🎙️ | [Voibe](https://www.getvoibe.com) | Voibe is a really fast dictation app for Mac built for AI power users. Prompt with your voice, 3x faster. Works offline and fully private. Your data never leaves your Mac. | **50% OFF** on lifetime plan for BFCM |
+| 📝 | [AI Meeting Notes & Recorder](https://apps.apple.com/app/ai-meeting-notes-recorder/id6746161214) | Turn meetings, lectures, and voice memos into structured notes using AI. Record audio, transcribe speech to text, generate summaries, create mind maps, and turn notes into flashcards instantly. Perfect for professionals, students, and creators who want to save time and stay organized. | 30% OFF with code **BLACKFRIDAY2025** |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
@@ -162,6 +163,7 @@ Once configured, every change merged into `master` rebuilds and publishes the st
 | 💸 | [iScan.today](https://iscan.today/?utm_source=mrsbf) | Discover Hidden Secrets Worth Thousands. | **50% off on all plans** with discount code **ISCANBF25** |
 | 💰 | [SimpleumSafe](https://simpleum.com/en/?utm_source=bf25) | SimpleumSafe protects the moments and documents that are nobody else's business: intimate photos that shouldn't appear in the photo app. Copies of ID cards. Travel documents. Medical records. Tax documents. | **30% off** No code needed |
 | 🛡️ | [Beagle Security](https://beaglesecurity.com/black-friday-sale) | Beagle Security is an AI-powered automated pentesting platform that simulates real-world attacks to uncover vulnerabilities in web apps, APIs, and GraphQL. With agentic AI agents, it streamlines testing, analyzes results, and delivers actionable insights for smarter vulnerability management. | **35% OFF annual** (Code **BFCMY25**) & **20% OFF monthly** (Code **BFCMM25**) — Valid for both Advanced & Essential plans for the next 6 months | **Nov 25 – Dec 4, 2025** |
+| 🎩 | [AdverseMonitor](https://adversemonitor.com/) | Real-time threat intelligence platform monitoring 500+ dark web sources, ransomware groups, and data breaches. Get instant alerts when your organization appears in threat actor communications. | Annual **Detection Plan** at **75% OFF** Black Friday Deal: $97 Regular: $388  Coupon code: **BLACKFRIDAY2025** | **Nov 25 – Dec 31, 2025** |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
@@ -270,6 +272,7 @@ Once configured, every change merged into `master` rebuilds and publishes the st
 | 💸 | [ScreenFloat for Mac](https://eternalstorms.at/ScreenFloat) | Your Mac's Screen Capture All-Rounder | **50% OFF** from Nov 27th 2025 to December 1st, 2025 on the Mac App Store and Direct Purchase on the Website | (30% of proceeeds go to charity)
 | 💰 | [Snippety](https://snippety.app) | Powerful productivity tool for macOS and iOS that helps you work faster with instantly accessible snippets and intelligent placeholders. | **34% OFF Lifetime**, Mac + iOS, on the App Store (Nov 27th - Dec 2nd) |
 | 💸 | [ADHD Structure Planner: Simple]([https://eternalstorms.at/ScreenFloat](https://apps.apple.com/redeem?ctx=offercodes&id=6742843891&code)) | Structure Your Day. Unlock Your Focus. Simple will boost your focus and productivity from day one! | **50% OFF** Lifetime | Offer ends on Dec 5th 2025 |
+| 💸 | [ScreenTimerAI](https://screentimerai.com/) | Privacy-first AI screen time tracker and analytics | **50% OFF** to 25$ for lifetime purchase with code **BLACKFRIDAY2025** Nov 24th - Dec 8th 2025 |
 | 💸 | [Trickster](https://www.apparentsoft.com/trickster) | Your recently used files, at your fingertips (Mac) | **50% OFF** Lifetime | Offer ends on Dec 2th 2025 |
 
 ⬆️ | [Go to Top](#table-of-contents)
@@ -385,6 +388,7 @@ Once configured, every change merged into `master` rebuilds and publishes the st
 | 💰 | [Fast Track To Senior Engineer](https://maven.com/top-engineer/fast-track-to-senior?promoCode=BF1125) | Become a high-performing software engineer and get promoted in 2026! | **25% off** autoapplied, code `BF1125` |
 | 💸 | [Build Your Own Pub/Sub Protocol (NATS)](https://protocol-zero.pmbanugo.me) | Master Distributed Systems by building a Pub/Sub server from raw TCP/Sockets. A deep-dive course & workshop on building a [NATS-compatible](https://nats.io) server from scratch | **60+% only during Cyberweek** ($49 Course / $129 Live Workshop). Discount is applied automatically from Nov. 27 to Dec. 1 |
 | 💰 | [How To Test Frontend](https://howtotestfrontend.com/) | Learn how to write and maintain tests for your frontend React based app | 25% off with **BLACKFRIDAYDEAL2025** (expires 5th Dec)
+| 💰 | [**pwn.guide**](https://pwn.guide) | Learn cybersecurity from more than 150+ tutorials, ranging from web, hardware, wireless... hacking to forensics, cryptography, defense & **certification training** (for certificates like the [CompTIA Security+ SY0-701](https://pwn.guide/certs/sy0-701) | [20% OFF ALL plans, including **Lifetime**](https://pwn.guide/pricing) (Coupon: `B`)|
 
 ⬆️ | [Go to Top](#table-of-contents)
 
