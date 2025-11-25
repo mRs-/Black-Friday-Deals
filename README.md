@@ -135,6 +135,7 @@ Once configured, every change merged into `master` rebuilds and publishes the st
 | 🎨 | [Infography](https://infography.in/) | Turn your blogs into stunning, shareable infographics. | **50% OFF** on Lifetime Deals with code **BFCM2025** |
 | 💰 | [Manzoni](https://manzoni.app) | Word processor that runs LLMs entirely on your device to help you brainstorm, draft, and edit text without cloud processing or data tracking. | 10% OFF LIFETIME with code **BLACKFRIDAY10** |
 | 🎙️ | [Voibe](https://www.getvoibe.com) | Voibe is a really fast dictation app for Mac built for AI power users. Prompt with your voice, 3x faster. Works offline and fully private. Your data never leaves your Mac. | **50% OFF** on lifetime plan for BFCM |
+| 📝 | [AI Meeting Notes & Recorder](https://apps.apple.com/app/ai-meeting-notes-recorder/id6746161214) | Turn meetings, lectures, and voice memos into structured notes using AI. Record audio, transcribe speech to text, generate summaries, create mind maps, and turn notes into flashcards instantly. Perfect for professionals, students, and creators who want to save time and stay organized. | 30% OFF with code **BLACKFRIDAY2025** |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
@@ -268,6 +269,8 @@ Once configured, every change merged into `master` rebuilds and publishes the st
 | 💸 | [DeskMinder²](https://appps.od.ua/deskminder/) | A simple yet effective macOS app for people who get easily distracted. Create quick reminders & start tasks on your desktop | 50% OFF Lifetime (Nov 24-28) |
 | 💸 | [Focusito](https://apps.apple.com/us/app/focusito-pomodoro-focus-timer/id1473808464?mt=12) | Focusito is the Mac-native Pomodoro timer that boosts focus with 16 nature and binaural soundscapes. | 50% off (Expires Nov 30) |
 | 💸 | [ScreenFloat for Mac](https://eternalstorms.at/ScreenFloat) | Your Mac's Screen Capture All-Rounder | **50% OFF** from Nov 27th 2025 to December 1st, 2025 on the Mac App Store and Direct Purchase on the Website | (30% of proceeeds go to charity)
+| 💰 | [Snippety](https://snippety.app) | Powerful productivity tool for macOS and iOS that helps you work faster with instantly accessible snippets and intelligent placeholders. | **34% OFF Lifetime**, Mac + iOS, on the App Store (Nov 27th - Dec 2nd) |
+| 💸 | [ADHD Structure Planner: Simple]([https://eternalstorms.at/ScreenFloat](https://apps.apple.com/redeem?ctx=offercodes&id=6742843891&code)) | Structure Your Day. Unlock Your Focus. Simple will boost your focus and productivity from day one! | **50% OFF** Lifetime | Offer ends on Dec 5th 2025 |
 | 💸 | [ScreenTimerAI](https://screentimerai.com/) | Privacy-first AI screen time tracker and analytics | **50% OFF** to 25$ for lifetime purchase with code **BLACKFRIDAY2025** Nov 24th - Dec 8th 2025 |
 
 ⬆️ | [Go to Top](#table-of-contents)
@@ -319,6 +322,7 @@ Once configured, every change merged into `master` rebuilds and publishes the st
 | 💰 | [LifePace Habit Streaks Tracker](https://apps.apple.com/us/app/lifepace-habit-streaks-tracker/id6751773159) | Start 2026 the right way with LifePace, the new habit tracker that turns good intentions into lasting results: create routines that fit your life, stay motivated with clear progress, and enjoy a modern Liquid Glass design. Widgets, Siri, Shortcuts and on‑device Apple Intelligence keep you on track every day while your data sync privately via iCloud on iPhone, iPad, Mac, Apple Watch | **40% OFF** Pro Forever only $ 7.99 between Nov 27 - Dec 3 |
 | 💸 | [Airfare Alerts: Price Tracker](https://getairfarealerts.com/) | Get real‑time flight price alerts that match your budget and travel preferences, not generic deals. For iOS and Android. | **90% OFF** forever on Premium Annual plan. Auto-applied in app. |
 | 💸 | [AudioBo: AudioBook Converter](https://apps.apple.com/us/app/audiobo-audiobook-converter/id6754019673) | AudioBo turns messy audio folders into a polished, chaptered M4B — ready for Apple Books and old iPods alike. Unlike MP3, the M4B format is designed specifically for audiobooks. | 50% off (Expires Nov 30) |
+| 💸 | [Travel Route Map](https://apps.apple.com/redeem?ctx=offercodes&id=6504141706&code=BLCKFRDY25) | Animate your travel destinations on the world map. Valid from 13th Nov to 31th Dec| **50% OFF** Lifetime Plan with code **BLCKFRDY25**|
 
 ⬆️ | [Go to Top](#table-of-contents)
 
@@ -404,6 +408,7 @@ Once configured, every change merged into `master` rebuilds and publishes the st
 | 💰 | [Habit Pixel](https://habitpixel.com/get) | A simple, satisfying habit tracker that helps you stay consistent, build better routines, and actually stick to your goals. Available on iOS and Android. | **40% OFF** Lifetime plan (auto-applied, Nov 20 - Dec 1, 2025) |
 | 💸 | [Migraine Tracker: Auralog](https://apps.apple.com/us/app/auralog-migraine-tracker/id6752360306) | Capture migraines quickly and uncover patterns that matter. | **60% OFF** Annual Package from Nov 24 to Dec 8 |
 | 💸 | [None to Run: Beginner Running Plans](https://apps.apple.com/us/app/none-to-run-beginner-5k-10k/id1491658094) | Achievable Walk/Run training programs for beginner runners. Start running today!| **50% OFF** Annual Plan with code **BLACKFRIDAY**|
+| 💸 | [Walk Mate: Weight Loss](https://apps.apple.com/redeem?ctx=offercodes&id=6739468121&code=BLCKFRDY25) | Daily random walking routes in your location. Valid from 13th Nov to 31th Dec| **50% OFF** Lifetime Plan with code **BLCKFRDY25**|
 
 ⬆️ | [Go to Top](#table-of-contents)
 
@@ -441,6 +446,7 @@ Once configured, every change merged into `master` rebuilds and publishes the st
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
 | 💸 | [New Row Template](https://example.com/?utm_source=mrsbf) |Example description |**BFCM25** |
+| 💸 | [EV Charge Stations Map](https://apps.apple.com/redeem?ctx=offercodes&id=6466442459&code=BLCKFRDY25) | Long distance EV route planner and charge stations. Valid from 13th Nov to 31th Dec| **50% OFF** Lifetime Plan with code **BLCKFRDY25**|
 
 ⬆️ | [Go to Top](#table-of-contents)
 
@@ -452,6 +458,9 @@ Once configured, every change merged into `master` rebuilds and publishes the st
 | 💰 | [SEO Bot](https://seobotai.com/) | Fully autonomous "SEO Robot" with AI agents for Busy Founders | **20% OFF** first payment, code **JOHNRUSH** (Nov 21 to Dec 7) |
 | 💰 | [IndexRusher](https://indexrusher.com/) | A tool that helps get a website indexed by Google faster; boosts searchability & SEO ranking | **20% OFF** first payment, code **JOHNRUSH** (Nov 21 to Dec 7) |
 | 📈 | [GemRank](https://gemrank.co/) | Be the brand AI recommends Track how ChatGPT, Gemini, Claude, and Perplexity talk about your brand, and get weekly visibility reports. | **50% OFF** on Lifetime Deals with code **BFCM2025** |
+| 💰 | [Effortless Backlinks](https://www.effortlessbacklinks.com/) | We submit your product to 100 high-quality directories for you. Increase domain authority and bring steady, qualified traffic without wasting 30+ hours on manual submissions. | **Save up to 50€** with code **EB2025** at checkout (Nov 21 to Dec 7)
+
+
 
 ⬆️ | [Go to Top](#table-of-contents)
 
