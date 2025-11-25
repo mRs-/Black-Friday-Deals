@@ -422,6 +422,7 @@ Once configured, every change merged into `master` rebuilds and publishes the st
 | 💸 | [Migraine Tracker: Auralog](https://apps.apple.com/us/app/auralog-migraine-tracker/id6752360306) | Capture migraines quickly and uncover patterns that matter. | **60% OFF** Annual Package from Nov 24 to Dec 8 |
 | 💸 | [None to Run: Beginner Running Plans](https://apps.apple.com/us/app/none-to-run-beginner-5k-10k/id1491658094) | Achievable Walk/Run training programs for beginner runners. Start running today!| **50% OFF** Annual Plan with code **BLACKFRIDAY**|
 | 💸 | [Walk Mate: Weight Loss](https://apps.apple.com/redeem?ctx=offercodes&id=6739468121&code=BLCKFRDY25) | Daily random walking routes in your location. Valid from 13th Nov to 31th Dec| **50% OFF** Lifetime Plan with code **BLCKFRDY25**|
+| 💸 | [30 Day Workout - QuickFit](https://quickfit.bylancer.com/) | Personalized home workout plans based on your goals. Valid from 23th Nov to 30th Nov| **50% OFF** Lifetime Plan with code **BLCKFRDY25**|
 
 ⬆️ | [Go to Top](#table-of-contents)
 
