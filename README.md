@@ -273,6 +273,7 @@ Once configured, every change merged into `master` rebuilds and publishes the st
 | 💰 | [Snippety](https://snippety.app) | Powerful productivity tool for macOS and iOS that helps you work faster with instantly accessible snippets and intelligent placeholders. | **34% OFF Lifetime**, Mac + iOS, on the App Store (Nov 27th - Dec 2nd) |
 | 💸 | [ADHD Structure Planner: Simple]([https://eternalstorms.at/ScreenFloat](https://apps.apple.com/redeem?ctx=offercodes&id=6742843891&code)) | Structure Your Day. Unlock Your Focus. Simple will boost your focus and productivity from day one! | **50% OFF** Lifetime | Offer ends on Dec 5th 2025 |
 | 💸 | [ScreenTimerAI](https://screentimerai.com/) | Privacy-first AI screen time tracker and analytics | **50% OFF** to 25$ for lifetime purchase with code **BLACKFRIDAY2025** Nov 24th - Dec 8th 2025 |
+| 💸 | [Trickster](https://www.apparentsoft.com/trickster) | Your recently used files, at your fingertips (Mac) | **50% OFF** Lifetime | Offer ends on Dec 2th 2025 |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
@@ -305,6 +306,7 @@ Once configured, every change merged into `master` rebuilds and publishes the st
 | 💰 | [RapidWeaver Classic](https://realmacsoftware.com/rapidweaver-classic/) | The Original Easy to Use Web Design Software for Mac. Select a theme, add your content, and publish. No-code required | Save 45% on first year with code **BLACKFRIDAY45**. Ends December 1st. |
 | 💰 | [Squash 3](https://realmacsoftware.com/squash/) | Powerful Batch Photo Editor. Quickly batch convert, and resize images. Apply layered watermarks and filters, rename files, remove or edit private metadata, and so much more. | Save 45% on first year with code **BLACKFRIDAY45**. Ends December 1st. |
 | 💰 | [Animock: 3D Mockup Maker](https://apps.apple.com/app/id6471911398) | Turn screenshots and recordings into stunning 3D mockups and videos. Showcase your content in animated, realistic device frames — perfect for App Store shots, preview videos, social posts, and client presentations. | **20% OFF** on Lifetime PRO |
+| 💸 | [ImageFramer](https://imageframer.net) | Easily add frames, mats and borders to your art (Mac) | **50% OFF** Lifetime | Offer ends on Dec 2th 2025 |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
@@ -324,6 +326,8 @@ Once configured, every change merged into `master` rebuilds and publishes the st
 | 💸 | [Airfare Alerts: Price Tracker](https://getairfarealerts.com/) | Get real‑time flight price alerts that match your budget and travel preferences, not generic deals. For iOS and Android. | **90% OFF** forever on Premium Annual plan. Auto-applied in app. |
 | 💸 | [AudioBo: AudioBook Converter](https://apps.apple.com/us/app/audiobo-audiobook-converter/id6754019673) | AudioBo turns messy audio folders into a polished, chaptered M4B — ready for Apple Books and old iPods alike. Unlike MP3, the M4B format is designed specifically for audiobooks. | 50% off (Expires Nov 30) |
 | 💸 | [Travel Route Map](https://apps.apple.com/redeem?ctx=offercodes&id=6504141706&code=BLCKFRDY25) | Animate your travel destinations on the world map. Valid from 13th Nov to 31th Dec| **50% OFF** Lifetime Plan with code **BLCKFRDY25**|
+| 💸 | [Eter: Streaming Internet Radio](https://eter.apparentsoft.com/) | Play internet radio on any Apple device and in CarPlay | **50% OFF** Lifetime | Offer ends on Dec 2th 2025 |
+| 💸 | [Calm My Dog](https://calmmydog.app/) | Ease your dog's separation anxiety with daily exercises that focus on desensitization | **50% OFF** Lifetime | Offer ends on Dec 2th 2025 |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
@@ -440,6 +444,7 @@ Once configured, every change merged into `master` rebuilds and publishes the st
 | 💰 | [SubManager](https://submanager.app) | Track your subscriptions in one place on all your Apple devices and get notified whenever a subscription is due for renewal. | 75% off SubManager+ IAP ($1.49, available from Nov 28 to Dec 3) |
 | 💰 | [Capitally](https://www.mycapitally.com?ref=awsm-bfd&discount=BLACKWEEK25) | Wealth tracker for assets, liabilities, and stock options, allowing for deep analysis and control for portfolios of any size | **20% OFF** on all plans, including **5-Year** plan, code: **BLACKWEEK25** |
 | 💰 | [Vexly](https://vexly.app) | Track all your subscriptions in one place. Get reminded 7 days before renewals, set budgets, and avoid surprise charges. No bank connections required - privacy-first design. | 50% OFF Lifetime |
+| 💸 | [Cashculator](https://cashculator.app) | See where your money is going — not just where it went (Mac) | **50% OFF** Lifetime | Offer ends on Dec 2th 2025 |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
