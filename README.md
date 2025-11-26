@@ -408,6 +408,7 @@ Once configured, every change merged into `master` rebuilds and publishes the st
 | 💰 | [How To Test Frontend](https://howtotestfrontend.com/) | Learn how to write and maintain tests for your frontend React based app | 25% off with **BLACKFRIDAYDEAL2025** (expires 5th Dec)
 | 💰 | [**pwn.guide**](https://pwn.guide) | Learn cybersecurity from more than 150+ tutorials, ranging from web, hardware, wireless... hacking to forensics, cryptography, defense & **certification training** (for certificates like the [CompTIA Security+ SY0-701](https://pwn.guide/certs/sy0-701) | [20% OFF ALL plans, including **Lifetime**](https://pwn.guide/pricing) (Coupon: `B`)|
 | 💰 | [**pwn.guide**](https://pwn.guide) | Learn hacking from 150+ tutorials, ranging from web, wireless, hardware... hacking to forensics, defense & certitfication training (CompTIA Security+ SY0-701 for example) | [20% OFF ALL Plans, Including **Lifetime**](https://pwn.guide): Coupon: **BLKFRI20** |
+| 💸 | [Blender 3D Courses, Polygon Runway](https://polygonrunway.com/) | Courses that finally make Blender click. Learn 3D with clarity and confidence | Black Friday 50% OFF |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
