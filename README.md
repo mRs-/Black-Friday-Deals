@@ -217,6 +217,8 @@ Once configured, every change merged into `master` rebuilds and publishes the st
 | 💸 | [Pics2PDF: Image Converter](https://apps.apple.com/ar/app/heic-to-jpg-pics2pdf/id6748744676?l=en-GB) | Convert JPG PNG and PDFs offline in perfect quality with unlimited freedom and zero interruptions. | 75% OFF Lifetime (auto-applied), Nov 22 – Dec 4 |
 | 💸 | [CheckCam — Visual Reminder](https://apps.apple.com/app/apple-store/id6748918261?pt=127961359&ct=GitHub-mRs-Black-Friday&mt=8) | Minimalist iOS camera for temporary photos that auto-delete and keep your main gallery clean. | **60% OFF** Lifetime Access with code **BF2025** (Nov 26 – Dec 3, 2025) |
 | 💸 | [Smart Photo Cleaner: Sardis](https://apps.apple.com/tr/app/smart-photo-cleaner-sardis/id6749212207) | iPhone Photo And Video Cleaner + Storage Optimizer. | **50% OFF** on Annual Premium Plan - Claim in App, until Dec 3 |
+| 💸 | [Weather mini](https://weathermini.app/?utm_source=black-friday-2025) | Smart weather cards for iPhone, iPad, Mac, and Vision Pro. | 50% OFF on Lifetime Plan with code **BF2025** (Nov 26 - Dec 2, 2025) |
+
 ⬆️ | [Go to Top](#table-of-contents)
 
 ## 📌 Productivity Software
