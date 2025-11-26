@@ -96,6 +96,7 @@ Once configured, every change merged into `master` rebuilds and publishes the st
 | 💰 | [SyncMyGroup](https://syncmygroup.com) | Sync Users, Teams, Groups across platforms | 20% Black Friday off on oncall products Use code BF2025 on checkout |
 | 💰 | [AppCatalystRN](https://appcatalystrn.com/) | React Native/Expo Cross Platform Starter Kit | **20% OFF**, code **BLACKFRIDAY25** (Nov 19 to Dec 31) |
 | 💸 | [CodexUse](https://codexuse.com/?utm_source=mrsbf) | Desktop companion for the Codex CLI—switch profiles instantly, reopen chats by project, see live rate-limit telemetry, and manage MCP servers without JSON edits. | **50% OFF** lifetime license with code **BLACKFRIDAY2025** |
+| 💰 | [**VerifyForge**](https://verifyforge.com/) | Email Validation API - Verify email addresses in real-time with high accuracy | 30% OFF (Coupon: `BF2025`) | Nov 25 – Dec 1, 2025 |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
@@ -138,6 +139,7 @@ Once configured, every change merged into `master` rebuilds and publishes the st
 | 🎙️ | [Voibe](https://www.getvoibe.com) | Voibe is a really fast dictation app for Mac built for AI power users. Prompt with your voice, 3x faster. Works offline and fully private. Your data never leaves your Mac. | **50% OFF** on lifetime plan for BFCM |
 | 📝 | [AI Meeting Notes & Recorder](https://apps.apple.com/app/ai-meeting-notes-recorder/id6746161214) | Turn meetings, lectures, and voice memos into structured notes using AI. Record audio, transcribe speech to text, generate summaries, create mind maps, and turn notes into flashcards instantly. Perfect for professionals, students, and creators who want to save time and stay organized. | 30% OFF with code **BLACKFRIDAY2025** |
 
+| 💰 | [**Semantic Pen**](https://www.semanticpen.com/) | AI Content Writer - Generate high-quality content with AI | 20% OFF (Coupon: `20BF2025`) | Nov 25 – Dec 31, 2025 |
 ⬆️ | [Go to Top](#table-of-contents)
 
 ## 🛠 Marketing Software
