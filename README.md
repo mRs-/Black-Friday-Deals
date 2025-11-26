@@ -142,6 +142,7 @@ Once configured, every change merged into `master` rebuilds and publishes the st
 | 💸 | [Backona AI](https://backona.com/?utm_source=black-friday-deals-github&utm_medium=sale-list&utm_campaign=blackfriday2025) | Backona AI helps you turn marketing data into clear, actionable insights. It connects your key platforms like Google Analytics and advertising channels into one smart chat solution. | Get 30% off yearly subscriptions with code **BIGWIN30** or enjoy 50% off your first month with code **QUICKWIN50** |
 | 💸 | [PromptKit](https://www.promptkit.app) | Create, organize, and use prompts with top AI models while building your personal prompt library. | [**50% OFF** Annual Subscription](https://apps.apple.com/redeem?ctx=offercodes&id=6504561145&code=BF2025) |
 | 💸 | [Enconvo](https://enconvo.com) | The Always‑Online AI Companion That Knows You Best, contextually aware of your screen and apps, delivering the perfect response to automate your complex tasks. | **50% off** with code **BLACK-FRIDAY-2025-LTD** | NOV 20 - DEC 2 |
+| 💸 | [Pesu.ai](https://pesu.payanai.com/) | Pesu.ai helps recruiters and HR teams evaluate candidates in real time, using AI to automatically create and score skill-based assessments. | **250$ Amazon Gift Card** | NOV 20 - DEC 10 |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
