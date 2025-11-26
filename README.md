@@ -97,6 +97,7 @@ Once configured, every change merged into `master` rebuilds and publishes the st
 | 💰 | [AppCatalystRN](https://appcatalystrn.com/) | React Native/Expo Cross Platform Starter Kit | **20% OFF**, code **BLACKFRIDAY25** (Nov 19 to Dec 31) |
 | 💸 | [CodexUse](https://codexuse.com/?utm_source=mrsbf) | Desktop companion for the Codex CLI—switch profiles instantly, reopen chats by project, see live rate-limit telemetry, and manage MCP servers without JSON edits. | **50% OFF** lifetime license with code **BLACKFRIDAY2025** |
 | 💰 | [shadcn/studio](https://shadcnstudio.com) | Fully customizable shadcn ui Components, Blocks, Figma UI Kit, MCP, Templates and AI Powered Theme Generator | Flat 30% OFF with code **BFCM30SS** | Ends Dec 2 |
+| 💰 | [Pushever](https://pushever.app) | GUI tool to test iOS push notifications | **30% off** in the AppStore (already applied) |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
