@@ -219,6 +219,8 @@ Once configured, every change merged into `master` rebuilds and publishes the st
 | 💸 | [Smart Photo Cleaner: Sardis](https://apps.apple.com/tr/app/smart-photo-cleaner-sardis/id6749212207) | iPhone Photo And Video Cleaner + Storage Optimizer. | **50% OFF** on Annual Premium Plan - Claim in App, until Dec 3 |
 | 💸 | [Weather mini](https://weathermini.app/?utm_source=black-friday-2025) | Smart weather cards for iPhone, iPad, Mac, and Vision Pro. | 50% OFF on Lifetime Plan with code **BF2025** (Nov 26 - Dec 2, 2025) |
 | 💰 | [BetterDisplay Pro 4](https://betterdisplay.pro) | Popular display management app for macOS. Flexible scaling, virtual screens, brightness upscaling, image adjustments, groups, EDID, color modes, DDC etc. |**33% OFF** with code **BFCM2025**, Nov 27 - Dec 1|
+| 💰 | [Vidimote for Safari](https://apps.apple.com/app/vidimote-for-safari/id1585702412) | Advanced playback, speed controls & skip for web videos in Safari (iOS & macOS) | **33% OFF** from Nov 26 to Dec 2 | 
+| 💰 | [Remote Buddy 2]([https://](https://www.iospirit.com/products/remotebuddy/) | Control apps, web videos and more on your Mac – from your iPhone, Siri Remote, iPad, Apple TV, Apple Remote and many other remote controls. | **40% OFF** from Nov 26 to Dec 2 | 
 
 ⬆️ | [Go to Top](#table-of-contents)
 
