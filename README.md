@@ -141,6 +141,7 @@ Once configured, every change merged into `master` rebuilds and publishes the st
 | 💸 | [Clappia](https://www.clappia.com/black-friday-offer) | Build powerful business apps without coding using 100+ pre-built components. Create apps instantly with AI, automate workflows, capture GPS & photos, generate PDFs, and manage operations seamlessly. Ideal for teams, enterprises & non-technical users. | 50% OFF with code BLCKFRD25 (BlackFriday2025 — valid until Dec 5, 2025) |
 | 💸 | [Backona AI](https://backona.com/?utm_source=black-friday-deals-github&utm_medium=sale-list&utm_campaign=blackfriday2025) | Backona AI helps you turn marketing data into clear, actionable insights. It connects your key platforms like Google Analytics and advertising channels into one smart chat solution. | Get 30% off yearly subscriptions with code **BIGWIN30** or enjoy 50% off your first month with code **QUICKWIN50** |
 | 💸 | [PromptKit](https://www.promptkit.app) | Create, organize, and use prompts with top AI models while building your personal prompt library. | [**50% OFF** Annual Subscription](https://apps.apple.com/redeem?ctx=offercodes&id=6504561145&code=BF2025) |
+| 💸 | [Enconvo](https://enconvo.com) | The Always‑Online AI Companion That Knows You Best, contextually aware of your screen and apps, delivering the perfect response to automate your complex tasks. | **50% off** with code **BLACK-FRIDAY-2025-LTD** | NOV 20 - DEC 2 |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
@@ -215,6 +216,9 @@ Once configured, every change merged into `master` rebuilds and publishes the st
 | 💸 | [Tameno for Apple Watch, iPhone, iPad, Mac and Apple TV](https://eternalstorms.at/tameno) | Keep your mind at peace, let Tameno keep the pace | **50% OFF** from Nov 27th 2025 to December 1st, 2025 on the Mac App Store and Direct Purchase on the Website | (30% of proceeeds go to charity)
 | 💸 | [Pics2PDF: Image Converter](https://apps.apple.com/ar/app/heic-to-jpg-pics2pdf/id6748744676?l=en-GB) | Convert JPG PNG and PDFs offline in perfect quality with unlimited freedom and zero interruptions. | 75% OFF Lifetime (auto-applied), Nov 22 – Dec 4 |
 | 💸 | [CheckCam — Visual Reminder](https://apps.apple.com/app/apple-store/id6748918261?pt=127961359&ct=GitHub-mRs-Black-Friday&mt=8) | Minimalist iOS camera for temporary photos that auto-delete and keep your main gallery clean. | **60% OFF** Lifetime Access with code **BF2025** (Nov 26 – Dec 3, 2025) |
+| 💸 | [Smart Photo Cleaner: Sardis](https://apps.apple.com/tr/app/smart-photo-cleaner-sardis/id6749212207) | iPhone Photo And Video Cleaner + Storage Optimizer. | **50% OFF** on Annual Premium Plan - Claim in App, until Dec 3 |
+| 💸 | [Weather mini](https://weathermini.app/?utm_source=black-friday-2025) | Smart weather cards for iPhone, iPad, Mac, and Vision Pro. | 50% OFF on Lifetime Plan with code **BF2025** (Nov 26 - Dec 2, 2025) |
+
 ⬆️ | [Go to Top](#table-of-contents)
 | 💰 | [BetterDisplay Pro 4](https://betterdisplay.pro) | Popular display management app for macOS. Flexible scaling, virtual screens, brightness upscaling, image adjustments, groups, EDID, color modes, DDC etc. |**33% OFF** with code **BFCM2025** (Nov 27-Dec 1)|
 
@@ -283,6 +287,8 @@ Once configured, every change merged into `master` rebuilds and publishes the st
 | 💸 | [Trickster](https://www.apparentsoft.com/trickster) | Your recently used files, at your fingertips (Mac) | **50% OFF** Lifetime | Offer ends on Dec 2th 2025 |
 | 💸 | [YourChecklist](https://apps.apple.com/ar/app/daily-checklist-to-do-list/id6743703945?l=en-GB) | Create unlimited checklists and stay effortlessly organized so every task gets done on time. | **75% OFF** Lifetime (auto-applied), Nov 22 – Dec 4 |
 | 💸 | [ToMoment](https://apps.apple.com/ar/app/event-countdown-tomoment/id6751402161?l=en-GB) | Track every important moment with unlimited countdowns and live updates that keep you perfectly on time. | **75% OFF** Lifetime (auto-applied), Nov 22 – Dec 4 |
+| 💰 | [Note](https://apps.apple.com/app/note/id1602765272) | Keep what you care most about in focus with this minimalist notes app & widget. It’s like a pinned/sticky note in its own app, for goals, ideas, reminders, or to-do lists. | $2.99 one-time purchase **40% OFF** through Dec 5th |
+| 💸 | [Mailbird](https://www.getmailbird.com/) | The Best Email client for Windows and Mac. Bring all your email accounts, calendars, and apps into one clean workspace. Stay focused, move faster. | **80%+ OFF Pay once plan** and **30% OFF Yearly Plan** (auto-applied), Nov 24 – Dec 5 |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
@@ -338,6 +344,7 @@ Once configured, every change merged into `master` rebuilds and publishes the st
 | 💸 | [Eter: Streaming Internet Radio](https://eter.apparentsoft.com/) | Play internet radio on any Apple device and in CarPlay | **50% OFF** Lifetime | Offer ends on Dec 2th 2025 |
 | 💸 | [Calm My Dog](https://calmmydog.app/) | Ease your dog's separation anxiety with daily exercises that focus on desensitization | **50% OFF** Lifetime | Offer ends on Dec 2th 2025 |
 | 💸 | [Heart2Heart – Couples Questions](https://www.couplequestions.com/) | Build a deeper connection with your partner | [**50% OFF** Annual Subscription](https://apps.apple.com/redeem?ctx=offercodes&id=6501986735&code=BF2025) |
+| 💸 | [Teletable](https://apps.apple.com/us/app/teletable-football-teletext/id6502572402) | Teletable brings live football scores, standings and stats in a retro teletext style | **100% FREE** until Dec 3rd |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
@@ -421,7 +428,7 @@ Once configured, every change merged into `master` rebuilds and publishes the st
 | 💰 | [Calorific - Nutrition Tracker](https://apps.apple.com/app/apple-store/id6645043253) | Quickly capture your meals and get instant nutritional insights. | **30% OFF** yearly plan with code **BLACKFRIDAY** |
 | 💸 | [GetJacked](https://getjacked.app/download?utm_source=mrsbf) | GetJacked is a science-based hypertrophy coach on your iPhone. No more guesswork, just results. Train smarter with GetJacked. | 75% OFF Lifetime Premium Plan Discount automatically applied in App |
 | 💰 | [Dark Sleep for Apple TV](https://www.darksleep.app) | The #1 free sleep and relaxation app for Apple TV. Dolby Atmos soundscapes, calming videos, meditations, sunrise alarms, and more — all in one app. | 30% OFF lifetime purchase (in-app) | 2025-12-01 |
-| 💰 | [Steps & Beasts - Step Tracker](https://www.stepsandbeasts.app) | Gamified Step Tracker with a fun twist. Reach your goal every day, hatch an egg and collect 200 unique creatures. | 20% OFF yearly subscription (in-app) | 2025-11-30 |
+| 💰 | [Steps & Beasts - Step Tracker](https://www.stepsandbeasts.app) | Gamified Step Tracker with a fun twist. Reach your goal every day, hatch an egg and collect 200 unique creatures. | 33% OFF Lifetime (in-app) | 2025-11-30 |
 | 💸 | [Everlog](https://apple.co/3pmdUCn) | Full-featured journaling app for iPhone, iPad, Mac and Vision Pro | **40% OFF** Lifetime Package from Nov.28 to Dec.2 |
 | 💰 | [Habit Pixel](https://habitpixel.com/get) | A simple, satisfying habit tracker that helps you stay consistent, build better routines, and actually stick to your goals. Available on iOS and Android. | **40% OFF** Lifetime plan (auto-applied, Nov 20 - Dec 1, 2025) |
 | 💸 | [Migraine Tracker: Auralog](https://apps.apple.com/us/app/auralog-migraine-tracker/id6752360306) | Capture migraines quickly and uncover patterns that matter. | **60% OFF** Annual Package from Nov 24 to Dec 8 |
@@ -482,7 +489,7 @@ Once configured, every change merged into `master` rebuilds and publishes the st
 | 💰 | [IndexRusher](https://indexrusher.com/) | A tool that helps get a website indexed by Google faster; boosts searchability & SEO ranking | **20% OFF** first payment, code **JOHNRUSH** (Nov 21 to Dec 7) |
 | 📈 | [GemRank](https://gemrank.co/) | Be the brand AI recommends Track how ChatGPT, Gemini, Claude, and Perplexity talk about your brand, and get weekly visibility reports. | **50% OFF** on Lifetime Deals with code **BFCM2025** |
 | 💰 | [Effortless Backlinks](https://www.effortlessbacklinks.com/) | We submit your product to 100 high-quality directories for you. Increase domain authority and bring steady, qualified traffic without wasting 30+ hours on manual submissions. | **Save up to 50€** with code **EB2025** at checkout (Nov 21 to Dec 7)
-
+| 📈 | [SnowSEO](https://snowseo.com) | SnowSEO handles the tedious parts of growing your brand organically. It automatically researches keywords, creates content, tracks rankings, and optimizes how you appear in both Google searches and AI responses. | **50% OFF** on all Plan, auto-applied at checkout (Limited Time) |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
@@ -491,7 +498,7 @@ Once configured, every change merged into `master` rebuilds and publishes the st
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
-| 💸 | [New Row Template](https://example.com/?utm_source=mrsbf) |Example description |**BFCM25** |
+| 💸 | [ChezAI – Home Design](https://apps.apple.com/us/app/id6740142224) | Home Design & Remodel: ChezAI is your AI home designer and planner. Visualize, design, remodel, and transform your space like a pro with cutting-edge AI. |[**50% Off** Premium AI Credits Package](https://apps.apple.com/redeem?ctx=offercodes&id=6740142224&code=BF2025) |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
