@@ -350,6 +350,7 @@ Once configured, every change merged into `master` rebuilds and publishes the st
 | 💰 | [OutlierKit](https://outlierkit.com/) | AI Powered YouTube Research tool that helps you find outlier videos, low-competition & high-volume keywords, channel analytics, script analysis. | **30% OFF** on all plans, code **BFCM25** (Nov 17 to Dec 4) |
 | 💰 | [TranscriptBunny](https://www.transcriptbunny.com) | YouTube transcript API - Extract transcripts from any YouTube video with timestamps and text. Fast, reliable API for developers who want to ship fast | Use promo code **BF25** for a **30% discount** on all plans |
 | 📼 | [Yescaptions](https://yescaptions.com/) | Add studio-grade captions to your short videos in seconds | **50% OFF** on Lifetime Deals with code **BFCM2025** |
+| 💸 | [Kindest](https://www.kindest.app/) | Keep strong relationships with your friends and family. Kindest helps you start and keep track of healthy and fun habits to nurture connections with your loved ones. | [**50% OFF**](https://apps.apple.com/redeem?ctx=offercodes&id=6453754317&code=BF2025) |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
