@@ -138,8 +138,10 @@ Once configured, every change merged into `master` rebuilds and publishes the st
 | 💰 | [Manzoni](https://manzoni.app) | Word processor that runs LLMs entirely on your device to help you brainstorm, draft, and edit text without cloud processing or data tracking. | 10% OFF LIFETIME with code **BLACKFRIDAY10** |
 | 💸 | [Voibe](https://www.getvoibe.com) | Voibe is a really fast dictation app for Mac built for AI power users. Prompt with your voice, 3x faster. Works offline and fully private. Your data never leaves your Mac. | **50% OFF** on lifetime plan for BFCM |
 | 💸 | [AI Meeting Notes & Recorder](https://apps.apple.com/app/ai-meeting-notes-recorder/id6746161214) | Turn meetings, lectures, and voice memos into structured notes using AI. Record audio, transcribe speech to text, generate summaries, create mind maps, and turn notes into flashcards instantly. Perfect for professionals, students, and creators who want to save time and stay organized. | 30% OFF with code **BLACKFRIDAY2025** |
-| 💸 | Clappia | https://www.clappia.com/black-friday-offer
- | Build powerful business apps without coding using 100+ pre-built components. Create apps instantly with AI, automate workflows, capture GPS & photos, generate PDFs, and manage operations seamlessly. Ideal for teams, enterprises & non-technical users. | 50% OFF with code BLCKFRD25 (BlackFriday2025 — valid until Dec 5, 2025) |
+| 💸 | [Clappia](https://www.clappia.com/black-friday-offer) | Build powerful business apps without coding using 100+ pre-built components. Create apps instantly with AI, automate workflows, capture GPS & photos, generate PDFs, and manage operations seamlessly. Ideal for teams, enterprises & non-technical users. | 50% OFF with code BLCKFRD25 (BlackFriday2025 — valid until Dec 5, 2025) |
+| 💸 | [Backona AI](https://backona.com/?utm_source=black-friday-deals-github&utm_medium=sale-list&utm_campaign=blackfriday2025) | Backona AI helps you turn marketing data into clear, actionable insights. It connects your key platforms like Google Analytics and advertising channels into one smart chat solution. | Get 30% off yearly subscriptions with code **BIGWIN30** or enjoy 50% off your first month with code **QUICKWIN50** |
+| 💸 | [PromptKit](https://www.promptkit.app) | Create, organize, and use prompts with top AI models while building your personal prompt library. | [**50% OFF** Annual Subscription](https://apps.apple.com/redeem?ctx=offercodes&id=6504561145&code=BF2025) |
+| 💸 | [Enconvo](https://enconvo.com) | The Always‑Online AI Companion That Knows You Best, contextually aware of your screen and apps, delivering the perfect response to automate your complex tasks. | **50% off** with code **BLACK-FRIDAY-2025-LTD** | NOV 20 - DEC 2 |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
@@ -213,6 +215,7 @@ Once configured, every change merged into `master` rebuilds and publishes the st
 | 💸 | [DeskMat for Mac](https://eternalstorms.at/DeskMat) | Cover your messy desktop with a single click | **50% OFF** from Nov 27th 2025 to December 1st, 2025 on the Mac App Store and Direct Purchase on the Website | (30% of proceeeds go to charity)
 | 💸 | [Tameno for Apple Watch, iPhone, iPad, Mac and Apple TV](https://eternalstorms.at/tameno) | Keep your mind at peace, let Tameno keep the pace | **50% OFF** from Nov 27th 2025 to December 1st, 2025 on the Mac App Store and Direct Purchase on the Website | (30% of proceeeds go to charity)
 | 💸 | [Pics2PDF: Image Converter](https://apps.apple.com/ar/app/heic-to-jpg-pics2pdf/id6748744676?l=en-GB) | Convert JPG PNG and PDFs offline in perfect quality with unlimited freedom and zero interruptions. | 75% OFF Lifetime (auto-applied), Nov 22 – Dec 4 |
+| 💸 | [CheckCam — Visual Reminder](https://apps.apple.com/app/apple-store/id6748918261?pt=127961359&ct=GitHub-mRs-Black-Friday&mt=8) | Minimalist iOS camera for temporary photos that auto-delete and keep your main gallery clean. | **60% OFF** Lifetime Access with code **BF2025** (Nov 26 – Dec 3, 2025) |
 ⬆️ | [Go to Top](#table-of-contents)
 
 ## 📌 Productivity Software
@@ -280,6 +283,7 @@ Once configured, every change merged into `master` rebuilds and publishes the st
 | 💸 | [Trickster](https://www.apparentsoft.com/trickster) | Your recently used files, at your fingertips (Mac) | **50% OFF** Lifetime | Offer ends on Dec 2th 2025 |
 | 💸 | [YourChecklist](https://apps.apple.com/ar/app/daily-checklist-to-do-list/id6743703945?l=en-GB) | Create unlimited checklists and stay effortlessly organized so every task gets done on time. | **75% OFF** Lifetime (auto-applied), Nov 22 – Dec 4 |
 | 💸 | [ToMoment](https://apps.apple.com/ar/app/event-countdown-tomoment/id6751402161?l=en-GB) | Track every important moment with unlimited countdowns and live updates that keep you perfectly on time. | **75% OFF** Lifetime (auto-applied), Nov 22 – Dec 4 |
+| 💰 | [Note](https://apps.apple.com/app/note/id1602765272) | Keep what you care most about in focus with this minimalist notes app & widget. It’s like a pinned/sticky note in its own app, for goals, ideas, reminders, or to-do lists. | $2.99 one-time purchase **40% OFF** through Dec 5th |
 | 💸 | [Mailbird](https://www.getmailbird.com/) | The Best Email client for Windows and Mac. Bring all your email accounts, calendars, and apps into one clean workspace. Stay focused, move faster. | **80%+ OFF Pay once plan** and **30% OFF Yearly Plan** (auto-applied), Nov 24 – Dec 5 |
 
 ⬆️ | [Go to Top](#table-of-contents)
@@ -335,6 +339,7 @@ Once configured, every change merged into `master` rebuilds and publishes the st
 | 💸 | [Travel Route Map](https://apps.apple.com/redeem?ctx=offercodes&id=6504141706&code=BLCKFRDY25) | Animate your travel destinations on the world map. Valid from 13th Nov to 31th Dec| **50% OFF** Lifetime Plan with code **BLCKFRDY25**|
 | 💸 | [Eter: Streaming Internet Radio](https://eter.apparentsoft.com/) | Play internet radio on any Apple device and in CarPlay | **50% OFF** Lifetime | Offer ends on Dec 2th 2025 |
 | 💸 | [Calm My Dog](https://calmmydog.app/) | Ease your dog's separation anxiety with daily exercises that focus on desensitization | **50% OFF** Lifetime | Offer ends on Dec 2th 2025 |
+| 💸 | [Heart2Heart – Couples Questions](https://www.couplequestions.com/) | Build a deeper connection with your partner | [**50% OFF** Annual Subscription](https://apps.apple.com/redeem?ctx=offercodes&id=6501986735&code=BF2025) |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
@@ -349,6 +354,7 @@ Once configured, every change merged into `master` rebuilds and publishes the st
 | 💰 | [OutlierKit](https://outlierkit.com/) | AI Powered YouTube Research tool that helps you find outlier videos, low-competition & high-volume keywords, channel analytics, script analysis. | **30% OFF** on all plans, code **BFCM25** (Nov 17 to Dec 4) |
 | 💰 | [TranscriptBunny](https://www.transcriptbunny.com) | YouTube transcript API - Extract transcripts from any YouTube video with timestamps and text. Fast, reliable API for developers who want to ship fast | Use promo code **BF25** for a **30% discount** on all plans |
 | 📼 | [Yescaptions](https://yescaptions.com/) | Add studio-grade captions to your short videos in seconds | **50% OFF** on Lifetime Deals with code **BFCM2025** |
+| 💸 | [Kindest](https://www.kindest.app/) | Keep strong relationships with your friends and family. Kindest helps you start and keep track of healthy and fun habits to nurture connections with your loved ones. | [**50% OFF**](https://apps.apple.com/redeem?ctx=offercodes&id=6453754317&code=BF2025) |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
@@ -456,6 +462,7 @@ Once configured, every change merged into `master` rebuilds and publishes the st
 | 💸 | [Cashculator](https://cashculator.app) | See where your money is going — not just where it went (Mac) | **50% OFF** Lifetime | Offer ends on Dec 2th 2025 |
 | 💸 | [SubCal](https://apps.apple.com/ar/app/subscription-tracker-subcal/id6752016485?l=en-GB) | Manage every subscription in one place with smart reminders and deep link access that keep you in control. | **75% OFF** Lifetime (auto-applied), Nov 22 – Dec 4 |
 | 💸 | [Subscription Day](https://appps.od.ua/subscription-day/) | A small but so useful app for your Menu Bar to keep track of your paid subscriptions and analyze statistics. | **50% OFF** Lifetime PRO, Nov 25 – 30 |
+| 💸 | [Sumio](https://www.sumio.app) | AI-Powered Portfolio & Net Worth Tracker. | [**50% OFF** Annual Subscription](https://apps.apple.com/redeem?ctx=offercodes&id=1560198579&code=BF2025) |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
@@ -486,7 +493,7 @@ Once configured, every change merged into `master` rebuilds and publishes the st
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
-| 💸 | [New Row Template](https://example.com/?utm_source=mrsbf) |Example description |**BFCM25** |
+| 💸 | [ChezAI – Home Design](https://apps.apple.com/us/app/id6740142224) | Home Design & Remodel: ChezAI is your AI home designer and planner. Visualize, design, remodel, and transform your space like a pro with cutting-edge AI. |[**50% Off** Premium AI Credits Package](https://apps.apple.com/redeem?ctx=offercodes&id=6740142224&code=BF2025) |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
