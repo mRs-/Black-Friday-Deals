@@ -218,6 +218,7 @@ Once configured, every change merged into `master` rebuilds and publishes the st
 | 💸 | [CheckCam — Visual Reminder](https://apps.apple.com/app/apple-store/id6748918261?pt=127961359&ct=GitHub-mRs-Black-Friday&mt=8) | Minimalist iOS camera for temporary photos that auto-delete and keep your main gallery clean. | **60% OFF** Lifetime Access with code **BF2025** (Nov 26 – Dec 3, 2025) |
 | 💸 | [Smart Photo Cleaner: Sardis](https://apps.apple.com/tr/app/smart-photo-cleaner-sardis/id6749212207) | iPhone Photo And Video Cleaner + Storage Optimizer. | **50% OFF** on Annual Premium Plan - Claim in App, until Dec 3 |
 | 💸 | [Weather mini](https://weathermini.app/?utm_source=black-friday-2025) | Smart weather cards for iPhone, iPad, Mac, and Vision Pro. | 50% OFF on Lifetime Plan with code **BF2025** (Nov 26 - Dec 2, 2025) |
+| 💸 | [Orbitime](https://apps.apple.com/in/app/orbitime-world-clock-widget/id6463491213) | Orbitime allows you to track your friend’s timezone. World clock app with widgets | **Upto 67% OFF** on lifetime plan |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
@@ -344,6 +345,7 @@ Once configured, every change merged into `master` rebuilds and publishes the st
 | 💸 | [Calm My Dog](https://calmmydog.app/) | Ease your dog's separation anxiety with daily exercises that focus on desensitization | **50% OFF** Lifetime | Offer ends on Dec 2th 2025 |
 | 💸 | [Heart2Heart – Couples Questions](https://www.couplequestions.com/) | Build a deeper connection with your partner | [**50% OFF** Annual Subscription](https://apps.apple.com/redeem?ctx=offercodes&id=6501986735&code=BF2025) |
 | 💸 | [Teletable](https://apps.apple.com/us/app/teletable-football-teletext/id6502572402) | Teletable brings live football scores, standings and stats in a retro teletext style | **100% FREE** until Dec 3rd |
+| 💸 | [Momentum](https://apps.apple.com/us/app/photo-habit-tracker-momentum/id6746295673) | Momentum is a habit tracker where you use photos, not checkboxes | **Upto 65% OFF** on Annual plan with code **BLACKFRIDAY** |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
