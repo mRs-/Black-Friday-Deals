@@ -158,6 +158,8 @@ Once configured, every change merged into `master` rebuilds and publishes the st
 | 💰 | [Snov.io](https://snov.io/) | Snov.io is sales automation platform to find, verify, and manage leads, run personalized email campaigns.| **50% OFF** annual plan with code **BLACKFRIDAY** |
 | 💸 | [Appfigures](https://appfigures.com?utm_source=mrsbf) | ASO, Apple Ads Optimization, and App Intelligence tools to help you get more downloads.| 50% OFF monthly and yearly plans **BF2550** |
 | 💸 | [AnimAds](https://animads.app/) | Turn Views into Clicks with Animated Ads | **50% OFF** on Lifetime Deals with code **BFCM2025** |
+| 💰 | [Mondial Relay WooCommerce](https://www.wcmultishipping.com/mondial-relay-woocommerce) | A WordPress plugin for the Mondial Relay shipping provider in Europe. | **20% OFF** with code **BF25** until 2025-12-31 |
+| 💰 | [Best time to post Reddit](https://www.postwatch.app/best-time-to-post-on-reddit) | Reddit tool to find the best time to post on Reddit so you can maximize engagement. | **30% OFF** with code **BF25** (valid until 2025-12-12) |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
@@ -218,6 +220,7 @@ Once configured, every change merged into `master` rebuilds and publishes the st
 | 💸 | [CheckCam — Visual Reminder](https://apps.apple.com/app/apple-store/id6748918261?pt=127961359&ct=GitHub-mRs-Black-Friday&mt=8) | Minimalist iOS camera for temporary photos that auto-delete and keep your main gallery clean. | **60% OFF** Lifetime Access with code **BF2025** (Nov 26 – Dec 3, 2025) |
 | 💸 | [Smart Photo Cleaner: Sardis](https://apps.apple.com/tr/app/smart-photo-cleaner-sardis/id6749212207) | iPhone Photo And Video Cleaner + Storage Optimizer. | **50% OFF** on Annual Premium Plan - Claim in App, until Dec 3 |
 | 💸 | [Weather mini](https://weathermini.app/?utm_source=black-friday-2025) | Smart weather cards for iPhone, iPad, Mac, and Vision Pro. | 50% OFF on Lifetime Plan with code **BF2025** (Nov 26 - Dec 2, 2025) |
+| 💰 | [BetterNotif](https://www.betternotif.app/) | MacOS Stripe Real Time Notifications | **30% OFF** with code **BF25** | 2025-12-12 |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
@@ -489,7 +492,7 @@ Once configured, every change merged into `master` rebuilds and publishes the st
 | 📈 | [GemRank](https://gemrank.co/) | Be the brand AI recommends Track how ChatGPT, Gemini, Claude, and Perplexity talk about your brand, and get weekly visibility reports. | **50% OFF** on Lifetime Deals with code **BFCM2025** |
 | 💰 | [Effortless Backlinks](https://www.effortlessbacklinks.com/) | We submit your product to 100 high-quality directories for you. Increase domain authority and bring steady, qualified traffic without wasting 30+ hours on manual submissions. | **Save up to 50€** with code **EB2025** at checkout (Nov 21 to Dec 7)
 | 📈 | [SnowSEO](https://snowseo.com) | SnowSEO handles the tedious parts of growing your brand organically. It automatically researches keywords, creates content, tracks rankings, and optimizes how you appear in both Google searches and AI responses. | **50% OFF** on all Plan, auto-applied at checkout (Limited Time) |
-
+| 💰  | [CheckMySEO](https://checkmyseo.io) | Generate SEO‑optimized content and blog posts tailored to your keywords in minutes. | **30% OFF** with code **BF25** |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
