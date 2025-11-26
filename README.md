@@ -218,9 +218,9 @@ Once configured, every change merged into `master` rebuilds and publishes the st
 | 💸 | [CheckCam — Visual Reminder](https://apps.apple.com/app/apple-store/id6748918261?pt=127961359&ct=GitHub-mRs-Black-Friday&mt=8) | Minimalist iOS camera for temporary photos that auto-delete and keep your main gallery clean. | **60% OFF** Lifetime Access with code **BF2025** (Nov 26 – Dec 3, 2025) |
 | 💸 | [Smart Photo Cleaner: Sardis](https://apps.apple.com/tr/app/smart-photo-cleaner-sardis/id6749212207) | iPhone Photo And Video Cleaner + Storage Optimizer. | **50% OFF** on Annual Premium Plan - Claim in App, until Dec 3 |
 | 💸 | [Weather mini](https://weathermini.app/?utm_source=black-friday-2025) | Smart weather cards for iPhone, iPad, Mac, and Vision Pro. | 50% OFF on Lifetime Plan with code **BF2025** (Nov 26 - Dec 2, 2025) |
+| 💰 | [BetterDisplay Pro 4](https://betterdisplay.pro) | Popular display management app for macOS. Flexible scaling, virtual screens, brightness upscaling, image adjustments, groups, EDID, color modes, DDC etc. |**33% OFF** with code **BFCM2025**, Nov 27 - Dec 1|
 
 ⬆️ | [Go to Top](#table-of-contents)
-| 💰 | [BetterDisplay Pro 4](https://betterdisplay.pro) | Popular display management app for macOS. Flexible scaling, virtual screens, brightness upscaling, image adjustments, groups, EDID, color modes, DDC etc. |**33% OFF** with code **BFCM2025** (Nov 27-Dec 1)|
 
 ## 📌 Productivity Software
 
