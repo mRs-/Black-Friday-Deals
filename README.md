@@ -169,6 +169,7 @@ Once configured, every change merged into `master` rebuilds and publishes the st
 | 💸 | [AnimAds](https://animads.app/) | Turn Views into Clicks with Animated Ads | **50% OFF** on Lifetime Deals with code **BFCM2025** |
 | 💰 | [Mondial Relay WooCommerce](https://www.wcmultishipping.com/mondial-relay-woocommerce) | A WordPress plugin for the Mondial Relay shipping provider in Europe. | **20% OFF** with code **BF25** until 2025-12-31 |
 | 💰 | [Best time to post Reddit](https://reddit.postwatch.app) | Reddit tool to find the best time to post on Reddit so you can maximize engagement. | **30% OFF** with code **BF25** (valid until 2025-12-12) |
+| 📄 | [SaasyDB](https://www.saasydb.com) | a SaaS company database for marketers, with leads not found elsewhere | **30% OFF** with code **BF30** on all plans (valid until 2025-12-02) |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
