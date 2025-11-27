@@ -224,6 +224,7 @@ Once configured, every change merged into `master` rebuilds and publishes the st
 | 💸 | [Weather mini](https://weathermini.app/?utm_source=black-friday-2025) | Smart weather cards for iPhone, iPad, Mac, and Vision Pro. | 50% OFF on Lifetime Plan with code **BF2025** (Nov 26 - Dec 2, 2025) |
 | 💰 | [BetterDisplay Pro 4](https://betterdisplay.pro) | Popular display management app for macOS. Flexible scaling, virtual screens, brightness upscaling, image adjustments, groups, EDID, color modes, DDC etc. |**33% OFF** with code **BFCM2025**, Nov 27 - Dec 1|
 | 💰 | [BetterNotif](https://www.betternotif.app/) | MacOS Stripe Real Time Notifications | **30% OFF** with code **BF25** | 2025-12-12 |
+| 💸 | [Orbitime](https://apps.apple.com/in/app/orbitime-world-clock-widget/id6463491213) | Orbitime allows you to track your friend’s timezone. World clock app with widgets | **Upto 67% OFF** on lifetime plan |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
@@ -351,6 +352,7 @@ Once configured, every change merged into `master` rebuilds and publishes the st
 | 💸 | [Calm My Dog](https://calmmydog.app/) | Ease your dog's separation anxiety with daily exercises that focus on desensitization | **50% OFF** Lifetime | Offer ends on Dec 2th 2025 |
 | 💸 | [Heart2Heart – Couples Questions](https://www.couplequestions.com/) | Build a deeper connection with your partner | [**50% OFF** Annual Subscription](https://apps.apple.com/redeem?ctx=offercodes&id=6501986735&code=BF2025) |
 | 💸 | [Teletable](https://apps.apple.com/us/app/teletable-football-teletext/id6502572402) | Teletable brings live football scores, standings and stats in a retro teletext style | **100% FREE** until Dec 3rd |
+| 💸 | [Momentum](https://apps.apple.com/us/app/photo-habit-tracker-momentum/id6746295673) | Momentum is a habit tracker where you use photos, not checkboxes | **Upto 65% OFF** on Annual plan with code **BLACKFRIDAY** |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
