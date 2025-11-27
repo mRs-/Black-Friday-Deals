@@ -306,6 +306,7 @@ Once configured, every change merged into `master` rebuilds and publishes the st
 | 💰 | [Spencer](https://macspencer.app) | Save & restore window positions — across all virtual Desktops. Launch the right apps, hide others, and adjust number of Desktops to match your saved setup. Create layouts for different display setups and different tasks to stay organized and focused. | **40% OFF Lifetime**, Nov 26 - Dec 2 |
 | 💰 | [Tabhive](https://www.tabhive.app/) | Tabhive is a Chrome extension that helps you organize your tabs and manage your links | **30% OFF** on all plans (Including LTD) with code **BF2025**, Nov 24 - Dec 10 |
 | 💸 | [SwiftBiu](https://swiftbiu.com) | SwiftBiu is a text efficiency tool for macOS, select text in any app and a customizable extended toolbar pops up to make common operations "one step". Supports AI multimodal (text-to-text, text-to-graph), AppleScript/javascript plugins, html extension applets. | **50% OFF** Pro Lifetime only $ 4.99 between Nov 21 - Dec 26 |
+| 💰 | [Craft Docs](https://www.craft.do/) | Create stunning documents, manage tasks, build dynamic collections, and structure your ideas your way. | **40% LIFETIME OFF** – No code required |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
