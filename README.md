@@ -360,6 +360,7 @@ Once configured, every change merged into `master` rebuilds and publishes the st
 | 💰 | [TranscriptBunny](https://www.transcriptbunny.com) | YouTube transcript API - Extract transcripts from any YouTube video with timestamps and text. Fast, reliable API for developers who want to ship fast | Use promo code **BF25** for a **30% discount** on all plans |
 | 📼 | [Yescaptions](https://yescaptions.com/) | Add studio-grade captions to your short videos in seconds | **50% OFF** on Lifetime Deals with code **BFCM2025** |
 | 💸 | [Kindest](https://www.kindest.app/) | Keep strong relationships with your friends and family. Kindest helps you start and keep track of healthy and fun habits to nurture connections with your loved ones. | [**50% OFF**](https://apps.apple.com/redeem?ctx=offercodes&id=6453754317&code=BF2025) |
+| 💸 | [Protego for Reddit](https://apps.apple.com/us/app/protego-for-reddit/id6737959724?mt=12) | Safari Web Extension that filters unwanted content on Reddit. Block posts by keywords and domains, hide ads and promoted content. Works on old and new Reddit across macOS, iOS, iPadOS, and visionOS. | **50% OFF** ($0.99, was $1.99), Nov 27 - Dec 6 |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
