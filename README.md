@@ -100,6 +100,7 @@ Once configured, every change merged into `master` rebuilds and publishes the st
 | 💰 | [FlyonUI](https://flyonui.com) | Fully customizable Tailwind Components, Blocks, Figma UI Kit, MCP, & Templates | Flat 30% OFF with code **BFCM30FY** | Ends Dec 2 |
 | 💰 | [VerifyForge](https://verifyforge.com/) | Email Validation API - Verify email addresses in real-time with high accuracy | 30% OFF (Coupon: `BF2025`) | Nov 25 – Dec 1, 2025 |
 | 💰 | [Pushever](https://pushever.app) | GUI tool to test iOS push notifications | **30% off** in the AppStore (already applied) |
+| 💰 | [Beyond Compare](https://www.scootersoftware.com/sales/promo) | Beyond Compare is a software application used by developers, system administrators and others to compare, merge, and synchronize data.  It runs on Windows, macOS, and Linux. | 25% off of any BC license, Cyber Monday Sale, December 1st, 2025 ONLY |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
