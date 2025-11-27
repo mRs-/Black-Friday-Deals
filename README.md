@@ -219,6 +219,7 @@ Once configured, every change merged into `master` rebuilds and publishes the st
 | 💸 | [Smart Photo Cleaner: Sardis](https://apps.apple.com/tr/app/smart-photo-cleaner-sardis/id6749212207) | iPhone Photo And Video Cleaner + Storage Optimizer. | **50% OFF** on Annual Premium Plan - Claim in App, until Dec 3 |
 | 💸 | [Weather mini](https://weathermini.app/?utm_source=black-friday-2025) | Smart weather cards for iPhone, iPad, Mac, and Vision Pro. | 50% OFF on Lifetime Plan with code **BF2025** (Nov 26 - Dec 2, 2025) |
 | 💸 | [Orbitime](https://apps.apple.com/in/app/orbitime-world-clock-widget/id6463491213) | Orbitime allows you to track your friend’s timezone. World clock app with widgets | **Upto 67% OFF** on lifetime plan |
+| 💰 | [BetterDisplay Pro 4](https://betterdisplay.pro) | Popular display management app for macOS. Flexible scaling, virtual screens, brightness upscaling, image adjustments, groups, EDID, color modes, DDC etc. |**33% OFF** with code **BFCM2025**, Nov 27 - Dec 1|
 
 ⬆️ | [Go to Top](#table-of-contents)
 
