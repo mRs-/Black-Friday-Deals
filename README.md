@@ -225,7 +225,7 @@ Once configured, every change merged into `master` rebuilds and publishes the st
 | 💰 | [BetterDisplay Pro 4](https://betterdisplay.pro) | Popular display management app for macOS. Flexible scaling, virtual screens, brightness upscaling, image adjustments, groups, EDID, color modes, DDC etc. |**33% OFF** with code **BFCM2025**, Nov 27 - Dec 1|
 | 💰 | [BetterNotif](https://www.betternotif.app/) | MacOS Stripe Real Time Notifications | **30% OFF** with code **BF25** |
 | 💸 | [Orbitime](https://apps.apple.com/in/app/orbitime-world-clock-widget/id6463491213) | Orbitime allows you to track your friend’s timezone. World clock app with widgets | **Upto 67% OFF** on lifetime plan |
-| 💸 | [Imgs2PDF](https://apps.apple.com/app/imgs2pdf-pdf-converter/id6741581868) | Convert images to PDF or PDF to images offline. Merge, split, PDFs, with OCR support. | [**40% OFF** Lifetime(Nov 27 - Dec 31)](https://apps.apple.com/redeem/?ctx=offercodes&id=6741581868&code=IMGS2PDF) |
+| 💸 | [Imgs2PDF](https://apps.apple.com/app/imgs2pdf-pdf-converter/id6741581868) | Convert images to PDF or PDF to images offline. Merge, split, PDFs, with OCR support. | [**60% OFF** Lifetime(Nov 27 - Dec 31)](https://apps.apple.com/redeem/?ctx=offercodes&id=6741581868&code=IMGS2PDF) |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
