@@ -148,6 +148,7 @@ Once configured, every change merged into `master` rebuilds and publishes the st
 | 💸 | [Enconvo](https://enconvo.com) | The Always‑Online AI Companion That Knows You Best, contextually aware of your screen and apps, delivering the perfect response to automate your complex tasks. | **50% off** with code **BLACK-FRIDAY-2025-LTD** | NOV 20 - DEC 2 |
 | 💰 | [Semantic Pen](https://www.semanticpen.com/) | AI Content Writer - Generate high-quality content with AI | 20% OFF (Coupon: `20BF2025`) | Nov 25 – Dec 31, 2025 |
 | 💸 | [Pesu.ai](https://pesu.payanai.com/) | Pesu.ai helps recruiters and HR teams evaluate candidates in real time, using AI to automatically create and score skill-based assessments. | **250$ Amazon Gift Card** | NOV 20 - DEC 10 |
+| 🩵 | [GPT Breeze](https://gptbreeze.io/) | Save hours consuming long content on the web. GPT Breeze Extension summarizes YouTube videos and articles, accelerates your writing, by saving your prompts as one-click shortcuts on browsers. | Code **BF25**: 50% off for one-time purchase, 60% off or annual plan |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
