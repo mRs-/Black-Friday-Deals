@@ -97,6 +97,8 @@ Once configured, every change merged into `master` rebuilds and publishes the st
 | 💰 | [AppCatalystRN](https://appcatalystrn.com/) | React Native/Expo Cross Platform Starter Kit | **20% OFF**, code **BLACKFRIDAY25** (Nov 19 to Dec 31) |
 | 💸 | [CodexUse](https://codexuse.com/?utm_source=mrsbf) | Desktop companion for the Codex CLI—switch profiles instantly, reopen chats by project, see live rate-limit telemetry, and manage MCP servers without JSON edits. | **50% OFF** lifetime license with code **BLACKFRIDAY2025** |
 | 💰 | [shadcn/studio](https://shadcnstudio.com) | Fully customizable shadcn ui Components, Blocks, Figma UI Kit, MCP, Templates and AI Powered Theme Generator | Flat 30% OFF with code **BFCM30SS** | Ends Dec 2 |
+| 💰 | [FlyonUI](https://flyonui.com) | Fully customizable Tailwind Components, Blocks, Figma UI Kit, MCP, & Templates | Flat 30% OFF with code **BFCM30FY** | Ends Dec 2 |
+
 
 ⬆️ | [Go to Top](#table-of-contents)
 
@@ -158,6 +160,8 @@ Once configured, every change merged into `master` rebuilds and publishes the st
 | 💰 | [Snov.io](https://snov.io/) | Snov.io is sales automation platform to find, verify, and manage leads, run personalized email campaigns.| **50% OFF** annual plan with code **BLACKFRIDAY** |
 | 💸 | [Appfigures](https://appfigures.com?utm_source=mrsbf) | ASO, Apple Ads Optimization, and App Intelligence tools to help you get more downloads.| 50% OFF monthly and yearly plans **BF2550** |
 | 💸 | [AnimAds](https://animads.app/) | Turn Views into Clicks with Animated Ads | **50% OFF** on Lifetime Deals with code **BFCM2025** |
+| 💰 | [Mondial Relay WooCommerce](https://www.wcmultishipping.com/mondial-relay-woocommerce) | A WordPress plugin for the Mondial Relay shipping provider in Europe. | **20% OFF** with code **BF25** until 2025-12-31 |
+| 💰 | [Best time to post Reddit](https://reddit.postwatch.app) | Reddit tool to find the best time to post on Reddit so you can maximize engagement. | **30% OFF** with code **BF25** (valid until 2025-12-12) |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
@@ -219,6 +223,7 @@ Once configured, every change merged into `master` rebuilds and publishes the st
 | 💸 | [Smart Photo Cleaner: Sardis](https://apps.apple.com/tr/app/smart-photo-cleaner-sardis/id6749212207) | iPhone Photo And Video Cleaner + Storage Optimizer. | **50% OFF** on Annual Premium Plan - Claim in App, until Dec 3 |
 | 💸 | [Weather mini](https://weathermini.app/?utm_source=black-friday-2025) | Smart weather cards for iPhone, iPad, Mac, and Vision Pro. | 50% OFF on Lifetime Plan with code **BF2025** (Nov 26 - Dec 2, 2025) |
 | 💰 | [BetterDisplay Pro 4](https://betterdisplay.pro) | Popular display management app for macOS. Flexible scaling, virtual screens, brightness upscaling, image adjustments, groups, EDID, color modes, DDC etc. |**33% OFF** with code **BFCM2025**, Nov 27 - Dec 1|
+| 💰 | [BetterNotif](https://www.betternotif.app/) | MacOS Stripe Real Time Notifications | **30% OFF** with code **BF25** | 2025-12-12 |
 | 💸 | [Orbitime](https://apps.apple.com/in/app/orbitime-world-clock-widget/id6463491213) | Orbitime allows you to track your friend’s timezone. World clock app with widgets | **Upto 67% OFF** on lifetime plan |
 
 ⬆️ | [Go to Top](#table-of-contents)
@@ -323,6 +328,7 @@ Once configured, every change merged into `master` rebuilds and publishes the st
 | 💰 | [Squash 3](https://realmacsoftware.com/squash/) | Powerful Batch Photo Editor. Quickly batch convert, and resize images. Apply layered watermarks and filters, rename files, remove or edit private metadata, and so much more. | Save 45% on first year with code **BLACKFRIDAY45**. Ends December 1st. |
 | 💰 | [Animock: 3D Mockup Maker](https://apps.apple.com/app/id6471911398) | Turn screenshots and recordings into stunning 3D mockups and videos. Showcase your content in animated, realistic device frames — perfect for App Store shots, preview videos, social posts, and client presentations. | **20% OFF** on Lifetime PRO |
 | 💸 | [ImageFramer](https://imageframer.net) | Easily add frames, mats and borders to your art (Mac) | **50% OFF** Lifetime | Offer ends on Dec 2th 2025 |
+| 🖥️ | [ScreenSnap Pro](https://www.screensnap.pro/) | Turn ordinary screenshots into stunning visuals in seconds. Add gorgeous backgrounds, annotate with 14 tools, and cloud share instantly (Mac). | **50% OFF** **EZNZQWNW** Lifetime | Offer ends on Dec 31th 2025 |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
@@ -492,7 +498,7 @@ Once configured, every change merged into `master` rebuilds and publishes the st
 | 📈 | [GemRank](https://gemrank.co/) | Be the brand AI recommends Track how ChatGPT, Gemini, Claude, and Perplexity talk about your brand, and get weekly visibility reports. | **50% OFF** on Lifetime Deals with code **BFCM2025** |
 | 💰 | [Effortless Backlinks](https://www.effortlessbacklinks.com/) | We submit your product to 100 high-quality directories for you. Increase domain authority and bring steady, qualified traffic without wasting 30+ hours on manual submissions. | **Save up to 50€** with code **EB2025** at checkout (Nov 21 to Dec 7)
 | 📈 | [SnowSEO](https://snowseo.com) | SnowSEO handles the tedious parts of growing your brand organically. It automatically researches keywords, creates content, tracks rankings, and optimizes how you appear in both Google searches and AI responses. | **50% OFF** on all Plan, auto-applied at checkout (Limited Time) |
-
+| 💰  | [CheckMySEO](https://checkmyseo.io) | Generate SEO‑optimized content and blog posts tailored to your keywords in minutes. | **30% OFF** with code **BF25** |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
