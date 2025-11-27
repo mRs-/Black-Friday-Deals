@@ -298,6 +298,7 @@ Once configured, every change merged into `master` rebuilds and publishes the st
 | 💰 | [Note](https://apps.apple.com/app/note/id1602765272) | Keep what you care most about in focus with this minimalist notes app & widget. It’s like a pinned/sticky note in its own app, for goals, ideas, reminders, or to-do lists. | $2.99 one-time purchase **40% OFF** through Dec 5th |
 | 💸 | [Mailbird](https://www.getmailbird.com/) | The Best Email client for Windows and Mac. Bring all your email accounts, calendars, and apps into one clean workspace. Stay focused, move faster. | **80%+ OFF Pay once plan** and **30% OFF Yearly Plan** (auto-applied), Nov 24 – Dec 5 |
 | 💰 | [Spencer](https://macspencer.app) | Save & restore window positions — across all virtual Desktops. Launch the right apps, hide others, and adjust number of Desktops to match your saved setup. Create layouts for different display setups and different tasks to stay organized and focused. | **40% OFF Lifetime**, Nov 26 - Dec 2 |
+| 💰 | [Tabhive](https://www.tabhive.app/) | Tabhive is a Chrome extension that helps you organize your tabs and manage your links | **30% OFF** on all plans (Including LTD) with code **BF2025**, Nov 24 - Dec 10 |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
