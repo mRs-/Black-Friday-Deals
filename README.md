@@ -99,6 +99,7 @@ Once configured, every change merged into `master` rebuilds and publishes the st
 | 💰 | [shadcn/studio](https://shadcnstudio.com) | Fully customizable shadcn ui Components, Blocks, Figma UI Kit, MCP, Templates and AI Powered Theme Generator | Flat 30% OFF with code **BFCM30SS** | Ends Dec 2 |
 | 💰 | [FlyonUI](https://flyonui.com) | Fully customizable Tailwind Components, Blocks, Figma UI Kit, MCP, & Templates | Flat 30% OFF with code **BFCM30FY** | Ends Dec 2 |
 | 💰 | [VerifyForge](https://verifyforge.com/) | Email Validation API - Verify email addresses in real-time with high accuracy | 30% OFF (Coupon: `BF2025`) | Nov 25 – Dec 1, 2025 |
+| 💰 | [Pushever](https://pushever.app) | GUI tool to test iOS push notifications | **30% off** in the AppStore (already applied) |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
