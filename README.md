@@ -378,6 +378,7 @@ Once configured, every change merged into `master` rebuilds and publishes the st
 | 📼 | [Yescaptions](https://yescaptions.com/) | Add studio-grade captions to your short videos in seconds | **50% OFF** on Lifetime Deals with code **BFCM2025** |
 | 💸 | [Kindest](https://www.kindest.app/) | Keep strong relationships with your friends and family. Kindest helps you start and keep track of healthy and fun habits to nurture connections with your loved ones. | [**50% OFF**](https://apps.apple.com/redeem?ctx=offercodes&id=6453754317&code=BF2025) |
 | 💸 | [TrendPost](https://trendpost.co) | AI-powered social media automation platform that helps you manage and sync posts across multiple platforms like Twitter and LinkedIn. Schedule content, manage multiple accounts, and enable automatic sharing with AI-generated captions and viral hooks to maximize engagement. | **30% off** monthly & Up to **65% off** yearly — No Coupon Needed | 2025-12-31 |
+| 💸 | [Protego for Reddit](https://apps.apple.com/us/app/protego-for-reddit/id6737959724?mt=12) | Safari Web Extension that filters unwanted content on Reddit. Block posts by keywords and domains, hide ads and promoted content. Works on old and new Reddit across macOS, iOS, iPadOS, and visionOS. | **50% OFF** ($0.99, was $1.99), Nov 27 - Dec 6 |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
