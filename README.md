@@ -151,6 +151,8 @@ Once configured, every change merged into `master` rebuilds and publishes the st
 | 💰 | [CallCow AI](https://www.callcow.ai) | AI voice assistant that sounds just like you. Clone your voice in 30 seconds and replace your traditional voice mail. | **40% OFF** With Code **blackfriday2025** |
 | 💸 | [Monologue](https://monologue.to) | Effortless voice dictation that adapts to your style, context & vocabulary so you can work 3× faster. | **52% off** on Annual | NOV 25 - DEC 2 |
 | 💰 | [RemoveMark](https://removemark.io) | Remove text, handwritten notes, and watermarks from images, plus remove watermarks from videos in a few clicks. | **40% off** with code **REMOVEMARK40** |
+| 💸 | [ConsoleX AI](https://consolex.ai) | The ultimate AI studio for creators - all frontier models and creative tools in one place — Gemini 3, Opus 4.5, GPT 5.1, Nano Banana Pro, Sora 2 & Veo 3. | **50% OFF** with code **CXBLACK2025** | Nov 27 – Dec 3 |
+| 💸 | [GPT Breeze](https://gptbreeze.io/) | Save hours consuming long content on the web. GPT Breeze Extension summarizes YouTube videos and articles, accelerates your writing, by saving your prompts as one-click shortcuts on browsers. | Code **BF25**: 50% off for one-time purchase, 60% off or annual plan |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
@@ -283,8 +285,7 @@ Once configured, every change merged into `master` rebuilds and publishes the st
 | 💸 | [ExtraDock](https://extradock.app) | Create unlimited floating Docks for macOS - Perfect for multiple monitors setups | 50% off with code **BLACKXXFRIDAY50** Nov 26th - Dec 1st |
 | 💰 | [Blark](https://blark.app) | The best way to take monochrome/black & white pictures and videos on the iPhone and iPad. | 30% OFF Yearly Plan with <strong>BLARKFRIDAY</strong>, Nov 24th - Dec 4th |
 | 💰 | [Litur(macOS)](https://litur.app) | A designer’s best-kept secret, a developer's best friend. Litur helps you manage and improve your colors and design workflow. | 30% OFF Lifetime - NO CODE REQUIRED, Nov 24th - Dec 4th |
-| 💸 | [FiveNotes](https://www.apptorium.com/fivenotes) | 5 quickly accessed notes. Floating above other apps and looking great with themes.
-  | 50% OFF Lifetime, Nov 21th - Dec 3th |
+| 💸 | [FiveNotes](https://www.apptorium.com/fivenotes) | 5 quickly accessed notes. Floating above other apps and looking great with themes. | 50% OFF Lifetime, Nov 21th - Dec 3th |
 | 💸 | [Workspaces 2](https://www.apptorium.com/workspaces) | Project-based launcher that opens your files, folders, websites, apps etc. with one click. | 50% OFF Lifetime, Nov 21th - Dec 3th |
 | 💰 | [SideNotes](https://www.apptorium.com/sidenotes) | Take notes on your screen side with no distraction. | 40% OFF Lifetime, Nov 21th - Dec 3th |
 | 💸 | [Lattix](https://www.lattix.app) | Lattix is a powerful launcher which helps you to open any app or file with preset layouts across your monitors. | 50% off with code **BLACKFRIDAY25** Nov 21th - Dec 1st |
@@ -309,6 +310,7 @@ Once configured, every change merged into `master` rebuilds and publishes the st
 | 💸 | [SwiftBiu](https://swiftbiu.com) | SwiftBiu is a text efficiency tool for macOS, select text in any app and a customizable extended toolbar pops up to make common operations "one step". Supports AI multimodal (text-to-text, text-to-graph), AppleScript/javascript plugins, html extension applets. | **50% OFF** Pro Lifetime only $ 4.99 between Nov 21 - Dec 26 |
 | 💰 | [Craft Docs](https://www.craft.do/) | Create stunning documents, manage tasks, build dynamic collections, and structure your ideas your way. | **40% LIFETIME OFF** – No code required |
 | 💸 | [Timemator](https://timemator.com/) | Timemator automatically tracks work on your Mac, turning app, file & website activity into accurate timesheets. | **50% OFF** Lifetime with promocode TM-BLACKFRIDAY25, Nov 27 – Dec 5 |
+| 💸 | [Daylish - Day Planner](https://apps.apple.com/us/app/daylish-visual-schedule/id6751201325) | A delightful day planner that helps you **never be late** again and *flow through your day* with ease. Get ready to leave on time with **smart alarms and timers**. | [**75% OFF** Daylish+ Yearly](https://apps.apple.com/redeem?ctx=offercodes&id=6751201325&code=BF25) ($19.99 → $4.99) with code **BF25**, Nov 26 - Dec 5 |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
