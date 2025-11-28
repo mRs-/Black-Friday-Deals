@@ -309,6 +309,7 @@ Once configured, every change merged into `master` rebuilds and publishes the st
 | 💰 | [Tabhive](https://www.tabhive.app/) | Tabhive is a Chrome extension that helps you organize your tabs and manage your links | **30% OFF** on all plans (Including LTD) with code **BF2025**, Nov 24 - Dec 10 |
 | 💸 | [SwiftBiu](https://swiftbiu.com) | SwiftBiu is a text efficiency tool for macOS, select text in any app and a customizable extended toolbar pops up to make common operations "one step". Supports AI multimodal (text-to-text, text-to-graph), AppleScript/javascript plugins, html extension applets. | **50% OFF** Pro Lifetime only $ 4.99 between Nov 21 - Dec 26 |
 | 💰 | [Craft Docs](https://www.craft.do/) | Create stunning documents, manage tasks, build dynamic collections, and structure your ideas your way. | **40% LIFETIME OFF** – No code required |
+| 💸 | [Timemator](https://timemator.com/) | Timemator automatically tracks work on your Mac, turning app, file & website activity into accurate timesheets. | **50% OFF** Lifetime with promocode TM-BLACKFRIDAY25, Nov 27 – Dec 5 |
 | 💸 | [Daylish - Day Planner](https://apps.apple.com/us/app/daylish-visual-schedule/id6751201325) | A delightful day planner that helps you **never be late** again and *flow through your day* with ease. Get ready to leave on time with **smart alarms and timers**. | [**75% OFF** Daylish+ Yearly](https://apps.apple.com/redeem?ctx=offercodes&id=6751201325&code=BF25) ($19.99 → $4.99) with code **BF25**, Nov 26 - Dec 5 |
 
 ⬆️ | [Go to Top](#table-of-contents)
