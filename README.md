@@ -462,6 +462,7 @@ Once configured, every change merged into `master` rebuilds and publishes the st
 | 💸 | [None to Run: Beginner Running Plans](https://apps.apple.com/us/app/none-to-run-beginner-5k-10k/id1491658094) | Achievable Walk/Run training programs for beginner runners. Start running today!| **50% OFF** Annual Plan with code **BLACKFRIDAY**|
 | 💸 | [Walk Mate: Weight Loss](https://apps.apple.com/redeem?ctx=offercodes&id=6739468121&code=BLCKFRDY25) | Daily random walking routes in your location. Valid from 13th Nov to 31th Dec| **50% OFF** Lifetime Plan with code **BLCKFRDY25**|
 | 💸 | [30 Day Workout - QuickFit](https://quickfit.bylancer.com/) | Personalized home workout plans based on your goals. Valid from 23th Nov to 30th Nov| **50% OFF** Lifetime Plan with code **BLCKFRDY25**|
+| 💸 | [Zenitizer - Meditation Timer](https://apps.apple.com/us/app/meditation-timer-zenitizer/id6444767911) | **Clutter-free meditation timer** designed for *unguided* meditation on iPhone and  Watch. Deep integration with Apple Health, Widgets and Shortcuts. Customizable with soothing sounds. | [**50% OFF** Zenitizer+ Yearly](https://apps.apple.com/redeem?ctx=offercodes&id=6444767911&code=BF25) (19.99$ → 9.99$) with code **BF25**, Nov 27 - Dec 5 |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
