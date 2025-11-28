@@ -235,7 +235,8 @@ Once configured, every change merged into `master` rebuilds and publishes the st
 | 💰 | [BetterNotif](https://www.betternotif.app/) | MacOS Stripe Real Time Notifications | **30% OFF** with code **BF25** | 2025-12-12 |
 | 💸 | [Orbitime](https://apps.apple.com/in/app/orbitime-world-clock-widget/id6463491213) | Orbitime allows you to track your friend’s timezone. World clock app with widgets | **Upto 67% OFF** on lifetime plan |
 | 💰 | [Vidimote for Safari](https://apps.apple.com/app/vidimote-for-safari/id1585702412) | Advanced playback, speed controls & skip for web videos in Safari (iOS & macOS) | **33% OFF** from Nov 26 to Dec 2 | 
-| 💰 | [Remote Buddy 2](https://www.iospirit.com/products/remotebuddy/) | Control apps, web videos and more on your Mac – from your iPhone, Siri Remote, iPad, Apple TV, Apple Remote and many other remote controls. | **40% OFF** from Nov 26 to Dec 2 | 
+| 💰 | [Remote Buddy 2](https://www.iospirit.com/products/remotebuddy/) | Control apps, web videos and more on your Mac – from your iPhone, Siri Remote, iPad, Apple TV, Apple Remote and many other remote controls. | **40% OFF** from Nov 26 to Dec 2 |
+| 💸 | [DaisyDisk](https://unclutterapp.com/bundle/?coupon=UN-BLACKFRIDAY-2025&s=git#DAISYDISK) | Find out what’s taking up your disk space and recover it in the most efficient and easy way. | **50% OFF** Lifetime ($10 → $5) |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
@@ -312,6 +313,7 @@ Once configured, every change merged into `master` rebuilds and publishes the st
 | 💸 | [Timemator](https://timemator.com/) | Timemator automatically tracks work on your Mac, turning app, file & website activity into accurate timesheets. | **50% OFF** Lifetime with promocode TM-BLACKFRIDAY25, Nov 27 – Dec 5 |
 | 💸 | [Daylish - Day Planner](https://apps.apple.com/us/app/daylish-visual-schedule/id6751201325) | A delightful day planner that helps you **never be late** again and *flow through your day* with ease. Get ready to leave on time with **smart alarms and timers**. | [**75% OFF** Daylish+ Yearly](https://apps.apple.com/redeem?ctx=offercodes&id=6751201325&code=BF25) ($19.99 → $4.99) with code **BF25**, Nov 26 - Dec 5 |
 | 💰 | [Labs64 NetLicensing](https://netlicensing.io/blog/2025/11/25/labs64-netlicensing-cyber-weeks-2025/) | Elevate your licensing & monetization | Save up to **50%** on any paid plan, get an **extended 60-day trial**, and unlock optional **onboarding**, integration, and migration support when you sign up with code *CYBER2025* between Nov 28 – Dec 8, 2025 |
+| 💸 | [Unclutter](https://unclutterapp.com/bundle/?coupon=UN-BLACKFRIDAY-2025&s=git#UNCLUTTER) | A smart space on your desktop to store and organize your everyday files, notes, and clipboard data. | **50% OFF** Lifetime ($20 → $10) |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
@@ -476,6 +478,7 @@ Once configured, every change merged into `master` rebuilds and publishes the st
 | 💸 | [Tailkits UI](https://tailkits.com/ui/) | Modern library of over 200 customizable Tailwind components | **Up to 60% OFF with code BLACKFRIDAY2025** |
 | 💸 | [MGC UI](https://mgcui.framer.website/?utm_source=mrsbf) | Design system and UI Kit for Figma | 30% OFF with code **BF2025** |
 | 💸 | [MGC ICON](https://mgc.mingcute.com/?utm_source=mrsbf) | Carefully crafted icon pack collection featuring over 14,000 high-quality vector icons | 30% OFF with code **BF2025** |
+| 💸 | [Editors' Choice](https://unclutterapp.com/bundle/?coupon=UN-BLACKFRIDAY-2025&s=git) | 12 Mac essentials that earned their spot by being genuinely brilliant. | **77% OFF** the whole pack ($331 → $76) |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
