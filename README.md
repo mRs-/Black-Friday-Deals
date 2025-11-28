@@ -151,6 +151,7 @@ Once configured, every change merged into `master` rebuilds and publishes the st
 | 💰 | [CallCow AI](https://www.callcow.ai) | AI voice assistant that sounds just like you. Clone your voice in 30 seconds and replace your traditional voice mail. | **40% OFF** With Code **blackfriday2025** |
 | 💸 | [Monologue](https://monologue.to) | Effortless voice dictation that adapts to your style, context & vocabulary so you can work 3× faster. | **52% off** on Annual | NOV 25 - DEC 2 |
 | 💰 | [RemoveMark](https://removemark.io) | Remove text, handwritten notes, and watermarks from images, plus remove watermarks from videos in a few clicks. | **40% off** with code **REMOVEMARK40** |
+| 💰 | [VisionGPT Extension](https://www.visiongpthq.com) | VisionGPT Ext is a Chrome extension for GPT-powered screenshot analysis (BYOK) | 40% off Lifetime Deal - **BF2025** |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
