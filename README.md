@@ -310,7 +310,6 @@ Once configured, every change merged into `master` rebuilds and publishes the st
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
-| 💰 | [NanoPhoto.AI](https://nanophoto.ai/pricing?utm_source=Black-Friday-Deals) | Making AI Photo and Video editing simple and efficient — Sora 2 Video, Veo3.1, Nano Banana Pro, Video Reverse Prompt Generator, and more. | **30% OFF Forever** on all plans with code **BLACKFRIDAY30** at Stripe checkout (Ends Nov 30, 23:59) |
 | 💸 | [TranslateMom](https://translatemom.com/?utm_source=mrsbf) | Instantly caption, translate, or dub HD videos in 100+ languages with natural voices. | 70% OFF Annual Pro Plan ($159 vs $528) with code **BLACK** — 2,000 min/mo, 29-language dubbing, GPT-4o workflows, and watermark-free exports. |
 | 💰 | [Recut](https://getrecut.com/?ref=mrsbf) | Quickly edit videos by automatically cutting pauses | **$50 off** one-time purchase (auto-applied) |
 | 💰 | [FaceScreen](https://facescreenapp.com) | Show your face and brand on screen on top of everything else. | 30% OFF (Nov 21 - Dec 2) No code Needed |
@@ -321,6 +320,7 @@ Once configured, every change merged into `master` rebuilds and publishes the st
 | 💸 | [Motionik](https://motionik.com) | A screen recorder for Windows & macOS with a built-in editor for creating engaging product demos & tutorials with auto zoom, cursor effects & more. | **50% OFF** lifetime plan with code **BF50** from 2025-11-21 to 2025-11-30 |
 | 💰 | [TopazLabs](https://www.topazlabs.com/) | Best finishing platform for every image and video you create, shoot and generate | **43% OFF** for Studio and **15% OFF** for single apps. No code needed | 
 | 💰 | [Rendley](https://rendley.com?utm_source=mRs-) | Rendley is an online video editor that brings together all the editing tools you need to create great video content. | 35% OFF annual plan with code **RENDLEY35** from 2025-11-21 to 2025-11-30 |
+| 💰 | [NanoPhoto.AI](https://nanophoto.ai/pricing?utm_source=Black-Friday-Deals) | Making AI Photo and Video editing simple and efficient — Sora 2 Video, Veo3.1, Nano Banana Pro, Video Reverse Prompt Generator, and more. | **30% OFF Forever** on all plans with code **BLACKFRIDAY30** at Stripe checkout (Ends Nov 30, 23:59) |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
