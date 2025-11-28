@@ -238,6 +238,8 @@ Once configured, every change merged into `master` rebuilds and publishes the st
 | 💰 | [Vidimote for Safari](https://apps.apple.com/app/vidimote-for-safari/id1585702412) | Advanced playback, speed controls & skip for web videos in Safari (iOS & macOS) | **33% OFF** from Nov 26 to Dec 2 | 
 | 💰 | [Remote Buddy 2](https://www.iospirit.com/products/remotebuddy/) | Control apps, web videos and more on your Mac – from your iPhone, Siri Remote, iPad, Apple TV, Apple Remote and many other remote controls. | **40% OFF** from Nov 26 to Dec 2 | 
 | 💰 | [CopyMagic](https://copymagic.app) | The smartest, most-intuitive clipboard manager for macOS. | **50% OFF** from Nov 26 to Dec 10 with code **BLACKFRIDAY** | 
+| 💸 | [Imgs2PDF](https://apps.apple.com/app/imgs2pdf-pdf-converter/id6741581868) | Convert images to PDF or PDF to images offline. Merge, split, PDFs, with OCR support. | [**60% OFF** Lifetime(Nov 27 - Dec 31)](https://apps.apple.com/redeem/?ctx=offercodes&id=6741581868&code=IMGS2PDF) |
+
 ⬆️ | [Go to Top](#table-of-contents)
 
 ## 📌 Productivity Software
