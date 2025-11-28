@@ -153,6 +153,7 @@ Once configured, every change merged into `master` rebuilds and publishes the st
 | 💰 | [RemoveMark](https://removemark.io) | Remove text, handwritten notes, and watermarks from images, plus remove watermarks from videos in a few clicks. | **40% off** with code **REMOVEMARK40** |
 | 💸 | [ConsoleX AI](https://consolex.ai) | The ultimate AI studio for creators - all frontier models and creative tools in one place — Gemini 3, Opus 4.5, GPT 5.1, Nano Banana Pro, Sora 2 & Veo 3. | **50% OFF** with code **CXBLACK2025** | Nov 27 – Dec 3 |
 | 💸 | [GPT Breeze](https://gptbreeze.io/) | Save hours consuming long content on the web. GPT Breeze Extension summarizes YouTube videos and articles, accelerates your writing, by saving your prompts as one-click shortcuts on browsers. | Code **BF25**: 50% off for one-time purchase, 60% off or annual plan |
+| 💰 | [VisionGPT Extension](https://www.visiongpthq.com) | VisionGPT Ext is a Chrome extension for GPT-powered screenshot analysis (BYOK) | 40% off Lifetime Deal - **BF2025** |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
@@ -236,6 +237,7 @@ Once configured, every change merged into `master` rebuilds and publishes the st
 | 💸 | [Orbitime](https://apps.apple.com/in/app/orbitime-world-clock-widget/id6463491213) | Orbitime allows you to track your friend’s timezone. World clock app with widgets | **Upto 67% OFF** on lifetime plan |
 | 💰 | [Vidimote for Safari](https://apps.apple.com/app/vidimote-for-safari/id1585702412) | Advanced playback, speed controls & skip for web videos in Safari (iOS & macOS) | **33% OFF** from Nov 26 to Dec 2 | 
 | 💰 | [Remote Buddy 2](https://www.iospirit.com/products/remotebuddy/) | Control apps, web videos and more on your Mac – from your iPhone, Siri Remote, iPad, Apple TV, Apple Remote and many other remote controls. | **40% OFF** from Nov 26 to Dec 2 | 
+| 💰 | [CopyMagic](https://copymagic.app) | The smartest, most-intuitive clipboard manager for macOS. | **50% OFF** from Nov 26 to Dec 10 with code **BLACKFRIDAY** | 
 | 💸 | [Imgs2PDF](https://apps.apple.com/app/imgs2pdf-pdf-converter/id6741581868) | Convert images to PDF or PDF to images offline. Merge, split, PDFs, with OCR support. | [**60% OFF** Lifetime(Nov 27 - Dec 31)](https://apps.apple.com/redeem/?ctx=offercodes&id=6741581868&code=IMGS2PDF) |
 
 ⬆️ | [Go to Top](#table-of-contents)
@@ -312,6 +314,7 @@ Once configured, every change merged into `master` rebuilds and publishes the st
 | 💰 | [Craft Docs](https://www.craft.do/) | Create stunning documents, manage tasks, build dynamic collections, and structure your ideas your way. | **40% LIFETIME OFF** – No code required |
 | 💸 | [Timemator](https://timemator.com/) | Timemator automatically tracks work on your Mac, turning app, file & website activity into accurate timesheets. | **50% OFF** Lifetime with promocode TM-BLACKFRIDAY25, Nov 27 – Dec 5 |
 | 💸 | [Daylish - Day Planner](https://apps.apple.com/us/app/daylish-visual-schedule/id6751201325) | A delightful day planner that helps you **never be late** again and *flow through your day* with ease. Get ready to leave on time with **smart alarms and timers**. | [**75% OFF** Daylish+ Yearly](https://apps.apple.com/redeem?ctx=offercodes&id=6751201325&code=BF25) ($19.99 → $4.99) with code **BF25**, Nov 26 - Dec 5 |
+| 💰 | [Labs64 NetLicensing](https://netlicensing.io/blog/2025/11/25/labs64-netlicensing-cyber-weeks-2025/) | Elevate your licensing & monetization | Save up to **50%** on any paid plan, get an **extended 60-day trial**, and unlock optional **onboarding**, integration, and migration support when you sign up with code *CYBER2025* between Nov 28 – Dec 8, 2025 |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
@@ -329,6 +332,7 @@ Once configured, every change merged into `master` rebuilds and publishes the st
 | 💸 | [Motionik](https://motionik.com) | A screen recorder for Windows & macOS with a built-in editor for creating engaging product demos & tutorials with auto zoom, cursor effects & more. | **50% OFF** lifetime plan with code **BF50** from 2025-11-21 to 2025-11-30 |
 | 💰 | [TopazLabs](https://www.topazlabs.com/) | Best finishing platform for every image and video you create, shoot and generate | **43% OFF** for Studio and **15% OFF** for single apps. No code needed | 
 | 💰 | [Rendley](https://rendley.com?utm_source=mRs-) | Rendley is an online video editor that brings together all the editing tools you need to create great video content. | 35% OFF annual plan with code **RENDLEY35** from 2025-11-21 to 2025-11-30 |
+| 💰 | [NanoPhoto.AI](https://nanophoto.ai/pricing?utm_source=Black-Friday-Deals) | Making AI Photo and Video editing simple and efficient — Sora 2 Video, Veo3.1, Nano Banana Pro, Video Reverse Prompt Generator, and more. | **30% OFF Forever** on all plans with code **BLACKFRIDAY30** at Stripe checkout (Ends Nov 30, 23:59) |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
