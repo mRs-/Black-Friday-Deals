@@ -153,6 +153,7 @@ Once configured, every change merged into `master` rebuilds and publishes the st
 | 💰 | [RemoveMark](https://removemark.io) | Remove text, handwritten notes, and watermarks from images, plus remove watermarks from videos in a few clicks. | **40% off** with code **REMOVEMARK40** |
 | 💸 | [ConsoleX AI](https://consolex.ai) | The ultimate AI studio for creators - all frontier models and creative tools in one place — Gemini 3, Opus 4.5, GPT 5.1, Nano Banana Pro, Sora 2 & Veo 3. | **50% OFF** with code **CXBLACK2025** | Nov 27 – Dec 3 |
 | 💸 | [GPT Breeze](https://gptbreeze.io/) | Save hours consuming long content on the web. GPT Breeze Extension summarizes YouTube videos and articles, accelerates your writing, by saving your prompts as one-click shortcuts on browsers. | Code **BF25**: 50% off for one-time purchase, 60% off or annual plan |
+| 💰 | [VisionGPT Extension](https://www.visiongpthq.com) | VisionGPT Ext is a Chrome extension for GPT-powered screenshot analysis (BYOK) | 40% off Lifetime Deal - **BF2025** |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
@@ -235,7 +236,9 @@ Once configured, every change merged into `master` rebuilds and publishes the st
 | 💰 | [BetterNotif](https://www.betternotif.app/) | MacOS Stripe Real Time Notifications | **30% OFF** with code **BF25** | 2025-12-12 |
 | 💸 | [Orbitime](https://apps.apple.com/in/app/orbitime-world-clock-widget/id6463491213) | Orbitime allows you to track your friend’s timezone. World clock app with widgets | **Upto 67% OFF** on lifetime plan |
 | 💰 | [Vidimote for Safari](https://apps.apple.com/app/vidimote-for-safari/id1585702412) | Advanced playback, speed controls & skip for web videos in Safari (iOS & macOS) | **33% OFF** from Nov 26 to Dec 2 | 
-| 💰 | [Remote Buddy 2](https://www.iospirit.com/products/remotebuddy/) | Control apps, web videos and more on your Mac – from your iPhone, Siri Remote, iPad, Apple TV, Apple Remote and many other remote controls. | **40% OFF** from Nov 26 to Dec 2 |
+| 💰 | [Remote Buddy 2](https://www.iospirit.com/products/remotebuddy/) | Control apps, web videos and more on your Mac – from your iPhone, Siri Remote, iPad, Apple TV, Apple Remote and many other remote controls. | **40% OFF** from Nov 26 to Dec 2 | 
+| 💰 | [CopyMagic](https://copymagic.app) | The smartest, most-intuitive clipboard manager for macOS. | **50% OFF** from Nov 26 to Dec 10 with code **BLACKFRIDAY** | 
+| 💸 | [Imgs2PDF](https://apps.apple.com/app/imgs2pdf-pdf-converter/id6741581868) | Convert images to PDF or PDF to images offline. Merge, split, PDFs, with OCR support. | [**60% OFF** Lifetime(Nov 27 - Dec 31)](https://apps.apple.com/redeem/?ctx=offercodes&id=6741581868&code=IMGS2PDF) |
 | 💸 | [DaisyDisk](https://unclutterapp.com/bundle/?coupon=UN-BLACKFRIDAY-2025&s=git#DAISYDISK) | Find out what’s taking up your disk space and recover it in the most efficient and easy way. | **50% OFF** Lifetime ($10 → $5) |
 
 ⬆️ | [Go to Top](#table-of-contents)
@@ -406,6 +409,7 @@ Once configured, every change merged into `master` rebuilds and publishes the st
 | 💸 | [Nihongo – Japanese Dictionary](https://apps.apple.com/app/nihongo-japanese-dictionary/id881697245) | Modern Japanese dictionary & study tool with fast search, OCR, example sentences, kanji breakdowns, and flashcards. | **50% OFF** Nihongo Pro Lifetime Subscription (no code needed, in-app Black Friday upgrade, ends Dec 2, 2025) |
 | 💸 | [Nihongo Lessons](https://apps.apple.com/app/nihongo-lessons/id1640204242) | Step-by-step Japanese course app based on Japanese Level Up (Jalup), taking you from beginner to advanced with sentence-based SRS. | **50% OFF** Lifetime access (no code needed, in-app Black Friday pricing, ends Dec 2, 2025) |
 | 💸 | [TweetBlink](https://tweetbl.ink) | AI-powered tweet generator that creates optimized, personalized content. Turn ideas into engaging posts that sound like you | **50% OFF Lifetime** with code BLACKFRIDAY2025 |
+| 💸 | [Fix My Japanese](https://fixmyjapanese.com?ref=mRs) | AI powered Japanese grammar checker & teacher. Corrects Japanese mistakes and teaches the reasons for corrections. iOS & Web | **50% OFF** annual (through web) |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
