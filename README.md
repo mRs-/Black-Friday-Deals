@@ -355,6 +355,7 @@ Once configured, every change merged into `master` rebuilds and publishes the st
 | 💰 | [Animock: 3D Mockup Maker](https://apps.apple.com/app/id6471911398) | Turn screenshots and recordings into stunning 3D mockups and videos. Showcase your content in animated, realistic device frames — perfect for App Store shots, preview videos, social posts, and client presentations. | **20% OFF** on Lifetime PRO |
 | 💸 | [ImageFramer](https://imageframer.net) | Easily add frames, mats and borders to your art (Mac) | **50% OFF** Lifetime | Offer ends on Dec 2th 2025 |
 | 🖥️ | [ScreenSnap Pro](https://www.screensnap.pro/) | Turn ordinary screenshots into stunning visuals in seconds. Add gorgeous backgrounds, annotate with 14 tools, and cloud share instantly (Mac). | **50% OFF** **EZNZQWNW** Lifetime | Offer ends on Dec 31th 2025 |
+| 💸 | [Quickshot Photo Editor](https://quickshot.photo?ref=mRs/) | Powerful AI powered photo editor. Edit photos with words, not tools (iOS) | **50% OFF** Annual | Offer ends on Dec 2nd 2025 |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
