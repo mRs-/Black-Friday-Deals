@@ -155,6 +155,7 @@ Once configured, every change merged into `master` rebuilds and publishes the st
 | 💸 | [GPT Breeze](https://gptbreeze.io/) | Save hours consuming long content on the web. GPT Breeze Extension summarizes YouTube videos and articles, accelerates your writing, by saving your prompts as one-click shortcuts on browsers. | Code **BF25**: 50% off for one-time purchase, 60% off or annual plan |
 | 💰 | [VisionGPT Extension](https://www.visiongpthq.com) | VisionGPT Ext is a Chrome extension for GPT-powered screenshot analysis (BYOK) | 40% off Lifetime Deal - **BF2025** |
 | 💸 | [Grammarly Pro](https://www.grammarly.com/limited-time-offer) | The document editor that combines AI Chat with specialized agents to build on your writing, voice, and ideas. | **55% off** on Annual sub Nov 28 Only |
+| 💸 | [Blip AI Pro](https://blipai.app) | Voice to text dictation app for Mac, Alternative to wispr flow, Type emails, slack, chatGPT, Cursor prompts 4x faster| **80% off** on Yearly sub for one Week Only for first 5000 users |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
