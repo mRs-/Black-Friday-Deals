@@ -103,6 +103,7 @@ Once configured, every change merged into `master` rebuilds and publishes the st
 | 💰 | [Beyond Compare](https://www.scootersoftware.com/sales/promo) | Beyond Compare is a software application used by developers, system administrators and others to compare, merge, and synchronize data.  It runs on Windows, macOS, and Linux. | 25% off of any BC license, Cyber Monday Sale, December 1st, 2025 ONLY |
 | 💰 | [ThemeSelection](https://themeselection.com) | Fully customizable Admin Templates, UI kits & SaaS Boilerplates | Flat 30% OFF with code **CW30OFF** | Ends Dec 1 |
 | 💰 | [LeapOCR](https://leapocr.com/) | Extract Structured Data from Any Document, get markdown or structured data from any PDF, digitize your archives | Flat 22% OFF with code **OFF22** | Ends Dec 31 |
+| 💰 | [Nexty.dev](https://nexty.dev#pricing) | Build Your SaaS in Days, Not Weeks | **$68 OFF** (Coupon: `BLACKFRIDAY2025`) |
 ⬆️ | [Go to Top](#table-of-contents)
 
 ## 🤖 AI Tools
