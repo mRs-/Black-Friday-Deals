@@ -104,6 +104,7 @@ Once configured, every change merged into `master` rebuilds and publishes the st
 | 💰 | [ThemeSelection](https://themeselection.com) | Fully customizable Admin Templates, UI kits & SaaS Boilerplates | Flat 30% OFF with code **CW30OFF** | Ends Dec 1 |
 | 💰 | [LeapOCR](https://leapocr.com/) | Extract Structured Data from Any Document, get markdown or structured data from any PDF, digitize your archives | Flat 22% OFF with code **OFF22** | Ends Dec 31 |
 | 💰 | [Nexty.dev](https://nexty.dev#pricing) | Build Your SaaS in Days, Not Weeks | **$68 OFF** (Coupon: `BLACKFRIDAY2025`) |
+| 💰 | [LaunchSaaS](https://launchsaas.org/) | Launch your SaaS in hours, not weeks. | Lifetime **50% off** - Auto-Applied |
 ⬆️ | [Go to Top](#table-of-contents)
 
 ## 🤖 AI Tools
