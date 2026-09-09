@@ -158,6 +158,8 @@ Once configured, every change merged into `master` rebuilds and publishes the st
 | 💰 | [VisionGPT Extension](https://www.visiongpthq.com) | VisionGPT Ext is a Chrome extension for GPT-powered screenshot analysis (BYOK) | 40% off Lifetime Deal - **BF2025** |
 | 💸 | [Grammarly Pro](https://www.grammarly.com/limited-time-offer) | The document editor that combines AI Chat with specialized agents to build on your writing, voice, and ideas. | **55% off** on Annual sub Nov 28 Only |
 | 💸 | [Blip AI Pro](https://blipai.app) | Voice to text dictation app for Mac, Alternative to wispr flow, Type emails, slack, chatGPT, Cursor prompts 4x faster| **80% off** on Yearly sub for one Week Only for first 5000 users |
+| 💰 | [ScribeToAny](https://scribetoany.com) | Turn hours of audio and video into accurate, ready-to-use text with speaker diarization and translation into 99+ languages. | **30% OFF** monthly with code **FIRST_30_OFF** or **$20 OFF** yearly with code **FIRST_20_OFF** |
+
 
 ⬆️ | [Go to Top](#table-of-contents)
 
