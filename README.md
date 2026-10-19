@@ -361,6 +361,7 @@ Once configured, every change merged into `master` rebuilds and publishes the st
 | 🖥️ | [ScreenSnap Pro](https://www.screensnap.pro/) | Turn ordinary screenshots into stunning visuals in seconds. Add gorgeous backgrounds, annotate with 14 tools, and cloud share instantly (Mac). | **50% OFF** **EZNZQWNW** Lifetime | Offer ends on Dec 31th 2025 |
 | 💸 | [Quickshot Photo Editor](https://quickshot.photo?ref=mRs/) | Powerful AI powered photo editor. Edit photos with words, not tools (iOS) | **50% OFF** Annual | Offer ends on Dec 2nd 2025 |
 | 💸 | [SnapVis](https://www.snapvis.app/) | Transform any screenshot, images into stunning visuals for social media, documentation, product demos, presentations, and more. Add backgrounds, shadows, frames — all in your browser. | 80% OFF with code **BLACKFRIDAY** |
+| 💰 | [Bindrik](https://bindrik.com/en?ref=mrs-bf) | Turns your artwork into a KDP-ready interior and cover for Amazon KDP: bleed, gutter, spine width and barcode zone worked out from your real page count. One-time purchase, runs offline on your Mac. | **43% OFF**, $39 (was $69), one-time purchase, with code **BLACKFRIDAY2026** (Nov 23 - Nov 30) |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
