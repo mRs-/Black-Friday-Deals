@@ -245,6 +245,7 @@ Once configured, every change merged into `master` rebuilds and publishes the st
 | 💰 | [CopyMagic](https://copymagic.app) | The smartest, most-intuitive clipboard manager for macOS. | **50% OFF** from Nov 26 to Dec 10 with code **BLACKFRIDAY** | 
 | 💸 | [Imgs2PDF](https://apps.apple.com/app/imgs2pdf-pdf-converter/id6741581868) | Convert images to PDF or PDF to images offline. Merge, split, PDFs, with OCR support. | [**60% OFF** Lifetime(Nov 27 - Dec 31)](https://apps.apple.com/redeem/?ctx=offercodes&id=6741581868&code=IMGS2PDF) |
 | 💸 | [DaisyDisk](https://unclutterapp.com/bundle/?coupon=UN-BLACKFRIDAY-2025&s=git#DAISYDISK) | Find out what’s taking up your disk space and recover it in the most efficient and easy way. | **50% OFF** Lifetime ($10 → $5) |
+| 🎙️ | [Aurio](https://aurio.dev/) | Noise cancelling microphone for Mac. Removes fans, typing, traffic and barking from your mic in real time, in Zoom, Meet, Teams, Discord or OBS. On-device, no account. Apple silicon, macOS 13.3+. | **25% OFF**, $30 (was $40) for the app to keep plus a year of updates, with code **BLACKFRIDAY26** (Nov 24 - Dec 1) |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
