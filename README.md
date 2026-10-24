@@ -245,6 +245,7 @@ Once configured, every change merged into `master` rebuilds and publishes the st
 | 💰 | [CopyMagic](https://copymagic.app) | The smartest, most-intuitive clipboard manager for macOS. | **50% OFF** from Nov 26 to Dec 10 with code **BLACKFRIDAY** | 
 | 💸 | [Imgs2PDF](https://apps.apple.com/app/imgs2pdf-pdf-converter/id6741581868) | Convert images to PDF or PDF to images offline. Merge, split, PDFs, with OCR support. | [**60% OFF** Lifetime(Nov 27 - Dec 31)](https://apps.apple.com/redeem/?ctx=offercodes&id=6741581868&code=IMGS2PDF) |
 | 💸 | [DaisyDisk](https://unclutterapp.com/bundle/?coupon=UN-BLACKFRIDAY-2025&s=git#DAISYDISK) | Find out what’s taking up your disk space and recover it in the most efficient and easy way. | **50% OFF** Lifetime ($10 → $5) |
+| 💸 | [Picmal](https://picmal.app) | Convert, compress and edit images, video, audio and PDFs on your Mac. Nothing gets uploaded. One-time purchase. | **50% OFF**, $14.50 (was $29), with code **BLACKFRIDAY** (Nov 23 - Nov 30) |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
@@ -324,6 +325,7 @@ Once configured, every change merged into `master` rebuilds and publishes the st
 | 💸 | [Unclutter](https://unclutterapp.com/bundle/?coupon=UN-BLACKFRIDAY-2025&s=git#UNCLUTTER) | A smart space on your desktop to store and organize your everyday files, notes, and clipboard data. | **50% OFF** Lifetime ($20 → $10) |
 | 💰 | [MenubarX](https://menubarx.app/) | Powful macOS menu bar browser that helps you to add any web pages to the menu bar just like Native Apps. | App Store **28% OFF** or Code BF2025, Nov 26 - Dec 5 |
 | 💰 | [DockX](https://dockx.app/) | Magic app that allows you to display any content in the Dock and Menu bar, you can just sneak a peek anytime without opening any app. | App Store **25% OFF** or Code BF2025, Nov 26 - Dec 5 |
+| 💸 | [Cozy](https://cozyjournal.app) | A private journal for Mac, Windows and iPhone. Your entries stay on your device as your own files. Bought once, no subscription. | **50% OFF**, $24.50 (was $49), with code **BLACKFRIDAY** (Nov 23 - Nov 30) |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
