@@ -324,6 +324,7 @@ Once configured, every change merged into `master` rebuilds and publishes the st
 | 💸 | [Unclutter](https://unclutterapp.com/bundle/?coupon=UN-BLACKFRIDAY-2025&s=git#UNCLUTTER) | A smart space on your desktop to store and organize your everyday files, notes, and clipboard data. | **50% OFF** Lifetime ($20 → $10) |
 | 💰 | [MenubarX](https://menubarx.app/) | Powful macOS menu bar browser that helps you to add any web pages to the menu bar just like Native Apps. | App Store **28% OFF** or Code BF2025, Nov 26 - Dec 5 |
 | 💰 | [DockX](https://dockx.app/) | Magic app that allows you to display any content in the Dock and Menu bar, you can just sneak a peek anytime without opening any app. | App Store **25% OFF** or Code BF2025, Nov 26 - Dec 5 |
+| 📝 | [Noteline](https://noteline.io/pricing) | Markdown editor for Mac, Windows and Linux. Notes are plain .md files in a folder you choose, and Pandoc and Typst are built in, so Word and PDF export works offline. 14-day free trial, no account. | **50% OFF** the one-time license ($9.99 → $4.99), Nov 25 - Nov 30, 2026, applied automatically at checkout |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
