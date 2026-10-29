@@ -324,7 +324,7 @@ Once configured, every change merged into `master` rebuilds and publishes the st
 | 💸 | [Unclutter](https://unclutterapp.com/bundle/?coupon=UN-BLACKFRIDAY-2025&s=git#UNCLUTTER) | A smart space on your desktop to store and organize your everyday files, notes, and clipboard data. | **50% OFF** Lifetime ($20 → $10) |
 | 💰 | [MenubarX](https://menubarx.app/) | Powful macOS menu bar browser that helps you to add any web pages to the menu bar just like Native Apps. | App Store **28% OFF** or Code BF2025, Nov 26 - Dec 5 |
 | 💰 | [DockX](https://dockx.app/) | Magic app that allows you to display any content in the Dock and Menu bar, you can just sneak a peek anytime without opening any app. | App Store **25% OFF** or Code BF2025, Nov 26 - Dec 5 |
-
+| 💰 | [Aevo](https://aevo.so/en) - Task board with tiles that shows what still fits into your day. With calendar sync (macOS & web). 30% off yearly Pro (first year) and lifetime license for €149 · Nov 27 – Nov 30 |
 ⬆️ | [Go to Top](#table-of-contents)
 
 ## 🎥 Video Software
