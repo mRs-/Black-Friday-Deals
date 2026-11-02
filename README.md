@@ -51,6 +51,7 @@ Please follow the rules below:
 |🤑|[Mac Mouse Fixer](https://macfix.click/pricing?ref=black-friday-deals)| External mouse utility for macOS: click debounce, zoom with the wheel and more | **50% OFF** Pro with code **MMFBF2026** (Nov 2 – Dec 5)|
 |💸|[UserJot](https://userjot.com/?ref=dqhieu-bf)| Live chat, feedback boards, roadmap and changelog for SaaS teams, on the web | **30% OFF** first year on yearly plans with code **BF2026** (until Dec 2)|
 |💸|[AUTX AI Visibility Check](https://autx.ai/)| Web app that shows whether AI models name your business when customers ask | **20% OFF** the AUTX AI Visibility Report with code **LAUNCH20**, $39.20 instead of $49 (through Nov 30)|
+|💸|[ClipAudit](https://clipaudit.app)| macOS clipboard manager that detects 700+ types of API keys and secrets and keeps them out of shell history and apps reading the clipboard | **40% OFF** with code **BLACKFRIDAY2026** ($29 → $17.40) (Nov 27 – Dec 1)|
 
 ---
 
