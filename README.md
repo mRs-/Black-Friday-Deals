@@ -245,6 +245,11 @@ Once configured, every change merged into `master` rebuilds and publishes the st
 | 💰 | [CopyMagic](https://copymagic.app) | The smartest, most-intuitive clipboard manager for macOS. | **50% OFF** from Nov 26 to Dec 10 with code **BLACKFRIDAY** | 
 | 💸 | [Imgs2PDF](https://apps.apple.com/app/imgs2pdf-pdf-converter/id6741581868) | Convert images to PDF or PDF to images offline. Merge, split, PDFs, with OCR support. | [**60% OFF** Lifetime(Nov 27 - Dec 31)](https://apps.apple.com/redeem/?ctx=offercodes&id=6741581868&code=IMGS2PDF) |
 | 💸 | [DaisyDisk](https://unclutterapp.com/bundle/?coupon=UN-BLACKFRIDAY-2025&s=git#DAISYDISK) | Find out what’s taking up your disk space and recover it in the most efficient and easy way. | **50% OFF** Lifetime ($10 → $5) |
+| 💰 | [DockView 2](https://noteifyapp.com/dockview/) | Live window previews for the Dock | 30% OFF ($14.99 → $10.49, Lifetime $49.99 → $34.99) with code **MACPLUSBLACKFRIDAY26**, Nov 1 - Nov 30, 2026 |
+| 💰 | [ActiveDock 2](https://noteifyapp.com/activedock/) | Powerful Dock replacement for macOS | 30% OFF ($19.99 → $13.99, Lifetime $59.99 → $41.99) with code **MACPLUSBLACKFRIDAY26**, Nov 1 - Nov 30, 2026 |
+| 💰 | [SuperTab 7](https://noteifyapp.com/supertab/) | Apps, windows and clipboard in one panel | 30% OFF ($19.99 → $13.99, Lifetime $49.99 → $34.99) with code **MACPLUSBLACKFRIDAY26**, Nov 1 - Nov 30, 2026 |
+| 💰 | [Quick Exposé 3](https://noteifyapp.com/quick-expose/) | Classic Exposé on modern macOS | 30% OFF ($39.99 → $27.99) with code **MACPLUSBLACKFRIDAY26**, Nov 1 - Nov 30, 2026 |
+| 💰 | [MacPlus Software, all apps](https://noteifyapp.com/apps/) | Command-Tab Plus 2, Stage View, Tab Finder 2, MultiDock 2, Classic Commander, Tree Outliner, ContextClip | 30% OFF everything with code **MACPLUSBLACKFRIDAY26**, Nov 1 - Nov 30, 2026 |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
