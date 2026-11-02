@@ -104,6 +104,7 @@ Once configured, every change merged into `master` rebuilds and publishes the st
 | 💰 | [ThemeSelection](https://themeselection.com) | Fully customizable Admin Templates, UI kits & SaaS Boilerplates | Flat 30% OFF with code **CW30OFF** | Ends Dec 1 |
 | 💰 | [LeapOCR](https://leapocr.com/) | Extract Structured Data from Any Document, get markdown or structured data from any PDF, digitize your archives | Flat 22% OFF with code **OFF22** | Ends Dec 31 |
 | 💰 | [Nexty.dev](https://nexty.dev#pricing) | Build Your SaaS in Days, Not Weeks | **$68 OFF** (Coupon: `BLACKFRIDAY2025`) |
+| 💸 | [DevUtils](https://devutils.com/?utm_source=mrsbf) | Offline all-in-one toolbox for developers on macOS. Fully supports Apple Silicon. | **60% OFF** all plans with code **BLACKFRIDAY2026** (Nov 2 - Dec 30, 2026) |
 ⬆️ | [Go to Top](#table-of-contents)
 
 ## 🤖 AI Tools
@@ -158,6 +159,7 @@ Once configured, every change merged into `master` rebuilds and publishes the st
 | 💰 | [VisionGPT Extension](https://www.visiongpthq.com) | VisionGPT Ext is a Chrome extension for GPT-powered screenshot analysis (BYOK) | 40% off Lifetime Deal - **BF2025** |
 | 💸 | [Grammarly Pro](https://www.grammarly.com/limited-time-offer) | The document editor that combines AI Chat with specialized agents to build on your writing, voice, and ideas. | **55% off** on Annual sub Nov 28 Only |
 | 💸 | [Blip AI Pro](https://blipai.app) | Voice to text dictation app for Mac, Alternative to wispr flow, Type emails, slack, chatGPT, Cursor prompts 4x faster| **80% off** on Yearly sub for one Week Only for first 5000 users |
+| 💸 | [TypingMind](https://www.typingmind.com/?utm_source=mrsbf) | Advanced chat UI for ChatGPT, Claude, Gemini and more, with all models in one place, MCP & plugins, AI agents, and private local storage | **60% OFF** Lifetime Premium with code **BLACKFRIDAY2026** (until Dec 15, 2026) |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
