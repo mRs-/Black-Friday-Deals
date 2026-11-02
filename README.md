@@ -43,6 +43,7 @@ Please follow the rules below:
 |🤑|[TextSniper](https://textsniper.app/) | Stop retyping text you can't select. Instantly grab text from anywhere on your Mac, scan QR codes, and listen to text with built-in text-to-speech. | 70% OFF with code **BFCM26** |
 |💸|[Beaming](https://trybeaming.app/?ref=black-friday-deals)| Mirror your real iPhone, iPad and Android devices on your Mac, in a frame that matches the actual device | **40% OFF** Pro (one-time purchase) with code **BLACKFRIDAY40** (Nov 2 – Dec 1)|
 |💸|[Ratio](https://useratio.app/?ref=dqhieu-bf)| Notepad calculator for Mac, Windows and Linux: live currencies, units, dates and time zones as you type | **30% OFF** with code **BLACKFRIDAY26** (Nov 24 – Dec 1, $19.99 → $13.99, direct purchase only)|
+|💸|[Clipboard Manager Pro](https://clipboardman.com/?ref=black-friday-deals)| Searchable clipboard history for Chrome and Edge, plus Android: press Ctrl/Cmd+U to find and paste anything you copied | **35% OFF** Pro (cloud sync, backups, unlimited snippets) with code **BF2026** · e.g. Pro Yearly ~~$23.99~~ $15.59|
 
 ---
 
