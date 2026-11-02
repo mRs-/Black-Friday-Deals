@@ -45,6 +45,8 @@ Please follow the rules below:
 |💸|[Ratio](https://useratio.app/?ref=dqhieu-bf)| Notepad calculator for Mac, Windows and Linux: live currencies, units, dates and time zones as you type | **30% OFF** with code **BLACKFRIDAY26** (Nov 24 – Dec 1, $19.99 → $13.99, direct purchase only)|
 |💸|[Clipboard Manager Pro](https://clipboardman.com/?ref=black-friday-deals)| Searchable clipboard history for Chrome and Edge, plus Android: press Ctrl/Cmd+U to find and paste anything you copied | **35% OFF** Pro (cloud sync, backups, unlimited snippets) with code **BF2026** · e.g. Pro Yearly ~~$23.99~~ $15.59|
 |💸|[BucketMate](https://www.bucketmate.app/pricing?ref=black-friday-deals)| Finder-style S3 client for macOS, iPhone and the web | **40% OFF** all lifetime licenses with code **BF2026** (Nov 2 – Dec 1)|
+|🤑|[TypingMind](https://www.typingmind.com/?utm_source=tonybf)| Chat UI for ChatGPT, Claude and Gemini with your own API key, on the web. Supports MCP, multi-model chat, projects and AI agents | **60% OFF** lifetime with code **BLACKFRIDAY2026**|
+|🤑|[DevUtils](https://devutils.com)| All-in-one toolbox for developers on macOS, with full Apple Silicon support | **50% OFF** with code **BLACKFRIDAY2026**|
 
 ---
 
