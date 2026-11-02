@@ -64,7 +64,7 @@ Once configured, every change merged into `master` rebuilds and publishes the st
 | 💸 | [KloudUtils](https://kloudutils.com/) | Your Toolbox For Daily Work - AWS, K8S, Web and Dev tasks & Shareable links  | **50% OFF** Lifetime License with code **LAUNCH50** |
 | 💸 | [KeygenGo](https://keygengo.5km.tech) | A native macOS app that transforms your Keygen.sh experience. Manage licenses, track users, and monitor products through an elegant visual interface. | 50% OFF for Lifetime Plan with code **BF2025** (Nov 20 - Dec 2) |
 | 💸 | [DNSDeck](https://apps.apple.com/us/app/dnsdeck-manage-dns-zones/id6753925998?utm_source=BF-2025) | A powerful macOS DNS zone management client for CloudFlare and AWS Route 53. | ****50% OFF**** ($4.99) one-time purchase via the App Store |
-| 💰 | [ShipAhead](https://shipahe.ad) | Launch your AI SaaS in days, not months | **40% OFF** with code **BF2025** |
+| 💸 | [ShipAhead](https://shipahe.ad) | Ship your SaaS in a weekend with Nuxt Starter Kit | **50% OFF**. Auto-applied. Valid Nov 1 – Dec 31, 2026 |
 | 💰 | [DevWorkspace Pro](https://devworkspacepro.com) | Desktop app to easily build and manage Docker-powered web apps. | **40% off** with discount code **BLACKFRIDAY40OFF** |
 | 💸 | [Compot – SwiftUI Components](https://www.compotui.com/?utm_source=mrsbf) | Develop iOS apps faster with AI coding assistant and 100+ predesigned SwiftUI components. Explore SwiftUI and discover resources and tools for iOS app developers. | [**50% OFF** with code **BF2025**](https://apps.apple.com/redeem?ctx=offercodes&id=6471916279&code=BF2025) |
 | 💰 | [FullStro](http://fullstro.com/black-friday-deals/) | FullStro is an all-in-one multi-channel business automation platform that helps e-commerce businesses manage inventory, orders, and websites effortlessly. No code needed, fully integrated, and synchronized across sales, payments, and delivery systems. |70% OFF - Auto-Applied |
@@ -539,6 +539,7 @@ Once configured, every change merged into `master` rebuilds and publishes the st
 | 💰 | [Effortless Backlinks](https://www.effortlessbacklinks.com/) | We submit your product to 100 high-quality directories for you. Increase domain authority and bring steady, qualified traffic without wasting 30+ hours on manual submissions. | **Save up to 50€** with code **EB2025** at checkout (Nov 21 to Dec 7)
 | 📈 | [SnowSEO](https://snowseo.com) | SnowSEO handles the tedious parts of growing your brand organically. It automatically researches keywords, creates content, tracks rankings, and optimizes how you appear in both Google searches and AI responses. | **50% OFF** on all Plan, auto-applied at checkout (Limited Time) |
 | 💰  | [CheckMySEO](https://checkmyseo.io) | Generate SEO‑optimized content and blog posts tailored to your keywords in minutes. | **30% OFF** with code **BF25** |
+| 💸 | [CiteWing](https://citewing.com) | AI Backlink Outreach Agent to get recommended by AI | **36% OFF** Pro Plan; **50% OFF** [directory submission service](https://citewing.com/directory-submission-service). Auto-applied. Valid Nov 1 – Dec 31, 2026 |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
