@@ -47,6 +47,8 @@ Please follow the rules below:
 |💸|[BucketMate](https://www.bucketmate.app/pricing?ref=black-friday-deals)| Finder-style S3 client for macOS, iPhone and the web | **40% OFF** all lifetime licenses with code **BF2026** (Nov 2 – Dec 1)|
 |🤑|[TypingMind](https://www.typingmind.com/?utm_source=tonybf)| Chat UI for ChatGPT, Claude and Gemini with your own API key, on the web. Supports MCP, multi-model chat, projects and AI agents | **60% OFF** lifetime with code **BLACKFRIDAY2026**|
 |🤑|[DevUtils](https://devutils.com)| All-in-one toolbox for developers on macOS, with full Apple Silicon support | **50% OFF** with code **BLACKFRIDAY2026**|
+|🤑|[ScreenVerb](https://screenverb.com/pricing?ref=black-friday-deals)| AI screenshot app for Mac, iPhone and iPad: capture a window or region, run an AI action, insert the result | **50% OFF** Pro and Universal lifetime licenses with code **SVBF2026** (Nov 2 – Dec 5)|
+|🤑|[Mac Mouse Fixer](https://macfix.click/pricing?ref=black-friday-deals)| External mouse utility for macOS: click debounce, zoom with the wheel and more | **50% OFF** Pro with code **MMFBF2026** (Nov 2 – Dec 5)|
 
 ---
 
