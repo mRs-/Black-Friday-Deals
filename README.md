@@ -49,6 +49,7 @@ Please follow the rules below:
 |🤑|[DevUtils](https://devutils.com)| All-in-one toolbox for developers on macOS, with full Apple Silicon support | **50% OFF** with code **BLACKFRIDAY2026**|
 |🤑|[ScreenVerb](https://screenverb.com/pricing?ref=black-friday-deals)| AI screenshot app for Mac, iPhone and iPad: capture a window or region, run an AI action, insert the result | **50% OFF** Pro and Universal lifetime licenses with code **SVBF2026** (Nov 2 – Dec 5)|
 |🤑|[Mac Mouse Fixer](https://macfix.click/pricing?ref=black-friday-deals)| External mouse utility for macOS: click debounce, zoom with the wheel and more | **50% OFF** Pro with code **MMFBF2026** (Nov 2 – Dec 5)|
+|💸|[UserJot](https://userjot.com/?ref=dqhieu-bf)| Live chat, feedback boards, roadmap and changelog for SaaS teams, on the web | **30% OFF** first year on yearly plans with code **BF2026** (until Dec 2)|
 
 ---
 
