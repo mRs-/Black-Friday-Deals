@@ -50,6 +50,7 @@ Please follow the rules below:
 |🤑|[ScreenVerb](https://screenverb.com/pricing?ref=black-friday-deals)| AI screenshot app for Mac, iPhone and iPad: capture a window or region, run an AI action, insert the result | **50% OFF** Pro and Universal lifetime licenses with code **SVBF2026** (Nov 2 – Dec 5)|
 |🤑|[Mac Mouse Fixer](https://macfix.click/pricing?ref=black-friday-deals)| External mouse utility for macOS: click debounce, zoom with the wheel and more | **50% OFF** Pro with code **MMFBF2026** (Nov 2 – Dec 5)|
 |💸|[UserJot](https://userjot.com/?ref=dqhieu-bf)| Live chat, feedback boards, roadmap and changelog for SaaS teams, on the web | **30% OFF** first year on yearly plans with code **BF2026** (until Dec 2)|
+|💸|[Video Wall Live](https://www.videowalllive.com/blackfriday)| Multi-camera live view for Ring cameras on Apple TV, Fire TV, Google TV, Roku, Mac, Windows and web. | **2nd month FREE** (~~$1.99~~ $0 per camera) after the 30-day free trial, no code needed (Nov 2 – Nov 30)|
 
 ---
 
