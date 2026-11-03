@@ -176,6 +176,7 @@ Once configured, every change merged into `master` rebuilds and publishes the st
 | 💸 | [AnimAds](https://animads.app/) | Turn Views into Clicks with Animated Ads | **50% OFF** on Lifetime Deals with code **BFCM2025** |
 | 💰 | [Mondial Relay WooCommerce](https://www.wcmultishipping.com/mondial-relay-woocommerce) | A WordPress plugin for the Mondial Relay shipping provider in Europe. | **20% OFF** with code **BF25** until 2025-12-31 |
 | 💰 | [Best time to post Reddit](https://reddit.postwatch.app) | Reddit tool to find the best time to post on Reddit so you can maximize engagement. | **30% OFF** with code **BF25** (valid until 2025-12-12) |
+| 💰 | [Outmano](https://outmano.com/?utm_source=mrsbf) | AI competitive intelligence for SaaS teams: tracks competitors' pricing, website, SEO and news, alerts you on changes, and works with your AI agent via MCP. | **30% OFF** the first 12 months on any monthly plan with code **BF2026** (new customers only, Nov 3 – Dec 2) |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
