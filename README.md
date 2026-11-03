@@ -61,6 +61,7 @@ Please follow the rules below:
 |🤑|[Digital Photo Frame](https://digitalphotoframeapp.com/)| Turn your device into a powerful Smart Photo Frame. For iOS, iPadOS, macOS and tvOS | **50% OFF** ($19.99 → $9.99 USD), no code needed (Nov 27 – Dec 1)|
 |🤑|[Photo Booth App](https://thephotoboothapp.com/)| Turn your iPhone or iPad into a photo booth | **50% OFF** ($99.99 → $49.99 USD), no code needed (Nov 27 – Dec 1)|
 |🤑|[Our Family Album](https://ourfamilyalbum.com/)| The private family album app for iPhone and iPad | **50% OFF** ($49.99 → $24.99 USD), no code needed (Nov 27 – Dec 1)|
+|💸|[Outmano](https://outmano.com/pricing?ref=black-friday-deals)| AI competitive intelligence for SaaS teams on the web: tracks competitors' pricing, website, SEO and news, and works with your AI agent via MCP. | **30% OFF** first 12 months on any monthly plan with code **BF2026** (new customers only, until Dec 2)|
 
 ---
 
