@@ -62,6 +62,9 @@ Please follow the rules below:
 |🤑|[Photo Booth App](https://thephotoboothapp.com/)| Turn your iPhone or iPad into a photo booth | **50% OFF** ($99.99 → $49.99 USD), no code needed (Nov 27 – Dec 1)|
 |🤑|[Our Family Album](https://ourfamilyalbum.com/)| The private family album app for iPhone and iPad | **50% OFF** ($49.99 → $24.99 USD), no code needed (Nov 27 – Dec 1)|
 |💸|[Outmano](https://outmano.com/pricing?ref=black-friday-deals)| AI competitive intelligence for SaaS teams on the web: tracks competitors' pricing, website, SEO and news, and works with your AI agent via MCP. | **30% OFF** first 12 months on any monthly plan with code **BF2026** (new customers only, until Dec 2)|
+|💸|[Presentify](https://presentifyapp.com)| Draw and annotate on screen, highlight your cursor and clicks, spotlight, and zoom on macOS | **30% OFF** with code **PRESENTIFY30** ($14 → $9.80), one-time purchase, direct purchase from the website only (Nov 18 - Dec 2)|
+|💸|[FaceScreen](https://facescreen.app)| Floating camera overlay, text overlay, and ring light for recordings and calls on Mac, iPhone, and iPad | **30% OFF** with code **FACESCREEN30** ($5.99 → $4.19), one-time purchase, direct purchase from the website only (Nov 18 - Dec 2)|
+|💸|[KeyScreen](https://keyscreen.app)| Shows the keys you press on screen, for tutorials, streams, and live demos on macOS | **30% OFF** with code **KEYSCREEN30** ($5.99 → $4.19), one-time purchase, direct purchase from the website only (Nov 18 - Dec 2)|
 
 ---
 
