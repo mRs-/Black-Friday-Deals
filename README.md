@@ -57,6 +57,10 @@ Please follow the rules below:
 |🤑|[Chronoid](https://www.chronoid.app/pricing)| Automatic time tracking for macOS that sorts apps, sites and docs into projects and turns hours into invoices | **50% OFF** Lifetime and Personal with code **BLACKFRIDAY26**, auto-applied on the pricing page: Lifetime $149 → $74.50, Personal $99 → $49.50, Chronoid + SmoothCapture bundle $199 → $99.50 (Nov 3 – Dec 2)|
 |🤑|[SmoothCapture](https://www.smoothcapture.app/pricing)| Turns screen recordings into polished app demo videos on macOS, with auto zoom and real 3D iPhone, iPad and Mac models | **50% OFF** Lifetime and Personal with code **BLACKFRIDAY26**, auto-applied on the pricing page: Lifetime $149 → $74.50, Personal $79 → $39.50, Chronoid + SmoothCapture bundle $199 → $99.50 (Nov 3 – Dec 2)|
 |💸|[CiteWing](https://citewing.com)| AI Backlink Outreach Agent to get recommended by AI, on the web. | **36% OFF** monthly Pro, $95/month (was $149). Auto-applied, no code needed (Nov 15–30, 2026)|
+|🤑|[Email Me](https://emailmeapp.net/)| The fastest way to record your thoughts. For iOS, iPadOS, macOS, watchOS, visionOS & CarPlay | **50% OFF** ($19.99 → $9.99 USD), no code needed (Nov 27 – Dec 1)|
+|🤑|[Digital Photo Frame](https://digitalphotoframeapp.com/)| Turn your device into a powerful Smart Photo Frame. For iOS, iPadOS, macOS and tvOS | **50% OFF** ($19.99 → $9.99 USD), no code needed (Nov 27 – Dec 1)|
+|🤑|[Photo Booth App](https://thephotoboothapp.com/)| Turn your iPhone or iPad into a photo booth | **50% OFF** ($99.99 → $49.99 USD), no code needed (Nov 27 – Dec 1)|
+|🤑|[Our Family Album](https://ourfamilyalbum.com/)| The private family album app for iPhone and iPad | **50% OFF** ($49.99 → $24.99 USD), no code needed (Nov 27 – Dec 1)|
 
 ---
 
