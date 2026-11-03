@@ -52,6 +52,7 @@ Please follow the rules below:
 |💸|[UserJot](https://userjot.com/?ref=dqhieu-bf)| Live chat, feedback boards, roadmap and changelog for SaaS teams, on the web | **30% OFF** first year on yearly plans with code **BF2026** (until Dec 2)|
 |💸|[AUTX AI Visibility Check](https://autx.ai/)| Web app that shows whether AI models name your business when customers ask | **20% OFF** the AUTX AI Visibility Report with code **LAUNCH20**, $39.20 instead of $49 (through Nov 30)|
 |💸|[anon.li](https://anon.li/pricing)| Open-source email aliases, end-to-end encrypted file sharing and encrypted forms, on the web | **40% OFF** all paid plans for 12 months with code **BLKFRI40**, card checkout (Nov 2 - Dec 6)|
+|💸|[Video Wall Live](https://www.videowalllive.com/blackfriday)| Multi-camera live view for Ring cameras on Apple TV, Fire TV, Google TV, Roku, Mac, Windows and web. | **$4.99 → $1.99 per camera/month (60% off)** for new sign-ups, no code needed (Nov 2 – Nov 30)|
 
 ---
 
