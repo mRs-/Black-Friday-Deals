@@ -54,6 +54,8 @@ Please follow the rules below:
 |💸|[anon.li](https://anon.li/pricing)| Open-source email aliases, end-to-end encrypted file sharing and encrypted forms, on the web | **40% OFF** all paid plans for 12 months with code **BLKFRI40**, card checkout (Nov 2 - Dec 6)|
 |💸|[Video Wall Live](https://www.videowalllive.com/blackfriday)| Multi-camera live view for Ring cameras on Apple TV, Fire TV, Google TV, Roku, Mac, Windows and web. | **$4.99 → $1.99 per camera/month (60% off)** for new sign-ups, no code needed (Nov 2 – Nov 30)|
 |💸|[ClipAudit](https://clipaudit.app)| macOS clipboard manager that detects 700+ types of API keys and secrets and keeps them out of shell history and apps reading the clipboard | **40% OFF** with code **BLACKFRIDAY2026** ($29 → $17.40) (Nov 27 – Dec 1)|
+|🤑|[Chronoid](https://www.chronoid.app/pricing)| Automatic time tracking for macOS that sorts apps, sites and docs into projects and turns hours into invoices | **50% OFF** Lifetime and Personal with code **BLACKFRIDAY26**, auto-applied on the pricing page: Lifetime $149 → $74.50, Personal $99 → $49.50, Chronoid + SmoothCapture bundle $199 → $99.50 (Nov 3 – Dec 2)|
+|🤑|[SmoothCapture](https://www.smoothcapture.app/pricing)| Turns screen recordings into polished app demo videos on macOS, with auto zoom and real 3D iPhone, iPad and Mac models | **50% OFF** Lifetime and Personal with code **BLACKFRIDAY26**, auto-applied on the pricing page: Lifetime $149 → $74.50, Personal $79 → $39.50, Chronoid + SmoothCapture bundle $199 → $99.50 (Nov 3 – Dec 2)|
 
 ---
 
