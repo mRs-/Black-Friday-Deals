@@ -245,6 +245,7 @@ Once configured, every change merged into `master` rebuilds and publishes the st
 | 💰 | [CopyMagic](https://copymagic.app) | The smartest, most-intuitive clipboard manager for macOS. | **50% OFF** from Nov 26 to Dec 10 with code **BLACKFRIDAY** | 
 | 💸 | [Imgs2PDF](https://apps.apple.com/app/imgs2pdf-pdf-converter/id6741581868) | Convert images to PDF or PDF to images offline. Merge, split, PDFs, with OCR support. | [**60% OFF** Lifetime(Nov 27 - Dec 31)](https://apps.apple.com/redeem/?ctx=offercodes&id=6741581868&code=IMGS2PDF) |
 | 💸 | [DaisyDisk](https://unclutterapp.com/bundle/?coupon=UN-BLACKFRIDAY-2025&s=git#DAISYDISK) | Find out what’s taking up your disk space and recover it in the most efficient and easy way. | **50% OFF** Lifetime ($10 → $5) |
+| 💸 | [DockMagic](https://dockmagic.app/?ref=mRs-Black-Friday-Deals#dm-pricing) | A widget Dock for macOS that runs alongside the Apple Dock. Add 60+ widgets (unread Gmail, CPU and memory, top apps, calendar, clocks, everyday controls) and place it at the bottom, left or right edge. Selected widgets are free; one-time purchase with lifetime updates. | **Up to 50% OFF** lifetime licenses, no code needed: 1 Mac ~~$25~~ **$12.99**, 2 Macs ~~$40~~ **$19.99**, 3 Macs ~~$60~~ **$29.99** (USD), Nov 3 - Nov 30, 2026 |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
