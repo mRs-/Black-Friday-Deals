@@ -51,6 +51,7 @@ Please follow the rules below:
 |🤑|[Mac Mouse Fixer](https://macfix.click/pricing?ref=black-friday-deals)| External mouse utility for macOS: click debounce, zoom with the wheel and more | **50% OFF** Pro with code **MMFBF2026** (Nov 2 – Dec 5)|
 |💸|[UserJot](https://userjot.com/?ref=dqhieu-bf)| Live chat, feedback boards, roadmap and changelog for SaaS teams, on the web | **30% OFF** first year on yearly plans with code **BF2026** (until Dec 2)|
 |💸|[AUTX AI Visibility Check](https://autx.ai/)| Web app that shows whether AI models name your business when customers ask | **20% OFF** the AUTX AI Visibility Report with code **LAUNCH20**, $39.20 instead of $49 (through Nov 30)|
+|💸|[anon.li](https://anon.li/pricing)| Open-source email aliases, end-to-end encrypted file sharing and encrypted forms, on the web | **40% OFF** all paid plans for 12 months with code **BLKFRI40**, card checkout (Nov 2 - Dec 6)|
 
 ---
 
