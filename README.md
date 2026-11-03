@@ -62,6 +62,7 @@ Please follow the rules below:
 |🤑|[Photo Booth App](https://thephotoboothapp.com/)| Turn your iPhone or iPad into a photo booth | **50% OFF** ($99.99 → $49.99 USD), no code needed (Nov 27 – Dec 1)|
 |🤑|[Our Family Album](https://ourfamilyalbum.com/)| The private family album app for iPhone and iPad | **50% OFF** ($49.99 → $24.99 USD), no code needed (Nov 27 – Dec 1)|
 |💸|[Outmano](https://outmano.com/pricing?ref=black-friday-deals)| AI competitive intelligence for SaaS teams on the web: tracks competitors' pricing, website, SEO and news, and works with your AI agent via MCP. | **30% OFF** first 12 months on any monthly plan with code **BF2026** (new customers only, until Dec 2)|
+|🤑|[Atmos](https://atmos.style/?utm_source=dqhieu&utm_campaign=bf2026)| Web app for building UI color palettes: perceptually uniform OKLCH shades, WCAG and APCA contrast checks, Figma plugin | **50% OFF** Lifetime plan with code **BF2026** (Nov 23 - Nov 29)|
 
 ---
 
