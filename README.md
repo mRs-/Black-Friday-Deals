@@ -53,6 +53,7 @@ Please follow the rules below:
 |💸|[AUTX AI Visibility Check](https://autx.ai/)| Web app that shows whether AI models name your business when customers ask | **20% OFF** the AUTX AI Visibility Report with code **LAUNCH20**, $39.20 instead of $49 (through Nov 30)|
 |💸|[anon.li](https://anon.li/pricing)| Open-source email aliases, end-to-end encrypted file sharing and encrypted forms, on the web | **40% OFF** all paid plans for 12 months with code **BLKFRI40**, card checkout (Nov 2 - Dec 6)|
 |💸|[Video Wall Live](https://www.videowalllive.com/blackfriday)| Multi-camera live view for Ring cameras on Apple TV, Fire TV, Google TV, Roku, Mac, Windows and web. | **$4.99 → $1.99 per camera/month (60% off)** for new sign-ups, no code needed (Nov 2 – Nov 30)|
+|💸|[ClipAudit](https://clipaudit.app)| macOS clipboard manager that detects 700+ types of API keys and secrets and keeps them out of shell history and apps reading the clipboard | **40% OFF** with code **BLACKFRIDAY2026** ($29 → $17.40) (Nov 27 – Dec 1)|
 
 ---
 
