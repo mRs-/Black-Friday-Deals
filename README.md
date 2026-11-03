@@ -51,6 +51,7 @@ Please follow the rules below:
 |🤑|[Mac Mouse Fixer](https://macfix.click/pricing?ref=black-friday-deals)| External mouse utility for macOS: click debounce, zoom with the wheel and more | **50% OFF** Pro with code **MMFBF2026** (Nov 2 – Dec 5)|
 |💸|[UserJot](https://userjot.com/?ref=dqhieu-bf)| Live chat, feedback boards, roadmap and changelog for SaaS teams, on the web | **30% OFF** first year on yearly plans with code **BF2026** (until Dec 2)|
 |💸|[AUTX AI Visibility Check](https://autx.ai/)| Web app that shows whether AI models name your business when customers ask | **20% OFF** the AUTX AI Visibility Report with code **LAUNCH20**, $39.20 instead of $49 (through Nov 30)|
+|💸|[CiteWing](https://citewing.com)| AI Backlink Outreach Agent to get recommended by AI, on the web. | **36% OFF** monthly Pro, $95/month (was $149). Auto-applied, no code needed (Nov 15–30, 2026)|
 
 ---
 
