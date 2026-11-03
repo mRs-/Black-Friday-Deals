@@ -51,10 +51,10 @@ Please follow the rules below:
 |🤑|[Mac Mouse Fixer](https://macfix.click/pricing?ref=black-friday-deals)| External mouse utility for macOS: click debounce, zoom with the wheel and more | **50% OFF** Pro with code **MMFBF2026** (Nov 2 – Dec 5)|
 |💸|[UserJot](https://userjot.com/?ref=dqhieu-bf)| Live chat, feedback boards, roadmap and changelog for SaaS teams, on the web | **30% OFF** first year on yearly plans with code **BF2026** (until Dec 2)|
 |💸|[AUTX AI Visibility Check](https://autx.ai/)| Web app that shows whether AI models name your business when customers ask | **20% OFF** the AUTX AI Visibility Report with code **LAUNCH20**, $39.20 instead of $49 (through Nov 30)|
-|🤑|[Email Me](https://emailmeapp.net/)| The fatest way to record your thoughts. For iOS, iPadOS, macOS, watchOS, visionOS & CarPlay. |  **50%** OFF NO CODE REQUIRED |
-|🤑|[Digital Photo Frame](https://digitalphotoframeapp.com/)| Turn your device into a powerful Smart Photo Frame. For iOS, iPadOS, macOS and tvOS. |  **50%** OFF NO CODE REQUIRED |
-|🤑|[Photo Booth App](https://thephotoboothapp.com/)| Turn your iPhone or iPad into a photo booth. For iOS, iPadOS. |  **50%** OFF NO CODE REQUIRED |
-|🤑|[Our Family Album](https://ourfamilyalbum.com/)| The private family album app. For iOS, iPadOS. |  **50%** OFF NO CODE REQUIRED |
+|🤑|[Email Me](https://emailmeapp.net/)| The fastest way to record your thoughts. For iOS, iPadOS, macOS, watchOS, visionOS & CarPlay | **50% OFF**, no code needed (Nov 27 – Dec 1)|
+|🤑|[Digital Photo Frame](https://digitalphotoframeapp.com/)| Turn your device into a powerful Smart Photo Frame. For iOS, iPadOS, macOS and tvOS | **50% OFF**, no code needed (Nov 27 – Dec 1)|
+|🤑|[Photo Booth App](https://thephotoboothapp.com/)| Turn your iPhone or iPad into a photo booth | **50% OFF**, no code needed (Nov 27 – Dec 1)|
+|🤑|[Our Family Album](https://ourfamilyalbum.com/)| The private family album app for iPhone and iPad | **50% OFF**, no code needed (Nov 27 – Dec 1)|
 
 ---
 
