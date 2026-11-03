@@ -255,7 +255,7 @@ Once configured, every change merged into `master` rebuilds and publishes the st
 | 💸 | [Tiny Shield](https://tinyshield.proxyman.com/?utm_source=black-friday-2025) | Alternative to Little Snitch Mini - See all traffic from your Mac and block it | 60% OFF with code **BLACKFRIDAY2025** |
 | 💰 | [Anybox](https://anybox.app) | Bookmarking App on macOS and iOS | Up to 30% OFF on App Store |
 | 💸 | [Capture - Quick Notes](https://apps.apple.com/app/apple-store/id6458535284) | Easily capture your thoughts & ideas on the go and export them to your favourite apps. | **50% OFF** Lifetime plan with code **BLACKFRIDAY** |
-| 💸 | [Chronoid - Automatic Time Tracking](https://www.chronoid.app?utm_source=mRs-Black-Friday-Deals) | AI-powered time tracking with website blocking and productivity insights. Automatically categorize activities, block distractions, stay focused, all private on Mac. | **50% OFF** Lifetime plan with code **BLACKFRIDAY** |
+| 💸 | [Chronoid - Automatic Time Tracking](https://www.chronoid.app/pricing) | Automatic time tracking for Mac. Logs apps, sites and docs, sorts them into projects and turns hours into invoices. Data stays on your Mac. | **50% OFF** Lifetime ($149 → $74.50) and Personal ($99 → $49.50) with code **BLACKFRIDAY26** (until Dec 2, 2026) |
 | 💸 | [Sumy AI](https://www.sumyai.com/) |  Study smarter with the Feynman method — create smart notes, quizzes & flashcards to learn faster and remember longer.. | 50% OFF with code **BLACKFRIDAY2025** |
 | 💸 | [Fenn](https://www.usefenn.com/?utm_source=mRs-Black-Friday-Deals) | AI file search agent for macOS. | 50% OFF with code **BLACKFRIDAY** |
 | 💸 | [LookAway](https://lookaway.com/?utm_source=mRs-Black-Friday-Deals) | Smart break reminder app for macOS | 50% OFF with code **BFCM25** |
@@ -342,6 +342,7 @@ Once configured, every change merged into `master` rebuilds and publishes the st
 | 💰 | [TopazLabs](https://www.topazlabs.com/) | Best finishing platform for every image and video you create, shoot and generate | **43% OFF** for Studio and **15% OFF** for single apps. No code needed | 
 | 💰 | [Rendley](https://rendley.com?utm_source=mRs-) | Rendley is an online video editor that brings together all the editing tools you need to create great video content. | 35% OFF annual plan with code **RENDLEY35** from 2025-11-21 to 2025-11-30 |
 | 💰 | [NanoPhoto.AI](https://nanophoto.ai/pricing?utm_source=Black-Friday-Deals) | Making AI Photo and Video editing simple and efficient — Sora 2 Video, Veo3.1, Nano Banana Pro, Video Reverse Prompt Generator, and more. | **30% OFF Forever** on all plans with code **BLACKFRIDAY30** at Stripe checkout (Ends Nov 30, 23:59) |
+| 💸 | [SmoothCapture](https://www.smoothcapture.app/pricing) | SmoothCapture turns screen recordings into polished app demo videos: auto zoom, a smooth cursor and real 3D iPhone, iPad and Mac models. | **50% OFF** Lifetime ($149 → $74.50) and Personal ($79 → $39.50) with code **BLACKFRIDAY26** (until Dec 2, 2026) |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
