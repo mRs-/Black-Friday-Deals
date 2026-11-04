@@ -1,560 +1,287 @@
-# 💰💸💰 Black Friday Deals 2025 💰💸💰
+# 💰💸💰 Black Friday Deals 2026 💰💸💰
 
-This is a list of all Black Friday Deals for macOS / iOS Software & Books in 2025. Feel free to contribute via Pull Request, making sure to add new offers _below_ existing ones.
+A community-maintained list of Black Friday and Cyber Monday deals for macOS / iOS software, books, and more in 2026.
 
-## 🚀 Deploying the static site on GitHub Pages
+**Black Friday: November 27, 2026 · Cyber Monday: November 30, 2026.** Individual offers may run on different dates.
 
-1. In **Settings → Pages**, set **Build and deployment → Source** to **GitHub Actions** so Pages listens for deployments from workflows.
-2. The custom workflow at `.github/workflows/pages.yml` is triggered on every push to the `master` branch (or via **Run workflow**) and performs the recommended steps:
-   - Check out the repository with `actions/checkout`.
-   - Install Ruby/Bundler dependencies inside `docs/` with `ruby/setup-ruby`.
-   - Run `bundle exec jekyll build --destination ../_site` so the README-driven site becomes production-ready HTML.
-   - Upload the generated `_site/` directory with `actions/upload-pages-artifact`.
-   - Deploy the artifact to the `github-pages` environment through `actions/deploy-pages`.
-3. The environment is automatically created the first time the workflow runs; restrict deployments to the default branch if needed by adding a protection rule under **Settings → Environments → github-pages**.
+Contribute current 2026 offers using the category tables below. Previous deals remain available in the [Git history](https://github.com/mRs-/Black-Friday-Deals/commits/master/README.md).
 
-Once configured, every change merged into `master` rebuilds and publishes the static site without any manual steps.
+## Contributing
+
+Read [CONTRIBUTING.md](CONTRIBUTING.md) for the row template and submission checklist. Add your deal at the **bottom of the most relevant category**. Entries are first come, first served.
+
+Keep each deal on one line with one space around each pipe. Do not align column widths, reformat other rows, or reorder unrelated entries; small diffs reduce merge conflicts. Concurrent additions near the same row can still conflict, so update your branch from `master` before submitting.
 
 **Legend**
 
-| Emoji | Savings |
-| :---: | ------: |
-|  💰   |   < 50% |
-|  💸   |  >= 50% |
+| Savings | Meaning |
+| --- | --- |
+| 💰 | Less than 50% off |
+| 💸 | 50% off or more |
+| — | Fixed-price offer or percentage not specified |
 
 ## Table of Contents
 
-- [🛠 Development Software](#-development-software)
-- [🤖 AI Tools](#-ai-tools)
-- [🌈 Marketing Software](#-marketing-software)
-- [🎩 Security Software](#tophat-security-software)
-- [🎛 Utility Software](#-utility-software)
-- [📌 Productivity Software](#-productivity-software)
-- [🎥 Video Software](#-video-software)
-- [🎨 Graphic Software](#-graphic-software)
-- [🏝️ Lifestyle](#%EF%B8%8F-lifestyle)
-- [🗣️ Social](#%EF%B8%8F-social)
-- [🎓 Reference & Education](#-reference--education)
-- [📖 Books](#-books)
-- [👩‍🎓 Courses and Videos](#-courses-and-videos)
-- [📈 Business Software](#-business-software)
-- [🏃🏻‍♀️ Health & Fitness Software](#%E2%80%8D%EF%B8%8F-health--fitness-software)
-- [🎁 Bundles](#-bundles)
-- [🎶 Creative Content](#-creative-content)
-- [🤑 Finance](#-finance)
-- [🗺️ Navigation](#%EF%B8%8F-navigation)
-- [🔎 SEO](#-seo)
-- [🏡 Home Automation](#-home-automation)
-- [🕹 Games](#-games)
+- [🛠 Development Software](#development-software)
+- [🤖 AI Tools](#ai-tools)
+- [🌈 Marketing Software](#marketing-software)
+- [🎩 Security Software](#security-software)
+- [🎛 Utility Software](#utility-software)
+- [📌 Productivity Software](#productivity-software)
+- [🎥 Video Software](#video-software)
+- [🎨 Graphic Software](#graphic-software)
+- [🏝️ Lifestyle](#lifestyle)
+- [🗣️ Social](#social)
+- [🎓 Reference & Education](#reference--education)
+- [📖 Books](#books)
+- [👩‍🎓 Courses and Videos](#courses-and-videos)
+- [📈 Business Software](#business-software)
+- [🏃🏻‍♀️ Health & Fitness Software](#health--fitness-software)
+- [🎁 Bundles](#bundles)
+- [🎶 Creative Content](#creative-content)
+- [🤑 Finance](#finance)
+- [🗺️ Navigation](#navigation)
+- [🔎 SEO](#seo)
+- [🏡 Home Automation](#home-automation)
+- [🕹 Games](#games)
+
+<a id="development-software"></a>
 
 ## 🛠 Development Software
 
-|  | Name | Description | Discount Code & Terms |
-| -- | ---| ------ | ------ |
-| 💰 | [Proxyman](https://proxyman.com/?utm_source=black-friday-2025) | Need to capture HTTPS request on your iPhone or Android device? Proxyman is what you need. Best-in-class HTTP debugging proxy for macOS and iOS |30% OFF - **BF2025** |
-| 💸 | [DevUtils](https://devutils.com) | All-in-one toolbox for developers. Fully supports Apple Silicon & macOS Ventura. | 50% OFF with code **BLACKFRIDAY2025** |
-| 💰 | [Compresto](https://compresto.app/pricing?ref=Black-Friday-Deals) | Video, image, gif, and PDF compression for macOS. | 40% OFF with code **BFCM25** |
-| 💰 | [Cozy Watch](https://cozywatch.com) | Focus without missing GitHub updates | $4 OFF with code **BLACKFRIDAY** |
-| 💸 | [HTTP Toolkit](https://httptoolkit.com/?ref=Black-Friday-Deals) | Open-source HTTP debugger & client, with instant one-click setup for Docker, Android, node.js & more | **50% off** forever on annual subscriptions, with code **BLACKFRIDAY25** |
-| 💸 | [BucketMate](https://bucketmate.app/pricing?ref=Black-Friday-Deals) | a Finder-style S3-compatible manager for macOS. | 70% OFF with code **BLACKFRIDAY11** |
-| 💰 | [Tower](https://www.git-tower.com/) | Powerful Git client for Mac and Windows. | 30% OFF any plan for new customers only, no coupon needed (Nov 25–Dec 7) |
-| 💰 | [Dirstarter](https://dirstarter.com?discountCode=BF2025) | Launch Your Directory Website and Start Making Money Today | **40% OFF** on all tiers with code **BF2025** |
-| 💰 | [Crontap](https://crontap.com/) | Schedule recurring API calls without the hassle. | **40% off** with discount code **BF2025** |
-| 💸 | [Clobbr](https://clobbr.app) | The app & CLI tool to load test your API endpoints. | **50% off** in the AppStore (already applied) |
-| 💸 | [KloudUtils](https://kloudutils.com/) | Your Toolbox For Daily Work - AWS, K8S, Web and Dev tasks & Shareable links  | **50% OFF** Lifetime License with code **LAUNCH50** |
-| 💸 | [KeygenGo](https://keygengo.5km.tech) | A native macOS app that transforms your Keygen.sh experience. Manage licenses, track users, and monitor products through an elegant visual interface. | 50% OFF for Lifetime Plan with code **BF2025** (Nov 20 - Dec 2) |
-| 💸 | [DNSDeck](https://apps.apple.com/us/app/dnsdeck-manage-dns-zones/id6753925998?utm_source=BF-2025) | A powerful macOS DNS zone management client for CloudFlare and AWS Route 53. | ****50% OFF**** ($4.99) one-time purchase via the App Store |
-| 💰 | [ShipAhead](https://shipahe.ad) | Launch your AI SaaS in days, not months | **40% OFF** with code **BF2025** |
-| 💰 | [DevWorkspace Pro](https://devworkspacepro.com) | Desktop app to easily build and manage Docker-powered web apps. | **40% off** with discount code **BLACKFRIDAY40OFF** |
-| 💸 | [Compot – SwiftUI Components](https://www.compotui.com/?utm_source=mrsbf) | Develop iOS apps faster with AI coding assistant and 100+ predesigned SwiftUI components. Explore SwiftUI and discover resources and tools for iOS app developers. | [**50% OFF** with code **BF2025**](https://apps.apple.com/redeem?ctx=offercodes&id=6471916279&code=BF2025) |
-| 💰 | [FullStro](http://fullstro.com/black-friday-deals/) | FullStro is an all-in-one multi-channel business automation platform that helps e-commerce businesses manage inventory, orders, and websites effortlessly. No code needed, fully integrated, and synchronized across sales, payments, and delivery systems. |70% OFF - Auto-Applied |
-| 💰 | [WhaleDeck](https://apple.co/3NQJi4w) | Effortlessly manage and monitor your Docker servers on your iPhone, iPad, and Mac. | Lifetime 20% off - Auto-Applied |
-| 💰 | [Ultimate Web Scraper](https://ultimatewebscraper.com/) | The best no-code web scraper chrome extension. Grab text, images, emails & links from any website with a single click. | 20% OFF with code **BLACKFRIDAY20** |
-| 💸 | [KMPShip](https://www.kmpship.app/) | Ship iOS & Android apps from one codebase with Kotlin Multiplatform | 50% OFF with code **BLACKFRIDAY25** |
-| 💸 | [Dash](https://kapeli.com/dash) | Instant offline access to 200+ API documentation sets, snippets and more! | 50% OFF the first year with code [BLACKFRIDAY](https://kapeli.com/subscribe?coupon=BLACKFRIDAY) |
-| 💰 | [Verba](https://apple.co/43AG6kX) | String Catalog editor with AI capabilities to translate strings and generate comments using your own API keys | **50% OFF** Lifetime Package from Nov.28 to Dec.2 |
-| 💰 | [Kaleidoscope](https://kaleidoscope.app) | Effortlessly compare and merge any text, images, and folders. Kaleidoscope also compares Git branches, tags, or commits. | **40% OFF** for the first 2 years of subscription + 2 extra free months with code [**MRSBFD25**](https://cloud.kaleidoscope.app/store?discount_code=MRSBFD25&utm_source=trungdq88&utm_medium=referral&utm_campaign=MRSBFD25) |
-| 💸 | [RunJS](https://runjs.app) | A playground for JavaScript and TypeScript. Zero config needed. Just run your code and see instant feedback. | 30% OFF wifth code **BLACKFRIDAY2025** |
-| 💰 | [MkSaaS](https://mksaas.com) | Make Your AI SaaS Product in a weekend | **$30 OFF** Lifetime Package from Nov.18 to Dec.2 |
-| 💰 | [Mkdirs](https://mkdirs.com) | Launch AI-powered directory in 30 minutes | **$30 OFF** Lifetime Package from Nov.18 to Dec.2 |
-| 💰 | [Unicorn Platform](https://unicornplatform.com/) | AI website builder to quickly create websites without design or dev skills for SaaS, Apps, Directories, Blogs, Personal pages | **20% OFF** first payment, code **JOHNRUSH** (Nov 21 to Dec 7) |
-| 💰 | [Dynomate](https://dynomate.io?utm_source=trungdq88-blackfriday) | Cross-platform Dynamodb GUI client for desktop with Multi-tab, multi-account support, SSO & MFA support, and more  | 30% off with code **BF25** (Nov 21 to Dec 31) |
-| 💸 | [Tailkit](https://tailkit.com/) | 640+ carefully crafted, easy to customize, fully responsive Tailwind components, templates and tools for all your Tailwind CSS based projects. 2,000+ code snippets for React, Vue.js, Alpine.js and HTML along with 10 templates are included. | Up to **50% OFF** for a limited number of licenses with code **BLACKFRIDAY2025** (Nov 24 - Dec 2, 2025) |
-| 💰 | [DropDMG](https://c-command.com/dropdmg/) | The easiest way to create and work with Mac disk images (.dmg files). | 25% off with code **BLACKFRIDAY2025** |
-| 💰 | [Poedit](https://poedit.net/?utm_source=mrsbf) | Translation editor supporting modern formats incl. JSON, plus automatic pre-translation via DeepL. | 30% OFF with code **BLACKFRIDAY25** |
-| 💰 | [KAppMaker](https://kappmaker.com/) | Kotlin & Compose Multiplatform mobile app boilerplate | **40% OFF**, code **BLACKFRIDAY40** (Nov 19 to Dec 1) |
-| 💸 | [saasbrella](https://saasbrella.co/?utm_source=mRsbf25) | Hosted, Deployed & Fully Functional SaaS Template with instant Dev Environment setup | $99 LIFETIME PRO PLAN with 10 Hosting Years|
-| 💸 | [SQLPro Studio](https://www.sqlprostudio.com/blackfriday.html?utm_source=mRsbf25) | A native, lightweight database client for macOS that supports MySQL, Postgres, SQL Server, SQLite, and more. | **50% off** with promo code **BFHALFOFF** |
-| 💰 | [JuxtaCode](https://juxtacode.app/) | Compare Git branches and resolve merge conflicts with ease. | 25% off with code **BLACKFRIDAY25** |
-| 💸 | [Dataflare](https://dataflare.app) | Fast, simple, and lightweight database manager with intuitive GUI for 20+ databases: PostgreSQL, MySQL, SQLite, ClickHouse, DuckDB, Redis, and more. | **50% OFF** with code **BF2025** (Nov 20 - Dec 2) |
-| 💸 | [Pixpa](https://www.pixpa.com/?via=blfpixpa55) | Pixpa is a no-code website builder for creatives and small businesses to showcase work, run blogs, sell online, and manage client galleries. | **55%** discount on Pixpa’s annual plans. **BLFPIXPA55** |
-| 💸 | [Textastic](https://apps.apple.com/us/app/textastic-code-editor/id1049254261?ct=mRsbf25&pt=15967&mt=8) | Powerful native code editor for iPad and iPhone with remote file access (SFTP, WebDAV, iCloud Drive, Dropbox) and SSH terminal. | **50% OFF** the first year with code **BF2025**, (Nov 20 - Dec 3) |
-| 💰 | [Produktly](https://produktly.com) | All-in-one platform for product-led growth | **40% OFF** everything with code **BF2025** |
-| 💰 | [Lineicones](https://lineicons.com/) | 5300+ line icons for designers and developers with Pro CDN, multiple variations, an icon editor, and more. Available in WebFont, SVG, React, Vue and Figma files. | **40% OFF** with code **BLFCM2024** |
-| 💰 | [Swifty Compiler: Swift IDE](https://apps.apple.com/app/id1544749600) | Swifty Compiler is your go-to tool for Swift coding on the fly! Available on both macOS and iOS. Perfect for testing algorithms, experimenting with new ideas, or brushing up on your Swift skills. It’s like having a mini playground in your pocket! | **20% OFF** on Lifetime Premium |
-| 💰 | [Pagerly](https://pagerly.io) | Oncalls, Rotations, Incidents, Tasks on Slack/Teams with Ease | 20% Black Friday off on oncall products Use code BF2025 on checkout |
-| 💰 | [SyncMyGroup](https://syncmygroup.com) | Sync Users, Teams, Groups across platforms | 20% Black Friday off on oncall products Use code BF2025 on checkout |
-| 💰 | [AppCatalystRN](https://appcatalystrn.com/) | React Native/Expo Cross Platform Starter Kit | **20% OFF**, code **BLACKFRIDAY25** (Nov 19 to Dec 31) |
-| 💸 | [CodexUse](https://codexuse.com/?utm_source=mrsbf) | Desktop companion for the Codex CLI—switch profiles instantly, reopen chats by project, see live rate-limit telemetry, and manage MCP servers without JSON edits. | **50% OFF** lifetime license with code **BLACKFRIDAY2025** |
-| 💰 | [shadcn/studio](https://shadcnstudio.com) | Fully customizable shadcn ui Components, Blocks, Figma UI Kit, MCP, Templates and AI Powered Theme Generator | Flat 30% OFF with code **BFCM30SS** | Ends Dec 2 |
-| 💰 | [FlyonUI](https://flyonui.com) | Fully customizable Tailwind Components, Blocks, Figma UI Kit, MCP, & Templates | Flat 30% OFF with code **BFCM30FY** | Ends Dec 2 |
-| 💰 | [VerifyForge](https://verifyforge.com/) | Email Validation API - Verify email addresses in real-time with high accuracy | 30% OFF (Coupon: `BF2025`) | Nov 25 – Dec 1, 2025 |
-| 💰 | [Pushever](https://pushever.app) | GUI tool to test iOS push notifications | **30% off** in the AppStore (already applied) |
-| 💰 | [Beyond Compare](https://www.scootersoftware.com/sales/promo) | Beyond Compare is a software application used by developers, system administrators and others to compare, merge, and synchronize data.  It runs on Windows, macOS, and Linux. | 25% off of any BC license, Cyber Monday Sale, December 1st, 2025 ONLY |
-| 💰 | [ThemeSelection](https://themeselection.com) | Fully customizable Admin Templates, UI kits & SaaS Boilerplates | Flat 30% OFF with code **CW30OFF** | Ends Dec 1 |
-| 💰 | [LeapOCR](https://leapocr.com/) | Extract Structured Data from Any Document, get markdown or structured data from any PDF, digitize your archives | Flat 22% OFF with code **OFF22** | Ends Dec 31 |
-| 💰 | [Nexty.dev](https://nexty.dev#pricing) | Build Your SaaS in Days, Not Weeks | **$68 OFF** (Coupon: `BLACKFRIDAY2025`) |
-⬆️ | [Go to Top](#table-of-contents)
+| Savings | Name | Description | Discount | Code & Terms |
+| --- | --- | --- | --- | --- |
+| 💰 | [Proxyman](https://proxyman.com/) | Capture, inspect, and modify HTTP/HTTPS traffic with a native debugging proxy. | 30% off all plans | **BF2026**; 2026-11-16 to 2026-12-03 |
+| 💰 | [Device MCP](https://devicemcp.ai/) | Mirror and control iPhone and iPad from your Mac, with MCP tools for AI agents. | 30% off all plans | **BF2026**; applies to early-bird prices; 2026-11-16 to 2026-12-03 |
+| 💰 | [TCP Viewer](https://tcpviewer.proxyman.com/) | Capture and inspect TCP/UDP packets in a native macOS app. | 30% off all plans | **BF2026**; 2026-11-16 to 2026-12-03 |
+| 💸 | [Atelier](https://appsbymo.app/atelier/?ref=bf-deals) | A Mac studio your AI coding sessions work in: every app's tasks, releases, feedback and memory, with a brief each time a session starts. | 50% off | with code **BLACKFRIDAY** at appsbymo.app (regular $19.99). Nov 9 - Dec 1, 2026 |
+| 💸 | [DevUtils](https://devutils.com/?utm_source=mrsbf) | Offline developer toolbox for macOS with Apple Silicon support. | 60% off all plans | **BLACKFRIDAY2026**; 2026-11-02 to 2026-12-30 |
+| 💸 | [ShipAhead](https://shipahe.ad) | Nuxt starter kit for building and launching a SaaS product. | 50% off | Automatically applied; no code needed; 2026-11-01 to 2026-12-31 |
+
+[⬆️ Back to contents](#table-of-contents)
+
+<a id="ai-tools"></a>
 
 ## 🤖 AI Tools
 
-|  | Name | Description | Discount Code & Terms |
-| -- | ---| ------ | ------ |
-| 💸 | [BoltAI](https://boltai.com/?utm_source=mrsbf) | Best AI client for Mac. Instantly switch between 300+ AI models. Feature-packed, Native Performance, Private by default. | 51% OFF with code **BFCM25** |
-| 💸 | [TypingMind](https://www.typingmind.com/?utm_source=mrsbf) |Chat UI for ChatGPT, Claude, Gemini to use with your API key. Support MCP, multi-model, Artifact, Projects, Vision, Canvas, AI agents builder, DALL-E, Plugins, etc. | 60% OFF Lifetime **BLACKFRIDAY2025** |
-| 💸 | [RabbitHoles AI](https://www.rabbitholes.ai/?utm_source=mrsbf) | Chat with AI models on an Infinite Canvas. Bring your own API keys for ChatGPT, Claude, Gemini, xAI, OpenRouter, Groq, etc. Local stored | 51% OFF with code **BLACKFRIDAY2025** |
-| 💰 | [HyperWhisper](https://hyperwhisper.com/?utm_source=tonybf) | Highly customizable speech-to-text. Ultra-fast and accurate. Offline models. 8+ STT providers. | 50% OFF Lifetime **BLACKFRIDAY2025** |
-| 💸 | [Page AI](https://pageai.pro) | The website generator that 1 shots production codebases, with design, SEO & copy! | **50% OFF** with code **BF2025** |
-| 💸 | [Orchard](https://orchard.5km.tech) | Orchard bridges MCP‑compatible AI assistants with your Apple ecosystem, turning plain language into real actions across native macOS apps—privately, instantly, and locally. | 50% OFF for Lifetime Plan with code **BF2025** (Nov 20 - Dec 2) |
-| 💸 | [WhisperUI](https://whisperui.com/desktop?utm_source=mrsbf) | Affordable, accurate transcription powered by OpenAI Whisper | 55% OFF |
-| 💰 | [TTS Reader AI](https://apps.apple.com/us/app/id6746346171) | Unlimited listening with premium realistic AI voices. Supports PDF, EPUB, Kindle, and more. | Annual plan: **$9.99** (no VAT, automatically applied) |
-| 💸 | [Prompty](https://prompty.to/) | A unified LLM playground to manage prompts, compare models, and debug AI prompts with ease. | 50% OFF Lifetime Pro Plan **BLACKFRIDAY50** |
-| 💸 | [inReels.ai](https://www.inreels.ai/?utm_source=bfdeals) | Create videos in seconds using AI. Turn text, PDFs, or images into videos. Repurpose content for YouTube, TikTok, Reels, and more. | **50% OFF on Yearly Plans** with code **BLACKFRIDAY2025** |
-| 💰 | [VoicePen](https://apps.apple.com/app/id6462815872) | Speech to text AI note taker. For meetings, lectures, voice memos, files, youtube, podcasts, and web links. Native on all  Apple devices: iPhone, iPad, Mac, Watch. | **30% OFF** with code **BLACKFRIDAY25** *plus free week trial* |
-| 💸 | [Contentpen.ai](https://contentpen.ai/black-friday) | Contentpen.ai is an AI-driven blog creation tool built to streamline SEO-optimized writing workflows. It features keyword & SERP analysis, multiple AI agents for research, drafting & optimization, brand-voice alignment, and publishing support, making it easy to scale high-quality articles that perform in search. | **20% off** on monthly plans, **50% off** on annual plans, discount automatically applied at checkout. |
-| 💰 | [Fluent](https://fluentmac.app) | A superior BYOK context‑aware AI assistant for every app and browser tab. Stop app-switching or manual copy-pasting – start keeping your focus on things to be done, not tools. Use 450+ models or local AI. Customizable actions with shortcuts. Lifetime purchase. | 25% OFF **BLACKFRIDAY25** |
-| 💸 | [Aikeedo](https://aikeedo.com/self-hosted/) | Launch your own AI SaaS, branded and self-hosted. AI videos, images, and chat - all in one AI workspace. | **BFCM2025** 50% OFF (LIFETIME) |
-| 💰 | [AIScraper](https://aiscraper.co/) | Extract data from any website in seconds | **20% OFF** first payment, code **JOHNRUSH** (Nov 21 to Dec 7) |
-| 💸 | [SharpAPI](https://sharpapi.com/en/pricing/?utm_source=mrsbf) | AI workflow automation API for product descriptions, resume parsing, job-match scoring, SEO tags, and custom workflows. Built for developers who need reliable AI endpoints without managing models. | **50% OFF first year** with code **BF2025** |
-| 💸 | [Anything](https://createanything.com) | Anything is your AI agent for turning ideas into apps. Build sites, apps, tools, products and more just by describing what you want| **BFMRS2K25** 50% OFF (all plans) |
-| 💰 | [SubtitleBee](https://subtitlebee.com/) | Add accurate subtitles to your videos with SubtitleBee. You can also use this tool to translate subtitles in 120+ languages and transcribe both audio and video content | Up to 32% OFF using code BEE20 at [checkout](https://subtitlebee.com/#pricing), Nov 1 - Dec 4|
-| 💰 | [Sussurro Whisper Speech to Text](https://apps.apple.com/us/app/sussurro-speech-to-text-ai/id6742109110) | Sussurro (Italian for Whisper) is a Mac, iPhone & iPad app for private audio-to-text transcription using OpenAI’s Whisper models, running entirely on-device for privacy. It lets users choose models to balance speed and accuracy and has 0 tracking. Free to Test: Preview any model with complete real-time transcription during processing Then, a one-time in-app purchase unlocks forever | **40% OFF** Pro Lifetime only $ 2.99 between Nov 27 - Dec 3 |
-| 💸 | [RewriteBar](https://rewritebar.com?ref=mrs&utm_source=mrsbf) | Improve your writing in any macOS application with AI assistance. Fix grammar, adjust tone, translate, rewrite, summarize — plus powerful custom actions and templates. | **50% OFF** with code **BF2025**, Nov 20 - Dec 2|
-| 💸 | [RightBlogger](https://rightblogger.com?utm_source=mrsbf) | RightBlogger is the best AI article writer for bloggers, helping you automate your entire content workflow with powerful autoblogging features so you can drive more SEO and ChatGPT traffic effortlessly. | **50% OFF annual plans** (automatically applied), Nov 20 - Dec 1|
-| 💸 | [QuickWhisper](https://quickwhisper.app) | QuickWhisper turns your Mac into a voice-first workspace. Speak instead of typing anywhere with system-wide dictation, automatically record and transcribe your meetings, then get instant AI summaries of everything you've recorded. | **[BFRIDAY25](https://iwtcom.gumroad.com/l/quickwhisper/BFRIDAY25)** to get **65% OFF**, Nov 20 - Dec 4|
-| 💸 | [Alter](https://alterhq.com) | Most AI tools are chat windows. Alter is a system. It captures context from your apps. Learns your voice and workflow to deliver one-click outcomes. | **70% off** Exclusive Lifetime Bundle With 40,000 AI requests included and 2,000+ tools | NOV 20 - DEC 1 |
-| 💰 | [Dartassist](https://www.dartassist.com/) | AI-first career copilot that helps you create tailored resumes, track job applications, and enhance your career profile effortlessly. | **30% OFF** any plan with code **BLACKFRIDAY** (Nov 21 - Dec 2). Renews at discount for 6 months |
-| 💸 | [PostSam](https://postsam.ai) | Build. Ship. Let Sam Grow Your Social Media. AI that creates, schedules, and publishes viral content automatically. | 50% OFF with code **BLACKFRIDAY2025** |
-| 💸 | [TranscribeX](https://www.transcribex.io/) | Local AI Transcription for macOS, Built for Privacy. No Cloud. Convert your audio and video into accurate transcripts. Support speaker diarisation and distilled whisper models. | **70% OFF Lifetime** with code **4OH6Y0D** from Gumroad |
-| 💸 | [Transcrybe - Live Translation](https://apps.apple.com/app/transcrybe-live-translation/id6670778781) | macOS menu bar app that adds live subtitles in 20 different languages to audio from your mic or any other app on your Mac. All on-device for speed & privacy. | **50% OFF** Lifetime access (no code needed, ends Dec 2, 2025) |
-| 💸 | [GasbyAI](https://gasbyai.com/?utm_source=mrsbf) | Web and Desktop AI Chat - Support latest AI models (GPT, Claude, Gemini, OpenRouter & more). Generate images, craft content, analyze documents, code, or research online — all in one place | 60% OFF with code **BlackFriday2025** |
-| 💰 | [LilyFM](https://apps.apple.com/us/app/lilyfm-ai-text-to-speech/id6745472149) | Turn URLs, PDFs, and scanned documents into podcasts with AI insights tailored to you so you learn while multitasking. | App Store **21% OFF** for Annual Plan |
-| 💸 | [Updately](https://updately.ai) | Monitor and grow your product mentions in ChatGPT, and your customer conversations over Reddit, X, LinkedIn, Facebook, etc | 20% Black Friday off on oncall products Use code BF2025 on checkout |
-| 💸 | [Infography](https://infography.in/) | Turn your blogs into stunning, shareable infographics. | **50% OFF** on Lifetime Deals with code **BFCM2025** |
-| 💰 | [Manzoni](https://manzoni.app) | Word processor that runs LLMs entirely on your device to help you brainstorm, draft, and edit text without cloud processing or data tracking. | 10% OFF LIFETIME with code **BLACKFRIDAY10** |
-| 💸 | [Voibe](https://www.getvoibe.com) | Voibe is a really fast dictation app for Mac built for AI power users. Prompt with your voice, 3x faster. Works offline and fully private. Your data never leaves your Mac. | **50% OFF** on lifetime plan for BFCM |
-| 💸 | [AI Meeting Notes & Recorder](https://apps.apple.com/app/ai-meeting-notes-recorder/id6746161214) | Turn meetings, lectures, and voice memos into structured notes using AI. Record audio, transcribe speech to text, generate summaries, create mind maps, and turn notes into flashcards instantly. Perfect for professionals, students, and creators who want to save time and stay organized. | 30% OFF with code **BLACKFRIDAY2025** |
-| 💸 | [Clappia](https://www.clappia.com/black-friday-offer) | Build powerful business apps without coding using 100+ pre-built components. Create apps instantly with AI, automate workflows, capture GPS & photos, generate PDFs, and manage operations seamlessly. Ideal for teams, enterprises & non-technical users. | 50% OFF with code BLCKFRD25 (BlackFriday2025 — valid until Dec 5, 2025) |
-| 💸 | [Backona AI](https://backona.com/?utm_source=black-friday-deals-github&utm_medium=sale-list&utm_campaign=blackfriday2025) | Backona AI helps you turn marketing data into clear, actionable insights. It connects your key platforms like Google Analytics and advertising channels into one smart chat solution. | Get 30% off yearly subscriptions with code **BIGWIN30** or enjoy 50% off your first month with code **QUICKWIN50** |
-| 💸 | [PromptKit](https://www.promptkit.app) | Create, organize, and use prompts with top AI models while building your personal prompt library. | [**50% OFF** Annual Subscription](https://apps.apple.com/redeem?ctx=offercodes&id=6504561145&code=BF2025) |
-| 💸 | [Enconvo](https://enconvo.com) | The Always‑Online AI Companion That Knows You Best, contextually aware of your screen and apps, delivering the perfect response to automate your complex tasks. | **50% off** with code **BLACK-FRIDAY-2025-LTD** | NOV 20 - DEC 2 |
-| 💰 | [Semantic Pen](https://www.semanticpen.com/) | AI Content Writer - Generate high-quality content with AI | 20% OFF (Coupon: `20BF2025`) | Nov 25 – Dec 31, 2025 |
-| 💸 | [Pesu.ai](https://pesu.payanai.com/) | Pesu.ai helps recruiters and HR teams evaluate candidates in real time, using AI to automatically create and score skill-based assessments. | **250$ Amazon Gift Card** | NOV 20 - DEC 10 |
-| 💰 | [CallCow AI](https://www.callcow.ai) | AI voice assistant that sounds just like you. Clone your voice in 30 seconds and replace your traditional voice mail. | **40% OFF** With Code **blackfriday2025** |
-| 💸 | [Monologue](https://monologue.to) | Effortless voice dictation that adapts to your style, context & vocabulary so you can work 3× faster. | **52% off** on Annual | NOV 25 - DEC 2 |
-| 💰 | [RemoveMark](https://removemark.io) | Remove text, handwritten notes, and watermarks from images, plus remove watermarks from videos in a few clicks. | **40% off** with code **REMOVEMARK40** |
-| 💸 | [ConsoleX AI](https://consolex.ai) | The ultimate AI studio for creators - all frontier models and creative tools in one place — Gemini 3, Opus 4.5, GPT 5.1, Nano Banana Pro, Sora 2 & Veo 3. | **50% OFF** with code **CXBLACK2025** | Nov 27 – Dec 3 |
-| 💸 | [GPT Breeze](https://gptbreeze.io/) | Save hours consuming long content on the web. GPT Breeze Extension summarizes YouTube videos and articles, accelerates your writing, by saving your prompts as one-click shortcuts on browsers. | Code **BF25**: 50% off for one-time purchase, 60% off or annual plan |
-| 💰 | [VisionGPT Extension](https://www.visiongpthq.com) | VisionGPT Ext is a Chrome extension for GPT-powered screenshot analysis (BYOK) | 40% off Lifetime Deal - **BF2025** |
-| 💸 | [Grammarly Pro](https://www.grammarly.com/limited-time-offer) | The document editor that combines AI Chat with specialized agents to build on your writing, voice, and ideas. | **55% off** on Annual sub Nov 28 Only |
-| 💸 | [Blip AI Pro](https://blipai.app) | Voice to text dictation app for Mac, Alternative to wispr flow, Type emails, slack, chatGPT, Cursor prompts 4x faster| **80% off** on Yearly sub for one Week Only for first 5000 users |
+| Savings | Name | Description | Discount | Code & Terms |
+| --- | --- | --- | --- | --- |
+| 💰 | [ScribeToAny](https://scribetoany.com/) | AI audio and video transcription with speaker labels and multilingual translation. | 30% off monthly or $20 off yearly | **FIRST&#95;30&#95;OFF** (monthly); **FIRST&#95;20&#95;OFF** (yearly) |
+| 💸 | [Cue](https://appsbymo.app/cue/?ref=bf-deals) | Menu-bar writing assistant that drafts and proofreads replies inside Messages, Mail, Slack and WhatsApp, and remembers who you write to. | 50% off | with code **BLACKFRIDAY** at appsbymo.app (~~$29~~ $14.50). Nov 9 - Dec 1, 2026 |
+| 💸 | [Mo](https://appsbymo.app/mo/?ref=bf-deals) | A little character on your Mac: ask in your own words, typed or spoken, and it tidies files, plans your day and drafts replies, asking first. | 50% off | with code **BLACKFRIDAY** at appsbymo.app (regular $19.99). Nov 9 - Dec 1, 2026 |
+| 💸 | [TypingMind](https://www.typingmind.com/?utm_source=mrsbf) | Chat UI for ChatGPT, Claude, Gemini, and more, with MCP, plugins, agents, and local storage. | 60% off Lifetime Premium | **BLACKFRIDAY2026**; 2026-11-02 to 2026-12-15 |
 
-⬆️ | [Go to Top](#table-of-contents)
+[⬆️ Back to contents](#table-of-contents)
 
-## 🛠 Marketing Software
-|  | Name | Description | Discount Code & Terms |
-| -- | ---| ------ | ------ |
-| 💰 | [viral.app](https://viral.app) | UGC analytics platform to track TikTok, Instagram, and YouTube performance for brands and agencies. | 30% off the first 3 months on monthly plans with code **viralblackfriday30** (redeem by 2025-12-07). |
-| 💰 | [ContentStudio.io](https://contentstudio.io/black-friday) | ContentStudio is a unified social media and content marketing platform that helps brands and teams plan, create, publish, and analyse content. With smart scheduling, visual content calendars, AI-powered caption and image generation, and analytics, it helps you scale content creation while keeping quality and strategy intact. | **40% off** on the first annual plan, discount automatically applied at checkout. |
-| 💸 | [Replug.io](https://replug.io/black-friday) | Replug.io is a link management and branded short link platform tailored for marketers and agencies. It offers custom branded short links, bio-link pages, QR codes, link analytics, A/B testing, retargeting pixels, and white-label capabilities, so you can turn every link into a measurable marketing asset and boost conversions from clicks. | Flat **60% off** on all annual plans, discount automatically applied at checkout. |
-| 🧩 | [ZipWP](https://zipwp.com/black-friday/) | ZipWP is an AI WordPress website builder from the team behind Astra. Describe your business and it builds a complete WordPress site, with hosting, domain and email included. | Up to **47% off** all plans (from $79), 5 Nov – 7 Dec 2026, discount automatically applied at checkout. |
-| 💰 | [Rising Trends](https://risingtrends.co) | Never miss a trending niche again! (Get access to 12,000 trending markets as well trending apps, mega trends and niche reports) | **40% off** by using code BF2025 (redeem before 2025-12-07)|
-| 💰 | [ListingBott](https://listingbott.com/) | Your ultimate solution to efficiently list your SaaS, tool, product, newsletter, or blog on 100 directories in just one click | **20% OFF** first payment, code **JOHNRUSH** (Nov 21 to Dec 7) |
-| 💰 | [TinyAdz](https://tinyadz.com/) | Ad network with no fluff, no fraud. Advertisers get real ROI, publishers earn legit revenue | **20% OFF** first payment, code **JOHNRUSH** (Nov 21 to Dec 7) |
-| 💰 | [WaveGen.ai](https://wavegen.ai) | Turn text content(e.g. blog url, podcast scripts) into clips / carousels for social media. Create, edit, schedule, publish all in one - turn expertise into visibility automatically, and consistently. | **40% OFF** yearly plan with code **BF2025** |
-| 💰 | [Snov.io](https://snov.io/) | Snov.io is sales automation platform to find, verify, and manage leads, run personalized email campaigns.| **50% OFF** annual plan with code **BLACKFRIDAY** |
-| 💸 | [Appfigures](https://appfigures.com?utm_source=mrsbf) | ASO, Apple Ads Optimization, and App Intelligence tools to help you get more downloads.| 50% OFF monthly and yearly plans **BF2550** |
-| 💸 | [AnimAds](https://animads.app/) | Turn Views into Clicks with Animated Ads | **50% OFF** on Lifetime Deals with code **BFCM2025** |
-| 💰 | [Mondial Relay WooCommerce](https://www.wcmultishipping.com/mondial-relay-woocommerce) | A WordPress plugin for the Mondial Relay shipping provider in Europe. | **20% OFF** with code **BF25** until 2025-12-31 |
-| 💰 | [Best time to post Reddit](https://reddit.postwatch.app) | Reddit tool to find the best time to post on Reddit so you can maximize engagement. | **30% OFF** with code **BF25** (valid until 2025-12-12) |
+<a id="marketing-software"></a>
 
+## 🌈 Marketing Software
 
-⬆️ | [Go to Top](#table-of-contents)
+| Savings | Name | Description | Discount | Code & Terms |
+| --- | --- | --- | --- | --- |
+| 💰 | [ZipWP](https://zipwp.com/black-friday/) | AI WordPress website builder from the team behind Astra, with hosting, domain, and email. | Up to 47% off all plans, from $79 | Automatically applied at checkout; 2026-11-05 to 2026-12-07 |
 
-## :tophat: Security Software
+[⬆️ Back to contents](#table-of-contents)
 
-|  | Name | Description | Discount Code & Terms |
-| -- | ---| ------ | ------ |
-| 💸 | [iScan.today](https://iscan.today/?utm_source=mrsbf) | Discover Hidden Secrets Worth Thousands. | **50% off on all plans** with discount code **ISCANBF25** |
-| 💰 | [SimpleumSafe](https://simpleum.com/en/?utm_source=bf25) | SimpleumSafe protects the moments and documents that are nobody else's business: intimate photos that shouldn't appear in the photo app. Copies of ID cards. Travel documents. Medical records. Tax documents. | **30% off** No code needed |
-| 💰 | [Beagle Security](https://beaglesecurity.com/black-friday-sale) | Beagle Security is an AI-powered automated pentesting platform that simulates real-world attacks to uncover vulnerabilities in web apps, APIs, and GraphQL. With agentic AI agents, it streamlines testing, analyzes results, and delivers actionable insights for smarter vulnerability management. | **35% OFF annual** (Code **BFCMY25**) & **20% OFF monthly** (Code **BFCMM25**) — Valid for both Advanced & Essential plans for the next 6 months | **Nov 25 – Dec 4, 2025** |
-| 💸 | [AdverseMonitor](https://adversemonitor.com/) | Real-time threat intelligence platform monitoring 500+ dark web sources, ransomware groups, and data breaches. Get instant alerts when your organization appears in threat actor communications. | Annual **Detection Plan** at **75% OFF** Black Friday Deal: $97 Regular: $388 Coupon code: **BLACKFRIDAY2025** | **Nov 25 – Dec 31, 2025** |
-| 💸 | [DefendFlow](https://radar.defendflow.xyz) | Comprehensive DNS analysis platform providing deep DNS visibility, historical lookups, threat detection, and streamlined investigation workflows. Built for security teams and researchers. | **30% OFF** all yearly plans — Code **BLACKFRIDAY2025** | **Ends Nov 29** |
+<a id="security-software"></a>
 
-⬆️ | [Go to Top](#table-of-contents)
+## 🎩 Security Software
+
+| Savings | Name | Description | Discount | Code & Terms |
+| --- | --- | --- | --- | --- |
+| 💰 | [TinyShield](https://tinyshield.proxyman.com/) | Monitor app connections and block unwanted apps or domains with a macOS firewall. | 30% off all plans | **BF2026**; 2026-11-16 to 2026-12-03 |
+
+[⬆️ Back to contents](#table-of-contents)
+
+<a id="utility-software"></a>
 
 ## 🎛 Utility Software
 
-|  | Name | Description | Discount Code & Terms |
-| -- | ---| ------ | ------ |
-| 💰 | [Folder Preview Pro](https://anybox.ltd/folder-preview-pro) | Quick Look Inside Folders and Archive Files on macOS |30% OFF with code **BFCM2025**|
-| 💸 | [Pify - Convert Picture to PDF](https://apps.apple.com/app/apple-store/id6748066045) | The easiest way to turn your photos and images into polished PDFs in just a few taps. | **66% OFF** Lifetime plan with code **BLACKFRIDAY** |
-| 💸 | [Fileside](https://www.fileside.app/?ref=mRsbfd) | A modern multi-pane file manager with project-based workspaces. | **66% OFF** lifetime license between 24 Nov and 1 Dec |
-| 💸 | [Scrape Creators](https://scrapecreators.com/) | Real-time social media scraping API. Scrape social media + ad libraries. No monthly commitment. | Use code **BLACKFRIDAY2025** for **50% OFF** on Black Friday Only |
-| 💸 | [Lasso](https://thelasso.app?utm_source=mRs-Black-Friday-Deals) | Grid-based, intuitive and fast Window Manager. Pay once, use forever | **50% OFF** on Single and Personal licence types with code **BLACKFRIDAY25** |
-| 💸 | [Launchy: App Launcher Switcher](https://apps.apple.com/us/app/launchy-app-launcher-switcher/id6739782043) | Radial app launcher & switcher for macOS with a customizable wheel and quick keyboard/mouse switching. | **57% OFF** (no code needed). Valid Nov 16–Dec 2, 2025 |
-| 💰 | [Wins](https://wins.cool?utm_source=blf) | Mac window manager — enhances the system App Switcher with Cmd-Tab Plus, improves Dock efficiency with Dock Preview, and offers many other practical features — all designed to feel just like Apple’s built-in features. | **40% OFF** with code **BLACKFRIDAY25**|
-| 💸 | [Pretty Progress](https://prettyprogress.app/download) | Beautiful countdown widgets on your Home Screen & Lock Screen (iOS & Android). | **50% OFF** Lifetime plan between 24 Nov and 3 Dec |
-| 💸 | [FileMinutes](https://www.fileminutes.com?utm_source=Black-Friday-Deals2) | A Better Way to Find Files on Your Mac | 50% OFF with code **BF2025** |
-| 💰 | [KeyScreen](https://keyscreenapp.com) | The most customizable keystrokes viewer for Mac | 30% OFF (Nov 21 - Dec 2) No code Needed |
-| 💸 | [iSsl.today](https://issl.today) | Simple SSL monitoring that alerts you when certificates expire. | **100% off** for 1st month with discount code **FREESSL** (expires: 2025-11-30) |
-| 💰 | [Keystro](https://keystro.app) | Display keystrokes, highlight cursor, and virtualize mechanical keyboard sounds. Massively enhance your tutorial and presentation. Available for Windows and MacOS for free with watermark. | **30% OFF** with code **BFRIDAY25** at checkout|
-| 💸 | [Unplugged: Battery Life tracking from Apple Watch](https://apps.apple.com/us/app/unplugged-battery-life-watch/id6476698892) | Your iPhone's battery level, displayed on your Apple Watch. | **UP TO 50% OFF** on Lifetime subcription. Use code **INDIEAPPSALES2025**. Valid Nov 22–Dec 3, 2025 |
-| 💰 | [WebsiteVoice](https://websitevoice.com/) | Add text-to-speech to your website with a simple play button widget to ensure your target audience can listen to your site's content | 20% OFF on all plans using code **VOICE20** at checkout, Nov 1 - Dec 4|
-| 💰 | [BookletCreator](https://www.bookletcreator.com) | BookletCreator is a simple tool that allows you to create a booklet from a PDF document. It reorders pages so that after printing and folding the pages, a small book is created. | **40% OFF** (automatically applied). Until Dec 5, 2025 |
-| 💰 | [GlanceCam IP Camera Viewer for Mac](https://apps.apple.com/us/app/glancecam-ip-camera-viewer/id1360797896) | GlanceCam is a secure and beloved IP camera viewer for macOS, with over 670 App Store ratings averaging more than 4.3 stars. It supports standard streaming protocols and offers lots of advanced features. With 42 free updates over 7 years, GlanceCam is the best choice for streaming IP Cameras from any manufacturer, with powerful features (Instazoom, Always on top...) and automations. | **25% OFF** (standard version) between Nov 27 - Dec 3 |
-| 💰 | [SendScan Scanner with Workflows](https://apps.apple.com/us/app/sendscan-quick-scan-share/id6753208936) | SendScan combines a best-in-class scanner with text recognition and workflows to send your documents exactly where they need to go: for instance, scan, rename, send via email to your accountant, share via Messages, and then delete. An essential new app for iPhone and iPad, it's really fast and integrates with iCloud for absolute privacy (so your scans are always on your Mac too!) | **40% OFF** Pro Lifetime only $ 5.99 between Nov 27 - Dec 3 |
-| 💰 | [Lingon Pro](https://www.peterborgapps.com/lingon) | Run whatever you want, whenever you want with Lingon Pro | **20% OFF** (automatically applied)|
-| 💸 | [LaunchOS](https://launchosapp.com/) | The best launchpad alternative for macOS 26 (Tahoe). Built to feel instantly familiar, effortlessly smooth, and surprisingly powerful. | **60% OFF** plus an additional **5% OFF** with code **EARLYBIRDBLACKFRIDAY** |
-| 💸 | [QRGenie – QR Code Generator](https://www.qrgenie.app) | Create stunning, branded QR codes on iPhone, iPad, and Mac. Add your logo, pick custom colors, and design QR codes that stand out and boost scan rates. | **50% OFF** Lifetime PRO (prices may vary based on purchasing parity), Nov 21–Dec 7, 2025 |
-| 💸 | [BarcodeCraft – Barcode Generator](https://barcodecraft.com) | Design and customize high-quality barcodes, then test them instantly with the built-in camera scanner. Supports formats like Code 128, EAN-13, PDF417, and more. | **50% OFF** Lifetime PRO (prices may vary based on purchasing parity), Nov 21–Dec 7, 2025 |
-| 💰 | [NewsNinja](https://apps.apple.com/app/newsninja-ai-rss-news-reader/id6504148117) | Optimized AI News from multiple sources: RSS, Reddit, Youtube. Your smart news companion. Follow global sources, read in reader mode, translate instantly, get quick AI summaries from RSS, Reddit, and YouTube with no ads or sign-ups. | **70% OFF** Lifetime package from Nov 21st to Dec 2nd | 
-| 💰 | [Sonuby Weather (iOS & Android)](https://sonuby.com/download/?utm_campaign=mRs_black_friday_deals) | Sonuby Weather is a highly customizable weather & forecast app for daily life, drone flying, sailing, health and other weather dependent activities and scenarios. | **58% off lifetime** (offer will be shown in-app), until Dec 4 | 
-| 💰 | [StopTheMadness Pro](https://apps.apple.com/app/stopthemadness-pro/id6471380298) | Web browser extension for iOS and macOS that stops web site annoyances and privacy violations | **25% OFF** from Nov 21 to Dec 5 | 
-| 💰 | [Viso](https://getviso.app) | Beautiful minimal image viewer for macOS | 30% OFF LIFETIME- NO CODE REQUIRED, Nov 24th - Dec 4th |
-| 💰 | [Litur(iOS)](https://litur.app) | A color picker for the real world. Litur helps you find and collect all the colors around you. | 33% OFF Lifetime, Nov 24th - Dec 4th |
-| 💰 | [Dropshare (macOS)](https://dropshare.app) | Upload File, Share Link, Done. Upload screen shots, screen recordings and any files to your trusted storage provider and share them immediately with just a link. | **US$ 10 OFF** on Nov 28th |
-| 💸 | [Cursor Teleporter](https://www.apptorium.com/cursor-teleporter) | Teleport your cursor across your screens. | 50% OFF Lifetime, Nov 21th - Dec 3th |
-| 💸 | [Lingon](https://apps.apple.com/redeem?ctx=offercodes&id=6742142873&code=BLACKWEEK25YEAR) | Meet the new easy to use Lingon to help you run whatever you want, whenever you want | **50% OFF** for one year with the link |
-| 💰 | [KeyScreen (macOS)](https://keyscreenapp.com) | Show your keystrokes on screen. The most customizable keypress visualizer for Mac | **40% OFF** from Nov 21 to Dec 2. No code needed. |
-| 💰 | [Tripsy Pro](http://tripsy.app/download) | Travel Planner for iOS and Mac. Finalist as App of the Year for iPhone 2024. | **50% OFF** on [Lifetime](https://buy.stripe.com/3cscMW3wb1aybqocMN?prefilled_promo_code=BLACKFRIDAY202550OFF) and [1-Year plan](https://buy.stripe.com/dR6aEO9Uz3iG2TS6os?prefilled_promo_code=BLACKFRIDAY202550OFF), until Dec 2 |
-| 💸 | [AIWATransfer](https://aiwatransfer.com/) | AIWATransfer lets you securely move your WhatsApp chats, media, and attachments between Android and iPhone — no cloud storage, no data loss, no technical steps required. Use the promo code "**BF2025**" | **50% OFF** on Premium & Pro Plans, until Dec 2 |
-| 💸 | [Yoink for Mac](https://eternalstorms.at/yoink/mac) | Improve and Simplify Drag and Drop on your Mac with Yoink | **77% OFF** from Nov 27th 2025 to December 1st, 2025 on the Mac App Store and Direct Purchase on the Website | (30% of proceeeds go to charity)
-| 💸 | [Yoink for iPhone and iPad](https://eternalstorms.at/yoink/ios) | Your files and snippet shelf with clipboard observing powers | **66% OFF** from Nov 27th 2025 to December 1st, 2025 on the Mac App Store and Direct Purchase on the Website | (30% of proceeeds go to charity)
-| 💸 | [Transloader for Mac](https://eternalstorms.at/transloader) | Manage downloads on your Macs, remotely from your iPhone, iPad, and other Macs | **60% OFF** from Nov 27th 2025 to December 1st, 2025 on the Mac App Store and Direct Purchase on the Website | (30% of proceeeds go to charity)
-| 💸 | [DeskMat for Mac](https://eternalstorms.at/DeskMat) | Cover your messy desktop with a single click | **50% OFF** from Nov 27th 2025 to December 1st, 2025 on the Mac App Store and Direct Purchase on the Website | (30% of proceeeds go to charity)
-| 💸 | [Tameno for Apple Watch, iPhone, iPad, Mac and Apple TV](https://eternalstorms.at/tameno) | Keep your mind at peace, let Tameno keep the pace | **50% OFF** from Nov 27th 2025 to December 1st, 2025 on the Mac App Store and Direct Purchase on the Website | (30% of proceeeds go to charity)
-| 💸 | [Pics2PDF: Image Converter](https://apps.apple.com/ar/app/heic-to-jpg-pics2pdf/id6748744676?l=en-GB) | Convert JPG PNG and PDFs offline in perfect quality with unlimited freedom and zero interruptions. | 75% OFF Lifetime (auto-applied), Nov 22 – Dec 4 |
-| 💸 | [CheckCam — Visual Reminder](https://apps.apple.com/app/apple-store/id6748918261?pt=127961359&ct=GitHub-mRs-Black-Friday&mt=8) | Minimalist iOS camera for temporary photos that auto-delete and keep your main gallery clean. | **60% OFF** Lifetime Access with code **BF2025** (Nov 26 – Dec 3, 2025) |
-| 💸 | [Smart Photo Cleaner: Sardis](https://apps.apple.com/tr/app/smart-photo-cleaner-sardis/id6749212207) | iPhone Photo And Video Cleaner + Storage Optimizer. | **50% OFF** on Annual Premium Plan - Claim in App, until Dec 3 |
-| 💸 | [Weather mini](https://weathermini.app/?utm_source=black-friday-2025) | Smart weather cards for iPhone, iPad, Mac, and Vision Pro. | 50% OFF on Lifetime Plan with code **BF2025** (Nov 26 - Dec 2, 2025) |
-| 💰 | [BetterDisplay Pro 4](https://betterdisplay.pro) | Popular display management app for macOS. Flexible scaling, virtual screens, brightness upscaling, image adjustments, groups, EDID, color modes, DDC etc. |**33% OFF** with code **BFCM2025**, Nov 27 - Dec 1|
-| 💰 | [BetterNotif](https://www.betternotif.app/) | MacOS Stripe Real Time Notifications | **30% OFF** with code **BF25** | 2025-12-12 |
-| 💸 | [Orbitime](https://apps.apple.com/in/app/orbitime-world-clock-widget/id6463491213) | Orbitime allows you to track your friend’s timezone. World clock app with widgets | **Upto 67% OFF** on lifetime plan |
-| 💰 | [Vidimote for Safari](https://apps.apple.com/app/vidimote-for-safari/id1585702412) | Advanced playback, speed controls & skip for web videos in Safari (iOS & macOS) | **33% OFF** from Nov 26 to Dec 2 | 
-| 💰 | [Remote Buddy 2](https://www.iospirit.com/products/remotebuddy/) | Control apps, web videos and more on your Mac – from your iPhone, Siri Remote, iPad, Apple TV, Apple Remote and many other remote controls. | **40% OFF** from Nov 26 to Dec 2 | 
-| 💰 | [CopyMagic](https://copymagic.app) | The smartest, most-intuitive clipboard manager for macOS. | **50% OFF** from Nov 26 to Dec 10 with code **BLACKFRIDAY** | 
-| 💸 | [Imgs2PDF](https://apps.apple.com/app/imgs2pdf-pdf-converter/id6741581868) | Convert images to PDF or PDF to images offline. Merge, split, PDFs, with OCR support. | [**60% OFF** Lifetime(Nov 27 - Dec 31)](https://apps.apple.com/redeem/?ctx=offercodes&id=6741581868&code=IMGS2PDF) |
-| 💸 | [DaisyDisk](https://unclutterapp.com/bundle/?coupon=UN-BLACKFRIDAY-2025&s=git#DAISYDISK) | Find out what’s taking up your disk space and recover it in the most efficient and easy way. | **50% OFF** Lifetime ($10 → $5) |
+| Savings | Name | Description | Discount | Code & Terms |
+| --- | --- | --- | --- | --- |
+| 💰 | [Aurio](https://aurio.dev/) | Remove background noise from your microphone in real time on Mac, on-device with no account. | 25% off ($40 → $30) | **BLACKFRIDAY26**; keep the app with one year of updates; 2026-11-24 to 2026-12-01 |
+| 💸 | [Picmal](https://picmal.app) | Convert, compress, and edit images, video, audio, and PDFs locally on Mac. | 50% off ($29 → $14.50) | **BLACKFRIDAY**; one-time purchase; 2026-11-23 to 2026-11-30 (Pacific time) |
+| 💰 | [SpaceBroom](https://spacebroom.app/en/) | Mac cleaner for junk, large files, duplicates, app removal, and malware checks. | 30% off: yearly €35 → €24.50; lifetime €99 → €69.30 | **BLACKFRIDAY26**; yearly discount applies to the first year; Until 2026-12-01 |
+| 💰 | [NeoTiler](https://getneotiler.com/?utm_source=mRs-Black-Friday-Deals) | Native macOS window manager with shortcuts, snapping, workspaces, and Dock previews. | 30% off Lifetime ($9.99 → $6.99) | **BF30**; automatically applied at checkout; Until 2026-12-01 |
+| 💸 | [Vigil](https://appsbymo.app/vigil/?ref=bf-deals) | Keeps your MacBook awake with the lid closed while Claude Code, Codex, a build or an export runs, then sleeps the moment it's done. | 50% off | with code **BLACKFRIDAY** at appsbymo.app (regular $9.99). Nov 9 - Dec 1, 2026 |
+| 💸 | [Chute](https://appsbymo.app/chute/?ref=bf-deals) | A drop tray for Mac: shake a file while you drag it, then one key zips, resizes, converts, renames, AirDrops or sends it to your other Mac. | 50% off | with code **BLACKFRIDAY** at appsbymo.app (regular $14.99). Nov 9 - Dec 1, 2026 |
+| 💸 | [Emojist](https://appsbymo.app/emojist/?ref=bf-deals) | Type a word anywhere on your Mac and matching emoji appear above the cursor; press a number to swap one in. | 50% off | with code **BLACKFRIDAY** at appsbymo.app (regular $6.99). Nov 9 - Dec 1, 2026 |
+| 💸 | [What Happened](https://appsbymo.app/whathappened/?ref=bf-deals) | Tells you in plain words why your Mac is slow, hot or full, and fixes it with your OK. | 50% off | with code **BLACKFRIDAY** at appsbymo.app (regular $13.99). Nov 9 - Dec 1, 2026 |
+| 💰 | [DockView 2](https://noteifyapp.com/dockview/) | Live window previews for the macOS Dock. | 30% off: $14.99 → $10.49; Lifetime $49.99 → $34.99 | **MACPLUSBLACKFRIDAY26**; 2026-11-01 to 2026-11-30 |
+| 💰 | [ActiveDock 2](https://noteifyapp.com/activedock/) | Dock replacement for macOS. | 30% off: $19.99 → $13.99; Lifetime $59.99 → $41.99 | **MACPLUSBLACKFRIDAY26**; 2026-11-01 to 2026-11-30 |
+| 💰 | [SuperTab 7](https://noteifyapp.com/supertab/) | Apps, windows, and clipboard in one panel. | 30% off: $19.99 → $13.99; Lifetime $49.99 → $34.99 | **MACPLUSBLACKFRIDAY26**; 2026-11-01 to 2026-11-30 |
+| 💰 | [Quick Exposé 3](https://noteifyapp.com/quick-expose/) | Classic Exposé on modern macOS. | 30% off ($39.99 → $27.99) | **MACPLUSBLACKFRIDAY26**; 2026-11-01 to 2026-11-30 |
+| 💰 | [MacPlus Software, other apps](https://noteifyapp.com/apps/) | Command-Tab Plus 2, Stage View, Tab Finder 2, MultiDock 2, Classic Commander, Tree Outliner, and ContextClip. | 30% off | **MACPLUSBLACKFRIDAY26**; 2026-11-01 to 2026-11-30 |
 
-⬆️ | [Go to Top](#table-of-contents)
+[⬆️ Back to contents](#table-of-contents)
+
+<a id="productivity-software"></a>
 
 ## 📌 Productivity Software
 
-|  | Name | Description | Discount Code & Terms |
-| -- | ---| ------ | ------ |
-| 💸 | [Tiny Shield](https://tinyshield.proxyman.com/?utm_source=black-friday-2025) | Alternative to Little Snitch Mini - See all traffic from your Mac and block it | 60% OFF with code **BLACKFRIDAY2025** |
-| 💰 | [Anybox](https://anybox.app) | Bookmarking App on macOS and iOS | Up to 30% OFF on App Store |
-| 💸 | [Capture - Quick Notes](https://apps.apple.com/app/apple-store/id6458535284) | Easily capture your thoughts & ideas on the go and export them to your favourite apps. | **50% OFF** Lifetime plan with code **BLACKFRIDAY** |
-| 💸 | [Chronoid - Automatic Time Tracking](https://www.chronoid.app?utm_source=mRs-Black-Friday-Deals) | AI-powered time tracking with website blocking and productivity insights. Automatically categorize activities, block distractions, stay focused, all private on Mac. | **50% OFF** Lifetime plan with code **BLACKFRIDAY** |
-| 💸 | [Sumy AI](https://www.sumyai.com/) |  Study smarter with the Feynman method — create smart notes, quizzes & flashcards to learn faster and remember longer.. | 50% OFF with code **BLACKFRIDAY2025** |
-| 💸 | [Fenn](https://www.usefenn.com/?utm_source=mRs-Black-Friday-Deals) | AI file search agent for macOS. | 50% OFF with code **BLACKFRIDAY** |
-| 💸 | [LookAway](https://lookaway.com/?utm_source=mRs-Black-Friday-Deals) | Smart break reminder app for macOS | 50% OFF with code **BFCM25** |
-| 💸 | [MailMaven](https://smallcubed.com/pricing) | The email app for professionals. Make email mangement more effective by tagging messages,  automating tasks, and customizing templates and signatures.| **50% OFF** From Nov 27 - Dec 2 |
-| 💸 | [KeyboardStack](https://keyboardstack.com) | Control your Mac entirely from the keyboard - mouse-free navigation to stay in flow and reduce wrist strain. | **50% OFF** (auto-applied) |
-| 💸 | [TimeGo Clock](https://apps.apple.com/cn/app/timego-clock/id6448658165?l=en-GB&mt=12) | TimeGo is a lightweight timer app with a fresh 2.0 Ul. Create custom countdown combinations for your workflow. | 50% OFF (Nov 20 - Dec 2) |
-| 💰 | [BugSmash](https://bugsmash.io) | Instant Visual Feedback & Collaboration for Product, Design, Marketing Teams & Agencies. Review live websites, designs, videos all in one place. Collect contextual annotated feedback from clients without asking them to login. | **$100 OFF** with code “SPLBF100”. Lifetime at just $149! |
-| 💸 | [Juicy: Battery Alerts & Health](https://apps.apple.com/us/app/juicy-battery-alerts-health/id6752221257) | Get beautiful Mac battery alerts at any level, track battery health and monitor temperature. All from a beautiful Mac menu bar icon. | **50% OFF** with code "BF25"  |
-| 💸 | [DeskRest](https://deskrest.com/offers) | Smart break and posture reminder for macOS. Transform your workday. | 60% OFF (Nov 10 - Dec 2) |
-| 💸 | [TextSniper](https://textsniper.app) | Copy and paste any uncopyable text from your Mac's screen, listen to it with text-to-speech, or scan QR codes instantly. | 75% OFF with code **BFCM2025** |
-| 💰 | [WhatPulse](https://whatpulse.org/?ref=mRs) | WhatPulse maps your time, typing, clicking, and app usage into beautiful stats, and turns them into insights with your personal dashboard. | **35%** on first year on annual plan with code **BFCM2025** |
-| 💰 | [MuteDeck](https://mutedeck.com/?ref=mRs) | Navigate any call app with consistent controls. Toggle Mute, Video, Record, Share, and Leave a meeting with a single press of a button. | **35%** off perpetual license with code **BFCM2025** |
-| 💰 | [Presentify](https://presentifyapp.com) | Screen annotation app for Mac, featured by Apple 4 times | 30% OFF (Nov 21 - Dec 2) No code Needed |
-| 💰 | [CleanClip](https://cleanclip.cc?ref=mRs) | The cleanest system-level clipboard manager for Mac, Clean UI/Immersive menu/Paste Queue/Smart List/Unlimited Storage | 30% OFF with code **BFC2025** |
-| 💰 | [SupaSidebar](https://supasidebar.com) | SupaSidebar brings an Arc-style sidebar to Mac, letting you save and open links, files, and folders from any browser or Finder instantly. | 50% OFF with code **BLF50** |
-| 💰 | [Pasta](https://apple.co/46omrEk) | Visual Clipboard Manager for your Mac | **50% OFF** Lifetime Package from Nov.28 to Dec.2 |
-| 💰 | [XGetter](https://xgetter.com/?utm_source=Awesome-Black-Friday-Cyber-Monday) | Media downloader - Download media from YouTube, Douyin, Instagram, X, TikTok and 50+ platforms | Lifetime Package 30% off with discount code **BLACKFRIDAY2025** |
-| 💸 | [Supasend](https://supasend.app) | Quickly capture your notes & tasks instantly in your second brain apps 🧠 | 40% off on LIFETIME PLAN ✨ |
-| 💸 | [Voice Memos - Email Me](https://ww.emailmeapp.net) | The fastest way to record your thoughts. For iOS, iPadOS, macOS, watchOS, visionOS & CarPlay. | **50%** OFF. No promocode required |
-| 💸 | [Koofr](https://koofr.eu/black-friday/) | Koofr is a secure, reliable, and user-friendly European cloud storage service. Backup, sync and share files while maintaining complete privacy - Koofr doesn't use trackers, cookies nor ads. | Use code **BF2025** for **55% OFF** on yearly plans **100 GB** or larger. 
-| 💰 | [EagleFiler](https://c-command.com/eaglfiler/) | Organize files on your Mac, archive e-mails, save Web pages and notes, search everything. | 25% off with code **BLACKFRIDAY2025** |
-| 💰 | [SpamSieve](https://c-command.com/spamsieve/) | Save time by adding powerful spam filtering to the e-mail client on your Mac. | 25% off with code **BLACKFRIDAY2025** |
-| 💰 | [PhotInfo](https://apps.apple.com/app/photinfo/id597139381) | PhotInfo is an app to view and edit the information (location, date, camera, Exif tags, IPTC tags, etc.) contained in your in your photos. | 66% OFF, Nov 21 - Dec 4 |
-| 💰 | [Octoparse](https://www.octoparse.com/black-friday-sale-2025?utm_source=github&utm_medium=product&utm_campaign=25bf) |A no-code web scraping tool that turns any website into structured data in minutes — available on macOS.|Get up to **45% OFF**, auto-applied from Nov 19 to Dec 3, (UTC-5). | 
-| 💰 | [Smultron](https://www.peterborgapps.com/smultron) | Smultron - The text editor for all of us | **20% OFF** (automatically applied)|
-| 💰 | [PastePal](https://indiegoodies.com/pastepal) |PastePal is the best universal clipboard manager for Mac, iPhone and iPad| 50% OFF on App Store. For stanalone versions, use code INDIEGOODIESBF25 for 50% discount | 
-| 💰 | [Almighty](https://indiegoodies.com/almighty) |Over 50 cool Mac tweaks and extra utilities to supercharge your Mac experience| 50% OFF on App Store. For stanalone versions, use code INDIEGOODIESBF25 for 50% discount | 
-| 💸 | [Itemlist – Inventory Tracker App](https://www.getitemlist.app) | Powerful inventory tracker app for home and business. Organize, categorize, and locate items in seconds so you never forget where anything is again. | **50% OFF** Lifetime PRO (prices may vary based on purchasing parity), Nov 21–Dec 7, 2025 |
-| 💸 | [DoubleMemory](https://doublememory.com) | Bookmark & read later & clipbard all in one translucent board. For iOS, iPadOS and macOS. | **60% OFF** on lifetime plan with code: `CYBERWEEK` |
-| 💸 | [CSV Table](https://csvtable.com/) | View and edit CSV, JSON data for Professional s| 60% off with code **BLACKFRIDAY2025** |
-| 💸 | [Focusmo](https://www.focusmo.app/?utm_source=mrs-github) | #1 Focus app for ADHD timeblindness. Focusmo helps you log your day as you go — so you stop losing hours to distractions and end every day proud of what you achieved | **50% OFF** Lifetime Updates (Nov 21 - Dec 1). Pay once. (code automatically applied) |
-| 💰 | [Migi](https://migiapp.com/) | Make your prompt templates just once and bring them up instantly with ⌥ Space. Just fill in the blanks, and in a second you'll have a custom prompt ready to go. | $19.99 from $29.99 lifetime |
-| 💸 | [DockFlow](https://dockflow.appitstudio.com) | Save and Switch between macOS Dock presets | 50% off with code **BLACK2025FRIDAY50** Nov 24th - Nov 30th |
-| 💸 | [ExtraDock](https://extradock.app) | Create unlimited floating Docks for macOS - Perfect for multiple monitors setups | 50% off with code **BLACK2025FRIDAY50** Nov 24th - Nov 30th |
-| 💸 | [DockFlow](https://dockflow.appitstudio.com) | Save and Switch between macOS Dock presets | 50% off with code **BLACKXXFRIDAY50** Nov 26th - Dec 1st |
-| 💸 | [ExtraDock](https://extradock.app) | Create unlimited floating Docks for macOS - Perfect for multiple monitors setups | 50% off with code **BLACKXXFRIDAY50** Nov 26th - Dec 1st |
-| 💰 | [Blark](https://blark.app) | The best way to take monochrome/black & white pictures and videos on the iPhone and iPad. | 30% OFF Yearly Plan with <strong>BLARKFRIDAY</strong>, Nov 24th - Dec 4th |
-| 💰 | [Litur(macOS)](https://litur.app) | A designer’s best-kept secret, a developer's best friend. Litur helps you manage and improve your colors and design workflow. | 30% OFF Lifetime - NO CODE REQUIRED, Nov 24th - Dec 4th |
-| 💸 | [FiveNotes](https://www.apptorium.com/fivenotes) | 5 quickly accessed notes. Floating above other apps and looking great with themes. | 50% OFF Lifetime, Nov 21th - Dec 3th |
-| 💸 | [Workspaces 2](https://www.apptorium.com/workspaces) | Project-based launcher that opens your files, folders, websites, apps etc. with one click. | 50% OFF Lifetime, Nov 21th - Dec 3th |
-| 💰 | [SideNotes](https://www.apptorium.com/sidenotes) | Take notes on your screen side with no distraction. | 40% OFF Lifetime, Nov 21th - Dec 3th |
-| 💸 | [Lattix](https://www.lattix.app) | Lattix is a powerful launcher which helps you to open any app or file with preset layouts across your monitors. | 50% off with code **BLACKFRIDAY25** Nov 21th - Dec 1st |
-| 💰 | [InfiniDesk (macOS)](https://infinidesk.app) | InfiniDesk lets you create multiple virtual desktops on your Mac, each with their own layout of files, folders and wallpaper. | **30% OFF** (no code needed) during **BLACK FRIDAY** Nov 27th - Dec 2nd 2025 |
-| 💸 | [Chronos Planner](https://bosc.app/chronos.html) | Take control of your life with better daily planning. Features daily pages, a fully-featured editor, calendar integration, fast local searching, and many more helpful tools. | **50% OFF** one-time purchase (no code necessary) Nov 23rd - Dec 8th |
-| 💸 | [PostPocket](https://apps.apple.com/us/app/bookmark-links-postpocket/id6670723615) | Save everything you love in one clean space and access it instantly across all your devices. | **75% OFF Lifetime** (auto-applied), Nov 22 - Dec 4 |
-| 💸 | [ConniePad](https://conniepad.com) | Powerful note app for your brain. Offline-first. Native on macOS and iOS. AI Search & AI Chat inside notes. | 50% OFF with code **F25** |
-| 💰 | [Paste](https://pasteapp.io) | Paste keeps everything you copy organized and searchable. Lightweight, intuitive, packed with smart features, and private by design. | **50% OFF** Mac + iOS, on the Apple App Store or with code **BLACKFRIDAY2025** Nov 24th - Dec 1st 2025 |
-| 💸 | [DeskMinder²](https://appps.od.ua/deskminder/) | A simple yet effective macOS app for people who get easily distracted. Create quick reminders & start tasks on your desktop | 50% OFF Lifetime (Nov 24-28) |
-| 💸 | [Focusito](https://apps.apple.com/us/app/focusito-pomodoro-focus-timer/id1473808464?mt=12) | Focusito is the Mac-native Pomodoro timer that boosts focus with 16 nature and binaural soundscapes. | 50% off (Expires Nov 30) |
-| 💸 | [ScreenFloat for Mac](https://eternalstorms.at/ScreenFloat) | Your Mac's Screen Capture All-Rounder | **50% OFF** from Nov 27th 2025 to December 1st, 2025 on the Mac App Store and Direct Purchase on the Website | (30% of proceeeds go to charity)
-| 💰 | [Snippety](https://snippety.app) | Powerful productivity tool for macOS and iOS that helps you work faster with instantly accessible snippets and intelligent placeholders. | **34% OFF Lifetime**, Mac + iOS, on the App Store (Nov 27th - Dec 2nd) |
-| 💸 | [ADHD Structure Planner: Simple]([https://eternalstorms.at/ScreenFloat](https://apps.apple.com/redeem?ctx=offercodes&id=6742843891&code)) | Structure Your Day. Unlock Your Focus. Simple will boost your focus and productivity from day one! | **50% OFF** Lifetime | Offer ends on Dec 5th 2025 |
-| 💸 | [ScreenTimerAI](https://screentimerai.com/) | Privacy-first AI screen time tracker and analytics | **50% OFF** to 25$ for lifetime purchase with code **BLACKFRIDAY2025** Nov 24th - Dec 8th 2025 |
-| 💸 | [Trickster](https://www.apparentsoft.com/trickster) | Your recently used files, at your fingertips (Mac) | **50% OFF** Lifetime | Offer ends on Dec 2th 2025 |
-| 💸 | [YourChecklist](https://apps.apple.com/ar/app/daily-checklist-to-do-list/id6743703945?l=en-GB) | Create unlimited checklists and stay effortlessly organized so every task gets done on time. | **75% OFF** Lifetime (auto-applied), Nov 22 – Dec 4 |
-| 💸 | [ToMoment](https://apps.apple.com/ar/app/event-countdown-tomoment/id6751402161?l=en-GB) | Track every important moment with unlimited countdowns and live updates that keep you perfectly on time. | **75% OFF** Lifetime (auto-applied), Nov 22 – Dec 4 |
-| 💰 | [Note](https://apps.apple.com/app/note/id1602765272) | Keep what you care most about in focus with this minimalist notes app & widget. It’s like a pinned/sticky note in its own app, for goals, ideas, reminders, or to-do lists. | $2.99 one-time purchase **40% OFF** through Dec 5th |
-| 💸 | [Mailbird](https://www.getmailbird.com/) | The Best Email client for Windows and Mac. Bring all your email accounts, calendars, and apps into one clean workspace. Stay focused, move faster. | **80%+ OFF Pay once plan** and **30% OFF Yearly Plan** (auto-applied), Nov 24 – Dec 5 |
-| 💰 | [Spencer](https://macspencer.app) | Save & restore window positions — across all virtual Desktops. Launch the right apps, hide others, and adjust number of Desktops to match your saved setup. Create layouts for different display setups and different tasks to stay organized and focused. | **40% OFF Lifetime**, Nov 26 - Dec 2 |
-| 💰 | [Tabhive](https://www.tabhive.app/) | Tabhive is a Chrome extension that helps you organize your tabs and manage your links | **30% OFF** on all plans (Including LTD) with code **BF2025**, Nov 24 - Dec 10 |
-| 💸 | [SwiftBiu](https://swiftbiu.com) | SwiftBiu is a text efficiency tool for macOS, select text in any app and a customizable extended toolbar pops up to make common operations "one step". Supports AI multimodal (text-to-text, text-to-graph), AppleScript/javascript plugins, html extension applets. | **50% OFF** Pro Lifetime only $ 4.99 between Nov 21 - Dec 26 |
-| 💰 | [Craft Docs](https://www.craft.do/) | Create stunning documents, manage tasks, build dynamic collections, and structure your ideas your way. | **40% LIFETIME OFF** – No code required |
-| 💸 | [Timemator](https://timemator.com/) | Timemator automatically tracks work on your Mac, turning app, file & website activity into accurate timesheets. | **50% OFF** Lifetime with promocode TM-BLACKFRIDAY25, Nov 27 – Dec 5 |
-| 💸 | [Daylish - Day Planner](https://apps.apple.com/us/app/daylish-visual-schedule/id6751201325) | A delightful day planner that helps you **never be late** again and *flow through your day* with ease. Get ready to leave on time with **smart alarms and timers**. | [**75% OFF** Daylish+ Yearly](https://apps.apple.com/redeem?ctx=offercodes&id=6751201325&code=BF25) ($19.99 → $4.99) with code **BF25**, Nov 26 - Dec 5 |
-| 💰 | [Labs64 NetLicensing](https://netlicensing.io/blog/2025/11/25/labs64-netlicensing-cyber-weeks-2025/) | Elevate your licensing & monetization | Save up to **50%** on any paid plan, get an **extended 60-day trial**, and unlock optional **onboarding**, integration, and migration support when you sign up with code *CYBER2025* between Nov 28 – Dec 8, 2025 |
-| 💸 | [Unclutter](https://unclutterapp.com/bundle/?coupon=UN-BLACKFRIDAY-2025&s=git#UNCLUTTER) | A smart space on your desktop to store and organize your everyday files, notes, and clipboard data. | **50% OFF** Lifetime ($20 → $10) |
-| 💰 | [MenubarX](https://menubarx.app/) | Powful macOS menu bar browser that helps you to add any web pages to the menu bar just like Native Apps. | App Store **28% OFF** or Code BF2025, Nov 26 - Dec 5 |
-| 💰 | [DockX](https://dockx.app/) | Magic app that allows you to display any content in the Dock and Menu bar, you can just sneak a peek anytime without opening any app. | App Store **25% OFF** or Code BF2025, Nov 26 - Dec 5 |
+| Savings | Name | Description | Discount | Code & Terms |
+| --- | --- | --- | --- | --- |
+| 💸 | [SupaSidebar](https://supasidebar.com?r=mrs) | Arc-style sidebar for browser tabs, bookmarks, and Finder files, with fuzzy search. | 50% off Lifetime | **SIDEBARBF50**; one-time purchase; 2026-11-09 to 2026-12-07 |
+| 💸 | [Cozy](https://cozyjournal.app) | Private journal for Mac, Windows, and iPhone with entries stored as local files. | 50% off ($49 → $24.50) | **BLACKFRIDAY**; one-time purchase; 2026-11-23 to 2026-11-30 (Pacific time) |
+| 💸 | [Noteline](https://noteline.io/pricing) | Markdown editor for Mac, Windows, and Linux with local files and offline Word/PDF export. | 50% off ($9.99 → $4.99) | Automatically applied at checkout; one-time desktop license; 2026-11-25 to 2026-11-30 |
+| 💰 | [Aevo](https://aevo.so/en) | Task board with tiles and calendar sync for macOS and web. | 30% off yearly Pro; lifetime €199 → €149 | Direct purchase from the website; yearly discount applies to the first year; 2026-11-27 to 2026-11-30 |
+| 💸 | [Margin](https://appsbymo.app/margin/?ref=bf-deals) | Menu-bar day planner: type a plain sentence and it becomes an Apple Reminder or Calendar event on a live day timeline. | 50% off | with code **BLACKFRIDAY** at appsbymo.app (regular $9.99); Mac App Store ~~$9.99~~ $4.99, no code; App Store (iPhone) ~~$5.99~~ $2.99, no code. Nov 9 - Dec 1, 2026 |
+| 💸 | [Scry](https://appsbymo.app/scry/?ref=bf-deals) | Captures, annotates and files screenshots, records your screen, and makes the text in every image on your Mac searchable. | 50% off | with code **BLACKFRIDAY** at appsbymo.app (~~$24~~ $12). Nov 9 - Dec 1, 2026 |
+| 💸 | [Thurayya](https://appsbymo.app/thurayya/?ref=bf-deals) | A Mac launcher that learns your routine: press a key and the apps, folders, files and sites you need next are already there. | 50% off | with code **BLACKFRIDAY** at appsbymo.app (regular $14.99). Nov 9 - Dec 1, 2026 |
+| 💸 | [Wick](https://appsbymo.app/wick/?ref=bf-deals) | Every deadline as a burning wick on your Mac: tasks, loans, subscriptions and renewals counting down where you can see them. | 50% off | with code **BLACKFRIDAY** at appsbymo.app (regular $14.99); Mac App Store ~~$15.99~~ $7.99, no code. Nov 9 - Dec 1, 2026 |
+| 💸 | [Yonder](https://appsbymo.app/yonder/?ref=bf-deals) | Your bookmarks and open tabs in the address bar you already use, then the real site, with no ads; plus a bookmark keyboard for iPhone. | 50% off | with code **BLACKFRIDAY** at appsbymo.app (regular $14.99); App Store (iPhone keyboard) ~~$6.99~~ $3.49, no code. Nov 9 - Dec 1, 2026 |
+| 💸 | [Soluna](https://appsbymo.app/soluna/?ref=bf-deals) | Any two of ten calendar systems side by side, with world clocks, occasions and a date converter, on Mac, iPhone, iPad and Apple Watch. | 50% off | with code **BLACKFRIDAY** at appsbymo.app (regular $6.99); App Store ~~$9.99~~ $4.99, no code. Nov 9 - Dec 1, 2026 |
+| 💸 | [Chronoid - Automatic Time Tracking](https://www.chronoid.app/pricing) | Track apps, sites, and documents, organize projects, and turn hours into invoices on Mac. | 50% off: Lifetime $149 → $74.50; Personal $99 → $49.50 | **BLACKFRIDAY26**; automatically applied from the pricing page or entered at checkout; Until 2026-12-02 |
 
-⬆️ | [Go to Top](#table-of-contents)
+[⬆️ Back to contents](#table-of-contents)
+
+<a id="video-software"></a>
 
 ## 🎥 Video Software
 
-|  | Name | Description | Discount Code & Terms |
-| -- | ---| ------ | ------ |
-| 💸 | [TranslateMom](https://translatemom.com/?utm_source=mrsbf) | Instantly caption, translate, or dub HD videos in 100+ languages with natural voices. | 70% OFF Annual Pro Plan ($159 vs $528) with code **BLACK** — 2,000 min/mo, 29-language dubbing, GPT-4o workflows, and watermark-free exports. |
-| 💰 | [Recut](https://getrecut.com/?ref=mrsbf) | Quickly edit videos by automatically cutting pauses | **$50 off** one-time purchase (auto-applied) |
-| 💰 | [FaceScreen](https://facescreenapp.com) | Show your face and brand on screen on top of everything else. | 30% OFF (Nov 21 - Dec 2) No code Needed |
-| 💸 | [ScreenSage Pro](https://screensage.pro?ref=mRs) | A screen recording app on maOS that simultaneously captures your screen, webcam, microphone. Create 2D/3D auto zoom with cursor tracking for beautiful demos; smooth A‑roll/B‑roll switching for beautiful vlogs | 53% OFF with code **BFS2025L** |
-| 💸 | [Evelize Teleprompter](https://evelize.com?utm_source=mRs) | Don't memorize your script and create studio quality videos with 4K and HDR from your phone. Record in 1 take instead of 100. Get your content to the next level. | [Get 53% off Premium Lifetime deal](https://evelize.com?utm_source=mRs) for <s>$149</s> $69, (Nov 25 - Dec 6)
-| 💸 | [FilterGrade](https://filtergrade.com) | The visual marketplace for creators. Get discounts up to 60% OFF Video LUTs, Photo Presets, Social Media Templates and more. | **30% OFF ENTIRE CART** with discount code **BFCM2025** from 2025-11-25 to 2025-12-02 |
-| 💰 | [FaceScreen (macOS)](https://facescreenapp.com) | Show your face and brand on top of everything else. | **40% OFF** from Nov 21 to Dec 2. No code needed. |
-| 💸 | [Motionik](https://motionik.com) | A screen recorder for Windows & macOS with a built-in editor for creating engaging product demos & tutorials with auto zoom, cursor effects & more. | **50% OFF** lifetime plan with code **BF50** from 2025-11-21 to 2025-11-30 |
-| 💰 | [TopazLabs](https://www.topazlabs.com/) | Best finishing platform for every image and video you create, shoot and generate | **43% OFF** for Studio and **15% OFF** for single apps. No code needed | 
-| 💰 | [Rendley](https://rendley.com?utm_source=mRs-) | Rendley is an online video editor that brings together all the editing tools you need to create great video content. | 35% OFF annual plan with code **RENDLEY35** from 2025-11-21 to 2025-11-30 |
-| 💰 | [NanoPhoto.AI](https://nanophoto.ai/pricing?utm_source=Black-Friday-Deals) | Making AI Photo and Video editing simple and efficient — Sora 2 Video, Veo3.1, Nano Banana Pro, Video Reverse Prompt Generator, and more. | **30% OFF Forever** on all plans with code **BLACKFRIDAY30** at Stripe checkout (Ends Nov 30, 23:59) |
+| Savings | Name | Description | Discount | Code & Terms |
+| --- | --- | --- | --- | --- |
+| 💸 | [SmoothCapture](https://www.smoothcapture.app/pricing) | Turn screen recordings into app demo videos with auto zoom, smooth cursors, and 3D device models. | 50% off: Lifetime $149 → $74.50; Personal $79 → $39.50 | **BLACKFRIDAY26**; automatically applied from the pricing page or entered at checkout; Until 2026-12-02 |
 
-⬆️ | [Go to Top](#table-of-contents)
+[⬆️ Back to contents](#table-of-contents)
+
+<a id="graphic-software"></a>
 
 ## 🎨 Graphic Software
 
-|  | Name | Description | Discount Code & Terms |
-| -- | ---| ------ | ------ |
-| 💸 | [Sitely 6](https://sitely.app) | Visual + AI Website Builder for macOS | 50% OFF * NO CODE REQUIRED * |
-| 💰 | [Zipic](https://zipic.app) | A Mac image compression tool that optimizes images while preserving quality. Features multiple formats, batch processing, automated workflows, and local processing. | 33% OFF with code **BF2025** (Nov 20 - Dec 2) |
-| 💰 | [FontVisual](https://fontvisual.com) | Font preview tool for crafters and designers. Easily create font preview pages for your personalized products. | 40% OFF on Yearly plan with code **BFCM2025** |
-| 💰 | [Xnapper](https://xnapper.com) | Take screenshots that are beautiful by default. #1 Screenshot Tool for macOS and Windows with new features including GIF recording, cloud storage, and video capture. | 30% OFF Lifetime Premium Plan **BLACKFRIDAY2025** |
-| 💰 | [RapidWeaver Elements](https://realmacsoftware.com/rapidweaver) | A Powerful, Next-Gen Website Builder for Mac. Design and publish modern, responsive websites visually with complete design freedom, no-code required. | Save 45% on first year with code **BLACKFRIDAY45**. Ends December 1st. |
-| 💰 | [RapidWeaver Classic](https://realmacsoftware.com/rapidweaver-classic/) | The Original Easy to Use Web Design Software for Mac. Select a theme, add your content, and publish. No-code required | Save 45% on first year with code **BLACKFRIDAY45**. Ends December 1st. |
-| 💰 | [Squash 3](https://realmacsoftware.com/squash/) | Powerful Batch Photo Editor. Quickly batch convert, and resize images. Apply layered watermarks and filters, rename files, remove or edit private metadata, and so much more. | Save 45% on first year with code **BLACKFRIDAY45**. Ends December 1st. |
-| 💰 | [Animock: 3D Mockup Maker](https://apps.apple.com/app/id6471911398) | Turn screenshots and recordings into stunning 3D mockups and videos. Showcase your content in animated, realistic device frames — perfect for App Store shots, preview videos, social posts, and client presentations. | **20% OFF** on Lifetime PRO |
-| 💸 | [ImageFramer](https://imageframer.net) | Easily add frames, mats and borders to your art (Mac) | **50% OFF** Lifetime | Offer ends on Dec 2th 2025 |
-| 🖥️ | [ScreenSnap Pro](https://www.screensnap.pro/) | Turn ordinary screenshots into stunning visuals in seconds. Add gorgeous backgrounds, annotate with 14 tools, and cloud share instantly (Mac). | **50% OFF** **EZNZQWNW** Lifetime | Offer ends on Dec 31th 2025 |
-| 💸 | [Quickshot Photo Editor](https://quickshot.photo?ref=mRs/) | Powerful AI powered photo editor. Edit photos with words, not tools (iOS) | **50% OFF** Annual | Offer ends on Dec 2nd 2025 |
-| 💸 | [SnapVis](https://www.snapvis.app/) | Transform any screenshot, images into stunning visuals for social media, documentation, product demos, presentations, and more. Add backgrounds, shadows, frames — all in your browser. | 80% OFF with code **BLACKFRIDAY** |
+| Savings | Name | Description | Discount | Code & Terms |
+| --- | --- | --- | --- | --- |
+| 💰 | [Bindrik](https://bindrik.com/en?ref=mrs-bf) | Create Amazon KDP book interiors and covers with calculated bleed, gutter, and spine width, offline on Mac. | 43% off ($69 → $39) | **BLACKFRIDAY2026**; one-time purchase; 2026-11-23 to 2026-11-30 |
+| 💰 | [BirdFrame](https://getbirdframe.com/?utm_source=bf26-mrs) | Batch-crop bird photos at full resolution on Mac, from Apple Photos or a folder. | 33% off ($29.99 → $19.99) | No code needed; one-time Mac App Store unlock; 2026-11-20 to 2026-12-01 |
 
-⬆️ | [Go to Top](#table-of-contents)
+[⬆️ Back to contents](#table-of-contents)
+
+<a id="lifestyle"></a>
 
 ## 🏝️ Lifestyle
 
-|  | Name | Description | Discount Code & Terms |
-| -- | ---| ------ | ------ |
-| 💸 | [Cuts - Hairstyle Try On Men](https://apps.apple.com/app/apple-store/id6753205043) | The easiest way to try instant men’s haircuts and colors with a quick selfie. | **50% OFF** first week with code **BLACKFRIDAY** |
-| 💸 | [Gardenly - AI Garden Design](https://apps.apple.com/app/apple-store/id6747178697) | Transform your garden instantly from one photo with photorealistic garden designs. | **50% OFF** first week with code **BLACKFRIDAY** |
-| 💸 | [BorderPrep](https://borderprep.com) | Arrive stress-free in any country | **50% OFF** product feature site-wide |
-| 💸 | [Heart2Heart – Couples Questions](https://www.couplequestions.com) | Conversation starters to help you get to know each other better and fall in love.  | [**50% OFF** with code **BF2025**](https://apps.apple.com/redeem?ctx=offercodes&id=6501986735&code=BF2025) |
-| 💸 | [Kindest – Relationship Tracker](https://www.kindest.app) | Keep strong relationships with your friends and family. Kindest helps you start and keep track of healthy and fun habits to nurture connections with your loved ones. |  [**50% OFF** with code **BF2025**](https://apps.apple.com/redeem?ctx=offercodes&id=6453754317&code=BF2025) |
-| 💸 | [DriveDex](https://apple.co/3C8HoJX) | Track mileage and expenses for all your vehicles. Available for iOS, iPadOS, and visionOS. | Lifetime 50% off - Auto-Applied |
-| 💰 | [LEDit](https://apple.co/47mMM6W) | Turns your iPhone or iPad into a LED-screen matrix to display messages | **50% OFF** Lifetime Package from Nov.28 to Dec.2 |
-| 💸 | [Digital Photo Frame App](https://www.digitalphotoframeapp.com) | Turn your device into a powerful Smart Photo Frame. For iOS, iPadOS, macOS and tvOS. | **67% OFF** No promocode required |
-| 💰 | [LifePace Habit Streaks Tracker](https://apps.apple.com/us/app/lifepace-habit-streaks-tracker/id6751773159) | Start 2026 the right way with LifePace, the new habit tracker that turns good intentions into lasting results: create routines that fit your life, stay motivated with clear progress, and enjoy a modern Liquid Glass design. Widgets, Siri, Shortcuts and on‑device Apple Intelligence keep you on track every day while your data sync privately via iCloud on iPhone, iPad, Mac, Apple Watch | **40% OFF** Pro Forever only $ 7.99 between Nov 27 - Dec 3 |
-| 💸 | [Airfare Alerts: Price Tracker](https://getairfarealerts.com/) | Get real‑time flight price alerts that match your budget and travel preferences, not generic deals. For iOS and Android. | **90% OFF** forever on Premium Annual plan. Auto-applied in app. |
-| 💸 | [AudioBo: AudioBook Converter](https://apps.apple.com/us/app/audiobo-audiobook-converter/id6754019673) | AudioBo turns messy audio folders into a polished, chaptered M4B — ready for Apple Books and old iPods alike. Unlike MP3, the M4B format is designed specifically for audiobooks. | 50% off (Expires Nov 30) |
-| 💸 | [Travel Route Map](https://apps.apple.com/redeem?ctx=offercodes&id=6504141706&code=BLCKFRDY25) | Animate your travel destinations on the world map. Valid from 13th Nov to 31th Dec| **50% OFF** Lifetime Plan with code **BLCKFRDY25**|
-| 💸 | [Eter: Streaming Internet Radio](https://eter.apparentsoft.com/) | Play internet radio on any Apple device and in CarPlay | **50% OFF** Lifetime | Offer ends on Dec 2th 2025 |
-| 💸 | [Calm My Dog](https://calmmydog.app/) | Ease your dog's separation anxiety with daily exercises that focus on desensitization | **50% OFF** Lifetime | Offer ends on Dec 2th 2025 |
-| 💸 | [Heart2Heart – Couples Questions](https://www.couplequestions.com/) | Build a deeper connection with your partner | [**50% OFF** Annual Subscription](https://apps.apple.com/redeem?ctx=offercodes&id=6501986735&code=BF2025) |
-| 💸 | [Teletable](https://apps.apple.com/us/app/teletable-football-teletext/id6502572402) | Teletable brings live football scores, standings and stats in a retro teletext style | **100% FREE** until Dec 3rd |
-| 💸 | [Momentum](https://apps.apple.com/us/app/photo-habit-tracker-momentum/id6746295673) | Momentum is a habit tracker where you use photos, not checkboxes | **Upto 65% OFF** on Annual plan with code **BLACKFRIDAY** |
+| Savings | Name | Description | Discount | Code & Terms |
+| --- | --- | --- | --- | --- |
 
-⬆️ | [Go to Top](#table-of-contents)
+[⬆️ Back to contents](#table-of-contents)
+
+<a id="social"></a>
 
 ## 🗣️ Social
 
-|  | Name | Description | Discount Code & Terms |
-| -- | ---| ------ | ------ |
-| 💸 | [Mockly](https://getmockly.com/?utm_source=mrsbf) |Create realistic one-on-one and group chat mockups (and videos) for WhatsApp, Messenger, Instagram, iMessage, Telegram, Slack, and more. Ideal for marketing, social media, creators, and filmmakers. | 20% off on weekly subscription, 50% off on lifetime subscription, no code needed |
-| 💸 | [Glass](https://glass.photo/) | Discover a new home for your photography with Glass — the subscription-based, community-driven platform designed by photographers, for photographers. | **50% OFF** first year with code **BLACKFRIDAY25** |
-| 💸 | [Nuelink](https://www.nuelink.com/) | Nuelink is a social media management platform that automates scheduling, publishing, and content workflows across major platforms like Instagram, Twitter/X, LinkedIn, TikTok, and YouTube. It offers powerful features such as bulk scheduling, post recycling, analytics, content automation, integrations with tools like Zapier and n8n, AI-powered caption generation, and team collaboration tools. All designed to simplify content management and scale social media growth efficiently. | **30% off** monthly & Up to **65% off** yearly|
-| 💰 | [SocialBott](https://socialbott.com/) | AI assistant managing your social media using your existing content — no fabricated advice | **20% OFF** first payment, code **JOHNRUSH** (Nov 21 to Dec 7) |
-| 💰 | [OutlierKit](https://outlierkit.com/) | AI Powered YouTube Research tool that helps you find outlier videos, low-competition & high-volume keywords, channel analytics, script analysis. | **30% OFF** on all plans, code **BFCM25** (Nov 17 to Dec 4) |
-| 💰 | [TranscriptBunny](https://www.transcriptbunny.com) | YouTube transcript API - Extract transcripts from any YouTube video with timestamps and text. Fast, reliable API for developers who want to ship fast | Use promo code **BF25** for a **30% discount** on all plans |
-| 📼 | [Yescaptions](https://yescaptions.com/) | Add studio-grade captions to your short videos in seconds | **50% OFF** on Lifetime Deals with code **BFCM2025** |
-| 💸 | [Kindest](https://www.kindest.app/) | Keep strong relationships with your friends and family. Kindest helps you start and keep track of healthy and fun habits to nurture connections with your loved ones. | [**50% OFF**](https://apps.apple.com/redeem?ctx=offercodes&id=6453754317&code=BF2025) |
-| 💸 | [TrendPost](https://trendpost.co) | AI-powered social media automation platform that helps you manage and sync posts across multiple platforms like Twitter and LinkedIn. Schedule content, manage multiple accounts, and enable automatic sharing with AI-generated captions and viral hooks to maximize engagement. | **30% off** monthly & Up to **65% off** yearly — No Coupon Needed | 2025-12-31 |
-| 💸 | [Protego for Reddit](https://apps.apple.com/us/app/protego-for-reddit/id6737959724?mt=12) | Safari Web Extension that filters unwanted content on Reddit. Block posts by keywords and domains, hide ads and promoted content. Works on old and new Reddit across macOS, iOS, iPadOS, and visionOS. | **50% OFF** ($0.99, was $1.99), Nov 27 - Dec 6 |
+| Savings | Name | Description | Discount | Code & Terms |
+| --- | --- | --- | --- | --- |
 
-⬆️ | [Go to Top](#table-of-contents)
+[⬆️ Back to contents](#table-of-contents)
+
+<a id="reference--education"></a>
 
 ## 🎓 Reference & Education
 
-|  | Name | Description | Discount Code & Terms |
-| -- | ---| ------ | ------ |
-| 💸 | [PDF Pals](https://pdfpals.com/?utm_source=mrsbf) | Instantly chat with any PDF on your Mac. Native, fast and respect your privacy. | 51% OFF with code **BFCM25** |
-| 💸 | [Mathy - Math Answer Scanner](https://apps.apple.com/app/apple-store/id6746950449) | Your pocket math tutor that solves and explains equations instantly from text or a photo. | **50% OFF** yearly plan with code **BLACKFRIDAY** |
-| 💸 | [Chemy - Chemistry Answers](https://apps.apple.com/app/apple-store/id6747715456) | Your pocket chemistry tutor that solves and explains chemistry problems instantly from text or a photo. | **50% OFF** yearly plan with code **BLACKFRIDAY** |
-| 💰 | [SpatialRead](https://spatialread.com/?utm_source=mrs) | Quickly understand complex research papers with AI-powered explanations. | **45% OFF** Lifetime plan ($49) |
-| 💸 | [Dictionaries](https://dictionaries.io/?utm_source=mrsbf) | Adds 80+ Wiktionary-based dictionaries directly to your Mac and Kindle, available system-wide (plus Kindle). | 50% OFF with code **BLACKFRIDAY25** |
-| 💸 | [Thoughts - Quotes Manager](https://apps.apple.com/app/thoughts-inspiration-manager/id6444917751) | Remember what inspires you with Thoughts — a central place for all your quotes, thoughts, life lessons, and whatever else you want to remind yourself of. | **50% OFF Lifetime** with code BLACK25 |
-| 💸 | [Nihongo – Japanese Dictionary](https://apps.apple.com/app/nihongo-japanese-dictionary/id881697245) | Modern Japanese dictionary & study tool with fast search, OCR, example sentences, kanji breakdowns, and flashcards. | **50% OFF** Nihongo Pro Lifetime Subscription (no code needed, in-app Black Friday upgrade, ends Dec 2, 2025) |
-| 💸 | [Nihongo Lessons](https://apps.apple.com/app/nihongo-lessons/id1640204242) | Step-by-step Japanese course app based on Japanese Level Up (Jalup), taking you from beginner to advanced with sentence-based SRS. | **50% OFF** Lifetime access (no code needed, in-app Black Friday pricing, ends Dec 2, 2025) |
-| 💸 | [TweetBlink](https://tweetbl.ink) | AI-powered tweet generator that creates optimized, personalized content. Turn ideas into engaging posts that sound like you | **50% OFF Lifetime** with code BLACKFRIDAY2025 |
-| 💸 | [Fix My Japanese](https://fixmyjapanese.com?ref=mRs) | AI powered Japanese grammar checker & teacher. Corrects Japanese mistakes and teaches the reasons for corrections. iOS & Web | **50% OFF** annual (through web) |
+| Savings | Name | Description | Discount | Code & Terms |
+| --- | --- | --- | --- | --- |
 
-⬆️ | [Go to Top](#table-of-contents)
+[⬆️ Back to contents](#table-of-contents)
+
+<a id="books"></a>
 
 ## 📖 Books
 
-|  | Name | Description | Discount Code & Terms |
-| -- | ---| ------ | ------ |
-| 💸 | [The Hacking with Swift Everything Pack](https://twostraws.gumroad.com/l/hws-everything/blackfriday25) | The world's biggest collection of Swift tutorials, for one unbeatable price 🔥 | [50% OFF with link](https://twostraws.gumroad.com/l/hws-everything/blackfriday25)
-| 💸 | [The Swift Power Pack](https://gumroad.com/l/swift-power-pack/blackfriday25) | Everything you need to jumpstart learning Swift and SwiftUI. | [50% OFF with link](https://gumroad.com/l/swift-power-pack/blackfriday25)
-| 💸 | [The Swift Platform Pack](https://gumroad.com/l/swift-platform-pack/blackfriday25) | Learn to build apps for macOS, watchOS, and beyond. | [50% OFF with link](https://gumroad.com/l/swift-platform-pack/blackfriday25)
-| 💸 | [The Swift Plus Pack](https://gumroad.com/l/swift-plus-pack/blackfriday25) | Take your career to the next level by mastering Swift Testing, design patterns, and more. | [50% OFF with link](https://gumroad.com/l/swift-plus-pack/blackfriday25)
-| 💸 | [Everything but the Code](https://gumroad.com/l/everything-but-the-code/blackfriday25) | Learn how the experts design, price, position, and promote apps for maximum success. Code got you started – this gets you *paid*. | [50% OFF with link](https://twostraws.gumroad.com/l/hws-everything/blackfriday25)
-| 💸 | [Indexing Beyond the Basics](https://goodindexes.com/) | Learn to create indexes for your slow queries by following simple principles. | 50% OFF (automatically applied)
+| Savings | Name | Description | Discount | Code & Terms |
+| --- | --- | --- | --- | --- |
 
-⬆️ | [Go to Top](#table-of-contents)
+[⬆️ Back to contents](#table-of-contents)
+
+<a id="courses-and-videos"></a>
 
 ## 👩‍🎓 Courses and Videos
 
-|  | Name | Description | Discount Code & Terms |
-| -- | ---| ------ | ------ |
-| 💸 | [**LabEx**](https://labex.io/learn) | Learn Linux, DevOps & Cybersecurity with Hands-on Labs | [50% OFF for Two Years](https://labex.io/checkout?type=4&coupon=2025BF50) (Coupon: 2025BF50) and [30% OFF for One Year](https://labex.io/checkout?type=2&coupon=2025BF30) (Coupon: 2025BF30) |
-| 💸 | [**DNS for Developers**](https://dnsfordevelopers.com) | A video course about the DNS, domain names, and email deliverability | ~~$149~~ **$49**. Discount automatically applied. |
-| 💸 | [Get Your First Client](https://getyourfirstclient.freelancerpath.com/) | A complete step by step guide to get your first client as a freelancer from scratch.  | 50% off with coupon code **BLACK** |
-| 💰 | [Phlex on Rails](https://beautifulruby.com/phlex#bfd) | Video course about building Rails apps entirely out of UI components with Phlex | Over 20% off coupon applied at checkout |
-| 💰 | [Fragments](https://www.fragments.supply) | Learn creative coding with Three.js shaders | 25% OFF with code **C4H8PG6T** |
-| 💰 | [SecDim Learn](https://learn.secdim.com) | Get 35% OFF for the 1st Year. Valid from 20th Nov to 5th Dec |**APPSECONABUDGET2025** |
-| 💰 | [Fast Track To Senior Engineer](https://maven.com/top-engineer/fast-track-to-senior?promoCode=BF1125) | Become a high-performing software engineer and get promoted in 2026! | **25% off** autoapplied, code `BF1125` |
-| 💸 | [Build Your Own Pub/Sub Protocol (NATS)](https://protocol-zero.pmbanugo.me) | Master Distributed Systems by building a Pub/Sub server from raw TCP/Sockets. A deep-dive course & workshop on building a [NATS-compatible](https://nats.io) server from scratch | **60+% only during Cyberweek** ($49 Course / $129 Live Workshop). Discount is applied automatically from Nov. 27 to Dec. 1 |
-| 💰 | [How To Test Frontend](https://howtotestfrontend.com/) | Learn how to write and maintain tests for your frontend React based app | 25% off with **BLACKFRIDAYDEAL2025** (expires 5th Dec)
-| 💰 | [**pwn.guide**](https://pwn.guide) | Learn cybersecurity from more than 150+ tutorials, ranging from web, hardware, wireless... hacking to forensics, cryptography, defense & **certification training** (for certificates like the [CompTIA Security+ SY0-701](https://pwn.guide/certs/sy0-701) | [20% OFF ALL plans, including **Lifetime**](https://pwn.guide/pricing) (Coupon: `B`)|
-| 💰 | [**pwn.guide**](https://pwn.guide) | Learn hacking from 150+ tutorials, ranging from web, wireless, hardware... hacking to forensics, defense & certitfication training (CompTIA Security+ SY0-701 for example) | [20% OFF ALL Plans, Including **Lifetime**](https://pwn.guide): Coupon: **BLKFRI20** |
-| 💰 | [Point-Free](https://www.pointfree.co) | A video series exploring advanced topics in the Swift programming language, hosted by industry experts. | [30% OFF ALL Plans](https://www.pointfree.co/discounts/black-friday-2025) and [One Year Gifts](https://www.pointfree.co/gifts) |
-| 💸 | [Blender 3D Courses, Polygon Runway](https://polygonrunway.com/) | Courses that finally make Blender click. Learn 3D with clarity and confidence | Black Friday 50% OFF |
+| Savings | Name | Description | Discount | Code & Terms |
+| --- | --- | --- | --- | --- |
 
-⬆️ | [Go to Top](#table-of-contents)
+[⬆️ Back to contents](#table-of-contents)
+
+<a id="business-software"></a>
 
 ## 📈 Business Software
 
-|  | Name | Description | Discount Code & Terms |
-| -- | ---| ------ | ------ |
-| 💰 | [Umami Manager](https://apple.co/40MP50F) | Monitor & Analyze & Manage your Umami Analytics on the go. Available for iOS & iPadOS. | Lifetime 25% off - Auto-Applied |
-| 💰 | [Motherboard](https://trymotherboard.com) | Motherboard brings all your key metrics into one dashboard. Works with any website. Saves you hours every week. Needs zero coding. | BF2K25 (40% off) |
-| 💸 | [Reckord](https://apps.apple.com/us/app/id6744819252) | Reckord helps users to create professional invoices in seconds, manage income and expenses, and track their business performance. It also supports multiple languages and currencies to make invoicing accessible for users around the world. | **70% OFF** Lifetime plan with code **BLACKFRIDAY** |
+| Savings | Name | Description | Discount | Code & Terms |
+| --- | --- | --- | --- | --- |
 
-⬆️ | [Go to Top](#table-of-contents)
+[⬆️ Back to contents](#table-of-contents)
+
+<a id="health--fitness-software"></a>
 
 ## 🏃🏻‍♀️ Health & Fitness Software
 
-|  | Name | Description | Discount Code & Terms |
-| -- | ---| ------ | ------ |
-| 💰 | [Calorific - Nutrition Tracker](https://apps.apple.com/app/apple-store/id6645043253) | Quickly capture your meals and get instant nutritional insights. | **30% OFF** yearly plan with code **BLACKFRIDAY** |
-| 💸 | [GetJacked](https://getjacked.app/download?utm_source=mrsbf) | GetJacked is a science-based hypertrophy coach on your iPhone. No more guesswork, just results. Train smarter with GetJacked. | 75% OFF Lifetime Premium Plan Discount automatically applied in App |
-| 💰 | [Dark Sleep for Apple TV](https://www.darksleep.app) | The #1 free sleep and relaxation app for Apple TV. Dolby Atmos soundscapes, calming videos, meditations, sunrise alarms, and more — all in one app. | 30% OFF lifetime purchase (in-app) | 2025-12-01 |
-| 💰 | [Steps & Beasts - Step Tracker](https://www.stepsandbeasts.app) | Gamified Step Tracker with a fun twist. Reach your goal every day, hatch an egg and collect 200 unique creatures. | 33% OFF Lifetime (in-app) | 2025-11-30 |
-| 💸 | [Everlog](https://apple.co/3pmdUCn) | Full-featured journaling app for iPhone, iPad, Mac and Vision Pro | **40% OFF** Lifetime Package from Nov.28 to Dec.2 |
-| 💰 | [Habit Pixel](https://habitpixel.com/get) | A simple, satisfying habit tracker that helps you stay consistent, build better routines, and actually stick to your goals. Available on iOS and Android. | **40% OFF** Lifetime plan (auto-applied, Nov 20 - Dec 1, 2025) |
-| 💸 | [Migraine Tracker: Auralog](https://apps.apple.com/us/app/auralog-migraine-tracker/id6752360306) | Capture migraines quickly and uncover patterns that matter. | **60% OFF** Annual Package from Nov 24 to Dec 8 |
-| 💸 | [None to Run: Beginner Running Plans](https://apps.apple.com/us/app/none-to-run-beginner-5k-10k/id1491658094) | Achievable Walk/Run training programs for beginner runners. Start running today!| **50% OFF** Annual Plan with code **BLACKFRIDAY**|
-| 💸 | [Walk Mate: Weight Loss](https://apps.apple.com/redeem?ctx=offercodes&id=6739468121&code=BLCKFRDY25) | Daily random walking routes in your location. Valid from 13th Nov to 31th Dec| **50% OFF** Lifetime Plan with code **BLCKFRDY25**|
-| 💸 | [30 Day Workout - QuickFit](https://quickfit.bylancer.com/) | Personalized home workout plans based on your goals. Valid from 23th Nov to 30th Nov| **50% OFF** Lifetime Plan with code **BLCKFRDY25**|
-| 💸 | [Zenitizer - Meditation Timer](https://apps.apple.com/us/app/meditation-timer-zenitizer/id6444767911) | **Clutter-free meditation timer** designed for *unguided* meditation on iPhone and  Watch. Deep integration with Apple Health, Widgets and Shortcuts. Customizable with soothing sounds. | [**50% OFF** Zenitizer+ Yearly](https://apps.apple.com/redeem?ctx=offercodes&id=6444767911&code=BF25) (19.99$ → 9.99$) with code **BF25**, Nov 27 - Dec 5 |
+| Savings | Name | Description | Discount | Code & Terms |
+| --- | --- | --- | --- | --- |
 
-⬆️ | [Go to Top](#table-of-contents)
+[⬆️ Back to contents](#table-of-contents)
+
+<a id="bundles"></a>
 
 ## 🎁 Bundles
 
-|  | Name | Description | Discount Code & Terms |
-| -- | ---| ------ | ------ |
-| 💸 | [New Row Template](https://example.com/?utm_source=mrsbf) |Example description |**BFCM25** |
-| 💸 | [Tailkits UI](https://tailkits.com/ui/) | Modern library of over 200 customizable Tailwind components | **Up to 60% OFF with code BLACKFRIDAY2025** |
-| 💸 | [MGC UI](https://mgcui.framer.website/?utm_source=mrsbf) | Design system and UI Kit for Figma | 30% OFF with code **BF2025** |
-| 💸 | [MGC ICON](https://mgc.mingcute.com/?utm_source=mrsbf) | Carefully crafted icon pack collection featuring over 14,000 high-quality vector icons | 30% OFF with code **BF2025** |
-| 💸 | [Editors' Choice](https://unclutterapp.com/bundle/?coupon=UN-BLACKFRIDAY-2025&s=git) | 12 Mac essentials that earned their spot by being genuinely brilliant. | **77% OFF** the whole pack ($331 → $76) |
+| Savings | Name | Description | Discount | Code & Terms |
+| --- | --- | --- | --- | --- |
 
-⬆️ | [Go to Top](#table-of-contents)
+[⬆️ Back to contents](#table-of-contents)
 
-## 🎶 Creative content
+<a id="creative-content"></a>
 
-|  | Name | Description | Discount Code & Terms |
-| -- | ---| ------ | ------ |
-| 💸 | [New Row Template](https://example.com/?utm_source=mrsbf) |Example description |**BFCM25** |
-| 💰 | [Midjourney Prompts, Video, SREF Codes Library and Guides](https://promptsref.com/?utm_source=bf) | Hand-picked 1,380 sref codes, 5,526 prompts and art Guide to spark your creativity!| **15% OFF** $42/Year -> $36/Year https://buy.stripe.com/dRm3cv8Ksfog1dH6tP3Nm09 |
+## 🎶 Creative Content
 
-⬆️ | [Go to Top](#table-of-contents)
+| Savings | Name | Description | Discount | Code & Terms |
+| --- | --- | --- | --- | --- |
+
+[⬆️ Back to contents](#table-of-contents)
+
+<a id="finance"></a>
 
 ## 🤑 Finance
 
-|  | Name | Description | Discount Code & Terms |
-| -- | ---| ------ | ------ |
-| 💰 | [SubManager](https://submanager.app) | Track your subscriptions in one place on all your Apple devices and get notified whenever a subscription is due for renewal. | 75% off SubManager+ IAP ($1.49, available from Nov 28 to Dec 3) |
-| 💰 | [Capitally](https://www.mycapitally.com?ref=awsm-bfd&discount=BLACKWEEK25) | Wealth tracker for assets, liabilities, and stock options, allowing for deep analysis and control for portfolios of any size | **20% OFF** on all plans, including **5-Year** plan, code: **BLACKWEEK25** |
-| 💰 | [Vexly](https://vexly.app) | Track all your subscriptions in one place. Get reminded 7 days before renewals, set budgets, and avoid surprise charges. No bank connections required - privacy-first design. | 50% OFF Lifetime |
-| 💸 | [Cashculator](https://cashculator.app) | See where your money is going — not just where it went (Mac) | **50% OFF** Lifetime | Offer ends on Dec 2th 2025 |
-| 💸 | [SubCal](https://apps.apple.com/ar/app/subscription-tracker-subcal/id6752016485?l=en-GB) | Manage every subscription in one place with smart reminders and deep link access that keep you in control. | **75% OFF** Lifetime (auto-applied), Nov 22 – Dec 4 |
-| 💸 | [Subscription Day](https://appps.od.ua/subscription-day/) | A small but so useful app for your Menu Bar to keep track of your paid subscriptions and analyze statistics. | **50% OFF** Lifetime PRO, Nov 25 – 30 |
-| 💸 | [Sumio](https://www.sumio.app) | AI-Powered Portfolio & Net Worth Tracker. | [**50% OFF** Annual Subscription](https://apps.apple.com/redeem?ctx=offercodes&id=1560198579&code=BF2025) 
-| 💰 | [Tilla Premium](https://play.google.com/store/apps/details?id=com.pavelrekun.tilla.premium) | Subscriptions tracking on Android, without any ads or subscriptions required  | [50% off lifetime ($2.49, available from Nov 27 to Dec 4)](https://play.google.com/store/apps/details?id=com.pavelrekun.tilla.premium) 
+| Savings | Name | Description | Discount | Code & Terms |
+| --- | --- | --- | --- | --- |
 
-⬆️ | [Go to Top](#table-of-contents)
+[⬆️ Back to contents](#table-of-contents)
+
+<a id="navigation"></a>
 
 ## 🗺️ Navigation
 
-|  | Name | Description | Discount Code & Terms |
-| -- | ---| ------ | ------ |
-| 💸 | [New Row Template](https://example.com/?utm_source=mrsbf) |Example description |**BFCM25** |
-| 💸 | [EV Charge Stations Map](https://apps.apple.com/redeem?ctx=offercodes&id=6466442459&code=BLCKFRDY25) | Long distance EV route planner and charge stations. Valid from 13th Nov to 31th Dec| **50% OFF** Lifetime Plan with code **BLCKFRDY25**|
+| Savings | Name | Description | Discount | Code & Terms |
+| --- | --- | --- | --- | --- |
+| 💸 | [Pinvoy](https://appsbymo.app/pinvoy/?ref=bf-deals) | Opens any shared map link, from Google Maps, Waze, Apple Maps and more, at the exact place in the navigation app you drive with. | 50% off | on the App Store (iPhone) ~~$2.99~~ $1.49, no code. Nov 9 - Dec 1, 2026 |
 
-⬆️ | [Go to Top](#table-of-contents)
+[⬆️ Back to contents](#table-of-contents)
+
+<a id="seo"></a>
 
 ## 🔎 SEO
 
-|  | Name | Description | Discount Code & Terms |
-| -- | ---| ------ | ------ |
-| 💸 | [New Row Template](https://example.com/?utm_source=mrsbf) |Example description |**BFCM25** |
-| 💰 | [SEO Bot](https://seobotai.com/) | Fully autonomous "SEO Robot" with AI agents for Busy Founders | **20% OFF** first payment, code **JOHNRUSH** (Nov 21 to Dec 7) |
-| 💰 | [IndexRusher](https://indexrusher.com/) | A tool that helps get a website indexed by Google faster; boosts searchability & SEO ranking | **20% OFF** first payment, code **JOHNRUSH** (Nov 21 to Dec 7) |
-| 📈 | [GemRank](https://gemrank.co/) | Be the brand AI recommends Track how ChatGPT, Gemini, Claude, and Perplexity talk about your brand, and get weekly visibility reports. | **50% OFF** on Lifetime Deals with code **BFCM2025** |
-| 💰 | [Effortless Backlinks](https://www.effortlessbacklinks.com/) | We submit your product to 100 high-quality directories for you. Increase domain authority and bring steady, qualified traffic without wasting 30+ hours on manual submissions. | **Save up to 50€** with code **EB2025** at checkout (Nov 21 to Dec 7)
-| 📈 | [SnowSEO](https://snowseo.com) | SnowSEO handles the tedious parts of growing your brand organically. It automatically researches keywords, creates content, tracks rankings, and optimizes how you appear in both Google searches and AI responses. | **50% OFF** on all Plan, auto-applied at checkout (Limited Time) |
-| 💰  | [CheckMySEO](https://checkmyseo.io) | Generate SEO‑optimized content and blog posts tailored to your keywords in minutes. | **30% OFF** with code **BF25** |
+| Savings | Name | Description | Discount | Code & Terms |
+| --- | --- | --- | --- | --- |
+| 💸 | [Uprankly Link Builder](https://www.uprankly.com/link-builder) | Automate SEO link prospecting, outreach, reply management, and backlink monitoring. | 72% off all 3-month plans | **BFCM72** |
+| 💸 | [Supacite](https://supacite.com?ref=mrs) | SEO tools for Claude Code and Cursor: keywords, blogs, listings, AI visibility, and competitor tracking. | Lifetime: $299 → $89, then $129 | **CITEBF**; $89 for the first 100 buyers through November 30, then $129 through December 7; Ends 2026-12-07; start not announced |
+| 💸 | [CiteWing](https://citewing.com) | AI backlink outreach agent for search and AI recommendations. | 36% off Pro; 50% off directory submission | Automatically applied; [directory submission service](https://citewing.com/directory-submission-service); 2026-11-01 to 2026-12-31 |
 
-⬆️ | [Go to Top](#table-of-contents)
+[⬆️ Back to contents](#table-of-contents)
+
+<a id="home-automation"></a>
 
 ## 🏡 Home Automation
 
-|  | Name | Description | Discount Code & Terms |
-| -- | ---| ------ | ------ |
-| 💸 | [ChezAI – Home Design](https://apps.apple.com/us/app/id6740142224) | Home Design & Remodel: ChezAI is your AI home designer and planner. Visualize, design, remodel, and transform your space like a pro with cutting-edge AI. |[**50% Off** Premium AI Credits Package](https://apps.apple.com/redeem?ctx=offercodes&id=6740142224&code=BF2025) |
+| Savings | Name | Description | Discount | Code & Terms |
+| --- | --- | --- | --- | --- |
 
-⬆️ | [Go to Top](#table-of-contents)
+[⬆️ Back to contents](#table-of-contents)
+
+<a id="games"></a>
 
 ## 🕹 Games
 
-|  | Name | Description | Discount Code & Terms |
-| -- | ---| ------ | ------ |
-| 💎 | [SecDim Play](https://play.secdim.com) | Get 35% OFF for the 1st Year. Valid from 20th Nov to 5th Dec |**APPSECONABUDGET2025** |
+| Savings | Name | Description | Discount | Code & Terms |
+| --- | --- | --- | --- | --- |
 
-⬆️ | [Go to Top](#table-of-contents)
+[⬆️ Back to contents](#table-of-contents)
