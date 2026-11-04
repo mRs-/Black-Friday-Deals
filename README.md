@@ -49,11 +49,11 @@ Keep each deal on one line with one space around each pipe. Do not align column 
 
 ## 🛠 Development Software
 
-| Savings | Name | Description | Discount | Code & Terms | Valid Dates |
-| --- | --- | --- | --- | --- | --- |
-| 💰 | [Proxyman](https://proxyman.com/) | Capture, inspect, and modify HTTP/HTTPS traffic with a native debugging proxy. | 30% off all plans | **BF2026** | 2026-11-16 to 2026-12-03 |
-| 💰 | [Device MCP](https://devicemcp.ai/) | Mirror and control iPhone and iPad from your Mac, with MCP tools for AI agents. | 30% off all plans | **BF2026**; applies to early-bird prices | 2026-11-16 to 2026-12-03 |
-| 💰 | [TCP Viewer](https://tcpviewer.proxyman.com/) | Capture and inspect TCP/UDP packets in a native macOS app. | 30% off all plans | **BF2026** | 2026-11-16 to 2026-12-03 |
+| Savings | Name | Description | Discount | Code & Terms |
+| --- | --- | --- | --- | --- |
+| 💰 | [Proxyman](https://proxyman.com/) | Capture, inspect, and modify HTTP/HTTPS traffic with a native debugging proxy. | 30% off all plans | **BF2026**; 2026-11-16 to 2026-12-03 |
+| 💰 | [Device MCP](https://devicemcp.ai/) | Mirror and control iPhone and iPad from your Mac, with MCP tools for AI agents. | 30% off all plans | **BF2026**; applies to early-bird prices; 2026-11-16 to 2026-12-03 |
+| 💰 | [TCP Viewer](https://tcpviewer.proxyman.com/) | Capture and inspect TCP/UDP packets in a native macOS app. | 30% off all plans | **BF2026**; 2026-11-16 to 2026-12-03 |
 
 [⬆️ Back to contents](#table-of-contents)
 
@@ -61,9 +61,9 @@ Keep each deal on one line with one space around each pipe. Do not align column 
 
 ## 🤖 AI Tools
 
-| Savings | Name | Description | Discount | Code & Terms | Valid Dates |
-| --- | --- | --- | --- | --- | --- |
-| 💰 | [ScribeToAny](https://scribetoany.com/) | AI audio and video transcription with speaker labels and multilingual translation. | 30% off monthly or $20 off yearly | **FIRST&#95;30&#95;OFF** (monthly); **FIRST&#95;20&#95;OFF** (yearly) | Not announced |
+| Savings | Name | Description | Discount | Code & Terms |
+| --- | --- | --- | --- | --- |
+| 💰 | [ScribeToAny](https://scribetoany.com/) | AI audio and video transcription with speaker labels and multilingual translation. | 30% off monthly or $20 off yearly | **FIRST&#95;30&#95;OFF** (monthly); **FIRST&#95;20&#95;OFF** (yearly) |
 
 [⬆️ Back to contents](#table-of-contents)
 
@@ -71,8 +71,8 @@ Keep each deal on one line with one space around each pipe. Do not align column 
 
 ## 🌈 Marketing Software
 
-| Savings | Name | Description | Discount | Code & Terms | Valid Dates |
-| --- | --- | --- | --- | --- | --- |
+| Savings | Name | Description | Discount | Code & Terms |
+| --- | --- | --- | --- | --- |
 
 [⬆️ Back to contents](#table-of-contents)
 
@@ -80,9 +80,9 @@ Keep each deal on one line with one space around each pipe. Do not align column 
 
 ## 🎩 Security Software
 
-| Savings | Name | Description | Discount | Code & Terms | Valid Dates |
-| --- | --- | --- | --- | --- | --- |
-| 💰 | [TinyShield](https://tinyshield.proxyman.com/) | Monitor app connections and block unwanted apps or domains with a macOS firewall. | 30% off all plans | **BF2026** | 2026-11-16 to 2026-12-03 |
+| Savings | Name | Description | Discount | Code & Terms |
+| --- | --- | --- | --- | --- |
+| 💰 | [TinyShield](https://tinyshield.proxyman.com/) | Monitor app connections and block unwanted apps or domains with a macOS firewall. | 30% off all plans | **BF2026**; 2026-11-16 to 2026-12-03 |
 
 [⬆️ Back to contents](#table-of-contents)
 
@@ -90,8 +90,8 @@ Keep each deal on one line with one space around each pipe. Do not align column 
 
 ## 🎛 Utility Software
 
-| Savings | Name | Description | Discount | Code & Terms | Valid Dates |
-| --- | --- | --- | --- | --- | --- |
+| Savings | Name | Description | Discount | Code & Terms |
+| --- | --- | --- | --- | --- |
 
 [⬆️ Back to contents](#table-of-contents)
 
@@ -99,8 +99,8 @@ Keep each deal on one line with one space around each pipe. Do not align column 
 
 ## 📌 Productivity Software
 
-| Savings | Name | Description | Discount | Code & Terms | Valid Dates |
-| --- | --- | --- | --- | --- | --- |
+| Savings | Name | Description | Discount | Code & Terms |
+| --- | --- | --- | --- | --- |
 
 [⬆️ Back to contents](#table-of-contents)
 
@@ -108,8 +108,8 @@ Keep each deal on one line with one space around each pipe. Do not align column 
 
 ## 🎥 Video Software
 
-| Savings | Name | Description | Discount | Code & Terms | Valid Dates |
-| --- | --- | --- | --- | --- | --- |
+| Savings | Name | Description | Discount | Code & Terms |
+| --- | --- | --- | --- | --- |
 
 [⬆️ Back to contents](#table-of-contents)
 
@@ -117,8 +117,8 @@ Keep each deal on one line with one space around each pipe. Do not align column 
 
 ## 🎨 Graphic Software
 
-| Savings | Name | Description | Discount | Code & Terms | Valid Dates |
-| --- | --- | --- | --- | --- | --- |
+| Savings | Name | Description | Discount | Code & Terms |
+| --- | --- | --- | --- | --- |
 
 [⬆️ Back to contents](#table-of-contents)
 
@@ -126,8 +126,8 @@ Keep each deal on one line with one space around each pipe. Do not align column 
 
 ## 🏝️ Lifestyle
 
-| Savings | Name | Description | Discount | Code & Terms | Valid Dates |
-| --- | --- | --- | --- | --- | --- |
+| Savings | Name | Description | Discount | Code & Terms |
+| --- | --- | --- | --- | --- |
 
 [⬆️ Back to contents](#table-of-contents)
 
@@ -135,8 +135,8 @@ Keep each deal on one line with one space around each pipe. Do not align column 
 
 ## 🗣️ Social
 
-| Savings | Name | Description | Discount | Code & Terms | Valid Dates |
-| --- | --- | --- | --- | --- | --- |
+| Savings | Name | Description | Discount | Code & Terms |
+| --- | --- | --- | --- | --- |
 
 [⬆️ Back to contents](#table-of-contents)
 
@@ -144,8 +144,8 @@ Keep each deal on one line with one space around each pipe. Do not align column 
 
 ## 🎓 Reference & Education
 
-| Savings | Name | Description | Discount | Code & Terms | Valid Dates |
-| --- | --- | --- | --- | --- | --- |
+| Savings | Name | Description | Discount | Code & Terms |
+| --- | --- | --- | --- | --- |
 
 [⬆️ Back to contents](#table-of-contents)
 
@@ -153,8 +153,8 @@ Keep each deal on one line with one space around each pipe. Do not align column 
 
 ## 📖 Books
 
-| Savings | Name | Description | Discount | Code & Terms | Valid Dates |
-| --- | --- | --- | --- | --- | --- |
+| Savings | Name | Description | Discount | Code & Terms |
+| --- | --- | --- | --- | --- |
 
 [⬆️ Back to contents](#table-of-contents)
 
@@ -162,8 +162,8 @@ Keep each deal on one line with one space around each pipe. Do not align column 
 
 ## 👩‍🎓 Courses and Videos
 
-| Savings | Name | Description | Discount | Code & Terms | Valid Dates |
-| --- | --- | --- | --- | --- | --- |
+| Savings | Name | Description | Discount | Code & Terms |
+| --- | --- | --- | --- | --- |
 
 [⬆️ Back to contents](#table-of-contents)
 
@@ -171,8 +171,8 @@ Keep each deal on one line with one space around each pipe. Do not align column 
 
 ## 📈 Business Software
 
-| Savings | Name | Description | Discount | Code & Terms | Valid Dates |
-| --- | --- | --- | --- | --- | --- |
+| Savings | Name | Description | Discount | Code & Terms |
+| --- | --- | --- | --- | --- |
 
 [⬆️ Back to contents](#table-of-contents)
 
@@ -180,8 +180,8 @@ Keep each deal on one line with one space around each pipe. Do not align column 
 
 ## 🏃🏻‍♀️ Health & Fitness Software
 
-| Savings | Name | Description | Discount | Code & Terms | Valid Dates |
-| --- | --- | --- | --- | --- | --- |
+| Savings | Name | Description | Discount | Code & Terms |
+| --- | --- | --- | --- | --- |
 
 [⬆️ Back to contents](#table-of-contents)
 
@@ -189,8 +189,8 @@ Keep each deal on one line with one space around each pipe. Do not align column 
 
 ## 🎁 Bundles
 
-| Savings | Name | Description | Discount | Code & Terms | Valid Dates |
-| --- | --- | --- | --- | --- | --- |
+| Savings | Name | Description | Discount | Code & Terms |
+| --- | --- | --- | --- | --- |
 
 [⬆️ Back to contents](#table-of-contents)
 
@@ -198,8 +198,8 @@ Keep each deal on one line with one space around each pipe. Do not align column 
 
 ## 🎶 Creative Content
 
-| Savings | Name | Description | Discount | Code & Terms | Valid Dates |
-| --- | --- | --- | --- | --- | --- |
+| Savings | Name | Description | Discount | Code & Terms |
+| --- | --- | --- | --- | --- |
 
 [⬆️ Back to contents](#table-of-contents)
 
@@ -207,8 +207,8 @@ Keep each deal on one line with one space around each pipe. Do not align column 
 
 ## 🤑 Finance
 
-| Savings | Name | Description | Discount | Code & Terms | Valid Dates |
-| --- | --- | --- | --- | --- | --- |
+| Savings | Name | Description | Discount | Code & Terms |
+| --- | --- | --- | --- | --- |
 
 [⬆️ Back to contents](#table-of-contents)
 
@@ -216,8 +216,8 @@ Keep each deal on one line with one space around each pipe. Do not align column 
 
 ## 🗺️ Navigation
 
-| Savings | Name | Description | Discount | Code & Terms | Valid Dates |
-| --- | --- | --- | --- | --- | --- |
+| Savings | Name | Description | Discount | Code & Terms |
+| --- | --- | --- | --- | --- |
 
 [⬆️ Back to contents](#table-of-contents)
 
@@ -225,9 +225,9 @@ Keep each deal on one line with one space around each pipe. Do not align column 
 
 ## 🔎 SEO
 
-| Savings | Name | Description | Discount | Code & Terms | Valid Dates |
-| --- | --- | --- | --- | --- | --- |
-| 💸 | [Uprankly Link Builder](https://www.uprankly.com/link-builder) | Automate SEO link prospecting, outreach, reply management, and backlink monitoring. | 72% off all 3-month plans | **BFCM72** | Not announced |
+| Savings | Name | Description | Discount | Code & Terms |
+| --- | --- | --- | --- | --- |
+| 💸 | [Uprankly Link Builder](https://www.uprankly.com/link-builder) | Automate SEO link prospecting, outreach, reply management, and backlink monitoring. | 72% off all 3-month plans | **BFCM72** |
 
 [⬆️ Back to contents](#table-of-contents)
 
@@ -235,8 +235,8 @@ Keep each deal on one line with one space around each pipe. Do not align column 
 
 ## 🏡 Home Automation
 
-| Savings | Name | Description | Discount | Code & Terms | Valid Dates |
-| --- | --- | --- | --- | --- | --- |
+| Savings | Name | Description | Discount | Code & Terms |
+| --- | --- | --- | --- | --- |
 
 [⬆️ Back to contents](#table-of-contents)
 
@@ -244,7 +244,7 @@ Keep each deal on one line with one space around each pipe. Do not align column 
 
 ## 🕹 Games
 
-| Savings | Name | Description | Discount | Code & Terms | Valid Dates |
-| --- | --- | --- | --- | --- | --- |
+| Savings | Name | Description | Discount | Code & Terms |
+| --- | --- | --- | --- | --- |
 
 [⬆️ Back to contents](#table-of-contents)
