@@ -54,6 +54,7 @@ Keep each deal on one line with one space around each pipe. Do not align column 
 | 💰 | [Proxyman](https://proxyman.com/) | Capture, inspect, and modify HTTP/HTTPS traffic with a native debugging proxy. | 30% off all plans | **BF2026**; 2026-11-16 to 2026-12-03 |
 | 💰 | [Device MCP](https://devicemcp.ai/) | Mirror and control iPhone and iPad from your Mac, with MCP tools for AI agents. | 30% off all plans | **BF2026**; applies to early-bird prices; 2026-11-16 to 2026-12-03 |
 | 💰 | [TCP Viewer](https://tcpviewer.proxyman.com/) | Capture and inspect TCP/UDP packets in a native macOS app. | 30% off all plans | **BF2026**; 2026-11-16 to 2026-12-03 |
+| 💸 | [Atelier](https://appsbymo.app/atelier/?ref=bf-deals) | A Mac studio your AI coding sessions work in: every app's tasks, releases, feedback and memory, with a brief each time a session starts. | 50% off | with code **BLACKFRIDAY** at appsbymo.app (regular $19.99). Nov 9 - Dec 1, 2026 |
 
 [⬆️ Back to contents](#table-of-contents)
 
@@ -64,6 +65,8 @@ Keep each deal on one line with one space around each pipe. Do not align column 
 | Savings | Name | Description | Discount | Code & Terms |
 | --- | --- | --- | --- | --- |
 | 💰 | [ScribeToAny](https://scribetoany.com/) | AI audio and video transcription with speaker labels and multilingual translation. | 30% off monthly or $20 off yearly | **FIRST&#95;30&#95;OFF** (monthly); **FIRST&#95;20&#95;OFF** (yearly) |
+| 💸 | [Cue](https://appsbymo.app/cue/?ref=bf-deals) | Menu-bar writing assistant that drafts and proofreads replies inside Messages, Mail, Slack and WhatsApp, and remembers who you write to. | 50% off | with code **BLACKFRIDAY** at appsbymo.app (~~$29~~ $14.50). Nov 9 - Dec 1, 2026 |
+| 💸 | [Mo](https://appsbymo.app/mo/?ref=bf-deals) | A little character on your Mac: ask in your own words, typed or spoken, and it tidies files, plans your day and drafts replies, asking first. | 50% off | with code **BLACKFRIDAY** at appsbymo.app (regular $19.99). Nov 9 - Dec 1, 2026 |
 
 [⬆️ Back to contents](#table-of-contents)
 
@@ -96,6 +99,10 @@ Keep each deal on one line with one space around each pipe. Do not align column 
 | 💸 | [Picmal](https://picmal.app) | Convert, compress, and edit images, video, audio, and PDFs locally on Mac. | 50% off ($29 → $14.50) | **BLACKFRIDAY**; one-time purchase; 2026-11-23 to 2026-11-30 (Pacific time) |
 | 💰 | [SpaceBroom](https://spacebroom.app/en/) | Mac cleaner for junk, large files, duplicates, app removal, and malware checks. | 30% off: yearly €35 → €24.50; lifetime €99 → €69.30 | **BLACKFRIDAY26**; yearly discount applies to the first year; Until 2026-12-01 |
 | 💰 | [NeoTiler](https://getneotiler.com/?utm_source=mRs-Black-Friday-Deals) | Native macOS window manager with shortcuts, snapping, workspaces, and Dock previews. | 30% off Lifetime ($9.99 → $6.99) | **BF30**; automatically applied at checkout; Until 2026-12-01 |
+| 💸 | [Vigil](https://appsbymo.app/vigil/?ref=bf-deals) | Keeps your MacBook awake with the lid closed while Claude Code, Codex, a build or an export runs, then sleeps the moment it's done. | 50% off | with code **BLACKFRIDAY** at appsbymo.app (regular $9.99). Nov 9 - Dec 1, 2026 |
+| 💸 | [Chute](https://appsbymo.app/chute/?ref=bf-deals) | A drop tray for Mac: shake a file while you drag it, then one key zips, resizes, converts, renames, AirDrops or sends it to your other Mac. | 50% off | with code **BLACKFRIDAY** at appsbymo.app (regular $14.99). Nov 9 - Dec 1, 2026 |
+| 💸 | [Emojist](https://appsbymo.app/emojist/?ref=bf-deals) | Type a word anywhere on your Mac and matching emoji appear above the cursor; press a number to swap one in. | 50% off | with code **BLACKFRIDAY** at appsbymo.app (regular $6.99). Nov 9 - Dec 1, 2026 |
+| 💸 | [What Happened](https://appsbymo.app/whathappened/?ref=bf-deals) | Tells you in plain words why your Mac is slow, hot or full, and fixes it with your OK. | 50% off | with code **BLACKFRIDAY** at appsbymo.app (regular $13.99). Nov 9 - Dec 1, 2026 |
 
 [⬆️ Back to contents](#table-of-contents)
 
@@ -109,6 +116,12 @@ Keep each deal on one line with one space around each pipe. Do not align column 
 | 💸 | [Cozy](https://cozyjournal.app) | Private journal for Mac, Windows, and iPhone with entries stored as local files. | 50% off ($49 → $24.50) | **BLACKFRIDAY**; one-time purchase; 2026-11-23 to 2026-11-30 (Pacific time) |
 | 💸 | [Noteline](https://noteline.io/pricing) | Markdown editor for Mac, Windows, and Linux with local files and offline Word/PDF export. | 50% off ($9.99 → $4.99) | Automatically applied at checkout; one-time desktop license; 2026-11-25 to 2026-11-30 |
 | 💰 | [Aevo](https://aevo.so/en) | Task board with tiles and calendar sync for macOS and web. | 30% off yearly Pro; lifetime €199 → €149 | Direct purchase from the website; yearly discount applies to the first year; 2026-11-27 to 2026-11-30 |
+| 💸 | [Margin](https://appsbymo.app/margin/?ref=bf-deals) | Menu-bar day planner: type a plain sentence and it becomes an Apple Reminder or Calendar event on a live day timeline. | 50% off | with code **BLACKFRIDAY** at appsbymo.app (regular $9.99); Mac App Store ~~$9.99~~ $4.99, no code; App Store (iPhone) ~~$5.99~~ $2.99, no code. Nov 9 - Dec 1, 2026 |
+| 💸 | [Scry](https://appsbymo.app/scry/?ref=bf-deals) | Captures, annotates and files screenshots, records your screen, and makes the text in every image on your Mac searchable. | 50% off | with code **BLACKFRIDAY** at appsbymo.app (~~$24~~ $12). Nov 9 - Dec 1, 2026 |
+| 💸 | [Thurayya](https://appsbymo.app/thurayya/?ref=bf-deals) | A Mac launcher that learns your routine: press a key and the apps, folders, files and sites you need next are already there. | 50% off | with code **BLACKFRIDAY** at appsbymo.app (regular $14.99). Nov 9 - Dec 1, 2026 |
+| 💸 | [Wick](https://appsbymo.app/wick/?ref=bf-deals) | Every deadline as a burning wick on your Mac: tasks, loans, subscriptions and renewals counting down where you can see them. | 50% off | with code **BLACKFRIDAY** at appsbymo.app (regular $14.99); Mac App Store ~~$15.99~~ $7.99, no code. Nov 9 - Dec 1, 2026 |
+| 💸 | [Yonder](https://appsbymo.app/yonder/?ref=bf-deals) | Your bookmarks and open tabs in the address bar you already use, then the real site, with no ads; plus a bookmark keyboard for iPhone. | 50% off | with code **BLACKFRIDAY** at appsbymo.app (regular $14.99); App Store (iPhone keyboard) ~~$6.99~~ $3.49, no code. Nov 9 - Dec 1, 2026 |
+| 💸 | [Soluna](https://appsbymo.app/soluna/?ref=bf-deals) | Any two of ten calendar systems side by side, with world clocks, occasions and a date converter, on Mac, iPhone, iPad and Apple Watch. | 50% off | with code **BLACKFRIDAY** at appsbymo.app (regular $6.99); App Store ~~$9.99~~ $4.99, no code. Nov 9 - Dec 1, 2026 |
 
 [⬆️ Back to contents](#table-of-contents)
 
@@ -228,6 +241,7 @@ Keep each deal on one line with one space around each pipe. Do not align column 
 
 | Savings | Name | Description | Discount | Code & Terms |
 | --- | --- | --- | --- | --- |
+| 💸 | [Pinvoy](https://appsbymo.app/pinvoy/?ref=bf-deals) | Opens any shared map link, from Google Maps, Waze, Apple Maps and more, at the exact place in the navigation app you drive with. | 50% off | on the App Store (iPhone) ~~$2.99~~ $1.49, no code. Nov 9 - Dec 1, 2026 |
 
 [⬆️ Back to contents](#table-of-contents)
 
