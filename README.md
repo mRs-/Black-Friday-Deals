@@ -118,6 +118,10 @@ Keep each deal on one line with one space around each pipe. Do not align column 
 | 💰 | [MacPlus Software, other apps](https://noteifyapp.com/apps/) | Command-Tab Plus 2, Stage View, Tab Finder 2, MultiDock 2, Classic Commander, Tree Outliner, and ContextClip. | 30% off | **MACPLUSBLACKFRIDAY26**; 2026-11-01 to 2026-11-30 |
 | 💸 | [DockMagic](https://dockmagic.app/?ref=mRs-Black-Friday-Deals#dm-pricing) | Widget Dock for macOS with calendars, clocks, system stats, and everyday controls. | Up to 50% off: 1 Mac $25 → $12.99; 2 Macs $40 → $19.99; 3 Macs $60 → $29.99 | Automatically applied; one-time purchase with lifetime updates; prices in USD; 2026-11-03 to 2026-11-30 |
 | 💰 | [KeyScreen](https://keyscreen.app) | Show keystrokes on screen for tutorials, streams, and demos on Mac. | 30% off ($5.99 → $4.19) | **KEYSCREEN30**; direct website purchase, one-time payment; 2026-11-18 to 2026-12-02 |
+| 💸 | [ExtraDock](https://extradock.app) | Create floating docks anywhere on any Mac screen. | 50% off all Lifetime licenses | **BLACK2026FRIDAY50**; automatically applied on the website; 2026-11-12 to 2026-12-01 |
+| 💸 | [DockFlow](https://dockflowapp.io) | Save and switch between macOS Dock presets. | 50% off all Lifetime licenses | **BLACK2026FRIDAY50**; automatically applied on the website; 2026-11-12 to 2026-12-01 |
+| 💸 | [CoolDock](https://cooldock.app) | Second Dock with live widgets for music, calendars, weather, tasks, and system stats. | 50% off all Lifetime licenses | **BLACK2026FRIDAY50**; automatically applied on the website; 2026-11-12 to 2026-12-01 |
+| 💸 | [ExtraBar](https://extrabar.app) | Customize the Mac menu bar with shortcuts, quick actions, and deep links. | 50% off all Lifetime licenses | **BLACK2026FRIDAY50**; automatically applied on the website; 2026-11-12 to 2026-12-01 |
 
 [⬆️ Back to contents](#table-of-contents)
 
@@ -139,6 +143,7 @@ Keep each deal on one line with one space around each pipe. Do not align column 
 | 💸 | [Soluna](https://appsbymo.app/soluna/?ref=bf-deals) | Any two of ten calendar systems side by side, with world clocks, occasions and a date converter, on Mac, iPhone, iPad and Apple Watch. | 50% off | with code **BLACKFRIDAY** at appsbymo.app (regular $6.99); App Store ~~$9.99~~ $4.99, no code. Nov 9 - Dec 1, 2026 |
 | 💸 | [Chronoid - Automatic Time Tracking](https://www.chronoid.app/pricing) | Track apps, sites, and documents, organize projects, and turn hours into invoices on Mac. | 50% off: Lifetime $149 → $74.50; Personal $99 → $49.50 | **BLACKFRIDAY26**; automatically applied from the pricing page or entered at checkout; Until 2026-12-02 |
 | 💰 | [Presentify](https://presentifyapp.com) | Annotate your screen, highlight clicks, spotlight, and zoom during presentations and calls on Mac. | 30% off ($14 → $9.80) | **PRESENTIFY30**; direct website purchase, one-time payment; 2026-11-18 to 2026-12-02 |
+| 💸 | [Shiori](https://shioriapp.io) | Bookmark manager with tags and folders for Mac, web, and Chrome. | 50% off all Lifetime licenses | **BLACK2026FRIDAY50**; automatically applied on the website; 2026-11-12 to 2026-12-01 |
 
 [⬆️ Back to contents](#table-of-contents)
 
