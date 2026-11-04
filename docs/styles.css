@@ -177,6 +177,11 @@ body {
   color: var(--accent);
 }
 
+.category-empty {
+  color: var(--muted);
+  margin: 0;
+}
+
 .placeholder,
 .empty-state {
   padding: 3rem;
