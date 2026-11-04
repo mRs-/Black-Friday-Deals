@@ -95,6 +95,7 @@ Keep each deal on one line with one space around each pipe. Do not align column 
 | 💰 | [Aurio](https://aurio.dev/) | Remove background noise from your microphone in real time on Mac, on-device with no account. | 25% off ($40 → $30) | **BLACKFRIDAY26**; keep the app with one year of updates; 2026-11-24 to 2026-12-01 |
 | 💸 | [Picmal](https://picmal.app) | Convert, compress, and edit images, video, audio, and PDFs locally on Mac. | 50% off ($29 → $14.50) | **BLACKFRIDAY**; one-time purchase; 2026-11-23 to 2026-11-30 (Pacific time) |
 | 💰 | [SpaceBroom](https://spacebroom.app/en/) | Mac cleaner for junk, large files, duplicates, app removal, and malware checks. | 30% off: yearly €35 → €24.50; lifetime €99 → €69.30 | **BLACKFRIDAY26**; yearly discount applies to the first year; Until 2026-12-01 |
+| 💰 | [NeoTiler](https://getneotiler.com/?utm_source=mRs-Black-Friday-Deals) | Native macOS window manager with shortcuts, snapping, workspaces, and Dock previews. | 30% off Lifetime ($9.99 → $6.99) | **BF30**; automatically applied at checkout; Until 2026-12-01 |
 
 [⬆️ Back to contents](#table-of-contents)
 
