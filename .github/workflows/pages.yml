@@ -16,6 +16,7 @@ concurrency:
 
 env:
   JEKYLL_ENV: production
+  PAGES_REPO_NWO: ${{ github.repository }}
 
 jobs:
   build:
