@@ -79,6 +79,7 @@ Keep each deal on one line with one space around each pipe. Do not align column 
 
 | Savings | Name | Description | Discount | Code & Terms |
 | --- | --- | --- | --- | --- |
+| 💰 | [ZipWP](https://zipwp.com/black-friday/) | AI WordPress website builder from the team behind Astra, with hosting, domain, and email. | Up to 47% off all plans, from $79 | Automatically applied at checkout; 2026-11-05 to 2026-12-07 |
 
 [⬆️ Back to contents](#table-of-contents)
 
