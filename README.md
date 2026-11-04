@@ -106,6 +106,11 @@ Keep each deal on one line with one space around each pipe. Do not align column 
 | 💸 | [Chute](https://appsbymo.app/chute/?ref=bf-deals) | A drop tray for Mac: shake a file while you drag it, then one key zips, resizes, converts, renames, AirDrops or sends it to your other Mac. | 50% off | with code **BLACKFRIDAY** at appsbymo.app (regular $14.99). Nov 9 - Dec 1, 2026 |
 | 💸 | [Emojist](https://appsbymo.app/emojist/?ref=bf-deals) | Type a word anywhere on your Mac and matching emoji appear above the cursor; press a number to swap one in. | 50% off | with code **BLACKFRIDAY** at appsbymo.app (regular $6.99). Nov 9 - Dec 1, 2026 |
 | 💸 | [What Happened](https://appsbymo.app/whathappened/?ref=bf-deals) | Tells you in plain words why your Mac is slow, hot or full, and fixes it with your OK. | 50% off | with code **BLACKFRIDAY** at appsbymo.app (regular $13.99). Nov 9 - Dec 1, 2026 |
+| 💰 | [DockView 2](https://noteifyapp.com/dockview/) | Live window previews for the macOS Dock. | 30% off: $14.99 → $10.49; Lifetime $49.99 → $34.99 | **MACPLUSBLACKFRIDAY26**; 2026-11-01 to 2026-11-30 |
+| 💰 | [ActiveDock 2](https://noteifyapp.com/activedock/) | Dock replacement for macOS. | 30% off: $19.99 → $13.99; Lifetime $59.99 → $41.99 | **MACPLUSBLACKFRIDAY26**; 2026-11-01 to 2026-11-30 |
+| 💰 | [SuperTab 7](https://noteifyapp.com/supertab/) | Apps, windows, and clipboard in one panel. | 30% off: $19.99 → $13.99; Lifetime $49.99 → $34.99 | **MACPLUSBLACKFRIDAY26**; 2026-11-01 to 2026-11-30 |
+| 💰 | [Quick Exposé 3](https://noteifyapp.com/quick-expose/) | Classic Exposé on modern macOS. | 30% off ($39.99 → $27.99) | **MACPLUSBLACKFRIDAY26**; 2026-11-01 to 2026-11-30 |
+| 💰 | [MacPlus Software, other apps](https://noteifyapp.com/apps/) | Command-Tab Plus 2, Stage View, Tab Finder 2, MultiDock 2, Classic Commander, Tree Outliner, and ContextClip. | 30% off | **MACPLUSBLACKFRIDAY26**; 2026-11-01 to 2026-11-30 |
 
 [⬆️ Back to contents](#table-of-contents)
 
