@@ -92,6 +92,7 @@ Keep each deal on one line with one space around each pipe. Do not align column 
 
 | Savings | Name | Description | Discount | Code & Terms |
 | --- | --- | --- | --- | --- |
+| 💰 | [Aurio](https://aurio.dev/) | Remove background noise from your microphone in real time on Mac, on-device with no account. | 25% off ($40 → $30) | **BLACKFRIDAY26**; keep the app with one year of updates; 2026-11-24 to 2026-12-01 |
 
 [⬆️ Back to contents](#table-of-contents)
 
