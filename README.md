@@ -58,6 +58,9 @@ Keep each deal on one line with one space around each pipe. Do not align column 
 | 💸 | [DevUtils](https://devutils.com/?utm_source=mrsbf) | Offline developer toolbox for macOS with Apple Silicon support. | 60% off all plans | **BLACKFRIDAY2026**; 2026-11-02 to 2026-12-30 |
 | 💸 | [ShipAhead](https://shipahe.ad) | Nuxt starter kit for building and launching a SaaS product. | 50% off | Automatically applied; no code needed; 2026-11-01 to 2026-12-31 |
 | 💰 | [Layerwise](https://layerwise.app/pricing) | Desktop AI app builder with local source files, previews, and publishing for Mac, Windows, and Linux. | 20% off all plans for 12 months | **BLACKFRIDAY2026**; monthly or annual billing; Redeem by 2026-12-02 |
+| 💰 | [Buildkit for Astro](https://astrobuildkit.com) | Astro design system with blocks, backgrounds, and animated visuals for marketing websites. | Up to 47% off | Automatically applied; varies by plan; 2026-11-23 to 2026-12-01 |
+| 💰 | [CodedVisuals](https://codedvisuals.com) | Visual and illustration components for React and shadcn/ui, with AI agent skills. | Up to 40% off | Automatically applied; varies by plan; 2026-11-23 to 2026-12-01 |
+| 💸 | [Tailkit](https://tailkit.com) | Tailwind CSS UI components for React, Vue, Laravel, Alpine.js, and HTML, with an MCP server. | Up to 60% off | Automatically applied; varies by plan; 2026-11-23 to 2026-12-01 |
 
 [⬆️ Back to contents](#table-of-contents)
 
