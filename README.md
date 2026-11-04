@@ -66,6 +66,7 @@ Please follow the rules below:
 |💸|[Presentify](https://presentifyapp.com)| Draw and annotate on screen, highlight your cursor and clicks, spotlight, and zoom on macOS | **30% OFF** with code **PRESENTIFY30** ($14 → $9.80), one-time purchase, direct purchase from the website only (Nov 18 - Dec 2)|
 |💸|[FaceScreen](https://facescreen.app)| Floating camera overlay, text overlay, and ring light for recordings and calls on Mac, iPhone, and iPad | **30% OFF** with code **FACESCREEN30** ($5.99 → $4.19), one-time purchase, direct purchase from the website only (Nov 18 - Dec 2)|
 |💸|[KeyScreen](https://keyscreen.app)| Shows the keys you press on screen, for tutorials, streams, and live demos on macOS | **30% OFF** with code **KEYSCREEN30** ($5.99 → $4.19), one-time purchase, direct purchase from the website only (Nov 18 - Dec 2)|
+|💸|[Wins](https://wins.cool/)| Windows-like window management for macOS with Dock previews and keyboard shortcuts. | **40% OFF** all plans with code **BF_26** (Nov 11 – Dec 1, 2026)|
 
 ---
 
