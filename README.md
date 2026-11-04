@@ -107,6 +107,7 @@ Keep each deal on one line with one space around each pipe. Do not align column 
 | 💸 | [SupaSidebar](https://supasidebar.com?r=mrs) | Arc-style sidebar for browser tabs, bookmarks, and Finder files, with fuzzy search. | 50% off Lifetime | **SIDEBARBF50**; one-time purchase; 2026-11-09 to 2026-12-07 |
 | 💸 | [Cozy](https://cozyjournal.app) | Private journal for Mac, Windows, and iPhone with entries stored as local files. | 50% off ($49 → $24.50) | **BLACKFRIDAY**; one-time purchase; 2026-11-23 to 2026-11-30 (Pacific time) |
 | 💸 | [Noteline](https://noteline.io/pricing) | Markdown editor for Mac, Windows, and Linux with local files and offline Word/PDF export. | 50% off ($9.99 → $4.99) | Automatically applied at checkout; one-time desktop license; 2026-11-25 to 2026-11-30 |
+| 💰 | [Aevo](https://aevo.so/en) | Task board with tiles and calendar sync for macOS and web. | 30% off yearly Pro; lifetime €199 → €149 | Direct purchase from the website; yearly discount applies to the first year; 2026-11-27 to 2026-11-30 |
 
 [⬆️ Back to contents](#table-of-contents)
 
