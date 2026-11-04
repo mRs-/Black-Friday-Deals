@@ -101,6 +101,7 @@ Keep each deal on one line with one space around each pipe. Do not align column 
 
 | Savings | Name | Description | Discount | Code & Terms |
 | --- | --- | --- | --- | --- |
+| 💸 | [SupaSidebar](https://supasidebar.com?r=mrs) | Arc-style sidebar for browser tabs, bookmarks, and Finder files, with fuzzy search. | 50% off Lifetime | **SIDEBARBF50**; one-time purchase; 2026-11-09 to 2026-12-07 |
 
 [⬆️ Back to contents](#table-of-contents)
 
