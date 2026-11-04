@@ -114,6 +114,7 @@ Keep each deal on one line with one space around each pipe. Do not align column 
 | 💰 | [SuperTab 7](https://noteifyapp.com/supertab/) | Apps, windows, and clipboard in one panel. | 30% off: $19.99 → $13.99; Lifetime $49.99 → $34.99 | **MACPLUSBLACKFRIDAY26**; 2026-11-01 to 2026-11-30 |
 | 💰 | [Quick Exposé 3](https://noteifyapp.com/quick-expose/) | Classic Exposé on modern macOS. | 30% off ($39.99 → $27.99) | **MACPLUSBLACKFRIDAY26**; 2026-11-01 to 2026-11-30 |
 | 💰 | [MacPlus Software, other apps](https://noteifyapp.com/apps/) | Command-Tab Plus 2, Stage View, Tab Finder 2, MultiDock 2, Classic Commander, Tree Outliner, and ContextClip. | 30% off | **MACPLUSBLACKFRIDAY26**; 2026-11-01 to 2026-11-30 |
+| 💸 | [DockMagic](https://dockmagic.app/?ref=mRs-Black-Friday-Deals#dm-pricing) | Widget Dock for macOS with calendars, clocks, system stats, and everyday controls. | Up to 50% off: 1 Mac $25 → $12.99; 2 Macs $40 → $19.99; 3 Macs $60 → $29.99 | Automatically applied; one-time purchase with lifetime updates; prices in USD; 2026-11-03 to 2026-11-30 |
 
 [⬆️ Back to contents](#table-of-contents)
 
