@@ -130,6 +130,7 @@ Keep each deal on one line with one space around each pipe. Do not align column 
 | 💸 | [Wick](https://appsbymo.app/wick/?ref=bf-deals) | Every deadline as a burning wick on your Mac: tasks, loans, subscriptions and renewals counting down where you can see them. | 50% off | with code **BLACKFRIDAY** at appsbymo.app (regular $14.99); Mac App Store ~~$15.99~~ $7.99, no code. Nov 9 - Dec 1, 2026 |
 | 💸 | [Yonder](https://appsbymo.app/yonder/?ref=bf-deals) | Your bookmarks and open tabs in the address bar you already use, then the real site, with no ads; plus a bookmark keyboard for iPhone. | 50% off | with code **BLACKFRIDAY** at appsbymo.app (regular $14.99); App Store (iPhone keyboard) ~~$6.99~~ $3.49, no code. Nov 9 - Dec 1, 2026 |
 | 💸 | [Soluna](https://appsbymo.app/soluna/?ref=bf-deals) | Any two of ten calendar systems side by side, with world clocks, occasions and a date converter, on Mac, iPhone, iPad and Apple Watch. | 50% off | with code **BLACKFRIDAY** at appsbymo.app (regular $6.99); App Store ~~$9.99~~ $4.99, no code. Nov 9 - Dec 1, 2026 |
+| 💸 | [Chronoid - Automatic Time Tracking](https://www.chronoid.app/pricing) | Track apps, sites, and documents, organize projects, and turn hours into invoices on Mac. | 50% off: Lifetime $149 → $74.50; Personal $99 → $49.50 | **BLACKFRIDAY26**; automatically applied from the pricing page or entered at checkout; Until 2026-12-02 |
 
 [⬆️ Back to contents](#table-of-contents)
 
@@ -139,6 +140,7 @@ Keep each deal on one line with one space around each pipe. Do not align column 
 
 | Savings | Name | Description | Discount | Code & Terms |
 | --- | --- | --- | --- | --- |
+| 💸 | [SmoothCapture](https://www.smoothcapture.app/pricing) | Turn screen recordings into app demo videos with auto zoom, smooth cursors, and 3D device models. | 50% off: Lifetime $149 → $74.50; Personal $79 → $39.50 | **BLACKFRIDAY26**; automatically applied from the pricing page or entered at checkout; Until 2026-12-02 |
 
 [⬆️ Back to contents](#table-of-contents)
 
