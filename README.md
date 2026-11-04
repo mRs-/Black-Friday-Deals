@@ -119,6 +119,7 @@ Keep each deal on one line with one space around each pipe. Do not align column 
 
 | Savings | Name | Description | Discount | Code & Terms |
 | --- | --- | --- | --- | --- |
+| 💰 | [Bindrik](https://bindrik.com/en?ref=mrs-bf) | Create Amazon KDP book interiors and covers with calculated bleed, gutter, and spine width, offline on Mac. | 43% off ($69 → $39) | **BLACKFRIDAY2026**; one-time purchase; 2026-11-23 to 2026-11-30 |
 
 [⬆️ Back to contents](#table-of-contents)
 
