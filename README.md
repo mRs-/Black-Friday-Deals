@@ -56,6 +56,7 @@ Keep each deal on one line with one space around each pipe. Do not align column 
 | 💰 | [TCP Viewer](https://tcpviewer.proxyman.com/) | Capture and inspect TCP/UDP packets in a native macOS app. | 30% off all plans | **BF2026**; 2026-11-16 to 2026-12-03 |
 | 💸 | [Atelier](https://appsbymo.app/atelier/?ref=bf-deals) | A Mac studio your AI coding sessions work in: every app's tasks, releases, feedback and memory, with a brief each time a session starts. | 50% off | with code **BLACKFRIDAY** at appsbymo.app (regular $19.99). Nov 9 - Dec 1, 2026 |
 | 💸 | [DevUtils](https://devutils.com/?utm_source=mrsbf) | Offline developer toolbox for macOS with Apple Silicon support. | 60% off all plans | **BLACKFRIDAY2026**; 2026-11-02 to 2026-12-30 |
+| 💸 | [ShipAhead](https://shipahe.ad) | Nuxt starter kit for building and launching a SaaS product. | 50% off | Automatically applied; no code needed; 2026-11-01 to 2026-12-31 |
 
 [⬆️ Back to contents](#table-of-contents)
 
@@ -255,6 +256,7 @@ Keep each deal on one line with one space around each pipe. Do not align column 
 | --- | --- | --- | --- | --- |
 | 💸 | [Uprankly Link Builder](https://www.uprankly.com/link-builder) | Automate SEO link prospecting, outreach, reply management, and backlink monitoring. | 72% off all 3-month plans | **BFCM72** |
 | 💸 | [Supacite](https://supacite.com?ref=mrs) | SEO tools for Claude Code and Cursor: keywords, blogs, listings, AI visibility, and competitor tracking. | Lifetime: $299 → $89, then $129 | **CITEBF**; $89 for the first 100 buyers through November 30, then $129 through December 7; Ends 2026-12-07; start not announced |
+| 💸 | [CiteWing](https://citewing.com) | AI backlink outreach agent for search and AI recommendations. | 36% off Pro; 50% off directory submission | Automatically applied; [directory submission service](https://citewing.com/directory-submission-service); 2026-11-01 to 2026-12-31 |
 
 [⬆️ Back to contents](#table-of-contents)
 
