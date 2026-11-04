@@ -52,7 +52,10 @@ Keep each deal on one line with one space around each pipe. Do not align column 
 | Savings | Name | Description | Discount | Code & Terms | Valid Dates |
 | --- | --- | --- | --- | --- | --- |
 | 💰 | [Proxyman](https://proxyman.com/) | Capture, inspect, and modify HTTP/HTTPS traffic with a native debugging proxy. | 30% off all plans | **BF2026** | 2026-11-16 to 2026-12-03 |
+| 💰 | [Buildkit for Astro](https://astrobuildkit.com) | Astro design system for building marketing websites with your AI agent: core blocks, backgrounds, and animated visuals, guided by skills. | Up to 47% off | Automatically applied | 2026-11-23 to 2026-12-01 |
+| 💰 | [CodedVisuals](https://codedvisuals.com) | Coded visual and illustration components for React and shadcn/ui, plus AI skills agents can build with. | Up to 40% off | Automatically applied | 2026-11-23 to 2026-12-01 |
 | 💰 | [Device MCP](https://devicemcp.ai/) | Mirror and control iPhone and iPad from your Mac, with MCP tools for AI agents. | 30% off all plans | **BF2026**; applies to early-bird prices | 2026-11-16 to 2026-12-03 |
+| 💸 | [Tailkit](https://tailkit.com) | 2,000+ responsive Tailwind CSS UI components for React, Vue.js, Laravel, Alpine.js, and HTML, with an MCP server for AI-powered development. | Up to 60% off | Automatically applied | 2026-11-23 to 2026-12-01 |
 | 💰 | [TCP Viewer](https://tcpviewer.proxyman.com/) | Capture and inspect TCP/UDP packets in a native macOS app. | 30% off all plans | **BF2026** | 2026-11-16 to 2026-12-03 |
 
 [⬆️ Back to contents](#table-of-contents)
