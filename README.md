@@ -71,6 +71,7 @@ Keep each deal on one line with one space around each pipe. Do not align column 
 | 💸 | [Cue](https://appsbymo.app/cue/?ref=bf-deals) | Menu-bar writing assistant that drafts and proofreads replies inside Messages, Mail, Slack and WhatsApp, and remembers who you write to. | 50% off | with code **BLACKFRIDAY** at appsbymo.app (~~$29~~ $14.50). Nov 9 - Dec 1, 2026 |
 | 💸 | [Mo](https://appsbymo.app/mo/?ref=bf-deals) | A little character on your Mac: ask in your own words, typed or spoken, and it tidies files, plans your day and drafts replies, asking first. | 50% off | with code **BLACKFRIDAY** at appsbymo.app (regular $19.99). Nov 9 - Dec 1, 2026 |
 | 💸 | [TypingMind](https://www.typingmind.com/?utm_source=mrsbf) | Chat UI for ChatGPT, Claude, Gemini, and more, with MCP, plugins, agents, and local storage. | 60% off Lifetime Premium | **BLACKFRIDAY2026**; 2026-11-02 to 2026-12-15 |
+| 💸 | [PromptClaw](https://vifly.net/) | Save, organize, and reuse AI prompts locally on Android and share them with your PC. | 50% off Lifetime ($8.99 → $4.49 USD) | No code needed; 2026-11-27 to 2026-12-01 |
 
 [⬆️ Back to contents](#table-of-contents)
 
