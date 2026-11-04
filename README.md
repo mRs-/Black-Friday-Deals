@@ -70,6 +70,11 @@ Please follow the rules below:
 |🤑|[Aba Search and Replace](https://www.abareplace.com)| Regular expression search and replace, convert timestamps, Base64, URL encoding, and decode JWT tokens on Windows | **50% OFF lifetime deal** with code **Sale2026** ($30 → $15, until Dec 31)|
 |🤑|[SyncSignature](https://syncsignature.com/?utm_source=dqhieu&utm_medium=bf-listicle&utm_campaign=bfcm26)| Email signature management for Google Workspace and Microsoft 365 teams (web app) | **50% OFF** Teams plan: 2 years for the price of 1 ($360 → $180 for 24 months, up to 5 users), no code needed (Nov 10 – Dec 4)|
 |💸|[Fluent 2](https://fluentmac.app/?ref=dqhieu)| Not another chat window: AI for macOS that works in any app, plus AI teammates for routine tasks. | **25% OFF** lifetime licenses with code **BF2026** (Nov 1 – Dec 1)|
+|🤑|[ExtraDock](https://extradock.app)| Create unlimited floating docks and place them anywhere on any screen. Native macOS app. | **50% OFF** all Lifetime licenses with code **BLACK2026FRIDAY50** (Nov 12 – Dec 1)|
+|🤑|[DockFlow](https://dockflowapp.io)| Save Dock presets and switch between them instantly. Native macOS app. | **50% OFF** all Lifetime licenses with code **BLACK2026FRIDAY50** (Nov 12 – Dec 1)|
+|🤑|[CoolDock](https://cooldock.app)| A second Dock with live widgets for music, calendar, weather, to-dos and system stats. Native macOS app. | **50% OFF** all Lifetime licenses with code **BLACK2026FRIDAY50** (Nov 12 – Dec 1)|
+|🤑|[ExtraBar](https://extrabar.app)| Customize the menu bar with shortcuts, quick actions and deep links. Native macOS app. | **50% OFF** all Lifetime licenses with code **BLACK2026FRIDAY50** (Nov 12 – Dec 1)|
+|🤑|[Shiori](https://shioriapp.io)| Fast bookmark manager with tags and folders, for Mac, web and Chrome. | **50% OFF** all Lifetime licenses with code **BLACK2026FRIDAY50** (Nov 12 – Dec 1)|
 
 ---
 
