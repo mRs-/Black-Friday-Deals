@@ -196,6 +196,7 @@ Keep each deal on one line with one space around each pipe. Do not align column 
 
 | Savings | Name | Description | Discount | Code & Terms |
 | --- | --- | --- | --- | --- |
+| 💸 | [FindExams](https://findexams.com) | Certification exam simulator with mock exams and performance analytics for PMP, PMI-ACP, PMI-PBA, IIBA-AAC, and ITIL 4. | 75% off selected packages | Automatically applied; limited time |
 
 [⬆️ Back to contents](#table-of-contents)
 
