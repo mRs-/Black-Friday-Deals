@@ -51,8 +51,8 @@ Keep each deal on one line with one space around each pipe. Do not align column 
 
 | Savings | Name | Description | Discount | Code & Terms | Valid Dates |
 | --- | --- | --- | --- | --- | --- |
-| 💰 | [Device MCP](https://devicemcp.ai/) | Mirror and control iPhone and iPad from your Mac, with MCP tools for AI agents. | 30% off all plans | **BF2026**; applies to early-bird prices | 2026-11-16 to 2026-12-03 |
 | 💰 | [Proxyman](https://proxyman.com/) | Capture, inspect, and modify HTTP/HTTPS traffic with a native debugging proxy. | 30% off all plans | **BF2026** | 2026-11-16 to 2026-12-03 |
+| 💰 | [Device MCP](https://devicemcp.ai/) | Mirror and control iPhone and iPad from your Mac, with MCP tools for AI agents. | 30% off all plans | **BF2026**; applies to early-bird prices | 2026-11-16 to 2026-12-03 |
 | 💰 | [TCP Viewer](https://tcpviewer.proxyman.com/) | Capture and inspect TCP/UDP packets in a native macOS app. | 30% off all plans | **BF2026** | 2026-11-16 to 2026-12-03 |
 
 [⬆️ Back to contents](#table-of-contents)
