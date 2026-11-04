@@ -218,6 +218,7 @@ Keep each deal on one line with one space around each pipe. Do not align column 
 
 | Savings | Name | Description | Discount | Code & Terms |
 | --- | --- | --- | --- | --- |
+| 💰 | [Habit Pixel](https://habitpixel.com/get) | Offline habit tracker with pixel check-ins, streak goals, reminders, and widgets for iPhone and Android. | 33% off Lifetime ($29.99 → $19.99 USD) | Automatically applied in the app; local prices vary; 2026-11-19 to 2026-12-02 |
 
 [⬆️ Back to contents](#table-of-contents)
 
