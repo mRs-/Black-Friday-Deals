@@ -93,6 +93,7 @@ Keep each deal on one line with one space around each pipe. Do not align column 
 | Savings | Name | Description | Discount | Code & Terms |
 | --- | --- | --- | --- | --- |
 | 💰 | [Aurio](https://aurio.dev/) | Remove background noise from your microphone in real time on Mac, on-device with no account. | 25% off ($40 → $30) | **BLACKFRIDAY26**; keep the app with one year of updates; 2026-11-24 to 2026-12-01 |
+| 💸 | [Picmal](https://picmal.app) | Convert, compress, and edit images, video, audio, and PDFs locally on Mac. | 50% off ($29 → $14.50) | **BLACKFRIDAY**; one-time purchase; 2026-11-23 to 2026-11-30 (Pacific time) |
 
 [⬆️ Back to contents](#table-of-contents)
 
@@ -103,6 +104,7 @@ Keep each deal on one line with one space around each pipe. Do not align column 
 | Savings | Name | Description | Discount | Code & Terms |
 | --- | --- | --- | --- | --- |
 | 💸 | [SupaSidebar](https://supasidebar.com?r=mrs) | Arc-style sidebar for browser tabs, bookmarks, and Finder files, with fuzzy search. | 50% off Lifetime | **SIDEBARBF50**; one-time purchase; 2026-11-09 to 2026-12-07 |
+| 💸 | [Cozy](https://cozyjournal.app) | Private journal for Mac, Windows, and iPhone with entries stored as local files. | 50% off ($49 → $24.50) | **BLACKFRIDAY**; one-time purchase; 2026-11-23 to 2026-11-30 (Pacific time) |
 
 [⬆️ Back to contents](#table-of-contents)
 
