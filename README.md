@@ -227,6 +227,7 @@ Keep each deal on one line with one space around each pipe. Do not align column 
 
 | Savings | Name | Description | Discount | Code & Terms | Valid Dates |
 | --- | --- | --- | --- | --- | --- |
+| 💸 | [Uprankly Link Builder](https://www.uprankly.com/link-builder) | Automate SEO link prospecting, outreach, reply management, and backlink monitoring. | 72% off all 3-month plans | **BFCM72** | Not announced |
 
 [⬆️ Back to contents](#table-of-contents)
 
