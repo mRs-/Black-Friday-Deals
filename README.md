@@ -55,6 +55,7 @@ Keep each deal on one line with one space around each pipe. Do not align column 
 | 💰 | [Device MCP](https://devicemcp.ai/) | Mirror and control iPhone and iPad from your Mac, with MCP tools for AI agents. | 30% off all plans | **BF2026**; applies to early-bird prices; 2026-11-16 to 2026-12-03 |
 | 💰 | [TCP Viewer](https://tcpviewer.proxyman.com/) | Capture and inspect TCP/UDP packets in a native macOS app. | 30% off all plans | **BF2026**; 2026-11-16 to 2026-12-03 |
 | 💸 | [Atelier](https://appsbymo.app/atelier/?ref=bf-deals) | A Mac studio your AI coding sessions work in: every app's tasks, releases, feedback and memory, with a brief each time a session starts. | 50% off | with code **BLACKFRIDAY** at appsbymo.app (regular $19.99). Nov 9 - Dec 1, 2026 |
+| 💸 | [DevUtils](https://devutils.com/?utm_source=mrsbf) | Offline developer toolbox for macOS with Apple Silicon support. | 60% off all plans | **BLACKFRIDAY2026**; 2026-11-02 to 2026-12-30 |
 
 [⬆️ Back to contents](#table-of-contents)
 
@@ -67,6 +68,7 @@ Keep each deal on one line with one space around each pipe. Do not align column 
 | 💰 | [ScribeToAny](https://scribetoany.com/) | AI audio and video transcription with speaker labels and multilingual translation. | 30% off monthly or $20 off yearly | **FIRST&#95;30&#95;OFF** (monthly); **FIRST&#95;20&#95;OFF** (yearly) |
 | 💸 | [Cue](https://appsbymo.app/cue/?ref=bf-deals) | Menu-bar writing assistant that drafts and proofreads replies inside Messages, Mail, Slack and WhatsApp, and remembers who you write to. | 50% off | with code **BLACKFRIDAY** at appsbymo.app (~~$29~~ $14.50). Nov 9 - Dec 1, 2026 |
 | 💸 | [Mo](https://appsbymo.app/mo/?ref=bf-deals) | A little character on your Mac: ask in your own words, typed or spoken, and it tidies files, plans your day and drafts replies, asking first. | 50% off | with code **BLACKFRIDAY** at appsbymo.app (regular $19.99). Nov 9 - Dec 1, 2026 |
+| 💸 | [TypingMind](https://www.typingmind.com/?utm_source=mrsbf) | Chat UI for ChatGPT, Claude, Gemini, and more, with MCP, plugins, agents, and local storage. | 60% off Lifetime Premium | **BLACKFRIDAY2026**; 2026-11-02 to 2026-12-15 |
 
 [⬆️ Back to contents](#table-of-contents)
 
