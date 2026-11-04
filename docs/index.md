@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "Black Friday Deals 2025"
-description: "README-driven deal explorer with instant search and filters."
+title: "Black Friday Deals 2026"
+description: "Explore community-submitted Black Friday and Cyber Monday deals for 2026."
 ---
 
 <div class="page">
@@ -10,10 +10,10 @@ description: "README-driven deal explorer with instant search and filters."
       <p class="hero__eyebrow">Community-maintained</p>
       <p class="hero__status" id="lastUpdated">Loading deals…</p>
     </div>
-    <h1>💰 Black Friday Deals 2025</h1>
+    <h1>💰 Black Friday Deals 2026</h1>
     <p class="hero__lede">
-      Automatically generated from the repository <code>README.md</code> so it
-      stays in sync with the single source of truth.
+      Discover community-submitted offers for Black Friday and Cyber Monday 2026.
+      Have a deal to share? Choose a category below and contribute on GitHub.
     </p>
     <div class="filters">
       <label class="field">
@@ -55,8 +55,8 @@ description: "README-driven deal explorer with instant search and filters."
 
   <footer class="site-footer">
     <p>
-      Built with GitHub Pages, Actions, and Jekyll. Every push to
-      <code>master</code> rebuilds this site from <code>README.md</code>.
+      Black Friday: November 27, 2026 · Cyber Monday: November 30, 2026.
+      Check each offer for its own dates and terms.
     </p>
     <p>
       Want to contribute a deal? Open a pull request on
