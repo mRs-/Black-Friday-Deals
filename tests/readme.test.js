@@ -68,6 +68,14 @@ test("filtering keeps empty categories when no search query is active", () => {
   assert.equal(filterSections(sections, "", "Development").length, 1);
 });
 
+test("five-column deals need no dates and optional dates in terms remain searchable", () => {
+  const text = "## Tools\n| Savings | Name | Description | Discount | Code & Terms |\n| --- | --- | --- | --- | --- |\n| 💰 | [App](https://example.com) | A tool | 30% off | **CODE** |\n| 💸 | [Other](https://example.org) | Another tool | 50% off | Automatically applied; ends 2026-12-01 |";
+  const sections = parseReadme(text);
+  assert.equal(sections[0].deals.length, 2);
+  assert.ok(sections[0].deals.every((deal) => deal.dates === ""));
+  assert.equal(filterSections(sections, "2026-12-01", "all")[0].deals.length, 1);
+});
+
 test("search includes codes and dates, respects category selection, and can reset", () => {
   const sections = parseReadme(fixture);
   for (const query of [" EXAMPLE2026 ", "2026-11-30", "FIRST YEAR", "50% off"]) {

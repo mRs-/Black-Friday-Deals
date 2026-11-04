@@ -1,4 +1,4 @@
-const tableHeader = ["Savings", "Name", "Description", "Discount", "Code & Terms", "Valid Dates"];
+const tableHeader = ["Savings", "Name", "Description", "Discount", "Code & Terms"];
 
 function formatInline(text) {
   return text
@@ -34,15 +34,16 @@ export function parseReadme(text) {
     }
 
     const parts = line.split("|").slice(1, -1).map((part) => part.trim());
-    if (parts.length !== tableHeader.length) continue;
-    if (parts.every((part, index) => part === tableHeader[index])) {
+    if (parts.length !== tableHeader.length && parts.length !== tableHeader.length + 1) continue;
+    if (tableHeader.every((part, index) => part === parts[index]) &&
+        (parts.length === tableHeader.length || parts.at(-1) === "Valid Dates")) {
       if (!sections.includes(current)) sections.push(current);
       inDealTable = true;
       continue;
     }
     if (!inDealTable || parts.every((part) => /^:?-{3,}:?$/.test(part))) continue;
 
-    const [emoji, name, description, discount, terms, dates] = parts;
+    const [emoji, name, description, discount, terms, dates = ""] = parts;
     if (!name) continue;
     current.deals.push({
       emoji,

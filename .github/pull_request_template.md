@@ -2,13 +2,13 @@
 
 Describe the deal or maintenance change.
 
-## Offer evidence (deal submissions)
+## Offer details (deal submissions)
 
-Link to the official offer and include any eligibility or renewal restrictions.
+State the discount, code (or automatic discount), dates if known, and any restrictions. No sale-page proof is required.
 
-- [ ] I verified that this offer applies to the 2026 season.
-- [ ] I used the six-column format, including redemption terms and dates (or `Not announced`).
-- [ ] I added the deal once, in the most relevant category, in alphabetical order.
+- [ ] This offer is for the 2026 season.
+- [ ] I used the five-column format, including the code or redemption method; dates are optional.
+- [ ] I added the deal once, in the most relevant category, at the bottom of its category.
 - [ ] I changed only the relevant row and did not reformat other entries.
 
 For maintenance changes, replace this checklist with the checks you performed.

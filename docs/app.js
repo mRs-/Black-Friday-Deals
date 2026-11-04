@@ -90,7 +90,7 @@ function renderSections(sections) {
                 <p class="deal__description">${deal.description}</p>
                 <p class="deal__discount">${deal.discount}</p>
                 <p class="deal__description">${deal.terms}</p>
-                <p class="deal__description"><strong>Valid dates:</strong> ${deal.dates}</p>
+                ${deal.dates ? `<p class="deal__description"><strong>Valid dates:</strong> ${deal.dates}</p>` : ""}
               </div>
             `
           )
