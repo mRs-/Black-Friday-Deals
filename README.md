@@ -288,10 +288,11 @@ Once configured, every change merged into `master` rebuilds and publishes the st
 | 💸 | [CSV Table](https://csvtable.com/) | View and edit CSV, JSON data for Professional s| 60% off with code **BLACKFRIDAY2025** |
 | 💸 | [Focusmo](https://www.focusmo.app/?utm_source=mrs-github) | #1 Focus app for ADHD timeblindness. Focusmo helps you log your day as you go — so you stop losing hours to distractions and end every day proud of what you achieved | **50% OFF** Lifetime Updates (Nov 21 - Dec 1). Pay once. (code automatically applied) |
 | 💰 | [Migi](https://migiapp.com/) | Make your prompt templates just once and bring them up instantly with ⌥ Space. Just fill in the blanks, and in a second you'll have a custom prompt ready to go. | $19.99 from $29.99 lifetime |
-| 💸 | [DockFlow](https://dockflow.appitstudio.com) | Save and Switch between macOS Dock presets | 50% off with code **BLACK2025FRIDAY50** Nov 24th - Nov 30th |
-| 💸 | [ExtraDock](https://extradock.app) | Create unlimited floating Docks for macOS - Perfect for multiple monitors setups | 50% off with code **BLACK2025FRIDAY50** Nov 24th - Nov 30th |
-| 💸 | [DockFlow](https://dockflow.appitstudio.com) | Save and Switch between macOS Dock presets | 50% off with code **BLACKXXFRIDAY50** Nov 26th - Dec 1st |
-| 💸 | [ExtraDock](https://extradock.app) | Create unlimited floating Docks for macOS - Perfect for multiple monitors setups | 50% off with code **BLACKXXFRIDAY50** Nov 26th - Dec 1st |
+| 💸 | [ExtraDock](https://extradock.app) | Create unlimited floating docks and place them anywhere on any screen. Native macOS app. | **50% OFF** all Lifetime licenses with code **BLACK2026FRIDAY50**, Nov 12 - Dec 1 |
+| 💸 | [DockFlow](https://dockflowapp.io) | Save Dock presets and switch between them instantly. Native macOS app. | **50% OFF** all Lifetime licenses with code **BLACK2026FRIDAY50**, Nov 12 - Dec 1 |
+| 💸 | [CoolDock](https://cooldock.app) | A second Dock with live widgets for music, calendar, weather, to-dos and system stats. Native macOS app. | **50% OFF** all Lifetime licenses with code **BLACK2026FRIDAY50**, Nov 12 - Dec 1 |
+| 💸 | [ExtraBar](https://extrabar.app) | Customize the menu bar with shortcuts, quick actions and deep links. Native macOS app. | **50% OFF** all Lifetime licenses with code **BLACK2026FRIDAY50**, Nov 12 - Dec 1 |
+| 💸 | [Shiori](https://shioriapp.io) | Fast bookmark manager with tags and folders, for Mac, web and Chrome. | **50% OFF** all Lifetime licenses with code **BLACK2026FRIDAY50**, Nov 12 - Dec 1 |
 | 💰 | [Blark](https://blark.app) | The best way to take monochrome/black & white pictures and videos on the iPhone and iPad. | 30% OFF Yearly Plan with <strong>BLARKFRIDAY</strong>, Nov 24th - Dec 4th |
 | 💰 | [Litur(macOS)](https://litur.app) | A designer’s best-kept secret, a developer's best friend. Litur helps you manage and improve your colors and design workflow. | 30% OFF Lifetime - NO CODE REQUIRED, Nov 24th - Dec 4th |
 | 💸 | [FiveNotes](https://www.apptorium.com/fivenotes) | 5 quickly accessed notes. Floating above other apps and looking great with themes. | 50% OFF Lifetime, Nov 21th - Dec 3th |
