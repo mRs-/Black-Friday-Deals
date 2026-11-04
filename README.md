@@ -115,6 +115,7 @@ Keep each deal on one line with one space around each pipe. Do not align column 
 | 💰 | [Quick Exposé 3](https://noteifyapp.com/quick-expose/) | Classic Exposé on modern macOS. | 30% off ($39.99 → $27.99) | **MACPLUSBLACKFRIDAY26**; 2026-11-01 to 2026-11-30 |
 | 💰 | [MacPlus Software, other apps](https://noteifyapp.com/apps/) | Command-Tab Plus 2, Stage View, Tab Finder 2, MultiDock 2, Classic Commander, Tree Outliner, and ContextClip. | 30% off | **MACPLUSBLACKFRIDAY26**; 2026-11-01 to 2026-11-30 |
 | 💸 | [DockMagic](https://dockmagic.app/?ref=mRs-Black-Friday-Deals#dm-pricing) | Widget Dock for macOS with calendars, clocks, system stats, and everyday controls. | Up to 50% off: 1 Mac $25 → $12.99; 2 Macs $40 → $19.99; 3 Macs $60 → $29.99 | Automatically applied; one-time purchase with lifetime updates; prices in USD; 2026-11-03 to 2026-11-30 |
+| 💰 | [KeyScreen](https://keyscreen.app) | Show keystrokes on screen for tutorials, streams, and demos on Mac. | 30% off ($5.99 → $4.19) | **KEYSCREEN30**; direct website purchase, one-time payment; 2026-11-18 to 2026-12-02 |
 
 [⬆️ Back to contents](#table-of-contents)
 
@@ -135,6 +136,7 @@ Keep each deal on one line with one space around each pipe. Do not align column 
 | 💸 | [Yonder](https://appsbymo.app/yonder/?ref=bf-deals) | Your bookmarks and open tabs in the address bar you already use, then the real site, with no ads; plus a bookmark keyboard for iPhone. | 50% off | with code **BLACKFRIDAY** at appsbymo.app (regular $14.99); App Store (iPhone keyboard) ~~$6.99~~ $3.49, no code. Nov 9 - Dec 1, 2026 |
 | 💸 | [Soluna](https://appsbymo.app/soluna/?ref=bf-deals) | Any two of ten calendar systems side by side, with world clocks, occasions and a date converter, on Mac, iPhone, iPad and Apple Watch. | 50% off | with code **BLACKFRIDAY** at appsbymo.app (regular $6.99); App Store ~~$9.99~~ $4.99, no code. Nov 9 - Dec 1, 2026 |
 | 💸 | [Chronoid - Automatic Time Tracking](https://www.chronoid.app/pricing) | Track apps, sites, and documents, organize projects, and turn hours into invoices on Mac. | 50% off: Lifetime $149 → $74.50; Personal $99 → $49.50 | **BLACKFRIDAY26**; automatically applied from the pricing page or entered at checkout; Until 2026-12-02 |
+| 💰 | [Presentify](https://presentifyapp.com) | Annotate your screen, highlight clicks, spotlight, and zoom during presentations and calls on Mac. | 30% off ($14 → $9.80) | **PRESENTIFY30**; direct website purchase, one-time payment; 2026-11-18 to 2026-12-02 |
 
 [⬆️ Back to contents](#table-of-contents)
 
@@ -145,6 +147,7 @@ Keep each deal on one line with one space around each pipe. Do not align column 
 | Savings | Name | Description | Discount | Code & Terms |
 | --- | --- | --- | --- | --- |
 | 💸 | [SmoothCapture](https://www.smoothcapture.app/pricing) | Turn screen recordings into app demo videos with auto zoom, smooth cursors, and 3D device models. | 50% off: Lifetime $149 → $74.50; Personal $79 → $39.50 | **BLACKFRIDAY26**; automatically applied from the pricing page or entered at checkout; Until 2026-12-02 |
+| 💰 | [FaceScreen](https://facescreen.app) | Floating camera and text overlays with a ring light for recordings and video calls. | 30% off ($5.99 → $4.19) | **FACESCREEN30**; direct website purchase, one-time payment; 2026-11-18 to 2026-12-02 |
 
 [⬆️ Back to contents](#table-of-contents)
 
