@@ -4,10 +4,10 @@ Thank you for sharing a Black Friday or Cyber Monday deal! Submit a pull request
 
 1. Confirm that the offer is valid for the 2026 season. Do not carry over a previous year's coupon without checking it.
 2. Choose the single most relevant existing category. Keep empty categories and their table headers in place.
-3. Add one row in alphabetical order by product name, ignoring case. Check for an existing entry before adding a duplicate.
+3. Add one row at the bottom of the category. Entries are first come, first served; keep existing rows in place and check for duplicates.
 4. Use the six-column format below. Keep the description short; put eligibility, plan restrictions, and renewal terms in **Code & Terms**.
 5. Include the official product or offer URL, the discount, the redemption method, and the offer's dates. Use `YYYY-MM-DD` dates and specify a time zone if there is a precise cutoff. If dates are not announced, write `Not announced` rather than guessing.
-6. Link to the official announcement or other offer evidence in the PR description so maintainers can review it.
+6. State the discount and code (or say it is automatic). No sale-page proof or checkout verification is required.
 
 ## Row template
 
@@ -26,7 +26,7 @@ Use 💰 for discounts below 50%, 💸 for 50% or more, and `—` when a percent
 - Keep each deal on one physical line, with one space around each `|` separator.
 - Do not pad cells to align column widths or run a table formatter over the README.
 - Change only your deal's row. Do not sort whole tables or rewrite neighboring entries.
-- Update your branch from `master` before submitting and after conflicting PRs merge. Alphabetical insertion spreads edits across the table, but nearby additions can still conflict.
+- Update your branch from `master` before submitting and after conflicting PRs merge. Keep your new row below all existing offers when resolving conflicts.
 - Keep examples in this guide, outside the live deal tables.
 
 ## Website changes

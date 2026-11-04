@@ -8,7 +8,7 @@ Contribute current 2026 offers using the category tables below. Previous deals r
 
 ## Contributing
 
-Read [CONTRIBUTING.md](CONTRIBUTING.md) for the row template and submission checklist. Add your deal to the most relevant category in **alphabetical order by product name** (case-insensitive).
+Read [CONTRIBUTING.md](CONTRIBUTING.md) for the row template and submission checklist. Add your deal at the **bottom of the most relevant category**. Entries are first come, first served.
 
 Keep each deal on one line with one space around each pipe. Do not align column widths, reformat other rows, or reorder unrelated entries; small diffs reduce merge conflicts. Concurrent additions near the same row can still conflict, so update your branch from `master` before submitting.
 
