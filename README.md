@@ -68,6 +68,7 @@ Please follow the rules below:
 |💸|[KeyScreen](https://keyscreen.app)| Shows the keys you press on screen, for tutorials, streams, and live demos on macOS | **30% OFF** with code **KEYSCREEN30** ($5.99 → $4.19), one-time purchase, direct purchase from the website only (Nov 18 - Dec 2)|
 |💸|[Wins](https://wins.cool/)| Windows-like window management for macOS with Dock previews and keyboard shortcuts. | **40% OFF** all plans with code **BF_26** (Nov 11 – Dec 1, 2026)|
 |🤑|[Aba Search and Replace](https://www.abareplace.com)| Regular expression search and replace, convert timestamps, Base64, URL encoding, and decode JWT tokens on Windows | **50% OFF lifetime deal** with code **Sale2026** ($30 → $15, until Dec 31)|
+|🤑|[SyncSignature](https://syncsignature.com/?utm_source=dqhieu&utm_medium=bf-listicle&utm_campaign=bfcm26)| Email signature management for Google Workspace and Microsoft 365 teams (web app) | **50% OFF** Teams plan: 2 years for the price of 1 ($360 → $180 for 24 months, up to 5 users), no code needed (Nov 10 – Dec 4)|
 
 ---
 
