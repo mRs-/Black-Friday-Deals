@@ -57,6 +57,7 @@ Keep each deal on one line with one space around each pipe. Do not align column 
 | 💸 | [Atelier](https://appsbymo.app/atelier/?ref=bf-deals) | A Mac studio your AI coding sessions work in: every app's tasks, releases, feedback and memory, with a brief each time a session starts. | 50% off | with code **BLACKFRIDAY** at appsbymo.app (regular $19.99). Nov 9 - Dec 1, 2026 |
 | 💸 | [DevUtils](https://devutils.com/?utm_source=mrsbf) | Offline developer toolbox for macOS with Apple Silicon support. | 60% off all plans | **BLACKFRIDAY2026**; 2026-11-02 to 2026-12-30 |
 | 💸 | [ShipAhead](https://shipahe.ad) | Nuxt starter kit for building and launching a SaaS product. | 50% off | Automatically applied; no code needed; 2026-11-01 to 2026-12-31 |
+| 💰 | [Layerwise](https://layerwise.app/pricing) | Desktop AI app builder with local source files, previews, and publishing for Mac, Windows, and Linux. | 20% off all plans for 12 months | **BLACKFRIDAY2026**; monthly or annual billing; Redeem by 2026-12-02 |
 
 [⬆️ Back to contents](#table-of-contents)
 
