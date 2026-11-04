@@ -63,6 +63,7 @@ Keep each deal on one line with one space around each pipe. Do not align column 
 
 | Savings | Name | Description | Discount | Code & Terms | Valid Dates |
 | --- | --- | --- | --- | --- | --- |
+| 💰 | [ScribeToAny](https://scribetoany.com/) | AI audio and video transcription with speaker labels and multilingual translation. | 30% off monthly or $20 off yearly | **FIRST&#95;30&#95;OFF** (monthly); **FIRST&#95;20&#95;OFF** (yearly) | Not announced |
 
 [⬆️ Back to contents](#table-of-contents)
 
