@@ -283,6 +283,7 @@ Keep each deal on one line with one space around each pipe. Do not align column 
 | 💸 | [Uprankly Link Builder](https://www.uprankly.com/link-builder) | Automate SEO link prospecting, outreach, reply management, and backlink monitoring. | 72% off all 3-month plans | **BFCM72** |
 | 💸 | [Supacite](https://supacite.com?ref=mrs) | SEO tools for Claude Code and Cursor: keywords, blogs, listings, AI visibility, and competitor tracking. | Lifetime: $299 → $89, then $129 | **CITEBF**; $89 for the first 100 buyers through November 30, then $129 through December 7; Ends 2026-12-07; start not announced |
 | 💸 | [CiteWing](https://citewing.com) | AI backlink outreach agent for search and AI recommendations. | 36% off Pro; 50% off directory submission | Automatically applied; [directory submission service](https://citewing.com/directory-submission-service); 2026-11-01 to 2026-12-31 |
+| 💰 | [Outpublished](https://outpublished.com/black-friday) | Shows content and SEO teams every page their competitors have that they don't, and each new one they publish. | 40% off | Automatically applied; all paid plans, monthly or yearly, for as long as you stay subscribed; first 150 accounts; 2026-11-20 to 2026-12-04 |
 
 [⬆️ Back to contents](#table-of-contents)
 
