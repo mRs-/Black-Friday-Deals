@@ -78,6 +78,8 @@ Please follow the rules below:
 |💸|[Clientish](https://clientish.co/black-friday-client-management-portal-deal/?utm_source=github&utm_medium=deal-list&utm_campaign=dqhieu-bfcm)| White-label client portal and CRM for agencies and freelancers, on the web. | **30% OFF** every yearly renewal, not just the first year, with code **BF30** (Nov 1 – Dec 1)|
 |💸|[Outpublished](https://outpublished.com/black-friday)| Shows content and SEO teams every page their competitors have that they don't, and each new one they publish, on the web. | **40% OFF** for as long as you stay subscribed, no code needed, first 150 accounts only (Nov 20 – Dec 4, email list from Nov 18)|
 |🤑|[AI Toolbox](https://www.ai-toolbox.co/pricing)| Chrome extension that adds folders, full-text search, bulk delete and export to ChatGPT, Claude, Gemini and Grok. | **50% OFF** Lifetime and All Access Lifetime with code **BLACKFRIDAY**, one-time payment, not Monthly, Annual or Teams (through Nov 30)|
+|💸|[Todowing](https://todowing.com/?ref=dqhieu)| Chrome extension that upgrades Todoist with focus sessions, time estimates and Apple Calendar on Today | **40% OFF** lifetime unlock with code **BF2026** ($9.99 → $5.99, until Nov 30)|
+|🤑|[Sponsonizer](https://sponsonizer.com/?ref=dqhieu)| Sell newsletter sponsorships on the web: sponsors pick an open slot, fill in their ad and pay with Stripe | **50% OFF** first year of Pro Yearly with code **BF2026** ($99 → $49.50, yearly only, until Nov 30)|
 
 ---
 
