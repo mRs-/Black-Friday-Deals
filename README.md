@@ -125,6 +125,8 @@ Keep each deal on one line with one space around each pipe. Do not align column 
 | 💸 | [DockFlow](https://dockflowapp.io) | Save and switch between macOS Dock presets. | 50% off all Lifetime licenses | **BLACK2026FRIDAY50**; automatically applied on the website; 2026-11-12 to 2026-12-01 |
 | 💸 | [CoolDock](https://cooldock.app) | Second Dock with live widgets for music, calendars, weather, tasks, and system stats. | 50% off all Lifetime licenses | **BLACK2026FRIDAY50**; automatically applied on the website; 2026-11-12 to 2026-12-01 |
 | 💸 | [ExtraBar](https://extrabar.app) | Customize the Mac menu bar with shortcuts, quick actions, and deep links. | 50% off all Lifetime licenses | **BLACK2026FRIDAY50**; automatically applied on the website; 2026-11-12 to 2026-12-01 |
+| 💰 | [MatchCut FCP](https://matchcutfcp.aquaflamingolabs.com/?utm_source=github&utm_campaign=blackfriday26) | Transcribes audio to SRT and automatically aligns ordered media assets to caption timestamps in Final Cut Pro in seconds. | 40% off | Use code `BLACKFRIDAY26` |
+
 
 [⬆️ Back to contents](#table-of-contents)
 
@@ -215,6 +217,7 @@ Keep each deal on one line with one space around each pipe. Do not align column 
 
 | Savings | Name | Description | Discount | Code & Terms |
 | --- | --- | --- | --- | --- |
+| 💸 | [learningtodj.com](https://school.learningtodj.com?utm_source=github&utm_campaign=blackfriday26) | Online house & techno DJ academy featuring comprehensive courses, publications, and books covering mixing fundamentals, theory, equipment, and track curation. | 50% off all courses, publications & books | Use code `BLACKFRIDAY26` |
 
 [⬆️ Back to contents](#table-of-contents)
 
