@@ -159,6 +159,7 @@ Keep each deal on one line with one space around each pipe. Do not align column 
 | --- | --- | --- | --- | --- |
 | 💸 | [SmoothCapture](https://www.smoothcapture.app/pricing) | Turn screen recordings into app demo videos with auto zoom, smooth cursors, and 3D device models. | 50% off: Lifetime $149 → $74.50; Personal $79 → $39.50 | **BLACKFRIDAY26**; automatically applied from the pricing page or entered at checkout; Until 2026-12-02 |
 | 💰 | [FaceScreen](https://facescreen.app) | Floating camera and text overlays with a ring light for recordings and video calls. | 30% off ($5.99 → $4.19) | **FACESCREEN30**; direct website purchase, one-time payment; 2026-11-18 to 2026-12-02 |
+| 💰 | [MatchCut FCP](https://matchcutfcp.aquaflamingolabs.com/?utm_source=github&utm_campaign=blackfriday26) | Transcribes audio to SRT and automatically aligns ordered media assets to caption timestamps in Final Cut Pro in seconds. | 40% off | Use code `BLACKFRIDAY26` |
 
 [⬆️ Back to contents](#table-of-contents)
 
@@ -220,6 +221,7 @@ Keep each deal on one line with one space around each pipe. Do not align column 
 
 | Savings | Name | Description | Discount | Code & Terms |
 | --- | --- | --- | --- | --- |
+| 💸 | [learningtodj.com](https://school.learningtodj.com?utm_source=github&utm_campaign=blackfriday26) | Online house & techno DJ academy featuring comprehensive courses, publications, and books covering mixing fundamentals, theory, equipment, and track curation. | 50% off all courses, publications & books | Use code `BLACKFRIDAY26` |
 
 [⬆️ Back to contents](#table-of-contents)
 
