@@ -76,6 +76,7 @@ Please follow the rules below:
 |🤑|[ExtraBar](https://extrabar.app)| Customize the menu bar with shortcuts, quick actions and deep links. Native macOS app. | **50% OFF** all Lifetime licenses with code **BLACK2026FRIDAY50** (Nov 12 – Dec 1)|
 |🤑|[Shiori](https://shioriapp.io)| Fast bookmark manager with tags and folders, for Mac, web and Chrome. | **50% OFF** all Lifetime licenses with code **BLACK2026FRIDAY50** (Nov 12 – Dec 1)|
 |💸|[Clientish](https://clientish.co/black-friday-client-management-portal-deal/?utm_source=github&utm_medium=deal-list&utm_campaign=dqhieu-bfcm)| White-label client portal and CRM for agencies and freelancers, on the web. | **30% OFF** every yearly renewal, not just the first year, with code **BF30** (Nov 1 – Dec 1)|
+|🤑|[AI Toolbox](https://www.ai-toolbox.co/pricing)| Chrome extension that adds folders, full-text search, bulk delete and export to ChatGPT, Claude, Gemini and Grok. | **50% OFF** Lifetime and All Access Lifetime with code **BLACKFRIDAY**, one-time payment, not Monthly, Annual or Teams (through Nov 30)|
 
 ---
 
