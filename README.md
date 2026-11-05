@@ -61,6 +61,8 @@ Keep each deal on one line with one space around each pipe. Do not align column 
 | 💰 | [Buildkit for Astro](https://astrobuildkit.com) | Astro design system with blocks, backgrounds, and animated visuals for marketing websites. | Up to 47% off | Automatically applied; varies by plan; 2026-11-23 to 2026-12-01 |
 | 💰 | [CodedVisuals](https://codedvisuals.com) | Visual and illustration components for React and shadcn/ui, with AI agent skills. | Up to 40% off | Automatically applied; varies by plan; 2026-11-23 to 2026-12-01 |
 | 💸 | [Tailkit](https://tailkit.com) | Tailwind CSS UI components for React, Vue, Laravel, Alpine.js, and HTML, with an MCP server. | Up to 60% off | Automatically applied; varies by plan; 2026-11-23 to 2026-12-01 |
+| 💰 | [JuxtaCode](https://juxtacode.app/black-friday/) | Compare Git branches and resolve merge conflicts with ease on macOS. | 40% off | **BLACKFRIDAY26**; direct purchase from juxtacode.app only, not the Mac App Store; 2026-11-20 to 2026-12-01 |
+| 💰 | [Poedit](https://poedit.com/purchase/?utm_source=mRs) | Translations editor for app and websites, supports PO, XLIFF, JSON, RESX and other formats, with built-in auto-translation. | 30% off | Code **BF26**; one-time or 1st year; 2026-11-04 to 2026-12-03 |
 
 [⬆️ Back to contents](#table-of-contents)
 
@@ -125,7 +127,7 @@ Keep each deal on one line with one space around each pipe. Do not align column 
 | 💸 | [DockFlow](https://dockflowapp.io) | Save and switch between macOS Dock presets. | 50% off all Lifetime licenses | **BLACK2026FRIDAY50**; automatically applied on the website; 2026-11-12 to 2026-12-01 |
 | 💸 | [CoolDock](https://cooldock.app) | Second Dock with live widgets for music, calendars, weather, tasks, and system stats. | 50% off all Lifetime licenses | **BLACK2026FRIDAY50**; automatically applied on the website; 2026-11-12 to 2026-12-01 |
 | 💸 | [ExtraBar](https://extrabar.app) | Customize the Mac menu bar with shortcuts, quick actions, and deep links. | 50% off all Lifetime licenses | **BLACK2026FRIDAY50**; automatically applied on the website; 2026-11-12 to 2026-12-01 |
-| 📖 | [Dictionaries](https://dictionaries.io/?utm_source=mRs) | Add dictionaries for 80+ languages to Mac’s Look Up, with pronunciation; also for Kindle. | 50% off | **BF26**; 2026-11-04 to 2026-12-03 |
+| 💸 | [Dictionaries](https://dictionaries.io/?utm_source=mRs) | Add dictionaries for 80+ languages to Mac’s Look Up, with pronunciation; also for Kindle. | 50% off | **BF26**; 2026-11-04 to 2026-12-03 |
 
 [⬆️ Back to contents](#table-of-contents)
 
@@ -148,6 +150,7 @@ Keep each deal on one line with one space around each pipe. Do not align column 
 | 💸 | [Chronoid - Automatic Time Tracking](https://www.chronoid.app/pricing) | Track apps, sites, and documents, organize projects, and turn hours into invoices on Mac. | 50% off: Lifetime $149 → $74.50; Personal $99 → $49.50 | **BLACKFRIDAY26**; automatically applied from the pricing page or entered at checkout; Until 2026-12-02 |
 | 💰 | [Presentify](https://presentifyapp.com) | Annotate your screen, highlight clicks, spotlight, and zoom during presentations and calls on Mac. | 30% off ($14 → $9.80) | **PRESENTIFY30**; direct website purchase, one-time payment; 2026-11-18 to 2026-12-02 |
 | 💸 | [Shiori](https://shioriapp.io) | Bookmark manager with tags and folders for Mac, web, and Chrome. | 50% off all Lifetime licenses | **BLACK2026FRIDAY50**; automatically applied on the website; 2026-11-12 to 2026-12-01 |
+| 💰 | [Deckloud](https://deckloud.com/black-friday/?ref=mrs-black-friday-deals) | Native Nextcloud Deck app for iPhone, iPad, Android, Mac, Windows, and Linux, with offline sync to your own server. | 40% off Pro Lifetime ($39 → $22.99) | Automatically applied on the App Store and Google Play; one-time purchase; desktop-only Pro $19 → $11.40 with **BF2026**; subscriptions excluded; 2026-11-27 to 2026-12-02 |
 
 [⬆️ Back to contents](#table-of-contents)
 
@@ -159,6 +162,7 @@ Keep each deal on one line with one space around each pipe. Do not align column 
 | --- | --- | --- | --- | --- |
 | 💸 | [SmoothCapture](https://www.smoothcapture.app/pricing) | Turn screen recordings into app demo videos with auto zoom, smooth cursors, and 3D device models. | 50% off: Lifetime $149 → $74.50; Personal $79 → $39.50 | **BLACKFRIDAY26**; automatically applied from the pricing page or entered at checkout; Until 2026-12-02 |
 | 💰 | [FaceScreen](https://facescreen.app) | Floating camera and text overlays with a ring light for recordings and video calls. | 30% off ($5.99 → $4.19) | **FACESCREEN30**; direct website purchase, one-time payment; 2026-11-18 to 2026-12-02 |
+| 💰 | [MatchCut FCP](https://matchcutfcp.aquaflamingolabs.com/?utm_source=github&utm_campaign=blackfriday26) | Transcribes audio to SRT and automatically aligns ordered media assets to caption timestamps in Final Cut Pro in seconds. | 40% off | Use code `BLACKFRIDAY26` |
 
 [⬆️ Back to contents](#table-of-contents)
 
@@ -170,6 +174,10 @@ Keep each deal on one line with one space around each pipe. Do not align column 
 | --- | --- | --- | --- | --- |
 | 💰 | [Bindrik](https://bindrik.com/en?ref=mrs-bf) | Create Amazon KDP book interiors and covers with calculated bleed, gutter, and spine width, offline on Mac. | 43% off ($69 → $39) | **BLACKFRIDAY2026**; one-time purchase; 2026-11-23 to 2026-11-30 |
 | 💰 | [BirdFrame](https://getbirdframe.com/?utm_source=bf26-mrs) | Batch-crop bird photos at full resolution on Mac, from Apple Photos or a folder. | 33% off ($29.99 → $19.99) | No code needed; one-time Mac App Store unlock; 2026-11-20 to 2026-12-01 |
+| 💰 | [MingCute ICONS](https://mgc.mingcute.com/?utm_source=mrsbf) | Carefully crafted icon pack collection featuring over 27,000 high-quality vector icons | **30% OFF** ($59 → $41) | code **BF2026** ; Nov 15, 2026 - Dec 5, 2026 |
+| 💰 | [MingCute UI](https://ui.mingcute.com/?utm_source=mrsbf) | Design system and UI Kit for Figma | **30% OFF** ($59 → $41) | code **BF2026** ; Nov 15, 2026 - Dec 5, 2026 |
+| 💰 | [Animation Icons](https://www.mingcute.com/animation?utm_source=mrsbf) | 120+ lively and smooth animated icons | **30% OFF** ($25 → $17.5) | code **BF2026** ; Nov 15, 2026 - Dec 5, 2026 |
+| 💰 | [Weather Icons](https://mgcweather.framer.website/?utm_source=mrsbf) | 120 graceful weather icons | **30% OFF** ($25 → $17.5) | code **BF2026** ; Nov 15, 2026 - Dec 5, 2026 |
 
 [⬆️ Back to contents](#table-of-contents)
 
@@ -216,6 +224,7 @@ Keep each deal on one line with one space around each pipe. Do not align column 
 
 | Savings | Name | Description | Discount | Code & Terms |
 | --- | --- | --- | --- | --- |
+| 💸 | [learningtodj.com](https://school.learningtodj.com?utm_source=github&utm_campaign=blackfriday26) | Online house & techno DJ academy featuring comprehensive courses, publications, and books covering mixing fundamentals, theory, equipment, and track curation. | 50% off all courses, publications & books | Use code `BLACKFRIDAY26` |
 
 [⬆️ Back to contents](#table-of-contents)
 
@@ -284,6 +293,7 @@ Keep each deal on one line with one space around each pipe. Do not align column 
 | 💸 | [Uprankly Link Builder](https://www.uprankly.com/link-builder) | Automate SEO link prospecting, outreach, reply management, and backlink monitoring. | 72% off all 3-month plans | **BFCM72** |
 | 💸 | [Supacite](https://supacite.com?ref=mrs) | SEO tools for Claude Code and Cursor: keywords, blogs, listings, AI visibility, and competitor tracking. | Lifetime: $299 → $89, then $129 | **CITEBF**; $89 for the first 100 buyers through November 30, then $129 through December 7; Ends 2026-12-07; start not announced |
 | 💸 | [CiteWing](https://citewing.com) | AI backlink outreach agent for search and AI recommendations. | 36% off Pro; 50% off directory submission | Automatically applied; [directory submission service](https://citewing.com/directory-submission-service); 2026-11-01 to 2026-12-31 |
+| 💰 | [Outpublished](https://outpublished.com/black-friday) | Shows content and SEO teams every page their competitors have that they don't, and each new one they publish. | 40% off | Automatically applied; all paid plans, monthly or yearly, for as long as you stay subscribed; first 150 accounts; 2026-11-20 to 2026-12-04 |
 
 [⬆️ Back to contents](#table-of-contents)
 
