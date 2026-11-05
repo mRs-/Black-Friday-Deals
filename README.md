@@ -169,6 +169,10 @@ Keep each deal on one line with one space around each pipe. Do not align column 
 | --- | --- | --- | --- | --- |
 | 💰 | [Bindrik](https://bindrik.com/en?ref=mrs-bf) | Create Amazon KDP book interiors and covers with calculated bleed, gutter, and spine width, offline on Mac. | 43% off ($69 → $39) | **BLACKFRIDAY2026**; one-time purchase; 2026-11-23 to 2026-11-30 |
 | 💰 | [BirdFrame](https://getbirdframe.com/?utm_source=bf26-mrs) | Batch-crop bird photos at full resolution on Mac, from Apple Photos or a folder. | 33% off ($29.99 → $19.99) | No code needed; one-time Mac App Store unlock; 2026-11-20 to 2026-12-01 |
+| 💰 | [MingCute ICONS](https://mgc.mingcute.com/?utm_source=mrsbf) | Carefully crafted icon pack collection featuring over 27,000 high-quality vector icons | **30% OFF** ($59 → $41) | code **BF2026** ; Nov 15, 2026 - Dec 5, 2026 |
+| 💰 | [MingCute UI](https://ui.mingcute.com/?utm_source=mrsbf) | Design system and UI Kit for Figma | **30% OFF** ($59 → $41) | code **BF2026** ; Nov 15, 2026 - Dec 5, 2026 |
+| 💰 | [Animation Icons](https://www.mingcute.com/animation?utm_source=mrsbf) | 120+ lively and smooth animated icons | **30% OFF** ($25 → $17.5) | code **BF2026** ; Nov 15, 2026 - Dec 5, 2026 |
+| 💰 | [Weather Icons](https://mgcweather.framer.website/?utm_source=mrsbf) | 120 graceful weather icons | **30% OFF** ($25 → $17.5) | code **BF2026** ; Nov 15, 2026 - Dec 5, 2026 |
 
 [⬆️ Back to contents](#table-of-contents)
 
