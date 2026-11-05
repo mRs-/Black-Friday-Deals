@@ -76,6 +76,8 @@ Please follow the rules below:
 |🤑|[ExtraBar](https://extrabar.app)| Customize the menu bar with shortcuts, quick actions and deep links. Native macOS app. | **50% OFF** all Lifetime licenses with code **BLACK2026FRIDAY50** (Nov 12 – Dec 1)|
 |🤑|[Shiori](https://shioriapp.io)| Fast bookmark manager with tags and folders, for Mac, web and Chrome. | **50% OFF** all Lifetime licenses with code **BLACK2026FRIDAY50** (Nov 12 – Dec 1)|
 |💸|[Clientish](https://clientish.co/black-friday-client-management-portal-deal/?utm_source=github&utm_medium=deal-list&utm_campaign=dqhieu-bfcm)| White-label client portal and CRM for agencies and freelancers, on the web. | **30% OFF** every yearly renewal, not just the first year, with code **BF30** (Nov 1 – Dec 1)|
+|💸|[Todowing](https://todowing.com/?ref=dqhieu)| Chrome extension that upgrades Todoist with focus sessions, time estimates and Apple Calendar on Today | **40% OFF** lifetime unlock with code **BF2026** ($9.99 → $5.99, until Nov 30)|
+|🤑|[Sponsonizer](https://sponsonizer.com/?ref=dqhieu)| Sell newsletter sponsorships on the web: sponsors pick an open slot, fill in their ad and pay with Stripe | **50% OFF** first year of Pro Yearly with code **BF2026** ($99 → $49.50, yearly only, until Nov 30)|
 
 ---
 
