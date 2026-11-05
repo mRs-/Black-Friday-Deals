@@ -311,5 +311,6 @@ Keep each deal on one line with one space around each pipe. Do not align column 
 
 | Savings | Name | Description | Discount | Code & Terms |
 | --- | --- | --- | --- | --- |
+| 💸 | [Wavy Road](https://apps.apple.com/dk/app/wavy-road-endless-driving/id6804942333) | Endless driving game for iPhone where you steer the road and dodge obstacles. | Up to 50% off Unlimited Play and vehicles | Automatically applied to in-app purchases. No code needed. November 24–30, 2026. |
 
 [⬆️ Back to contents](#table-of-contents)
