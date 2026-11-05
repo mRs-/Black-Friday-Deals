@@ -61,6 +61,7 @@ Keep each deal on one line with one space around each pipe. Do not align column 
 | 💰 | [Buildkit for Astro](https://astrobuildkit.com) | Astro design system with blocks, backgrounds, and animated visuals for marketing websites. | Up to 47% off | Automatically applied; varies by plan; 2026-11-23 to 2026-12-01 |
 | 💰 | [CodedVisuals](https://codedvisuals.com) | Visual and illustration components for React and shadcn/ui, with AI agent skills. | Up to 40% off | Automatically applied; varies by plan; 2026-11-23 to 2026-12-01 |
 | 💸 | [Tailkit](https://tailkit.com) | Tailwind CSS UI components for React, Vue, Laravel, Alpine.js, and HTML, with an MCP server. | Up to 60% off | Automatically applied; varies by plan; 2026-11-23 to 2026-12-01 |
+| 💰 | [JuxtaCode](https://juxtacode.app/black-friday/) | Compare Git branches and resolve merge conflicts with ease on macOS. | 40% off | **BLACKFRIDAY26**; direct purchase from juxtacode.app only, not the Mac App Store; 2026-11-20 to 2026-12-01 |
 
 [⬆️ Back to contents](#table-of-contents)
 
