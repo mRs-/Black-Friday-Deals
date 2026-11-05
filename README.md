@@ -148,6 +148,7 @@ Keep each deal on one line with one space around each pipe. Do not align column 
 | 💸 | [Chronoid - Automatic Time Tracking](https://www.chronoid.app/pricing) | Track apps, sites, and documents, organize projects, and turn hours into invoices on Mac. | 50% off: Lifetime $149 → $74.50; Personal $99 → $49.50 | **BLACKFRIDAY26**; automatically applied from the pricing page or entered at checkout; Until 2026-12-02 |
 | 💰 | [Presentify](https://presentifyapp.com) | Annotate your screen, highlight clicks, spotlight, and zoom during presentations and calls on Mac. | 30% off ($14 → $9.80) | **PRESENTIFY30**; direct website purchase, one-time payment; 2026-11-18 to 2026-12-02 |
 | 💸 | [Shiori](https://shioriapp.io) | Bookmark manager with tags and folders for Mac, web, and Chrome. | 50% off all Lifetime licenses | **BLACK2026FRIDAY50**; automatically applied on the website; 2026-11-12 to 2026-12-01 |
+| 💰 | [Deckloud](https://deckloud.com/black-friday/?ref=mrs-black-friday-deals) | Native Nextcloud Deck app for iPhone, iPad, Android, Mac, Windows, and Linux, with offline sync to your own server. | 40% off Pro Lifetime ($39 → $22.99) | Automatically applied on the App Store and Google Play; one-time purchase; desktop-only Pro $19 → $11.40 with **BF2026**; subscriptions excluded; 2026-11-27 to 2026-12-02 |
 
 [⬆️ Back to contents](#table-of-contents)
 
