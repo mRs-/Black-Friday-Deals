@@ -78,6 +78,7 @@ Keep each deal on one line with one space around each pipe. Do not align column 
 | 💸 | [TypingMind](https://www.typingmind.com/?utm_source=mrsbf) | Chat UI for ChatGPT, Claude, Gemini, and more, with MCP, plugins, agents, and local storage. | 60% off Lifetime Premium | **BLACKFRIDAY2026**; 2026-11-02 to 2026-12-15 |
 | 💸 | [PromptClaw](https://vifly.net/) | Save, organize, and reuse AI prompts locally on Android and share them with your PC. | 50% off Lifetime ($8.99 → $4.49 USD) | No code needed; 2026-11-27 to 2026-12-01 |
 | 💰 | [Fluent 2](https://fluentmac.app/?ref=mrsbf) | Context-aware AI assistant for Mac apps, with writing tools, automation, and support for hosted or local models. | 25% off lifetime licenses | **BF2026**; one-time purchase; 2026-11-01 to 2026-12-01 |
+| 💸 | [RewriteBar](https://rewritebar.com?ref=mrs) | Menu-bar AI writing assistant for macOS that fixes grammar, adjusts tone, translates, and rewrites text in any app. | 50% off | **BF2026**; Standard lifetime license ~~$29~~ $14.50; 2026-11-02 to 2026-12-03 |
 
 [⬆️ Back to contents](#table-of-contents)
 
