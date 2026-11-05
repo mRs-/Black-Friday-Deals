@@ -80,6 +80,9 @@ Please follow the rules below:
 |🤑|[AI Toolbox](https://www.ai-toolbox.co/pricing)| Chrome extension that adds folders, full-text search, bulk delete and export to ChatGPT, Claude, Gemini and Grok. | **50% OFF** Lifetime and All Access Lifetime with code **BLACKFRIDAY**, one-time payment, not Monthly, Annual or Teams (through Nov 30)|
 |💸|[Todowing](https://todowing.com/?ref=dqhieu)| Chrome extension that upgrades Todoist with focus sessions, time estimates and Apple Calendar on Today | **40% OFF** lifetime unlock with code **BF2026** ($9.99 → $5.99, until Nov 30)|
 |🤑|[Sponsonizer](https://sponsonizer.com/?ref=dqhieu)| Sell newsletter sponsorships on the web: sponsors pick an open slot, fill in their ad and pay with Stripe | **50% OFF** first year of Pro Yearly with code **BF2026** ($99 → $49.50, yearly only, until Nov 30)|
+|🤑|[Tailkit](https://tailkit.com)| 2,000+ responsive Tailwind CSS UI components for React, Vue.js, Laravel, Alpine.js and HTML, with an MCP server | **Up to 60% OFF** lifetime, no code needed, discount auto-applied on site (Nov 23 – Dec 1)|
+|💸|[CodedVisuals](https://codedvisuals.com)| Coded visual and illustration components for React and shadcn/ui, plus AI skills agents can build with | **Up to 40% OFF** lifetime, no code needed, discount auto-applied on site (Nov 23 – Dec 1)|
+|💸|[Buildkit for Astro](https://astrobuildkit.com)| Astro design system for building marketing websites with your AI agent: core blocks, backgrounds and animated visuals | **Up to 47% OFF** lifetime, no code needed, discount auto-applied on site (Nov 23 – Dec 1)|
 
 ---
 
