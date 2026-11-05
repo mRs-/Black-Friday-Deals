@@ -57,7 +57,7 @@ Keep each deal on one line with one space around each pipe. Do not align column 
 | 💸 | [Atelier](https://appsbymo.app/atelier/?ref=bf-deals) | A Mac studio your AI coding sessions work in: every app's tasks, releases, feedback and memory, with a brief each time a session starts. | 50% off | with code **BLACKFRIDAY** at appsbymo.app (regular $19.99). Nov 9 - Dec 1, 2026 |
 | 💸 | [DevUtils](https://devutils.com/?utm_source=mrsbf) | Offline developer toolbox for macOS with Apple Silicon support. | 60% off all plans | **BLACKFRIDAY2026**; 2026-11-02 to 2026-12-30 |
 | 💸 | [ShipAhead](https://shipahe.ad) | Nuxt starter kit for building and launching a SaaS product. | 50% off | Automatically applied; no code needed; 2026-11-01 to 2026-12-31 |
-| 💰 | [Layerwise](https://layerwise.app/pricing) | Desktop AI app builder with local source files, previews, and publishing for Mac, Windows, and Linux. | 20% off all plans for 12 months | **BLACKFRIDAY2026**; monthly or annual billing; Redeem by 2026-12-02 |
+| 💰 | [Layerwise](https://layerwise.app/pricing) | Build and ship full-stack apps with database, login, email and cloud storage built in. Use your existing ChatGPT or Claude subscription for AI coding. | 20% off all plans for 12 months | **BLACKFRIDAY2026**; monthly or annual billing; Redeem by 2026-12-02 |
 | 💰 | [Buildkit for Astro](https://astrobuildkit.com) | Astro design system with blocks, backgrounds, and animated visuals for marketing websites. | Up to 47% off | Automatically applied; varies by plan; 2026-11-23 to 2026-12-01 |
 | 💰 | [CodedVisuals](https://codedvisuals.com) | Visual and illustration components for React and shadcn/ui, with AI agent skills. | Up to 40% off | Automatically applied; varies by plan; 2026-11-23 to 2026-12-01 |
 | 💸 | [Tailkit](https://tailkit.com) | Tailwind CSS UI components for React, Vue, Laravel, Alpine.js, and HTML, with an MCP server. | Up to 60% off | Automatically applied; varies by plan; 2026-11-23 to 2026-12-01 |
@@ -169,6 +169,10 @@ Keep each deal on one line with one space around each pipe. Do not align column 
 | --- | --- | --- | --- | --- |
 | 💰 | [Bindrik](https://bindrik.com/en?ref=mrs-bf) | Create Amazon KDP book interiors and covers with calculated bleed, gutter, and spine width, offline on Mac. | 43% off ($69 → $39) | **BLACKFRIDAY2026**; one-time purchase; 2026-11-23 to 2026-11-30 |
 | 💰 | [BirdFrame](https://getbirdframe.com/?utm_source=bf26-mrs) | Batch-crop bird photos at full resolution on Mac, from Apple Photos or a folder. | 33% off ($29.99 → $19.99) | No code needed; one-time Mac App Store unlock; 2026-11-20 to 2026-12-01 |
+| 💰 | [MingCute ICONS](https://mgc.mingcute.com/?utm_source=mrsbf) | Carefully crafted icon pack collection featuring over 27,000 high-quality vector icons | **30% OFF** ($59 → $41) | code **BF2026** ; Nov 15, 2026 - Dec 5, 2026 |
+| 💰 | [MingCute UI](https://ui.mingcute.com/?utm_source=mrsbf) | Design system and UI Kit for Figma | **30% OFF** ($59 → $41) | code **BF2026** ; Nov 15, 2026 - Dec 5, 2026 |
+| 💰 | [Animation Icons](https://www.mingcute.com/animation?utm_source=mrsbf) | 120+ lively and smooth animated icons | **30% OFF** ($25 → $17.5) | code **BF2026** ; Nov 15, 2026 - Dec 5, 2026 |
+| 💰 | [Weather Icons](https://mgcweather.framer.website/?utm_source=mrsbf) | 120 graceful weather icons | **30% OFF** ($25 → $17.5) | code **BF2026** ; Nov 15, 2026 - Dec 5, 2026 |
 
 [⬆️ Back to contents](#table-of-contents)
 
@@ -243,11 +247,6 @@ Keep each deal on one line with one space around each pipe. Do not align column 
 
 | Savings | Name | Description | Discount | Code & Terms |
 | --- | --- | --- | --- | --- |
-| 💸 | [MingCute ICONS](https://mgc.mingcute.com/?utm_source=mrsbf) | Carefully crafted icon pack collection featuring over 27,000 high-quality vector icons | **30% OFF** ($59 → $41) | code **BF2026** ; Nov 15, 2026 - Dec 5, 2026 |
-| 💸 | [MingCute UI](https://ui.mingcute.com/?utm_source=mrsbf) | Design system and UI Kit for Figma | **30% OFF** ($59 → $41) | code **BF2026** ; Nov 15, 2026 - Dec 5, 2026 |
-| 💸 | [Animation Icons](https://www.mingcute.com/animation?utm_source=mrsbf) | 120+ lively and smooth animated icons | **30% OFF** ($25 → $17.5) | code **BF2026** ; Nov 15, 2026 - Dec 5, 2026 |
-| 💸 | [Weather Icons](https://mgcweather.framer.website/?utm_source=mrsbf) | 120 graceful weather icons | **30% OFF** ($25 → $17.5) | code **BF2026** ; Nov 15, 2026 - Dec 5, 2026 |
-
 
 [⬆️ Back to contents](#table-of-contents)
 
