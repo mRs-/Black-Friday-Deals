@@ -63,6 +63,7 @@ Keep each deal on one line with one space around each pipe. Do not align column 
 | 💸 | [Tailkit](https://tailkit.com) | Tailwind CSS UI components for React, Vue, Laravel, Alpine.js, and HTML, with an MCP server. | Up to 60% off | Automatically applied; varies by plan; 2026-11-23 to 2026-12-01 |
 | 💰 | [JuxtaCode](https://juxtacode.app/black-friday/) | Compare Git branches and resolve merge conflicts with ease on macOS. | 40% off | **BLACKFRIDAY26**; direct purchase from juxtacode.app only, not the Mac App Store; 2026-11-20 to 2026-12-01 |
 | 💰 | [Poedit](https://poedit.com/purchase/?utm_source=mRs) | Translations editor for app and websites, supports PO, XLIFF, JSON, RESX and other formats, with built-in auto-translation. | 30% off | Code **BF26**; one-time or 1st year; 2026-11-04 to 2026-12-03 |
+| 💸 | [Runestone](https://apps.apple.com/us/app/runestone-text-editor/id1548193893) | Plain text editor with syntax highlighting for iPhone, iPad, and Apple Vision Pro. | 50% off Premium ($4.99 USD) | Automatically applied to the one-time in-app purchase. No code needed. November 24–30, 2026. |
 
 [⬆️ Back to contents](#table-of-contents)
 
@@ -78,6 +79,7 @@ Keep each deal on one line with one space around each pipe. Do not align column 
 | 💸 | [TypingMind](https://www.typingmind.com/?utm_source=mrsbf) | Chat UI for ChatGPT, Claude, Gemini, and more, with MCP, plugins, agents, and local storage. | 60% off Lifetime Premium | **BLACKFRIDAY2026**; 2026-11-02 to 2026-12-15 |
 | 💸 | [PromptClaw](https://vifly.net/) | Save, organize, and reuse AI prompts locally on Android and share them with your PC. | 50% off Lifetime ($8.99 → $4.49 USD) | No code needed; 2026-11-27 to 2026-12-01 |
 | 💰 | [Fluent 2](https://fluentmac.app/?ref=mrsbf) | Context-aware AI assistant for Mac apps, with writing tools, automation, and support for hosted or local models. | 25% off lifetime licenses | **BF2026**; one-time purchase; 2026-11-01 to 2026-12-01 |
+| 💸 | [RewriteBar](https://rewritebar.com?ref=mrs) | Menu-bar AI writing assistant for macOS that fixes grammar, adjusts tone, translates, and rewrites text in any app. | 50% off | **BF2026**; Standard lifetime license ~~$29~~ $14.50; 2026-11-02 to 2026-12-03 |
 | 💸 | [Outlier](https://outlier.host/) | Private local AI assistant for Mac (Apple silicon, macOS 15+). | 50% off: $24.50 once through 30 November; $49 from 1 December | No code needed; pay once, runs on your computer; 30-day refund; sale ends end of 30 November 2026, US time |
 
 [⬆️ Back to contents](#table-of-contents)
@@ -315,5 +317,6 @@ Keep each deal on one line with one space around each pipe. Do not align column 
 
 | Savings | Name | Description | Discount | Code & Terms |
 | --- | --- | --- | --- | --- |
+| 💸 | [Wavy Road](https://apps.apple.com/dk/app/wavy-road-endless-driving/id6804942333) | Endless driving game for iPhone where you steer the road and dodge obstacles. | Up to 50% off Unlimited Play and vehicles | Automatically applied to in-app purchases. No code needed. November 24–30, 2026. |
 
 [⬆️ Back to contents](#table-of-contents)
