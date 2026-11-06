@@ -78,6 +78,7 @@ Keep each deal on one line with one space around each pipe. Do not align column 
 | 💸 | [TypingMind](https://www.typingmind.com/?utm_source=mrsbf) | Chat UI for ChatGPT, Claude, Gemini, and more, with MCP, plugins, agents, and local storage. | 60% off Lifetime Premium | **BLACKFRIDAY2026**; 2026-11-02 to 2026-12-15 |
 | 💸 | [PromptClaw](https://vifly.net/) | Save, organize, and reuse AI prompts locally on Android and share them with your PC. | 50% off Lifetime ($8.99 → $4.49 USD) | No code needed; 2026-11-27 to 2026-12-01 |
 | 💰 | [Fluent 2](https://fluentmac.app/?ref=mrsbf) | Context-aware AI assistant for Mac apps, with writing tools, automation, and support for hosted or local models. | 25% off lifetime licenses | **BF2026**; one-time purchase; 2026-11-01 to 2026-12-01 |
+| 💸 | [Outlier](https://outlier.host/) | Private local AI assistant for Mac (Apple silicon, macOS 15+). | 50% off: $24.50 once through 30 November; $49 from 1 December | No code needed; pay once, runs on your computer; 30-day refund; sale ends end of 30 November 2026, US time |
 
 [⬆️ Back to contents](#table-of-contents)
 
@@ -162,6 +163,7 @@ Keep each deal on one line with one space around each pipe. Do not align column 
 | 💸 | [SmoothCapture](https://www.smoothcapture.app/pricing) | Turn screen recordings into app demo videos with auto zoom, smooth cursors, and 3D device models. | 50% off: Lifetime $149 → $74.50; Personal $79 → $39.50 | **BLACKFRIDAY26**; automatically applied from the pricing page or entered at checkout; Until 2026-12-02 |
 | 💰 | [FaceScreen](https://facescreen.app) | Floating camera and text overlays with a ring light for recordings and video calls. | 30% off ($5.99 → $4.19) | **FACESCREEN30**; direct website purchase, one-time payment; 2026-11-18 to 2026-12-02 |
 | 💰 | [MatchCut FCP](https://matchcutfcp.aquaflamingolabs.com/?utm_source=github&utm_campaign=blackfriday26) | Transcribes audio to SRT and automatically aligns ordered media assets to caption timestamps in Final Cut Pro in seconds. | 40% off | Use code `BLACKFRIDAY26` |
+| 💸 | [Crisp](https://crispvideo.app/) | Offline video and photo upscaler and restorer for Mac (Apple silicon, macOS 14+) and Windows 10/11. | 50% off: $14.50 once through 30 November; $29 from 1 December | No code needed; pay once, runs on your computer; free version exports 15 seconds with a small mark; 30-day refund; sale ends end of 30 November 2026, US time |
 
 [⬆️ Back to contents](#table-of-contents)
 
@@ -252,6 +254,7 @@ Keep each deal on one line with one space around each pipe. Do not align column 
 
 | Savings | Name | Description | Discount | Code & Terms |
 | --- | --- | --- | --- | --- |
+| 💸 | [Crisp, Docket and Outlier bundle](https://crispvideo.app/pricing/) | All three apps from one person in Grand Rapids: video upscaler, SEO audit, private local assistant. | 50% off: $49.50 once through 30 November; $99 from 1 December | No code needed; pay once; 30-day refund on each app; sale ends end of 30 November 2026, US time |
 
 [⬆️ Back to contents](#table-of-contents)
 
@@ -293,6 +296,7 @@ Keep each deal on one line with one space around each pipe. Do not align column 
 | 💸 | [Supacite](https://supacite.com?ref=mrs) | SEO tools for Claude Code and Cursor: keywords, blogs, listings, AI visibility, and competitor tracking. | Lifetime: $299 → $89, then $129 | **CITEBF**; $89 for the first 100 buyers through November 30, then $129 through December 7; Ends 2026-12-07; start not announced |
 | 💸 | [CiteWing](https://citewing.com) | AI backlink outreach agent for search and AI recommendations. | 36% off Pro; 50% off directory submission | Automatically applied; [directory submission service](https://citewing.com/directory-submission-service); 2026-11-01 to 2026-12-31 |
 | 💰 | [Outpublished](https://outpublished.com/black-friday) | Shows content and SEO teams every page their competitors have that they don't, and each new one they publish. | 40% off | Automatically applied; all paid plans, monthly or yearly, for as long as you stay subscribed; first 150 accounts; 2026-11-20 to 2026-12-04 |
+| 💸 | [Docket](https://docketseo.app/) | SEO audit app that runs on your own computer. Mac, Windows, and a Linux command line. | 50% off: $29.50 once through 30 November; $59 from 1 December | No code needed; pay once; free version shows the score and the top problem; 30-day refund; sale ends end of 30 November 2026, US time |
 
 [⬆️ Back to contents](#table-of-contents)
 
