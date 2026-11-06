@@ -80,6 +80,10 @@ Please follow the rules below:
 |🤑|[AI Toolbox](https://www.ai-toolbox.co/pricing)| Chrome extension that adds folders, full-text search, bulk delete and export to ChatGPT, Claude, Gemini and Grok. | **50% OFF** Lifetime and All Access Lifetime with code **BLACKFRIDAY**, one-time payment, not Monthly, Annual or Teams (through Nov 30)|
 |💸|[Todowing](https://todowing.com/?ref=dqhieu)| Chrome extension that upgrades Todoist with focus sessions, time estimates and Apple Calendar on Today | **40% OFF** lifetime unlock with code **BF2026** ($9.99 → $5.99, until Nov 30)|
 |🤑|[Sponsonizer](https://sponsonizer.com/?ref=dqhieu)| Sell newsletter sponsorships on the web: sponsors pick an open slot, fill in their ad and pay with Stripe | **50% OFF** first year of Pro Yearly with code **BF2026** ($99 → $49.50, yearly only, until Nov 30)|
+|🤑|[Crisp](https://crispvideo.app/)| Offline video and photo upscaler and restorer for Mac and Windows, with a free version | **50% OFF** · $14.50 once through 30 November, $29 from 1 December, no code needed|
+|🤑|[Docket](https://docketseo.app/)| SEO audit app that runs on your own computer, for Mac, Windows and Linux command line | **50% OFF** · $29.50 once through 30 November, $59 from 1 December, no code needed|
+|🤑|[Outlier](https://outlier.host/)| Private local AI assistant for Mac, Apple silicon, macOS 15+ | **50% OFF** · $24.50 once through 30 November, $49 from 1 December, no code needed|
+|🤑|[Crisp, Docket and Outlier bundle](https://crispvideo.app/pricing/)| All three apps from one person in Grand Rapids, one purchase | **50% OFF** · $49.50 once through 30 November, $99 from 1 December|
 
 ---
 
