@@ -84,6 +84,10 @@ Please follow the rules below:
 |🤑|[Tailkit](https://tailkit.com)| 2,000+ responsive Tailwind CSS UI components for React, Vue.js, Laravel, Alpine.js and HTML, with an MCP server | **Up to 60% OFF** lifetime, no code needed, discount auto-applied on site (Nov 23 – Dec 1)|
 |💸|[CodedVisuals](https://codedvisuals.com)| Coded visual and illustration components for React and shadcn/ui, plus AI skills agents can build with | **Up to 40% OFF** lifetime, no code needed, discount auto-applied on site (Nov 23 – Dec 1)|
 |💸|[Buildkit for Astro](https://astrobuildkit.com)| Astro design system for building marketing websites with your AI agent: core blocks, backgrounds and animated visuals | **Up to 47% OFF** lifetime, no code needed, discount auto-applied on site (Nov 23 – Dec 1)|
+|🤑|[Crisp](https://crispvideo.app/)| Offline video and photo upscaler and restorer for Mac and Windows, with a free version | **50% OFF** · $14.50 once through 30 November, $29 from 1 December, no code needed|
+|🤑|[Docket](https://docketseo.app/)| SEO audit app that runs on your own computer, for Mac, Windows and Linux command line | **50% OFF** · $29.50 once through 30 November, $59 from 1 December, no code needed|
+|🤑|[Outlier](https://outlier.host/)| Private local AI assistant for Mac, Apple silicon, macOS 15+ | **50% OFF** · $24.50 once through 30 November, $49 from 1 December, no code needed|
+|🤑|[Crisp, Docket and Outlier bundle](https://crispvideo.app/pricing/)| All three apps from one person in Grand Rapids, one purchase | **50% OFF** · $49.50 once through 30 November, $99 from 1 December|
 
 ---
 
