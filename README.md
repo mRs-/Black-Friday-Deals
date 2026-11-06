@@ -80,6 +80,7 @@ Please follow the rules below:
 |🤑|[AI Toolbox](https://www.ai-toolbox.co/pricing)| Chrome extension that adds folders, full-text search, bulk delete and export to ChatGPT, Claude, Gemini and Grok. | **50% OFF** Lifetime and All Access Lifetime with code **BLACKFRIDAY**, one-time payment, not Monthly, Annual or Teams (through Nov 30)|
 |💸|[Todowing](https://todowing.com/?ref=dqhieu)| Chrome extension that upgrades Todoist with focus sessions, time estimates and Apple Calendar on Today | **40% OFF** lifetime unlock with code **BF2026** ($9.99 → $5.99, until Nov 30)|
 |🤑|[Sponsonizer](https://sponsonizer.com/?ref=dqhieu)| Sell newsletter sponsorships on the web: sponsors pick an open slot, fill in their ad and pay with Stripe | **50% OFF** first year of Pro Yearly with code **BF2026** ($99 → $49.50, yearly only, until Nov 30)|
+|💸|[Deckloud](https://deckloud.com/black-friday/?ref=dqhieu)| Native Nextcloud Deck app for iPhone, iPad, Android, Mac, Windows and Linux, with offline sync to your own server | **40% OFF** Pro Lifetime, no code needed ($39 → $22.99 on the App Store and Google Play; desktop-only Pro $19 → $11.40 with code **BF2026**; one-time purchase, Nov 27 to Dec 2)|
 
 ---
 
