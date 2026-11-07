@@ -135,6 +135,7 @@ Keep each deal on one line with one space around each pipe. Do not align column 
 | 💸 | [DriveDex](https://apple.co/3C8HoJX) | Track mileage and expenses for all your vehicles. Available for iOS, iPadOS, and visionOS. | Lifetime 50% off | Automatically applied; no code needed; 2026-11-27 to 2026-12-1 |
 | 💸 | [Fileside](https://www.fileside.app/?ref=mRsbfd) | A slick file manager with unlimited panes. Create workspaces for your projects. Build layouts of your folders. | 50% OFF at ~~$33~~ $16.50 | 23-30 Nov. Code: BLKFRD26 |
 | 💸 | [Almighty](https://indiegoodies.com/almighty) | Over 100 Mac tweaks and utilities in one native app, from hidden settings to notch actions. | 50% off ($14.99 → $7.49) | **INDIEGOODIESBF26**; lifetime license; 2026-11-20 to 2026-11-30 |
+| 💰 | [Wins](https://wins.cool/) | Native macOS window manager with window snapping, Dock previews, and keyboard shortcuts. | 40% off | Use **BF_26** at checkout on Single, Pro, and X lifetime licenses and eligible update renewals. 2026-11-11 to 2026-12-01. |
 
 [⬆️ Back to contents](#table-of-contents)
 
