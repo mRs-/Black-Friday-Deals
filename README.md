@@ -175,6 +175,7 @@ Keep each deal on one line with one space around each pipe. Do not align column 
 | 💰 | [FaceScreen](https://facescreen.app) | Floating camera and text overlays with a ring light for recordings and video calls. | 30% off ($5.99 → $4.19) | **FACESCREEN30**; direct website purchase, one-time payment; 2026-11-18 to 2026-12-02 |
 | 💰 | [MatchCut FCP](https://matchcutfcp.aquaflamingolabs.com/?utm_source=github&utm_campaign=blackfriday26) | Transcribes audio to SRT and automatically aligns ordered media assets to caption timestamps in Final Cut Pro in seconds. | 40% off | Use code `BLACKFRIDAY26` |
 | 💸 | [Crisp](https://crispvideo.app/) | Offline video and photo upscaler and restorer for Mac (Apple silicon, macOS 14+) and Windows 10/11. | 50% off: $14.50 once through 30 November; $29 from 1 December | No code needed; pay once, runs on your computer; free version exports 15 seconds with a small mark; 30-day refund; sale ends end of 30 November 2026, US time |
+| 💰 | [Oil Studio](https://studio.oiloil.org/en/?ref=bf-deals#price) | Native macOS screen recorder and transcript video editor with auto zoom on clicks, smooth cursor, on-device Whisper captions, and AI agent CLI. | 20% off ($49 → $39) | Automatically applied; one-time purchase for 2 Macs, free trial; 2026-11-07 to 2026-12-01 |
 
 [⬆️ Back to contents](#table-of-contents)
 
