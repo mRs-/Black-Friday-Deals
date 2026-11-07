@@ -133,6 +133,7 @@ Keep each deal on one line with one space around each pipe. Do not align column 
 | 💸 | [ExtraBar](https://extrabar.app) | Customize the Mac menu bar with shortcuts, quick actions, and deep links. | 50% off all Lifetime licenses | **BLACK2026FRIDAY50**; automatically applied on the website; 2026-11-12 to 2026-12-01 |
 | 💸 | [Dictionaries](https://dictionaries.io/?utm_source=mRs) | Add dictionaries for 80+ languages to Mac’s Look Up, with pronunciation; also for Kindle. | 50% off | **BF26**; 2026-11-04 to 2026-12-03 |
 | 💸 | [DriveDex](https://apple.co/3C8HoJX) | Track mileage and expenses for all your vehicles. Available for iOS, iPadOS, and visionOS. | Lifetime 50% off | Automatically applied; no code needed; 2026-11-27 to 2026-12-1 |
+| 💸 | [Fileside](https://www.fileside.app/?ref=mRsbfd) | A slick file manager with unlimited panes. Create workspaces for your projects. Build layouts of your folders. | 50% OFF at ~~$33~~ $16.50 | 23-30 Nov. Code: BLKFRD26 |
 
 [⬆️ Back to contents](#table-of-contents)
 
