@@ -64,6 +64,7 @@ Keep each deal on one line with one space around each pipe. Do not align column 
 | 💰 | [JuxtaCode](https://juxtacode.app/black-friday/) | Compare Git branches and resolve merge conflicts with ease on macOS. | 40% off | **BLACKFRIDAY26**; direct purchase from juxtacode.app only, not the Mac App Store; 2026-11-20 to 2026-12-01 |
 | 💰 | [Poedit](https://poedit.com/purchase/?utm_source=mRs) | Translations editor for app and websites, supports PO, XLIFF, JSON, RESX and other formats, with built-in auto-translation. | 30% off | Code **BF26**; one-time or 1st year; 2026-11-04 to 2026-12-03 |
 | 💸 | [Runestone](https://apps.apple.com/us/app/runestone-text-editor/id1548193893) | Plain text editor with syntax highlighting for iPhone, iPad, and Apple Vision Pro. | 50% off Premium ($4.99 USD) | Automatically applied to the one-time in-app purchase. No code needed. November 24–30, 2026. |
+| 💰 | [WhaleDeck](https://apple.co/3NQJi4w) | Effortlessly manage and monitor your Docker servers on your iPhone, iPad, and Mac. | Lifetime 40% off ($57 → $35) | Automatically applied; no code needed; 2026-11-27 to 2026-12-1 |
 
 [⬆️ Back to contents](#table-of-contents)
 
@@ -131,6 +132,7 @@ Keep each deal on one line with one space around each pipe. Do not align column 
 | 💸 | [CoolDock](https://cooldock.app) | Second Dock with live widgets for music, calendars, weather, tasks, and system stats. | 50% off all Lifetime licenses | **BLACK2026FRIDAY50**; automatically applied on the website; 2026-11-12 to 2026-12-01 |
 | 💸 | [ExtraBar](https://extrabar.app) | Customize the Mac menu bar with shortcuts, quick actions, and deep links. | 50% off all Lifetime licenses | **BLACK2026FRIDAY50**; automatically applied on the website; 2026-11-12 to 2026-12-01 |
 | 💸 | [Dictionaries](https://dictionaries.io/?utm_source=mRs) | Add dictionaries for 80+ languages to Mac’s Look Up, with pronunciation; also for Kindle. | 50% off | **BF26**; 2026-11-04 to 2026-12-03 |
+| 💸 | [DriveDex](https://apple.co/3C8HoJX) | Track mileage and expenses for all your vehicles. Available for iOS, iPadOS, and visionOS. | Lifetime 50% off | Automatically applied; no code needed; 2026-11-27 to 2026-12-1 |
 
 [⬆️ Back to contents](#table-of-contents)
 
@@ -238,6 +240,8 @@ Keep each deal on one line with one space around each pipe. Do not align column 
 
 | Savings | Name | Description | Discount | Code & Terms |
 | --- | --- | --- | --- | --- |
+| 💸 | [ConnectWizard](https://apple.co/3ZsiEEZ) | Unlock hidden App Store Connect Analytics. | Pro Annual 50% off ($100 → $50) | Automatically applied; no code needed; 2026-11-27 to 2026-12-1 |
+| 💰 | [Umami Manager](https://apple.co/40MP50F) | Monitor & Analyze & Manage your Umami Analytics on the go. | Lifetime 25% off | Automatically applied; no code needed; 2026-11-27 to 2026-12-1 |
 
 [⬆️ Back to contents](#table-of-contents)
 
