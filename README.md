@@ -88,6 +88,7 @@ Please follow the rules below:
 |🤑|[Docket](https://docketseo.app/)| SEO audit app that runs on your own computer, for Mac, Windows and Linux command line | **50% OFF** · $29.50 once through 30 November, $59 from 1 December, no code needed|
 |🤑|[Outlier](https://outlier.host/)| Private local AI assistant for Mac, Apple silicon, macOS 15+ | **50% OFF** · $24.50 once through 30 November, $49 from 1 December, no code needed|
 |🤑|[Crisp, Docket and Outlier bundle](https://crispvideo.app/pricing/)| All three apps from one person in Grand Rapids, one purchase | **50% OFF** · $49.50 once through 30 November, $99 from 1 December|
+|💸|[Evendeals](https://evendeals.com/?ref=dqhieu)| Purchasing power parity pricing for SaaS and digital products on the web, increase revenue by up to 30% | **40% OFF** all annual and lifetime plans with code **BF2026** (Nov 5 – Nov 30)|
 
 ---
 
