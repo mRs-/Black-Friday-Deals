@@ -64,6 +64,7 @@ Keep each deal on one line with one space around each pipe. Do not align column 
 | 💰 | [JuxtaCode](https://juxtacode.app/black-friday/) | Compare Git branches and resolve merge conflicts with ease on macOS. | 40% off | **BLACKFRIDAY26**; direct purchase from juxtacode.app only, not the Mac App Store; 2026-11-20 to 2026-12-01 |
 | 💰 | [Poedit](https://poedit.com/purchase/?utm_source=mRs) | Translations editor for app and websites, supports PO, XLIFF, JSON, RESX and other formats, with built-in auto-translation. | 30% off | Code **BF26**; one-time or 1st year; 2026-11-04 to 2026-12-03 |
 | 💸 | [Runestone](https://apps.apple.com/us/app/runestone-text-editor/id1548193893) | Plain text editor with syntax highlighting for iPhone, iPad, and Apple Vision Pro. | 50% off Premium ($4.99 USD) | Automatically applied to the one-time in-app purchase. No code needed. November 24–30, 2026. |
+| 💰 | [WhaleDeck](https://apple.co/3NQJi4w) | Effortlessly manage and monitor your Docker servers on your iPhone, iPad, and Mac. | Lifetime 40% off ($57 → $35) | Automatically applied; no code needed; 2026-11-27 to 2026-12-1 |
 
 [⬆️ Back to contents](#table-of-contents)
 
@@ -130,6 +131,11 @@ Keep each deal on one line with one space around each pipe. Do not align column 
 | 💸 | [DockFlow](https://dockflowapp.io) | Save and switch between macOS Dock presets. | 50% off all Lifetime licenses | **BLACK2026FRIDAY50**; automatically applied on the website; 2026-11-12 to 2026-12-01 |
 | 💸 | [CoolDock](https://cooldock.app) | Second Dock with live widgets for music, calendars, weather, tasks, and system stats. | 50% off all Lifetime licenses | **BLACK2026FRIDAY50**; automatically applied on the website; 2026-11-12 to 2026-12-01 |
 | 💸 | [ExtraBar](https://extrabar.app) | Customize the Mac menu bar with shortcuts, quick actions, and deep links. | 50% off all Lifetime licenses | **BLACK2026FRIDAY50**; automatically applied on the website; 2026-11-12 to 2026-12-01 |
+| 💸 | [Dictionaries](https://dictionaries.io/?utm_source=mRs) | Add dictionaries for 80+ languages to Mac’s Look Up, with pronunciation; also for Kindle. | 50% off | **BF26**; 2026-11-04 to 2026-12-03 |
+| 💸 | [DriveDex](https://apple.co/3C8HoJX) | Track mileage and expenses for all your vehicles. Available for iOS, iPadOS, and visionOS. | Lifetime 50% off | Automatically applied; no code needed; 2026-11-27 to 2026-12-1 |
+| 💸 | [Fileside](https://www.fileside.app/?ref=mRsbfd) | A slick file manager with unlimited panes. Create workspaces for your projects. Build layouts of your folders. | 50% OFF at ~~$33~~ $16.50 | 23-30 Nov. Code: BLKFRD26 |
+| 💸 | [Almighty](https://indiegoodies.com/almighty) | Over 100 Mac tweaks and utilities in one native app, from hidden settings to notch actions. | 50% off ($14.99 → $7.49) | **INDIEGOODIESBF26**; lifetime license; 2026-11-20 to 2026-11-30 |
+| 💰 | [Wins](https://wins.cool/) | Native macOS window manager with window snapping, Dock previews, and keyboard shortcuts. | 40% off | Use **BF_26** at checkout on Single, Pro, and X lifetime licenses and eligible update renewals. 2026-11-11 to 2026-12-01. |
 | 💰 | [Iruka](https://iruka.sh/black-friday) | Native file manager for Mac with dual panes, previews, and a terminal that follows your folder. | 30% off: Personal $19.99 → $13.99; Team $39.99 → $27.99 | **BF30**; new licences only, one-time purchase; 2026-11-06 to 2026-12-03 |
 
 [⬆️ Back to contents](#table-of-contents)
@@ -154,6 +160,9 @@ Keep each deal on one line with one space around each pipe. Do not align column 
 | 💰 | [Presentify](https://presentifyapp.com) | Annotate your screen, highlight clicks, spotlight, and zoom during presentations and calls on Mac. | 30% off ($14 → $9.80) | **PRESENTIFY30**; direct website purchase, one-time payment; 2026-11-18 to 2026-12-02 |
 | 💸 | [Shiori](https://shioriapp.io) | Bookmark manager with tags and folders for Mac, web, and Chrome. | 50% off all Lifetime licenses | **BLACK2026FRIDAY50**; automatically applied on the website; 2026-11-12 to 2026-12-01 |
 | 💰 | [Deckloud](https://deckloud.com/black-friday/?ref=mrs-black-friday-deals) | Native Nextcloud Deck app for iPhone, iPad, Android, Mac, Windows, and Linux, with offline sync to your own server. | 40% off Pro Lifetime ($39 → $22.99) | Automatically applied on the App Store and Google Play; one-time purchase; desktop-only Pro $19 → $11.40 with **BF2026**; subscriptions excluded; 2026-11-27 to 2026-12-02 |
+| 💰 | [InfiniDesk](https://infinidesk.app/?ref=mrs-black-friday-deals) | Create multiple desktop 'surfaces' on your Mac, each with its own layout of file and folder icons, widget visibility, and wallpaper. | 30% off ($12.99 → $8.99) | With code **INFINIBLACK**; 2026-11-25 to 2026-12-04 |
+| 💸 | [PastePal](https://indiegoodies.com/pastepal) | Clipboard manager for Mac, iPhone and iPad that keeps everything you copy searchable, organized and synced through iCloud. Native, private, one-time purchase. | 50% off ($14.99 → $7.49) | **INDIEGOODIESBF26**; standalone Mac version, lifetime license; 2026-11-20 to 2026-11-30 |
+| 💸 | [Overcal](https://indiegoodies.com/overcal) | Your calendar in the Mac menu bar: month view, agenda, world clocks, and a countdown with one-click join for your next meeting. | 50% off ($7.99 → $3.99) | **INDIEGOODIESBF26**; lifetime license; 2026-11-20 to 2026-11-30 |
 
 [⬆️ Back to contents](#table-of-contents)
 
@@ -167,6 +176,7 @@ Keep each deal on one line with one space around each pipe. Do not align column 
 | 💰 | [FaceScreen](https://facescreen.app) | Floating camera and text overlays with a ring light for recordings and video calls. | 30% off ($5.99 → $4.19) | **FACESCREEN30**; direct website purchase, one-time payment; 2026-11-18 to 2026-12-02 |
 | 💰 | [MatchCut FCP](https://matchcutfcp.aquaflamingolabs.com/?utm_source=github&utm_campaign=blackfriday26) | Transcribes audio to SRT and automatically aligns ordered media assets to caption timestamps in Final Cut Pro in seconds. | 40% off | Use code `BLACKFRIDAY26` |
 | 💸 | [Crisp](https://crispvideo.app/) | Offline video and photo upscaler and restorer for Mac (Apple silicon, macOS 14+) and Windows 10/11. | 50% off: $14.50 once through 30 November; $29 from 1 December | No code needed; pay once, runs on your computer; free version exports 15 seconds with a small mark; 30-day refund; sale ends end of 30 November 2026, US time |
+| 💰 | [Oil Studio](https://studio.oiloil.org/en/?ref=bf-deals#price) | Native macOS screen recorder and transcript video editor with auto zoom on clicks, smooth cursor, on-device Whisper captions, and AI agent CLI. | 20% off ($49 → $39) | Automatically applied; one-time purchase for 2 Macs, free trial; 2026-11-07 to 2026-12-01 |
 
 [⬆️ Back to contents](#table-of-contents)
 
@@ -238,6 +248,8 @@ Keep each deal on one line with one space around each pipe. Do not align column 
 
 | Savings | Name | Description | Discount | Code & Terms |
 | --- | --- | --- | --- | --- |
+| 💸 | [ConnectWizard](https://apple.co/3ZsiEEZ) | Unlock hidden App Store Connect Analytics. | Pro Annual 50% off ($100 → $50) | Automatically applied; no code needed; 2026-11-27 to 2026-12-1 |
+| 💰 | [Umami Manager](https://apple.co/40MP50F) | Monitor & Analyze & Manage your Umami Analytics on the go. | Lifetime 25% off | Automatically applied; no code needed; 2026-11-27 to 2026-12-1 |
 
 [⬆️ Back to contents](#table-of-contents)
 
@@ -276,6 +288,7 @@ Keep each deal on one line with one space around each pipe. Do not align column 
 
 | Savings | Name | Description | Discount | Code & Terms |
 | --- | --- | --- | --- | --- |
+| 💰 | [Wealthfolio Connect](https://wealthfolio.app/connect/) | Encrypted sync and backups for Wealthfolio; Essentials/Duo add supported brokerage imports | 35% off | **BLACKFRIDAY35**; annual Basic, Essentials and Duo; first year only; renews at regular price; Nov 15–30, 2026, ends 11:59 p.m. ET; core app stays free |
 
 [⬆️ Back to contents](#table-of-contents)
 
