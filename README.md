@@ -134,6 +134,7 @@ Keep each deal on one line with one space around each pipe. Do not align column 
 | 💸 | [Dictionaries](https://dictionaries.io/?utm_source=mRs) | Add dictionaries for 80+ languages to Mac’s Look Up, with pronunciation; also for Kindle. | 50% off | **BF26**; 2026-11-04 to 2026-12-03 |
 | 💸 | [DriveDex](https://apple.co/3C8HoJX) | Track mileage and expenses for all your vehicles. Available for iOS, iPadOS, and visionOS. | Lifetime 50% off | Automatically applied; no code needed; 2026-11-27 to 2026-12-1 |
 | 💸 | [Fileside](https://www.fileside.app/?ref=mRsbfd) | A slick file manager with unlimited panes. Create workspaces for your projects. Build layouts of your folders. | 50% OFF at ~~$33~~ $16.50 | 23-30 Nov. Code: BLKFRD26 |
+| 💸 | [Almighty](https://indiegoodies.com/almighty) | Over 100 Mac tweaks and utilities in one native app, from hidden settings to notch actions. | 50% off ($14.99 → $7.49) | **INDIEGOODIESBF26**; lifetime license; 2026-11-20 to 2026-11-30 |
 
 [⬆️ Back to contents](#table-of-contents)
 
@@ -158,7 +159,8 @@ Keep each deal on one line with one space around each pipe. Do not align column 
 | 💸 | [Shiori](https://shioriapp.io) | Bookmark manager with tags and folders for Mac, web, and Chrome. | 50% off all Lifetime licenses | **BLACK2026FRIDAY50**; automatically applied on the website; 2026-11-12 to 2026-12-01 |
 | 💰 | [Deckloud](https://deckloud.com/black-friday/?ref=mrs-black-friday-deals) | Native Nextcloud Deck app for iPhone, iPad, Android, Mac, Windows, and Linux, with offline sync to your own server. | 40% off Pro Lifetime ($39 → $22.99) | Automatically applied on the App Store and Google Play; one-time purchase; desktop-only Pro $19 → $11.40 with **BF2026**; subscriptions excluded; 2026-11-27 to 2026-12-02 |
 | 💰 | [InfiniDesk](https://infinidesk.app/?ref=mrs-black-friday-deals) | Create multiple desktop 'surfaces' on your Mac, each with its own layout of file and folder icons, widget visibility, and wallpaper. | 30% off ($12.99 → $8.99) | With code **INFINIBLACK**; 2026-11-25 to 2026-12-04 |
-
+| 💸 | [PastePal](https://indiegoodies.com/pastepal) | Clipboard manager for Mac, iPhone and iPad that keeps everything you copy searchable, organized and synced through iCloud. Native, private, one-time purchase. | 50% off ($14.99 → $7.49) | **INDIEGOODIESBF26**; standalone Mac version, lifetime license; 2026-11-20 to 2026-11-30 |
+| 💸 | [Overcal](https://indiegoodies.com/overcal) | Your calendar in the Mac menu bar: month view, agenda, world clocks, and a countdown with one-click join for your next meeting. | 50% off ($7.99 → $3.99) | **INDIEGOODIESBF26**; lifetime license; 2026-11-20 to 2026-11-30 |
 
 [⬆️ Back to contents](#table-of-contents)
 
