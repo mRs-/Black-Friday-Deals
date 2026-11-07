@@ -90,6 +90,7 @@ Please follow the rules below:
 |🤑|[Crisp, Docket and Outlier bundle](https://crispvideo.app/pricing/)| All three apps from one person in Grand Rapids, one purchase | **50% OFF** · $49.50 once through 30 November, $99 from 1 December|
 |💸|[Iruka](https://iruka.sh/black-friday)| Native file manager for macOS with dual panes, previews, and a terminal that follows your folder | **30% OFF** new licences, one-time purchase, with code **BF30** (Nov 6 – Dec 3)|
 |💸|[Evendeals](https://evendeals.com/?ref=dqhieu)| Purchasing power parity pricing for SaaS and digital products on the web, increase revenue by up to 30% | **40% OFF** all annual and lifetime plans with code **BF2026** (Nov 5 – Nov 30)|
+|💸|[AdminKit](https://adminkit.io/pricing/)| Bootstrap 5 admin dashboard template for the web, in HTML, React and Next.js versions | **30% OFF** all licenses, one-time payment, with code **BF2026** (Nov 23 – Dec 6)|
 
 ---
 
