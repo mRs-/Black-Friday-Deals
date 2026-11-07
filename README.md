@@ -88,6 +88,7 @@ Please follow the rules below:
 |🤑|[Docket](https://docketseo.app/)| SEO audit app that runs on your own computer, for Mac, Windows and Linux command line | **50% OFF** · $29.50 once through 30 November, $59 from 1 December, no code needed|
 |🤑|[Outlier](https://outlier.host/)| Private local AI assistant for Mac, Apple silicon, macOS 15+ | **50% OFF** · $24.50 once through 30 November, $49 from 1 December, no code needed|
 |🤑|[Crisp, Docket and Outlier bundle](https://crispvideo.app/pricing/)| All three apps from one person in Grand Rapids, one purchase | **50% OFF** · $49.50 once through 30 November, $99 from 1 December|
+|💸|[Iruka](https://iruka.sh/black-friday)| Native file manager for macOS with dual panes, previews, and a terminal that follows your folder | **30% OFF** new licences, one-time purchase, with code **BF30** (Nov 6 – Dec 3)|
 
 ---
 
