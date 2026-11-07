@@ -130,6 +130,7 @@ Keep each deal on one line with one space around each pipe. Do not align column 
 | 💸 | [DockFlow](https://dockflowapp.io) | Save and switch between macOS Dock presets. | 50% off all Lifetime licenses | **BLACK2026FRIDAY50**; automatically applied on the website; 2026-11-12 to 2026-12-01 |
 | 💸 | [CoolDock](https://cooldock.app) | Second Dock with live widgets for music, calendars, weather, tasks, and system stats. | 50% off all Lifetime licenses | **BLACK2026FRIDAY50**; automatically applied on the website; 2026-11-12 to 2026-12-01 |
 | 💸 | [ExtraBar](https://extrabar.app) | Customize the Mac menu bar with shortcuts, quick actions, and deep links. | 50% off all Lifetime licenses | **BLACK2026FRIDAY50**; automatically applied on the website; 2026-11-12 to 2026-12-01 |
+| 💰 | [Iruka](https://iruka.sh/black-friday) | Native file manager for Mac with dual panes, previews, and a terminal that follows your folder. | 30% off: Personal $19.99 → $13.99; Team $39.99 → $27.99 | **BF30**; new licences only, one-time purchase; 2026-11-06 to 2026-12-03 |
 
 [⬆️ Back to contents](#table-of-contents)
 
