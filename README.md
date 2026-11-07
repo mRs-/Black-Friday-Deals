@@ -139,6 +139,7 @@ Keep each deal on one line with one space around each pipe. Do not align column 
 | 💰 | [Wins](https://wins.cool/) | Native macOS window manager with window snapping, Dock previews, and keyboard shortcuts. | 40% off | Use **BF_26** at checkout on Single, Pro, and X lifetime licenses and eligible update renewals. 2026-11-11 to 2026-12-01. |
 | 💰 | [Iruka](https://iruka.sh/black-friday) | Native file manager for Mac with dual panes, previews, and a terminal that follows your folder. | 30% off: Personal $19.99 → $13.99; Team $39.99 → $27.99 | **BF30**; new licences only, one-time purchase; 2026-11-06 to 2026-12-03 |
 | 💰 | [SnowWall](https://snowwall.app) | Weather for the Mac desktop: snow settles on your windows and slides off when you drag them; rain fogs the glass. | 33% off ($14.99 → $9.99) | Automatically applied in the Mac App Store; SnowWall Pro one-time in-app purchase, free download; 2026-11-27 to 2026-12-01 |
+| 💸 | [Mac 4 Breakfast](https://www.mac4breakfast.app) | Menu bar battery app for Mac: battery health, cycle count, live watts and smart alerts, plus iPhone, iPad and AirPods batteries. | 50% off ($9.99 → $4.99) | **BLACKFRIDAY26**; one-time purchase, license covers 3 Macs; 2026-11-23 to 2026-12-01 (UTC) |
 
 [⬆️ Back to contents](#table-of-contents)
 
