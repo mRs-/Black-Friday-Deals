@@ -102,6 +102,7 @@ Keep each deal on one line with one space around each pipe. Do not align column 
 | Savings | Name | Description | Discount | Code & Terms |
 | --- | --- | --- | --- | --- |
 | 💰 | [TinyShield](https://tinyshield.proxyman.com/) | Monitor app connections and block unwanted apps or domains with a macOS firewall. | 30% off all plans | **BF2026**; 2026-11-16 to 2026-12-03 |
+| 💸 | [PortDroid](https://portdroid.net/sale) | Android network toolkit: port scanner, ping, traceroute, DNS, WHOIS, LAN device discovery, WiFi analyser and certificate inspection in one app. | 50% off Pro Lifetime ($9.49 → $4.69 USD) | **CYBER_2026**; 2026-11-05 to 2026-12-04 |
 
 [⬆️ Back to contents](#table-of-contents)
 
