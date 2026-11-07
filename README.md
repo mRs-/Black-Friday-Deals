@@ -285,6 +285,7 @@ Keep each deal on one line with one space around each pipe. Do not align column 
 
 | Savings | Name | Description | Discount | Code & Terms |
 | --- | --- | --- | --- | --- |
+| 💰 | [Wealthfolio Connect](https://wealthfolio.app/connect/) | Encrypted sync and backups for Wealthfolio; Essentials/Duo add supported brokerage imports | 35% off | **BLACKFRIDAY35**; annual Basic, Essentials and Duo; first year only; renews at regular price; Nov 15–30, 2026, ends 11:59 p.m. ET; core app stays free |
 
 [⬆️ Back to contents](#table-of-contents)
 
