@@ -168,6 +168,7 @@ Keep each deal on one line with one space around each pipe. Do not align column 
 | 💰 | [InfiniDesk](https://infinidesk.app/?ref=mrs-black-friday-deals) | Create multiple desktop 'surfaces' on your Mac, each with its own layout of file and folder icons, widget visibility, and wallpaper. | 30% off ($12.99 → $8.99) | With code **INFINIBLACK**; 2026-11-25 to 2026-12-04 |
 | 💸 | [PastePal](https://indiegoodies.com/pastepal) | Clipboard manager for Mac, iPhone and iPad that keeps everything you copy searchable, organized and synced through iCloud. Native, private, one-time purchase. | 50% off ($14.99 → $7.49) | **INDIEGOODIESBF26**; standalone Mac version, lifetime license; 2026-11-20 to 2026-11-30 |
 | 💸 | [Overcal](https://indiegoodies.com/overcal) | Your calendar in the Mac menu bar: month view, agenda, world clocks, and a countdown with one-click join for your next meeting. | 50% off ($7.99 → $3.99) | **INDIEGOODIESBF26**; lifetime license; 2026-11-20 to 2026-11-30 |
+| 💰 | [OneMax](https://onemaxagent.com/en?utm_source=bfcm&utm_medium=deals&utm_campaign=bfcm2026&utm_content=mrs) | Mac voice dictation that types clean text into any app and organizes your notes into topics and next steps. | 33% off Pro ($30 → $20/month, $300 → $200/year) | Automatically applied; first 100 subscribers, price locked while subscribed; 7-day free trial and free plan (8,000 words/week); until 2026-12-31 |
 
 [⬆️ Back to contents](#table-of-contents)
 
