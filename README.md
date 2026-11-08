@@ -142,6 +142,7 @@ Keep each deal on one line with one space around each pipe. Do not align column 
 | 💰 | [SnowWall](https://snowwall.app) | Weather for the Mac desktop: snow settles on your windows and slides off when you drag them; rain fogs the glass. | 33% off ($14.99 → $9.99) | Automatically applied in the Mac App Store; SnowWall Pro one-time in-app purchase, free download; 2026-11-27 to 2026-12-01 |
 | 💸 | [Mac 4 Breakfast](https://www.mac4breakfast.app) | Menu bar battery app for Mac: battery health, cycle count, live watts and smart alerts, plus iPhone, iPad and AirPods batteries. | 50% off ($9.99 → $4.99) | **BLACKFRIDAY26**; one-time purchase, license covers 3 Macs; 2026-11-23 to 2026-12-01 (UTC) |
 | 💰 | [PeakHour](https://peakhour.app) | Real-time network, Wi-Fi and bandwidth monitor for the Mac menu bar. | 30% off | Automatically applied; lifetime purchase on the Mac App Store, $49.99 → $34.99; 2026-11-27 to 2026-12-01 |
+| 💸 | [AudioRecorder.app](https://apps.apple.com/app/apple-store/id6742782372?pt=551454&ct=bfcm26-gh-mrs&mt=8) | Record system audio and microphone on your Mac in one click, no drivers needed. | 60% off Lifetime ($24.99 → $9.99) | Automatically applied on the Mac App Store; one-time Lifetime unlock (monthly and yearly plans not discounted); macOS 15.2+; 2026-11-20 to 2026-12-01 |
 
 [⬆️ Back to contents](#table-of-contents)
 
@@ -182,6 +183,7 @@ Keep each deal on one line with one space around each pipe. Do not align column 
 | 💰 | [MatchCut FCP](https://matchcutfcp.aquaflamingolabs.com/?utm_source=github&utm_campaign=blackfriday26) | Transcribes audio to SRT and automatically aligns ordered media assets to caption timestamps in Final Cut Pro in seconds. | 40% off | Use code `BLACKFRIDAY26` |
 | 💸 | [Crisp](https://crispvideo.app/) | Offline video and photo upscaler and restorer for Mac (Apple silicon, macOS 14+) and Windows 10/11. | 50% off: $14.50 once through 30 November; $29 from 1 December | No code needed; pay once, runs on your computer; free version exports 15 seconds with a small mark; 30-day refund; sale ends end of 30 November 2026, US time |
 | 💰 | [Oil Studio](https://studio.oiloil.org/en/?ref=bf-deals#price) | Native macOS screen recorder and transcript video editor with auto zoom on clicks, smooth cursor, on-device Whisper captions, and AI agent CLI. | 20% off ($49 → $39) | Automatically applied; one-time purchase for 2 Macs, free trial; 2026-11-07 to 2026-12-01 |
+| 💸 | [Recorder.app](https://apps.apple.com/app/apple-store/id6740995613?pt=551454&ct=bfcm26-gh-mrs&mt=8) | Native Mac recorder: screen, windows, camera, mic and system audio at the same time, into separate, perfectly synced files. | 60% off Lifetime ($44.99 → $17.99) | Automatically applied on the Mac App Store; one-time Lifetime unlock (monthly and yearly plans not discounted); 2026-11-20 to 2026-12-01 |
 
 [⬆️ Back to contents](#table-of-contents)
 
