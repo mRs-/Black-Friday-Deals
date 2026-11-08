@@ -142,6 +142,8 @@ Keep each deal on one line with one space around each pipe. Do not align column 
 | 💰 | [SnowWall](https://snowwall.app) | Weather for the Mac desktop: snow settles on your windows and slides off when you drag them; rain fogs the glass. | 33% off ($14.99 → $9.99) | Automatically applied in the Mac App Store; SnowWall Pro one-time in-app purchase, free download; 2026-11-27 to 2026-12-01 |
 | 💸 | [Mac 4 Breakfast](https://www.mac4breakfast.app) | Menu bar battery app for Mac: battery health, cycle count, live watts and smart alerts, plus iPhone, iPad and AirPods batteries. | 50% off ($9.99 → $4.99) | **BLACKFRIDAY26**; one-time purchase, license covers 3 Macs; 2026-11-23 to 2026-12-01 (UTC) |
 | 💰 | [PeakHour](https://peakhour.app) | Real-time network, Wi-Fi and bandwidth monitor for the Mac menu bar. | 30% off | Automatically applied; lifetime purchase on the Mac App Store, $49.99 → $34.99; 2026-11-27 to 2026-12-01 |
+| 💰 | [iKnowMyMac](https://iknowmymac.com) | Menu bar app that remembers what your Mac did while you weren't looking: what woke it, overnight battery drain by app, every USB device and new login items. Agent Undo puts back files a coding agent changed. | With iKnowMyDisplay as the iKnow Suite: 25% off, both apps $7.99 → $5.99 (2 Macs $10.99; 5 Macs $29.99). iKnowMyMac alone: $4.99 launch price | Suite at [iknowmydisplay.com/suite](https://iknowmydisplay.com/suite), automatically applied, no code needed; one-time purchase; Apple silicon, macOS 15 or later; 2026-11-27 to 2026-12-01, while launch licences last |
+| 💰 | [iKnowMyDisplay](https://iknowmydisplay.com) | Every display control macOS hides, in the menu bar: external monitor brightness, resolution, refresh rate, HDR, colour and a TV remote, plus Check this monitor for 30 Hz, blurry text or flicker. | With iKnowMyMac as the iKnow Suite: 25% off, both apps $7.99 → $5.99 (2 Macs $10.99; 5 Macs $29.99). iKnowMyDisplay alone: $4.99 launch price | Suite at [iknowmydisplay.com/suite](https://iknowmydisplay.com/suite), automatically applied, no code needed; one-time purchase; Apple silicon, macOS 15 or later; 2026-11-27 to 2026-12-01, while launch licences last |
 
 [⬆️ Back to contents](#table-of-contents)
 
@@ -276,6 +278,7 @@ Keep each deal on one line with one space around each pipe. Do not align column 
 | Savings | Name | Description | Discount | Code & Terms |
 | --- | --- | --- | --- | --- |
 | 💸 | [Crisp, Docket and Outlier bundle](https://crispvideo.app/pricing/) | All three apps from one person in Grand Rapids: video upscaler, SEO audit, private local assistant. | 50% off: $49.50 once through 30 November; $99 from 1 December | No code needed; pay once; 30-day refund on each app; sale ends end of 30 November 2026, US time |
+| 💰 | [iKnow Suite: iKnowMyMac + iKnowMyDisplay](https://iknowmydisplay.com/suite) | Both Mac apps on one key: iKnowMyMac remembers what your Mac did while you weren't looking, iKnowMyDisplay gives you the display controls macOS hides. | 25% off: 1 Mac $7.99 → $5.99; 2 Macs $14.99 → $10.99; 5 Macs $39.99 → $29.99 | Automatically applied, no code needed; one-time purchase, 14-day refund; Apple silicon, macOS 15 or later; 2026-11-27 to 2026-12-01, while launch licences last |
 
 [⬆️ Back to contents](#table-of-contents)
 
