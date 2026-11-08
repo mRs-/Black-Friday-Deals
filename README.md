@@ -197,6 +197,7 @@ Keep each deal on one line with one space around each pipe. Do not align column 
 | 💰 | [MingCute UI](https://ui.mingcute.com/?utm_source=mrsbf) | Design system and UI Kit for Figma | **30% OFF** ($59 → $41) | code **BF2026** ; Nov 15, 2026 - Dec 5, 2026 |
 | 💰 | [Animation Icons](https://www.mingcute.com/animation?utm_source=mrsbf) | 120+ lively and smooth animated icons | **30% OFF** ($25 → $17.5) | code **BF2026** ; Nov 15, 2026 - Dec 5, 2026 |
 | 💰 | [Weather Icons](https://mgcweather.framer.website/?utm_source=mrsbf) | 120 graceful weather icons | **30% OFF** ($25 → $17.5) | code **BF2026** ; Nov 15, 2026 - Dec 5, 2026 |
+| 💸 | [Sip](https://sipapp.io/pricing/?ref=mrs-bf) | Modern color picker for Mac that brings ease to color organization and team collaboration. | 50% off | **BLACKFRIDAY26**; 2026-11-27 to 2026-12-01 |
 
 [⬆️ Back to contents](#table-of-contents)
 
