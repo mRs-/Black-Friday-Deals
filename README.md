@@ -168,6 +168,7 @@ Keep each deal on one line with one space around each pipe. Do not align column 
 | 💰 | [InfiniDesk](https://infinidesk.app/?ref=mrs-black-friday-deals) | Create multiple desktop 'surfaces' on your Mac, each with its own layout of file and folder icons, widget visibility, and wallpaper. | 30% off ($12.99 → $8.99) | With code **INFINIBLACK**; 2026-11-25 to 2026-12-04 |
 | 💸 | [PastePal](https://indiegoodies.com/pastepal) | Clipboard manager for Mac, iPhone and iPad that keeps everything you copy searchable, organized and synced through iCloud. Native, private, one-time purchase. | 50% off ($14.99 → $7.49) | **INDIEGOODIESBF26**; standalone Mac version, lifetime license; 2026-11-20 to 2026-11-30 |
 | 💸 | [Overcal](https://indiegoodies.com/overcal) | Your calendar in the Mac menu bar: month view, agenda, world clocks, and a countdown with one-click join for your next meeting. | 50% off ($7.99 → $3.99) | **INDIEGOODIESBF26**; lifetime license; 2026-11-20 to 2026-11-30 |
+| 💸 | [Pretty Progress – Countdown](https://prettyprogress.app/download) | Beautiful countdown and progress bar widgets to visualise and track your events and deadlines. | 50% off Lifetime ($59.99 → $29.99 USD) | Automatically applied in the app; no code needed; lifetime one-time purchase; 2026-11-20 to 2026-12-01 |
 
 [⬆️ Back to contents](#table-of-contents)
 
@@ -266,6 +267,7 @@ Keep each deal on one line with one space around each pipe. Do not align column 
 | Savings | Name | Description | Discount | Code & Terms |
 | --- | --- | --- | --- | --- |
 | 💰 | [Habit Pixel](https://habitpixel.com/get) | Offline habit tracker with pixel check-ins, streak goals, reminders, and widgets for iPhone and Android. | 33% off Lifetime ($29.99 → $19.99 USD) | Automatically applied in the app; local prices vary; 2026-11-19 to 2026-12-02 |
+| 💸 | [PepFlow](https://pepflow.app/download) | Track your peptide routine with dose history, flexible schedules, and reminders. | 50% off the first year of the annual plan ($29.99 → $14.99 USD) | Automatically applied in the app; no code needed; first year only; 2026-11-20 to 2026-12-01 |
 
 [⬆️ Back to contents](#table-of-contents)
 
