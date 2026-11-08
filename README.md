@@ -168,6 +168,7 @@ Keep each deal on one line with one space around each pipe. Do not align column 
 | 💰 | [InfiniDesk](https://infinidesk.app/?ref=mrs-black-friday-deals) | Create multiple desktop 'surfaces' on your Mac, each with its own layout of file and folder icons, widget visibility, and wallpaper. | 30% off ($12.99 → $8.99) | With code **INFINIBLACK**; 2026-11-25 to 2026-12-04 |
 | 💸 | [PastePal](https://indiegoodies.com/pastepal) | Clipboard manager for Mac, iPhone and iPad that keeps everything you copy searchable, organized and synced through iCloud. Native, private, one-time purchase. | 50% off ($14.99 → $7.49) | **INDIEGOODIESBF26**; standalone Mac version, lifetime license; 2026-11-20 to 2026-11-30 |
 | 💸 | [Overcal](https://indiegoodies.com/overcal) | Your calendar in the Mac menu bar: month view, agenda, world clocks, and a countdown with one-click join for your next meeting. | 50% off ($7.99 → $3.99) | **INDIEGOODIESBF26**; lifetime license; 2026-11-20 to 2026-11-30 |
+| 💰 | [Spacepal](https://getspacepal.com/black-friday/?ref=mrs-black-friday-deals) | Names and live previews for Mac desktops (Spaces), with window search and instant switching. | 20% off ($9.99 → $7.99) | Automatically applied at checkout; one-time license for up to 3 Macs; 2026-11-27 to 2026-12-01 (Pacific time) |
 
 [⬆️ Back to contents](#table-of-contents)
 
