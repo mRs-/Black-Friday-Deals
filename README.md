@@ -142,6 +142,7 @@ Keep each deal on one line with one space around each pipe. Do not align column 
 | 💰 | [SnowWall](https://snowwall.app) | Weather for the Mac desktop: snow settles on your windows and slides off when you drag them; rain fogs the glass. | 33% off ($14.99 → $9.99) | Automatically applied in the Mac App Store; SnowWall Pro one-time in-app purchase, free download; 2026-11-27 to 2026-12-01 |
 | 💸 | [Mac 4 Breakfast](https://www.mac4breakfast.app) | Menu bar battery app for Mac: battery health, cycle count, live watts and smart alerts, plus iPhone, iPad and AirPods batteries. | 50% off ($9.99 → $4.99) | **BLACKFRIDAY26**; one-time purchase, license covers 3 Macs; 2026-11-23 to 2026-12-01 (UTC) |
 | 💰 | [PeakHour](https://peakhour.app) | Real-time network, Wi-Fi and bandwidth monitor for the Mac menu bar. | 30% off | Automatically applied; lifetime purchase on the Mac App Store, $49.99 → $34.99; 2026-11-27 to 2026-12-01 |
+| 💰 | [Kilobat Pro](https://kilobat.app) | Native macOS network monitoring and diagnostics for app connections and hotspot data. | 30% off (US$29 → US$20.30 before tax) | **BLACKFRIDAY30**; one-time Pro license for two Macs, includes v1 updates; 2026-11-20 to 2026-11-30 (upcoming) |
 
 [⬆️ Back to contents](#table-of-contents)
 
