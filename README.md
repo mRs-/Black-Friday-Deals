@@ -227,6 +227,7 @@ Keep each deal on one line with one space around each pipe. Do not align column 
 
 | Savings | Name | Description | Discount | Code & Terms |
 | --- | --- | --- | --- | --- |
+| 💸 | [Everlog Journal](https://apps.apple.com/app/everlog-journal/id1519935634) | Private journal for iPhone, iPad and Mac with Markdown, photos, places and iCloud sync. | 50% off Premium: Lifetime $59.99 → $29.99, first year of Yearly $29.99 → $14.99 | Automatically applied in the app for anyone not on Premium; yearly renews at $29.99; 2026-11-27 to 2026-12-01 |
 
 [⬆️ Back to contents](#table-of-contents)
 
