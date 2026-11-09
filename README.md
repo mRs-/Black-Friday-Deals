@@ -85,6 +85,7 @@ Keep each deal on one line with one space around each pipe. Do not align column 
 | 💸 | [Outlier](https://outlier.host/) | Private local AI assistant for Mac (Apple silicon, macOS 15+). | 50% off: $24.50 once through 30 November; $49 from 1 December | No code needed; pay once, runs on your computer; 30-day refund; sale ends end of 30 November 2026, US time |
 | 💰 | [BoltAI](https://boltai.com/pricing?utm_source=mrsdeals&utm_medium=partner&utm_campaign=bf2026) | Native AI workspace for Mac: ChatGPT, Claude, Gemini and local AI models in one app, now with agents that browse in Chrome and use the apps you allow. | 40% off Pro, Pro+ and Lifetime | **BFCM2026**; Lifetime ~~$399~~ $239.40, Pro ~~$99~~ $58.80, Pro+ ~~$199~~ $118.80; one-time purchase; until 2026-12-01 |
 | 💰 | [PDF Pals](https://pdfpals.com/buy?utm_source=mrsdeals&utm_medium=partner&utm_campaign=bf2026) | Chat with your PDF, Word, Excel, PowerPoint, EPUB and Markdown files on Mac, with cited answers and built-in local AI models. | Lifetime ~~$249~~ $149; 20% off Basic and Plus | Lifetime: automatically applied; **BF20** for Basic (~~$59~~ $47.20) and Plus (~~$99~~ $79.20); one-time purchase; until 2026-12-01 |
+| 💰 | [SmartyTab](https://smartytab.app/) | Private AI autocomplete, writing check and rephrase for every app on your Mac; runs on device. | 30% off yearly and lifetime | **BF2026**; Lifetime ~~$99~~ $69.30, yearly ~~$49~~ $34.30 for the first year; until 2026-12-01 |
 
 [⬆️ Back to contents](#table-of-contents)
 
