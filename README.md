@@ -208,6 +208,7 @@ Keep each deal on one line with one space around each pipe. Do not align column 
 | 💰 | [Animation Icons](https://www.mingcute.com/animation?utm_source=mrsbf) | 120+ lively and smooth animated icons | **30% OFF** ($25 → $17.5) | code **BF2026** ; Nov 15, 2026 - Dec 5, 2026 |
 | 💰 | [Weather Icons](https://mgcweather.framer.website/?utm_source=mrsbf) | 120 graceful weather icons | **30% OFF** ($25 → $17.5) | code **BF2026** ; Nov 15, 2026 - Dec 5, 2026 |
 | 💰 | [PAPLO](https://getpaplo.com/news/black-friday-2026?utm_source=press-mrs-bf&utm_medium=listing&utm_campaign=press-mrs-bf) | Turn photos of your pets, friends and food into chat stickers on iPhone. | 43% off ($6.99 → $3.99) | No code needed; one-time in-app purchase (PAPLO Plus); 2026-11-27 to 2026-11-30 |
+| 💸 | [Sip](https://sipapp.io/pricing/?ref=mrs-bf) | Modern color picker for Mac that brings ease to color organization and team collaboration. | 50% off | **BLACKFRIDAY26**; 2026-11-27 to 2026-12-01 |
 
 [⬆️ Back to contents](#table-of-contents)
 
