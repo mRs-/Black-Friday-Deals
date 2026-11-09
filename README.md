@@ -98,6 +98,7 @@ Keep each deal on one line with one space around each pipe. Do not align column 
 | 💰 | [Outmano](https://outmano.com/?utm_source=mrsbf) | AI competitive intelligence for SaaS teams, with change alerts and MCP access. | 30% off any monthly plan for 12 months | **BF2026**; new customers only; 2026-11-03 to 2026-12-02 |
 | 💸 | [LandinTools](https://tools.landin.page/advertise?ref=Black-Friday-Deals) | Directory of 1,000+ AI and SaaS tools. Get your tool featured for a full year. | 50% off Featured listing: $49 → $24.50 | **BF2026**; one year of Featured placement; Black Friday offer |
 | 💰 | [Quotion](https://quotion.co/#pricing) | Turn Apple Notes into blogs, portfolios and portals. Web-based, no coding required. | 30% off all paid plans for 12 months | **BLACKFRIDAY2026**; monthly or annual billing; 2026-11-09 to 2026-12-02 |
+| 💰 | [Terlido](https://terlido.com/pricing?utm_source=mrsbf&utm_medium=deal-list&utm_campaign=bfcm-2026) | Cold email and newsletters from your own mailbox, with warmup, campaigns, inbox and an AI agent. | 40% off for 12 months: Email Pro $39 → $23.40/seat/mo, Newsletter Pro $29 → $17.40/mo | **BF2026**; 2026-11-09 to 2026-12-01 |
 
 [⬆️ Back to contents](#table-of-contents)
 
@@ -282,6 +283,7 @@ Keep each deal on one line with one space around each pipe. Do not align column 
 | --- | --- | --- | --- | --- |
 | 💸 | [ConnectWizard](https://apple.co/3ZsiEEZ) | Unlock hidden App Store Connect Analytics. | Pro Annual 50% off ($100 → $50) | Automatically applied; no code needed; 2026-11-27 to 2026-12-1 |
 | 💰 | [Umami Manager](https://apple.co/40MP50F) | Monitor & Analyze & Manage your Umami Analytics on the go. | Lifetime 25% off | Automatically applied; no code needed; 2026-11-27 to 2026-12-1 |
+| 💰 | [PageDuel](https://pageduel.com/pricing?utm_source=mrsbf&utm_medium=deal-list&utm_campaign=bfcm-2026) | Web analytics, A/B testing and revenue attribution in one tool. | 40% off for 12 months, plans from $9 → $5.40/mo | **BF2026**; 2026-11-09 to 2026-12-01 |
 
 [⬆️ Back to contents](#table-of-contents)
 
