@@ -157,6 +157,7 @@ Keep each deal on one line with one space around each pipe. Do not align column 
 | 💰 | [Kilobat Pro](https://kilobat.app) | Native macOS network monitoring and diagnostics for app connections and hotspot data. | 30% off (US$29 → US$20.30 before tax) | **BLACKFRIDAY30**; one-time Pro license for two Macs, includes v1 updates; 2026-11-20 to 2026-11-30 (upcoming) |
 | 💸 | [FileOctopus](https://www.fileoctopus.com/black-friday.html?ref=mRs-Black-Friday-Deals) | Native Mac file manager that feels like Finder, with split panes, named workspaces, a Shelf, Compare Folders and fast search. | 50% off PRO ($29.99 → $14.99) | **BLACKFRIDAY2026**; automatically applied by the Buy button on the sale page; one-time purchase, up to 2 Macs, lifetime updates; 2026-11-27 to 2026-11-30 (UTC) |
 | 💸 | [Transcrybe](https://transcrybe.app/) | Live translated subtitles for your microphone or any Mac app. | 50% off one-time purchase ($29.99 → $14.99 USD) | Automatically applied; Mac App Store and direct website; no code needed; 2026-11-16 to 2026-12-02 |
+| 💸 | [SnapTidy: Photo Swipe & Delete](https://snaptidyapp.github.io/snaptidy-site/blackfriday/) | Photo cleaner for iPhone and iPad: swipe a few photos at a time to keep or mark; nothing is deleted until you confirm. | 50% off ($39.99 → $19.99) | Automatically applied; Pro Lifetime one-time in-app purchase; US price, local prices vary, not in mainland China; 2026-11-27 to 2026-11-30 |
 
 [⬆️ Back to contents](#table-of-contents)
 
