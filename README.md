@@ -226,6 +226,7 @@ Keep each deal on one line with one space around each pipe. Do not align column 
 
 | Savings | Name | Description | Discount | Code & Terms |
 | --- | --- | --- | --- | --- |
+| 💸 | [Nuelink](https://offer.nuelink.com/mcp/?utm_source=github&utm_medium=referral&utm_campaign=bfcm_2026&utm_content=mrs_black_friday_deals) | Agentic social media scheduler: tell Claude or ChatGPT what to post and Nuelink publishes it to 12 platforms. | 50% off yearly plans (6 months free) or 25% off your first 3 monthly payments | **BFCM26**; yearly: first year only; monthly: first 3 paid months; 2026-11-06 to 2026-11-30 |
 
 [⬆️ Back to contents](#table-of-contents)
 
