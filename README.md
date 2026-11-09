@@ -105,6 +105,9 @@ Please follow the rules below:
 |💸|[Terlido](https://terlido.com/pricing?utm_source=dqhieu&utm_medium=deal-list&utm_campaign=bfcm-2026)| Cold email and newsletters from your own mailbox: warmup, campaigns, inbox and an AI agent. Newsletters free up to 10,000 subscribers. | **40% OFF** for 12 months with code **BF2026**: Email Pro $39 → $23.40/seat/mo, Newsletter Pro $29 → $17.40/mo (until Dec 1, 2026)|
 |💸|[PageDuel](https://pageduel.com/pricing?utm_source=dqhieu&utm_medium=deal-list&utm_campaign=bfcm-2026)| Web analytics, A/B testing and revenue attribution in one tool, plus funnels and URL personalization. For indie hackers, SaaS and Shopify stores. | **40% OFF** for 12 months with code **BF2026**: plans from $9 → $5.40/mo (until Dec 1, 2026)|
 |💸|[RenderPixels](https://renderpixels.com/?ref=dqhieu)| MCP server that lets Claude, ChatGPT or other assistants that support remote MCP and OAuth make your marketing images, like Open Graph images, social posts and logos | **20% OFF** any credit pack with code **BF2026** (credits never expire, until Nov 30)|
+|💸|[BoltAI](https://boltai.com/pricing?utm_source=dqhieu&utm_medium=partner&utm_campaign=bf2026)| Native AI workspace for macOS with ChatGPT, Claude, Gemini and local AI models, plus agents that browse in Chrome | **40% OFF** every plan with code **BFCM2026**, Lifetime $239.40 (until Dec 1)|
+|💸|[PDF Pals](https://pdfpals.com/buy?utm_source=dqhieu&utm_medium=partner&utm_campaign=bf2026)| Chat with your PDF, Word, Excel, PowerPoint and EPUB files on macOS, with local AI models | **40% OFF** Lifetime ($249 → $149), no code needed; **20% OFF** Basic and Plus with code **BF20** (until Dec 1)|
+|💸|[KTool](https://ktool.io/pricing?utm_source=dqhieu&utm_medium=partner&utm_campaign=bf2026)| Send articles, newsletters and RSS feeds to your Kindle, from the web, Chrome, iPhone or Android | **17% OFF** Lifetime ($179 → $149), no code needed (until Dec 1)|
 
 ---
 
