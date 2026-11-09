@@ -245,6 +245,7 @@ Keep each deal on one line with one space around each pipe. Do not align column 
 | --- | --- | --- | --- | --- |
 | 💸 | [learningtodj.com](https://school.learningtodj.com?utm_source=github&utm_campaign=blackfriday26) | Online house & techno DJ academy featuring comprehensive courses, publications, and books covering mixing fundamentals, theory, equipment, and track curation. | 50% off all courses, publications & books | Use code `BLACKFRIDAY26` |
 | 💸 | [Get Your First Client](https://getyourfirstclient.freelancerpath.com/?ref=Black-Friday-Deals) | Step-by-step guide plus Notion templates (proposal, contract, invoice, CRM) to land your first freelance client. | 50% off: $49.99 → $24.99 | **BLACK**; limited redemptions |
+| 💸 | [LabEx Pro](https://labex.io/) | Learn Linux, DevOps, Cybersecurity, and Cloud with hands-on labs. | 50% off two years; 30% off one year | [Two years](https://labex.io/checkout?type=4&coupon=2026BF50): **2026BF50**; [One year](https://labex.io/checkout?type=2&coupon=2026BF30): **2026BF30**; ends 2026-12-07 |
 
 [⬆️ Back to contents](#table-of-contents)
 
