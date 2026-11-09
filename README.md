@@ -98,6 +98,7 @@ Please follow the rules below:
 |🤑|[Posteady](https://www.posteady.com/black-friday?promo=BF26&utm_source=dqhieu&utm_medium=referral&utm_campaign=bf2026)| Web app that turns a link or idea into social carousels, Reels and Shorts, and schedules posts to 7 social networks | **50% OFF** annual plans with code **BF26**, price kept while you stay annual · new monthly subscribers get 20% OFF the first 3 months (Nov 20 – Dec 3)|
 |💸|[LabEx Pro (1 Year)](https://labex.io/checkout?type=2&coupon=2026BF30)| Browser-based hands-on labs for Linux, DevOps, Cybersecurity, and Cloud. | **30% OFF** one-year membership with code **2026BF30** (ends Dec 7, 2026)|
 |🤑|[LabEx Pro (2 Years)](https://labex.io/checkout?type=4&coupon=2026BF50)| Browser-based hands-on labs for Linux, DevOps, Cybersecurity, and Cloud. | **50% OFF** two-year membership with code **2026BF50** (ends Dec 7, 2026)|
+|🤑|[SubManager](https://submanager.app)| Track subscriptions across your Apple devices and never miss a renewal. | **50% OFF** SubManager+ for lifetime. Available between Nov 27 and Nov 30. |
 
 ---
 
