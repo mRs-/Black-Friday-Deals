@@ -91,6 +91,8 @@ Please follow the rules below:
 |💸|[Iruka](https://iruka.sh/black-friday)| Native file manager for macOS with dual panes, previews, and a terminal that follows your folder | **30% OFF** new licences, one-time purchase, with code **BF30** (Nov 6 – Dec 3)|
 |💸|[Evendeals](https://evendeals.com/?ref=dqhieu)| Purchasing power parity pricing for SaaS and digital products on the web, increase revenue by up to 30% | **40% OFF** all annual and lifetime plans with code **BF2026** (Nov 5 – Nov 30)|
 |💸|[AdminKit](https://adminkit.io/pricing/)| Bootstrap 5 admin dashboard template for the web, in HTML, React and Next.js versions | **30% OFF** all licenses, one-time payment, with code **BF2026** (Nov 23 – Dec 6)|
+|💸|[LabEx Pro (1 Year)](https://labex.io/checkout?type=2&coupon=2026BF30)| Browser-based hands-on labs for Linux, DevOps, Cybersecurity, and Cloud. | **30% OFF** one-year membership with code **2026BF30** (ends Dec 7, 2026)|
+|🤑|[LabEx Pro (2 Years)](https://labex.io/checkout?type=4&coupon=2026BF50)| Browser-based hands-on labs for Linux, DevOps, Cybersecurity, and Cloud. | **50% OFF** two-year membership with code **2026BF50** (ends Dec 7, 2026)|
 
 ---
 
