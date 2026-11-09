@@ -249,6 +249,7 @@ Keep each deal on one line with one space around each pipe. Do not align column 
 | --- | --- | --- | --- | --- |
 | 💸 | [learningtodj.com](https://school.learningtodj.com?utm_source=github&utm_campaign=blackfriday26) | Online house & techno DJ academy featuring comprehensive courses, publications, and books covering mixing fundamentals, theory, equipment, and track curation. | 50% off all courses, publications & books | Use code `BLACKFRIDAY26` |
 | 💸 | [Get Your First Client](https://getyourfirstclient.freelancerpath.com/?ref=Black-Friday-Deals) | Step-by-step guide plus Notion templates (proposal, contract, invoice, CRM) to land your first freelance client. | 50% off: $49.99 → $24.99 | **BLACK**; limited redemptions |
+| 💰 | [pwn.guide](https://pwn.guide/pricing) | Hands-on ethical hacking and cybersecurity tutorials, plus CompTIA Security+ and PenTest+ certification training. | 20% off all plans, forever (Certificate lifetime $249 → $199.20) | **BLKFRI20**; applies to every renewal and to lifetime plans; card checkout; 2026-11-01 to 2026-12-05 |
 
 [⬆️ Back to contents](#table-of-contents)
 
