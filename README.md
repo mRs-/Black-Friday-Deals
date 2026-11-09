@@ -142,6 +142,7 @@ Keep each deal on one line with one space around each pipe. Do not align column 
 | 💰 | [SnowWall](https://snowwall.app) | Weather for the Mac desktop: snow settles on your windows and slides off when you drag them; rain fogs the glass. | 33% off ($14.99 → $9.99) | Automatically applied in the Mac App Store; SnowWall Pro one-time in-app purchase, free download; 2026-11-27 to 2026-12-01 |
 | 💸 | [Mac 4 Breakfast](https://www.mac4breakfast.app) | Menu bar battery app for Mac: battery health, cycle count, live watts and smart alerts, plus iPhone, iPad and AirPods batteries. | 50% off ($9.99 → $4.99) | **BLACKFRIDAY26**; one-time purchase, license covers 3 Macs; 2026-11-23 to 2026-12-01 (UTC) |
 | 💰 | [PeakHour](https://peakhour.app) | Real-time network, Wi-Fi and bandwidth monitor for the Mac menu bar. | 30% off | Automatically applied; lifetime purchase on the Mac App Store, $49.99 → $34.99; 2026-11-27 to 2026-12-01 |
+| 💸 | [Transcrybe](https://transcrybe.app/) | Live translated subtitles for your microphone or any Mac app. | 50% off one-time purchase ($29.99 → $14.99 USD) | Automatically applied; Mac App Store and direct website; no code needed; 2026-11-16 to 2026-12-02 |
 
 [⬆️ Back to contents](#table-of-contents)
 
@@ -225,6 +226,8 @@ Keep each deal on one line with one space around each pipe. Do not align column 
 | Savings | Name | Description | Discount | Code & Terms |
 | --- | --- | --- | --- | --- |
 | 💸 | [FindExams](https://findexams.com) | Certification exam simulator with mock exams and performance analytics for PMP, PMI-ACP, PMI-PBA, IIBA-AAC, and ITIL 4. | 75% off selected packages | Automatically applied; limited time |
+| 💸 | [Nihongo](https://nihongo-app.com/) | Japanese dictionary and study app for words you encounter. | 50% off Nihongo Pro lifetime ($179.99 → $89.99 USD) | Automatically applied in-app; no code needed; 2026-11-16 to 2026-12-02 |
+| 💸 | [Nihongo Lessons](https://lessons.nihongo-app.com/) | Learn Japanese vocabulary and grammar with sentence-based flashcards. | 50% off All Access lifetime ($299.99 → $149.99 USD) | Automatically applied in-app; no code needed; 2026-11-16 to 2026-12-02 |
 
 [⬆️ Back to contents](#table-of-contents)
 
