@@ -105,6 +105,7 @@ Please follow the rules below:
 |💸|[Terlido](https://terlido.com/pricing?utm_source=dqhieu&utm_medium=deal-list&utm_campaign=bfcm-2026)| Cold email and newsletters from your own mailbox: warmup, campaigns, inbox and an AI agent. Newsletters free up to 10,000 subscribers. | **40% OFF** for 12 months with code **BF2026**: Email Pro $39 → $23.40/seat/mo, Newsletter Pro $29 → $17.40/mo (until Dec 1, 2026)|
 |💸|[PageDuel](https://pageduel.com/pricing?utm_source=dqhieu&utm_medium=deal-list&utm_campaign=bfcm-2026)| Web analytics, A/B testing and revenue attribution in one tool, plus funnels and URL personalization. For indie hackers, SaaS and Shopify stores. | **40% OFF** for 12 months with code **BF2026**: plans from $9 → $5.40/mo (until Dec 1, 2026)|
 |💸|[RenderPixels](https://renderpixels.com/?ref=dqhieu)| MCP server that lets Claude, ChatGPT or other assistants that support remote MCP and OAuth make your marketing images, like Open Graph images, social posts and logos | **20% OFF** any credit pack with code **BF2026** (credits never expire, until Nov 30)|
+|🤑|[SnapTidy: Photo Swipe & Delete](https://snaptidyapp.github.io/snaptidy-site/blackfriday/)| Photo cleaner for iPhone and iPad: swipe a few photos at a time to keep or mark; nothing is deleted until you confirm. | **50% OFF** Pro Lifetime (one-time in-app purchase) · $39.99 → $19.99 · Nov 27–30, 2026 · no code needed; US price, local prices vary|
 
 ---
 
