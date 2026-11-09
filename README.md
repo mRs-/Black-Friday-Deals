@@ -94,6 +94,7 @@ Please follow the rules below:
 |💸|[GetYouTubeTranscript](https://getyoutubetranscript.com/)| YouTube transcript API, MCP server and Chrome extension for the web | **30% OFF** the first year of the annual plan, applied automatically at checkout or with code **BF26GYT** (Nov 1 – Dec 10)|
 |🤑|[ScreenSage Pro](https://screensage.pro/bf2026?ref=dqhieu-bf2026)| Native macOS screen recorder and video editor for demos and tutorials | **Up to 53% OFF** one-time licenses: Lifetime $449 → $209.90 with code **BFS2026L** (53%); Pro $149 → $79.90 with code **BFS2026P** (46%) (Nov 4 – Dec 15, 2026)|
 |💸|[CleanClip](https://pricing.cleanclip.cc/src?ref=dqhieu-bf2026)| Native macOS clipboard history manager with searchable history and quick paste | **30% OFF** one-time licenses: Standard $19.99 → $13.99 and Pro $29.99 → $20.99 with code **BF2026** (Nov 4 – Dec 15, 2026)|
+|🤑|[Nuelink](https://offer.nuelink.com/mcp/?utm_source=github&utm_medium=referral&utm_campaign=bfcm_2026&utm_content=dqhieu_black_friday_deals)| Agentic social media scheduling on the web: tell Claude or ChatGPT what to post and Nuelink publishes it to 12 platforms | **50% OFF** yearly plans (6 months free) or **25% OFF** your first 3 monthly payments with code **BFCM26** (Nov 6 – Nov 30)|
 
 ---
 
