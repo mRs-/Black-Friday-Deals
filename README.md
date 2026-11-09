@@ -142,6 +142,10 @@ Keep each deal on one line with one space around each pipe. Do not align column 
 | 💰 | [SnowWall](https://snowwall.app) | Weather for the Mac desktop: snow settles on your windows and slides off when you drag them; rain fogs the glass. | 33% off ($14.99 → $9.99) | Automatically applied in the Mac App Store; SnowWall Pro one-time in-app purchase, free download; 2026-11-27 to 2026-12-01 |
 | 💸 | [Mac 4 Breakfast](https://www.mac4breakfast.app) | Menu bar battery app for Mac: battery health, cycle count, live watts and smart alerts, plus iPhone, iPad and AirPods batteries. | 50% off ($9.99 → $4.99) | **BLACKFRIDAY26**; one-time purchase, license covers 3 Macs; 2026-11-23 to 2026-12-01 (UTC) |
 | 💰 | [PeakHour](https://peakhour.app) | Real-time network, Wi-Fi and bandwidth monitor for the Mac menu bar. | 30% off | Automatically applied; lifetime purchase on the Mac App Store, $49.99 → $34.99; 2026-11-27 to 2026-12-01 |
+| 💰 | [CleanClip](https://pricing.cleanclip.cc/src?ref=mrsbf2026) | Minimalist clipboard manager for Mac with searchable history, smart lists, quick paste and Paste Stack. | 30% off: Standard $19.99 → $13.99; Pro $29.99 → $20.99 | **BF2026**; one-time purchase; 2026-11-04 to 2026-12-15 |
+| 💰 | [iKnowMyMac](https://iknowmymac.com) | Menu bar app that remembers what your Mac did while you weren't looking: what woke it, overnight battery drain by app, every USB device and new login items. Agent Undo puts back files a coding agent changed. | With iKnowMyDisplay as the iKnow Suite: 25% off, both apps $7.99 → $5.99 (2 Macs $10.99; 5 Macs $29.99). iKnowMyMac alone: $4.99 launch price | Suite at [iknowmydisplay.com/suite](https://iknowmydisplay.com/suite), automatically applied, no code needed; one-time purchase; Apple silicon, macOS 15 or later; 2026-11-27 to 2026-12-01, while launch licences last |
+| 💰 | [iKnowMyDisplay](https://iknowmydisplay.com) | Every display control macOS hides, in the menu bar: external monitor brightness, resolution, refresh rate, HDR, colour and a TV remote, plus Check this monitor for 30 Hz, blurry text or flicker. | With iKnowMyMac as the iKnow Suite: 25% off, both apps $7.99 → $5.99 (2 Macs $10.99; 5 Macs $29.99). iKnowMyDisplay alone: $4.99 launch price | Suite at [iknowmydisplay.com/suite](https://iknowmydisplay.com/suite), automatically applied, no code needed; one-time purchase; Apple silicon, macOS 15 or later; 2026-11-27 to 2026-12-01, while launch licences last |
+| 💸 | [AudioRecorder.app](https://apps.apple.com/app/apple-store/id6742782372?pt=551454&ct=bfcm26-gh-mrs&mt=8) | Record system audio and microphone on your Mac in one click, no drivers needed. | 60% off Lifetime ($24.99 → $9.99) | Automatically applied on the Mac App Store; one-time Lifetime unlock (monthly and yearly plans not discounted); macOS 15.2+; 2026-11-20 to 2026-12-01 |
 
 [⬆️ Back to contents](#table-of-contents)
 
@@ -168,6 +172,7 @@ Keep each deal on one line with one space around each pipe. Do not align column 
 | 💰 | [InfiniDesk](https://infinidesk.app/?ref=mrs-black-friday-deals) | Create multiple desktop 'surfaces' on your Mac, each with its own layout of file and folder icons, widget visibility, and wallpaper. | 30% off ($12.99 → $8.99) | With code **INFINIBLACK**; 2026-11-25 to 2026-12-04 |
 | 💸 | [PastePal](https://indiegoodies.com/pastepal) | Clipboard manager for Mac, iPhone and iPad that keeps everything you copy searchable, organized and synced through iCloud. Native, private, one-time purchase. | 50% off ($14.99 → $7.49) | **INDIEGOODIESBF26**; standalone Mac version, lifetime license; 2026-11-20 to 2026-11-30 |
 | 💸 | [Overcal](https://indiegoodies.com/overcal) | Your calendar in the Mac menu bar: month view, agenda, world clocks, and a countdown with one-click join for your next meeting. | 50% off ($7.99 → $3.99) | **INDIEGOODIESBF26**; lifetime license; 2026-11-20 to 2026-11-30 |
+| 💰 | [Spacepal](https://getspacepal.com/black-friday/?ref=mrs-black-friday-deals) | Names and live previews for Mac desktops (Spaces), with window search and instant switching. | 20% off ($9.99 → $7.99) | Automatically applied at checkout; one-time license for up to 3 Macs; 2026-11-27 to 2026-12-01 (Pacific time) |
 | 💸 | [Pretty Progress – Countdown](https://prettyprogress.app/download) | Beautiful countdown and progress bar widgets to visualise and track your events and deadlines. | 50% off Lifetime ($59.99 → $29.99 USD) | Automatically applied in the app; no code needed; lifetime one-time purchase; 2026-11-20 to 2026-12-01 |
 
 [⬆️ Back to contents](#table-of-contents)
@@ -183,6 +188,8 @@ Keep each deal on one line with one space around each pipe. Do not align column 
 | 💰 | [MatchCut FCP](https://matchcutfcp.aquaflamingolabs.com/?utm_source=github&utm_campaign=blackfriday26) | Transcribes audio to SRT and automatically aligns ordered media assets to caption timestamps in Final Cut Pro in seconds. | 40% off | Use code `BLACKFRIDAY26` |
 | 💸 | [Crisp](https://crispvideo.app/) | Offline video and photo upscaler and restorer for Mac (Apple silicon, macOS 14+) and Windows 10/11. | 50% off: $14.50 once through 30 November; $29 from 1 December | No code needed; pay once, runs on your computer; free version exports 15 seconds with a small mark; 30-day refund; sale ends end of 30 November 2026, US time |
 | 💰 | [Oil Studio](https://studio.oiloil.org/en/?ref=bf-deals#price) | Native macOS screen recorder and transcript video editor with auto zoom on clicks, smooth cursor, on-device Whisper captions, and AI agent CLI. | 20% off ($49 → $39) | Automatically applied; one-time purchase for 2 Macs, free trial; 2026-11-07 to 2026-12-01 |
+| 💸 | [ScreenSage Pro](https://screensage.pro/bf2026?ref=mrsbf2026) | Screen recorder and video editor for Mac with cursor-following auto zoom, camera layouts, and iPhone/iPad capture. | Up to 53% off: Lifetime $449 → $209.90; Pro (3 Macs) $149 → $79.90 (46% off) | **BFS2026L** for Lifetime; **BFS2026P** for Pro; one-time purchase; until 2026-12-15 |
+| 💸 | [Recorder.app](https://apps.apple.com/app/apple-store/id6740995613?pt=551454&ct=bfcm26-gh-mrs&mt=8) | Native Mac recorder: screen, windows, camera, mic and system audio at the same time, into separate, perfectly synced files. | 60% off Lifetime ($44.99 → $17.99) | Automatically applied on the Mac App Store; one-time Lifetime unlock (monthly and yearly plans not discounted); 2026-11-20 to 2026-12-01 |
 
 [⬆️ Back to contents](#table-of-contents)
 
@@ -198,6 +205,7 @@ Keep each deal on one line with one space around each pipe. Do not align column 
 | 💰 | [MingCute UI](https://ui.mingcute.com/?utm_source=mrsbf) | Design system and UI Kit for Figma | **30% OFF** ($59 → $41) | code **BF2026** ; Nov 15, 2026 - Dec 5, 2026 |
 | 💰 | [Animation Icons](https://www.mingcute.com/animation?utm_source=mrsbf) | 120+ lively and smooth animated icons | **30% OFF** ($25 → $17.5) | code **BF2026** ; Nov 15, 2026 - Dec 5, 2026 |
 | 💰 | [Weather Icons](https://mgcweather.framer.website/?utm_source=mrsbf) | 120 graceful weather icons | **30% OFF** ($25 → $17.5) | code **BF2026** ; Nov 15, 2026 - Dec 5, 2026 |
+| 💰 | [PAPLO](https://getpaplo.com/news/black-friday-2026?utm_source=press-mrs-bf&utm_medium=listing&utm_campaign=press-mrs-bf) | Turn photos of your pets, friends and food into chat stickers on iPhone. | 43% off ($6.99 → $3.99) | No code needed; one-time in-app purchase (PAPLO Plus); 2026-11-27 to 2026-11-30 |
 
 [⬆️ Back to contents](#table-of-contents)
 
@@ -246,6 +254,7 @@ Keep each deal on one line with one space around each pipe. Do not align column 
 | --- | --- | --- | --- | --- |
 | 💸 | [learningtodj.com](https://school.learningtodj.com?utm_source=github&utm_campaign=blackfriday26) | Online house & techno DJ academy featuring comprehensive courses, publications, and books covering mixing fundamentals, theory, equipment, and track curation. | 50% off all courses, publications & books | Use code `BLACKFRIDAY26` |
 | 💸 | [Get Your First Client](https://getyourfirstclient.freelancerpath.com/?ref=Black-Friday-Deals) | Step-by-step guide plus Notion templates (proposal, contract, invoice, CRM) to land your first freelance client. | 50% off: $49.99 → $24.99 | **BLACK**; limited redemptions |
+| 💰 | [pwn.guide](https://pwn.guide/pricing) | Hands-on ethical hacking and cybersecurity tutorials, plus CompTIA Security+ and PenTest+ certification training. | 20% off all plans, forever (Certificate lifetime $249 → $199.20) | **BLKFRI20**; applies to every renewal and to lifetime plans; card checkout; 2026-11-01 to 2026-12-05 |
 
 [⬆️ Back to contents](#table-of-contents)
 
@@ -278,6 +287,7 @@ Keep each deal on one line with one space around each pipe. Do not align column 
 | Savings | Name | Description | Discount | Code & Terms |
 | --- | --- | --- | --- | --- |
 | 💸 | [Crisp, Docket and Outlier bundle](https://crispvideo.app/pricing/) | All three apps from one person in Grand Rapids: video upscaler, SEO audit, private local assistant. | 50% off: $49.50 once through 30 November; $99 from 1 December | No code needed; pay once; 30-day refund on each app; sale ends end of 30 November 2026, US time |
+| 💰 | [iKnow Suite: iKnowMyMac + iKnowMyDisplay](https://iknowmydisplay.com/suite) | Both Mac apps on one key: iKnowMyMac remembers what your Mac did while you weren't looking, iKnowMyDisplay gives you the display controls macOS hides. | 25% off: 1 Mac $7.99 → $5.99; 2 Macs $14.99 → $10.99; 5 Macs $39.99 → $29.99 | Automatically applied, no code needed; one-time purchase, 14-day refund; Apple silicon, macOS 15 or later; 2026-11-27 to 2026-12-01, while launch licences last |
 
 [⬆️ Back to contents](#table-of-contents)
 
