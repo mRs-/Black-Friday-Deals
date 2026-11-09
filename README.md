@@ -96,6 +96,8 @@ Please follow the rules below:
 |💸|[CleanClip](https://pricing.cleanclip.cc/src?ref=dqhieu-bf2026)| Native macOS clipboard history manager with searchable history and quick paste | **30% OFF** one-time licenses: Standard $19.99 → $13.99 and Pro $29.99 → $20.99 with code **BF2026** (Nov 4 – Dec 15, 2026)|
 |🤑|[Nuelink](https://offer.nuelink.com/mcp/?utm_source=github&utm_medium=referral&utm_campaign=bfcm_2026&utm_content=dqhieu_black_friday_deals)| Agentic social media scheduling on the web: tell Claude or ChatGPT what to post and Nuelink publishes it to 12 platforms | **50% OFF** yearly plans (6 months free) or **25% OFF** your first 3 monthly payments with code **BFCM26** (Nov 6 – Nov 30)|
 |🤑|[Posteady](https://www.posteady.com/black-friday?promo=BF26&utm_source=dqhieu&utm_medium=referral&utm_campaign=bf2026)| Web app that turns a link or idea into social carousels, Reels and Shorts, and schedules posts to 7 social networks | **50% OFF** annual plans with code **BF26**, price kept while you stay annual · new monthly subscribers get 20% OFF the first 3 months (Nov 20 – Dec 3)|
+|💸|[LabEx Pro (1 Year)](https://labex.io/checkout?type=2&coupon=2026BF30)| Browser-based hands-on labs for Linux, DevOps, Cybersecurity, and Cloud. | **30% OFF** one-year membership with code **2026BF30** (ends Dec 7, 2026)|
+|🤑|[LabEx Pro (2 Years)](https://labex.io/checkout?type=4&coupon=2026BF50)| Browser-based hands-on labs for Linux, DevOps, Cybersecurity, and Cloud. | **50% OFF** two-year membership with code **2026BF50** (ends Dec 7, 2026)|
 
 ---
 
