@@ -104,6 +104,7 @@ Please follow the rules below:
 |🤑|[Piloterr](https://www.piloterr.com/blackfriday)| Web scraping API for developers, with headless browsers and proxy rotation handled for you, on the web | **50% OFF** the first 3 months on all monthly plans with code **BLACKFRIDAY50** (until Nov 30)|
 |💸|[Terlido](https://terlido.com/pricing?utm_source=dqhieu&utm_medium=deal-list&utm_campaign=bfcm-2026)| Cold email and newsletters from your own mailbox: warmup, campaigns, inbox and an AI agent. Newsletters free up to 10,000 subscribers. | **40% OFF** for 12 months with code **BF2026**: Email Pro $39 → $23.40/seat/mo, Newsletter Pro $29 → $17.40/mo (until Dec 1, 2026)|
 |💸|[PageDuel](https://pageduel.com/pricing?utm_source=dqhieu&utm_medium=deal-list&utm_campaign=bfcm-2026)| Web analytics, A/B testing and revenue attribution in one tool, plus funnels and URL personalization. For indie hackers, SaaS and Shopify stores. | **40% OFF** for 12 months with code **BF2026**: plans from $9 → $5.40/mo (until Dec 1, 2026)|
+|💸|[RenderPixels](https://renderpixels.com/?ref=dqhieu)| MCP server that lets Claude, ChatGPT or other assistants that support remote MCP and OAuth make your marketing images, like Open Graph images, social posts and logos | **20% OFF** any credit pack with code **BF2026** (credits never expire, until Nov 30)|
 
 ---
 
