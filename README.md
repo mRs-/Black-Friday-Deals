@@ -175,6 +175,7 @@ Keep each deal on one line with one space around each pipe. Do not align column 
 | 💸 | [Overcal](https://indiegoodies.com/overcal) | Your calendar in the Mac menu bar: month view, agenda, world clocks, and a countdown with one-click join for your next meeting. | 50% off ($7.99 → $3.99) | **INDIEGOODIESBF26**; lifetime license; 2026-11-20 to 2026-11-30 |
 | 💰 | [Spacepal](https://getspacepal.com/black-friday/?ref=mrs-black-friday-deals) | Names and live previews for Mac desktops (Spaces), with window search and instant switching. | 20% off ($9.99 → $7.99) | Automatically applied at checkout; one-time license for up to 3 Macs; 2026-11-27 to 2026-12-01 (Pacific time) |
 | 💸 | [Pretty Progress – Countdown](https://prettyprogress.app/download) | Beautiful countdown and progress bar widgets to visualise and track your events and deadlines. | 50% off Lifetime ($59.99 → $29.99 USD) | Automatically applied in the app; no code needed; lifetime one-time purchase; 2026-11-20 to 2026-12-01 |
+| 💰 | [OneMax](https://onemaxagent.com/en?ref=mrs) | Mac voice dictation that types clean text into any app and organizes your notes into topics and next steps. | 33% off Pro ($30 → $20/month, $300 → $200/year) | Automatically applied; first 100 subscribers, price locked while subscribed; 7-day free trial and free plan (5,000 words/week); until 2026-12-31 |
 
 [⬆️ Back to contents](#table-of-contents)
 
