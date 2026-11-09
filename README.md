@@ -65,6 +65,7 @@ Keep each deal on one line with one space around each pipe. Do not align column 
 | 💰 | [Poedit](https://poedit.com/purchase/?utm_source=mRs) | Translations editor for app and websites, supports PO, XLIFF, JSON, RESX and other formats, with built-in auto-translation. | 30% off | Code **BF26**; one-time or 1st year; 2026-11-04 to 2026-12-03 |
 | 💸 | [Runestone](https://apps.apple.com/us/app/runestone-text-editor/id1548193893) | Plain text editor with syntax highlighting for iPhone, iPad, and Apple Vision Pro. | 50% off Premium ($4.99 USD) | Automatically applied to the one-time in-app purchase. No code needed. November 24–30, 2026. |
 | 💰 | [WhaleDeck](https://apple.co/3NQJi4w) | Effortlessly manage and monitor your Docker servers on your iPhone, iPad, and Mac. | Lifetime 40% off ($57 → $35) | Automatically applied; no code needed; 2026-11-27 to 2026-12-1 |
+| 💸 | [1bench](https://1bench.dev/black-friday?utm_source=mrsbf) | Desktop GUI for 25+ databases including PostgreSQL, MySQL, Redis, ClickHouse, MongoDB and Qdrant. Mac, Windows and Linux. | 50% off the Solo lifetime licence ($199 → $99) | **FCBF26**; lifetime licence only; 2026-11-20 to 2026-12-07 |
 
 [⬆️ Back to contents](#table-of-contents)
 
