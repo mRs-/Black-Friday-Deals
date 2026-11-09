@@ -82,6 +82,8 @@ Keep each deal on one line with one space around each pipe. Do not align column 
 | 💰 | [Fluent 2](https://fluentmac.app/?ref=mrsbf) | Context-aware AI assistant for Mac apps, with writing tools, automation, and support for hosted or local models. | 25% off lifetime licenses | **BF2026**; one-time purchase; 2026-11-01 to 2026-12-01 |
 | 💸 | [RewriteBar](https://rewritebar.com?ref=mrs) | Menu-bar AI writing assistant for macOS that fixes grammar, adjusts tone, translates, and rewrites text in any app. | 50% off | **BF2026**; Standard lifetime license ~~$29~~ $14.50; 2026-11-02 to 2026-12-03 |
 | 💸 | [Outlier](https://outlier.host/) | Private local AI assistant for Mac (Apple silicon, macOS 15+). | 50% off: $24.50 once through 30 November; $49 from 1 December | No code needed; pay once, runs on your computer; 30-day refund; sale ends end of 30 November 2026, US time |
+| 💰 | [BoltAI](https://boltai.com/pricing?utm_source=mrsdeals&utm_medium=partner&utm_campaign=bf2026) | Native AI workspace for Mac: ChatGPT, Claude, Gemini and local AI models in one app, now with agents that browse in Chrome and use the apps you allow. | 40% off Pro, Pro+ and Lifetime | **BFCM2026**; Lifetime ~~$399~~ $239.40, Pro ~~$99~~ $58.80, Pro+ ~~$199~~ $118.80; one-time purchase; until 2026-12-01 |
+| 💰 | [PDF Pals](https://pdfpals.com/buy?utm_source=mrsdeals&utm_medium=partner&utm_campaign=bf2026) | Chat with your PDF, Word, Excel, PowerPoint, EPUB and Markdown files on Mac, with cited answers and built-in local AI models. | Lifetime ~~$249~~ $149; 20% off Basic and Plus | Lifetime: automatically applied; **BF20** for Basic (~~$59~~ $47.20) and Plus (~~$99~~ $79.20); one-time purchase; until 2026-12-01 |
 
 [⬆️ Back to contents](#table-of-contents)
 
@@ -241,6 +243,7 @@ Keep each deal on one line with one space around each pipe. Do not align column 
 | Savings | Name | Description | Discount | Code & Terms |
 | --- | --- | --- | --- | --- |
 | 💸 | [FindExams](https://findexams.com) | Certification exam simulator with mock exams and performance analytics for PMP, PMI-ACP, PMI-PBA, IIBA-AAC, and ITIL 4. | 75% off selected packages | Automatically applied; limited time |
+| 💰 | [KTool](https://ktool.io/pricing?utm_source=mrsdeals&utm_medium=partner&utm_campaign=bf2026) | Send articles, newsletters and RSS feeds to your Kindle, from your browser or your phone. | Lifetime ~~$179~~ $149 | Automatically applied; one-time purchase; until 2026-12-01 |
 
 [⬆️ Back to contents](#table-of-contents)
 
