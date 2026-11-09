@@ -65,6 +65,7 @@ Keep each deal on one line with one space around each pipe. Do not align column 
 | 💰 | [Poedit](https://poedit.com/purchase/?utm_source=mRs) | Translations editor for app and websites, supports PO, XLIFF, JSON, RESX and other formats, with built-in auto-translation. | 30% off | Code **BF26**; one-time or 1st year; 2026-11-04 to 2026-12-03 |
 | 💸 | [Runestone](https://apps.apple.com/us/app/runestone-text-editor/id1548193893) | Plain text editor with syntax highlighting for iPhone, iPad, and Apple Vision Pro. | 50% off Premium ($4.99 USD) | Automatically applied to the one-time in-app purchase. No code needed. November 24–30, 2026. |
 | 💰 | [WhaleDeck](https://apple.co/3NQJi4w) | Effortlessly manage and monitor your Docker servers on your iPhone, iPad, and Mac. | Lifetime 40% off ($57 → $35) | Automatically applied; no code needed; 2026-11-27 to 2026-12-1 |
+| 💸 | [Needling](https://andretan0.gumroad.com/l/leqnw/BLACKFRIDAY) | Claude Code status around the MacBook notch: two thin eyes show what Claude is doing, two bars show your 5-hour and weekly limits, and it nudges you when Claude needs you. Independent app, not made by Anthropic. | 60% off | **BLACKFRIDAY** (the link applies it); one-time purchase, $9.67 to $3.82; Apple Silicon, macOS 13+; 2026-11-27 to 2026-11-28 PST |
 
 [⬆️ Back to contents](#table-of-contents)
 
@@ -224,6 +225,7 @@ Keep each deal on one line with one space around each pipe. Do not align column 
 
 | Savings | Name | Description | Discount | Code & Terms |
 | --- | --- | --- | --- | --- |
+| 💸 | [Copet](https://andretan0.gumroad.com/l/btdicz/BLACKFRIDAY) | A tiny cat-bunny that hangs from your Mac's top bar and reacts to your day: happy when Claude Code finishes, panics before meetings, asks for a pet after an hour without a break. Nothing leaves your Mac. | 60% off | **BLACKFRIDAY** (the link applies it); one-time purchase, $9.67 to $3.82; macOS 14+; 2026-11-27 to 2026-11-28 PST |
 
 [⬆️ Back to contents](#table-of-contents)
 
