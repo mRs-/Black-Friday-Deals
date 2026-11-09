@@ -99,6 +99,7 @@ Please follow the rules below:
 |💸|[LabEx Pro (1 Year)](https://labex.io/checkout?type=2&coupon=2026BF30)| Browser-based hands-on labs for Linux, DevOps, Cybersecurity, and Cloud. | **30% OFF** one-year membership with code **2026BF30** (ends Dec 7, 2026)|
 |🤑|[LabEx Pro (2 Years)](https://labex.io/checkout?type=4&coupon=2026BF50)| Browser-based hands-on labs for Linux, DevOps, Cybersecurity, and Cloud. | **50% OFF** two-year membership with code **2026BF50** (ends Dec 7, 2026)|
 |🤑|[SubManager](https://submanager.app)| Track subscriptions across your Apple devices and never miss a renewal. | **50% OFF** SubManager+ for lifetime. Available between Nov 27 and Nov 30. |
+|💸|[Plugin Wizards](https://pluginwizards.com/black-friday/)| 31 single-purpose WooCommerce plugins for shipping, pricing, checkout and B2B on WordPress | **40% OFF** the first year of any plugin or All Access with code **WIZARDS40** (Nov 9 – Dec 1)|
 
 ---
 
