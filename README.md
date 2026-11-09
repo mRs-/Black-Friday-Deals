@@ -99,6 +99,8 @@ Please follow the rules below:
 |💸|[LabEx Pro (1 Year)](https://labex.io/checkout?type=2&coupon=2026BF30)| Browser-based hands-on labs for Linux, DevOps, Cybersecurity, and Cloud. | **30% OFF** one-year membership with code **2026BF30** (ends Dec 7, 2026)|
 |🤑|[LabEx Pro (2 Years)](https://labex.io/checkout?type=4&coupon=2026BF50)| Browser-based hands-on labs for Linux, DevOps, Cybersecurity, and Cloud. | **50% OFF** two-year membership with code **2026BF50** (ends Dec 7, 2026)|
 |🤑|[SubManager](https://submanager.app)| Track subscriptions across your Apple devices and never miss a renewal. | **50% OFF** SubManager+ for lifetime. Available between Nov 27 and Nov 30. |
+|💸|[Terlido](https://terlido.com/pricing?utm_source=dqhieu&utm_medium=deal-list&utm_campaign=bfcm-2026)| Cold email and newsletters from your own mailbox: warmup, campaigns, inbox and an AI agent. Newsletters free up to 10,000 subscribers. | **40% OFF** for 12 months with code **BF2026**: Email Pro $39 → $23.40/seat/mo, Newsletter Pro $29 → $17.40/mo (until Dec 1, 2026)|
+|💸|[PageDuel](https://pageduel.com/pricing?utm_source=dqhieu&utm_medium=deal-list&utm_campaign=bfcm-2026)| Web analytics, A/B testing and revenue attribution in one tool, plus funnels and URL personalization. For indie hackers, SaaS and Shopify stores. | **40% OFF** for 12 months with code **BF2026**: plans from $9 → $5.40/mo (until Dec 1, 2026)|
 
 ---
 
