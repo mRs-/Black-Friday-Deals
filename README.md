@@ -152,6 +152,7 @@ Keep each deal on one line with one space around each pipe. Do not align column 
 | 💸 | [AudioRecorder.app](https://apps.apple.com/app/apple-store/id6742782372?pt=551454&ct=bfcm26-gh-mrs&mt=8) | Record system audio and microphone on your Mac in one click, no drivers needed. | 60% off Lifetime ($24.99 → $9.99) | Automatically applied on the Mac App Store; one-time Lifetime unlock (monthly and yearly plans not discounted); macOS 15.2+; 2026-11-20 to 2026-12-01 |
 | 💰 | [Kilobat Pro](https://kilobat.app) | Native macOS network monitoring and diagnostics for app connections and hotspot data. | 30% off (US$29 → US$20.30 before tax) | **BLACKFRIDAY30**; one-time Pro license for two Macs, includes v1 updates; 2026-11-20 to 2026-11-30 (upcoming) |
 | 💸 | [FileOctopus](https://www.fileoctopus.com/black-friday.html?ref=mRs-Black-Friday-Deals) | Native Mac file manager that feels like Finder, with split panes, named workspaces, a Shelf, Compare Folders and fast search. | 50% off PRO ($29.99 → $14.99) | **BLACKFRIDAY2026**; automatically applied by the Buy button on the sale page; one-time purchase, up to 2 Macs, lifetime updates; 2026-11-27 to 2026-11-30 (UTC) |
+| 💸 | [Transcrybe](https://transcrybe.app/) | Live translated subtitles for your microphone or any Mac app. | 50% off one-time purchase ($29.99 → $14.99 USD) | Automatically applied; Mac App Store and direct website; no code needed; 2026-11-16 to 2026-12-02 |
 
 [⬆️ Back to contents](#table-of-contents)
 
@@ -245,6 +246,8 @@ Keep each deal on one line with one space around each pipe. Do not align column 
 | --- | --- | --- | --- | --- |
 | 💸 | [FindExams](https://findexams.com) | Certification exam simulator with mock exams and performance analytics for PMP, PMI-ACP, PMI-PBA, IIBA-AAC, and ITIL 4. | 75% off selected packages | Automatically applied; limited time |
 | 💰 | [KTool](https://ktool.io/pricing?utm_source=mrsdeals&utm_medium=partner&utm_campaign=bf2026) | Send articles, newsletters and RSS feeds to your Kindle, from your browser or your phone. | Lifetime ~~$179~~ $149 | Automatically applied; one-time purchase; until 2026-12-01 |
+| 💸 | [Nihongo](https://nihongo-app.com/) | Japanese dictionary and study app for words you encounter. | 50% off Nihongo Pro lifetime ($179.99 → $89.99 USD) | Automatically applied in-app; no code needed; 2026-11-16 to 2026-12-02 |
+| 💸 | [Nihongo Lessons](https://lessons.nihongo-app.com/) | Learn Japanese vocabulary and grammar with sentence-based flashcards. | 50% off All Access lifetime ($299.99 → $149.99 USD) | Automatically applied in-app; no code needed; 2026-11-16 to 2026-12-02 |
 
 [⬆️ Back to contents](#table-of-contents)
 
