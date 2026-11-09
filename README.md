@@ -99,6 +99,7 @@ Please follow the rules below:
 |💸|[LabEx Pro (1 Year)](https://labex.io/checkout?type=2&coupon=2026BF30)| Browser-based hands-on labs for Linux, DevOps, Cybersecurity, and Cloud. | **30% OFF** one-year membership with code **2026BF30** (ends Dec 7, 2026)|
 |🤑|[LabEx Pro (2 Years)](https://labex.io/checkout?type=4&coupon=2026BF50)| Browser-based hands-on labs for Linux, DevOps, Cybersecurity, and Cloud. | **50% OFF** two-year membership with code **2026BF50** (ends Dec 7, 2026)|
 |🤑|[SubManager](https://submanager.app)| Track subscriptions across your Apple devices and never miss a renewal. | **50% OFF** SubManager+ for lifetime. Available between Nov 27 and Nov 30. |
+|💸|[RenderPixels](https://renderpixels.com/?ref=dqhieu)| MCP server that lets Claude, ChatGPT or any AI that accepts MCP make your marketing images, like Open Graph images, social posts and logos | **20% OFF** any credit pack with code **BF2026** (credits never expire, until Nov 30)|
 
 ---
 
