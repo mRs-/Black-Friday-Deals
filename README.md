@@ -66,6 +66,7 @@ Keep each deal on one line with one space around each pipe. Do not align column 
 | 💸 | [Runestone](https://apps.apple.com/us/app/runestone-text-editor/id1548193893) | Plain text editor with syntax highlighting for iPhone, iPad, and Apple Vision Pro. | 50% off Premium ($4.99 USD) | Automatically applied to the one-time in-app purchase. No code needed. November 24–30, 2026. |
 | 💰 | [WhaleDeck](https://apple.co/3NQJi4w) | Effortlessly manage and monitor your Docker servers on your iPhone, iPad, and Mac. | Lifetime 40% off ($57 → $35) | Automatically applied; no code needed; 2026-11-27 to 2026-12-1 |
 | 💸 | [1bench](https://1bench.dev/black-friday?utm_source=mrsbf) | Desktop GUI for 25+ databases including PostgreSQL, MySQL, Redis, ClickHouse, MongoDB and Qdrant. Mac, Windows and Linux. | 50% off the Solo lifetime licence ($199 → $99) | **FCBF26**; lifetime licence only; 2026-11-20 to 2026-12-07 |
+| 💸 | [Needling](https://andretan0.gumroad.com/l/leqnw/BLACKFRIDAY) | Claude Code status around the MacBook notch: two thin eyes show what Claude is doing, two bars show your 5-hour and weekly limits, and it nudges you when Claude needs you. Independent app, not made by Anthropic. | 60% off | **BLACKFRIDAY** (the link applies it); one-time purchase, $9.67 to $3.82; Apple Silicon, macOS 13+; 2026-11-27 to 2026-11-28 PST |
 
 [⬆️ Back to contents](#table-of-contents)
 
@@ -229,6 +230,7 @@ Keep each deal on one line with one space around each pipe. Do not align column 
 | Savings | Name | Description | Discount | Code & Terms |
 | --- | --- | --- | --- | --- |
 | 💸 | [Everlog Journal](https://apps.apple.com/app/everlog-journal/id1519935634) | Private journal for iPhone, iPad and Mac with Markdown, photos, places and iCloud sync. | 50% off Premium: Lifetime $59.99 → $29.99, first year of Yearly $29.99 → $14.99 | Automatically applied in the app for anyone not on Premium; yearly renews at $29.99; 2026-11-27 to 2026-12-01 |
+| 💸 | [Copet](https://andretan0.gumroad.com/l/btdicz/BLACKFRIDAY) | A tiny cat-bunny that hangs from your Mac's top bar and reacts to your day: happy when Claude Code finishes, panics before meetings, asks for a pet after an hour without a break. Nothing leaves your Mac. | 60% off | **BLACKFRIDAY** (the link applies it); one-time purchase, $9.67 to $3.82; macOS 14+; 2026-11-27 to 2026-11-28 PST |
 
 [⬆️ Back to contents](#table-of-contents)
 
