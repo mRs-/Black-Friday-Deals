@@ -65,6 +65,7 @@ Keep each deal on one line with one space around each pipe. Do not align column 
 | 💰 | [Poedit](https://poedit.com/purchase/?utm_source=mRs) | Translations editor for app and websites, supports PO, XLIFF, JSON, RESX and other formats, with built-in auto-translation. | 30% off | Code **BF26**; one-time or 1st year; 2026-11-04 to 2026-12-03 |
 | 💸 | [Runestone](https://apps.apple.com/us/app/runestone-text-editor/id1548193893) | Plain text editor with syntax highlighting for iPhone, iPad, and Apple Vision Pro. | 50% off Premium ($4.99 USD) | Automatically applied to the one-time in-app purchase. No code needed. November 24–30, 2026. |
 | 💰 | [WhaleDeck](https://apple.co/3NQJi4w) | Effortlessly manage and monitor your Docker servers on your iPhone, iPad, and Mac. | Lifetime 40% off ($57 → $35) | Automatically applied; no code needed; 2026-11-27 to 2026-12-1 |
+| 💸 | [1bench](https://1bench.dev/black-friday?utm_source=mrsbf) | Desktop GUI for 25+ databases including PostgreSQL, MySQL, Redis, ClickHouse, MongoDB and Qdrant. Mac, Windows and Linux. | 50% off the Solo lifetime licence ($199 → $99) | **FCBF26**; lifetime licence only; 2026-11-20 to 2026-12-07 |
 | 💸 | [Needling](https://andretan0.gumroad.com/l/leqnw/BLACKFRIDAY) | Claude Code status around the MacBook notch: two thin eyes show what Claude is doing, two bars show your 5-hour and weekly limits, and it nudges you when Claude needs you. Independent app, not made by Anthropic. | 60% off | **BLACKFRIDAY** (the link applies it); one-time purchase, $9.67 to $3.82; Apple Silicon, macOS 13+; 2026-11-27 to 2026-11-28 PST |
 
 [⬆️ Back to contents](#table-of-contents)
@@ -85,6 +86,7 @@ Keep each deal on one line with one space around each pipe. Do not align column 
 | 💸 | [Outlier](https://outlier.host/) | Private local AI assistant for Mac (Apple silicon, macOS 15+). | 50% off: $24.50 once through 30 November; $49 from 1 December | No code needed; pay once, runs on your computer; 30-day refund; sale ends end of 30 November 2026, US time |
 | 💰 | [BoltAI](https://boltai.com/pricing?utm_source=mrsdeals&utm_medium=partner&utm_campaign=bf2026) | Native AI workspace for Mac: ChatGPT, Claude, Gemini and local AI models in one app, now with agents that browse in Chrome and use the apps you allow. | 40% off Pro, Pro+ and Lifetime | **BFCM2026**; Lifetime ~~$399~~ $239.40, Pro ~~$99~~ $58.80, Pro+ ~~$199~~ $118.80; one-time purchase; until 2026-12-01 |
 | 💰 | [PDF Pals](https://pdfpals.com/buy?utm_source=mrsdeals&utm_medium=partner&utm_campaign=bf2026) | Chat with your PDF, Word, Excel, PowerPoint, EPUB and Markdown files on Mac, with cited answers and built-in local AI models. | Lifetime ~~$249~~ $149; 20% off Basic and Plus | Lifetime: automatically applied; **BF20** for Basic (~~$59~~ $47.20) and Plus (~~$99~~ $79.20); one-time purchase; until 2026-12-01 |
+| 💰 | [SmartyTab](https://smartytab.app/) | Private AI autocomplete, writing check and rephrase for every app on your Mac; runs on device. | 30% off yearly and lifetime | **BF2026**; Lifetime ~~$99~~ $69.30, yearly ~~$49~~ $34.30 for the first year; until 2026-12-01 |
 
 [⬆️ Back to contents](#table-of-contents)
 
@@ -98,6 +100,7 @@ Keep each deal on one line with one space around each pipe. Do not align column 
 | 💰 | [Outmano](https://outmano.com/?utm_source=mrsbf) | AI competitive intelligence for SaaS teams, with change alerts and MCP access. | 30% off any monthly plan for 12 months | **BF2026**; new customers only; 2026-11-03 to 2026-12-02 |
 | 💸 | [LandinTools](https://tools.landin.page/advertise?ref=Black-Friday-Deals) | Directory of 1,000+ AI and SaaS tools. Get your tool featured for a full year. | 50% off Featured listing: $49 → $24.50 | **BF2026**; one year of Featured placement; Black Friday offer |
 | 💰 | [Quotion](https://quotion.co/#pricing) | Turn Apple Notes into blogs, portfolios and portals. Web-based, no coding required. | 30% off all paid plans for 12 months | **BLACKFRIDAY2026**; monthly or annual billing; 2026-11-09 to 2026-12-02 |
+| 💰 | [Terlido](https://terlido.com/pricing?utm_source=mrsbf&utm_medium=deal-list&utm_campaign=bfcm-2026) | Cold email and newsletters from your own mailbox, with warmup, campaigns, inbox and an AI agent. | 40% off for 12 months: Email Pro $39 → $23.40/seat/mo, Newsletter Pro $29 → $17.40/mo | **BF2026**; 2026-11-09 to 2026-12-01 |
 
 [⬆️ Back to contents](#table-of-contents)
 
@@ -153,6 +156,7 @@ Keep each deal on one line with one space around each pipe. Do not align column 
 | 💸 | [AudioRecorder.app](https://apps.apple.com/app/apple-store/id6742782372?pt=551454&ct=bfcm26-gh-mrs&mt=8) | Record system audio and microphone on your Mac in one click, no drivers needed. | 60% off Lifetime ($24.99 → $9.99) | Automatically applied on the Mac App Store; one-time Lifetime unlock (monthly and yearly plans not discounted); macOS 15.2+; 2026-11-20 to 2026-12-01 |
 | 💰 | [Kilobat Pro](https://kilobat.app) | Native macOS network monitoring and diagnostics for app connections and hotspot data. | 30% off (US$29 → US$20.30 before tax) | **BLACKFRIDAY30**; one-time Pro license for two Macs, includes v1 updates; 2026-11-20 to 2026-11-30 (upcoming) |
 | 💸 | [FileOctopus](https://www.fileoctopus.com/black-friday.html?ref=mRs-Black-Friday-Deals) | Native Mac file manager that feels like Finder, with split panes, named workspaces, a Shelf, Compare Folders and fast search. | 50% off PRO ($29.99 → $14.99) | **BLACKFRIDAY2026**; automatically applied by the Buy button on the sale page; one-time purchase, up to 2 Macs, lifetime updates; 2026-11-27 to 2026-11-30 (UTC) |
+| 💸 | [Transcrybe](https://transcrybe.app/) | Live translated subtitles for your microphone or any Mac app. | 50% off one-time purchase ($29.99 → $14.99 USD) | Automatically applied; Mac App Store and direct website; no code needed; 2026-11-16 to 2026-12-02 |
 
 [⬆️ Back to contents](#table-of-contents)
 
@@ -225,6 +229,7 @@ Keep each deal on one line with one space around each pipe. Do not align column 
 
 | Savings | Name | Description | Discount | Code & Terms |
 | --- | --- | --- | --- | --- |
+| 💸 | [Everlog Journal](https://apps.apple.com/app/everlog-journal/id1519935634) | Private journal for iPhone, iPad and Mac with Markdown, photos, places and iCloud sync. | 50% off Premium: Lifetime $59.99 → $29.99, first year of Yearly $29.99 → $14.99 | Automatically applied in the app for anyone not on Premium; yearly renews at $29.99; 2026-11-27 to 2026-12-01 |
 | 💸 | [Copet](https://andretan0.gumroad.com/l/btdicz/BLACKFRIDAY) | A tiny cat-bunny that hangs from your Mac's top bar and reacts to your day: happy when Claude Code finishes, panics before meetings, asks for a pet after an hour without a break. Nothing leaves your Mac. | 60% off | **BLACKFRIDAY** (the link applies it); one-time purchase, $9.67 to $3.82; macOS 14+; 2026-11-27 to 2026-11-28 PST |
 
 [⬆️ Back to contents](#table-of-contents)
@@ -247,6 +252,8 @@ Keep each deal on one line with one space around each pipe. Do not align column 
 | --- | --- | --- | --- | --- |
 | 💸 | [FindExams](https://findexams.com) | Certification exam simulator with mock exams and performance analytics for PMP, PMI-ACP, PMI-PBA, IIBA-AAC, and ITIL 4. | 75% off selected packages | Automatically applied; limited time |
 | 💰 | [KTool](https://ktool.io/pricing?utm_source=mrsdeals&utm_medium=partner&utm_campaign=bf2026) | Send articles, newsletters and RSS feeds to your Kindle, from your browser or your phone. | Lifetime ~~$179~~ $149 | Automatically applied; one-time purchase; until 2026-12-01 |
+| 💸 | [Nihongo](https://nihongo-app.com/) | Japanese dictionary and study app for words you encounter. | 50% off Nihongo Pro lifetime ($179.99 → $89.99 USD) | Automatically applied in-app; no code needed; 2026-11-16 to 2026-12-02 |
+| 💸 | [Nihongo Lessons](https://lessons.nihongo-app.com/) | Learn Japanese vocabulary and grammar with sentence-based flashcards. | 50% off All Access lifetime ($299.99 → $149.99 USD) | Automatically applied in-app; no code needed; 2026-11-16 to 2026-12-02 |
 
 [⬆️ Back to contents](#table-of-contents)
 
@@ -280,6 +287,7 @@ Keep each deal on one line with one space around each pipe. Do not align column 
 | --- | --- | --- | --- | --- |
 | 💸 | [ConnectWizard](https://apple.co/3ZsiEEZ) | Unlock hidden App Store Connect Analytics. | Pro Annual 50% off ($100 → $50) | Automatically applied; no code needed; 2026-11-27 to 2026-12-1 |
 | 💰 | [Umami Manager](https://apple.co/40MP50F) | Monitor & Analyze & Manage your Umami Analytics on the go. | Lifetime 25% off | Automatically applied; no code needed; 2026-11-27 to 2026-12-1 |
+| 💰 | [PageDuel](https://pageduel.com/pricing?utm_source=mrsbf&utm_medium=deal-list&utm_campaign=bfcm-2026) | Web analytics, A/B testing and revenue attribution in one tool. | 40% off for 12 months, plans from $9 → $5.40/mo | **BF2026**; 2026-11-09 to 2026-12-01 |
 
 [⬆️ Back to contents](#table-of-contents)
 
