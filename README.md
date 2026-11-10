@@ -107,6 +107,7 @@ Please follow the rules below:
 |🤑|[SnapTidy: Photo Swipe & Delete](https://snaptidyapp.github.io/snaptidy-site/blackfriday/)| Photo cleaner for iPhone and iPad: swipe a few photos at a time to keep or mark; nothing is deleted until you confirm. | **50% OFF** Pro Lifetime (one-time in-app purchase) · $39.99 → $19.99 · Nov 27–30, 2026 · no code needed; US price, local prices vary|
 |💸|[SmoothCut](https://smoothcut.studio/pricing)| Screen recorder for macOS and Windows that auto-zooms on your clicks, smooths the cursor, and adds a camera bubble and on-device captions. | **40% OFF** Personal and Pro licenses with code **BLACKFRIDAY40** (applied automatically at checkout) (Nov 10 – Dec 1)|
 |🤑|[FindExams](https://findexams.com/?ref=black-friday-deals)| Exam simulators for PMP, CBAP, ITIL 4 and more, on the web. | **Up to 50% OFF**, no code needed (Nov 16 – Nov 30)|
+|💸|[Broadcast](https://sendbroadcast.net/black-friday?ref=dqhieu)| Self-hosted email marketing for your own Linux server: newsletters, automations and transactional email, one-time license. | **40% OFF** the Regular License ($250 → $150, one-time) with code **BLACKFRIDAY26** (Nov 9 – Dec 1)|
 
 ---
 
