@@ -158,6 +158,7 @@ Keep each deal on one line with one space around each pipe. Do not align column 
 | 💸 | [FileOctopus](https://www.fileoctopus.com/black-friday.html?ref=mRs-Black-Friday-Deals) | Native Mac file manager that feels like Finder, with split panes, named workspaces, a Shelf, Compare Folders and fast search. | 50% off PRO ($29.99 → $14.99) | **BLACKFRIDAY2026**; automatically applied by the Buy button on the sale page; one-time purchase, up to 2 Macs, lifetime updates; 2026-11-27 to 2026-11-30 (UTC) |
 | 💸 | [Transcrybe](https://transcrybe.app/) | Live translated subtitles for your microphone or any Mac app. | 50% off one-time purchase ($29.99 → $14.99 USD) | Automatically applied; Mac App Store and direct website; no code needed; 2026-11-16 to 2026-12-02 |
 | 💸 | [SnapTidy: Photo Swipe & Delete](https://snaptidyapp.github.io/snaptidy-site/blackfriday/) | Photo cleaner for iPhone and iPad: swipe a few photos at a time to keep or mark; nothing is deleted until you confirm. | 50% off ($39.99 → $19.99) | Automatically applied; Pro Lifetime one-time in-app purchase; US price, local prices vary, not in mainland China; 2026-11-27 to 2026-11-30 |
+| 💰 | [WebWatch](https://apps.apple.com/app/id1610565796?pt=119552309&ct=bf26_mrs&mt=8) | Website change monitor for iPhone and iPad: get alerts when pages change, prices drop or items are back in stock. | 40% off Pro Lifetime ($56.99 → $34.00 USD) | Automatically applied in the app; no code needed; local prices vary; 2026-11-25 to 2026-12-01 |
 
 [⬆️ Back to contents](#table-of-contents)
 
@@ -188,6 +189,7 @@ Keep each deal on one line with one space around each pipe. Do not align column 
 | 💸 | [Pretty Progress – Countdown](https://prettyprogress.app/download) | Beautiful countdown and progress bar widgets to visualise and track your events and deadlines. | 50% off Lifetime ($59.99 → $29.99 USD) | Automatically applied in the app; no code needed; lifetime one-time purchase; 2026-11-20 to 2026-12-01 |
 | 💰 | [OneMax](https://onemaxagent.com/en?ref=mrs) | Mac voice dictation that types clean text into any app and organizes your notes into topics and next steps. | 33% off Pro ($30 → $20/month, $300 → $200/year) | Automatically applied; first 100 subscribers, price locked while subscribed; 7-day free trial and free plan (5,000 words/week); until 2026-12-31 |
 | 💰 | [ShiftPlus](https://shiftplus.app/black-friday/?ref=mRs-Black-Friday-Deals) | Switch your whole Mac workspace with one hotkey: apps, browser profiles, windows, monitors and Spaces. | 40% off: 1 Mac $24 → $14.40; 2 Macs $39 → $23.40 | **BF2026**; automatically applied from the sale page; one-time purchase; 2026-11-20 to 2026-12-02 |
+| 💸 | [Dueful](https://apps.apple.com/app/id6761528337?pt=119552309&ct=bf26_mrs&mt=8) | Recurring task and reminder app for iPhone, for home upkeep, health and self-care routines. | Up to 60% off the first year of Pro (USA $18.99 → $7.59) | Automatically applied in the app; no code needed; discount varies by region; USA 2026-11-25 to 2026-11-30 |
 
 [⬆️ Back to contents](#table-of-contents)
 
@@ -301,6 +303,7 @@ Keep each deal on one line with one space around each pipe. Do not align column 
 | --- | --- | --- | --- | --- |
 | 💰 | [Habit Pixel](https://habitpixel.com/get) | Offline habit tracker with pixel check-ins, streak goals, reminders, and widgets for iPhone and Android. | 33% off Lifetime ($29.99 → $19.99 USD) | Automatically applied in the app; local prices vary; 2026-11-19 to 2026-12-02 |
 | 💸 | [PepFlow](https://pepflow.app/download) | Track your peptide routine with dose history, flexible schedules, and reminders. | 50% off the first year of the annual plan ($29.99 → $14.99 USD) | Automatically applied in the app; no code needed; first year only; 2026-11-20 to 2026-12-01 |
+| 💸 | [Gymfile](https://apps.apple.com/app/id1448100591?pt=119552309&ct=bf26_mrs&mt=8) | Workout tracker for lifters on iPhone, iPad and Apple Watch: log sets fast, follow routines and track progressive overload. | 50% off Pro Lifetime ($109.99 → $54.99 USD) | Automatically applied in the app; no code needed; local prices vary; 2026-11-25 to 2026-12-01 |
 
 [⬆️ Back to contents](#table-of-contents)
 
