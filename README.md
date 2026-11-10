@@ -159,6 +159,7 @@ Keep each deal on one line with one space around each pipe. Do not align column 
 | 💸 | [Transcrybe](https://transcrybe.app/) | Live translated subtitles for your microphone or any Mac app. | 50% off one-time purchase ($29.99 → $14.99 USD) | Automatically applied; Mac App Store and direct website; no code needed; 2026-11-16 to 2026-12-02 |
 | 💸 | [SnapTidy: Photo Swipe & Delete](https://snaptidyapp.github.io/snaptidy-site/blackfriday/) | Photo cleaner for iPhone and iPad: swipe a few photos at a time to keep or mark; nothing is deleted until you confirm. | 50% off ($39.99 → $19.99) | Automatically applied; Pro Lifetime one-time in-app purchase; US price, local prices vary, not in mainland China; 2026-11-27 to 2026-11-30 |
 | 💰 | [WebWatch](https://apps.apple.com/app/id1610565796?pt=119552309&ct=bf26_mrs&mt=8) | Website change monitor for iPhone and iPad: get alerts when pages change, prices drop or items are back in stock. | 40% off Pro Lifetime ($56.99 → $34.00 USD) | Automatically applied in the app; no code needed; local prices vary; 2026-11-25 to 2026-12-01 |
+| 💰 | [SiftMac](https://siftmac.com/?utm_source=mRs-Black-Friday-Deals) | Mac cleaner that tells you, for every file, whether it comes back before anything is deleted; 7-day undo. | 37% off ($19 → $12) | Automatically applied; founding licence for the first 100 buyers, one-time purchase for 2 Macs |
 
 [⬆️ Back to contents](#table-of-contents)
 
