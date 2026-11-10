@@ -109,6 +109,7 @@ Please follow the rules below:
 |💸|[PDF Pals](https://pdfpals.com/buy?utm_source=dqhieu&utm_medium=partner&utm_campaign=bf2026)| Chat with your PDF, Word, Excel, PowerPoint and EPUB files on macOS, with local AI models | **40% OFF** Lifetime ($249 → $149), no code needed; **20% OFF** Basic and Plus with code **BF20** (until Dec 1)|
 |💸|[KTool](https://ktool.io/pricing?utm_source=dqhieu&utm_medium=partner&utm_campaign=bf2026)| Send articles, newsletters and RSS feeds to your Kindle, from the web, Chrome, iPhone or Android | **17% OFF** Lifetime ($179 → $149), no code needed (until Dec 1)|
 |🤑|[SnapTidy: Photo Swipe & Delete](https://snaptidyapp.github.io/snaptidy-site/blackfriday/)| Photo cleaner for iPhone and iPad: swipe a few photos at a time to keep or mark; nothing is deleted until you confirm. | **50% OFF** Pro Lifetime (one-time in-app purchase) · $39.99 → $19.99 · Nov 27–30, 2026 · no code needed; US price, local prices vary|
+|💸|[SmoothCut](https://smoothcut.studio/pricing)| Screen recorder for macOS and Windows that auto-zooms on your clicks, smooths the cursor, and adds a camera bubble and on-device captions. | **40% OFF** Personal and Pro licenses with code **BLACKFRIDAY40** (applied automatically at checkout) (Nov 10 – Dec 1)|
 
 ---
 
