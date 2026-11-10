@@ -67,6 +67,7 @@ Keep each deal on one line with one space around each pipe. Do not align column 
 | 💰 | [WhaleDeck](https://apple.co/3NQJi4w) | Effortlessly manage and monitor your Docker servers on your iPhone, iPad, and Mac. | Lifetime 40% off ($57 → $35) | Automatically applied; no code needed; 2026-11-27 to 2026-12-1 |
 | 💸 | [1bench](https://1bench.dev/black-friday?utm_source=mrsbf) | Desktop GUI for 25+ databases including PostgreSQL, MySQL, Redis, ClickHouse, MongoDB and Qdrant. Mac, Windows and Linux. | 50% off the Solo lifetime licence ($199 → $99) | **FCBF26**; lifetime licence only; 2026-11-20 to 2026-12-07 |
 | 💸 | [Needling](https://andretan0.gumroad.com/l/leqnw/BLACKFRIDAY) | Claude Code status around the MacBook notch: two thin eyes show what Claude is doing, two bars show your 5-hour and weekly limits, and it nudges you when Claude needs you. Independent app, not made by Anthropic. | 60% off | **BLACKFRIDAY** (the link applies it); one-time purchase, $9.67 to $3.82; Apple Silicon, macOS 13+; 2026-11-27 to 2026-11-28 PST |
+| 💰 | [POSH](https://poshtui.com/black-friday?utm_source=mrs-bf&utm_campaign=bf2026) | Version-matched Ruby and Rails docs for coding agents via CLI and MCP. Free terminal browser. macOS & Linux. | 30% off monthly and yearly plans | **BLACKFRIDAY2026**; €7 → €4.90/month, €60 → €42/year; kept while you stay subscribed; new subscriptions only; until 2026-12-02 |
 
 [⬆️ Back to contents](#table-of-contents)
 
