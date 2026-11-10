@@ -113,6 +113,7 @@ Please follow the rules below:
 |🤑|[Scanify](https://scanify.to/pricing)| Check a link, file, QR code or IP before you open it, on the web: 95+ antivirus engines, domain age, redirects and a sandbox picture of the page. | **50% OFF** Lifetime Pro with code **BLACKFRIDAY** ($29 → $14.50, one payment), or **50% OFF** Pro monthly for 3 months with code **BFPRO** ($20 → $10/mo) (Nov 10 – Dec 9, 2026)|
 |🤑|[ScreenSnap Pro](https://www.screensnap.pro/pricing)| All-in-one screenshot and screen recording app for Mac and Windows: 17 annotation tools, scrolling capture, a built-in video editor, OCR and cloud share links. | **50% OFF** lifetime license ($39 → $19.50) with code **BLACKFRIDAY** (until Nov 30)|
 |🤑|[Comic Weather](https://apps.apple.com/app/apple-store/id6816097524?pt=129027920&ct=bf26-dqhieu&mt=8)| Weather app for iPhone that turns your forecast into a comic book page. | **67% OFF** the paid app ($2.99 → $0.99), one-time purchase, no code needed (Nov 27 – Nov 30)|
+|🤑|[ClipUGC](https://clipugc.com/black-friday)| UGC style vertical videos for apps with AI influencers, ready to post on TikTok, Reels and Shorts. Web, iPhone and Android. | **50% OFF** the first 2 months with code **BLACKFRIDAY**, applied automatically from the link: Professional $14.99 → $7.50/mo, Business $49.99 → $25.00/mo, web subscriptions (until Dec 6, 2026)|
 
 ---
 
