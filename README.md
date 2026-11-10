@@ -105,6 +105,7 @@ Please follow the rules below:
 |💸|[Terlido](https://terlido.com/pricing?utm_source=dqhieu&utm_medium=deal-list&utm_campaign=bfcm-2026)| Cold email and newsletters from your own mailbox: warmup, campaigns, inbox and an AI agent. Newsletters free up to 10,000 subscribers. | **40% OFF** for 12 months with code **BF2026**: Email Pro $39 → $23.40/seat/mo, Newsletter Pro $29 → $17.40/mo (until Dec 1, 2026)|
 |💸|[PageDuel](https://pageduel.com/pricing?utm_source=dqhieu&utm_medium=deal-list&utm_campaign=bfcm-2026)| Web analytics, A/B testing and revenue attribution in one tool, plus funnels and URL personalization. For indie hackers, SaaS and Shopify stores. | **40% OFF** for 12 months with code **BF2026**: plans from $9 → $5.40/mo (until Dec 1, 2026)|
 |💸|[RenderPixels](https://renderpixels.com/?ref=dqhieu)| MCP server that lets Claude, ChatGPT or other assistants that support remote MCP and OAuth make your marketing images, like Open Graph images, social posts and logos | **20% OFF** any credit pack with code **BF2026** (credits never expire, until Nov 30)|
+|💸|[Pimosa](https://pimosa.app)| Offline desktop toolkit with 36 tools for video, audio, images, GIFs and PDFs, for macOS 12.4+ (Apple Silicon) and Windows | **40% OFF** one-time licenses with code **BLACKFRIDAY40**, automatically applied at checkout: Personal $29 → $17.40, Plus $49 → $29.40 (Nov 10 – Nov 30, 2026)|
 
 ---
 
