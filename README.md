@@ -356,6 +356,7 @@ Keep each deal on one line with one space around each pipe. Do not align column 
 | 💸 | [CiteWing](https://citewing.com) | AI backlink outreach agent for search and AI recommendations. | 36% off Pro; 50% off directory submission | Automatically applied; [directory submission service](https://citewing.com/directory-submission-service); 2026-11-01 to 2026-12-31 |
 | 💰 | [Outpublished](https://outpublished.com/black-friday) | Shows content and SEO teams every page their competitors have that they don't, and each new one they publish. | 40% off | Automatically applied; all paid plans, monthly or yearly, for as long as you stay subscribed; first 150 accounts; 2026-11-20 to 2026-12-04 |
 | 💸 | [Docket](https://docketseo.app/) | SEO audit app that runs on your own computer. Mac, Windows, and a Linux command line. | 50% off: $29.50 once through 30 November; $59 from 1 December | No code needed; pay once; free version shows the score and the top problem; 30-day refund; sale ends end of 30 November 2026, US time |
+| 💰 | [LinkBunny](https://getlinkbunny.com/pricing#black-friday-2026) | Build and exchange contextual nofollow backlinks through your coding agent. | 30% off the first annual payment (USD210 → USD147) | **BLACKFRIDAY2026**; first-time paying customers; annual only; then USD210/year before applicable tax; no stacking; starts Nov 5, 2026; payment must complete before Dec 1, 2026 at 00:00 UTC |
 
 [⬆️ Back to contents](#table-of-contents)
 
