@@ -114,6 +114,7 @@ Please follow the rules below:
 |🤑|[ScreenSnap Pro](https://www.screensnap.pro/pricing)| All-in-one screenshot and screen recording app for Mac and Windows: 17 annotation tools, scrolling capture, a built-in video editor, OCR and cloud share links. | **50% OFF** lifetime license ($39 → $19.50) with code **BLACKFRIDAY** (until Nov 30)|
 |🤑|[Comic Weather](https://apps.apple.com/app/apple-store/id6816097524?pt=129027920&ct=bf26-dqhieu&mt=8)| Weather app for iPhone that turns your forecast into a comic book page. | **67% OFF** the paid app ($2.99 → $0.99), one-time purchase, no code needed (Nov 27 – Nov 30)|
 |🤑|[ClipUGC](https://clipugc.com/black-friday)| UGC style vertical videos for apps with AI influencers, ready to post on TikTok, Reels and Shorts. Web, iPhone and Android. | **50% OFF** the first 2 months with code **BLACKFRIDAY**, applied automatically from the link: Professional $14.99 → $7.50/mo, Business $49.99 → $25.00/mo, web subscriptions (until Dec 6, 2026)|
+|💸|[POSH](https://poshtui.com/black-friday?utm_source=dqhieu-bf&utm_campaign=bf2026)| Version-matched Ruby and Rails docs for your coding agent via CLI and MCP, with a free terminal browser, on macOS and Linux | **30% OFF** for as long as you stay subscribed with code **BLACKFRIDAY2026**: ~~€7~~ €4.90/month, ~~€60~~ €42/year, new subscriptions only (until Dec 2, 2026)|
 
 ---
 
