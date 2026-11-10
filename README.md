@@ -108,6 +108,7 @@ Please follow the rules below:
 |💸|[SmoothCut](https://smoothcut.studio/pricing)| Screen recorder for macOS and Windows that auto-zooms on your clicks, smooths the cursor, and adds a camera bubble and on-device captions. | **40% OFF** Personal and Pro licenses with code **BLACKFRIDAY40** (applied automatically at checkout) (Nov 10 – Dec 1)|
 |🤑|[FindExams](https://findexams.com/?ref=black-friday-deals)| Exam simulators for PMP, CBAP, ITIL 4 and more, on the web. | **Up to 50% OFF**, no code needed (Nov 16 – Nov 30)|
 |💸|[Broadcast](https://sendbroadcast.net/black-friday?ref=dqhieu)| Self-hosted email marketing for your own Linux server: newsletters, automations and transactional email, one-time license. | **40% OFF** the Regular License ($250 → $150, one-time) with code **BLACKFRIDAY26** (Nov 9 – Dec 1)|
+|💸|[LinkBunny](https://getlinkbunny.com/?ref=dqhieu)| Lets Claude Code, Codex and other coding agents handle contextual nofollow link exchanges for your sites. Web, API and MCP. | **30% OFF** the first annual payment, $147 instead of $210, then $210/year, with code **BLACKFRIDAY2026** · first-time paying customers, annual only, can't be combined (Nov 5 – Nov 30, ends Dec 1 00:00 UTC)|
 
 ---
 
