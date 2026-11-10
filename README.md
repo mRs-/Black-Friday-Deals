@@ -112,6 +112,7 @@ Please follow the rules below:
 |💸|[Pimosa](https://pimosa.app)| Offline desktop toolkit with 36 tools for video, audio, images, GIFs and PDFs, for macOS 12.4+ (Apple Silicon) and Windows | **40% OFF** one-time licenses with code **BLACKFRIDAY40**, automatically applied at checkout: Personal $29 → $17.40, Plus $49 → $29.40 (Nov 10 – Nov 30, 2026)|
 |🤑|[Scanify](https://scanify.to/pricing)| Check a link, file, QR code or IP before you open it, on the web: 95+ antivirus engines, domain age, redirects and a sandbox picture of the page. | **50% OFF** Lifetime Pro with code **BLACKFRIDAY** ($29 → $14.50, one payment), or **50% OFF** Pro monthly for 3 months with code **BFPRO** ($20 → $10/mo) (Nov 10 – Dec 9, 2026)|
 |🤑|[ScreenSnap Pro](https://www.screensnap.pro/pricing)| All-in-one screenshot and screen recording app for Mac and Windows: 17 annotation tools, scrolling capture, a built-in video editor, OCR and cloud share links. | **50% OFF** lifetime license ($39 → $19.50) with code **BLACKFRIDAY** (until Nov 30)|
+|🤑|[Comic Weather](https://apps.apple.com/app/apple-store/id6816097524?pt=129027920&ct=bf26-dqhieu&mt=8)| Weather app for iPhone that turns your forecast into a comic book page. | **67% OFF** the paid app ($2.99 → $0.99), one-time purchase, no code needed (Nov 27 – Nov 30)|
 
 ---
 
