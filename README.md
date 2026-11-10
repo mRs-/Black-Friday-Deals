@@ -190,6 +190,7 @@ Keep each deal on one line with one space around each pipe. Do not align column 
 | 💰 | [OneMax](https://onemaxagent.com/en?ref=mrs) | Mac voice dictation that types clean text into any app and organizes your notes into topics and next steps. | 33% off Pro ($30 → $20/month, $300 → $200/year) | Automatically applied; first 100 subscribers, price locked while subscribed; 7-day free trial and free plan (5,000 words/week); until 2026-12-31 |
 | 💰 | [ShiftPlus](https://shiftplus.app/black-friday/?ref=mRs-Black-Friday-Deals) | Switch your whole Mac workspace with one hotkey: apps, browser profiles, windows, monitors and Spaces. | 40% off: 1 Mac $24 → $14.40; 2 Macs $39 → $23.40 | **BF2026**; automatically applied from the sale page; one-time purchase; 2026-11-20 to 2026-12-02 |
 | 💸 | [Dueful](https://apps.apple.com/app/id6761528337?pt=119552309&ct=bf26_mrs&mt=8) | Recurring task and reminder app for iPhone, for home upkeep, health and self-care routines. | Up to 60% off the first year of Pro (USA $18.99 → $7.59) | Automatically applied in the app; no code needed; discount varies by region; USA 2026-11-25 to 2026-11-30 |
+| 💸 | [ScreenSnap Pro](https://www.screensnap.pro/pricing) | All-in-one screenshot and screen recording app for Mac and Windows: 17 annotation tools, scrolling capture, a built-in video editor, OCR and cloud share links. | 50% off lifetime license ($39 → $19.50) | **BLACKFRIDAY** at checkout; one-time purchase, one license covers 2 computers; 2026-11-10 to 2026-11-30 |
 
 [⬆️ Back to contents](#table-of-contents)
 
