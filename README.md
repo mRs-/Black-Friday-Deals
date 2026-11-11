@@ -197,6 +197,7 @@ Keep each deal on one line with one space around each pipe. Do not align column 
 | 💸 | [Dueful](https://apps.apple.com/app/id6761528337?pt=119552309&ct=bf26_mrs&mt=8) | Recurring task and reminder app for iPhone, for home upkeep, health and self-care routines. | Up to 60% off the first year of Pro (USA $18.99 → $7.59) | Automatically applied in the app; no code needed; discount varies by region; USA 2026-11-25 to 2026-11-30 |
 | 💸 | [ScreenSnap Pro](https://www.screensnap.pro/pricing) | All-in-one screenshot and screen recording app for Mac and Windows: 17 annotation tools, scrolling capture, a built-in video editor, OCR and cloud share links. | 50% off lifetime license ($39 → $19.50) | **BLACKFRIDAY** at checkout; one-time purchase, one license covers 2 computers; 2026-11-10 to 2026-11-30 |
 | 💰 | [Email Me](https://emailmeapp.net/) | Send voice and text notes, to-dos and reminders straight to your own inbox in one tap, on iPhone, iPad, Mac, Apple Watch and Vision Pro. | 23% off yearly ($12.99 → $9.99) | Automatically applied, no code needed; yearly plan; 2026-11-27 to 2026-12-01 |
+| 💰 | [Mailflare](https://mailflare.co/#pricing) | Self-hosted Google Workspace alternative: custom-domain email, calendar, booking, drive and AI agents, with a native Mac app. | 40% off Pro and Team lifetime licenses | **MRSBF2026**; Pro $29 to $17.40, Team $249 to $149.40; one-time purchase; 2026-11-20 to 2026-12-02 |
 
 [⬆️ Back to contents](#table-of-contents)
 
