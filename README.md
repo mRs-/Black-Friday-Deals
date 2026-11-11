@@ -248,6 +248,7 @@ Keep each deal on one line with one space around each pipe. Do not align column 
 | 💸 | [Digital Photo Frame](https://digitalphotoframeapp.com/) | Turn your iPhone, iPad, Mac or Apple TV into a smart photo frame with slideshows of your albums. | 50% off yearly ($19.99 → $9.99) | Automatically applied, no code needed; yearly plan; 2026-11-27 to 2026-12-01 |
 | 💸 | [Photo Booth App](https://thephotoboothapp.com/) | Turn an iPad or iPhone into a photo booth for weddings, parties and events, with photos, GIFs, guest sharing and AirPrint printing. | 50% off yearly ($99.99 → $49.99) | Automatically applied, no code needed; yearly plan; 2026-11-27 to 2026-12-01 |
 | 💸 | [Our Family Album](https://ourfamilyalbum.com/) | Share your children's photos privately with family on iPhone and iPad, with read-only browser links for grandparents. | 50% off yearly ($49.99 → $24.99) | Automatically applied, no code needed; yearly plan; 2026-11-27 to 2026-12-01 |
+| 💸 | [Recipe Organizer by Vima](https://apps.apple.com/app/apple-store/id6757971278?pt=296584&ct=bf26-mrs&mt=8) | Recipe keeper for iPhone and iPad: save recipes from websites, YouTube, TikTok, Instagram or a photo of a recipe card, then plan meals, build a grocery list and cook hands-free. | Lifetime unlock $9.99 (regularly a $29.99/year subscription) | Automatically applied on the App Store; one-time in-app purchase, no code needed; 2026-11-26 to 2026-12-02 |
 
 [⬆️ Back to contents](#table-of-contents)
 
