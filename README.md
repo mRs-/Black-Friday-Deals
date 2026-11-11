@@ -19,9 +19,9 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 
 ## Categories
 
-**185 deals** in 19 categories. 💸 marks 50% off or more, 💰 less than 50%.
+**188 deals** in 19 categories. 💸 marks 50% off or more, 💰 less than 50%.
 
-🛠&nbsp;[Development Software](#development-software)&nbsp;`32` · 🤖&nbsp;[AI Tools](#ai-tools)&nbsp;`16` · 🌈&nbsp;[Marketing Software](#marketing-software)&nbsp;`7` · 🎩&nbsp;[Security Software](#security-software)&nbsp;`5` · 🎛&nbsp;[Utility Software](#utility-software)&nbsp;`44` · 📌&nbsp;[Productivity Software](#productivity-software)&nbsp;`28` · 🎥&nbsp;[Video Software](#video-software)&nbsp;`10` · 🎨&nbsp;[Graphic Software](#graphic-software)&nbsp;`9` · 🏝️&nbsp;[Lifestyle](#lifestyle)&nbsp;`7` · 🗣️&nbsp;[Social](#social)&nbsp;`1` · 🎓&nbsp;[Reference & Education](#reference--education)&nbsp;`4` · 👩‍🎓&nbsp;[Courses and Videos](#courses-and-videos)&nbsp;`4` · 📈&nbsp;[Business Software](#business-software)&nbsp;`3` · 🏃🏻‍♀️&nbsp;[Health & Fitness Software](#health--fitness-software)&nbsp;`3` · 🎁&nbsp;[Bundles](#bundles)&nbsp;`2` · 🤑&nbsp;[Finance](#finance)&nbsp;`2` · 🗺️&nbsp;[Navigation](#navigation)&nbsp;`1` · 🔎&nbsp;[SEO](#seo)&nbsp;`6` · 🕹&nbsp;[Games](#games)&nbsp;`1`
+🛠&nbsp;[Development Software](#development-software)&nbsp;`32` · 🤖&nbsp;[AI Tools](#ai-tools)&nbsp;`16` · 🌈&nbsp;[Marketing Software](#marketing-software)&nbsp;`7` · 🎩&nbsp;[Security Software](#security-software)&nbsp;`5` · 🎛&nbsp;[Utility Software](#utility-software)&nbsp;`47` · 📌&nbsp;[Productivity Software](#productivity-software)&nbsp;`28` · 🎥&nbsp;[Video Software](#video-software)&nbsp;`10` · 🎨&nbsp;[Graphic Software](#graphic-software)&nbsp;`9` · 🏝️&nbsp;[Lifestyle](#lifestyle)&nbsp;`7` · 🗣️&nbsp;[Social](#social)&nbsp;`1` · 🎓&nbsp;[Reference & Education](#reference--education)&nbsp;`4` · 👩‍🎓&nbsp;[Courses and Videos](#courses-and-videos)&nbsp;`4` · 📈&nbsp;[Business Software](#business-software)&nbsp;`3` · 🏃🏻‍♀️&nbsp;[Health & Fitness Software](#health--fitness-software)&nbsp;`3` · 🎁&nbsp;[Bundles](#bundles)&nbsp;`2` · 🤑&nbsp;[Finance](#finance)&nbsp;`2` · 🗺️&nbsp;[Navigation](#navigation)&nbsp;`1` · 🔎&nbsp;[SEO](#seo)&nbsp;`6` · 🕹&nbsp;[Games](#games)&nbsp;`1`
 
 <a id="development-software"></a>
 
@@ -169,6 +169,9 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 | 💰 | **[Tele](https://teleportez.moi/?ref=bf-mrs)**<br>Open one app window from your other Mac as a real window here, with sound, clipboard and ⌘-Tab; no account, no cloud. | <b>25% off ($39.99 → $29.99)</b><br>Automatically applied; one-time purchase, one licence for 5 sharing Macs, 14-day free trial; until 2026-12-01 23:59 CET |
 | 💰 | **[WhatPulse](https://whatpulse.org)**<br>Track keystrokes, mouse clicks, app usage and bandwidth on Windows, macOS and Linux, with heatmaps and stats. | <b>35% off annual plan</b><br>`BFCM2026` · annual plan only · Nov&nbsp;26&nbsp;–&nbsp;Dec&nbsp;12 |
 | 💰 | **[DisplayBuddy](https://displaybuddy.app)**<br>Control the brightness of your monitors directly from your Mac — no need to touch clunky monitor buttons. | <b>33% off</b><br>`BLACKFRIDAY26` |
+| 💰 | **[Looq](https://parcse.com/looq?utm_source=black-friday-deals)**<br>Press Space in Finder to preview Markdown with math and Mermaid, Jupyter notebooks, LaTeX, source code, SQLite databases, archives, 3D models, and maps. | <b>10% off: Personal (3 Macs) $15 → $13.50, Team (10 Macs) $35 → $31.50</b><br>`PARCSEBLACKFRIDAY` · One-time purchase · Nov&nbsp;10&nbsp;–&nbsp;Dec&nbsp;1 |
+| 💰 | **[Sweeper](https://parcse.com/sweeper?utm_source=black-friday-deals)**<br>Removes Mac apps together with the files they leave behind, shows every file before it goes, and keeps what it clears in quarantine so a mistake can be undone. | <b>10% off: Personal (3 Macs) $10 → $9</b><br>`PARCSEBLACKFRIDAY` · One-time purchase · Nov&nbsp;10&nbsp;–&nbsp;Dec&nbsp;1 |
+| 💰 | **[Upto](https://macupto.com/?utm_source=black-friday-deals)**<br>Keeps every app on your Mac up to date from one window, checking the App Store, Sparkle, Homebrew, TestFlight, and more. | <b>10% off: Yearly (5 Macs) $14.99 → $13.49, Pay once (3 Macs) $39 → $35.10</b><br>`UPTOBLACKFRIDAY` · Yearly renews at $14.99/yr after the first year; Pay once is a one-time purchase · Nov&nbsp;10&nbsp;–&nbsp;Dec&nbsp;1 |
 
 <p align="right"><a href="#categories">↑ Categories</a></p>
 
@@ -381,7 +384,7 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 
 No deals yet in Books, Creative Content and Home Automation. [Add the first one](https://blackfriday.mariuslandwehr.com/submit/).
 
-<!-- DEALS:END checksum:6bc0f6fad53e -->
+<!-- DEALS:END checksum:861cd6d94404 -->
 
 ## Add your deal
 
