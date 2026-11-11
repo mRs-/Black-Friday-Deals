@@ -67,6 +67,7 @@ Keep each deal on one line with one space around each pipe. Do not align column 
 | 💰 | [WhaleDeck](https://apple.co/3NQJi4w) | Effortlessly manage and monitor your Docker servers on your iPhone, iPad, and Mac. | Lifetime 40% off ($57 → $35) | Automatically applied; no code needed; 2026-11-27 to 2026-12-1 |
 | 💸 | [1bench](https://1bench.dev/black-friday?utm_source=mrsbf) | Desktop GUI for 25+ databases including PostgreSQL, MySQL, Redis, ClickHouse, MongoDB and Qdrant. Mac, Windows and Linux. | 50% off the Solo lifetime licence ($199 → $99) | **FCBF26**; lifetime licence only; 2026-11-20 to 2026-12-07 |
 | 💸 | [Needling](https://andretan0.gumroad.com/l/leqnw/BLACKFRIDAY) | Claude Code status around the MacBook notch: two thin eyes show what Claude is doing, two bars show your 5-hour and weekly limits, and it nudges you when Claude needs you. Independent app, not made by Anthropic. | 60% off | **BLACKFRIDAY** (the link applies it); one-time purchase, $9.67 to $3.82; Apple Silicon, macOS 13+; 2026-11-27 to 2026-11-28 PST |
+| 💸 | [Dirstarter](https://dirstarter.com/?discountCode=BF2026) | Next.js directory template with built-in payments, SEO and an MCP server for AI agents. Pay once, launch unlimited directories. | 50% off lifetime license ($150 → $75 Basic, $200 → $100 Pro) | **BF2026**; one-time purchase; 2026-11-10 to 2026-12-01 |
 | 💰 | [Runheed](https://runheed.com/black-friday?ref=mrs-bf-deals) | Error tracking your coding agent can read: Claude Code, Cursor or any MCP client reads the stack trace from your Node.js or Python app, fixes the code and resolves the error. | 40% off the first year | **RUNHEEDBF26**; annual plans only (Solo $290 → $174, Pro $790 → $474, Scale $1,990 → $1,194), new customers; until 2026-12-03 |
 
 [⬆️ Back to contents](#table-of-contents)
@@ -114,6 +115,7 @@ Keep each deal on one line with one space around each pipe. Do not align column 
 | 💰 | [TinyShield](https://tinyshield.proxyman.com/) | Monitor app connections and block unwanted apps or domains with a macOS firewall. | 30% off all plans | **BF2026**; 2026-11-16 to 2026-12-03 |
 | 💸 | [PortDroid](https://portdroid.net/sale) | Android network toolkit: port scanner, ping, traceroute, DNS, WHOIS, LAN device discovery, WiFi analyser and certificate inspection in one app. | 50% off Pro Lifetime ($9.49 → $4.69 USD) | **CYBER_2026**; 2026-11-05 to 2026-12-04 |
 | 💰 | [OkayTab](https://okaytab.app/) | Browser extension for Chrome, Edge and Firefox that checks every site you open with AI and blocks fake shops, phishing and scam pages. | 30% off first period ($3.59 → $2.51 monthly, $8.59 → $6.01 3 months, $22.99 → $16.09 yearly) | **BLACKFRIDAY2026**; first billing period only, once per customer; 2026-11-01 to 2026-12-05 |
+| 💰 | [SimpleumSafe](https://simpleum.com/en/?utm_source=bf26-mRs) | Keep private photos and important documents in an encrypted safe on Mac, iPhone and iPad. | 30% off the one-time purchase and the first year of an annual subscription | **No Code needed**; Automatically applied to in-app purchases on the App Store; 2026-11-16 to 2026-12-06 |
 
 [⬆️ Back to contents](#table-of-contents)
 
@@ -160,6 +162,7 @@ Keep each deal on one line with one space around each pipe. Do not align column 
 | 💸 | [Transcrybe](https://transcrybe.app/) | Live translated subtitles for your microphone or any Mac app. | 50% off one-time purchase ($29.99 → $14.99 USD) | Automatically applied; Mac App Store and direct website; no code needed; 2026-11-16 to 2026-12-02 |
 | 💸 | [SnapTidy: Photo Swipe & Delete](https://snaptidyapp.github.io/snaptidy-site/blackfriday/) | Photo cleaner for iPhone and iPad: swipe a few photos at a time to keep or mark; nothing is deleted until you confirm. | 50% off ($39.99 → $19.99) | Automatically applied; Pro Lifetime one-time in-app purchase; US price, local prices vary, not in mainland China; 2026-11-27 to 2026-11-30 |
 | 💰 | [WebWatch](https://apps.apple.com/app/id1610565796?pt=119552309&ct=bf26_mrs&mt=8) | Website change monitor for iPhone and iPad: get alerts when pages change, prices drop or items are back in stock. | 40% off Pro Lifetime ($56.99 → $34.00 USD) | Automatically applied in the app; no code needed; local prices vary; 2026-11-25 to 2026-12-01 |
+| 💸 | [BookletMaker](https://bookletmaker.app/black-friday/) | Turn any PDF into a booklet that prints, folds and staples correctly, on Mac, iPad and iPhone. | 50% off lifetime | Automatically applied in the App Store; one-time purchase; 2026-11-25 to 2026-12-01 |
 
 [⬆️ Back to contents](#table-of-contents)
 
@@ -191,6 +194,7 @@ Keep each deal on one line with one space around each pipe. Do not align column 
 | 💰 | [OneMax](https://onemaxagent.com/en?ref=mrs) | Mac voice dictation that types clean text into any app and organizes your notes into topics and next steps. | 33% off Pro ($30 → $20/month, $300 → $200/year) | Automatically applied; first 100 subscribers, price locked while subscribed; 7-day free trial and free plan (5,000 words/week); until 2026-12-31 |
 | 💰 | [ShiftPlus](https://shiftplus.app/black-friday/?ref=mRs-Black-Friday-Deals) | Switch your whole Mac workspace with one hotkey: apps, browser profiles, windows, monitors and Spaces. | 40% off: 1 Mac $24 → $14.40; 2 Macs $39 → $23.40 | **BF2026**; automatically applied from the sale page; one-time purchase; 2026-11-20 to 2026-12-02 |
 | 💸 | [Dueful](https://apps.apple.com/app/id6761528337?pt=119552309&ct=bf26_mrs&mt=8) | Recurring task and reminder app for iPhone, for home upkeep, health and self-care routines. | Up to 60% off the first year of Pro (USA $18.99 → $7.59) | Automatically applied in the app; no code needed; discount varies by region; USA 2026-11-25 to 2026-11-30 |
+| 💸 | [ScreenSnap Pro](https://www.screensnap.pro/pricing) | All-in-one screenshot and screen recording app for Mac and Windows: 17 annotation tools, scrolling capture, a built-in video editor, OCR and cloud share links. | 50% off lifetime license ($39 → $19.50) | **BLACKFRIDAY** at checkout; one-time purchase, one license covers 2 computers; 2026-11-10 to 2026-11-30 |
 
 [⬆️ Back to contents](#table-of-contents)
 
@@ -208,6 +212,7 @@ Keep each deal on one line with one space around each pipe. Do not align column 
 | 💸 | [ScreenSage Pro](https://screensage.pro/bf2026?ref=mrsbf2026) | Screen recorder and video editor for Mac with cursor-following auto zoom, camera layouts, and iPhone/iPad capture. | Up to 53% off: Lifetime $449 → $209.90; Pro (3 Macs) $149 → $79.90 (46% off) | **BFS2026L** for Lifetime; **BFS2026P** for Pro; one-time purchase; until 2026-12-15 |
 | 💸 | [Recorder.app](https://apps.apple.com/app/apple-store/id6740995613?pt=551454&ct=bfcm26-gh-mrs&mt=8) | Native Mac recorder: screen, windows, camera, mic and system audio at the same time, into separate, perfectly synced files. | 60% off Lifetime ($44.99 → $17.99) | Automatically applied on the Mac App Store; one-time Lifetime unlock (monthly and yearly plans not discounted); 2026-11-20 to 2026-12-01 |
 | 💰 | [SmoothCut](https://smoothcut.studio/pricing) | Screen recorder for macOS and Windows that auto-zooms on your clicks, smooths the cursor, and adds a camera bubble and on-device captions. | 40% off: Personal $79 → $47.40; Pro $169 → $101.40 | **BLACKFRIDAY40**; automatically applied at checkout; one-time payment; free to use (720p exports with a small mark); until 2026-12-01 23:59 UTC |
+| 💰 | [Pimosa](https://pimosa.app) | Offline desktop toolkit with 36 tools for video, audio, images, GIFs and PDFs, for macOS 12.4+ (Apple Silicon) and Windows. | 40% off: Personal $29 → $17.40; Plus $49 → $29.40 | **BLACKFRIDAY40**; automatically applied at checkout; one-time purchase; Nov 10 – Nov 30, 2026 |
 
 [⬆️ Back to contents](#table-of-contents)
 
@@ -236,6 +241,7 @@ Keep each deal on one line with one space around each pipe. Do not align column 
 | --- | --- | --- | --- | --- |
 | 💸 | [Everlog Journal](https://apps.apple.com/app/everlog-journal/id1519935634) | Private journal for iPhone, iPad and Mac with Markdown, photos, places and iCloud sync. | 50% off Premium: Lifetime $59.99 → $29.99, first year of Yearly $29.99 → $14.99 | Automatically applied in the app for anyone not on Premium; yearly renews at $29.99; 2026-11-27 to 2026-12-01 |
 | 💸 | [Copet](https://andretan0.gumroad.com/l/btdicz/BLACKFRIDAY) | A tiny cat-bunny that hangs from your Mac's top bar and reacts to your day: happy when Claude Code finishes, panics before meetings, asks for a pet after an hour without a break. Nothing leaves your Mac. | 60% off | **BLACKFRIDAY** (the link applies it); one-time purchase, $9.67 to $3.82; macOS 14+; 2026-11-27 to 2026-11-28 PST |
+| 💸 | [Comic Weather](https://apps.apple.com/app/apple-store/id6816097524?pt=129027920&ct=bf26-mrs&mt=8) | Weather app for iPhone that turns your forecast into a comic book page. | 67% off ($2.99 → $0.99 USD) | Automatically applied on the App Store; no code needed; paid app, one-time purchase, no in-app purchases; regular price $2.99 since launch; iPhone, iOS 18+; local prices vary; 2026-11-27 to 2026-11-30 |
 
 [⬆️ Back to contents](#table-of-contents)
 
