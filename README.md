@@ -248,6 +248,7 @@ Keep each deal on one line with one space around each pipe. Do not align column 
 | 💸 | [Digital Photo Frame](https://digitalphotoframeapp.com/) | Turn your iPhone, iPad, Mac or Apple TV into a smart photo frame with slideshows of your albums. | 50% off yearly ($19.99 → $9.99) | Automatically applied, no code needed; yearly plan; 2026-11-27 to 2026-12-01 |
 | 💸 | [Photo Booth App](https://thephotoboothapp.com/) | Turn an iPad or iPhone into a photo booth for weddings, parties and events, with photos, GIFs, guest sharing and AirPrint printing. | 50% off yearly ($99.99 → $49.99) | Automatically applied, no code needed; yearly plan; 2026-11-27 to 2026-12-01 |
 | 💸 | [Our Family Album](https://ourfamilyalbum.com/) | Share your children's photos privately with family on iPhone and iPad, with read-only browser links for grandparents. | 50% off yearly ($49.99 → $24.99) | Automatically applied, no code needed; yearly plan; 2026-11-27 to 2026-12-01 |
+| — | [GrowSpot](https://growspotapp.com/) | Plant care app for iPhone and Android: set your phone down where a plant will live and it tells you whether that plant can thrive in that spot. | 14 days of GrowSpot Plus on us for new accounts | Automatically applied at first sign-in; no code, no card, nothing to cancel; only for accounts that have never had Plus; afterwards the free plan covers 2 plants and 20 AI scans a month; available all year, not a Black Friday price cut |
 
 [⬆️ Back to contents](#table-of-contents)
 
