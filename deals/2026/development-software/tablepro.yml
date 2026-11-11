@@ -1,6 +1,6 @@
 name: "TablePro"
 url: "https://tablepro.app/black-friday"
-description: "Native database client for Mac and Linux: PostgreSQL, MySQL, SQLite, MongoDB, Redis and more. Free and open source. Pro adds Query Insights, Compare & Sync, Data Rewind, Result Charts and iCloud Sync."
+description: "Native database client for Mac and Linux: PostgreSQL, MySQL, SQLite, MongoDB, Redis and more."
 discount: "40% off Pro one-time ($79 → $47.40) and the first year of Pro yearly ($39 → $23.40)"
 percent: 40
 code: "BLACKFRIDAY2026"
