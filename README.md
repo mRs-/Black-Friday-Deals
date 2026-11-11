@@ -123,6 +123,7 @@ Please follow the rules below:
 |💸|[MojoAuth](https://mojoauth.com/)| Passwordless login for apps (web) | **20% OFF** with code **BF2026**, Business Pro (2,500 MAU) $150/month → $120/month (through Dec 15)|
 |💸|[Mailazy](https://mailazy.com/blog/black-friday-deals)| Email sending and marketing (web) | **30% OFF** with code **THANKS30**, Pro $49/month → $34.30/month (Nov 5 – Feb 5, 2027)|
 |💸|[Voksha](https://voksha.com/)| AI receptionist that answers business calls (web) | **30% OFF** with code **FESTIVE30**, Starter $14/month → $9.80/month (Nov 5 – Feb 5, 2027)|
+|💸|[Leelo](https://leelo-ai.com/black-friday?ref=black-friday-deals)| AI voice studio on the web: text to speech, video dubbing, voice cloning and transcription, paid once instead of monthly | **25% OFF** Lifetime Pro ($199 → $149, one payment for 80,000 credits every month) · **50% more credits** on every pack · up to **30% OFF** a first plan · no code needed (Nov 24 – Dec 1)|
 
 ---
 
