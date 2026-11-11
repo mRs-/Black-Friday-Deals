@@ -82,6 +82,7 @@ Keep each deal on one line with one space around each pipe. Do not align column 
 | 💰 | [NextAdmin](https://nextadmin.co/pricing) | 200+ Next.js dashboard templates and UI components. | 30% off Business plans | **BLFCM2026**; Business plans; 2026-11-17 to 2026-12-01 23:59 UTC |
 | 💰 | [NextMerce](https://nextmerce.com/pricing) | Next.js eCommerce boilerplate. | 30% off all plans | **BLFCM2026**; 2026-11-17 to 2026-12-01 23:59 UTC |
 | 💰 | [BucketMate](https://www.bucketmate.app/pricing) | S3 GUI for Mac, iPhone, iPad, and web for AWS S3, Cloudflare R2, Backblaze B2, and other S3-compatible storage. | 40% off ($39 → $23.40) | **BF2026**; lifetime license, one-time purchase; 2026-11-02 to 2026-12-01 |
+| 💰 | [HackUtilities](https://hackutilities.com) | Desktop workspace for AI coding agents: dev servers, terminals and Claude Code or Codex sessions side by side, plus 46 offline developer tools. | 35% off lifetime licenses | **BFCM2026**; one-time purchase; 2026-11-26 to 2026-12-12 |
 
 [⬆️ Back to contents](#table-of-contents)
 
@@ -105,6 +106,7 @@ Keep each deal on one line with one space around each pipe. Do not align column 
 | 💰 | [Nivon](https://nivon.ai/pricing) | No-code AI customer support chatbot trained on your website and docs, with 95+ languages and human handoff. | 40% off all paid plans | **BLFCM2026**; all paid plans; 2026-11-17 to 2026-12-01 23:59 UTC |
 | 💰 | [Aymo AI](https://aymo.ai/pricing) | All-in-one multi-AI chat platform for developers and teams. | 30% off Premium yearly | **BLFCM2026**; Premium yearly plan; 2026-11-17 to 2026-12-01 23:59 UTC |
 | 💰 | [Meku](https://meku.dev/pricing) | AI builder for websites and web apps. | 30% off all yearly plans | **BLFCM2026**; yearly plans; 2026-11-17 to 2026-12-01 23:59 UTC |
+| 💰 | [MeetingDebrief](https://meetingdebrief.com) | Record, transcribe and summarize meetings on your Mac or PC, with no bot in the call and nothing uploaded. | 35% off lifetime licenses | **BFCM2026**; one-time purchase; 2026-11-26 to 2026-12-12 |
 
 [⬆️ Back to contents](#table-of-contents)
 
@@ -185,6 +187,7 @@ Keep each deal on one line with one space around each pipe. Do not align column 
 | 💰 | [SiftMac](https://siftmac.com/?utm_source=mRs-Black-Friday-Deals) | Mac cleaner that tells you, for every file, whether it comes back before anything is deleted; 7-day undo. | 25% off ($12 → $9) | Automatically applied at checkout, or code **BLACKFRIDAY**; one-time purchase for 2 Macs; 2026-11-27 to 2026-11-30 |
 | — | [Lunille](https://lunille.com/?ref=bf-mrs) | Notch app for Mac with Luni, a little moon that reacts to your music, volume, AirPods and coding assistant, around music, calls, notifications, calendar and a file tray. | Launch price: $9.99 once, through November 30. From December 1: $14.99 | No code needed; one-time purchase for up to 3 Macs, every future update included; free 14-day trial without an account; 14-day refund; macOS 14 or later; launch price ends end of 30 November 2026, UTC |
 | 💸 | [MouseUp](https://mouseup.app) | Make an external mouse feel right on Mac with smooth scrolling, click debounce, and wheel zoom. | 50% off ($7.99 → $4.00) | **MMFBF2026**; lifetime license, one-time purchase; 2026-11-02 to 2026-12-05 |
+| 💰 | [WhatPulse](https://whatpulse.org) | Track keystrokes, mouse clicks, app usage and bandwidth on Windows, macOS and Linux, with heatmaps and stats. | 35% off annual plan | **BFCM2026**; annual plan only; 2026-11-26 to 2026-12-12 |
 
 [⬆️ Back to contents](#table-of-contents)
 
@@ -220,6 +223,7 @@ Keep each deal on one line with one space around each pipe. Do not align column 
 | 💰 | [Email Me](https://emailmeapp.net/) | Send voice and text notes, to-dos and reminders straight to your own inbox in one tap, on iPhone, iPad, Mac, Apple Watch and Vision Pro. | 23% off yearly ($12.99 → $9.99) | Automatically applied, no code needed; yearly plan; 2026-11-27 to 2026-12-01 |
 | 💰 | [Mailflare](https://mailflare.co/#pricing) | Self-hosted Google Workspace alternative: custom-domain email, calendar, booking, drive and AI agents, with a native Mac app. | 40% off Pro and Team lifetime licenses | **MRSBF2026**; Pro $29 to $17.40, Team $249 to $149.40; one-time purchase; 2026-11-20 to 2026-12-02 |
 | 💸 | [ScreenVerb](https://screenverb.com) | AI screenshot app for Mac, iPhone, and iPad: capture, run an AI action, and insert the result where you were typing. | 50% off Pro ($39 → $19.50) and Universal Lifetime | **SVBF2026**; one-time purchase; 2026-11-02 to 2026-12-05 |
+| 💰 | [MuteDeck](https://mutedeck.com) | One-press mute, camera, screen share and recording controls across Zoom, Teams, Google Meet and more, with Stream Deck support. | 35% off lifetime licenses | **BFCM2026**; one-time purchase; 2026-11-26 to 2026-12-12 |
 
 [⬆️ Back to contents](#table-of-contents)
 
