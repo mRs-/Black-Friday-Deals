@@ -190,6 +190,7 @@ Keep each deal on one line with one space around each pipe. Do not align column 
 | 💰 | [OneMax](https://onemaxagent.com/en?ref=mrs) | Mac voice dictation that types clean text into any app and organizes your notes into topics and next steps. | 33% off Pro ($30 → $20/month, $300 → $200/year) | Automatically applied; first 100 subscribers, price locked while subscribed; 7-day free trial and free plan (5,000 words/week); until 2026-12-31 |
 | 💰 | [ShiftPlus](https://shiftplus.app/black-friday/?ref=mRs-Black-Friday-Deals) | Switch your whole Mac workspace with one hotkey: apps, browser profiles, windows, monitors and Spaces. | 40% off: 1 Mac $24 → $14.40; 2 Macs $39 → $23.40 | **BF2026**; automatically applied from the sale page; one-time purchase; 2026-11-20 to 2026-12-02 |
 | 💸 | [Dueful](https://apps.apple.com/app/id6761528337?pt=119552309&ct=bf26_mrs&mt=8) | Recurring task and reminder app for iPhone, for home upkeep, health and self-care routines. | Up to 60% off the first year of Pro (USA $18.99 → $7.59) | Automatically applied in the app; no code needed; discount varies by region; USA 2026-11-25 to 2026-11-30 |
+| 💰 | [Mailflare](https://mailflare.co/#pricing) | Self-hosted Google Workspace alternative: custom-domain email, calendar, booking, drive and AI agents, with a native Mac app. | 40% off Pro and Team lifetime licenses | **MRSBF2026**; Pro $29 to $17.40, Team $249 to $149.40; one-time purchase; 2026-11-20 to 2026-12-02 |
 
 [⬆️ Back to contents](#table-of-contents)
 
