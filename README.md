@@ -4,13 +4,15 @@ A community-maintained list of Black Friday and Cyber Monday deals for macOS / i
 
 **Black Friday: November 27, 2026 · Cyber Monday: November 30, 2026.** Individual offers may run on different dates.
 
-Contribute current 2026 offers using the category tables below. Previous deals remain available in the [Git history](https://github.com/mRs-/Black-Friday-Deals/commits/master/README.md).
+**Search and filter every deal on the website: [blackfriday.mariuslandwehr.com](https://blackfriday.mariuslandwehr.com)**
 
-## Contributing
+Previous deals remain available in the [Git history](https://github.com/mRs-/Black-Friday-Deals/commits/master/README.md).
 
-Read [CONTRIBUTING.md](CONTRIBUTING.md) for the row template and submission checklist. Add your deal at the **bottom of the most relevant category**. Entries are first come, first served.
+## Add your deal
 
-Keep each deal on one line with one space around each pipe. Do not align column widths, reformat other rows, or reorder unrelated entries; small diffs reduce merge conflicts. Concurrent additions near the same row can still conflict, so update your branch from `master` before submitting.
+Fill in the form at [blackfriday.mariuslandwehr.com/submit](https://blackfriday.mariuslandwehr.com/submit/). It opens GitHub with your deal file ready to commit, so you never touch this README. You can also add one YAML file to `deals/2026/<category>/` yourself: [CONTRIBUTING.md](CONTRIBUTING.md) has a complete example and the field list. Entries are first come, first served.
+
+The table of contents and the tables below are generated from those files after every merge. Do not edit them by hand: your change would be overwritten, and a pull request that touches them fails its checks.
 
 **Legend**
 
@@ -19,6 +21,8 @@ Keep each deal on one line with one space around each pipe. Do not align column 
 | 💰 | Less than 50% off |
 | 💸 | 50% off or more |
 | — | Fixed-price offer or percentage not specified |
+
+<!-- DEALS:START - Everything from here to DEALS:END is generated from the files in deals/. Do not edit it by hand: see CONTRIBUTING.md to add or change a deal. -->
 
 ## Table of Contents
 
@@ -418,3 +422,5 @@ Keep each deal on one line with one space around each pipe. Do not align column 
 | 💸 | [Wavy Road](https://apps.apple.com/dk/app/wavy-road-endless-driving/id6804942333) | Endless driving game for iPhone where you steer the road and dodge obstacles. | Up to 50% off Unlimited Play and vehicles | Automatically applied to in-app purchases. No code needed. November 24–30, 2026. |
 
 [⬆️ Back to contents](#table-of-contents)
+
+<!-- DEALS:END -->

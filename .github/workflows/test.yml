@@ -1,4 +1,4 @@
-name: Test deal parser
+name: Check deals
 
 on:
   pull_request:
@@ -8,12 +8,40 @@ on:
 permissions:
   contents: read
 
+concurrency:
+  group: check-${{ github.event.pull_request.number || github.ref }}
+  cancel-in-progress: true
+
 jobs:
-  test:
+  check:
+    name: Deal files and tests
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-node@v4
+      - name: Check out the code
+        uses: actions/checkout@v4
+        with:
+          # On a pull request this is the merge commit plus the branch it targets (HEAD^1).
+          fetch-depth: 2
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
         with:
           node-version: '22'
-      - run: npm test
+          cache: npm
+
+      - name: Install dependencies
+        id: install
+        run: npm ci
+
+      - name: README tables are generated, not edited by hand
+        if: github.event_name == 'pull_request'
+        run: node scripts/check-pr.mjs --base HEAD^1
+
+      # The next two steps also run when an earlier check failed, so one run shows every problem.
+      - name: Deal files are valid
+        if: ${{ !cancelled() && steps.install.outcome == 'success' }}
+        run: npm run --silent validate
+
+      - name: Tests
+        if: ${{ !cancelled() && steps.install.outcome == 'success' }}
+        run: npm test

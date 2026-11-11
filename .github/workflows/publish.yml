@@ -1,0 +1,112 @@
+name: Publish README and website
+
+on:
+  push:
+    branches: [master]
+  workflow_dispatch:
+
+# Each job asks for exactly what it needs.
+permissions: {}
+
+# One publish at a time. A run that is already going finishes; of the waiting ones only the newest is kept.
+concurrency:
+  group: publish
+  cancel-in-progress: false
+
+jobs:
+  readme:
+    name: Regenerate README
+    if: github.ref == 'refs/heads/master'
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    outputs:
+      sha: ${{ steps.readme.outputs.sha }}
+    steps:
+      - name: Check out master with full history
+        uses: actions/checkout@v4
+        with:
+          ref: master
+          # The order of deals comes from the time each file was merged, so all history is needed.
+          fetch-depth: 0
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Deal files are valid
+        run: npm run --silent validate
+
+      - name: Regenerate README.md and push it if it changed
+        id: readme
+        run: |
+          for attempt in 1 2 3; do
+            # build:readme checks the deal files again and stops without writing if one is broken.
+            npm run --silent build:readme
+            if git diff --quiet -- README.md; then
+              break
+            fi
+            git add README.md
+            git -c user.name="Marius Landwehr" -c user.email="marius.landwehr@gmail.com" commit --quiet -m "Regenerate README"
+            if git push origin HEAD:master; then
+              break
+            fi
+            if [ "$attempt" = 3 ]; then
+              echo "::error title=README.md could not be pushed::The push to master was rejected three times. If master is protected, allow GitHub Actions to push to it (see CONTRIBUTING.md, Maintainers)."
+              exit 1
+            fi
+            echo "master moved while this job was running. Starting again from the new master."
+            git fetch --quiet origin master
+            git reset --quiet --hard origin/master
+          done
+          echo "sha=$(git rev-parse HEAD)" >> "$GITHUB_OUTPUT"
+
+  site:
+    name: Build website
+    needs: readme
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+    steps:
+      - name: Check out the commit the README job ended on
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ needs.readme.outputs.sha }}
+          fetch-depth: 0
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Build the site into _site/
+        run: npm run build:site
+
+      - name: Upload the Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+
+  deploy:
+    name: Deploy to GitHub Pages
+    needs: site
+    runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy
+        id: deployment
+        uses: actions/deploy-pages@v4

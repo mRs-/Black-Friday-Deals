@@ -2,7 +2,11 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "test": "node --test"
+    "test": "node --test",
+    "validate": "node scripts/validate.mjs",
+    "build:readme": "node scripts/build-readme.mjs",
+    "build:site": "node site/build.mjs",
+    "build": "npm run validate && npm run build:readme && npm run build:site"
   },
   "dependencies": {
     "yaml": "^2.8.0"
