@@ -113,6 +113,7 @@ Keep each deal on one line with one space around each pipe. Do not align column 
 | 💰 | [TinyShield](https://tinyshield.proxyman.com/) | Monitor app connections and block unwanted apps or domains with a macOS firewall. | 30% off all plans | **BF2026**; 2026-11-16 to 2026-12-03 |
 | 💸 | [PortDroid](https://portdroid.net/sale) | Android network toolkit: port scanner, ping, traceroute, DNS, WHOIS, LAN device discovery, WiFi analyser and certificate inspection in one app. | 50% off Pro Lifetime ($9.49 → $4.69 USD) | **CYBER_2026**; 2026-11-05 to 2026-12-04 |
 | 💰 | [OkayTab](https://okaytab.app/) | Browser extension for Chrome, Edge and Firefox that checks every site you open with AI and blocks fake shops, phishing and scam pages. | 30% off first period ($3.59 → $2.51 monthly, $8.59 → $6.01 3 months, $22.99 → $16.09 yearly) | **BLACKFRIDAY2026**; first billing period only, once per customer; 2026-11-01 to 2026-12-05 |
+| 💰 | [SimpleumSafe](https://simpleum.com/en/?utm_source=bf26-mRs) | Keep private photos and important documents in an encrypted safe on Mac, iPhone and iPad. | 30% off the one-time purchase and the first year of an annual subscription | **No Code needed**; Automatically applied to in-app purchases on the App Store; 2026-11-16 to 2026-12-06 |
 
 [⬆️ Back to contents](#table-of-contents)
 
