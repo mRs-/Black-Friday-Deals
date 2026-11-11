@@ -70,6 +70,17 @@ Keep each deal on one line with one space around each pipe. Do not align column 
 | 💸 | [Dirstarter](https://dirstarter.com/?discountCode=BF2026) | Next.js directory template with built-in payments, SEO and an MCP server for AI agents. Pay once, launch unlimited directories. | 50% off lifetime license ($150 → $75 Basic, $200 → $100 Pro) | **BF2026**; one-time purchase; 2026-11-10 to 2026-12-01 |
 | 💰 | [POSH](https://poshtui.com/black-friday?utm_source=mrs-bf&utm_campaign=bf2026) | Version-matched Ruby and Rails docs for coding agents via CLI and MCP. Free terminal browser. macOS & Linux. | 30% off monthly and yearly plans | **BLACKFRIDAY2026**; €7 → €4.90/month, €60 → €42/year; kept while you stay subscribed; new subscriptions only; until 2026-12-02 |
 | 💰 | [Runheed](https://runheed.com/black-friday?ref=mrs-bf-deals) | Error tracking your coding agent can read: Claude Code, Cursor or any MCP client reads the stack trace from your Node.js or Python app, fixes the code and resolves the error. | 40% off the first year | **RUNHEEDBF26**; annual plans only (Solo $290 → $174, Pro $790 → $474, Scale $1,990 → $1,194), new customers; until 2026-12-03 |
+| 💰 | [FormBold](https://formbold.com/pricing) | Form backend and API; get submissions via email, Slack, Notion, and more. | 30% off all yearly plans | **BLFCM2026**; yearly plans; 2026-11-17 to 2026-12-01 23:59 UTC |
+| 💰 | [TailGrids](https://tailgrids.com/pricing) | 600+ Tailwind CSS UI components, blocks, and templates for HTML, React, Vue, and Figma. | 30% off All Access plans | **BLFCM2026**; All Access plans; 2026-11-17 to 2026-12-01 23:59 UTC |
+| 💰 | [TailAdmin](https://tailadmin.com/pricing) | Tailwind CSS admin dashboard template with 500+ components for HTML, React, Next.js, Angular, and Vue. | 30% off Business plans | **BLFCM2026**; Business plans; 2026-11-17 to 2026-12-01 23:59 UTC |
+| 💸 | [TailTemplates](https://tailtemplates.com/all-access) | Premium Tailwind CSS templates for startups, SaaS, and landing pages. | 80% off all yearly plans | **BLFCM2026**; yearly plans; 2026-11-17 to 2026-12-01 23:59 UTC |
+| 💸 | [UIdeck](https://uideck.com/all-access) | 100+ Tailwind CSS and Bootstrap templates and landing pages. | 60% off all plans | **BLFCM2026**; 2026-11-17 to 2026-12-01 23:59 UTC |
+| 💰 | [NextJS Templates](https://nextjstemplates.com/all-access) | 20+ Next.js templates, starter kits, and boilerplates. | 40% off Business plans | **BLFCM2026**; Business plans; 2026-11-17 to 2026-12-01 23:59 UTC |
+| 💰 | [SaaSBold](https://saasbold.com/pricing) | Full-stack Next.js SaaS boilerplate. | 40% off all plans | **BLFCM2026**; 2026-11-17 to 2026-12-01 23:59 UTC |
+| 💰 | [Static.run](https://static.run/pricing) | Static site hosting with analytics and one-click deploy. | 30% off all yearly plans | **BLFCM2026**; yearly plans; 2026-11-17 to 2026-12-01 23:59 UTC |
+| 💰 | [CozyCommerce](https://cozycommerce.dev/pricing) | Next.js and Tailwind eCommerce kit with 100+ components and 20+ pages. | 30% off all plans | **BLFCM2026**; 2026-11-17 to 2026-12-01 23:59 UTC |
+| 💰 | [NextAdmin](https://nextadmin.co/pricing) | 200+ Next.js dashboard templates and UI components. | 30% off Business plans | **BLFCM2026**; Business plans; 2026-11-17 to 2026-12-01 23:59 UTC |
+| 💰 | [NextMerce](https://nextmerce.com/pricing) | Next.js eCommerce boilerplate. | 30% off all plans | **BLFCM2026**; 2026-11-17 to 2026-12-01 23:59 UTC |
 | 💰 | [BucketMate](https://www.bucketmate.app/pricing) | S3 GUI for Mac, iPhone, iPad, and web for AWS S3, Cloudflare R2, Backblaze B2, and other S3-compatible storage. | 40% off ($39 → $23.40) | **BF2026**; lifetime license, one-time purchase; 2026-11-02 to 2026-12-01 |
 
 [⬆️ Back to contents](#table-of-contents)
@@ -91,6 +102,9 @@ Keep each deal on one line with one space around each pipe. Do not align column 
 | 💰 | [BoltAI](https://boltai.com/pricing?utm_source=mrsdeals&utm_medium=partner&utm_campaign=bf2026) | Native AI workspace for Mac: ChatGPT, Claude, Gemini and local AI models in one app, now with agents that browse in Chrome and use the apps you allow. | 40% off Pro, Pro+ and Lifetime | **BFCM2026**; Lifetime ~~$399~~ $239.40, Pro ~~$99~~ $58.80, Pro+ ~~$199~~ $118.80; one-time purchase; until 2026-12-01 |
 | 💰 | [PDF Pals](https://pdfpals.com/buy?utm_source=mrsdeals&utm_medium=partner&utm_campaign=bf2026) | Chat with your PDF, Word, Excel, PowerPoint, EPUB and Markdown files on Mac, with cited answers and built-in local AI models. | Lifetime ~~$249~~ $149; 20% off Basic and Plus | Lifetime: automatically applied; **BF20** for Basic (~~$59~~ $47.20) and Plus (~~$99~~ $79.20); one-time purchase; until 2026-12-01 |
 | 💰 | [SmartyTab](https://smartytab.app/) | Private AI autocomplete, writing check and rephrase for every app on your Mac; runs on device. | 30% off yearly and lifetime | **BF2026**; Lifetime ~~$99~~ $69.30, yearly ~~$49~~ $34.30 for the first year; until 2026-12-01 |
+| 💰 | [Nivon](https://nivon.ai/pricing) | No-code AI customer support chatbot trained on your website and docs, with 95+ languages and human handoff. | 40% off all paid plans | **BLFCM2026**; all paid plans; 2026-11-17 to 2026-12-01 23:59 UTC |
+| 💰 | [Aymo AI](https://aymo.ai/pricing) | All-in-one multi-AI chat platform for developers and teams. | 30% off Premium yearly | **BLFCM2026**; Premium yearly plan; 2026-11-17 to 2026-12-01 23:59 UTC |
+| 💰 | [Meku](https://meku.dev/pricing) | AI builder for websites and web apps. | 30% off all yearly plans | **BLFCM2026**; yearly plans; 2026-11-17 to 2026-12-01 23:59 UTC |
 
 [⬆️ Back to contents](#table-of-contents)
 
@@ -105,6 +119,8 @@ Keep each deal on one line with one space around each pipe. Do not align column 
 | 💸 | [LandinTools](https://tools.landin.page/advertise?ref=Black-Friday-Deals) | Directory of 1,000+ AI and SaaS tools. Get your tool featured for a full year. | 50% off Featured listing: $49 → $24.50 | **BF2026**; one year of Featured placement; Black Friday offer |
 | 💰 | [Quotion](https://quotion.co/#pricing) | Turn Apple Notes into blogs, portfolios and portals. Web-based, no coding required. | 30% off all paid plans for 12 months | **BLACKFRIDAY2026**; monthly or annual billing; 2026-11-09 to 2026-12-02 |
 | 💰 | [Terlido](https://terlido.com/pricing?utm_source=mrsbf&utm_medium=deal-list&utm_campaign=bfcm-2026) | Cold email and newsletters from your own mailbox, with warmup, campaigns, inbox and an AI agent. | 40% off for 12 months: Email Pro $39 → $23.40/seat/mo, Newsletter Pro $29 → $17.40/mo | **BF2026**; 2026-11-09 to 2026-12-01 |
+| 💰 | [LeadMerlin](https://leadmerlin.com/black-friday/?utm_source=mrsbf) | Local business leads (owner names, checked emails, phone line types, site tech) via API, agent skill or dashboard. | 40% off | **BF2026**; first payment, so the whole first year on yearly plans (Starter $348 → $208.80/yr, Pro $468 → $280.80/yr, Agency $948 → $568.80/yr); monthly plans get 40% off the first month; until 2026-12-02 |
+| 💰 | [Sequenzy](https://sequenzy.com/black-friday) | Email marketing for SaaS: newsletters, automated sequences and transactional email, with unlimited contacts. | 30% off any annual plan | **BLACKFRIDAY**; annual plans only; e.g. 15,000 emails/month $205 → $143.50/year |
 
 [⬆️ Back to contents](#table-of-contents)
 
@@ -118,6 +134,7 @@ Keep each deal on one line with one space around each pipe. Do not align column 
 | 💸 | [PortDroid](https://portdroid.net/sale) | Android network toolkit: port scanner, ping, traceroute, DNS, WHOIS, LAN device discovery, WiFi analyser and certificate inspection in one app. | 50% off Pro Lifetime ($9.49 → $4.69 USD) | **CYBER_2026**; 2026-11-05 to 2026-12-04 |
 | 💰 | [OkayTab](https://okaytab.app/) | Browser extension for Chrome, Edge and Firefox that checks every site you open with AI and blocks fake shops, phishing and scam pages. | 30% off first period ($3.59 → $2.51 monthly, $8.59 → $6.01 3 months, $22.99 → $16.09 yearly) | **BLACKFRIDAY2026**; first billing period only, once per customer; 2026-11-01 to 2026-12-05 |
 | 💰 | [SimpleumSafe](https://simpleum.com/en/?utm_source=bf26-mRs) | Keep private photos and important documents in an encrypted safe on Mac, iPhone and iPad. | 30% off the one-time purchase and the first year of an annual subscription | **No Code needed**; Automatically applied to in-app purchases on the App Store; 2026-11-16 to 2026-12-06 |
+| 💸 | [Vibe App Scanner](https://vibeappscanner.com/black-friday) | Live-app and source-code security checks with evidence and fix guidance. | 60% off the first month of Go or Pro | Automatically applied; first subscriptions only, previous subscriptions and AppSumo excluded. New-account Go $11.60 then $29/month, Pro $19.60 then $49/month (USD). Nov 10–30, 2026, ends 11:59pm Toronto time. |
 
 [⬆️ Back to contents](#table-of-contents)
 
@@ -165,6 +182,8 @@ Keep each deal on one line with one space around each pipe. Do not align column 
 | 💸 | [SnapTidy: Photo Swipe & Delete](https://snaptidyapp.github.io/snaptidy-site/blackfriday/) | Photo cleaner for iPhone and iPad: swipe a few photos at a time to keep or mark; nothing is deleted until you confirm. | 50% off ($39.99 → $19.99) | Automatically applied; Pro Lifetime one-time in-app purchase; US price, local prices vary, not in mainland China; 2026-11-27 to 2026-11-30 |
 | 💰 | [WebWatch](https://apps.apple.com/app/id1610565796?pt=119552309&ct=bf26_mrs&mt=8) | Website change monitor for iPhone and iPad: get alerts when pages change, prices drop or items are back in stock. | 40% off Pro Lifetime ($56.99 → $34.00 USD) | Automatically applied in the app; no code needed; local prices vary; 2026-11-25 to 2026-12-01 |
 | 💸 | [BookletMaker](https://bookletmaker.app/black-friday/) | Turn any PDF into a booklet that prints, folds and staples correctly, on Mac, iPad and iPhone. | 50% off lifetime | Automatically applied in the App Store; one-time purchase; 2026-11-25 to 2026-12-01 |
+| 💰 | [SiftMac](https://siftmac.com/?utm_source=mRs-Black-Friday-Deals) | Mac cleaner that tells you, for every file, whether it comes back before anything is deleted; 7-day undo. | 25% off ($12 → $9) | Automatically applied at checkout, or code **BLACKFRIDAY**; one-time purchase for 2 Macs; 2026-11-27 to 2026-11-30 |
+| — | [Lunille](https://lunille.com/?ref=bf-mrs) | Notch app for Mac with Luni, a little moon that reacts to your music, volume, AirPods and coding assistant, around music, calls, notifications, calendar and a file tray. | Launch price: $9.99 once, through November 30. From December 1: $14.99 | No code needed; one-time purchase for up to 3 Macs, every future update included; free 14-day trial without an account; 14-day refund; macOS 14 or later; launch price ends end of 30 November 2026, UTC |
 | 💸 | [MouseUp](https://mouseup.app) | Make an external mouse feel right on Mac with smooth scrolling, click debounce, and wheel zoom. | 50% off ($7.99 → $4.00) | **MMFBF2026**; lifetime license, one-time purchase; 2026-11-02 to 2026-12-05 |
 
 [⬆️ Back to contents](#table-of-contents)
@@ -236,6 +255,7 @@ Keep each deal on one line with one space around each pipe. Do not align column 
 | 💰 | [Weather Icons](https://mgcweather.framer.website/?utm_source=mrsbf) | 120 graceful weather icons | **30% OFF** ($25 → $17.5) | code **BF2026** ; Nov 15, 2026 - Dec 5, 2026 |
 | 💰 | [PAPLO](https://getpaplo.com/news/black-friday-2026?utm_source=press-mrs-bf&utm_medium=listing&utm_campaign=press-mrs-bf) | Turn photos of your pets, friends and food into chat stickers on iPhone. | 43% off ($6.99 → $3.99) | No code needed; one-time in-app purchase (PAPLO Plus); 2026-11-27 to 2026-11-30 |
 | 💸 | [Sip](https://sipapp.io/pricing/?ref=mrs-bf) | Modern color picker for Mac that brings ease to color organization and team collaboration. | 50% off | **BLACKFRIDAY26**; 2026-11-27 to 2026-12-01 |
+| 💰 | [Lineicons](https://lineicons.com/pricing) | 30,000+ icons in 10 styles, including SVG, JSX, TSX, and PNG. | 40% off Business plans | **BLFCM2026**; Business plans; 2026-11-17 to 2026-12-01 23:59 UTC |
 
 [⬆️ Back to contents](#table-of-contents)
 
@@ -251,6 +271,7 @@ Keep each deal on one line with one space around each pipe. Do not align column 
 | 💸 | [Digital Photo Frame](https://digitalphotoframeapp.com/) | Turn your iPhone, iPad, Mac or Apple TV into a smart photo frame with slideshows of your albums. | 50% off yearly ($19.99 → $9.99) | Automatically applied, no code needed; yearly plan; 2026-11-27 to 2026-12-01 |
 | 💸 | [Photo Booth App](https://thephotoboothapp.com/) | Turn an iPad or iPhone into a photo booth for weddings, parties and events, with photos, GIFs, guest sharing and AirPrint printing. | 50% off yearly ($99.99 → $49.99) | Automatically applied, no code needed; yearly plan; 2026-11-27 to 2026-12-01 |
 | 💸 | [Our Family Album](https://ourfamilyalbum.com/) | Share your children's photos privately with family on iPhone and iPad, with read-only browser links for grandparents. | 50% off yearly ($49.99 → $24.99) | Automatically applied, no code needed; yearly plan; 2026-11-27 to 2026-12-01 |
+| — | [Recipe Organizer by Vima](https://apps.apple.com/app/apple-store/id6757971278?pt=296584&ct=bf26-mrs&mt=8) | Recipe keeper for iPhone and iPad: save recipes from websites, YouTube, TikTok, Instagram or a photo of a recipe card, then plan meals, build a grocery list and cook hands-free. | Lifetime unlock $9.99 (regularly a $29.99/year subscription) | Automatically applied on the App Store; one-time in-app purchase, no code needed; 2026-11-26 to 2026-12-02 |
 
 [⬆️ Back to contents](#table-of-contents)
 
