@@ -118,6 +118,7 @@ Keep each deal on one line with one space around each pipe. Do not align column 
 | 💸 | [LandinTools](https://tools.landin.page/advertise?ref=Black-Friday-Deals) | Directory of 1,000+ AI and SaaS tools. Get your tool featured for a full year. | 50% off Featured listing: $49 → $24.50 | **BF2026**; one year of Featured placement; Black Friday offer |
 | 💰 | [Quotion](https://quotion.co/#pricing) | Turn Apple Notes into blogs, portfolios and portals. Web-based, no coding required. | 30% off all paid plans for 12 months | **BLACKFRIDAY2026**; monthly or annual billing; 2026-11-09 to 2026-12-02 |
 | 💰 | [Terlido](https://terlido.com/pricing?utm_source=mrsbf&utm_medium=deal-list&utm_campaign=bfcm-2026) | Cold email and newsletters from your own mailbox, with warmup, campaigns, inbox and an AI agent. | 40% off for 12 months: Email Pro $39 → $23.40/seat/mo, Newsletter Pro $29 → $17.40/mo | **BF2026**; 2026-11-09 to 2026-12-01 |
+| 💰 | [LeadMerlin](https://leadmerlin.com/black-friday/?utm_source=mrsbf) | Local business leads (owner names, checked emails, phone line types, site tech) via API, agent skill or dashboard. | 40% off | **BF2026**; first payment, so the whole first year on yearly plans (Starter $348 → $208.80/yr, Pro $468 → $280.80/yr, Agency $948 → $568.80/yr); monthly plans get 40% off the first month; until 2026-12-02 |
 
 [⬆️ Back to contents](#table-of-contents)
 
