@@ -1,0 +1,1202 @@
+/* Black Friday Deals. One typeface (Archivo) in two widths: condensed and heavy
+   for figures and headings, normal width for reading. One accent, the yellow
+   of a price sticker. Rules instead of boxes: a 2px rule opens a category, a
+   hairline closes a row. */
+
+@font-face {
+  font-family: "Archivo";
+  font-style: normal;
+  font-display: swap;
+  font-weight: 100 900;
+  font-stretch: 62% 125%;
+  src: url(fonts/archivo-latin-ext-wdth-normal.woff2) format("woff2");
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+
+@font-face {
+  font-family: "Archivo";
+  font-style: normal;
+  font-display: swap;
+  font-weight: 100 900;
+  font-stretch: 62% 125%;
+  src: url(fonts/archivo-latin-wdth-normal.woff2) format("woff2");
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+:root {
+  color-scheme: light dark;
+
+  --paper: #f4f5f1;
+  --sunk: #e8eae4;
+  --field: #ffffff;
+  --ink: #14171c;
+  --ink-soft: #3b424c;
+  --ink-quiet: #59616c;
+  --rule: rgb(20 23 28 / 0.16);
+  --sticker: #ffd60a;
+  --sticker-ink: #14171c;
+  --sticker-edge: #14171c;
+  --wash: #fff1a8;
+  --alert: #951f17;
+
+  --r-small: 3px;
+  --r-control: 6px;
+
+  --gutter: clamp(16px, 4vw, 48px);
+  --edge: max(var(--gutter), calc((100% - 1320px) / 2 + var(--gutter)));
+  --stuck: 73px; /* height of the search bar that stays at the top while scrolling */
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --paper: #11151b;
+    --sunk: #1a2029;
+    --field: #1a2029;
+    --ink: #eceee8;
+    --ink-soft: #c3c8cf;
+    --ink-quiet: #9299a4;
+    --rule: rgb(236 238 232 / 0.18);
+    --sticker-edge: #ffd60a;
+    --wash: #2e2906;
+    --alert: #ff9a8f;
+  }
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+html {
+  -webkit-text-size-adjust: 100%;
+  text-size-adjust: 100%;
+  scroll-padding-top: calc(var(--stuck) + 12px);
+}
+
+body {
+  margin: 0;
+  background: var(--paper);
+  color: var(--ink);
+  font: 400 1rem/1.45 "Archivo", system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+  font-stretch: 100%;
+  font-synthesis: none;
+  overflow-wrap: break-word;
+  /* The footer sits at the foot of the window on a short page. */
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+main {
+  flex: 1 0 auto;
+}
+
+h1,
+h2,
+h3,
+p,
+ul,
+ol,
+pre {
+  margin: 0;
+  padding: 0;
+  font-size: inherit;
+  font-weight: inherit;
+}
+
+ul,
+ol {
+  list-style: none;
+}
+
+a,
+.link {
+  color: inherit;
+  text-decoration: underline;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 0.2em;
+  text-decoration-color: color-mix(in srgb, currentColor 42%, transparent);
+}
+
+a:hover,
+.link:hover {
+  text-decoration-color: currentColor;
+}
+
+.link {
+  appearance: none;
+  border: 0;
+  padding: 0;
+  background: none;
+  font: inherit;
+  cursor: pointer;
+}
+
+:focus-visible {
+  outline: 2px solid var(--ink);
+  outline-offset: 2px;
+  border-radius: var(--r-small);
+}
+
+::selection {
+  background: var(--sticker);
+  color: var(--sticker-ink);
+}
+
+strong {
+  font-weight: 700;
+}
+
+code {
+  font: 0.92em/1 ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+}
+
+[hidden] {
+  display: none !important;
+}
+
+.hide {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+  clip-path: inset(50%);
+  white-space: nowrap;
+}
+
+.sprite {
+  position: absolute;
+}
+
+.wrap {
+  width: 100%;
+  max-width: 1320px;
+  margin-inline: auto;
+  padding-inline: var(--gutter);
+}
+
+/* Condensed, heavy Archivo: figures and headings. */
+.brand,
+.cat__title,
+.pct,
+.submit h1,
+.lost h1,
+.file h2,
+.none__title {
+  font-stretch: 62%;
+  font-weight: 800;
+  line-height: 1.05;
+}
+
+/* Buttons: one shape. The filled one marks the page's main action. */
+
+.btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 44px;
+  padding: 0 18px;
+  border: 1.5px solid var(--ink);
+  border-radius: var(--r-control);
+  background: transparent;
+  color: var(--ink);
+  font: inherit;
+  font-size: 0.9375rem;
+  font-weight: 650;
+  line-height: 1;
+  text-decoration: none;
+  white-space: nowrap;
+  cursor: pointer;
+  transition: transform 80ms, box-shadow 80ms;
+}
+
+.btn:hover {
+  transform: translateY(-1px);
+  box-shadow: 0 2px 0 var(--ink);
+}
+
+.btn:active {
+  transform: translateY(1px);
+  box-shadow: none;
+}
+
+.btn--primary {
+  border-color: var(--sticker-edge);
+  background: var(--sticker);
+  color: var(--sticker-ink);
+}
+
+.btn--primary:hover {
+  box-shadow: 0 2px 0 var(--sticker-edge);
+}
+
+/* Masthead */
+
+.masthead {
+  padding-block: 18px 16px;
+  border-bottom: 2px solid var(--ink);
+}
+
+.masthead__row {
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 16px;
+}
+
+.brand {
+  min-width: 0;
+  font-size: clamp(2.125rem, 1.3rem + 2.5vw, 3.25rem);
+  line-height: 0.95;
+  text-wrap: balance;
+}
+
+.brand,
+.brand a {
+  display: flex;
+  align-items: center;
+  gap: 0.3em;
+  text-decoration: none;
+}
+
+p.brand {
+  font-size: 1.625rem;
+}
+
+.brand a {
+  min-height: 44px;
+}
+
+.mark {
+  flex: none;
+  width: 0.86em;
+  height: 0.86em;
+}
+
+.lede {
+  max-width: 78ch;
+  margin-top: 10px;
+  color: var(--ink-soft);
+  font-size: 0.9375rem;
+}
+
+.masthead__link {
+  display: inline-flex;
+  align-items: center;
+  min-height: 44px;
+  font-size: 0.9375rem;
+  font-weight: 650;
+}
+
+.skip {
+  position: absolute;
+  left: var(--gutter);
+  top: 0;
+  z-index: 10;
+  padding: 10px 14px;
+  border-radius: var(--r-control);
+  background: var(--ink);
+  color: var(--paper);
+  font-weight: 650;
+  transform: translateY(-200%);
+}
+
+.skip:focus {
+  transform: none;
+}
+
+/* Search and filters. On a phone only the search field stays on screen while
+   scrolling; from 900px the whole bar does. Rules that run the full width of
+   the window divide the page; rules inside the margins divide the list. */
+
+.tools {
+  display: contents;
+}
+
+.tools__search,
+.tools__filters {
+  padding-inline: var(--edge);
+  background: var(--paper);
+}
+
+.tools__search {
+  position: sticky;
+  top: 0;
+  z-index: 5;
+  padding-block: 12px 0;
+}
+
+.tools__search::after {
+  content: "";
+  display: block;
+  margin-top: 12px;
+  margin-inline: calc(-1 * var(--edge));
+  border-bottom: 1px solid var(--rule);
+}
+
+.tools__filters {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 4px 20px;
+  padding-block: 10px 6px;
+}
+
+.box {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  min-width: 0;
+  height: 48px;
+  padding-left: 14px;
+  border: 1.5px solid var(--ink);
+  border-radius: var(--r-control);
+  background: var(--field);
+}
+
+.box:focus-within {
+  outline: 2px solid var(--ink);
+  outline-offset: 2px;
+}
+
+.box__label {
+  flex: none;
+  font-size: 0.9375rem;
+  font-weight: 650;
+}
+
+.box input,
+.box select {
+  flex: 1;
+  width: 100%;
+  min-width: 0;
+  height: 100%;
+  padding: 0 12px 0 0;
+  border: 0;
+  outline: 0;
+  background: none;
+  color: inherit;
+  font: inherit;
+  text-overflow: ellipsis;
+}
+
+.box input::placeholder,
+.field input::placeholder {
+  color: var(--ink-quiet);
+  opacity: 1;
+}
+
+.box__key {
+  display: none;
+  flex: none;
+  margin-right: 12px;
+  min-width: 22px;
+  padding: 3px 6px;
+  border: 1px solid var(--rule);
+  border-radius: var(--r-small);
+  color: var(--ink-quiet);
+  font: inherit;
+  font-size: 0.8125rem;
+  line-height: 1;
+  text-align: center;
+}
+
+.box--category {
+  flex: 1 1 100%;
+}
+
+.check {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  min-height: 44px;
+  font-size: 0.9375rem;
+  font-weight: 500;
+  white-space: nowrap;
+  cursor: pointer;
+}
+
+.check input {
+  width: 18px;
+  height: 18px;
+  margin: 0;
+  accent-color: var(--ink);
+}
+
+@media (min-width: 900px) {
+  .tools {
+    position: sticky;
+    top: 0;
+    z-index: 5;
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    padding: 12px var(--edge);
+    border-bottom: 1px solid var(--rule);
+    background: var(--paper);
+  }
+
+  .tools__search,
+  .tools__filters {
+    position: static;
+    padding: 0;
+    border: 0;
+  }
+
+  .tools__search {
+    flex: 1 1 auto;
+    min-width: 0;
+  }
+
+  .tools__search::after {
+    content: none;
+  }
+
+  .tools__filters {
+    flex: none;
+    flex-wrap: nowrap;
+    gap: 20px;
+  }
+
+  .box--category {
+    flex: 0 0 280px;
+  }
+}
+
+@media (min-width: 1100px) {
+  .box--category {
+    display: none;
+  }
+}
+
+@media (hover: hover) and (pointer: fine) {
+  .box__key {
+    display: block;
+  }
+}
+
+/* The board: category rail and list */
+
+.board {
+  display: grid;
+  gap: 40px;
+  padding-block: 4px 56px;
+}
+
+.rail {
+  display: none;
+}
+
+.rail a {
+  display: flex;
+  justify-content: space-between;
+  gap: 12px;
+  padding: 5px 10px;
+  border-radius: var(--r-small);
+  font-size: 0.9375rem;
+  line-height: 1.3;
+  text-decoration: none;
+}
+
+.rail a:hover {
+  background: var(--sunk);
+}
+
+.rail a[aria-current="true"] {
+  background: var(--sticker);
+  color: var(--sticker-ink);
+  font-weight: 700;
+}
+
+.rail__count {
+  font-variant-numeric: tabular-nums;
+  color: var(--ink-quiet);
+}
+
+.rail a[aria-current="true"] .rail__count {
+  color: inherit;
+}
+
+.rail a.is-none:not([aria-current="true"]) {
+  color: var(--ink-quiet);
+}
+
+@media (min-width: 1100px) {
+  .board {
+    grid-template-columns: 220px minmax(0, 1fr);
+  }
+
+  .rail {
+    position: sticky;
+    top: calc(var(--stuck) + 20px);
+    display: block;
+    align-self: start;
+    max-height: calc(100vh - var(--stuck) - 40px);
+    margin-top: 20px;
+    margin-left: -10px;
+    overflow-y: auto;
+  }
+}
+
+.result {
+  padding-top: 16px;
+  font-size: 0.9375rem;
+  color: var(--ink-soft);
+}
+
+.cat {
+  margin-top: 40px;
+}
+
+.result + .cat,
+.list > .cat:first-child,
+.result[hidden] + .cat {
+  margin-top: 20px;
+}
+
+.cat__title {
+  display: flex;
+  align-items: baseline;
+  gap: 0.35em;
+  padding-bottom: 8px;
+  border-bottom: 2px solid var(--ink);
+  font-size: 1.75rem;
+}
+
+.cat__emoji {
+  font-family: "Apple Color Emoji", "Segoe UI Emoji", "Noto Color Emoji", sans-serif;
+  font-size: 0.74em;
+  font-variant-emoji: emoji;
+  font-weight: 400;
+}
+
+.cat__count {
+  margin-left: auto;
+  padding-left: 12px;
+  color: var(--ink-quiet);
+  font-weight: 500;
+  font-variant-numeric: tabular-nums;
+}
+
+.cat__empty {
+  padding: 14px 0;
+  border-bottom: 1px solid var(--rule);
+  color: var(--ink-soft);
+  font-size: 0.9375rem;
+}
+
+/* A deal row. Reading order: how much, what, the offer, how to get it. */
+
+.deal {
+  position: relative;
+  display: grid;
+  grid-template-columns: 50px minmax(0, 1fr) 32px;
+  column-gap: 12px;
+  padding: 12px 0 13px;
+  border-bottom: 1px solid var(--rule);
+}
+
+.deal:target {
+  background: var(--wash);
+  box-shadow: -10px 0 0 var(--wash), 10px 0 0 var(--wash);
+}
+
+.deal__pct {
+  grid-row: 1 / span 2;
+  padding-top: 1px;
+}
+
+.pct {
+  display: inline-block;
+  font-size: 1.75rem;
+  font-variant-numeric: tabular-nums;
+  line-height: 1;
+  white-space: nowrap;
+}
+
+.pct__sign {
+  display: inline-block;
+  margin-left: 1px;
+  font-size: 0.56em;
+  font-weight: 700;
+  vertical-align: 0.62em;
+}
+
+.pct--high {
+  margin-top: -4px;
+  padding: 4px 6px 3px;
+  border-radius: var(--r-small);
+  background: var(--sticker);
+  color: var(--sticker-ink);
+}
+
+.deal__what {
+  grid-column: 2;
+}
+
+.deal__name {
+  font-size: 1.0625rem;
+  font-weight: 700;
+  line-height: 1.25;
+}
+
+.deal__name a {
+  position: relative;
+  text-decoration-color: color-mix(in srgb, currentColor 28%, transparent);
+}
+
+.deal__name a:hover {
+  text-decoration-color: currentColor;
+}
+
+.deal__desc,
+.deal__discount,
+.deal__terms {
+  text-wrap: pretty;
+}
+
+.deal__desc {
+  max-width: 62ch;
+  margin-top: 3px;
+  color: var(--ink-soft);
+  font-size: 0.9375rem;
+}
+
+.deal__offer {
+  grid-column: 2 / -1;
+  margin-top: 8px;
+  font-size: 0.9375rem;
+}
+
+.deal__discount {
+  font-weight: 650;
+}
+
+.deal__discount strong {
+  font-weight: 800;
+}
+
+.deal__terms {
+  margin-top: 4px;
+  color: var(--ink-soft);
+  font-size: 0.875rem;
+}
+
+.deal__terms strong {
+  color: var(--ink);
+}
+
+.deal__dates {
+  margin-top: 3px;
+  color: var(--ink-quiet);
+  font-size: 0.8125rem;
+}
+
+.deal.is-closing .deal__dates {
+  color: var(--ink);
+  font-weight: 650;
+}
+
+.deal.is-ended .pct,
+.deal.is-ended .deal__discount {
+  color: var(--ink-quiet);
+}
+
+.deal.is-ended .deal__discount {
+  text-decoration: line-through;
+  text-decoration-thickness: 1px;
+}
+
+.deal.is-ended .pct--high {
+  background: none;
+  box-shadow: inset 0 0 0 1.5px var(--ink-quiet);
+}
+
+/* The link to the row itself. On a phone it sits beside the name; from 900px
+   it hangs in the margin left of the figure, so the row ends on the right line. */
+.deal__anchor {
+  position: relative;
+  grid-column: 3;
+  grid-row: 1;
+  justify-self: end;
+  width: 32px;
+  height: 32px;
+  margin-top: -5px;
+  color: var(--ink-quiet);
+  font-weight: 500;
+  line-height: 32px;
+  text-align: center;
+  text-decoration: none;
+}
+
+/* Small targets get a 44px touch area without growing the row. */
+.deal__anchor::after,
+.code::after,
+.deal__name a::after {
+  content: "";
+  position: absolute;
+}
+
+.deal__anchor::after {
+  inset: -6px -8px -6px -4px;
+}
+
+.code::after {
+  inset: -9px -4px;
+}
+
+.deal__name a::after {
+  inset: -13px 0;
+}
+
+.code {
+  position: relative;
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  min-height: 28px;
+  margin: 0 4px 2px 0;
+  padding: 0 8px;
+  border: 1.5px solid var(--ink);
+  border-radius: var(--r-small);
+  background: var(--field);
+  color: var(--ink);
+  font: inherit;
+  font-size: 0.8125rem;
+  font-weight: 700;
+  letter-spacing: 0.03em;
+  line-height: 1;
+  vertical-align: middle;
+  cursor: pointer;
+}
+
+.code:hover,
+.code.is-copied {
+  border-color: var(--sticker-edge);
+  background: var(--sticker);
+  color: var(--sticker-ink);
+}
+
+.code:active {
+  transform: translateY(1px);
+}
+
+.code__icon {
+  flex: none;
+}
+
+.no-js .code {
+  min-height: 0;
+  padding: 0;
+  border: 0;
+  background: none;
+  cursor: text;
+  user-select: all;
+}
+
+.no-js .code__icon,
+.no-js .tools {
+  display: none;
+}
+
+@media (hover: hover) and (pointer: fine) {
+  .deal__anchor {
+    opacity: 0;
+  }
+
+  .deal:hover .deal__anchor,
+  .deal__anchor:focus-visible,
+  .deal:target .deal__anchor {
+    opacity: 1;
+  }
+
+  .deal__anchor:hover {
+    color: var(--ink);
+  }
+}
+
+@media (min-width: 900px) {
+  .cat__title,
+  .pct {
+    font-size: 2rem;
+  }
+
+  .deal {
+    grid-template-columns: 58px minmax(0, 1.1fr) minmax(0, 1fr);
+    column-gap: 20px;
+  }
+
+  .deal__pct {
+    grid-row: auto;
+  }
+
+  .deal__offer {
+    grid-column: 3;
+    margin-top: 1px;
+  }
+
+  .deal__anchor {
+    position: absolute;
+    grid-column: 1;
+    top: 1px;
+    left: -32px;
+    width: 28px;
+    height: 28px;
+    margin: 0;
+    line-height: 28px;
+  }
+
+  .deal__anchor::after {
+    inset: -8px;
+  }
+
+  .deal__name a::after {
+    content: none;
+  }
+}
+
+.none {
+  margin-top: 20px;
+  padding: 28px 0 40px;
+  border-top: 2px solid var(--ink);
+}
+
+.none p {
+  max-width: 62ch;
+}
+
+.none__title {
+  margin-bottom: 8px;
+  font-size: 1.75rem;
+}
+
+/* Without scripts the category list is a plain index above the deals. */
+
+.no-js .rail {
+  display: block;
+  margin-top: 20px;
+}
+
+.no-js .rail a[aria-current="true"] {
+  background: none;
+  color: inherit;
+  font-weight: 400;
+}
+
+@media (max-width: 1099px) {
+  .no-js .rail ul {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0 6px;
+    margin-inline: -10px;
+  }
+
+  .no-js .rail a {
+    align-items: center;
+    gap: 6px;
+    min-height: 36px;
+  }
+}
+
+/* Footer */
+
+.footer {
+  border-top: 2px solid var(--ink);
+  padding-block: 20px 40px;
+  color: var(--ink-soft);
+  font-size: 0.875rem;
+}
+
+.footer p {
+  max-width: 78ch;
+}
+
+.footer__links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0 28px;
+  margin-top: 6px;
+}
+
+.footer__links a {
+  display: inline-flex;
+  align-items: center;
+  min-height: 44px;
+}
+
+/* Submit page */
+
+.submit,
+.lost {
+  padding-block: 0 56px;
+}
+
+.submit__intro {
+  padding-top: 24px;
+}
+
+.submit h1,
+.lost h1 {
+  font-size: clamp(2.125rem, 1.6rem + 2vw, 2.75rem);
+}
+
+.submit__intro p,
+.lost p {
+  max-width: 66ch;
+  margin-top: 10px;
+  color: var(--ink-soft);
+}
+
+.notice {
+  padding: 12px 14px;
+  border: 1.5px solid var(--ink);
+  border-radius: var(--r-control);
+  color: var(--ink);
+}
+
+.submit__form {
+  display: grid;
+  gap: 40px 56px;
+  margin-top: 28px;
+}
+
+.fields {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
+  gap: 18px 16px;
+  align-content: start;
+}
+
+.field--wide,
+.fields__note {
+  grid-column: 1 / -1;
+}
+
+.field label {
+  display: block;
+  margin-bottom: 6px;
+  font-size: 0.9375rem;
+  font-weight: 650;
+}
+
+.field__optional {
+  margin-left: 4px;
+  color: var(--ink-quiet);
+  font-size: 0.8125rem;
+  font-weight: 400;
+}
+
+.field input,
+.field select,
+.field textarea {
+  display: block;
+  width: 100%;
+  min-height: 48px;
+  padding: 10px 12px;
+  border: 1.5px solid var(--ink);
+  border-radius: var(--r-control);
+  background: var(--field);
+  color: var(--ink);
+  font: inherit;
+}
+
+.field textarea {
+  line-height: 1.4;
+  resize: vertical;
+}
+
+.field input:focus-visible,
+.field select:focus-visible,
+.field textarea:focus-visible {
+  border-radius: var(--r-control);
+}
+
+.field [aria-invalid="true"] {
+  border-color: var(--alert);
+  box-shadow: inset 0 0 0 1px var(--alert);
+}
+
+.field__hint,
+.field__error,
+.fields__note {
+  margin-top: 6px;
+  font-size: 0.875rem;
+}
+
+.field__hint,
+.fields__note {
+  color: var(--ink-soft);
+}
+
+.field__error {
+  color: var(--alert);
+  font-weight: 600;
+}
+
+.fields__note {
+  margin-top: 0;
+}
+
+.fields__note .link {
+  display: inline-flex;
+  align-items: center;
+  min-height: 44px;
+  margin-block: -12px;
+}
+
+.file h2 {
+  margin-top: 28px;
+  padding-bottom: 6px;
+  border-bottom: 2px solid var(--ink);
+  font-size: 1.375rem;
+}
+
+.file h2:first-child {
+  margin-top: 0;
+}
+
+.deals--preview .deal {
+  grid-template-columns: 50px minmax(0, 1fr);
+}
+
+.deals--preview .deal__pct {
+  grid-row: 1 / span 2;
+}
+
+.deals--preview .deal__offer {
+  grid-column: 2;
+  margin-top: 8px;
+}
+
+.deals--preview .deal__anchor {
+  display: none;
+}
+
+.deals__blank {
+  padding: 12px 0 13px;
+  border-bottom: 1px solid var(--rule);
+  color: var(--ink-soft);
+  font-size: 0.9375rem;
+}
+
+.file__path {
+  margin-top: 12px;
+  font-size: 0.875rem;
+  font-weight: 650;
+  overflow-wrap: anywhere;
+}
+
+.file__path .todo {
+  color: var(--ink-quiet);
+  font-weight: 400;
+}
+
+.file__yaml {
+  min-height: 5.5em;
+  margin-top: 8px;
+  padding: 14px 16px;
+  border-radius: var(--r-control);
+  background: var(--sunk);
+  font: 0.8125rem/1.6 ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+  white-space: pre-wrap;
+  overflow-wrap: anywhere;
+}
+
+.file__yaml.is-blank {
+  color: var(--ink-soft);
+  font: inherit;
+  font-size: 0.9375rem;
+}
+
+.file__status {
+  min-height: 1.45em;
+  margin-top: 14px;
+  font-size: 0.9375rem;
+  font-weight: 650;
+}
+
+.file__actions,
+.lost__actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+  margin-top: 12px;
+}
+
+.steps {
+  margin-top: 24px;
+  padding-left: 1.3em;
+  list-style: decimal;
+  color: var(--ink-soft);
+  font-size: 0.9375rem;
+}
+
+.steps li + li {
+  margin-top: 6px;
+}
+
+.steps li::marker {
+  color: var(--ink);
+  font-weight: 700;
+}
+
+.file__manual {
+  margin-top: 16px;
+  color: var(--ink-soft);
+  font-size: 0.875rem;
+}
+
+@media (min-width: 1000px) {
+  .submit__form {
+    grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
+    align-items: start;
+  }
+
+  .file {
+    position: sticky;
+    top: 24px;
+  }
+}
+
+@media (max-width: 599px) {
+  .file__actions .btn,
+  .lost__actions .btn {
+    flex: 1 1 100%;
+  }
+}
+
+.lost {
+  padding-top: 40px;
+}
+
+.lost__actions {
+  margin-top: 24px;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    transition: none !important;
+    animation: none !important;
+    scroll-behavior: auto !important;
+  }
+
+  .btn:hover,
+  .btn:active,
+  .code:active {
+    transform: none;
+  }
+}
+
+@media print {
+  .tools,
+  .rail,
+  .deal__anchor,
+  .code__icon,
+  .masthead .btn {
+    display: none !important;
+  }
+}
