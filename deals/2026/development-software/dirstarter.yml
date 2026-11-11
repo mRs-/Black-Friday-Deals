@@ -1,0 +1,10 @@
+name: "Dirstarter"
+url: "https://dirstarter.com/?discountCode=BF2026"
+description: "Next.js directory template with built-in payments, SEO and an MCP server for AI agents. Pay once, launch unlimited directories."
+discount: "50% off lifetime license ($150 → $75 Basic, $200 → $100 Pro)"
+percent: 50
+code: "BF2026"
+terms: "one-time purchase"
+starts: "2026-11-10"
+ends: "2026-12-01"
+added: "2026-11-10T10:39:33Z"

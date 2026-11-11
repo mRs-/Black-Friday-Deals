@@ -1,0 +1,88 @@
+- slug: development-software
+  title: Development Software
+  emoji: 🛠
+  anchor: development-software
+- slug: ai-tools
+  title: AI Tools
+  emoji: 🤖
+  anchor: ai-tools
+- slug: marketing-software
+  title: Marketing Software
+  emoji: 🌈
+  anchor: marketing-software
+- slug: security-software
+  title: Security Software
+  emoji: 🎩
+  anchor: security-software
+- slug: utility-software
+  title: Utility Software
+  emoji: 🎛
+  anchor: utility-software
+- slug: productivity-software
+  title: Productivity Software
+  emoji: 📌
+  anchor: productivity-software
+- slug: video-software
+  title: Video Software
+  emoji: 🎥
+  anchor: video-software
+- slug: graphic-software
+  title: Graphic Software
+  emoji: 🎨
+  anchor: graphic-software
+- slug: lifestyle
+  title: Lifestyle
+  emoji: 🏝️
+  anchor: lifestyle
+- slug: social
+  title: Social
+  emoji: 🗣️
+  anchor: social
+- slug: reference-education
+  title: Reference & Education
+  emoji: 🎓
+  anchor: reference--education
+- slug: books
+  title: Books
+  emoji: 📖
+  anchor: books
+- slug: courses-and-videos
+  title: Courses and Videos
+  emoji: 👩‍🎓
+  anchor: courses-and-videos
+- slug: business-software
+  title: Business Software
+  emoji: 📈
+  anchor: business-software
+- slug: health-fitness-software
+  title: Health & Fitness Software
+  emoji: 🏃🏻‍♀️
+  anchor: health--fitness-software
+- slug: bundles
+  title: Bundles
+  emoji: 🎁
+  anchor: bundles
+- slug: creative-content
+  title: Creative Content
+  emoji: 🎶
+  anchor: creative-content
+- slug: finance
+  title: Finance
+  emoji: 🤑
+  anchor: finance
+- slug: navigation
+  title: Navigation
+  emoji: 🗺️
+  anchor: navigation
+- slug: seo
+  title: SEO
+  emoji: 🔎
+  anchor: seo
+- slug: home-automation
+  title: Home Automation
+  emoji: 🏡
+  anchor: home-automation
+- slug: games
+  title: Games
+  emoji: 🕹
+  anchor: games
