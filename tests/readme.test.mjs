@@ -372,16 +372,17 @@ test("check-pr.mjs passes when the base has no generated part, and notes a new d
   assert.match(result.stdout, /^::warning file=deals\/2026\/books\/first\.yml,title=Deal order::/m);
 });
 
-test("the repository README has the markers, and its index and anchors match the categories that have deals", () => {
+// README.md is regenerated only after a merge, so in a pull request that adds a deal it
+// is behind deals/ on purpose. This test therefore checks its structure, never its counts.
+test("the repository README has the markers, and its index matches its own sections", () => {
   const parts = splitReadme(readFileSync(join(REPO_ROOT, "README.md"), "utf8"));
   assert.ok(parts, "README.md must contain the DEALS:START and DEALS:END lines");
-  const year = String(new Date().getFullYear());
-  const filled = loadCatalog(REPO_ROOT, readFileSync(join(REPO_ROOT, "README.md"), "utf8").match(/deals\/(\d{4})\//)?.[1] ?? year, { gitTimes: false })
-    .filter((category) => category.deals.length);
+  const known = loadCategories(REPO_ROOT).map((category) => category.anchor);
   const anchors = [...parts.generated.matchAll(/^<a id="([^"]+)"><\/a>$/gm)].map((match) => match[1]);
-  const links = [...parts.generated.matchAll(/\]\(#([a-z0-9-]+)\)&nbsp;`(\d+)`/g)].map((match) => [match[1], Number(match[2])]);
-  assert.deepEqual(anchors, filled.map((category) => category.anchor));
-  assert.deepEqual(links, filled.map((category) => [category.anchor, category.deals.length]));
+  const links = [...parts.generated.matchAll(/\]\(#([a-z0-9-]+)\)&nbsp;`\d+`/g)].map((match) => match[1]);
+  assert.ok(anchors.length > 0);
+  assert.deepEqual(links, anchors);
+  assert.deepEqual(anchors, known.filter((anchor) => anchors.includes(anchor)), "sections follow the order of deals/categories.yml");
   assert.equal(new Set(anchors).size, anchors.length);
   assert.match(parts.before, /https:\/\/blackfriday\.mariuslandwehr\.com\/submit\//);
   assert.match(parts.generated, /💸 marks 50% off or more, 💰 less than 50%/);
