@@ -220,6 +220,7 @@ Keep each deal on one line with one space around each pipe. Do not align column 
 | 💰 | [Email Me](https://emailmeapp.net/) | Send voice and text notes, to-dos and reminders straight to your own inbox in one tap, on iPhone, iPad, Mac, Apple Watch and Vision Pro. | 23% off yearly ($12.99 → $9.99) | Automatically applied, no code needed; yearly plan; 2026-11-27 to 2026-12-01 |
 | 💰 | [Mailflare](https://mailflare.co/#pricing) | Self-hosted Google Workspace alternative: custom-domain email, calendar, booking, drive and AI agents, with a native Mac app. | 40% off Pro and Team lifetime licenses | **MRSBF2026**; Pro $29 to $17.40, Team $249 to $149.40; one-time purchase; 2026-11-20 to 2026-12-02 |
 | 💸 | [ScreenVerb](https://screenverb.com) | AI screenshot app for Mac, iPhone, and iPad: capture, run an AI action, and insert the result where you were typing. | 50% off Pro ($39 → $19.50) and Universal Lifetime | **SVBF2026**; one-time purchase; 2026-11-02 to 2026-12-05 |
+| 💸 | [Book Reading Habit](https://apps.apple.com/app/id6742913266?ct=bf2026-mrs) | Reading tracker for iPhone, iPad and Mac. Time your reading sessions, keep a streak going and save notes on whatever you're reading, paper, ebook or audiobook. | 55% off Lifetime Pro ($44.99 → $19.99) | No code needed, the lower price is already in the app; one-time purchase, no subscription; US price, other countries get 50 to 60% off; 2026-11-10 to 2026-11-30 |
 
 [⬆️ Back to contents](#table-of-contents)
 
