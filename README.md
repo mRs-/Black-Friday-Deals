@@ -94,6 +94,7 @@ Keep each deal on one line with one space around each pipe. Do not align column 
 | 💰 | [ZipWP](https://zipwp.com/black-friday/) | AI WordPress website builder from the team behind Astra, with hosting, domain, and email. | Up to 47% off all plans, from $79 | Automatically applied at checkout; 2026-11-05 to 2026-12-07 |
 | 💰 | [Outmano](https://outmano.com/?utm_source=mrsbf) | AI competitive intelligence for SaaS teams, with change alerts and MCP access. | 30% off any monthly plan for 12 months | **BF2026**; new customers only; 2026-11-03 to 2026-12-02 |
 | 💸 | [LandinTools](https://tools.landin.page/advertise?ref=Black-Friday-Deals) | Directory of 1,000+ AI and SaaS tools. Get your tool featured for a full year. | 50% off Featured listing: $49 → $24.50 | **BF2026**; one year of Featured placement; Black Friday offer |
+| 💰 | [LeadMerlin](https://leadmerlin.com/black-friday/?utm_source=mrsbf) | Local business leads (owner names, checked emails, phone line types, site tech) via API, agent skill or dashboard. | 40% off | **BF2026**; first payment, so the whole first year on yearly plans (Starter $348 → $208.80/yr, Pro $468 → $280.80/yr, Agency $948 → $568.80/yr); monthly plans get 40% off the first month; until 2026-12-02 |
 
 [⬆️ Back to contents](#table-of-contents)
 
