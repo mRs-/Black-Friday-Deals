@@ -70,6 +70,17 @@ Keep each deal on one line with one space around each pipe. Do not align column 
 | 💸 | [Dirstarter](https://dirstarter.com/?discountCode=BF2026) | Next.js directory template with built-in payments, SEO and an MCP server for AI agents. Pay once, launch unlimited directories. | 50% off lifetime license ($150 → $75 Basic, $200 → $100 Pro) | **BF2026**; one-time purchase; 2026-11-10 to 2026-12-01 |
 | 💰 | [POSH](https://poshtui.com/black-friday?utm_source=mrs-bf&utm_campaign=bf2026) | Version-matched Ruby and Rails docs for coding agents via CLI and MCP. Free terminal browser. macOS & Linux. | 30% off monthly and yearly plans | **BLACKFRIDAY2026**; €7 → €4.90/month, €60 → €42/year; kept while you stay subscribed; new subscriptions only; until 2026-12-02 |
 | 💰 | [Runheed](https://runheed.com/black-friday?ref=mrs-bf-deals) | Error tracking your coding agent can read: Claude Code, Cursor or any MCP client reads the stack trace from your Node.js or Python app, fixes the code and resolves the error. | 40% off the first year | **RUNHEEDBF26**; annual plans only (Solo $290 → $174, Pro $790 → $474, Scale $1,990 → $1,194), new customers; until 2026-12-03 |
+| 💰 | [FormBold](https://formbold.com/pricing) | Form backend and API; get submissions via email, Slack, Notion, and more. | 30% off all yearly plans | **BLFCM2026**; yearly plans; 2026-11-17 to 2026-12-01 23:59 UTC |
+| 💰 | [TailGrids](https://tailgrids.com/pricing) | 600+ Tailwind CSS UI components, blocks, and templates for HTML, React, Vue, and Figma. | 30% off All Access plans | **BLFCM2026**; All Access plans; 2026-11-17 to 2026-12-01 23:59 UTC |
+| 💰 | [TailAdmin](https://tailadmin.com/pricing) | Tailwind CSS admin dashboard template with 500+ components for HTML, React, Next.js, Angular, and Vue. | 30% off Business plans | **BLFCM2026**; Business plans; 2026-11-17 to 2026-12-01 23:59 UTC |
+| 💸 | [TailTemplates](https://tailtemplates.com/all-access) | Premium Tailwind CSS templates for startups, SaaS, and landing pages. | 80% off all yearly plans | **BLFCM2026**; yearly plans; 2026-11-17 to 2026-12-01 23:59 UTC |
+| 💸 | [UIdeck](https://uideck.com/all-access) | 100+ Tailwind CSS and Bootstrap templates and landing pages. | 60% off all plans | **BLFCM2026**; 2026-11-17 to 2026-12-01 23:59 UTC |
+| 💰 | [NextJS Templates](https://nextjstemplates.com/all-access) | 20+ Next.js templates, starter kits, and boilerplates. | 40% off Business plans | **BLFCM2026**; Business plans; 2026-11-17 to 2026-12-01 23:59 UTC |
+| 💰 | [SaaSBold](https://saasbold.com/pricing) | Full-stack Next.js SaaS boilerplate. | 40% off all plans | **BLFCM2026**; 2026-11-17 to 2026-12-01 23:59 UTC |
+| 💰 | [Static.run](https://static.run/pricing) | Static site hosting with analytics and one-click deploy. | 30% off all yearly plans | **BLFCM2026**; yearly plans; 2026-11-17 to 2026-12-01 23:59 UTC |
+| 💰 | [CozyCommerce](https://cozycommerce.dev/pricing) | Next.js and Tailwind eCommerce kit with 100+ components and 20+ pages. | 30% off all plans | **BLFCM2026**; 2026-11-17 to 2026-12-01 23:59 UTC |
+| 💰 | [NextAdmin](https://nextadmin.co/pricing) | 200+ Next.js dashboard templates and UI components. | 30% off Business plans | **BLFCM2026**; Business plans; 2026-11-17 to 2026-12-01 23:59 UTC |
+| 💰 | [NextMerce](https://nextmerce.com/pricing) | Next.js eCommerce boilerplate. | 30% off all plans | **BLFCM2026**; 2026-11-17 to 2026-12-01 23:59 UTC |
 
 [⬆️ Back to contents](#table-of-contents)
 
@@ -90,6 +101,9 @@ Keep each deal on one line with one space around each pipe. Do not align column 
 | 💰 | [BoltAI](https://boltai.com/pricing?utm_source=mrsdeals&utm_medium=partner&utm_campaign=bf2026) | Native AI workspace for Mac: ChatGPT, Claude, Gemini and local AI models in one app, now with agents that browse in Chrome and use the apps you allow. | 40% off Pro, Pro+ and Lifetime | **BFCM2026**; Lifetime ~~$399~~ $239.40, Pro ~~$99~~ $58.80, Pro+ ~~$199~~ $118.80; one-time purchase; until 2026-12-01 |
 | 💰 | [PDF Pals](https://pdfpals.com/buy?utm_source=mrsdeals&utm_medium=partner&utm_campaign=bf2026) | Chat with your PDF, Word, Excel, PowerPoint, EPUB and Markdown files on Mac, with cited answers and built-in local AI models. | Lifetime ~~$249~~ $149; 20% off Basic and Plus | Lifetime: automatically applied; **BF20** for Basic (~~$59~~ $47.20) and Plus (~~$99~~ $79.20); one-time purchase; until 2026-12-01 |
 | 💰 | [SmartyTab](https://smartytab.app/) | Private AI autocomplete, writing check and rephrase for every app on your Mac; runs on device. | 30% off yearly and lifetime | **BF2026**; Lifetime ~~$99~~ $69.30, yearly ~~$49~~ $34.30 for the first year; until 2026-12-01 |
+| 💰 | [Nivon](https://nivon.ai/pricing) | No-code AI customer support chatbot trained on your website and docs, with 95+ languages and human handoff. | 40% off all paid plans | **BLFCM2026**; all paid plans; 2026-11-17 to 2026-12-01 23:59 UTC |
+| 💰 | [Aymo AI](https://aymo.ai/pricing) | All-in-one multi-AI chat platform for developers and teams. | 30% off Premium yearly | **BLFCM2026**; Premium yearly plan; 2026-11-17 to 2026-12-01 23:59 UTC |
+| 💰 | [Meku](https://meku.dev/pricing) | AI builder for websites and web apps. | 30% off all yearly plans | **BLFCM2026**; yearly plans; 2026-11-17 to 2026-12-01 23:59 UTC |
 
 [⬆️ Back to contents](#table-of-contents)
 
@@ -233,6 +247,7 @@ Keep each deal on one line with one space around each pipe. Do not align column 
 | 💰 | [Weather Icons](https://mgcweather.framer.website/?utm_source=mrsbf) | 120 graceful weather icons | **30% OFF** ($25 → $17.5) | code **BF2026** ; Nov 15, 2026 - Dec 5, 2026 |
 | 💰 | [PAPLO](https://getpaplo.com/news/black-friday-2026?utm_source=press-mrs-bf&utm_medium=listing&utm_campaign=press-mrs-bf) | Turn photos of your pets, friends and food into chat stickers on iPhone. | 43% off ($6.99 → $3.99) | No code needed; one-time in-app purchase (PAPLO Plus); 2026-11-27 to 2026-11-30 |
 | 💸 | [Sip](https://sipapp.io/pricing/?ref=mrs-bf) | Modern color picker for Mac that brings ease to color organization and team collaboration. | 50% off | **BLACKFRIDAY26**; 2026-11-27 to 2026-12-01 |
+| 💰 | [Lineicons](https://lineicons.com/pricing) | 30,000+ icons in 10 styles, including SVG, JSX, TSX, and PNG. | 40% off Business plans | **BLFCM2026**; Business plans; 2026-11-17 to 2026-12-01 23:59 UTC |
 
 [⬆️ Back to contents](#table-of-contents)
 
