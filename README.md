@@ -21,7 +21,7 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 
 **193 deals** in 19 categories. 💸 marks 50% off or more, 💰 less than 50%.
 
-🛠&nbsp;[Development Software](#development-software)&nbsp;`32` · 🤖&nbsp;[AI Tools](#ai-tools)&nbsp;`16` · 🌈&nbsp;[Marketing Software](#marketing-software)&nbsp;`8` · 🎩&nbsp;[Security Software](#security-software)&nbsp;`5` · 🎛&nbsp;[Utility Software](#utility-software)&nbsp;`47` · 📌&nbsp;[Productivity Software](#productivity-software)&nbsp;`29` · 🎥&nbsp;[Video Software](#video-software)&nbsp;`10` · 🎨&nbsp;[Graphic Software](#graphic-software)&nbsp;`9` · 🏝️&nbsp;[Lifestyle](#lifestyle)&nbsp;`7` · 🗣️&nbsp;[Social](#social)&nbsp;`1` · 🎓&nbsp;[Reference & Education](#reference--education)&nbsp;`4` · 👩‍🎓&nbsp;[Courses and Videos](#courses-and-videos)&nbsp;`5` · 📈&nbsp;[Business Software](#business-software)&nbsp;`4` · 🏃🏻‍♀️&nbsp;[Health & Fitness Software](#health--fitness-software)&nbsp;`3` · 🎁&nbsp;[Bundles](#bundles)&nbsp;`2` · 🤑&nbsp;[Finance](#finance)&nbsp;`2` · 🗺️&nbsp;[Navigation](#navigation)&nbsp;`1` · 🔎&nbsp;[SEO](#seo)&nbsp;`7` · 🕹&nbsp;[Games](#games)&nbsp;`1`
+🛠&nbsp;[Development Software](#development-software)&nbsp;`32` · 🤖&nbsp;[AI Tools](#ai-tools)&nbsp;`16` · 🌈&nbsp;[Marketing Software](#marketing-software)&nbsp;`8` · 🎩&nbsp;[Security Software](#security-software)&nbsp;`5` · 🎛&nbsp;[Utility Software](#utility-software)&nbsp;`46` · 📌&nbsp;[Productivity Software](#productivity-software)&nbsp;`30` · 🎥&nbsp;[Video Software](#video-software)&nbsp;`10` · 🎨&nbsp;[Graphic Software](#graphic-software)&nbsp;`9` · 🏝️&nbsp;[Lifestyle](#lifestyle)&nbsp;`7` · 🗣️&nbsp;[Social](#social)&nbsp;`1` · 🎓&nbsp;[Reference & Education](#reference--education)&nbsp;`4` · 👩‍🎓&nbsp;[Courses and Videos](#courses-and-videos)&nbsp;`5` · 📈&nbsp;[Business Software](#business-software)&nbsp;`4` · 🏃🏻‍♀️&nbsp;[Health & Fitness Software](#health--fitness-software)&nbsp;`3` · 🎁&nbsp;[Bundles](#bundles)&nbsp;`2` · 🤑&nbsp;[Finance](#finance)&nbsp;`2` · 🗺️&nbsp;[Navigation](#navigation)&nbsp;`1` · 🔎&nbsp;[SEO](#seo)&nbsp;`7` · 🕹&nbsp;[Games](#games)&nbsp;`1`
 
 <a id="development-software"></a>
 
@@ -128,7 +128,6 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 | :-: | --- | --- |
 | 💰 | **[Aurio](https://aurio.dev/)**<br>Remove background noise from your microphone in real time on Mac, on-device with no account. | <b>25% off ($40 → $30)</b><br>`BLACKFRIDAY26` · keep the app with one year of updates · Nov&nbsp;24&nbsp;–&nbsp;Dec&nbsp;1 |
 | 💸 | **[Picmal](https://picmal.app)**<br>Convert, compress, and edit images, video, audio, and PDFs locally on Mac. | <b>50% off ($29 → $14.50)</b><br>`BLACKFRIDAY` · one-time purchase; 2026-11-23 to 2026-11-30 (Pacific time) |
-| 💰 | **[SpaceBroom](https://spacebroom.app/en/)**<br>Mac cleaner for junk, large files, duplicates, app removal, and malware checks. | <b>30% off: yearly €35 → €24.50; lifetime €99 → €69.30</b><br>`BLACKFRIDAY26` · yearly discount applies to the first year; Until 2026-12-01 |
 | 💰 | **[NeoTiler](https://getneotiler.com/?utm_source=mRs-Black-Friday-Deals)**<br>Native macOS window manager with shortcuts, snapping, workspaces, and Dock previews. | <b>30% off Lifetime ($9.99 → $6.99)</b><br>`BF30` · automatically applied at checkout; Until 2026-12-01 |
 | 💸 | **[Vigil](https://appsbymo.app/vigil/?ref=bf-deals)**<br>Keeps your MacBook awake with the lid closed while Claude Code, Codex, a build or an export runs, then sleeps the moment it's done. | <b>50% off</b><br>with code **BLACKFRIDAY** at appsbymo.app (regular $9.99). Nov 9 - Dec 1, 2026 |
 | 💸 | **[Chute](https://appsbymo.app/chute/?ref=bf-deals)**<br>A drop tray for Mac: shake a file while you drag it, then one key zips, resizes, converts, renames, AirDrops or sends it to your other Mac. | <b>50% off</b><br>with code **BLACKFRIDAY** at appsbymo.app (regular $14.99). Nov 9 - Dec 1, 2026 |
@@ -211,6 +210,7 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 | 💸 | **[Book Reading Habit](https://apps.apple.com/app/id6742913266?ct=bf2026-mrs)**<br>Reading tracker for iPhone, iPad and Mac. Time your reading sessions, keep a streak going and save notes on whatever you're reading, paper, ebook or audiobook. | <b>55% off Lifetime Pro ($44.99 → $19.99)</b><br>No code needed, the lower price is already in the app; one-time purchase, no subscription; US price, other countries get 50 to 60% off · Nov&nbsp;10&nbsp;–&nbsp;Nov&nbsp;30 |
 | 💰 | **[MuteDeck](https://mutedeck.com)**<br>One-press mute, camera, screen share and recording controls across Zoom, Teams, Google Meet and more, with Stream Deck support. | <b>35% off lifetime licenses</b><br>`BFCM2026` · one-time purchase · Nov&nbsp;26&nbsp;–&nbsp;Dec&nbsp;12 |
 | 💸 | **[Koofr](https://koofr.eu/black-friday/)**<br>European cloud storage service for backing up, syncing and sharing files, with a focus on privacy. | <b>55% off yearly plans from 250 GB to 5 TB</b><br>`BF2026` · Yearly plans only, prices excl. VAT; also valid for gift cards. Free accounts upgrade with the code; current or former paid users buy a gift card with it · Nov&nbsp;16&nbsp;–&nbsp;Nov&nbsp;30 |
+|  | **[Crest](https://crestnotch.app/?ref=bf-mrs)**<br>A notch app for Mac with music, a file shelf, Drop, and Claude Code and Codex prompts with your usage limits. macOS 14 or later. | <b>Crest Pro $9.99 once, no code needed</b><br>Applied automatically at checkout from Nov 24 00:00 UTC to Dec 1 23:59 UTC, then $14.99 from Dec 2. · Nov&nbsp;24&nbsp;–&nbsp;Dec&nbsp;1 |
 
 <p align="right"><a href="#categories">↑ Categories</a></p>
 
@@ -389,7 +389,7 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 
 No deals yet in Books, Creative Content and Home Automation. [Add the first one](https://blackfriday.mariuslandwehr.com/submit/).
 
-<!-- DEALS:END checksum:f04a1994c86b -->
+<!-- DEALS:END checksum:c2d0e1ebe096 -->
 
 ## Add your deal
 
