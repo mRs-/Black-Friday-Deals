@@ -38,9 +38,9 @@ ends: "2026-11-30"
 
 That file becomes this row:
 
-| Savings | Name | Description | Discount | Code & Terms |
-| --- | --- | --- | --- | --- |
-| 💸 | [Example App](https://example.com/black-friday) | Short description of what the app does. | 50% off the first year | **EXAMPLE2026**; annual plan only; new customers; 2026-11-27 to 2026-11-30 |
+|  | Name | Offer |
+| :-: | --- | --- |
+| 💸 | **[Example App](https://example.com/black-friday)**<br>Short description of what the app does. | <b>50% off the first year</b><br>`EXAMPLE2026` · annual plan only; new customers · Nov&nbsp;27&nbsp;–&nbsp;Nov&nbsp;30 |
 
 ## Fields
 

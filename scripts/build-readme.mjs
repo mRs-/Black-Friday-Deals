@@ -1,4 +1,4 @@
-// Rebuilds the generated part of README.md (table of contents and deal tables) from deals/.
+// Rebuilds the generated part of README.md (category index and deal tables) from deals/.
 // Usage: node scripts/build-readme.mjs [--check] [--force] [--year 2026] [--root <folder>]
 //   --check   change nothing; exit 1 when README.md is not up to date
 //   --force   rebuild even when the tables were edited by hand and the edits would be lost
@@ -38,8 +38,8 @@ const summary = `${count} deals in ${catalog.length} categories`;
 
 // Tables edited by hand since the last build: stop before anything is lost.
 if (parts.edited && !force) {
-  const edits = findHandEdits(current, catalog);
-  const lost = edits.orphans.length + edits.changed.length + edits.unreadable.length;
+  const edits = findHandEdits(current, catalog, year);
+  const lost = edits.orphans.length + edits.changed.length + edits.unreadable.length + edits.foreign.length;
   if (lost) {
     const lines = ["README.md: the deal tables were edited by hand since they were last generated", "(was a pull request merged that adds or changes a table row?). Rebuilding now would lose this:"];
     if (edits.orphans.length) {
@@ -53,11 +53,15 @@ if (parts.edited && !force) {
     if (edits.unreadable.length) {
       lines.push("", `Table rows that cannot be read (${edits.unreadable.length}):`, ...edits.unreadable.map((problem) => `  ${problem}`));
     }
+    if (edits.foreign.length) {
+      lines.push("", `Lines that were not generated from a deal file (${edits.foreign.length}):`);
+      for (const row of edits.foreign) lines.push(`  line ${row.line}: ${row.readme}`);
+    }
     lines.push(
       "",
       "README.md was not changed. To fix this on your computer, on an up-to-date master:",
       "  1. node scripts/import-readme.mjs --from README.md --write   (turns rows without a file into deal files)",
-      "  2. For rows that differ, put the right version into the deal file.",
+      "  2. For rows that differ and for lines that were not generated, put the right version into the deal file.",
       "  3. npm run validate, then commit deals/ and push. The next build accepts README.md again.",
       "To drop the rows listed above instead: npm run build:readme -- --force, then commit README.md and push.",
     );
@@ -70,7 +74,7 @@ if (parts.edited && !force) {
   console.log("Note: the tables in README.md were edited by hand, but every row matches a deal file, so nothing is lost by rebuilding.");
 }
 
-const next = buildReadme(current, catalog);
+const next = buildReadme(current, catalog, year);
 
 if (next === current) {
   console.log(`README.md is up to date (${summary}).`);

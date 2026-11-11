@@ -4,7 +4,8 @@ import { existsSync, readFileSync, readdirSync } from "node:fs";
 import { join } from "node:path";
 import test from "node:test";
 import { parse } from "yaml";
-import { latestYear, loadCategories, readmeRow } from "../scripts/lib/catalog.mjs";
+import { latestYear, loadCategories } from "../scripts/lib/catalog.mjs";
+import { displayRow } from "../scripts/lib/readme.mjs";
 import { MAX_LENGTH, validateDeal } from "../scripts/lib/validate.mjs";
 import { REPO_ROOT } from "./helpers.mjs";
 
@@ -17,7 +18,7 @@ test("the example file in CONTRIBUTING.md is valid apart from its placeholder ad
   const { deal, errors } = validateDeal(example, { file: "example.yml", year: String(year) });
   assert.deepEqual(errors.map((error) => [error.field, error.problem]), [["url", "is still the example address"]]);
   assert.deepEqual(Object.keys(deal), ["name", "url", "description", "discount", "percent", "code", "terms", "starts", "ends"]);
-  assert.ok(contributing.includes(readmeRow(deal)), "the row shown below the example must be the row the example produces");
+  assert.ok(contributing.includes(displayRow(deal, year)), "the row shown below the example must be the row the example produces");
 });
 
 test("CONTRIBUTING.md lists every category folder and the real length limits", () => {

@@ -51,10 +51,11 @@ export function parseRow(cells) {
 
 // All deal rows of a README, per category. A category is a "## " heading that follows an
 // <a id="..."></a> line; other tables (the legend) are ignored.
-// Returns { categories: [{ slug, anchor, emoji, title, rows: [{ line, raw, emoji, deal }] }], problems }.
+// Returns { categories: [{ slug, anchor, emoji, title, rows: [{ line, raw, emoji, deal }] }], problems, problemLines }.
 export function parseReadme(text) {
   const categories = [];
   const problems = [];
+  const problemLines = [];
   let anchor = null, current = null, inTable = false;
 
   text.split(/\r?\n/).forEach((raw, index) => {
@@ -75,14 +76,17 @@ export function parseReadme(text) {
     if (!current || !line.startsWith("|")) { inTable = false; return; }
     const cells = line.split("|").slice(1, -1).map((cell) => cell.trim());
     if (cells[0] === "Savings") { inTable = true; return; }
-    if (!inTable || cells.every((cell) => /^:?-{3,}:?$/.test(cell))) return;
+    // Outside an old-format table (the generated tables have three columns), a row still
+    // counts when it has the old shape: five cells that start with a savings mark.
+    const oldShape = cells.length === 5 && ["💰", "💸", "—"].includes(cells[0]);
+    if ((!inTable && !oldShape) || cells.every((cell) => /^:?-{3,}:?$/.test(cell))) return;
 
     const parsed = parseRow(cells);
-    if (parsed.problem) { problems.push(`line ${index + 1}: ${parsed.problem}`); return; }
+    if (parsed.problem) { problems.push(`line ${index + 1}: ${parsed.problem}`); problemLines.push(index + 1); return; }
     current.rows.push({ line: index + 1, raw: line, emoji: parsed.emoji, deal: parsed.deal });
   });
 
-  return { categories, problems };
+  return { categories, problems, problemLines };
 }
 
 // How well a parsed row turns back into the README row it came from.

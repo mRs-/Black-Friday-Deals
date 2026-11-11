@@ -33,7 +33,15 @@ if (args.includes("--from") && !from) {
 }
 
 const source = from ? resolve(from) : join(root, "README.md");
-const parsed = parseReadme(readFileSync(source, "utf8"));
+const sourceText = readFileSync(source, "utf8");
+// A README that already has the DEALS markers is generated from deals/: its own rows are
+// not read back, only rows in the old five-column format that were added to it by hand.
+const generated = /<!-- DEALS:START\b/.test(sourceText);
+if (!from && generated) {
+  console.error("README.md is generated from deals/ now, so there is nothing left to migrate.\nTo convert rows from another README (a pull request that still edits the tables), use: --from <path>");
+  process.exit(1);
+}
+const parsed = parseReadme(sourceText);
 const rows = parsed.categories.flatMap((category) => category.rows);
 
 // Round trip: does every row come back byte for byte when it is rebuilt from its fields?
@@ -68,7 +76,7 @@ function importNewDeals() {
 
   console.log(`\ncompared with deals/${year} (${inCatalog} deals): ${plan.unchanged} already there, ${plan.fresh.length} new, ${plan.changed.length} different`);
   if (plan.problems.length) console.log("PROBLEMS:\n" + plan.problems.join("\n"));
-  if (notInReadme.length) {
+  if (notInReadme.length && !generated) {
     // Normal for a pull request branch that is behind master. When the README is the newer
     // side (the cutover from the old README), these are deals that were removed from it.
     const list = notInReadme.length <= 10 || args.includes("--missing");
