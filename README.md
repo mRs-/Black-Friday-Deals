@@ -115,6 +115,14 @@ Please follow the rules below:
 |🤑|[Comic Weather](https://apps.apple.com/app/apple-store/id6816097524?pt=129027920&ct=bf26-dqhieu&mt=8)| Weather app for iPhone that turns your forecast into a comic book page. | **67% OFF** the paid app ($2.99 → $0.99), one-time purchase, no code needed (Nov 27 – Nov 30)|
 |🤑|[ClipUGC](https://clipugc.com/black-friday)| UGC style vertical videos for apps with AI influencers, ready to post on TikTok, Reels and Shorts. Web, iPhone and Android. | **50% OFF** the first 2 months with code **BLACKFRIDAY**, applied automatically from the link: Professional $14.99 → $7.50/mo, Business $49.99 → $25.00/mo, web subscriptions (until Dec 6, 2026)|
 |💸|[POSH](https://poshtui.com/black-friday?utm_source=dqhieu-bf&utm_campaign=bf2026)| Version-matched Ruby and Rails docs for your coding agent via CLI and MCP, with a free terminal browser, on macOS and Linux | **30% OFF** for as long as you stay subscribed with code **BLACKFRIDAY2026**: ~~€7~~ €4.90/month, ~~€60~~ €42/year, new subscriptions only (until Dec 2, 2026)|
+|🤑|[LogicBalls](https://logicballs.com/blog/black-friday-deals)| AI workspace for writing, SEO and content (web) | **50% OFF** with code **BF2026**, Pro $9.99/month → $5.00/month (through Dec 15)|
+|💸|[Kveeky](https://kveeky.com/blog/best-black-friday-ai-voiceover-deals)| AI voiceover for video and audio (web) | **35% OFF** with code **BF2026**, Basic $9.00/month → $5.85/month (through Dec 15)|
+|💸|[Social9](https://social9.com/)| Social media scheduling (web) | **30% OFF** with code **BF2026**, Individual $12/month → $8.40/month (through Dec 15)|
+|💸|[GrackerAI](https://gracker.ai/blog/black-friday-deals)| AI search visibility (AEO and GEO) for cybersecurity and B2B SaaS (web) | **20% OFF** with code **BF2026**, Individual $99/month → $79.20/month (through Dec 15)|
+|💸|[SSOJet](https://ssojet.com/blog/black-friday-deals)| Single sign-on for B2B apps (web) | **20% OFF** with code **BF2026**, Business $79/connection/month → $63.20 (through Dec 15)|
+|💸|[MojoAuth](https://mojoauth.com/)| Passwordless login for apps (web) | **20% OFF** with code **BF2026**, Business Pro (2,500 MAU) $150/month → $120/month (through Dec 15)|
+|💸|[Mailazy](https://mailazy.com/blog/black-friday-deals)| Email sending and marketing (web) | **30% OFF** with code **THANKS30**, Pro $49/month → $34.30/month (Nov 5 – Feb 5, 2027)|
+|💸|[Voksha](https://voksha.com/)| AI receptionist that answers business calls (web) | **30% OFF** with code **FESTIVE30**, Starter $14/month → $9.80/month (Nov 5 – Feb 5, 2027)|
 
 ---
 
