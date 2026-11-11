@@ -1,0 +1,10 @@
+name: "pwn.guide"
+url: "https://pwn.guide/pricing"
+description: "Hands-on ethical hacking and cybersecurity tutorials, plus CompTIA Security+ and PenTest+ certification training."
+discount: "20% off all plans, forever (Certificate lifetime $249 → $199.20)"
+percent: 20
+code: "BLKFRI20"
+terms: "applies to every renewal and to lifetime plans; card checkout"
+starts: "2026-11-01"
+ends: "2026-12-05"
+added: "2026-11-08T11:59:44Z"

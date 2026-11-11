@@ -1,14 +1,13 @@
-## Change
+<!-- Adding a deal? The form at https://blackfriday.mariuslandwehr.com/submit/ fills in the file for you. -->
 
-Describe the deal or maintenance change.
+## Deal
 
-## Offer details (deal submissions)
+- [ ] I added one file per deal in `deals/2026/<category>/` and did not edit the tables in `README.md`.
+- [ ] The offer is valid for the 2026 season.
+- [ ] The product is listed once, in its most relevant category.
 
-State the discount, code (or automatic discount), dates if known, and any restrictions. No sale-page proof is required.
+No sale-page proof is needed. If a check fails, open its **Details**: it names the file, the line and the fix.
 
-- [ ] This offer is for the 2026 season.
-- [ ] I used the five-column format, including the code or redemption method; dates are optional.
-- [ ] I added the deal once, in the most relevant category, at the bottom of its category.
-- [ ] I changed only the relevant row and did not reformat other entries.
+## Other changes
 
-For maintenance changes, replace this checklist with the checks you performed.
+For scripts, workflows or docs: say what changed and how you tested it, and delete the deal checklist.

@@ -1,0 +1,54 @@
+<!doctype html>
+<!-- Source of static/share.png, the picture link previews show.
+     To renew it (the year is part of the picture): open this file in a browser
+     window of 1200 x 630 and save a screenshot as static/share.png. -->
+<html lang="en">
+<meta charset="utf-8">
+<title>Share image</title>
+<style>
+  @font-face {
+    font-family: "Archivo";
+    font-weight: 100 900;
+    font-stretch: 62% 125%;
+    src: url(static/fonts/archivo-latin-wdth-normal.woff2) format("woff2");
+  }
+  html, body { margin: 0; }
+  body {
+    box-sizing: border-box;
+    width: 1200px;
+    height: 630px;
+    padding: 64px 72px 56px;
+    display: grid;
+    grid-template-columns: 1fr auto;
+    grid-template-rows: auto 1fr auto;
+    background: #f4f5f1;
+    color: #14171c;
+    font: 400 34px/1.3 "Archivo", sans-serif;
+  }
+  h1 {
+    margin: 0;
+    font-size: 176px;
+    font-stretch: 62%;
+    font-weight: 800;
+    line-height: 0.9;
+    letter-spacing: -0.005em;
+  }
+  p { margin: 0; }
+  .what { grid-column: 1 / -1; align-self: end; padding-bottom: 26px; color: #3b424c; }
+  svg { width: 216px; height: 216px; margin-top: 8px; }
+  .foot {
+    grid-column: 1 / -1;
+    display: flex;
+    justify-content: space-between;
+    padding-top: 22px;
+    border-top: 4px solid #14171c;
+    font-size: 30px;
+    font-weight: 650;
+  }
+  .foot span:last-child { font-weight: 400; color: #3b424c; }
+</style>
+<h1>Black Friday<br>deals 2026</h1>
+<svg viewBox="0 0 32 32" aria-hidden="true"><rect width="32" height="32" rx="4" fill="#ffd60a"/><g fill="none" stroke="#14171c" stroke-width="3.2"><circle cx="10.6" cy="11" r="4"/><circle cx="21.4" cy="21" r="4"/><path d="M21.6 6.5 10.4 25.5" stroke-linecap="round"/></g></svg>
+<p class="what">macOS and iOS apps, developer tools, books and courses</p>
+<p class="foot"><span>blackfriday.mariuslandwehr.com</span><span>A community list on GitHub</span></p>
+</html>

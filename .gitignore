@@ -1,0 +1,3 @@
+node_modules/
+_site/
+.DS_Store
