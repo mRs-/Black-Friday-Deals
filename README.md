@@ -19,9 +19,9 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 
 ## Categories
 
-**188 deals** in 19 categories. 💸 marks 50% off or more, 💰 less than 50%.
+**193 deals** in 19 categories. 💸 marks 50% off or more, 💰 less than 50%.
 
-🛠&nbsp;[Development Software](#development-software)&nbsp;`32` · 🤖&nbsp;[AI Tools](#ai-tools)&nbsp;`16` · 🌈&nbsp;[Marketing Software](#marketing-software)&nbsp;`7` · 🎩&nbsp;[Security Software](#security-software)&nbsp;`5` · 🎛&nbsp;[Utility Software](#utility-software)&nbsp;`47` · 📌&nbsp;[Productivity Software](#productivity-software)&nbsp;`28` · 🎥&nbsp;[Video Software](#video-software)&nbsp;`10` · 🎨&nbsp;[Graphic Software](#graphic-software)&nbsp;`9` · 🏝️&nbsp;[Lifestyle](#lifestyle)&nbsp;`7` · 🗣️&nbsp;[Social](#social)&nbsp;`1` · 🎓&nbsp;[Reference & Education](#reference--education)&nbsp;`4` · 👩‍🎓&nbsp;[Courses and Videos](#courses-and-videos)&nbsp;`4` · 📈&nbsp;[Business Software](#business-software)&nbsp;`3` · 🏃🏻‍♀️&nbsp;[Health & Fitness Software](#health--fitness-software)&nbsp;`3` · 🎁&nbsp;[Bundles](#bundles)&nbsp;`2` · 🤑&nbsp;[Finance](#finance)&nbsp;`2` · 🗺️&nbsp;[Navigation](#navigation)&nbsp;`1` · 🔎&nbsp;[SEO](#seo)&nbsp;`6` · 🕹&nbsp;[Games](#games)&nbsp;`1`
+🛠&nbsp;[Development Software](#development-software)&nbsp;`32` · 🤖&nbsp;[AI Tools](#ai-tools)&nbsp;`16` · 🌈&nbsp;[Marketing Software](#marketing-software)&nbsp;`8` · 🎩&nbsp;[Security Software](#security-software)&nbsp;`5` · 🎛&nbsp;[Utility Software](#utility-software)&nbsp;`47` · 📌&nbsp;[Productivity Software](#productivity-software)&nbsp;`29` · 🎥&nbsp;[Video Software](#video-software)&nbsp;`10` · 🎨&nbsp;[Graphic Software](#graphic-software)&nbsp;`9` · 🏝️&nbsp;[Lifestyle](#lifestyle)&nbsp;`7` · 🗣️&nbsp;[Social](#social)&nbsp;`1` · 🎓&nbsp;[Reference & Education](#reference--education)&nbsp;`4` · 👩‍🎓&nbsp;[Courses and Videos](#courses-and-videos)&nbsp;`5` · 📈&nbsp;[Business Software](#business-software)&nbsp;`4` · 🏃🏻‍♀️&nbsp;[Health & Fitness Software](#health--fitness-software)&nbsp;`3` · 🎁&nbsp;[Bundles](#bundles)&nbsp;`2` · 🤑&nbsp;[Finance](#finance)&nbsp;`2` · 🗺️&nbsp;[Navigation](#navigation)&nbsp;`1` · 🔎&nbsp;[SEO](#seo)&nbsp;`7` · 🕹&nbsp;[Games](#games)&nbsp;`1`
 
 <a id="development-software"></a>
 
@@ -102,6 +102,7 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 | 💰 | **[Terlido](https://terlido.com/pricing?utm_source=mrsbf&utm_medium=deal-list&utm_campaign=bfcm-2026)**<br>Cold email and newsletters from your own mailbox, with warmup, campaigns, inbox and an AI agent. | <b>40% off for 12 months: Email Pro $39 → $23.40/seat/mo, Newsletter Pro $29 → $17.40/mo</b><br>`BF2026` · Nov&nbsp;9&nbsp;–&nbsp;Dec&nbsp;1 |
 | 💰 | **[LeadMerlin](https://leadmerlin.com/black-friday/?utm_source=mrsbf)**<br>Local business leads (owner names, checked emails, phone line types, site tech) via API, agent skill or dashboard. | <b>40% off</b><br>`BF2026` · first payment, so the whole first year on yearly plans (Starter $348 → $208.80/yr, Pro $468 → $280.80/yr, Agency $948 → $568.80/yr); monthly plans get 40% off the first month; until 2026-12-02 |
 | 💰 | **[Sequenzy](https://sequenzy.com/black-friday)**<br>Email marketing for SaaS: newsletters, automated sequences and transactional email, with unlimited contacts. | <b>30% off any annual plan</b><br>`BLACKFRIDAY` · annual plans only; e.g. 15,000 emails/month $205 → $143.50/year |
+| 💸 | **[Replug](https://replug.io/black-friday)**<br>Link management service for branded short links, bio-link pages and QR codes, aimed at marketers and agencies. | <b>60% off annual plans</b><br>No code; annual Essentials, Scale and Agency plans; monthly plans and extra Agency workspaces excluded; not combined with regional pricing; ends 11:59 PM Pacific · Nov&nbsp;20&nbsp;–&nbsp;Dec&nbsp;4 |
 
 <p align="right"><a href="#categories">↑ Categories</a></p>
 
@@ -209,6 +210,7 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 | 💸 | **[ScreenVerb](https://screenverb.com)**<br>AI screenshot app for Mac, iPhone, and iPad: capture, run an AI action, and insert the result where you were typing. | <b>50% off Pro ($39 → $19.50) and Universal Lifetime</b><br>`SVBF2026` · one-time purchase · Nov&nbsp;2&nbsp;–&nbsp;Dec&nbsp;5 |
 | 💸 | **[Book Reading Habit](https://apps.apple.com/app/id6742913266?ct=bf2026-mrs)**<br>Reading tracker for iPhone, iPad and Mac. Time your reading sessions, keep a streak going and save notes on whatever you're reading, paper, ebook or audiobook. | <b>55% off Lifetime Pro ($44.99 → $19.99)</b><br>No code needed, the lower price is already in the app; one-time purchase, no subscription; US price, other countries get 50 to 60% off · Nov&nbsp;10&nbsp;–&nbsp;Nov&nbsp;30 |
 | 💰 | **[MuteDeck](https://mutedeck.com)**<br>One-press mute, camera, screen share and recording controls across Zoom, Teams, Google Meet and more, with Stream Deck support. | <b>35% off lifetime licenses</b><br>`BFCM2026` · one-time purchase · Nov&nbsp;26&nbsp;–&nbsp;Dec&nbsp;12 |
+| 💸 | **[Koofr](https://koofr.eu/black-friday/)**<br>European cloud storage service for backing up, syncing and sharing files, with a focus on privacy. | <b>55% off yearly plans from 250 GB to 5 TB</b><br>`BF2026` · Yearly plans only, prices excl. VAT; also valid for gift cards. Free accounts upgrade with the code; current or former paid users buy a gift card with it · Nov&nbsp;16&nbsp;–&nbsp;Nov&nbsp;30 |
 
 <p align="right"><a href="#categories">↑ Categories</a></p>
 
@@ -298,6 +300,7 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 | 💸 | **[Get Your First Client](https://getyourfirstclient.freelancerpath.com/?ref=Black-Friday-Deals)**<br>Step-by-step guide plus Notion templates (proposal, contract, invoice, CRM) to land your first freelance client. | <b>50% off: $49.99 → $24.99</b><br>`BLACK` · limited redemptions |
 | 💰 | **[pwn.guide](https://pwn.guide/pricing)**<br>Hands-on ethical hacking and cybersecurity tutorials, plus CompTIA Security+ and PenTest+ certification training. | <b>20% off all plans, forever (Certificate lifetime $249 → $199.20)</b><br>`BLKFRI20` · applies to every renewal and to lifetime plans; card checkout · Nov&nbsp;1&nbsp;–&nbsp;Dec&nbsp;5 |
 | 💸 | **[LabEx Pro](https://labex.io/)**<br>Learn Linux, DevOps, Cybersecurity, and Cloud with hands-on labs. | <b>50% off two years; 30% off one year</b><br>[Two years](https://labex.io/checkout?type=4&coupon=2026BF50): **2026BF50**; [One year](https://labex.io/checkout?type=2&coupon=2026BF30): **2026BF30**; ends 2026-12-07 |
+|  | **[Flavio Copes AI Workshop and Masterclasses](https://flaviocopes.com/black-friday/)**<br>Online programming courses by Flavio Copes: an AI workshop plus TypeScript, React, Git and AHA Stack masterclasses. | <b>AI Workshop $299 → $99; four masterclasses $49 together (usually $396 bought individually)</b><br>No code; join the email list and the purchase link is sent when the offers open · from&nbsp;Nov&nbsp;23 |
 
 <p align="right"><a href="#categories">↑ Categories</a></p>
 
@@ -310,6 +313,7 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 | 💸 | **[ConnectWizard](https://apple.co/3ZsiEEZ)**<br>Unlock hidden App Store Connect Analytics. | <b>Pro Annual 50% off ($100 → $50)</b><br>Automatically applied; no code needed; 2026-11-27 to 2026-12-1 |
 | 💰 | **[Umami Manager](https://apple.co/40MP50F)**<br>Monitor & Analyze & Manage your Umami Analytics on the go. | <b>Lifetime 25% off</b><br>Automatically applied; no code needed; 2026-11-27 to 2026-12-1 |
 | 💰 | **[PageDuel](https://pageduel.com/pricing?utm_source=mrsbf&utm_medium=deal-list&utm_campaign=bfcm-2026)**<br>Web analytics, A/B testing and revenue attribution in one tool. | <b>40% off for 12 months, plans from $9 → $5.40/mo</b><br>`BF2026` · Nov&nbsp;9&nbsp;–&nbsp;Dec&nbsp;1 |
+|  | **[Clappia](https://www.clappia.com/black-friday-offer)**<br>No-code platform for building business apps and automating workflows without programming. | <b>50% off yearly plans, including the standard 25% annual discount</b><br>`BLCKFRD26` · New customers only; annual plans only; valid until 11:59 PM GMT · until&nbsp;Dec&nbsp;31 |
 
 <p align="right"><a href="#categories">↑ Categories</a></p>
 
@@ -369,6 +373,7 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 | 💰 | **[Outpublished](https://outpublished.com/black-friday)**<br>Shows content and SEO teams every page their competitors have that they don't, and each new one they publish. | <b>40% off</b><br>Automatically applied; all paid plans, monthly or yearly, for as long as you stay subscribed; first 150 accounts · Nov&nbsp;20&nbsp;–&nbsp;Dec&nbsp;4 |
 |  | **[Docket](https://docketseo.app/)**<br>SEO audit app that runs on your own computer. Mac, Windows, and a Linux command line. | <b>Launch price: $29.50 once, through November 30. From December 1: $59</b><br>The Buy button applies the launch price; pay once; free version shows the score and the top problem; 30-day refund; ends end of 30 November 2026, US time |
 | 💰 | **[LinkBunny](https://getlinkbunny.com/pricing#black-friday-2026)**<br>Build and exchange contextual nofollow backlinks through your coding agent. | <b>30% off the first annual payment (USD210 → USD147)</b><br>`BLACKFRIDAY2026` · first-time paying customers; annual only; then USD210/year before applicable tax; no stacking; starts Nov 5, 2026; payment must complete before Dec 1, 2026 at 00:00 UTC |
+| 💸 | **[SEOcrawl AI](https://seocrawl.ai/blog/black-friday-2026-prompt-tracking)**<br>SEO and AI search visibility platform with prompt tracking across search engines and AI assistants such as ChatGPT and Perplexity. | <b>50% off the first year of any annual plan</b><br>`BLACKFRIDAY2026` · Starter, Growth, Pro and Agency; new users or monthly subscribers switching to annual; renews at the regular price; applied automatically from the pricing page; ends 23:59 CET · Nov&nbsp;2&nbsp;–&nbsp;Nov&nbsp;30 |
 
 <p align="right"><a href="#categories">↑ Categories</a></p>
 
@@ -384,7 +389,7 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 
 No deals yet in Books, Creative Content and Home Automation. [Add the first one](https://blackfriday.mariuslandwehr.com/submit/).
 
-<!-- DEALS:END checksum:861cd6d94404 -->
+<!-- DEALS:END checksum:f04a1994c86b -->
 
 ## Add your deal
 
