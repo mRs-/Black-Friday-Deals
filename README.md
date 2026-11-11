@@ -238,6 +238,7 @@ Keep each deal on one line with one space around each pipe. Do not align column 
 | --- | --- | --- | --- | --- |
 | 💸 | [Everlog Journal](https://apps.apple.com/app/everlog-journal/id1519935634) | Private journal for iPhone, iPad and Mac with Markdown, photos, places and iCloud sync. | 50% off Premium: Lifetime $59.99 → $29.99, first year of Yearly $29.99 → $14.99 | Automatically applied in the app for anyone not on Premium; yearly renews at $29.99; 2026-11-27 to 2026-12-01 |
 | 💸 | [Copet](https://andretan0.gumroad.com/l/btdicz/BLACKFRIDAY) | A tiny cat-bunny that hangs from your Mac's top bar and reacts to your day: happy when Claude Code finishes, panics before meetings, asks for a pet after an hour without a break. Nothing leaves your Mac. | 60% off | **BLACKFRIDAY** (the link applies it); one-time purchase, $9.67 to $3.82; macOS 14+; 2026-11-27 to 2026-11-28 PST |
+| 💸 | [Comic Weather](https://apps.apple.com/app/apple-store/id6816097524?pt=129027920&ct=bf26-mrs&mt=8) | Weather app for iPhone that turns your forecast into a comic book page. | 67% off ($2.99 → $0.99 USD) | Automatically applied on the App Store; no code needed; paid app, one-time purchase, no in-app purchases; regular price $2.99 since launch; iPhone, iOS 18+; local prices vary; 2026-11-27 to 2026-11-30 |
 
 [⬆️ Back to contents](#table-of-contents)
 
