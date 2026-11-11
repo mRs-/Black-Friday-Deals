@@ -118,7 +118,9 @@ Node.js 22 or later. `npm ci` once, then:
 | `npm run build:readme` | Rebuilds the part of `README.md` between `DEALS:START` and `DEALS:END`. `node scripts/build-readme.mjs --check` only reports whether it is stale. |
 | `npm run build:site` | Builds the website into `_site/`. |
 
-After every push to `master` the **Publish README and website** workflow validates the deals, commits `README.md` as `Regenerate README` if it changed, and deploys the site. It pushes to `master` with the workflow token, so a branch protection rule on `master` must let GitHub Actions push. The deal order needs the full git history: use a normal clone, not a shallow one.
+After every push to `master` the **Publish README and website** workflow validates the deals, commits `README.md` as `Regenerate README` if it changed, and deploys the site. It pushes to `master` with the workflow token, so `master` must not get a branch protection rule or ruleset that blocks direct pushes from GitHub Actions. The deal order needs the full git history: use a normal clone, not a shallow one.
+
+Do not merge a pull request whose **Check deals** run is red. If a pull request that edits the README tables gets merged anyway, nothing is lost: the workflow notices that the tables were changed by hand (the `DEALS:END` line carries a checksum), leaves `README.md` alone, fails, and lists the rows together with the commands that turn them into deal files. The website is still deployed.
 
 A pull request that still adds rows to the README tables can be converted:
 

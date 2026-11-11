@@ -8,8 +8,9 @@ on:
 permissions:
   contents: read
 
+# A new push to a pull request replaces the run that is still going for it.
 concurrency:
-  group: check-${{ github.event.pull_request.number || github.ref }}
+  group: check-${{ github.event.pull_request.number || github.sha }}
   cancel-in-progress: true
 
 jobs:

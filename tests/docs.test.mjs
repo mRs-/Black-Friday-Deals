@@ -36,7 +36,8 @@ test("the workflows are valid YAML and only call npm scripts that exist", () => 
   for (const name of ["test", "validate", "build:readme", "build:site", "build"]) assert.ok(scripts[name], `package.json script "${name}"`);
 
   const dir = join(REPO_ROOT, ".github", "workflows");
-  assert.deepEqual(readdirSync(dir).sort(), ["publish.yml", "test.yml"]);
+  for (const file of ["publish.yml", "test.yml"]) assert.ok(existsSync(join(dir, file)), file);
+  assert.ok(!existsSync(join(dir, "pages.yml")), "the Jekyll workflow is replaced by publish.yml");
   for (const file of readdirSync(dir)) {
     const text = readFileSync(join(dir, file), "utf8");
     const workflow = parse(text);

@@ -57,7 +57,7 @@ jobs:
               break
             fi
             if [ "$attempt" = 3 ]; then
-              echo "::error title=README.md could not be pushed::The push to master was rejected three times. If master is protected, allow GitHub Actions to push to it (see CONTRIBUTING.md, Maintainers)."
+              echo "::error title=README.md could not be pushed::The push to master was rejected three times. If master has a branch protection rule or ruleset, it must let GitHub Actions push (see CONTRIBUTING.md, Maintainers)."
               exit 1
             fi
             echo "master moved while this job was running. Starting again from the new master."
@@ -66,9 +66,13 @@ jobs:
           done
           echo "sha=$(git rev-parse HEAD)" >> "$GITHUB_OUTPUT"
 
+  # The website is built from deals/, not from README.md. It waits for the README job so that
+  # both come from the same commit, but it still runs when that job fails (for example when
+  # README.md needs a maintainer): a README problem must not hold back the website.
   site:
     name: Build website
     needs: readme
+    if: ${{ !cancelled() && github.ref == 'refs/heads/master' }}
     runs-on: ubuntu-latest
     permissions:
       contents: read
@@ -76,7 +80,7 @@ jobs:
       - name: Check out the commit the README job ended on
         uses: actions/checkout@v4
         with:
-          ref: ${{ needs.readme.outputs.sha }}
+          ref: ${{ needs.readme.outputs.sha || 'master' }}
           fetch-depth: 0
 
       - name: Set up Node.js
@@ -87,6 +91,9 @@ jobs:
 
       - name: Install dependencies
         run: npm ci
+
+      - name: Deal files are valid
+        run: npm run --silent validate
 
       - name: Build the site into _site/
         run: npm run build:site
@@ -99,6 +106,8 @@ jobs:
   deploy:
     name: Deploy to GitHub Pages
     needs: site
+    # Stated explicitly: by default this job would be skipped whenever the README job failed.
+    if: ${{ !cancelled() && needs.site.result == 'success' }}
     runs-on: ubuntu-latest
     permissions:
       pages: write

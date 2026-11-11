@@ -3,7 +3,7 @@
 // never written YAML before.
 import { readFileSync, readdirSync, existsSync } from "node:fs";
 import { join } from "node:path";
-import { LineCounter, parseDocument, isAlias, isMap, isScalar, isSeq, visit } from "yaml";
+import { LineCounter, parseDocument, isMap, isScalar, isSeq, visit } from "yaml";
 import { DEAL_FIELDS, REQUIRED_FIELDS, dealKey } from "./catalog.mjs";
 
 export const FILE_NAME = /^[a-z0-9]+(-[a-z0-9]+)*\.yml$/;
@@ -65,8 +65,16 @@ function distance(a, b) {
   return row[b.length];
 }
 
+// The candidate a misspelled or shortened word most likely stands for, or null.
 export function closest(word, candidates) {
   const needle = String(word).toLowerCase();
+  // "dev-software" -> "development-software": every part is the start of a part of one candidate
+  const parts = needle.split(/[-_ ]+/).filter((part) => part.length > 1);
+  const abbreviated = candidates.filter((candidate) => {
+    const candidateParts = candidate.toLowerCase().split("-");
+    return parts.length > 0 && parts.every((part) => candidateParts.some((candidatePart) => candidatePart.startsWith(part)));
+  });
+  if (abbreviated.length === 1) return abbreviated[0];
   let best = null;
   let bestDistance = Infinity;
   for (const candidate of candidates) {
@@ -259,7 +267,8 @@ function readYaml(text, file, knownKeys, shape) {
     if (key === null) continue;
     lines.set(key, lineAt(pair.key));
     // "value # text": everything after " #" is a comment and is not part of the value.
-    if (isScalar(pair.value) && typeof pair.value.comment === "string" && pair.value.range) {
+    // (After a quoted value a comment is harmless, so only unquoted values are checked.)
+    if (isScalar(pair.value) && pair.value.type === "PLAIN" && typeof pair.value.comment === "string" && pair.value.range) {
       const raw = text.slice(pair.value.range[0], pair.value.range[1]);
       errors.push({
         file, line: lineAt(pair.key), field: key,

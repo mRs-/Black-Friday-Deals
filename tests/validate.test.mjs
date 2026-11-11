@@ -2,7 +2,7 @@ import assert from "node:assert/strict";
 import { rmSync } from "node:fs";
 import test from "node:test";
 import {
-  FILE_NAME, MAX_LENGTH, formatErrors, githubAnnotations, suggestFileName, validateCategories, validateDeal, validateTree,
+  FILE_NAME, MAX_LENGTH, closest, formatErrors, githubAnnotations, suggestFileName, validateCategories, validateDeal, validateTree,
 } from "../scripts/lib/validate.mjs";
 import { categoriesYaml, dealYaml, makeRoot, run } from "./helpers.mjs";
 
@@ -199,6 +199,8 @@ test("values that YAML would silently cut or change are reported", () => {
   assert.equal(cut.line, 5);
   expectOne(dealYaml() + "terms: &save now\n", "terms", /starts with &/, /terms: "&save now"/);
   expectOne(dealYaml() + "terms: !important note\n", "terms", /starts with !/, /terms: "!important note"/);
+  // a comment after a quoted value loses nothing
+  assert.deepEqual(check(dealYaml() + 'terms: "annual plans" # first year only\n'), []);
   // a # without a space before it (URL fragment) and a quoted # are fine
   assert.deepEqual(check(dealYaml({ url: "https://example-app.dev/#pricing", terms: "plan #1 only" })), []);
   assert.deepEqual(check("name: Example App\nurl: https://example-app.dev/#pricing\ndescription: Good.\ndiscount: 40% off\n"), []);
@@ -223,6 +225,17 @@ test("file names: lowercase letters, numbers and single dashes, ending in .yml",
   }
   assert.equal(suggestFileName("My App_Pro 2.YAML"), "my-app-pro-2.yml");
   assert.equal(suggestFileName("Café & Bar.yml"), "cafe-and-bar.yml");
+});
+
+test("closest finds the category or field a typo or short form stands for", () => {
+  const folders = ["development-software", "ai-tools", "video-software", "utility-software", "reference-education", "courses-and-videos"];
+  assert.equal(closest("dev-software", folders), "development-software");
+  assert.equal(closest("ai-toolz", folders), "ai-tools");
+  assert.equal(closest("utility", folders), "utility-software");
+  assert.equal(closest("Education", folders), "reference-education");
+  assert.equal(closest("vidoe-software", folders), "video-software");
+  assert.equal(closest("software", folders), null);
+  assert.equal(closest("gadgets", folders), null);
 });
 
 test("validateTree accepts a valid catalog and counts it", (t) => {

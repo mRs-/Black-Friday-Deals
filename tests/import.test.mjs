@@ -234,11 +234,13 @@ test("import-readme.mjs --from is a dry run by default and --write adds only new
 test("import-readme.mjs --from shows rows that would fail validation and rows that differ", (t) => {
   const root = makeRoot(t, {
     "deals/2026/dev-tools/alpha.yml": existingAlpha.replace("First tool.", "The first tool."),
+    "deals/2026/books/omega.yml": dealYaml({ name: "Omega", url: "https://omega.example.dev", added: "2026-11-02T00:00:00Z" }),
     "pr-readme.md": README.replace("Second tool.", "x".repeat(300)),
   });
   const result = run("import-readme.mjs", ["--root", root, "--from", join(root, "pr-readme.md")]);
   assert.equal(result.status, 0, result.output);
   assert.match(result.stdout, /0 already there, 2 new, 1 different/);
+  assert.match(result.stdout, /IN deals\/2026 BUT NOT IN THIS README: 1 .*:\n {2}deals\/2026\/books\/omega\.yml/);
   assert.match(result.stdout, /DIFFERENT FROM THE DEAL FILE/);
   assert.match(result.stdout, /deals\/2026\/dev-tools\/alpha\.yml \(README line 19\)\n {4}file: {3}\| 💰 \| \[Alpha\].*The first tool\./);
   assert.match(result.stdout, /NEW FILES THAT NEED A FIX[\s\S]*deals\/2026\/dev-tools\/beta\.yml\n {2}✗ line 3, description: is 300 characters long; the limit is 250/);

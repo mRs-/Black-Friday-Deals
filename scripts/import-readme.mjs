@@ -11,12 +11,12 @@
 //   node scripts/import-readme.mjs                      report only
 //   node scripts/import-readme.mjs --write --replace    rebuild deals/<year> and categories.yml
 //
-// Options: --year 2026, --root <folder>
+// Options: --year 2026, --root <folder>, --missing (with --from: list deals that are in deals/ but not in that README)
 import { readFileSync, writeFileSync, mkdirSync, rmSync, existsSync, readdirSync } from "node:fs";
 import { execFileSync } from "node:child_process";
 import { dirname, join, resolve } from "node:path";
 import { Document } from "yaml";
-import { REPO_ROOT, latestYear, loadCatalog, savingsEmoji } from "./lib/catalog.mjs";
+import { REPO_ROOT, dealKey, latestYear, loadCatalog, savingsEmoji } from "./lib/catalog.mjs";
 import { dealYaml, parseReadme, planImport, roundTrip, slugify } from "./lib/import.mjs";
 import { formatErrors, validateDeal } from "./lib/validate.mjs";
 
@@ -63,12 +63,17 @@ function importNewDeals() {
   const catalog = loadCatalog(root, year);
   const plan = planImport(parsed, catalog, { year });
   const inCatalog = catalog.reduce((sum, category) => sum + category.deals.length, 0);
-  const notInReadme = inCatalog - plan.unchanged - plan.changed.length;
+  const inReadme = new Set(rows.map((row) => dealKey(row.deal)));
+  const notInReadme = catalog.flatMap((category) => category.deals).filter((deal) => !inReadme.has(dealKey(deal)));
 
   console.log(`\ncompared with deals/${year} (${inCatalog} deals): ${plan.unchanged} already there, ${plan.fresh.length} new, ${plan.changed.length} different`);
   if (plan.problems.length) console.log("PROBLEMS:\n" + plan.problems.join("\n"));
-  if (notInReadme > 0) {
-    console.log(`${notInReadme} deals in deals/${year} are not in this README (normal for a branch that is behind master).`);
+  if (notInReadme.length) {
+    // Normal for a pull request branch that is behind master. When the README is the newer
+    // side (the cutover from the old README), these are deals that were removed from it.
+    const list = notInReadme.length <= 10 || args.includes("--missing");
+    console.log(`IN deals/${year} BUT NOT IN THIS README: ${notInReadme.length} (expected when this README is older than master)${list ? ":" : "; add --missing to list them"}`);
+    if (list) for (const deal of notInReadme) console.log(`  ${deal.path}`);
   }
   if (plan.changed.length) {
     console.log("DIFFERENT FROM THE DEAL FILE (not written; if this README is the newer one, edit the file by hand):");
