@@ -105,6 +105,7 @@ Keep each deal on one line with one space around each pipe. Do not align column 
 | 💰 | [Nivon](https://nivon.ai/pricing) | No-code AI customer support chatbot trained on your website and docs, with 95+ languages and human handoff. | 40% off all paid plans | **BLFCM2026**; all paid plans; 2026-11-17 to 2026-12-01 23:59 UTC |
 | 💰 | [Aymo AI](https://aymo.ai/pricing) | All-in-one multi-AI chat platform for developers and teams. | 30% off Premium yearly | **BLFCM2026**; Premium yearly plan; 2026-11-17 to 2026-12-01 23:59 UTC |
 | 💰 | [Meku](https://meku.dev/pricing) | AI builder for websites and web apps. | 30% off all yearly plans | **BLFCM2026**; yearly plans; 2026-11-17 to 2026-12-01 23:59 UTC |
+| 💰 | [Vinaa](https://www.vinaa.ai/?utm_source=mrsbf) | Native Mac app for chatting with cloud and local AI models. | Up to 45% off lifetime licenses | Until 2026-11-30 |
 
 [⬆️ Back to contents](#table-of-contents)
 
