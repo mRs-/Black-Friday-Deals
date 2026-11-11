@@ -70,6 +70,7 @@ Keep each deal on one line with one space around each pipe. Do not align column 
 | 💸 | [Dirstarter](https://dirstarter.com/?discountCode=BF2026) | Next.js directory template with built-in payments, SEO and an MCP server for AI agents. Pay once, launch unlimited directories. | 50% off lifetime license ($150 → $75 Basic, $200 → $100 Pro) | **BF2026**; one-time purchase; 2026-11-10 to 2026-12-01 |
 | 💰 | [POSH](https://poshtui.com/black-friday?utm_source=mrs-bf&utm_campaign=bf2026) | Version-matched Ruby and Rails docs for coding agents via CLI and MCP. Free terminal browser. macOS & Linux. | 30% off monthly and yearly plans | **BLACKFRIDAY2026**; €7 → €4.90/month, €60 → €42/year; kept while you stay subscribed; new subscriptions only; until 2026-12-02 |
 | 💰 | [Runheed](https://runheed.com/black-friday?ref=mrs-bf-deals) | Error tracking your coding agent can read: Claude Code, Cursor or any MCP client reads the stack trace from your Node.js or Python app, fixes the code and resolves the error. | 40% off the first year | **RUNHEEDBF26**; annual plans only (Solo $290 → $174, Pro $790 → $474, Scale $1,990 → $1,194), new customers; until 2026-12-03 |
+| 💰 | [BucketMate](https://www.bucketmate.app/pricing) | S3 GUI for Mac, iPhone, iPad, and web for AWS S3, Cloudflare R2, Backblaze B2, and other S3-compatible storage. | 40% off ($39 → $23.40) | **BF2026**; lifetime license, one-time purchase; 2026-11-02 to 2026-12-01 |
 
 [⬆️ Back to contents](#table-of-contents)
 
@@ -164,6 +165,7 @@ Keep each deal on one line with one space around each pipe. Do not align column 
 | 💸 | [SnapTidy: Photo Swipe & Delete](https://snaptidyapp.github.io/snaptidy-site/blackfriday/) | Photo cleaner for iPhone and iPad: swipe a few photos at a time to keep or mark; nothing is deleted until you confirm. | 50% off ($39.99 → $19.99) | Automatically applied; Pro Lifetime one-time in-app purchase; US price, local prices vary, not in mainland China; 2026-11-27 to 2026-11-30 |
 | 💰 | [WebWatch](https://apps.apple.com/app/id1610565796?pt=119552309&ct=bf26_mrs&mt=8) | Website change monitor for iPhone and iPad: get alerts when pages change, prices drop or items are back in stock. | 40% off Pro Lifetime ($56.99 → $34.00 USD) | Automatically applied in the app; no code needed; local prices vary; 2026-11-25 to 2026-12-01 |
 | 💸 | [BookletMaker](https://bookletmaker.app/black-friday/) | Turn any PDF into a booklet that prints, folds and staples correctly, on Mac, iPad and iPhone. | 50% off lifetime | Automatically applied in the App Store; one-time purchase; 2026-11-25 to 2026-12-01 |
+| 💸 | [MouseUp](https://mouseup.app) | Make an external mouse feel right on Mac with smooth scrolling, click debounce, and wheel zoom. | 50% off ($7.99 → $4.00) | **MMFBF2026**; lifetime license, one-time purchase; 2026-11-02 to 2026-12-05 |
 
 [⬆️ Back to contents](#table-of-contents)
 
@@ -198,6 +200,7 @@ Keep each deal on one line with one space around each pipe. Do not align column 
 | 💸 | [ScreenSnap Pro](https://www.screensnap.pro/pricing) | All-in-one screenshot and screen recording app for Mac and Windows: 17 annotation tools, scrolling capture, a built-in video editor, OCR and cloud share links. | 50% off lifetime license ($39 → $19.50) | **BLACKFRIDAY** at checkout; one-time purchase, one license covers 2 computers; 2026-11-10 to 2026-11-30 |
 | 💰 | [Email Me](https://emailmeapp.net/) | Send voice and text notes, to-dos and reminders straight to your own inbox in one tap, on iPhone, iPad, Mac, Apple Watch and Vision Pro. | 23% off yearly ($12.99 → $9.99) | Automatically applied, no code needed; yearly plan; 2026-11-27 to 2026-12-01 |
 | 💰 | [Mailflare](https://mailflare.co/#pricing) | Self-hosted Google Workspace alternative: custom-domain email, calendar, booking, drive and AI agents, with a native Mac app. | 40% off Pro and Team lifetime licenses | **MRSBF2026**; Pro $29 to $17.40, Team $249 to $149.40; one-time purchase; 2026-11-20 to 2026-12-02 |
+| 💸 | [ScreenVerb](https://screenverb.com) | AI screenshot app for Mac, iPhone, and iPad: capture, run an AI action, and insert the result where you were typing. | 50% off Pro ($39 → $19.50) and Universal Lifetime | **SVBF2026**; one-time purchase; 2026-11-02 to 2026-12-05 |
 
 [⬆️ Back to contents](#table-of-contents)
 
