@@ -179,6 +179,7 @@ Keep each deal on one line with one space around each pipe. Do not align column 
 | 💰 | [WebWatch](https://apps.apple.com/app/id1610565796?pt=119552309&ct=bf26_mrs&mt=8) | Website change monitor for iPhone and iPad: get alerts when pages change, prices drop or items are back in stock. | 40% off Pro Lifetime ($56.99 → $34.00 USD) | Automatically applied in the app; no code needed; local prices vary; 2026-11-25 to 2026-12-01 |
 | 💸 | [BookletMaker](https://bookletmaker.app/black-friday/) | Turn any PDF into a booklet that prints, folds and staples correctly, on Mac, iPad and iPhone. | 50% off lifetime | Automatically applied in the App Store; one-time purchase; 2026-11-25 to 2026-12-01 |
 | 💰 | [SiftMac](https://siftmac.com/?utm_source=mRs-Black-Friday-Deals) | Mac cleaner that tells you, for every file, whether it comes back before anything is deleted; 7-day undo. | 25% off ($12 → $9) | Automatically applied at checkout, or code **BLACKFRIDAY**; one-time purchase for 2 Macs; 2026-11-27 to 2026-11-30 |
+| — | [Lunille](https://lunille.com/?ref=bf-mrs) | Notch app for Mac with Luni, a little moon that reacts to your music, volume, AirPods and coding assistant, around music, calls, notifications, calendar and a file tray. | Launch price: $9.99 once, through November 30. From December 1: $14.99 | No code needed; one-time purchase for up to 3 Macs, every future update included; free 14-day trial without an account; 14-day refund; macOS 14 or later; launch price ends end of 30 November 2026, UTC |
 
 [⬆️ Back to contents](#table-of-contents)
 
