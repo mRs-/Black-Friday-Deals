@@ -104,6 +104,7 @@ Keep each deal on one line with one space around each pipe. Do not align column 
 | 💸 | [LandinTools](https://tools.landin.page/advertise?ref=Black-Friday-Deals) | Directory of 1,000+ AI and SaaS tools. Get your tool featured for a full year. | 50% off Featured listing: $49 → $24.50 | **BF2026**; one year of Featured placement; Black Friday offer |
 | 💰 | [Quotion](https://quotion.co/#pricing) | Turn Apple Notes into blogs, portfolios and portals. Web-based, no coding required. | 30% off all paid plans for 12 months | **BLACKFRIDAY2026**; monthly or annual billing; 2026-11-09 to 2026-12-02 |
 | 💰 | [Terlido](https://terlido.com/pricing?utm_source=mrsbf&utm_medium=deal-list&utm_campaign=bfcm-2026) | Cold email and newsletters from your own mailbox, with warmup, campaigns, inbox and an AI agent. | 40% off for 12 months: Email Pro $39 → $23.40/seat/mo, Newsletter Pro $29 → $17.40/mo | **BF2026**; 2026-11-09 to 2026-12-01 |
+| 💰 | [Sequenzy](https://sequenzy.com/black-friday) | Email marketing for SaaS: newsletters, automated sequences and transactional email, with unlimited contacts. | 30% off any annual plan | **BLACKFRIDAY**; annual plans only; e.g. 15,000 emails/month $205 → $143.50/year |
 
 [⬆️ Back to contents](#table-of-contents)
 
