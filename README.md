@@ -81,6 +81,7 @@ Keep each deal on one line with one space around each pipe. Do not align column 
 | 💰 | [CozyCommerce](https://cozycommerce.dev/pricing) | Next.js and Tailwind eCommerce kit with 100+ components and 20+ pages. | 30% off all plans | **BLFCM2026**; 2026-11-17 to 2026-12-01 23:59 UTC |
 | 💰 | [NextAdmin](https://nextadmin.co/pricing) | 200+ Next.js dashboard templates and UI components. | 30% off Business plans | **BLFCM2026**; Business plans; 2026-11-17 to 2026-12-01 23:59 UTC |
 | 💰 | [NextMerce](https://nextmerce.com/pricing) | Next.js eCommerce boilerplate. | 30% off all plans | **BLFCM2026**; 2026-11-17 to 2026-12-01 23:59 UTC |
+| 💰 | [BucketMate](https://www.bucketmate.app/pricing) | S3 GUI for Mac, iPhone, iPad, and web for AWS S3, Cloudflare R2, Backblaze B2, and other S3-compatible storage. | 40% off ($39 → $23.40) | **BF2026**; lifetime license, one-time purchase; 2026-11-02 to 2026-12-01 |
 
 [⬆️ Back to contents](#table-of-contents)
 
@@ -183,6 +184,7 @@ Keep each deal on one line with one space around each pipe. Do not align column 
 | 💸 | [BookletMaker](https://bookletmaker.app/black-friday/) | Turn any PDF into a booklet that prints, folds and staples correctly, on Mac, iPad and iPhone. | 50% off lifetime | Automatically applied in the App Store; one-time purchase; 2026-11-25 to 2026-12-01 |
 | 💰 | [SiftMac](https://siftmac.com/?utm_source=mRs-Black-Friday-Deals) | Mac cleaner that tells you, for every file, whether it comes back before anything is deleted; 7-day undo. | 25% off ($12 → $9) | Automatically applied at checkout, or code **BLACKFRIDAY**; one-time purchase for 2 Macs; 2026-11-27 to 2026-11-30 |
 | — | [Lunille](https://lunille.com/?ref=bf-mrs) | Notch app for Mac with Luni, a little moon that reacts to your music, volume, AirPods and coding assistant, around music, calls, notifications, calendar and a file tray. | Launch price: $9.99 once, through November 30. From December 1: $14.99 | No code needed; one-time purchase for up to 3 Macs, every future update included; free 14-day trial without an account; 14-day refund; macOS 14 or later; launch price ends end of 30 November 2026, UTC |
+| 💸 | [MouseUp](https://mouseup.app) | Make an external mouse feel right on Mac with smooth scrolling, click debounce, and wheel zoom. | 50% off ($7.99 → $4.00) | **MMFBF2026**; lifetime license, one-time purchase; 2026-11-02 to 2026-12-05 |
 
 [⬆️ Back to contents](#table-of-contents)
 
@@ -217,6 +219,7 @@ Keep each deal on one line with one space around each pipe. Do not align column 
 | 💸 | [ScreenSnap Pro](https://www.screensnap.pro/pricing) | All-in-one screenshot and screen recording app for Mac and Windows: 17 annotation tools, scrolling capture, a built-in video editor, OCR and cloud share links. | 50% off lifetime license ($39 → $19.50) | **BLACKFRIDAY** at checkout; one-time purchase, one license covers 2 computers; 2026-11-10 to 2026-11-30 |
 | 💰 | [Email Me](https://emailmeapp.net/) | Send voice and text notes, to-dos and reminders straight to your own inbox in one tap, on iPhone, iPad, Mac, Apple Watch and Vision Pro. | 23% off yearly ($12.99 → $9.99) | Automatically applied, no code needed; yearly plan; 2026-11-27 to 2026-12-01 |
 | 💰 | [Mailflare](https://mailflare.co/#pricing) | Self-hosted Google Workspace alternative: custom-domain email, calendar, booking, drive and AI agents, with a native Mac app. | 40% off Pro and Team lifetime licenses | **MRSBF2026**; Pro $29 to $17.40, Team $249 to $149.40; one-time purchase; 2026-11-20 to 2026-12-02 |
+| 💸 | [ScreenVerb](https://screenverb.com) | AI screenshot app for Mac, iPhone, and iPad: capture, run an AI action, and insert the result where you were typing. | 50% off Pro ($39 → $19.50) and Universal Lifetime | **SVBF2026**; one-time purchase; 2026-11-02 to 2026-12-05 |
 
 [⬆️ Back to contents](#table-of-contents)
 
