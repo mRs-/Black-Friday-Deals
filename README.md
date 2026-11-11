@@ -123,6 +123,7 @@ Please follow the rules below:
 |💸|[MojoAuth](https://mojoauth.com/)| Passwordless login for apps (web) | **20% OFF** with code **BF2026**, Business Pro (2,500 MAU) $150/month → $120/month (through Dec 15)|
 |💸|[Mailazy](https://mailazy.com/blog/black-friday-deals)| Email sending and marketing (web) | **30% OFF** with code **THANKS30**, Pro $49/month → $34.30/month (Nov 5 – Feb 5, 2027)|
 |💸|[Voksha](https://voksha.com/)| AI receptionist that answers business calls (web) | **30% OFF** with code **FESTIVE30**, Starter $14/month → $9.80/month (Nov 5 – Feb 5, 2027)|
+|🤑|[RealUptime](https://realuptime.io/pricing)| Uptime monitoring, status pages and error tracking on one plan (web) | **50% OFF** for life, first 20 customers, applied automatically at checkout, no code needed (through Nov 30)|
 
 ---
 
