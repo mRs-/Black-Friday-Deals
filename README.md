@@ -123,6 +123,8 @@ Please follow the rules below:
 |💸|[MojoAuth](https://mojoauth.com/)| Passwordless login for apps (web) | **20% OFF** with code **BF2026**, Business Pro (2,500 MAU) $150/month → $120/month (through Dec 15)|
 |💸|[Mailazy](https://mailazy.com/blog/black-friday-deals)| Email sending and marketing (web) | **30% OFF** with code **THANKS30**, Pro $49/month → $34.30/month (Nov 5 – Feb 5, 2027)|
 |💸|[Voksha](https://voksha.com/)| AI receptionist that answers business calls (web) | **30% OFF** with code **FESTIVE30**, Starter $14/month → $9.80/month (Nov 5 – Feb 5, 2027)|
+|🤑|[Gramcheck](https://extensions.loopspec.com/gramcheck)| On-device grammar and spelling checker for Chrome; your writing is never uploaded. | **51% OFF** one-time license: $39 → $19, including 5 years of updates; no code needed (Nov 5 – Dec 2, 2026, UTC)|
+|🤑|[Roomtape](https://extensions.loopspec.com/roomtape)| Chrome extension that records Google Meet and Teams calls to local MP4 files, with no bot or uploads. | **69% OFF** one-time license: $29 → $9, including 3 years of updates; no code needed (Nov 5 – Dec 2, 2026, UTC)|
 
 ---
 
