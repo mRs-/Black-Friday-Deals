@@ -123,6 +123,8 @@ Please follow the rules below:
 |💸|[MojoAuth](https://mojoauth.com/)| Passwordless login for apps (web) | **20% OFF** with code **BF2026**, Business Pro (2,500 MAU) $150/month → $120/month (through Dec 15)|
 |💸|[Mailazy](https://mailazy.com/blog/black-friday-deals)| Email sending and marketing (web) | **30% OFF** with code **THANKS30**, Pro $49/month → $34.30/month (Nov 5 – Feb 5, 2027)|
 |💸|[Voksha](https://voksha.com/)| AI receptionist that answers business calls (web) | **30% OFF** with code **FESTIVE30**, Starter $14/month → $9.80/month (Nov 5 – Feb 5, 2027)|
+|💸|[Safe Screen Share](https://www.safescreenshare.com)| Chrome and Firefox extension that auto-blurs emails, API keys and customer data before you screen share or record | **40% OFF** lifetime license with code **BF2026** (Nov 13 – Dec 2)|
+|💸|[Opskeet](https://opskeet.com)| All-in-one customer support on the web: AI agent, live chat, shared inbox, tickets and a help center | **40% OFF** all plans with code **BF26** (Nov 13 – Dec 2)|
 
 ---
 
