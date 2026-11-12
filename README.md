@@ -19,9 +19,9 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 
 ## Categories
 
-**207 deals** in 19 categories. 💸 marks 50% off or more, 💰 less than 50%.
+**210 deals** in 19 categories. 💸 marks 50% off or more, 💰 less than 50%.
 
-🛠&nbsp;[Development Software](#development-software)&nbsp;`36` · 🤖&nbsp;[AI Tools](#ai-tools)&nbsp;`17` · 🌈&nbsp;[Marketing Software](#marketing-software)&nbsp;`10` · 🎩&nbsp;[Security Software](#security-software)&nbsp;`6` · 🎛&nbsp;[Utility Software](#utility-software)&nbsp;`49` · 📌&nbsp;[Productivity Software](#productivity-software)&nbsp;`30` · 🎥&nbsp;[Video Software](#video-software)&nbsp;`10` · 🎨&nbsp;[Graphic Software](#graphic-software)&nbsp;`9` · 🏝️&nbsp;[Lifestyle](#lifestyle)&nbsp;`7` · 🗣️&nbsp;[Social](#social)&nbsp;`1` · 🎓&nbsp;[Reference & Education](#reference--education)&nbsp;`4` · 👩‍🎓&nbsp;[Courses and Videos](#courses-and-videos)&nbsp;`5` · 📈&nbsp;[Business Software](#business-software)&nbsp;`6` · 🏃🏻‍♀️&nbsp;[Health & Fitness Software](#health--fitness-software)&nbsp;`4` · 🎁&nbsp;[Bundles](#bundles)&nbsp;`2` · 🤑&nbsp;[Finance](#finance)&nbsp;`2` · 🗺️&nbsp;[Navigation](#navigation)&nbsp;`1` · 🔎&nbsp;[SEO](#seo)&nbsp;`7` · 🕹&nbsp;[Games](#games)&nbsp;`1`
+🛠&nbsp;[Development Software](#development-software)&nbsp;`36` · 🤖&nbsp;[AI Tools](#ai-tools)&nbsp;`18` · 🌈&nbsp;[Marketing Software](#marketing-software)&nbsp;`10` · 🎩&nbsp;[Security Software](#security-software)&nbsp;`6` · 🎛&nbsp;[Utility Software](#utility-software)&nbsp;`49` · 📌&nbsp;[Productivity Software](#productivity-software)&nbsp;`30` · 🎥&nbsp;[Video Software](#video-software)&nbsp;`10` · 🎨&nbsp;[Graphic Software](#graphic-software)&nbsp;`9` · 🏝️&nbsp;[Lifestyle](#lifestyle)&nbsp;`7` · 🗣️&nbsp;[Social](#social)&nbsp;`1` · 🎓&nbsp;[Reference & Education](#reference--education)&nbsp;`4` · 👩‍🎓&nbsp;[Courses and Videos](#courses-and-videos)&nbsp;`7` · 📈&nbsp;[Business Software](#business-software)&nbsp;`6` · 🏃🏻‍♀️&nbsp;[Health & Fitness Software](#health--fitness-software)&nbsp;`4` · 🎁&nbsp;[Bundles](#bundles)&nbsp;`2` · 🤑&nbsp;[Finance](#finance)&nbsp;`2` · 🗺️&nbsp;[Navigation](#navigation)&nbsp;`1` · 🔎&nbsp;[SEO](#seo)&nbsp;`7` · 🕹&nbsp;[Games](#games)&nbsp;`1`
 
 <a id="development-software"></a>
 
@@ -91,6 +91,7 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 | 💰 | **[MeetingDebrief](https://meetingdebrief.com)**<br>Record, transcribe and summarize meetings on your Mac or PC, with no bot in the call and nothing uploaded. | <b>35% off lifetime licenses</b><br>`BFCM2026` · one-time purchase · Nov&nbsp;26&nbsp;–&nbsp;Dec&nbsp;12 |
 | 💰 | **[Vinaa](https://www.vinaa.ai/?utm_source=mrsbf)**<br>Native Mac app for chatting with cloud and local AI models. | <b>Up to 45% off lifetime licenses</b><br>Until 2026-11-30 |
 | 💸 | **[Wovo](https://wovo.one/?ref=mrs2026#pricing)**<br>One MCP that turns any AI into a multi-device agent across all your computers. | <b>50% off Pro and Max yearly: Pro $144 → $72/yr ($6/mo), Max $348 → $174/yr ($14.50/mo)</b><br>Applied automatically at checkout, no coupon code. Price locked for the subscription. New and existing users. Pro up to 5 computers; Max up to 20 computers + on-demand GitHub runners. · until&nbsp;Dec&nbsp;15 |
+|  | **[Orwellix](https://orwellix.com/lifetime-deal?utm_source=mrs-black-friday-deals&utm_medium=deal-directory&utm_campaign=lifetime-deal-2026)**<br>AI writing editor: an agent edits your document in place and you accept or reject every change, plus grammar, readability and plagiarism checks in one document. | <b>Premium $468/yr → Lifetime plan $249 once</b><br>No code needed. More AI credits, grammar characters and plagiarism words than Premium every month. One per account, only 300 deals · Nov&nbsp;12&nbsp;–&nbsp;Dec&nbsp;31 |
 
 <p align="right"><a href="#categories">↑ Categories</a></p>
 
@@ -312,6 +313,8 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 | 💰 | **[pwn.guide](https://pwn.guide/pricing)**<br>Hands-on ethical hacking and cybersecurity tutorials, plus CompTIA Security+ and PenTest+ certification training. | <b>20% off all plans, forever (Certificate lifetime $249 → $199.20)</b><br>`BLKFRI20` · applies to every renewal and to lifetime plans; card checkout · Nov&nbsp;1&nbsp;–&nbsp;Dec&nbsp;5 |
 | 💸 | **[LabEx Pro](https://labex.io/)**<br>Learn Linux, DevOps, Cybersecurity, and Cloud with hands-on labs. | <b>50% off two years; 30% off one year</b><br>[Two years](https://labex.io/checkout?type=4&coupon=2026BF50): **2026BF50**; [One year](https://labex.io/checkout?type=2&coupon=2026BF30): **2026BF30**; ends 2026-12-07 |
 |  | **[Flavio Copes AI Workshop and Masterclasses](https://flaviocopes.com/black-friday/)**<br>Online programming courses by Flavio Copes: an AI workshop plus TypeScript, React, Git and AHA Stack masterclasses. | <b>AI Workshop $299 → $99; four masterclasses $49 together (usually $396 bought individually)</b><br>No code; join the email list and the purchase link is sent when the offers open · from&nbsp;Nov&nbsp;23 |
+| 💸 | **[Erla: language learning in 22 languages](https://erla.app/black-friday)**<br>Learn a language by understanding it: listen to and read short stories at your level, watch short videos, then talk with an AI teacher. One app per language, 22 languages, iPhone & iPad. | <b>7 days free, then 70% off the first year of Erla PRO ($18 instead of $59.99)</b><br>`BLACKFRIDAY` · Annual plan, first year; new subscribers only; iPhone & iPad; works in all 22 language apps; renews at the regular price, cancel anytime. Redeem via erla.app/black-friday. · Nov&nbsp;12&nbsp;–&nbsp;Nov&nbsp;30 |
+| 💸 | **[Vantagepoint](https://vantagepoint.enciphers.com/)**<br>Hands-on cybersecurity learning platform featuring real-world pentesting labs across Web, Mobile, Cloud, Red Teaming, CVEs, and more. | <b>70% off on all hacking labs and certifications</b><br>Nov&nbsp;2&nbsp;–&nbsp;Dec&nbsp;15 |
 
 <p align="right"><a href="#categories">↑ Categories</a></p>
 
@@ -403,7 +406,7 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 
 No deals yet in Books, Creative Content and Home Automation. [Add the first one](https://blackfriday.mariuslandwehr.com/submit/).
 
-<!-- DEALS:END checksum:acbcbb5fc9d7 -->
+<!-- DEALS:END checksum:f9f7c35f9ddc -->
 
 ## Add your deal
 
