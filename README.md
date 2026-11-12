@@ -261,6 +261,7 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 | 💰 | **[PAPLO](https://getpaplo.com/news/black-friday-2026?utm_source=press-mrs-bf&utm_medium=listing&utm_campaign=press-mrs-bf)**<br>Turn photos of your pets, friends and food into chat stickers on iPhone. | <b>43% off ($6.99 → $3.99)</b><br>No code needed; one-time in-app purchase (PAPLO Plus) · Nov&nbsp;27&nbsp;–&nbsp;Nov&nbsp;30 |
 | 💸 | **[Sip](https://sipapp.io/pricing/?ref=mrs-bf)**<br>Modern color picker for Mac that brings ease to color organization and team collaboration. | <b>50% off</b><br>`BLACKFRIDAY26` · Nov&nbsp;27&nbsp;–&nbsp;Dec&nbsp;1 |
 | 💰 | **[Lineicons](https://lineicons.com/pricing)**<br>30,000+ icons in 10 styles, including SVG, JSX, TSX, and PNG. | <b>40% off Business plans</b><br>`BLFCM2026` · Business plans; 2026-11-17 to 2026-12-01 23:59 UTC |
+| ✨ | **[LS Graphics](https://www.ls.graphics/)**<br>Browser-based editor for static and animated mockups, plus 100+ branding and device mockup bundles with downloadable PSD, Figma, and Sketch source files. | <b>50% off all bundles, monthly plans, and annual plans</b><br>2026-11-06 to 2026-12-01 (inclusive) |
 
 <p align="right"><a href="#categories">↑ Categories</a></p>
 
