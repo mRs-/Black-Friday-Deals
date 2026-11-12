@@ -127,6 +127,8 @@ Please follow the rules below:
 |💸|[Leelo](https://leelo-ai.com/black-friday?ref=black-friday-deals)| AI voice studio on the web: text to speech, video dubbing, voice cloning and transcription, paid once instead of monthly | **25% OFF** Lifetime Pro ($199 → $149, one payment for 80,000 credits every month) · **50% more credits** on every pack · up to **30% OFF** a first plan · no code needed (Nov 24 – Dec 1)|
 |🤑|[MindPal](https://mindpal.io/pricing?utm_source=github-dqhieu&utm_campaign=bf2026)| Turn your expertise into AI agents and workflows for your team, clients and audience. Web app, no code. | **60% OFF** your first year on any annual plan with code **BLACKFRIDAY2026** (Nov 10 – Dec 11)|
 |💸|[OutlierKit](https://outlierkit.com/app/pricing?utm_source=hieu-bf&utm_campaign=bfcm26)| YouTube research tool (web): find videos that beat a channel's usual views, research keywords and study competitors | **40% OFF** any plan, including lifetime, with code **BFCM40**, Pro annual $599 → $359.40 (Nov 12 – Dec 5)|
+|🤑|[Gramcheck](https://extensions.loopspec.com/gramcheck?utm_source=github_dqhieu&utm_medium=referral&utm_campaign=black_friday_2026&utm_content=gramcheck)| On-device grammar and spelling checker for Chrome; your writing is never uploaded. | **51% OFF** one-time license: $39 → $19, including 5 years of updates; no code needed (Nov 5 – Dec 2, 2026, UTC)|
+|🤑|[Roomtape](https://extensions.loopspec.com/roomtape?utm_source=github_dqhieu&utm_medium=referral&utm_campaign=black_friday_2026&utm_content=roomtape)| Chrome extension that records Google Meet and Teams calls to local MP4 files, with no bot or uploads. | **69% OFF** one-time license: $29 → $9, including 3 years of updates; no code needed (Nov 5 – Dec 2, 2026, UTC)|
 
 ---
 
