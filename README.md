@@ -129,6 +129,8 @@ Please follow the rules below:
 |💸|[OutlierKit](https://outlierkit.com/app/pricing?utm_source=hieu-bf&utm_campaign=bfcm26)| YouTube research tool (web): find videos that beat a channel's usual views, research keywords and study competitors | **40% OFF** any plan, including lifetime, with code **BFCM40**, Pro annual $599 → $359.40 (Nov 12 – Dec 5)|
 |🤑|[Gramcheck](https://extensions.loopspec.com/gramcheck?utm_source=github_dqhieu&utm_medium=referral&utm_campaign=black_friday_2026&utm_content=gramcheck)| On-device grammar and spelling checker for Chrome; your writing is never uploaded. | **51% OFF** one-time license: $39 → $19, including 5 years of updates; no code needed (Nov 5 – Dec 2, 2026, UTC)|
 |🤑|[Roomtape](https://extensions.loopspec.com/roomtape?utm_source=github_dqhieu&utm_medium=referral&utm_campaign=black_friday_2026&utm_content=roomtape)| Chrome extension that records Google Meet and Teams calls to local MP4 files, with no bot or uploads. | **69% OFF** one-time license: $29 → $9, including 3 years of updates; no code needed (Nov 5 – Dec 2, 2026, UTC)|
+|💸|[Safe Screen Share](https://www.safescreenshare.com)| Chrome and Firefox extension that auto-blurs emails, API keys and customer data before you screen share or record | **40% OFF** lifetime license with code **BF2026** (Nov 13 – Dec 2)|
+|💸|[Opskeet](https://opskeet.com)| All-in-one customer support on the web: AI agent, live chat, shared inbox, tickets and a help center | **40% OFF** all plans with code **BF26** (Nov 13 – Dec 2)|
 
 ---
 
