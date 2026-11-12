@@ -133,6 +133,7 @@ Please follow the rules below:
 |💸|[Opskeet](https://opskeet.com)| All-in-one customer support on the web: AI agent, live chat, shared inbox, tickets and a help center | **40% OFF** all plans with code **BF26** (Nov 13 – Dec 2)|
 |🤑|[Wovo](https://wovo.one/?ref=dqhieu2026#pricing)| One MCP that turns any AI into a multi-device agent across all your computers. | **50% OFF** Pro and Max yearly, no code needed: Pro $144 → $72/yr ($6/mo) · Max $348 → $174/yr ($14.50/mo). Price locked for the subscription. New and existing users (through Dec 15)|
 |💸|[Citation Rocket](https://www.citationrocket.com/pricing?utm_source=dqhieu&utm_medium=bf_list&utm_campaign=bf2026)| Web app that checks if GPT, Claude, Gemini, Perplexity and Grok name your brand, then ranks the fixes. | **40% OFF** lifetime, no code needed. $99 → $59, Agency $149 → $89 (Nov 12 – Dec 2)|
+|💸|[MacPlus Software Mac apps](https://noteifyapp.com/apps/?utm_source=dqhieu&utm_medium=bf_list&utm_campaign=bf2026)| 13 native macOS utilities for the Dock, windows, tabs, clipboard and files: DockView 2, ActiveDock 2, MultiDock 2, Quick Exposé 3, SuperTab 7, Command-Tab Plus 2, Stage View, Tab Finder 2, ClipboardGrid, ContextClip, Classic Commander, Tree Outliner and Plus AI | **30% OFF** all 13 apps incl. lifetime licenses with code **MACPLUSBLACKFRIDAY26**, one-time purchase, e.g. DockView 2 $14.99 → $10.49, Quick Exposé 3 $39.99 → $27.99 (Nov 1 – Nov 30)|
 
 ---
 
