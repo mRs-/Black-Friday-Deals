@@ -123,6 +123,7 @@ Please follow the rules below:
 |💸|[MojoAuth](https://mojoauth.com/)| Passwordless login for apps (web) | **20% OFF** with code **BF2026**, Business Pro (2,500 MAU) $150/month → $120/month (through Dec 15)|
 |💸|[Mailazy](https://mailazy.com/blog/black-friday-deals)| Email sending and marketing (web) | **30% OFF** with code **THANKS30**, Pro $49/month → $34.30/month (Nov 5 – Feb 5, 2027)|
 |💸|[Voksha](https://voksha.com/)| AI receptionist that answers business calls (web) | **30% OFF** with code **FESTIVE30**, Starter $14/month → $9.80/month (Nov 5 – Feb 5, 2027)|
+|💸|[OutlierKit](https://outlierkit.com/app/pricing?utm_source=hieu-bf&utm_campaign=bfcm26)| YouTube research tool (web): find videos that beat a channel's usual views, research keywords and study competitors | **40% OFF** any plan, including lifetime, with code **BFCM40**, Pro annual $599 → $359.40 (Nov 12 – Dec 5)|
 
 ---
 
