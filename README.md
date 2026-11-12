@@ -125,6 +125,7 @@ Please follow the rules below:
 |💸|[Voksha](https://voksha.com/)| AI receptionist that answers business calls (web) | **30% OFF** with code **FESTIVE30**, Starter $14/month → $9.80/month (Nov 5 – Feb 5, 2027)|
 |🤑|[RealUptime](https://realuptime.io/pricing)| Uptime monitoring, status pages and error tracking on one plan (web) | **50% OFF** for life (first 20), then **40% OFF** the first year, automatic at checkout, no code (Nov 23 – Nov 30)|
 |💸|[Leelo](https://leelo-ai.com/black-friday?ref=black-friday-deals)| AI voice studio on the web: text to speech, video dubbing, voice cloning and transcription, paid once instead of monthly | **25% OFF** Lifetime Pro ($199 → $149, one payment for 80,000 credits every month) · **50% more credits** on every pack · up to **30% OFF** a first plan · no code needed (Nov 24 – Dec 1)|
+|🤑|[MindPal](https://mindpal.io/pricing?utm_source=github-dqhieu&utm_campaign=bf2026)| Turn your expertise into AI agents and workflows for your team, clients and audience. Web app, no code. | **60% OFF** your first year on any annual plan with code **BLACKFRIDAY2026** (Nov 10 – Dec 11)|
 
 ---
 
