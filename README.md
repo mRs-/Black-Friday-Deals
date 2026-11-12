@@ -134,6 +134,7 @@ Please follow the rules below:
 |🤑|[Wovo](https://wovo.one/?ref=dqhieu2026#pricing)| One MCP that turns any AI into a multi-device agent across all your computers. | **50% OFF** Pro and Max yearly, no code needed: Pro $144 → $72/yr ($6/mo) · Max $348 → $174/yr ($14.50/mo). Price locked for the subscription. New and existing users (through Dec 15)|
 |💸|[Citation Rocket](https://www.citationrocket.com/pricing?utm_source=dqhieu&utm_medium=bf_list&utm_campaign=bf2026)| Web app that checks if GPT, Claude, Gemini, Perplexity and Grok name your brand, then ranks the fixes. | **40% OFF** lifetime, no code needed. $99 → $59, Agency $149 → $89 (Nov 12 – Dec 2)|
 |🤑|[Koofr](https://koofr.eu/black-friday/)| Secure and reliable EU cloud storage that respects your privacy. No ads, no trackers and no spam. Supports automatic phone backups, device sync, external cloud integrations, WebDAV, and rclone. | **55% OFF** yearly plans **250 GB** to **5 TB** with code **BF2026** (Nov 16 – Nov 30)|
+|🤑|[Vantagepoint](https://vantagepoint.enciphers.com/)| Hands-on cybersecurity learning platform with real-world pentesting labs for Web, Mobile, Cloud and Red Teaming (web) | **70% OFF** all hacking labs and certifications, no code needed (Nov 2 – Dec 15)|
 
 ---
 
