@@ -136,6 +136,7 @@ Please follow the rules below:
 |💸|[Citation Rocket](https://www.citationrocket.com/pricing?utm_source=dqhieu&utm_medium=bf_list&utm_campaign=bf2026)| Web app that checks if GPT, Claude, Gemini, Perplexity and Grok name your brand, then ranks the fixes. | **40% OFF** lifetime, no code needed. $99 → $59, Agency $149 → $89 (Nov 12 – Dec 2)|
 |🤑|[Koofr](https://koofr.eu/black-friday/)| Secure and reliable EU cloud storage that respects your privacy. No ads, no trackers and no spam. Supports automatic phone backups, device sync, external cloud integrations, WebDAV, and rclone. | **55% OFF** yearly plans **250 GB** to **5 TB** with code **BF2026** (Nov 16 – Nov 30)|
 |🤑|[Vantagepoint](https://vantagepoint.enciphers.com/)| Hands-on cybersecurity learning platform with real-world pentesting labs for Web, Mobile, Cloud and Red Teaming (web) | **70% OFF** all hacking labs and certifications, no code needed (Nov 2 – Dec 15)|
+|💸|[MacPlus Software Mac apps](https://noteifyapp.com/apps/?utm_source=dqhieu&utm_medium=bf_list&utm_campaign=bf2026)| 13 native macOS utilities for the Dock, windows, tabs, clipboard and files: DockView 2, ActiveDock 2, MultiDock 2, Quick Exposé 3, SuperTab 7, Command-Tab Plus 2, Stage View, Tab Finder 2, ClipboardGrid, ContextClip, Classic Commander, Tree Outliner and Plus AI | **30% OFF** all 13 apps incl. lifetime licenses with code **MACPLUSBLACKFRIDAY26**, one-time purchase, e.g. DockView 2 $14.99 → $10.49, Quick Exposé 3 $39.99 → $27.99 (Nov 1 – Nov 30)|
 
 ---
 
