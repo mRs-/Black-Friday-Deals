@@ -19,9 +19,9 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 
 ## Categories
 
-**205 deals** in 19 categories. 💸 marks 50% off or more, 💰 less than 50%.
+**207 deals** in 19 categories. 💸 marks 50% off or more, 💰 less than 50%.
 
-🛠&nbsp;[Development Software](#development-software)&nbsp;`35` · 🤖&nbsp;[AI Tools](#ai-tools)&nbsp;`17` · 🌈&nbsp;[Marketing Software](#marketing-software)&nbsp;`10` · 🎩&nbsp;[Security Software](#security-software)&nbsp;`6` · 🎛&nbsp;[Utility Software](#utility-software)&nbsp;`49` · 📌&nbsp;[Productivity Software](#productivity-software)&nbsp;`30` · 🎥&nbsp;[Video Software](#video-software)&nbsp;`10` · 🎨&nbsp;[Graphic Software](#graphic-software)&nbsp;`9` · 🏝️&nbsp;[Lifestyle](#lifestyle)&nbsp;`7` · 🗣️&nbsp;[Social](#social)&nbsp;`1` · 🎓&nbsp;[Reference & Education](#reference--education)&nbsp;`4` · 👩‍🎓&nbsp;[Courses and Videos](#courses-and-videos)&nbsp;`5` · 📈&nbsp;[Business Software](#business-software)&nbsp;`6` · 🏃🏻‍♀️&nbsp;[Health & Fitness Software](#health--fitness-software)&nbsp;`3` · 🎁&nbsp;[Bundles](#bundles)&nbsp;`2` · 🤑&nbsp;[Finance](#finance)&nbsp;`2` · 🗺️&nbsp;[Navigation](#navigation)&nbsp;`1` · 🔎&nbsp;[SEO](#seo)&nbsp;`7` · 🕹&nbsp;[Games](#games)&nbsp;`1`
+🛠&nbsp;[Development Software](#development-software)&nbsp;`36` · 🤖&nbsp;[AI Tools](#ai-tools)&nbsp;`17` · 🌈&nbsp;[Marketing Software](#marketing-software)&nbsp;`10` · 🎩&nbsp;[Security Software](#security-software)&nbsp;`6` · 🎛&nbsp;[Utility Software](#utility-software)&nbsp;`49` · 📌&nbsp;[Productivity Software](#productivity-software)&nbsp;`30` · 🎥&nbsp;[Video Software](#video-software)&nbsp;`10` · 🎨&nbsp;[Graphic Software](#graphic-software)&nbsp;`9` · 🏝️&nbsp;[Lifestyle](#lifestyle)&nbsp;`7` · 🗣️&nbsp;[Social](#social)&nbsp;`1` · 🎓&nbsp;[Reference & Education](#reference--education)&nbsp;`4` · 👩‍🎓&nbsp;[Courses and Videos](#courses-and-videos)&nbsp;`5` · 📈&nbsp;[Business Software](#business-software)&nbsp;`6` · 🏃🏻‍♀️&nbsp;[Health & Fitness Software](#health--fitness-software)&nbsp;`4` · 🎁&nbsp;[Bundles](#bundles)&nbsp;`2` · 🤑&nbsp;[Finance](#finance)&nbsp;`2` · 🗺️&nbsp;[Navigation](#navigation)&nbsp;`1` · 🔎&nbsp;[SEO](#seo)&nbsp;`7` · 🕹&nbsp;[Games](#games)&nbsp;`1`
 
 <a id="development-software"></a>
 
@@ -64,6 +64,7 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 | 💸 | **[Kinsta](https://kinsta.com/black-friday/)**<br>Fast, secure, feature-rich managed hosting for WordPress on next-generation cloud infrastructure, secured by Cloudflare. | <b>3 months free on annual plans or 50% off the first 3 months on monthly plans</b><br>new customers only · until&nbsp;Dec&nbsp;1 |
 | 💰 | **[TablePro](https://tablepro.app/black-friday)**<br>Native database client for Mac and Linux: PostgreSQL, MySQL, SQLite, MongoDB, Redis and more. | <b>40% off Pro one-time ($79 → $47.40) and the first year of Pro yearly ($39 → $23.40)</b><br>`BLACKFRIDAY2026` · Applied automatically on the site. Pro yearly renews at $39. Pro monthly and Team are not on sale. Ends December 1, 8:00 AM UTC. · Nov&nbsp;24&nbsp;–&nbsp;Dec&nbsp;1 |
 | 💰 | **[Perch](https://perch.run/black-friday?ref=mrs-bf-deals)**<br>Mac menu bar app for Claude Code, Codex, Cursor and six more AI coding agents: see every session, and approve from your iPhone and Apple Watch. | <b>40% off the one-time licence, $29 → $17.40, solo or per team seat</b><br>`BLACKFRIDAY2026` · First 500 orders. The Buy buttons on perch.run apply the code automatically. The Perch Pro iPhone subscription is not part of this offer. · Nov&nbsp;2&nbsp;–&nbsp;Dec&nbsp;1 |
+| 💰 | **[DevWorkspace Pro](https://devworkspacepro.com)**<br>One desktop app to run, code and ship any dev project: Files, Git, GitHub, AI agents, terminal, and DDEV, Docker or native runtimes. | <b>40% off all plans</b><br>`BLACKFRIDAY40OFF` · New purchases; first month on monthly plans. · Nov&nbsp;10&nbsp;–&nbsp;Dec&nbsp;10 |
 
 <p align="right"><a href="#categories">↑ Categories</a></p>
 
@@ -338,6 +339,7 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 | 💰 | **[Habit Pixel](https://habitpixel.com/get)**<br>Offline habit tracker with pixel check-ins, streak goals, reminders, and widgets for iPhone and Android. | <b>33% off Lifetime ($29.99 → $19.99 USD)</b><br>Automatically applied in the app; local prices vary · Nov&nbsp;19&nbsp;–&nbsp;Dec&nbsp;2 |
 | 💸 | **[PepFlow](https://pepflow.app/download)**<br>Track your peptide routine with dose history, flexible schedules, and reminders. | <b>50% off the first year of the annual plan ($29.99 → $14.99 USD)</b><br>Automatically applied in the app; no code needed; first year only · Nov&nbsp;20&nbsp;–&nbsp;Dec&nbsp;1 |
 | 💸 | **[Gymfile](https://apps.apple.com/app/id1448100591?pt=119552309&ct=bf26_mrs&mt=8)**<br>Workout tracker for lifters on iPhone, iPad and Apple Watch: log sets fast, follow routines and track progressive overload. | <b>50% off Pro Lifetime ($109.99 → $54.99 USD)</b><br>Automatically applied in the app; no code needed; local prices vary · Nov&nbsp;25&nbsp;–&nbsp;Dec&nbsp;1 |
+|  | **[Prover: Workout Tracker](https://apps.apple.com/app/id6769863805)**<br>Strength training and nutrition tracker for iPhone. It calculates weight and reps for your next set from your last session, sets your calorie target by your activity, and tracks food by search, barcode or photo. | <b>3 months of Premium free instead of 1</b><br>New subscribers, monthly plan; then $11.99 a month, cancel anytime. Redeem on iPhone: [open the offer](https://apps.apple.com/redeem?ctx=offercodes&id=6769863805&code=INDIEAPPSALES). · until&nbsp;Dec&nbsp;1 |
 
 <p align="right"><a href="#categories">↑ Categories</a></p>
 
@@ -401,7 +403,7 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 
 No deals yet in Books, Creative Content and Home Automation. [Add the first one](https://blackfriday.mariuslandwehr.com/submit/).
 
-<!-- DEALS:END checksum:8d0b456b9912 -->
+<!-- DEALS:END checksum:acbcbb5fc9d7 -->
 
 ## Add your deal
 
