@@ -19,9 +19,9 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 
 ## Categories
 
-**203 deals** in 19 categories. 💸 marks 50% off or more, 💰 less than 50%.
+**204 deals** in 19 categories. 💸 marks 50% off or more, 💰 less than 50%.
 
-🛠&nbsp;[Development Software](#development-software)&nbsp;`35` · 🤖&nbsp;[AI Tools](#ai-tools)&nbsp;`16` · 🌈&nbsp;[Marketing Software](#marketing-software)&nbsp;`10` · 🎩&nbsp;[Security Software](#security-software)&nbsp;`6` · 🎛&nbsp;[Utility Software](#utility-software)&nbsp;`49` · 📌&nbsp;[Productivity Software](#productivity-software)&nbsp;`30` · 🎥&nbsp;[Video Software](#video-software)&nbsp;`10` · 🎨&nbsp;[Graphic Software](#graphic-software)&nbsp;`9` · 🏝️&nbsp;[Lifestyle](#lifestyle)&nbsp;`7` · 🗣️&nbsp;[Social](#social)&nbsp;`1` · 🎓&nbsp;[Reference & Education](#reference--education)&nbsp;`4` · 👩‍🎓&nbsp;[Courses and Videos](#courses-and-videos)&nbsp;`5` · 📈&nbsp;[Business Software](#business-software)&nbsp;`5` · 🏃🏻‍♀️&nbsp;[Health & Fitness Software](#health--fitness-software)&nbsp;`3` · 🎁&nbsp;[Bundles](#bundles)&nbsp;`2` · 🤑&nbsp;[Finance](#finance)&nbsp;`2` · 🗺️&nbsp;[Navigation](#navigation)&nbsp;`1` · 🔎&nbsp;[SEO](#seo)&nbsp;`7` · 🕹&nbsp;[Games](#games)&nbsp;`1`
+🛠&nbsp;[Development Software](#development-software)&nbsp;`35` · 🤖&nbsp;[AI Tools](#ai-tools)&nbsp;`16` · 🌈&nbsp;[Marketing Software](#marketing-software)&nbsp;`10` · 🎩&nbsp;[Security Software](#security-software)&nbsp;`6` · 🎛&nbsp;[Utility Software](#utility-software)&nbsp;`49` · 📌&nbsp;[Productivity Software](#productivity-software)&nbsp;`30` · 🎥&nbsp;[Video Software](#video-software)&nbsp;`10` · 🎨&nbsp;[Graphic Software](#graphic-software)&nbsp;`9` · 🏝️&nbsp;[Lifestyle](#lifestyle)&nbsp;`7` · 🗣️&nbsp;[Social](#social)&nbsp;`1` · 🎓&nbsp;[Reference & Education](#reference--education)&nbsp;`4` · 👩‍🎓&nbsp;[Courses and Videos](#courses-and-videos)&nbsp;`5` · 📈&nbsp;[Business Software](#business-software)&nbsp;`6` · 🏃🏻‍♀️&nbsp;[Health & Fitness Software](#health--fitness-software)&nbsp;`3` · 🎁&nbsp;[Bundles](#bundles)&nbsp;`2` · 🤑&nbsp;[Finance](#finance)&nbsp;`2` · 🗺️&nbsp;[Navigation](#navigation)&nbsp;`1` · 🔎&nbsp;[SEO](#seo)&nbsp;`7` · 🕹&nbsp;[Games](#games)&nbsp;`1`
 
 <a id="development-software"></a>
 
@@ -324,6 +324,7 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 | 💰 | **[PageDuel](https://pageduel.com/pricing?utm_source=mrsbf&utm_medium=deal-list&utm_campaign=bfcm-2026)**<br>Web analytics, A/B testing and revenue attribution in one tool. | <b>40% off for 12 months, plans from $9 → $5.40/mo</b><br>`BF2026` · Nov&nbsp;9&nbsp;–&nbsp;Dec&nbsp;1 |
 |  | **[Clappia](https://www.clappia.com/black-friday-offer)**<br>No-code platform for building business apps and automating workflows without programming. | <b>50% off yearly plans, including the standard 25% annual discount</b><br>`BLCKFRD26` · New customers only; annual plans only; valid until 11:59 PM GMT · until&nbsp;Dec&nbsp;31 |
 | 💸 | **[MotionOps](https://www.motionops.com/black-friday?utm_source=black-friday-deals-mrs&utm_medium=deal_listing&utm_campaign=bfcm_2026)**<br>Field service management software for contractor teams: proposals, crew scheduling, job costing, invoicing and payments in one place. | <b>50% off every monthly bill for 6 months, plans from $59 → $29.50/mo</b><br>No code; claim on the deal page by booking a short onboarding call; any plan (Solo, Go, Scale); new customers; free migration and setup · Nov&nbsp;11&nbsp;–&nbsp;Nov&nbsp;30 |
+| 💰 | **[Opskeet](https://opskeet.com)**<br>All-in-one customer support: AI agent that answers from your docs, live chat, shared inbox, tickets and a help center, in your brand. | <b>40% off all plans</b><br>`BF26` · Nov&nbsp;13&nbsp;–&nbsp;Dec&nbsp;2 |
 
 <p align="right"><a href="#categories">↑ Categories</a></p>
 
@@ -399,7 +400,7 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 
 No deals yet in Books, Creative Content and Home Automation. [Add the first one](https://blackfriday.mariuslandwehr.com/submit/).
 
-<!-- DEALS:END checksum:4c101f7c77a0 -->
+<!-- DEALS:END checksum:e494cc05f98f -->
 
 ## Add your deal
 
