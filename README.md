@@ -14,7 +14,6 @@ Please follow the rules below:
 ## Deals
 |  | Name | Description | Deal details |
 |--|------|-------------|--------------|
-|🤑|[Sip](https://sipapp.io/blackfriday/)| Native color picker for macOS that helps collect, organize, edit and share colors and palettes | **50% OFF** with code **BLACKFRIDAY26** (Nov 27 – 29) or **CYBERMONDAY26** (Nov 30 – Dec 2)|
 |💸|[Compresto](https://compresto.app/?ref=black-friday-deals)| Video, Image & PDF Compression for macOS | 40% OFF with code **BFCM26**|
 |💸|[Steps: Workout & Pedometer](https://apps.apple.com/us/app/steps-workout-pedometer/id6746096378)| Step counter and workout tracker for iPhone and Apple Watch — featured by Apple. | 40% OFF lifetime with code **BFCM26**, 40% OFF lifetime family sharing with code **BFCM26FAMILY**|
 |💸|[Finny: AI Money Manager](https://apps.apple.com/us/app/finny-ai-money-manager/id6736472735)| Fully automatic expense tracking on iPhone. | 40% OFF first year with code **BFCM26**|
@@ -124,7 +123,6 @@ Please follow the rules below:
 |💸|[MojoAuth](https://mojoauth.com/)| Passwordless login for apps (web) | **20% OFF** with code **BF2026**, Business Pro (2,500 MAU) $150/month → $120/month (through Dec 15)|
 |💸|[Mailazy](https://mailazy.com/blog/black-friday-deals)| Email sending and marketing (web) | **30% OFF** with code **THANKS30**, Pro $49/month → $34.30/month (Nov 5 – Feb 5, 2027)|
 |💸|[Voksha](https://voksha.com/)| AI receptionist that answers business calls (web) | **30% OFF** with code **FESTIVE30**, Starter $14/month → $9.80/month (Nov 5 – Feb 5, 2027)|
-|💸|[Fidiora](https://fidiora.com/)| AI customer support that resolves questions, captures leads and routes the rest to your team (web) | **25% OFF** with code **FID25OFF**, off the per-resolution rates (list price Starter $0.69, Growth $0.45) (Nov 5 – Dec 31)|
 |🤑|[RealUptime](https://realuptime.io/pricing)| Uptime monitoring, status pages and error tracking on one plan (web) | **50% OFF** for life (first 20), then **40% OFF** the first year, automatic at checkout, no code (Nov 23 – Nov 30)|
 |💸|[Leelo](https://leelo-ai.com/black-friday?ref=black-friday-deals)| AI voice studio on the web: text to speech, video dubbing, voice cloning and transcription, paid once instead of monthly | **25% OFF** Lifetime Pro ($199 → $149, one payment for 80,000 credits every month) · **50% more credits** on every pack · up to **30% OFF** a first plan · no code needed (Nov 24 – Dec 1)|
 |🤑|[MindPal](https://mindpal.io/pricing?utm_source=github-dqhieu&utm_campaign=bf2026)| Turn your expertise into AI agents and workflows for your team, clients and audience. Web app, no code. | **60% OFF** your first year on any annual plan with code **BLACKFRIDAY2026** (Nov 10 – Dec 11)|
@@ -137,7 +135,9 @@ Please follow the rules below:
 |💸|[Citation Rocket](https://www.citationrocket.com/pricing?utm_source=dqhieu&utm_medium=bf_list&utm_campaign=bf2026)| Web app that checks if GPT, Claude, Gemini, Perplexity and Grok name your brand, then ranks the fixes. | **40% OFF** lifetime, no code needed. $99 → $59, Agency $149 → $89 (Nov 12 – Dec 2)|
 |🤑|[Koofr](https://koofr.eu/black-friday/)| Secure and reliable EU cloud storage that respects your privacy. No ads, no trackers and no spam. Supports automatic phone backups, device sync, external cloud integrations, WebDAV, and rclone. | **55% OFF** yearly plans **250 GB** to **5 TB** with code **BF2026** (Nov 16 – Nov 30)|
 |🤑|[Vantagepoint](https://vantagepoint.enciphers.com/)| Hands-on cybersecurity learning platform with real-world pentesting labs for Web, Mobile, Cloud and Red Teaming (web) | **70% OFF** all hacking labs and certifications, no code needed (Nov 2 – Dec 15)|
+|💸|[Fidiora](https://fidiora.com/)| AI customer support that resolves questions, captures leads and routes the rest to your team (web) | **25% OFF** with code **FID25OFF**, off the per-resolution rates (list price Starter $0.69, Growth $0.45) (Nov 5 – Dec 31)|
 |💸|[MacPlus Software Mac apps](https://noteifyapp.com/apps/?utm_source=dqhieu&utm_medium=bf_list&utm_campaign=bf2026)| 13 native macOS utilities for the Dock, windows, tabs, clipboard and files: DockView 2, ActiveDock 2, MultiDock 2, Quick Exposé 3, SuperTab 7, Command-Tab Plus 2, Stage View, Tab Finder 2, ClipboardGrid, ContextClip, Classic Commander, Tree Outliner and Plus AI | **30% OFF** all 13 apps incl. lifetime licenses with code **MACPLUSBLACKFRIDAY26**, one-time purchase, e.g. DockView 2 $14.99 → $10.49, Quick Exposé 3 $39.99 → $27.99 (Nov 1 – Nov 30)|
+|🤑|[Sip](https://sipapp.io/blackfriday/)| Native color picker for macOS that helps collect, organize, edit and share colors and palettes | **50% OFF** with code **BLACKFRIDAY26** (Nov 27 – 29) or **CYBERMONDAY26** (Nov 30 – Dec 2)|
 
 ---
 
