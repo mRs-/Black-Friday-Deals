@@ -133,6 +133,7 @@ Please follow the rules below:
 |💸|[Opskeet](https://opskeet.com)| All-in-one customer support on the web: AI agent, live chat, shared inbox, tickets and a help center | **40% OFF** all plans with code **BF26** (Nov 13 – Dec 2)|
 |🤑|[Wovo](https://wovo.one/?ref=dqhieu2026#pricing)| One MCP that turns any AI into a multi-device agent across all your computers. | **50% OFF** Pro and Max yearly, no code needed: Pro $144 → $72/yr ($6/mo) · Max $348 → $174/yr ($14.50/mo). Price locked for the subscription. New and existing users (through Dec 15)|
 |💸|[Citation Rocket](https://www.citationrocket.com/pricing?utm_source=dqhieu&utm_medium=bf_list&utm_campaign=bf2026)| Web app that checks if GPT, Claude, Gemini, Perplexity and Grok name your brand, then ranks the fixes. | **40% OFF** lifetime, no code needed. $99 → $59, Agency $149 → $89 (Nov 12 – Dec 2)|
+|💸|[Orwellix](https://orwellix.com/lifetime-deal?utm_source=dqhieu-bf&utm_medium=deal-directory&utm_campaign=lifetime-deal-2026)| AI writing editor for the web where an agent edits your document and you accept or reject each change. | **47% OFF** vs a year of Premium: Lifetime plan $249 once instead of $468/year, no code needed, first 300 buyers (Nov 12 – Dec 31)|
 
 ---
 
