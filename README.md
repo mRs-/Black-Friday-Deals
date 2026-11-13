@@ -139,6 +139,7 @@ Please follow the rules below:
 |💸|[MacPlus Software Mac apps](https://noteifyapp.com/apps/?utm_source=dqhieu&utm_medium=bf_list&utm_campaign=bf2026)| 13 native macOS utilities for the Dock, windows, tabs, clipboard and files: DockView 2, ActiveDock 2, MultiDock 2, Quick Exposé 3, SuperTab 7, Command-Tab Plus 2, Stage View, Tab Finder 2, ClipboardGrid, ContextClip, Classic Commander, Tree Outliner and Plus AI | **30% OFF** all 13 apps incl. lifetime licenses with code **MACPLUSBLACKFRIDAY26**, one-time purchase, e.g. DockView 2 $14.99 → $10.49, Quick Exposé 3 $39.99 → $27.99 (Nov 1 – Nov 30)|
 |🤑|[Sip](https://sipapp.io/blackfriday/)| Native color picker for macOS that helps collect, organize, edit and share colors and palettes | **50% OFF** with code **BLACKFRIDAY26** (Nov 27 – 29) or **CYBERMONDAY26** (Nov 30 – Dec 2)|
 |💸|[Outlier](https://outlier.host/?ref=dqhieu)| Runs open AI models on your own Mac, so your chats and code stay on it, even offline: chat, a coding agent for your own codebase, and research with cited sources. Free to start. | **31% OFF** our November price: $16.99 once instead of $24.50, no code needed (through Dec 2, then $29)|
+|💸|[Check Engine SEO](https://checkengineseo.com/?ref=dqhieu)| Desktop SEO audit for Mac and Windows: 99 checks, including whether AI crawlers like GPTBot can read your site, ranked into a fix plan with the markup to paste and a client-ready PDF. Free version available. | **32% OFF** our November price: $19.99 once instead of $29.50, no code needed (through Dec 2, then $39)|
 
 ---
 
