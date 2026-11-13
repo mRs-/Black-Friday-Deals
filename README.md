@@ -138,6 +138,10 @@ Please follow the rules below:
 |💸|[Fidiora](https://fidiora.com/)| AI customer support that resolves questions, captures leads and routes the rest to your team (web) | **25% OFF** with code **FID25OFF**, off the per-resolution rates (list price Starter $0.69, Growth $0.45) (Nov 5 – Dec 31)|
 |💸|[MacPlus Software Mac apps](https://noteifyapp.com/apps/?utm_source=dqhieu&utm_medium=bf_list&utm_campaign=bf2026)| 13 native macOS utilities for the Dock, windows, tabs, clipboard and files: DockView 2, ActiveDock 2, MultiDock 2, Quick Exposé 3, SuperTab 7, Command-Tab Plus 2, Stage View, Tab Finder 2, ClipboardGrid, ContextClip, Classic Commander, Tree Outliner and Plus AI | **30% OFF** all 13 apps incl. lifetime licenses with code **MACPLUSBLACKFRIDAY26**, one-time purchase, e.g. DockView 2 $14.99 → $10.49, Quick Exposé 3 $39.99 → $27.99 (Nov 1 – Nov 30)|
 |🤑|[Sip](https://sipapp.io/blackfriday/)| Native color picker for macOS that helps collect, organize, edit and share colors and palettes | **50% OFF** with code **BLACKFRIDAY26** (Nov 27 – 29) or **CYBERMONDAY26** (Nov 30 – Dec 2)|
+|💸| [MingCute Icons](https://mgc.mingcute.com/?utm_source=dqhieu) | Carefully crafted icon pack collection featuring over 27,000 high-quality vector icons | **30% OFF** ($59 → $41) with code **BF2026** (Nov 15 - Dec 5) |
+|💸| [MingCute UI](https://ui.mingcute.com/?utm_source=dqhieu) | Design system and UI Kit for Figma | **30% OFF** ($59 → $41) with code **BF2026** (Nov 15 - Dec 5) |
+|💸| [Animation Icons](https://www.mingcute.com/animation?utm_source=dqhieu) | 120+ lively and smooth animated icons | **30% OFF** ($25 → $17.5) with code **BF2026** (Nov 15 - Dec 5) |
+|💸| [Weather Icons](https://mgcweather.framer.website/?utm_source=dqhieu) | 120 graceful weather icons | **30% OFF** ($25 → $17.5) with code **BF2026** (Nov 15 - Dec 5) |
 
 ---
 
