@@ -1,0 +1,8 @@
+name: "OffSeq Threat Radar"
+url: "https://radar.offseq.com/pricing"
+description: "Live threat intelligence for CVEs, actively exploited vulnerabilities (CISA KEV), malware and attack patterns, with API, RSS, SBOM scans and alerts."
+discount: "50% off the first month or first year: Individual €120 → €60/yr, Base €490 → €245/yr, Pro €1,490 → €745/yr"
+percent: 50
+terms: "Applied automatically; first payment only, renewals at the regular price. Prices incl. 21% VAT. Free plan with API access."
+starts: "2026-11-13"
+ends: "2026-12-01"
