@@ -19,9 +19,9 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 
 ## Categories
 
-**218 deals** in 19 categories. 💸 marks 50% off or more, 💰 less than 50%.
+**219 deals** in 19 categories. 💸 marks 50% off or more, 💰 less than 50%.
 
-🛠&nbsp;[Development Software](#development-software)&nbsp;`37` · 🤖&nbsp;[AI Tools](#ai-tools)&nbsp;`18` · 🌈&nbsp;[Marketing Software](#marketing-software)&nbsp;`10` · 🎩&nbsp;[Security Software](#security-software)&nbsp;`6` · 🎛&nbsp;[Utility Software](#utility-software)&nbsp;`50` · 📌&nbsp;[Productivity Software](#productivity-software)&nbsp;`33` · 🎥&nbsp;[Video Software](#video-software)&nbsp;`11` · 🎨&nbsp;[Graphic Software](#graphic-software)&nbsp;`10` · 🏝️&nbsp;[Lifestyle](#lifestyle)&nbsp;`7` · 🗣️&nbsp;[Social](#social)&nbsp;`1` · 🎓&nbsp;[Reference & Education](#reference--education)&nbsp;`4` · 👩‍🎓&nbsp;[Courses and Videos](#courses-and-videos)&nbsp;`7` · 📈&nbsp;[Business Software](#business-software)&nbsp;`7` · 🏃🏻‍♀️&nbsp;[Health & Fitness Software](#health--fitness-software)&nbsp;`4` · 🎁&nbsp;[Bundles](#bundles)&nbsp;`2` · 🤑&nbsp;[Finance](#finance)&nbsp;`2` · 🗺️&nbsp;[Navigation](#navigation)&nbsp;`1` · 🔎&nbsp;[SEO](#seo)&nbsp;`7` · 🕹&nbsp;[Games](#games)&nbsp;`1`
+🛠&nbsp;[Development Software](#development-software)&nbsp;`38` · 🤖&nbsp;[AI Tools](#ai-tools)&nbsp;`18` · 🌈&nbsp;[Marketing Software](#marketing-software)&nbsp;`10` · 🎩&nbsp;[Security Software](#security-software)&nbsp;`6` · 🎛&nbsp;[Utility Software](#utility-software)&nbsp;`50` · 📌&nbsp;[Productivity Software](#productivity-software)&nbsp;`33` · 🎥&nbsp;[Video Software](#video-software)&nbsp;`11` · 🎨&nbsp;[Graphic Software](#graphic-software)&nbsp;`10` · 🏝️&nbsp;[Lifestyle](#lifestyle)&nbsp;`7` · 🗣️&nbsp;[Social](#social)&nbsp;`1` · 🎓&nbsp;[Reference & Education](#reference--education)&nbsp;`4` · 👩‍🎓&nbsp;[Courses and Videos](#courses-and-videos)&nbsp;`7` · 📈&nbsp;[Business Software](#business-software)&nbsp;`7` · 🏃🏻‍♀️&nbsp;[Health & Fitness Software](#health--fitness-software)&nbsp;`4` · 🎁&nbsp;[Bundles](#bundles)&nbsp;`2` · 🤑&nbsp;[Finance](#finance)&nbsp;`2` · 🗺️&nbsp;[Navigation](#navigation)&nbsp;`1` · 🔎&nbsp;[SEO](#seo)&nbsp;`7` · 🕹&nbsp;[Games](#games)&nbsp;`1`
 
 <a id="development-software"></a>
 
@@ -66,6 +66,7 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 | 💰 | **[Perch](https://perch.run/black-friday?ref=mrs-bf-deals)**<br>Mac menu bar app for Claude Code, Codex, Cursor and six more AI coding agents: see every session, and approve from your iPhone and Apple Watch. | <b>40% off the one-time licence, $29 → $17.40, solo or per team seat</b><br>`BLACKFRIDAY2026` · First 500 orders. The Buy buttons on perch.run apply the code automatically. The Perch Pro iPhone subscription is not part of this offer. · Nov&nbsp;2&nbsp;–&nbsp;Dec&nbsp;1 |
 | 💰 | **[DevWorkspace Pro](https://devworkspacepro.com)**<br>One desktop app to run, code and ship any dev project: Files, Git, GitHub, AI agents, terminal, and DDEV, Docker or native runtimes. | <b>40% off all plans</b><br>`BLACKFRIDAY40OFF` · New purchases; first month on monthly plans. · Nov&nbsp;10&nbsp;–&nbsp;Dec&nbsp;10 |
 | 💰 | **[DropDMG](https://c-command.com/store/sale)**<br>Create professional disk images (.dmg files) for your Mac app | <b>25% off</b><br>`BLACKFRIDAY2026` |
+| 💰 | **[MacVisor](https://scaleninja.com/macvisor/)**<br>Run your Mac as a virtualization host: macOS, Windows, Linux & FreeBSD VMs setup automatically with account, SSH keys and guest tools. | <b>15% off with BLACKFRIDAY15</b><br>`BLACKFRIDAY15` · Nov&nbsp;12&nbsp;–&nbsp;Nov&nbsp;30 |
 
 <p align="right"><a href="#categories">↑ Categories</a></p>
 
@@ -414,7 +415,7 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 
 No deals yet in Books, Creative Content and Home Automation. [Add the first one](https://blackfriday.mariuslandwehr.com/submit/).
 
-<!-- DEALS:END checksum:313b9a749b70 -->
+<!-- DEALS:END checksum:fabad6f7b96a -->
 
 ## Add your deal
 
