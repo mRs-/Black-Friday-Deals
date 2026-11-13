@@ -1,0 +1,8 @@
+name: "Guard by OffSeq"
+url: "https://guard.report/monitoring"
+description: "Website security and NIS2/GDPR compliance check covering TLS, security headers, DNS and SPF/DKIM/DMARC, with prioritised reports and continuous monitoring."
+discount: "50% off the full report (€39.90 → €19.95) and the first month of monitoring (€25 → €12.50 per domain)"
+percent: 50
+terms: "Applied automatically; monitoring renews at €25/month. Prices incl. 21% VAT. The basic scan is free."
+starts: "2026-11-13"
+ends: "2026-12-01"

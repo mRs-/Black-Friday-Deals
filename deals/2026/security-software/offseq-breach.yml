@@ -1,0 +1,9 @@
+name: "OffSeq Breach"
+url: "https://breach.offseq.com/#pricing"
+description: "Credential-exposure monitoring for your domains across leaked datasets, forums, Telegram channels and marketplaces, with alerts by email, Slack, webhook or API."
+discount: "50% off the first month: Basic €24 → €12, Pro €60 → €30, Enterprise €120 → €60"
+percent: 50
+code: "BLACK"
+terms: "First billing period of a new subscription only, then the regular price. Prices excl. VAT."
+starts: "2026-11-13"
+ends: "2026-12-02"
