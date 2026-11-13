@@ -19,9 +19,9 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 
 ## Categories
 
-**211 deals** in 19 categories. 💸 marks 50% off or more, 💰 less than 50%.
+**213 deals** in 19 categories. 💸 marks 50% off or more, 💰 less than 50%.
 
-🛠&nbsp;[Development Software](#development-software)&nbsp;`36` · 🤖&nbsp;[AI Tools](#ai-tools)&nbsp;`18` · 🌈&nbsp;[Marketing Software](#marketing-software)&nbsp;`10` · 🎩&nbsp;[Security Software](#security-software)&nbsp;`6` · 🎛&nbsp;[Utility Software](#utility-software)&nbsp;`49` · 📌&nbsp;[Productivity Software](#productivity-software)&nbsp;`31` · 🎥&nbsp;[Video Software](#video-software)&nbsp;`10` · 🎨&nbsp;[Graphic Software](#graphic-software)&nbsp;`9` · 🏝️&nbsp;[Lifestyle](#lifestyle)&nbsp;`7` · 🗣️&nbsp;[Social](#social)&nbsp;`1` · 🎓&nbsp;[Reference & Education](#reference--education)&nbsp;`4` · 👩‍🎓&nbsp;[Courses and Videos](#courses-and-videos)&nbsp;`7` · 📈&nbsp;[Business Software](#business-software)&nbsp;`6` · 🏃🏻‍♀️&nbsp;[Health & Fitness Software](#health--fitness-software)&nbsp;`4` · 🎁&nbsp;[Bundles](#bundles)&nbsp;`2` · 🤑&nbsp;[Finance](#finance)&nbsp;`2` · 🗺️&nbsp;[Navigation](#navigation)&nbsp;`1` · 🔎&nbsp;[SEO](#seo)&nbsp;`7` · 🕹&nbsp;[Games](#games)&nbsp;`1`
+🛠&nbsp;[Development Software](#development-software)&nbsp;`36` · 🤖&nbsp;[AI Tools](#ai-tools)&nbsp;`18` · 🌈&nbsp;[Marketing Software](#marketing-software)&nbsp;`10` · 🎩&nbsp;[Security Software](#security-software)&nbsp;`6` · 🎛&nbsp;[Utility Software](#utility-software)&nbsp;`50` · 📌&nbsp;[Productivity Software](#productivity-software)&nbsp;`31` · 🎥&nbsp;[Video Software](#video-software)&nbsp;`10` · 🎨&nbsp;[Graphic Software](#graphic-software)&nbsp;`9` · 🏝️&nbsp;[Lifestyle](#lifestyle)&nbsp;`7` · 🗣️&nbsp;[Social](#social)&nbsp;`1` · 🎓&nbsp;[Reference & Education](#reference--education)&nbsp;`4` · 👩‍🎓&nbsp;[Courses and Videos](#courses-and-videos)&nbsp;`7` · 📈&nbsp;[Business Software](#business-software)&nbsp;`7` · 🏃🏻‍♀️&nbsp;[Health & Fitness Software](#health--fitness-software)&nbsp;`4` · 🎁&nbsp;[Bundles](#bundles)&nbsp;`2` · 🤑&nbsp;[Finance](#finance)&nbsp;`2` · 🗺️&nbsp;[Navigation](#navigation)&nbsp;`1` · 🔎&nbsp;[SEO](#seo)&nbsp;`7` · 🕹&nbsp;[Games](#games)&nbsp;`1`
 
 <a id="development-software"></a>
 
@@ -184,6 +184,7 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 | 💰 | **[Ratio](https://useratio.app/?ref=bf-deals)**<br>Notepad calculator for Mac, Windows and Linux. Write sums like a note and see the answer as you type: 160+ live currencies, units, dates and time zones. | <b>30% off: 1 computer ~~$9.99~~ $6.99, 2 ~~$14.99~~ $10.49, 3 ~~$19.99~~ $13.99</b><br>`BLACKFRIDAY26` · one-time purchase, direct from the website · Nov&nbsp;24&nbsp;–&nbsp;Dec&nbsp;1 |
 | 💸 | **[WheelClick](https://wheelclick.app/?ref=mrsbf)**<br>Click with three fingers, and your Mac finally has a middle button: open links in new tabs, close tabs, pan in Blender and CAD. On the trackpad and, in the download from the site, the Magic Mouse. From the maker of MiddleClick. | <b>50% off the one-time unlock, ~~$4.99~~ $2.49</b><br>Applied automatically, no code needed, on wheelclick.app and the Mac App Store. The unlock adds the Magic Mouse, fn+click, Force Click, Middle-Drag, Autoscroll and per-app rules; three-finger click and tap on the trackpad are free forever · Nov&nbsp;20&nbsp;–&nbsp;Dec&nbsp;3 |
 | 💰 | **[DiskFox](https://diskfox.app/?ref=bf-mrs)**<br>See what's filling your Mac's storage, when it grew and why, with System Data split into named parts and a storage history. | <b>$7.99 instead of $10.99 (£5.99 / €6.99), one-time for 2 Macs</b><br>`BLACKFRIDAY` · Applied automatically on diskfox.app; type the code if buying from inside the app. 14-day free trial. · Nov&nbsp;27&nbsp;–&nbsp;Nov&nbsp;30 |
+| 💰 | **[Nomen](https://astrvm.app/apps/nomen/?utm_source=directory&utm_medium=deals&utm_campaign=nomen_directory_bfmrs_202611)**<br>Batch rename photos and files on Mac: name photos and videos by date taken, keep RAW, JPEG and sidecars together, see every new name first and undo later. | <b>Nomen Pro $6.99 → $4.99, one-time in-app purchase</b><br>No code: the lower price shows in the app and on the App Store. The free version has basic rules with no file limit. Local prices vary. · Nov&nbsp;26&nbsp;–&nbsp;Dec&nbsp;1 |
 
 <p align="right"><a href="#categories">↑ Categories</a></p>
 
@@ -331,6 +332,7 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 |  | **[Clappia](https://www.clappia.com/black-friday-offer)**<br>No-code platform for building business apps and automating workflows without programming. | <b>50% off yearly plans, including the standard 25% annual discount</b><br>`BLCKFRD26` · New customers only; annual plans only; valid until 11:59 PM GMT · until&nbsp;Dec&nbsp;31 |
 | 💸 | **[MotionOps](https://www.motionops.com/black-friday?utm_source=black-friday-deals-mrs&utm_medium=deal_listing&utm_campaign=bfcm_2026)**<br>Field service management software for contractor teams: proposals, crew scheduling, job costing, invoicing and payments in one place. | <b>50% off every monthly bill for 6 months, plans from $59 → $29.50/mo</b><br>No code; claim on the deal page by booking a short onboarding call; any plan (Solo, Go, Scale); new customers; free migration and setup · Nov&nbsp;11&nbsp;–&nbsp;Nov&nbsp;30 |
 | 💰 | **[Opskeet](https://opskeet.com)**<br>All-in-one customer support: AI agent that answers from your docs, live chat, shared inbox, tickets and a help center, in your brand. | <b>40% off all plans</b><br>`BF26` · Nov&nbsp;13&nbsp;–&nbsp;Dec&nbsp;2 |
+|  | **[Larderly full menu costing](https://bardachtechnologies.gumroad.com/l/larderly-full-menu-costing)**<br>Done-for-you menu costing: send your menu and supplier invoices and every dish is costed in the Larderly workbook (Excel / Google Sheets): plate cost, food cost % and target price, in 3 business days. | <b>Full menu costing (service + workbook) $79 → $49</b><br>`BLACKFRIDAY49` · Enter the code at checkout; one-time purchase; valid 2026-11-24 00:00 UTC to 2026-12-01 23:59 UTC · Nov&nbsp;24&nbsp;–&nbsp;Dec&nbsp;1 |
 
 <p align="right"><a href="#categories">↑ Categories</a></p>
 
@@ -407,7 +409,7 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 
 No deals yet in Books, Creative Content and Home Automation. [Add the first one](https://blackfriday.mariuslandwehr.com/submit/).
 
-<!-- DEALS:END checksum:1a9d19e28d3a -->
+<!-- DEALS:END checksum:1675faf8f2a2 -->
 
 ## Add your deal
 
