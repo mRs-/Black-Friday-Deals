@@ -160,6 +160,7 @@ Please follow the rules below:
 |🤑|[OffSeq Mirage](https://mirage.offseq.com/pricing)| Real-time honeypot threat intelligence with attacker attribution and STIX/MISP exports (web) | **50% OFF** the first 3 months of any plan with code **BFCM2026**: Starter €49 → €24.50/mo, Pro €149 → €74.50/mo, Business €399 → €199.50/mo for 3 months (excl. VAT) (Nov 13 – Nov 30)|
 |🤑|[Guard by OffSeq](https://guard.report/monitoring)| Website security and NIS2/GDPR compliance scanning with continuous monitoring (web) | **50% OFF** the full report and the first month of monitoring, no code needed: Full report €39.90 → €19.95, monitoring €25 → €12.50 first month per domain (incl. 21% VAT) (Nov 13 – Dec 1)|
 |🤑|[OffSeq Pulse](https://pulse.offseq.com/pricing)| EU-hosted device posture and NIS2/CIS compliance for Windows, macOS and Linux | **50% OFF** the first year or first month for new customers, no code needed: Pulse €4 → €2 per device/mo billed annually (€5 → €2.50 monthly), Managed €12 → €6 (excl. VAT), first 2 devices free (Nov 13 – Dec 2)|
+|🤑|[Orwellix](https://orwellix.com/lifetime-deal?utm_source=dqhieu-bf&utm_medium=deal-directory&utm_campaign=lifetime-deal-2026)| AI writing editor for the web where an agent edits your document and you accept or reject each change. | **58% OFF** Lifetime introductory price ($599 → $249), no code needed, first 300 buyers (Nov 12 – Dec 31)|
 
 ---
 
