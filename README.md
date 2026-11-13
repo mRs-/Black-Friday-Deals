@@ -19,9 +19,9 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 
 ## Categories
 
-**232 deals** in 20 categories. 💸 marks 50% off or more, 💰 less than 50%.
+**236 deals** in 20 categories. 💸 marks 50% off or more, 💰 less than 50%.
 
-🛠&nbsp;[Development Software](#development-software)&nbsp;`39` · 🤖&nbsp;[AI Tools](#ai-tools)&nbsp;`18` · 🌈&nbsp;[Marketing Software](#marketing-software)&nbsp;`10` · 🎩&nbsp;[Security Software](#security-software)&nbsp;`6` · 🎛&nbsp;[Utility Software](#utility-software)&nbsp;`51` · 📌&nbsp;[Productivity Software](#productivity-software)&nbsp;`36` · 🎥&nbsp;[Video Software](#video-software)&nbsp;`12` · 🎨&nbsp;[Graphic Software](#graphic-software)&nbsp;`11` · 🏝️&nbsp;[Lifestyle](#lifestyle)&nbsp;`9` · 🗣️&nbsp;[Social](#social)&nbsp;`1` · 🎓&nbsp;[Reference & Education](#reference--education)&nbsp;`4` · 👩‍🎓&nbsp;[Courses and Videos](#courses-and-videos)&nbsp;`7` · 📈&nbsp;[Business Software](#business-software)&nbsp;`7` · 🏃🏻‍♀️&nbsp;[Health & Fitness Software](#health--fitness-software)&nbsp;`4` · 🎁&nbsp;[Bundles](#bundles)&nbsp;`2` · 🎶&nbsp;[Creative Content](#creative-content)&nbsp;`1` · 🤑&nbsp;[Finance](#finance)&nbsp;`4` · 🗺️&nbsp;[Navigation](#navigation)&nbsp;`1` · 🔎&nbsp;[SEO](#seo)&nbsp;`8` · 🕹&nbsp;[Games](#games)&nbsp;`1`
+🛠&nbsp;[Development Software](#development-software)&nbsp;`39` · 🤖&nbsp;[AI Tools](#ai-tools)&nbsp;`19` · 🌈&nbsp;[Marketing Software](#marketing-software)&nbsp;`11` · 🎩&nbsp;[Security Software](#security-software)&nbsp;`6` · 🎛&nbsp;[Utility Software](#utility-software)&nbsp;`52` · 📌&nbsp;[Productivity Software](#productivity-software)&nbsp;`37` · 🎥&nbsp;[Video Software](#video-software)&nbsp;`12` · 🎨&nbsp;[Graphic Software](#graphic-software)&nbsp;`11` · 🏝️&nbsp;[Lifestyle](#lifestyle)&nbsp;`9` · 🗣️&nbsp;[Social](#social)&nbsp;`1` · 🎓&nbsp;[Reference & Education](#reference--education)&nbsp;`4` · 👩‍🎓&nbsp;[Courses and Videos](#courses-and-videos)&nbsp;`7` · 📈&nbsp;[Business Software](#business-software)&nbsp;`7` · 🏃🏻‍♀️&nbsp;[Health & Fitness Software](#health--fitness-software)&nbsp;`4` · 🎁&nbsp;[Bundles](#bundles)&nbsp;`2` · 🎶&nbsp;[Creative Content](#creative-content)&nbsp;`1` · 🤑&nbsp;[Finance](#finance)&nbsp;`4` · 🗺️&nbsp;[Navigation](#navigation)&nbsp;`1` · 🔎&nbsp;[SEO](#seo)&nbsp;`8` · 🕹&nbsp;[Games](#games)&nbsp;`1`
 
 <a id="development-software"></a>
 
@@ -95,6 +95,7 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 | 💰 | **[Vinaa](https://www.vinaa.ai/?utm_source=mrsbf)**<br>Native Mac app for chatting with cloud and local AI models. | <b>Up to 45% off lifetime licenses</b><br>Until 2026-11-30 |
 | 💸 | **[Wovo](https://wovo.one/?ref=mrs2026#pricing)**<br>One MCP that turns any AI into a multi-device agent across all your computers. | <b>50% off Pro and Max yearly: Pro $144 → $72/yr ($6/mo), Max $348 → $174/yr ($14.50/mo)</b><br>Applied automatically at checkout, no coupon code. Price locked for the subscription. New and existing users. Pro up to 5 computers; Max up to 20 computers + on-demand GitHub runners. · until&nbsp;Dec&nbsp;15 |
 |  | **[Orwellix](https://orwellix.com/lifetime-deal?utm_source=mrs-black-friday-deals&utm_medium=deal-directory&utm_campaign=lifetime-deal-2026)**<br>AI writing editor: an agent edits your document in place and you accept or reject every change, plus grammar, readability and plagiarism checks in one document. | <b>Premium $468/yr → Lifetime plan $249 once</b><br>No code needed. More AI credits, grammar characters and plagiarism words than Premium every month. One per account, only 300 deals · Nov&nbsp;12&nbsp;–&nbsp;Dec&nbsp;31 |
+| 💰 | **[Flit](https://flit.fyi/pricing?utm_source=mrsbf2026)**<br>Dictation for Mac that runs on the Mac: hold a key, talk, and clean text lands in any app. Local voice models for 1,600+ languages, a dictionary that learns, and file transcripts. | <b>40% off, from $9 (one year) and $23.40 (lifetime)</b><br>Applied automatically at checkout, no code needed. One-time purchase, 7-day free trial, 14-day refund. · Nov&nbsp;20&nbsp;–&nbsp;Nov&nbsp;30 |
 
 <p align="right"><a href="#categories">↑ Categories</a></p>
 
@@ -114,6 +115,7 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 | 💸 | **[Replug](https://replug.io/black-friday)**<br>Link management service for branded short links, bio-link pages and QR codes, aimed at marketers and agencies. | <b>60% off annual plans</b><br>No code; annual Essentials, Scale and Agency plans; monthly plans and extra Agency workspaces excluded; not combined with regional pricing; ends 11:59 PM Pacific · Nov&nbsp;20&nbsp;–&nbsp;Dec&nbsp;4 |
 |  | **[AppTrack Ninja](https://apptrack.ninja/pricing?utm_source=mrs-bf-deals&utm_medium=deal_list&utm_campaign=bfcm2026)**<br>App Store intelligence and ASO for indie developers: new and trending apps, keyword ranks, publisher portfolios, app transfers and competitors' Apple Search Ads, plus an MCP server. | <b>Lifetime Pro $89, one payment (normally $69.99/year)</b><br>Automatically shown as the Lifetime option on the pricing page; free plan available · until&nbsp;Nov&nbsp;30 |
 | 💰 | **[Evendeals](https://www.evendeals.com)**<br>Purchasing power parity pricing for SaaS and digital products. Shows location-based discounts in 150+ countries and blocks VPN abuse. | <b>40% off all plans</b><br>`BF2026` · the Unlimited lifetime deal is back for November only · Nov&nbsp;13&nbsp;–&nbsp;Dec&nbsp;2 |
+| 💸 | **[Ascope](https://ascope.app/?ref=mrs-bf-deals#pricing)**<br>ASO tool and keyword rank tracker for Mac and Windows: daily App Store and Google Play rankings in 50+ countries, with popularity and difficulty for every keyword, plus an MCP server. | <b>Lifetime licence $189 → $69, one payment</b><br>Automatically applied on the pricing page, no code needed; 14-day money-back guarantee · Nov&nbsp;1&nbsp;–&nbsp;Nov&nbsp;30 |
 
 <p align="right"><a href="#categories">↑ Categories</a></p>
 
@@ -189,6 +191,7 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 | 💰 | **[DiskFox](https://diskfox.app/?ref=bf-mrs)**<br>See what's filling your Mac's storage, when it grew and why, with System Data split into named parts and a storage history. | <b>$7.99 instead of $10.99 (£5.99 / €6.99), one-time for 2 Macs</b><br>`BLACKFRIDAY` · Applied automatically on diskfox.app; type the code if buying from inside the app. 14-day free trial. · Nov&nbsp;27&nbsp;–&nbsp;Nov&nbsp;30 |
 | 💰 | **[Nomen](https://astrvm.app/apps/nomen/?utm_source=directory&utm_medium=deals&utm_campaign=nomen_directory_bfmrs_202611)**<br>Batch rename photos and files on Mac: name photos and videos by date taken, keep RAW, JPEG and sidecars together, see every new name first and undo later. | <b>Nomen Pro $6.99 → $4.99, one-time in-app purchase</b><br>No code: the lower price shows in the app and on the App Store. The free version has basic rules with no file limit. Local prices vary. · Nov&nbsp;26&nbsp;–&nbsp;Dec&nbsp;1 |
 | 💸 | **[OptiClear](https://opticlear.app/?ref=bf-mrs)**<br>Storage cleaner for Mac: finds caches, app leftovers, duplicates and large or old files, and uninstalls apps. You choose what gets removed. Free to scan, on the Mac App Store. | <b>Lifetime $99.99 → $39.99</b><br>One-time in-app purchase on the Mac App Store; the price is applied automatically, no code. · Nov&nbsp;16&nbsp;–&nbsp;Dec&nbsp;1 |
+| 💰 | **[Vitals](https://vitalsmac.com/pricing?utm_source=mrsbf2026)**<br>Mac system monitor that shows apps, not processes: CPU, memory, energy, disk, network and GPU per app, with a year of history, dev servers and ports, and a menu bar view. | <b>40% off all plans, from $7.20 (one year) and $11.40 (lifetime)</b><br>Applied automatically at checkout, no code needed. One-time purchase, 3-day free trial. · Nov&nbsp;20&nbsp;–&nbsp;Nov&nbsp;30 |
 
 <p align="right"><a href="#categories">↑ Categories</a></p>
 
@@ -234,6 +237,7 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 | 💰 | **[Spencer for macOS](https://macspencer.app/?utm_source=Black-Friday-Deals&utm_medium=github&utm_campaign=Black-Friday-Deals)**<br>Restore your entire workspace across displays and Spaces — including native Full Screen. | <b>40% off Lifetime ($14.99)</b><br>`BLK26` · Nov&nbsp;12&nbsp;–&nbsp;Dec&nbsp;6 |
 | 💸 | **[Trickster](https://tricksterapp.com/?utm_source=github&utm_medium=referral&utm_campaign=black_friday_2026&utm_content=mrs_black_friday_deals)**<br>Your recently used files and links at your fingertips. Trickster is a powerful Mac app that you will use dozens of times a day. It will boost your productivity by eliminating the "Where's that file I just worked on" question. | <b>Half price (one-time purchase)</b><br>Nov&nbsp;20&nbsp;–&nbsp;Nov&nbsp;30 |
 | 💰 | **[Snippety](https://apps.apple.com/us/app/snippety-snippets-manager/id1530751461?platform=mac)**<br>The most powerful text expander for Mac and iPhone | <b>40% off lifetime deal ($49.99 -> $29.99)</b><br>Nov&nbsp;13&nbsp;–&nbsp;Nov&nbsp;30 |
+| 💰 | **[Levers](https://leversmac.com/pricing?utm_source=mrsbf2026)**<br>Sixty Mac switches and actions in the menu bar, like Dark Mode, Hide the Notch and Keep Awake, with hotkeys, modes that switch many at once, and a palette on ⌃⌥Space. | <b>40% off, from $5.40 for one Mac</b><br>Applied automatically at checkout, no code needed. One-time purchase with every update, 14-day refund. · Nov&nbsp;20&nbsp;–&nbsp;Nov&nbsp;30 |
 
 <p align="right"><a href="#categories">↑ Categories</a></p>
 
@@ -437,7 +441,7 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 
 No deals yet in Books and Home Automation. [Add the first one](https://blackfriday.mariuslandwehr.com/submit/).
 
-<!-- DEALS:END checksum:076173308908 -->
+<!-- DEALS:END checksum:ee406d705b41 -->
 
 ## Add your deal
 
