@@ -143,6 +143,9 @@ Please follow the rules below:
 |💸| [Animation Icons](https://www.mingcute.com/animation?utm_source=dqhieu) | 120+ lively and smooth animated icons | **30% OFF** ($25 → $17.5) with code **BF2026** (Nov 15 - Dec 5) |
 |💸| [Weather Icons](https://mgcweather.framer.website/?utm_source=dqhieu) | 120 graceful weather icons | **30% OFF** ($25 → $17.5) with code **BF2026** (Nov 15 - Dec 5) |
 |💸|[KwaFlux](https://kwaflux.com/pricing?utm_source=github&utm_medium=referral&utm_campaign=github-dqhieu-bf2026)| Local AI video, photo and audio enhancer for Mac (Apple silicon) and Windows | **Up to 35% OFF**: Perpetual License $129.99 (was $199.99), 1 Year $59.99 first year, 1 Month $19.99 first month, no code needed (Nov 27 – Nov 30, US Pacific)|
+|💸|[Outlier](https://outlier.host/?ref=dqhieu)| Runs open AI models on your own Mac, so your chats and code stay on it, even offline: chat, a coding agent for your own codebase, and research with cited sources. Free to start. | **31% OFF** our November price: $16.99 once instead of $24.50, no code needed (through Dec 2, then $29)|
+|💸|[Check Engine SEO](https://checkengineseo.com/?ref=dqhieu)| Desktop SEO audit for Mac and Windows: 99 checks, including whether AI crawlers like GPTBot can read your site, ranked into a fix plan with the markup to paste and a client-ready PDF. Free version available. | **32% OFF** our November price: $19.99 once instead of $29.50, no code needed (through Dec 2, then $39)|
+|💸|[Crisp](https://crispvideo.app/pricing/?ref=dqhieu)| Restores, denoises and upscales old video and VHS transfers to 4K on your own Mac or Windows PC, offline, with a timeline editor. Photos too on Mac. Free version available. | **31% OFF** our November price: $9.99 once instead of $14.50, no code needed (through Dec 2, then $19)|
 
 ---
 
