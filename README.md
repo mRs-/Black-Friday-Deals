@@ -140,6 +140,7 @@ Please follow the rules below:
 |🤑|[Sip](https://sipapp.io/blackfriday/)| Native color picker for macOS that helps collect, organize, edit and share colors and palettes | **50% OFF** with code **BLACKFRIDAY26** (Nov 27 – 29) or **CYBERMONDAY26** (Nov 30 – Dec 2)|
 |💸|[Outlier](https://outlier.host/?ref=dqhieu)| Runs open AI models on your own Mac, so your chats and code stay on it, even offline: chat, a coding agent for your own codebase, and research with cited sources. Free to start. | **31% OFF** our November price: $16.99 once instead of $24.50, no code needed (through Dec 2, then $29)|
 |💸|[Check Engine SEO](https://checkengineseo.com/?ref=dqhieu)| Desktop SEO audit for Mac and Windows: 99 checks, including whether AI crawlers like GPTBot can read your site, ranked into a fix plan with the markup to paste and a client-ready PDF. Free version available. | **32% OFF** our November price: $19.99 once instead of $29.50, no code needed (through Dec 2, then $39)|
+|💸|[Crisp](https://crispvideo.app/pricing/?ref=dqhieu)| Restores, denoises and upscales old video and VHS transfers to 4K on your own Mac or Windows PC, offline, with a timeline editor. Photos too on Mac. Free version available. | **31% OFF** our November price: $9.99 once instead of $14.50, no code needed (through Dec 2, then $19)|
 
 ---
 
