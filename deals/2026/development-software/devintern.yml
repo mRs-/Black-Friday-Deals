@@ -1,0 +1,12 @@
+# Required
+name: "DevIntern"
+url: "https://devintern.com/pricing/"
+description: "Self-hosted worker that turns tracker tickets into PRs with your own coding agent across multiple repos, plus automations."
+discount: "40% off the first invoice"
+
+# Optional
+percent: 40
+code: "BLACKFRIDAY26"
+terms: "Team $99 → $59.40 first month or $990 → $594 first year; Business $299 → $179.40 first month or $2,990 → $1,794 first year; Supporter License $99 → $59.40. Then regular price."
+starts: "2026-11-20"
+ends: "2026-12-01"
