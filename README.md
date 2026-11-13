@@ -19,9 +19,9 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 
 ## Categories
 
-**219 deals** in 19 categories. 💸 marks 50% off or more, 💰 less than 50%.
+**221 deals** in 19 categories. 💸 marks 50% off or more, 💰 less than 50%.
 
-🛠&nbsp;[Development Software](#development-software)&nbsp;`38` · 🤖&nbsp;[AI Tools](#ai-tools)&nbsp;`18` · 🌈&nbsp;[Marketing Software](#marketing-software)&nbsp;`10` · 🎩&nbsp;[Security Software](#security-software)&nbsp;`6` · 🎛&nbsp;[Utility Software](#utility-software)&nbsp;`50` · 📌&nbsp;[Productivity Software](#productivity-software)&nbsp;`33` · 🎥&nbsp;[Video Software](#video-software)&nbsp;`11` · 🎨&nbsp;[Graphic Software](#graphic-software)&nbsp;`10` · 🏝️&nbsp;[Lifestyle](#lifestyle)&nbsp;`7` · 🗣️&nbsp;[Social](#social)&nbsp;`1` · 🎓&nbsp;[Reference & Education](#reference--education)&nbsp;`4` · 👩‍🎓&nbsp;[Courses and Videos](#courses-and-videos)&nbsp;`7` · 📈&nbsp;[Business Software](#business-software)&nbsp;`7` · 🏃🏻‍♀️&nbsp;[Health & Fitness Software](#health--fitness-software)&nbsp;`4` · 🎁&nbsp;[Bundles](#bundles)&nbsp;`2` · 🤑&nbsp;[Finance](#finance)&nbsp;`2` · 🗺️&nbsp;[Navigation](#navigation)&nbsp;`1` · 🔎&nbsp;[SEO](#seo)&nbsp;`7` · 🕹&nbsp;[Games](#games)&nbsp;`1`
+🛠&nbsp;[Development Software](#development-software)&nbsp;`38` · 🤖&nbsp;[AI Tools](#ai-tools)&nbsp;`18` · 🌈&nbsp;[Marketing Software](#marketing-software)&nbsp;`10` · 🎩&nbsp;[Security Software](#security-software)&nbsp;`6` · 🎛&nbsp;[Utility Software](#utility-software)&nbsp;`50` · 📌&nbsp;[Productivity Software](#productivity-software)&nbsp;`34` · 🎥&nbsp;[Video Software](#video-software)&nbsp;`11` · 🎨&nbsp;[Graphic Software](#graphic-software)&nbsp;`10` · 🏝️&nbsp;[Lifestyle](#lifestyle)&nbsp;`7` · 🗣️&nbsp;[Social](#social)&nbsp;`1` · 🎓&nbsp;[Reference & Education](#reference--education)&nbsp;`4` · 👩‍🎓&nbsp;[Courses and Videos](#courses-and-videos)&nbsp;`7` · 📈&nbsp;[Business Software](#business-software)&nbsp;`7` · 🏃🏻‍♀️&nbsp;[Health & Fitness Software](#health--fitness-software)&nbsp;`4` · 🎁&nbsp;[Bundles](#bundles)&nbsp;`2` · 🤑&nbsp;[Finance](#finance)&nbsp;`3` · 🗺️&nbsp;[Navigation](#navigation)&nbsp;`1` · 🔎&nbsp;[SEO](#seo)&nbsp;`7` · 🕹&nbsp;[Games](#games)&nbsp;`1`
 
 <a id="development-software"></a>
 
@@ -229,6 +229,7 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 | 💰 | **[Daily Time Tracking](https://dailytimetracking.com/?utm_source=bf2026-github-mrs)**<br>Daily tracks time on Mac by periodically asking what you're doing, without timers or activity monitoring. Export CSV, JSON and PDF; integrate via API or MCP; automate via Zapier or AppleScript. | <b>Up to 30% off Annual and Lifetime: USD/EUR 39.99 to 29.99 for one year; 99.99 to 69.99 Lifetime</b><br>`DAILYBF2026` · Code applies to Annual only: one upcoming year, then standard renewal; new/existing/expired subscribers. Compare preserved rates before redeeming. Lifetime: automatic in-app discount, no code needed. Local prices/savings vary. · Nov&nbsp;23&nbsp;–&nbsp;Nov&nbsp;30 |
 | 💰 | **[SpamSieve](https://c-command.com/store/sale)**<br>Add powerful spam filtering to the e-mail client on your Mac | <b>25% off</b><br>`BLACKFRIDAY2026` |
 | 💰 | **[EagleFiler](https://c-command.com/store/sale)**<br>Organize files, archive e-mails, save Web pages and notes, search everything (Mac) | <b>25% off</b><br>`BLACKFRIDAY2026` |
+| 💰 | **[Spencer for macOS](https://macspencer.app/?utm_source=Black-Friday-Deals&utm_medium=github&utm_campaign=Black-Friday-Deals)**<br>Restore your entire workspace across displays and Spaces — including native Full Screen. | <b>40% off Lifetime ($14.99)</b><br>`BLK26` · Nov&nbsp;12&nbsp;–&nbsp;Dec&nbsp;6 |
 
 <p align="right"><a href="#categories">↑ Categories</a></p>
 
@@ -374,6 +375,7 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 | :-: | --- | --- |
 | 💰 | **[Wealthfolio Connect](https://wealthfolio.app/connect/)**<br>Encrypted sync and backups for Wealthfolio; Essentials/Duo add supported brokerage imports | <b>35% off</b><br>`BLACKFRIDAY35` · annual Basic, Essentials and Duo; first year only; renews at regular price; Nov 15–30, 2026, ends 11:59 p.m. ET; core app stays free |
 | 💸 | **[SubManager](https://submanager.app)**<br>Track subscriptions across iOS, macOS and visionOS and never miss a renewal. | <b>50% off</b><br>Discount available from Nov 27 to Nov 30. During the discount period go to Settings -> SubManager+ to purchase. |
+| 💸 | **[OrbySystems](https://orbysystems.ai/offers)**<br>Private financial AI that runs on your laptop. No forms to fill in: add your bank and brokerage statements and see answers in about five minutes. Spending, real investment returns and a retirement outlook, every figure traced to its statement. | <b>75% off Plus and Premium: Plus ~~$49.95~~ $12.49, Premium ~~$249.95~~ $62.49</b><br>`BLACKFRIDAY26` · Enter the code at checkout. Covers 2027 and all earlier statement years. Premium is US only. Prices before tax. Everyday plan is free. · until&nbsp;Nov&nbsp;30 |
 
 <p align="right"><a href="#categories">↑ Categories</a></p>
 
@@ -415,7 +417,7 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 
 No deals yet in Books, Creative Content and Home Automation. [Add the first one](https://blackfriday.mariuslandwehr.com/submit/).
 
-<!-- DEALS:END checksum:fabad6f7b96a -->
+<!-- DEALS:END checksum:f621067dc2d1 -->
 
 ## Add your deal
 
