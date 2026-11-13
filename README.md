@@ -148,6 +148,7 @@ Please follow the rules below:
 |💸|[Crisp](https://crispvideo.app/pricing/?ref=dqhieu)| Restores, denoises and upscales old video and VHS transfers to 4K on your own Mac or Windows PC, offline, with a timeline editor. Photos too on Mac. Free version available. | **31% OFF** our November price: $9.99 once instead of $14.50, no code needed (through Dec 2, then $19)|
 |🤑|[Get Your First Client](https://getyourfirstclient.freelancerpath.com/?ref=black-friday-deals)| Step-by-step guide plus Notion templates (proposal, contract, invoice, CRM) to land your first freelance client. | **50% OFF** with code **BLACK** ($49.99 → $24.99), limited redemptions (until Dec 1)|
 
+|💸|[DevIntern](https://devintern.com/pricing/)| Self-hosted worker that turns tracker tickets into PRs with your own coding agent across multiple repos, plus automations. | **40% OFF** the first invoice with code **BLACKFRIDAY26**. Team $99 → $59.40 first month or $990 → $594 first year; Business $299 → $179.40 first month or $2,990 → $1,794 first year; Supporter License $99 → $59.40 (Nov 20 – Dec 1)|
 ---
 
 # Special Request 
