@@ -142,6 +142,7 @@ Please follow the rules below:
 |💸| [MingCute UI](https://ui.mingcute.com/?utm_source=dqhieu) | Design system and UI Kit for Figma | **30% OFF** ($59 → $41) with code **BF2026** (Nov 15 - Dec 5) |
 |💸| [Animation Icons](https://www.mingcute.com/animation?utm_source=dqhieu) | 120+ lively and smooth animated icons | **30% OFF** ($25 → $17.5) with code **BF2026** (Nov 15 - Dec 5) |
 |💸| [Weather Icons](https://mgcweather.framer.website/?utm_source=dqhieu) | 120 graceful weather icons | **30% OFF** ($25 → $17.5) with code **BF2026** (Nov 15 - Dec 5) |
+|💸|[KwaFlux](https://kwaflux.com/pricing?utm_source=github&utm_medium=referral&utm_campaign=github-dqhieu-bf2026)| Local AI video, photo and audio enhancer for Mac (Apple silicon) and Windows | **Up to 35% OFF**: Perpetual License $129.99 (was $199.99), 1 Year $59.99 first year, 1 Month $19.99 first month, no code needed (Nov 27 – Nov 30, US Pacific)|
 
 ---
 
