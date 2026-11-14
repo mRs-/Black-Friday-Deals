@@ -1,0 +1,9 @@
+name: "SaaSykit"
+url: "https://saasykit.com/"
+description: "Production-ready Laravel SaaS boilerplate with billing (Stripe, Paddle, Lemon Squeezy), auth, admin panel, multi-tenancy and SaaS metrics. Pay once, build unlimited projects."
+discount: "50% off all versions: SaaSykit ~~$239~~ $119.50, Tenancy ~~$269~~ $134.50, Complete ~~$299~~ $149.50"
+percent: 50
+code: "BLACKFRIDAY26"
+terms: "Also applied automatically at checkout; one-time purchase with lifetime updates"
+starts: "2026-11-14"
+ends: "2026-12-06"
