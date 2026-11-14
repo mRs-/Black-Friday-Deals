@@ -19,9 +19,9 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 
 ## Categories
 
-**248 deals** in 20 categories. 💸 marks 50% off or more, 💰 less than 50%.
+**251 deals** in 20 categories. 💸 marks 50% off or more, 💰 less than 50%.
 
-🛠&nbsp;[Development Software](#development-software)&nbsp;`39` · 🤖&nbsp;[AI Tools](#ai-tools)&nbsp;`20` · 🌈&nbsp;[Marketing Software](#marketing-software)&nbsp;`12` · 🎩&nbsp;[Security Software](#security-software)&nbsp;`11` · 🎛&nbsp;[Utility Software](#utility-software)&nbsp;`52` · 📌&nbsp;[Productivity Software](#productivity-software)&nbsp;`38` · 🎥&nbsp;[Video Software](#video-software)&nbsp;`14` · 🎨&nbsp;[Graphic Software](#graphic-software)&nbsp;`12` · 🏝️&nbsp;[Lifestyle](#lifestyle)&nbsp;`9` · 🗣️&nbsp;[Social](#social)&nbsp;`1` · 🎓&nbsp;[Reference & Education](#reference--education)&nbsp;`4` · 👩‍🎓&nbsp;[Courses and Videos](#courses-and-videos)&nbsp;`7` · 📈&nbsp;[Business Software](#business-software)&nbsp;`7` · 🏃🏻‍♀️&nbsp;[Health & Fitness Software](#health--fitness-software)&nbsp;`4` · 🎁&nbsp;[Bundles](#bundles)&nbsp;`2` · 🎶&nbsp;[Creative Content](#creative-content)&nbsp;`2` · 🤑&nbsp;[Finance](#finance)&nbsp;`4` · 🗺️&nbsp;[Navigation](#navigation)&nbsp;`1` · 🔎&nbsp;[SEO](#seo)&nbsp;`8` · 🕹&nbsp;[Games](#games)&nbsp;`1`
+🛠&nbsp;[Development Software](#development-software)&nbsp;`39` · 🤖&nbsp;[AI Tools](#ai-tools)&nbsp;`20` · 🌈&nbsp;[Marketing Software](#marketing-software)&nbsp;`12` · 🎩&nbsp;[Security Software](#security-software)&nbsp;`11` · 🎛&nbsp;[Utility Software](#utility-software)&nbsp;`52` · 📌&nbsp;[Productivity Software](#productivity-software)&nbsp;`40` · 🎥&nbsp;[Video Software](#video-software)&nbsp;`14` · 🎨&nbsp;[Graphic Software](#graphic-software)&nbsp;`12` · 🏝️&nbsp;[Lifestyle](#lifestyle)&nbsp;`9` · 🗣️&nbsp;[Social](#social)&nbsp;`1` · 🎓&nbsp;[Reference & Education](#reference--education)&nbsp;`4` · 👩‍🎓&nbsp;[Courses and Videos](#courses-and-videos)&nbsp;`7` · 📈&nbsp;[Business Software](#business-software)&nbsp;`7` · 🏃🏻‍♀️&nbsp;[Health & Fitness Software](#health--fitness-software)&nbsp;`4` · 🎁&nbsp;[Bundles](#bundles)&nbsp;`2` · 🎶&nbsp;[Creative Content](#creative-content)&nbsp;`2` · 🤑&nbsp;[Finance](#finance)&nbsp;`4` · 🗺️&nbsp;[Navigation](#navigation)&nbsp;`1` · 🔎&nbsp;[SEO](#seo)&nbsp;`8` · 🕹&nbsp;[Games](#games)&nbsp;`2`
 
 <a id="development-software"></a>
 
@@ -246,6 +246,8 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 | 💰 | **[Snippety](https://apps.apple.com/us/app/snippety-snippets-manager/id1530751461?platform=mac)**<br>The most powerful text expander for Mac and iPhone | <b>40% off lifetime deal ($49.99 -> $29.99)</b><br>Nov&nbsp;13&nbsp;–&nbsp;Nov&nbsp;30 |
 | 💰 | **[Levers](https://leversmac.com/pricing?utm_source=mrsbf2026)**<br>Sixty Mac switches and actions in the menu bar, like Dark Mode, Hide the Notch and Keep Awake, with hotkeys, modes that switch many at once, and a palette on ⌃⌥Space. | <b>40% off, from $5.40 for one Mac</b><br>Applied automatically at checkout, no code needed. One-time purchase with every update, 14-day refund. · Nov&nbsp;20&nbsp;–&nbsp;Nov&nbsp;30 |
 | 💸 | **[SinceWhen: Days Since Tracker](https://devapt.com/sincewhen/?utm_source=mrsbf)**<br>SinceWhen is a one-tap tracker for things you do now and then, like haircuts, meds and oil changes. It learns your rhythm and nudges you before anything slips. No streaks, no account, no ads. | <b>50% off the Lifetime plan ($59.99 → $29.99).</b><br>Nov&nbsp;20&nbsp;–&nbsp;Nov&nbsp;30 |
+| 💰 | **[SimpleFill](https://simplefill.app)**<br>Text expansion, AI actions, and one-click form filling in your browser. Works in Chrome, Firefox, Edge, and Safari. | <b>25% off ($29 → $21.75)</b><br>`LAUNCH` · one-time payment, Standard and Pro plans; Chrome, Firefox, and Edge checkout (Safari is sold on the Mac App Store) · Nov&nbsp;10&nbsp;–&nbsp;Dec&nbsp;7 |
+| 💰 | **[MonoLisa – font follows function](https://www.monolisa.dev/)**<br>A typeface built for you, the developers and creatives, Monolisa improves code legibility and provides a clear sans serif for all design tasks. | <b>30% off any plan</b><br>Nov&nbsp;20&nbsp;–&nbsp;Nov&nbsp;29 |
 
 <p align="right"><a href="#categories">↑ Categories</a></p>
 
@@ -448,12 +450,13 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 |  | Name | Offer |
 | :-: | --- | --- |
 | 💸 | **[Wavy Road](https://apps.apple.com/dk/app/wavy-road-endless-driving/id6804942333)**<br>Endless driving game for iPhone where you steer the road and dodge obstacles. | <b>Up to 50% off Unlimited Play and vehicles</b><br>Automatically applied to in-app purchases. No code needed. November 24–30, 2026. |
+| 💸 | **[Puzelo](https://apps.apple.com/app/id6807589117)**<br>Seven kinds of logic puzzles in one app for iPhone and iPad (Sudoku, Nonogram, Kakuro, Binary, Futoshiki, Skyscrapers, Lanterns), with no ads and fully playable offline. | <b>50% off the one-time in-app purchase Puzelo Complete, which unlocks all levels and designs ($17.99 → $8.99, €19.99 → €9.99)</b><br>One-time purchase, no subscription. The app is free to download; the reduced price shows in the app automatically. · Nov&nbsp;27&nbsp;–&nbsp;Dec&nbsp;1 |
 
 <p align="right"><a href="#categories">↑ Categories</a></p>
 
 No deals yet in Books and Home Automation. [Add the first one](https://blackfriday.mariuslandwehr.com/submit/).
 
-<!-- DEALS:END checksum:5edb226ff006 -->
+<!-- DEALS:END checksum:4a4ab25ac917 -->
 
 ## Add your deal
 
