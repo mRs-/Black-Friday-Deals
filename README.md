@@ -19,9 +19,9 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 
 ## Categories
 
-**258 deals** in 20 categories. 💸 marks 50% off or more, 💰 less than 50%.
+**261 deals** in 20 categories. 💸 marks 50% off or more, 💰 less than 50%.
 
-🛠&nbsp;[Development Software](#development-software)&nbsp;`39` · 🤖&nbsp;[AI Tools](#ai-tools)&nbsp;`21` · 🌈&nbsp;[Marketing Software](#marketing-software)&nbsp;`12` · 🎩&nbsp;[Security Software](#security-software)&nbsp;`11` · 🎛&nbsp;[Utility Software](#utility-software)&nbsp;`53` · 📌&nbsp;[Productivity Software](#productivity-software)&nbsp;`41` · 🎥&nbsp;[Video Software](#video-software)&nbsp;`15` · 🎨&nbsp;[Graphic Software](#graphic-software)&nbsp;`12` · 🏝️&nbsp;[Lifestyle](#lifestyle)&nbsp;`9` · 🗣️&nbsp;[Social](#social)&nbsp;`1` · 🎓&nbsp;[Reference & Education](#reference--education)&nbsp;`4` · 👩‍🎓&nbsp;[Courses and Videos](#courses-and-videos)&nbsp;`7` · 📈&nbsp;[Business Software](#business-software)&nbsp;`7` · 🏃🏻‍♀️&nbsp;[Health & Fitness Software](#health--fitness-software)&nbsp;`7` · 🎁&nbsp;[Bundles](#bundles)&nbsp;`2` · 🎶&nbsp;[Creative Content](#creative-content)&nbsp;`2` · 🤑&nbsp;[Finance](#finance)&nbsp;`4` · 🗺️&nbsp;[Navigation](#navigation)&nbsp;`1` · 🔎&nbsp;[SEO](#seo)&nbsp;`8` · 🕹&nbsp;[Games](#games)&nbsp;`2`
+🛠&nbsp;[Development Software](#development-software)&nbsp;`39` · 🤖&nbsp;[AI Tools](#ai-tools)&nbsp;`21` · 🌈&nbsp;[Marketing Software](#marketing-software)&nbsp;`12` · 🎩&nbsp;[Security Software](#security-software)&nbsp;`12` · 🎛&nbsp;[Utility Software](#utility-software)&nbsp;`54` · 📌&nbsp;[Productivity Software](#productivity-software)&nbsp;`41` · 🎥&nbsp;[Video Software](#video-software)&nbsp;`15` · 🎨&nbsp;[Graphic Software](#graphic-software)&nbsp;`12` · 🏝️&nbsp;[Lifestyle](#lifestyle)&nbsp;`9` · 🗣️&nbsp;[Social](#social)&nbsp;`1` · 🎓&nbsp;[Reference & Education](#reference--education)&nbsp;`4` · 👩‍🎓&nbsp;[Courses and Videos](#courses-and-videos)&nbsp;`8` · 📈&nbsp;[Business Software](#business-software)&nbsp;`7` · 🏃🏻‍♀️&nbsp;[Health & Fitness Software](#health--fitness-software)&nbsp;`7` · 🎁&nbsp;[Bundles](#bundles)&nbsp;`2` · 🎶&nbsp;[Creative Content](#creative-content)&nbsp;`2` · 🤑&nbsp;[Finance](#finance)&nbsp;`4` · 🗺️&nbsp;[Navigation](#navigation)&nbsp;`1` · 🔎&nbsp;[SEO](#seo)&nbsp;`8` · 🕹&nbsp;[Games](#games)&nbsp;`2`
 
 <a id="development-software"></a>
 
@@ -139,6 +139,7 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 | 💸 | **[OffSeq Mirage](https://mirage.offseq.com/pricing)**<br>Real-time honeypot threat intelligence from a worldwide sensor fleet, with attacker clustering, campaign attribution, session replay, blocklists and STIX/MISP exports. | <b>50% off the first 3 months: Starter €49 → €24.50/mo, Pro €149 → €74.50/mo, Business €399 → €199.50/mo</b><br>`BFCM2026` · Code is pre-filled at checkout; first 3 months, then the regular price. Prices excl. VAT. Free plan with 1 honeypot. · Nov&nbsp;13&nbsp;–&nbsp;Nov&nbsp;30 |
 | 💸 | **[OffSeq Pulse](https://pulse.offseq.com/pricing)**<br>EU-hosted device posture for Windows, macOS and Linux: 12 hardening checks mapped to NIS2, CIS v8.1 and Latvian Cabinet Regulation No. 397, with one-click fixes and audit evidence. | <b>50% off the first year or month: €4 → €2 per device/mo billed annually, Managed €12 → €6</b><br>Applied automatically for new customers, then the regular price. Monthly billing €5 → €2.50. Prices excl. VAT. First 2 devices free. · Nov&nbsp;13&nbsp;–&nbsp;Dec&nbsp;2 |
 | 💸 | **[OffSeq Threat Radar](https://radar.offseq.com/pricing)**<br>Live threat intelligence for CVEs, actively exploited vulnerabilities (CISA KEV), malware and attack patterns, with API, RSS, SBOM scans and alerts. | <b>50% off the first month or first year: Individual €120 → €60/yr, Base €490 → €245/yr, Pro €1,490 → €745/yr</b><br>Applied automatically; first payment only, renewals at the regular price. Prices incl. 21% VAT. Free plan with API access. · Nov&nbsp;13&nbsp;–&nbsp;Dec&nbsp;1 |
+| 💰 | **[Zero-Trace Ship Kit](https://zero-trace-ship-kit.zeus-lab-global.workers.dev/?utm_source=mrsdeals)**<br>Git hooks that stop commit and push when a supported leak pattern is found: keys, home paths, private keys, e-mails and photo metadata. Python standard library, no network. | <b>40% off the Solo licence, buy once ($39 → $23.40)</b><br>`FOUNDER10` · Enter the code at checkout; first 100 uses · Nov&nbsp;14&nbsp;–&nbsp;Nov&nbsp;30 |
 
 <p align="right"><a href="#categories">↑ Categories</a></p>
 
@@ -201,6 +202,7 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 | 💸 | **[OptiClear](https://opticlear.app/?ref=bf-mrs)**<br>Storage cleaner for Mac: finds caches, app leftovers, duplicates and large or old files, and uninstalls apps. You choose what gets removed. Free to scan, on the Mac App Store. | <b>Lifetime $99.99 → $39.99</b><br>One-time in-app purchase on the Mac App Store; the price is applied automatically, no code. · Nov&nbsp;16&nbsp;–&nbsp;Dec&nbsp;1 |
 | 💰 | **[Vitals](https://vitalsmac.com/pricing?utm_source=mrsbf2026)**<br>Mac system monitor that shows apps, not processes: CPU, memory, energy, disk, network and GPU per app, with a year of history, dev servers and ports, and a menu bar view. | <b>40% off all plans, from $7.20 (one year) and $11.40 (lifetime)</b><br>Applied automatically at checkout, no code needed. One-time purchase, 3-day free trial. · Nov&nbsp;20&nbsp;–&nbsp;Nov&nbsp;30 |
 |  | **[Diskivo](https://diskivo.app/en)**<br>macOS utility to see what takes up disk space, review files before cleanup, and find duplicates and app leftovers. Scans run locally. | <b>Diskivo Pro Perpetual: €69.99 → €19.00</b><br>`BLACKFRIDAY2026` · Enter the code at checkout. One-time purchase for one Mac, including updates within the purchased major version. · Nov&nbsp;13&nbsp;–&nbsp;Dec&nbsp;1 |
+| 💰 | **[BetterStage](https://betterstage.app/pricing?utm_source=mrsbf&utm_campaign=bf2026)**<br>Window and workspace manager for macOS: named Stages that span all your monitors, automatic tiling with tabs, a Stage-aware Cmd+Tab switcher, and Saved Workspaces. | <b>20% off lifetime Pro ($19.99 → $15.99 for 1 Mac, $39.99 → $31.99 for 3, $49.99 → $39.99 for 5)</b><br>`BLACKFRIDAY20` · one-time purchase, not a subscription; enter the code at checkout · Nov&nbsp;23&nbsp;–&nbsp;Nov&nbsp;30 |
 
 <p align="right"><a href="#categories">↑ Categories</a></p>
 
@@ -353,6 +355,7 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 |  | **[Flavio Copes AI Workshop and Masterclasses](https://flaviocopes.com/black-friday/)**<br>Online programming courses by Flavio Copes: an AI workshop plus TypeScript, React, Git and AHA Stack masterclasses. | <b>AI Workshop $299 → $99; four masterclasses $49 together (usually $396 bought individually)</b><br>No code; join the email list and the purchase link is sent when the offers open · from&nbsp;Nov&nbsp;23 |
 | 💸 | **[Erla: language learning in 22 languages](https://erla.app/black-friday)**<br>Learn a language by understanding it: listen to and read short stories at your level, watch short videos, then talk with an AI teacher. One app per language, 22 languages, iPhone & iPad. | <b>7 days free, then 70% off the first year of Erla PRO ($18 instead of $59.99)</b><br>`BLACKFRIDAY` · Annual plan, first year; new subscribers only; iPhone & iPad; works in all 22 language apps; renews at the regular price, cancel anytime. Redeem via erla.app/black-friday. · Nov&nbsp;12&nbsp;–&nbsp;Nov&nbsp;30 |
 | 💸 | **[Vantagepoint](https://vantagepoint.enciphers.com/)**<br>Hands-on cybersecurity learning platform featuring real-world pentesting labs across Web, Mobile, Cloud, Red Teaming, CVEs, and more. | <b>70% off on all hacking labs and certifications</b><br>Nov&nbsp;2&nbsp;–&nbsp;Dec&nbsp;15 |
+| 💸 | **[Wireless Operator](https://training.thexero.co.uk/blackfriday)**<br>Hands-on Wi-Fi pentesting course from TheXero Training Academy, covering 802.11 frames, WPA3, enterprise Wi-Fi, rogue APs, wireless pivots and fuzzing, with a simulated lab and live coaching. | <b>$197 instead of $599</b><br>No code needed · Nov&nbsp;10&nbsp;–&nbsp;Dec&nbsp;1 |
 
 <p align="right"><a href="#categories">↑ Categories</a></p>
 
@@ -463,7 +466,7 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 
 No deals yet in Books and Home Automation. [Add the first one](https://blackfriday.mariuslandwehr.com/submit/).
 
-<!-- DEALS:END checksum:14606126a320 -->
+<!-- DEALS:END checksum:c442e54a8457 -->
 
 ## Add your deal
 
