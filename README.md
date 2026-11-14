@@ -348,6 +348,11 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 | 💸 | **[Erla: language learning in 22 languages](https://erla.app/black-friday)**<br>Learn a language by understanding it: listen to and read short stories at your level, watch short videos, then talk with an AI teacher. One app per language, 22 languages, iPhone & iPad. | <b>7 days free, then 70% off the first year of Erla PRO ($18 instead of $59.99)</b><br>`BLACKFRIDAY` · Annual plan, first year; new subscribers only; iPhone & iPad; works in all 22 language apps; renews at the regular price, cancel anytime. Redeem via erla.app/black-friday. · Nov&nbsp;12&nbsp;–&nbsp;Nov&nbsp;30 |
 | 💸 | **[Vantagepoint](https://vantagepoint.enciphers.com/)**<br>Hands-on cybersecurity learning platform featuring real-world pentesting labs across Web, Mobile, Cloud, Red Teaming, CVEs, and more. | <b>70% off on all hacking labs and certifications</b><br>Nov&nbsp;2&nbsp;–&nbsp;Dec&nbsp;15 |
 
+|  | Name | Offer |
+|---|---|---|
+| 💰 | [CyberWarFare Labs](https://cyberwarfare.live/) <br> A cybersecurity training platform offering hands-on learning, practical labs, professional certifications, and specialized training across Red Team, Blue Team, Cloud Security, Penetration Testing, and Advanced Evasion. | 🔥 **Up to 86% OFF on Cybersecurity Training!** <br><br> 🏆 **Cybersecurity All Rounder Edition:** $99 (84% OFF) <br> 🔴 **Red Team Pro Edition:** $199 (76% OFF) <br> ☁️ **Offensive Cloud Edition:** $399 (80% OFF) <br> 🎯 **Advanced Penetration Tester Edition:** $49 (86% OFF) <br> 🛡️ **Blue Team Hunter Edition:** $99 (78% OFF) <br> ⚡ **Advanced Evasion Edition:** $149 (86% OFF) <br> 🚀 **Cybersecurity All-in-One Access:** $999 (81% OFF) <br> 👑 **CWL Exclusive Membership:** $1,499 (71% OFF) <br><br> **No coupon code required!** <br> [Explore All Deals](https://cyberwarfare.live/) |
+
+
 <p align="right"><a href="#categories">↑ Categories</a></p>
 
 <a id="business-software"></a>
