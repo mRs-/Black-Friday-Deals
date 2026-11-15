@@ -1,0 +1,8 @@
+name: "Modern Security - AI Security Training & Certification"
+url: "https://www.modernsecurity.io/courses/ai-security-certification"
+description: "Hands-on AI security training covering AI agents, MCP, RAG security, prompt injection, red teaming, guardrails, and AI supply chain security. Build, Break, Defend."
+discount: "20% off AI Security Training & Certification"
+percent: 20
+code: "msec-bf20"
+starts: "2026-11-10"
+ends: "2026-12-10"
