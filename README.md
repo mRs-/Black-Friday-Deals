@@ -19,9 +19,9 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 
 ## Categories
 
-**282 deals** in 20 categories. 💸 marks 50% off or more, 💰 less than 50%.
+**284 deals** in 20 categories. 💸 marks 50% off or more, 💰 less than 50%.
 
-🛠&nbsp;[Development Software](#development-software)&nbsp;`43` · 🤖&nbsp;[AI Tools](#ai-tools)&nbsp;`22` · 🌈&nbsp;[Marketing Software](#marketing-software)&nbsp;`13` · 🎩&nbsp;[Security Software](#security-software)&nbsp;`14` · 🎛&nbsp;[Utility Software](#utility-software)&nbsp;`60` · 📌&nbsp;[Productivity Software](#productivity-software)&nbsp;`45` · 🎥&nbsp;[Video Software](#video-software)&nbsp;`16` · 🎨&nbsp;[Graphic Software](#graphic-software)&nbsp;`12` · 🏝️&nbsp;[Lifestyle](#lifestyle)&nbsp;`9` · 🗣️&nbsp;[Social](#social)&nbsp;`1` · 🎓&nbsp;[Reference & Education](#reference--education)&nbsp;`4` · 👩‍🎓&nbsp;[Courses and Videos](#courses-and-videos)&nbsp;`8` · 📈&nbsp;[Business Software](#business-software)&nbsp;`7` · 🏃🏻‍♀️&nbsp;[Health & Fitness Software](#health--fitness-software)&nbsp;`8` · 🎁&nbsp;[Bundles](#bundles)&nbsp;`2` · 🎶&nbsp;[Creative Content](#creative-content)&nbsp;`2` · 🤑&nbsp;[Finance](#finance)&nbsp;`4` · 🗺️&nbsp;[Navigation](#navigation)&nbsp;`1` · 🔎&nbsp;[SEO](#seo)&nbsp;`9` · 🕹&nbsp;[Games](#games)&nbsp;`2`
+🛠&nbsp;[Development Software](#development-software)&nbsp;`43` · 🤖&nbsp;[AI Tools](#ai-tools)&nbsp;`22` · 🌈&nbsp;[Marketing Software](#marketing-software)&nbsp;`13` · 🎩&nbsp;[Security Software](#security-software)&nbsp;`14` · 🎛&nbsp;[Utility Software](#utility-software)&nbsp;`60` · 📌&nbsp;[Productivity Software](#productivity-software)&nbsp;`46` · 🎥&nbsp;[Video Software](#video-software)&nbsp;`16` · 🎨&nbsp;[Graphic Software](#graphic-software)&nbsp;`12` · 🏝️&nbsp;[Lifestyle](#lifestyle)&nbsp;`9` · 🗣️&nbsp;[Social](#social)&nbsp;`1` · 🎓&nbsp;[Reference & Education](#reference--education)&nbsp;`4` · 👩‍🎓&nbsp;[Courses and Videos](#courses-and-videos)&nbsp;`8` · 📈&nbsp;[Business Software](#business-software)&nbsp;`7` · 🏃🏻‍♀️&nbsp;[Health & Fitness Software](#health--fitness-software)&nbsp;`8` · 🎁&nbsp;[Bundles](#bundles)&nbsp;`2` · 🎶&nbsp;[Creative Content](#creative-content)&nbsp;`2` · 🤑&nbsp;[Finance](#finance)&nbsp;`4` · 🗺️&nbsp;[Navigation](#navigation)&nbsp;`1` · 🔎&nbsp;[SEO](#seo)&nbsp;`10` · 🕹&nbsp;[Games](#games)&nbsp;`2`
 
 <a id="development-software"></a>
 
@@ -271,6 +271,7 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 | 💰 | **[Cloister Ink](https://cloisterink.com/)**<br>A Markdown writing app for Mac, iPad and iPhone. Plain markdown files in your own iCloud; no account or subscription. | <b>$39.99 (regular ~~$59.99~~) one-time unlock</b><br>No code needed; applied in the App Store. 7-day free trial. Sale Nov 27 through Dec 7, 2026; back to $59.99 on Dec 8. · Nov&nbsp;27&nbsp;–&nbsp;Dec&nbsp;7 |
 | 💰 | **[DeskMinder](https://deskminder.appps.od.ua/)**<br>Create quick reminders & start tasks on your desktop | <b>43% off Lifetime: ~~$6.99~~ → $3.99</b><br>`BLKFR2026` · Nov&nbsp;15&nbsp;–&nbsp;Dec&nbsp;1 |
 | 💸 | **[Smolpad](https://smolpad.com)**<br>Markdown notes for Mac, iPhone, iPad and Apple Watch. On the Mac it lives in the menu bar, one keystroke away. Every note is a plain .md file in your own iCloud Drive, Dropbox, pCloud or Google Drive. Free, with a one-time Pro unlock. | <b>50% off Smolpad Pro Lifetime ($29.99 → $14.99), one purchase for Mac, iPhone, iPad and Apple Watch</b><br>`BLACKFRIDAY` · App Store offer code, redeemed through [Apple's link](https://apps.apple.com/redeem?ctx=offercodes&id=6792438749&code=BLACKFRIDAY), not inside the app · Nov&nbsp;8&nbsp;–&nbsp;Dec&nbsp;1 |
+| 💰 | **[Calendarly](https://getcalendarly.com/black-friday)**<br>See your day without unlocking your phone. Calendarly puts your meetings and to-dos right on your Lock Screen and updates them every morning. Pick from 156 designs. | <b>44% off Lifetime Pro ($24.99 → $13.99)</b><br>iPhone app; one-time purchase, no subscription; applied automatically in the app, no code; US price, local prices vary; ends Dec 1, 12:00 UTC · Nov&nbsp;27&nbsp;–&nbsp;Dec&nbsp;1 |
 
 <p align="right"><a href="#categories">↑ Categories</a></p>
 
@@ -471,6 +472,7 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 | 💸 | **[SEOcrawl AI](https://seocrawl.ai/blog/black-friday-2026-prompt-tracking)**<br>SEO and AI search visibility platform with prompt tracking across search engines and AI assistants such as ChatGPT and Perplexity. | <b>50% off the first year of any annual plan</b><br>`BLACKFRIDAY2026` · Starter, Growth, Pro and Agency; new users or monthly subscribers switching to annual; renews at the regular price; applied automatically from the pricing page; ends 23:59 CET · Nov&nbsp;2&nbsp;–&nbsp;Nov&nbsp;30 |
 |  | **[ZeroRank](https://zerorank.ai)**<br>AI visibility tracking and GEO software. Monitor brand mentions, citations and competitors in AI search. | <b>About 45% off the first annual year vs 12 standard monthly payments, or 28% off the first 3 monthly payments</b><br>Click the Black Friday deal; discount auto-applies at checkout. Eligible subscriptions only; standard rates afterward; no stacking. Ends 23:59 Europe/Tirane. [Offer terms](https://zerorank.ai/pricing). · until&nbsp;Nov&nbsp;30 |
 | 💰 | **[Keyword Race](https://keywordrace.com/?utm_source=mrsbf)**<br>App Store keyword research for indie iOS developers: competing apps, your position and estimated demand. | <b>40% off lifetime access: $59 → $35</b><br>No code needed, applied at checkout; one-time payment, lifetime access · Nov&nbsp;14&nbsp;–&nbsp;Dec&nbsp;2 |
+| 💰 | **[Citation Rocket](https://www.citationrocket.com/pricing?utm_source=mrs-bf&utm_medium=bf_list&utm_campaign=bf2026)**<br>AI-search readiness audit: checks whether GPT, Claude, Gemini, Perplexity and Grok mention your brand, then gives a ranked fix list and a 10-file AEO Pack. | <b>Lifetime licence ~~$99~~ $59, Agency ~~$149~~ $89</b><br>Pay once, no subscription; automatically applied; runs on your own OpenRouter key · Nov&nbsp;12&nbsp;–&nbsp;Dec&nbsp;2 |
 
 <p align="right"><a href="#categories">↑ Categories</a></p>
 
@@ -487,7 +489,7 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 
 No deals yet in Books and Home Automation. [Add the first one](https://blackfriday.mariuslandwehr.com/submit/).
 
-<!-- DEALS:END checksum:0aabf102e9fe -->
+<!-- DEALS:END checksum:75d1a1d47aa9 -->
 
 ## Add your deal
 
