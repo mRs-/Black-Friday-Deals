@@ -19,9 +19,9 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 
 ## Categories
 
-**261 deals** in 20 categories. 💸 marks 50% off or more, 💰 less than 50%.
+**266 deals** in 20 categories. 💸 marks 50% off or more, 💰 less than 50%.
 
-🛠&nbsp;[Development Software](#development-software)&nbsp;`39` · 🤖&nbsp;[AI Tools](#ai-tools)&nbsp;`21` · 🌈&nbsp;[Marketing Software](#marketing-software)&nbsp;`12` · 🎩&nbsp;[Security Software](#security-software)&nbsp;`12` · 🎛&nbsp;[Utility Software](#utility-software)&nbsp;`54` · 📌&nbsp;[Productivity Software](#productivity-software)&nbsp;`41` · 🎥&nbsp;[Video Software](#video-software)&nbsp;`15` · 🎨&nbsp;[Graphic Software](#graphic-software)&nbsp;`12` · 🏝️&nbsp;[Lifestyle](#lifestyle)&nbsp;`9` · 🗣️&nbsp;[Social](#social)&nbsp;`1` · 🎓&nbsp;[Reference & Education](#reference--education)&nbsp;`4` · 👩‍🎓&nbsp;[Courses and Videos](#courses-and-videos)&nbsp;`8` · 📈&nbsp;[Business Software](#business-software)&nbsp;`7` · 🏃🏻‍♀️&nbsp;[Health & Fitness Software](#health--fitness-software)&nbsp;`7` · 🎁&nbsp;[Bundles](#bundles)&nbsp;`2` · 🎶&nbsp;[Creative Content](#creative-content)&nbsp;`2` · 🤑&nbsp;[Finance](#finance)&nbsp;`4` · 🗺️&nbsp;[Navigation](#navigation)&nbsp;`1` · 🔎&nbsp;[SEO](#seo)&nbsp;`8` · 🕹&nbsp;[Games](#games)&nbsp;`2`
+🛠&nbsp;[Development Software](#development-software)&nbsp;`40` · 🤖&nbsp;[AI Tools](#ai-tools)&nbsp;`21` · 🌈&nbsp;[Marketing Software](#marketing-software)&nbsp;`12` · 🎩&nbsp;[Security Software](#security-software)&nbsp;`12` · 🎛&nbsp;[Utility Software](#utility-software)&nbsp;`56` · 📌&nbsp;[Productivity Software](#productivity-software)&nbsp;`42` · 🎥&nbsp;[Video Software](#video-software)&nbsp;`16` · 🎨&nbsp;[Graphic Software](#graphic-software)&nbsp;`12` · 🏝️&nbsp;[Lifestyle](#lifestyle)&nbsp;`9` · 🗣️&nbsp;[Social](#social)&nbsp;`1` · 🎓&nbsp;[Reference & Education](#reference--education)&nbsp;`4` · 👩‍🎓&nbsp;[Courses and Videos](#courses-and-videos)&nbsp;`8` · 📈&nbsp;[Business Software](#business-software)&nbsp;`7` · 🏃🏻‍♀️&nbsp;[Health & Fitness Software](#health--fitness-software)&nbsp;`7` · 🎁&nbsp;[Bundles](#bundles)&nbsp;`2` · 🎶&nbsp;[Creative Content](#creative-content)&nbsp;`2` · 🤑&nbsp;[Finance](#finance)&nbsp;`4` · 🗺️&nbsp;[Navigation](#navigation)&nbsp;`1` · 🔎&nbsp;[SEO](#seo)&nbsp;`8` · 🕹&nbsp;[Games](#games)&nbsp;`2`
 
 <a id="development-software"></a>
 
@@ -68,6 +68,7 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 | 💰 | **[DropDMG](https://c-command.com/store/sale)**<br>Create professional disk images (.dmg files) for your Mac app | <b>25% off</b><br>`BLACKFRIDAY2026` |
 | 💰 | **[MacVisor](https://scaleninja.com/macvisor/)**<br>Run your Mac as a virtualization host: macOS, Windows, Linux & FreeBSD VMs setup automatically with account, SSH keys and guest tools. | <b>15% off with BLACKFRIDAY15</b><br>`BLACKFRIDAY15` · Nov&nbsp;12&nbsp;–&nbsp;Nov&nbsp;30 |
 | 💰 | **[DevIntern](https://devintern.com/pricing/)**<br>Self-hosted worker that turns tracker tickets into PRs with your own coding agent across multiple repos, plus automations. | <b>40% off the first invoice</b><br>`BLACKFRIDAY26` · Team $99 → $59.40 first month or $990 → $594 first year; Business $299 → $179.40 first month or $2,990 → $1,794 first year; Supporter License $99 → $59.40. Then regular price. · Nov&nbsp;20&nbsp;–&nbsp;Dec&nbsp;1 |
+| 💸 | **[SaaSykit](https://saasykit.com/)**<br>Production-ready Laravel SaaS boilerplate with billing (Stripe, Paddle, Lemon Squeezy), auth, admin panel, multi-tenancy and SaaS metrics. Pay once, build unlimited projects. | <b>50% off all versions: SaaSykit ~~$239~~ $119.50, Tenancy ~~$269~~ $134.50, Complete ~~$299~~ $149.50</b><br>`BLACKFRIDAY26` · Also applied automatically at checkout; one-time purchase with lifetime updates · Nov&nbsp;14&nbsp;–&nbsp;Dec&nbsp;6 |
 
 <p align="right"><a href="#categories">↑ Categories</a></p>
 
@@ -203,6 +204,8 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 | 💰 | **[Vitals](https://vitalsmac.com/pricing?utm_source=mrsbf2026)**<br>Mac system monitor that shows apps, not processes: CPU, memory, energy, disk, network and GPU per app, with a year of history, dev servers and ports, and a menu bar view. | <b>40% off all plans, from $7.20 (one year) and $11.40 (lifetime)</b><br>Applied automatically at checkout, no code needed. One-time purchase, 3-day free trial. · Nov&nbsp;20&nbsp;–&nbsp;Nov&nbsp;30 |
 |  | **[Diskivo](https://diskivo.app/en)**<br>macOS utility to see what takes up disk space, review files before cleanup, and find duplicates and app leftovers. Scans run locally. | <b>Diskivo Pro Perpetual: €69.99 → €19.00</b><br>`BLACKFRIDAY2026` · Enter the code at checkout. One-time purchase for one Mac, including updates within the purchased major version. · Nov&nbsp;13&nbsp;–&nbsp;Dec&nbsp;1 |
 | 💰 | **[BetterStage](https://betterstage.app/pricing?utm_source=mrsbf&utm_campaign=bf2026)**<br>Window and workspace manager for macOS: named Stages that span all your monitors, automatic tiling with tabs, a Stage-aware Cmd+Tab switcher, and Saved Workspaces. | <b>20% off lifetime Pro ($19.99 → $15.99 for 1 Mac, $39.99 → $31.99 for 3, $49.99 → $39.99 for 5)</b><br>`BLACKFRIDAY20` · one-time purchase, not a subscription; enter the code at checkout · Nov&nbsp;23&nbsp;–&nbsp;Nov&nbsp;30 |
+| 💸 | **[CopyPasta](https://usecopypasta.com/)**<br>Private-by-default clipboard manager for macOS that opens from the notch, with encrypted history and a Paste Stack. One-time purchase. | <b>50% off all licenses: Personal ~~$14.99~~ $7.50, Plus ~~$29.99~~ $15, Studio ~~$39.99~~ $20</b><br>`BLACKFRIDAY26` · Also applied automatically at checkout; one-time licenses for 1, 3 or 5 Macs · Nov&nbsp;14&nbsp;–&nbsp;Dec&nbsp;6 |
+| 💸 | **[Padrail](https://padrail.com/)**<br>Mac menu bar app that turns the edges and corners of the MacBook trackpad into controls: slide for volume, brightness or keyboard light, double tap a corner to mute. | <b>$29 → $14, one time purchase</b><br>Applied automatically at checkout. For MacBooks with macOS 13 or later. · Nov&nbsp;27&nbsp;–&nbsp;Nov&nbsp;30 |
 
 <p align="right"><a href="#categories">↑ Categories</a></p>
 
@@ -253,6 +256,7 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 | 💰 | **[SimpleFill](https://simplefill.app)**<br>Text expansion, AI actions, and one-click form filling in your browser. Works in Chrome, Firefox, Edge, and Safari. | <b>25% off ($29 → $21.75)</b><br>`LAUNCH` · one-time payment, Standard and Pro plans; Chrome, Firefox, and Edge checkout (Safari is sold on the Mac App Store) · Nov&nbsp;10&nbsp;–&nbsp;Dec&nbsp;7 |
 | 💰 | **[MonoLisa – font follows function](https://www.monolisa.dev/)**<br>A typeface built for you, the developers and creatives, Monolisa improves code legibility and provides a clear sans serif for all design tasks. | <b>30% off any plan</b><br>Nov&nbsp;20&nbsp;–&nbsp;Nov&nbsp;29 |
 | 💰 | **[DailyRemote](https://dailyremote.com/get-started)**<br>Remote job board that shows new remote jobs hours after they are posted, with salary filters and daily job alerts. | <b>39% off DailyRemote Premium</b><br>`BFBNRTZSY` · monthly, quarterly and yearly plans; new Premium subscribers · Nov&nbsp;12&nbsp;–&nbsp;Dec&nbsp;1 |
+| 💰 | **[Mushroom](https://www.getmushroom.app/)**<br>A pixel pet for Mac and Windows that reminds you to drink water, take breaks and rest your eyes, timed by how long you have actually been at the desk. Runs on your own computer. | <b>30% off the one-time license, $9.99 → $6.99</b><br>`BLACKFRIDAY30` · Covers 5 Macs and Windows PCs. Direct purchase only, not the Mac App Store. 7-day free trial first. · Nov&nbsp;27&nbsp;–&nbsp;Dec&nbsp;1 |
 
 <p align="right"><a href="#categories">↑ Categories</a></p>
 
@@ -277,6 +281,7 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 | 💰 | **[PugSoda](https://pugsoda.com/pricing?utm_source=mrsdeals&utm_medium=github&utm_campaign=bf2026)**<br>Turn one photo into trending AI meme, dance, and photo-studio videos in your browser. | <b>30% off first month on monthly plans + up to 30% bonus pack credits</b><br>`BF2026` · BF2026 for Starter (~~$14~~ $9.80), Creator (~~$34~~ $23.80), or Studio (~~$96~~ $67.20) first month; +25%–30% bonus credits auto-applied on top-up packs · Nov&nbsp;13&nbsp;–&nbsp;Dec&nbsp;1 |
 | 💰 | **[Magic Automa AI](https://www.magicautoma.com/#pricing)**<br>One-click macros for DaVinci Resolve, Premiere Pro, After Effects, VEGAS Pro and OBS, plus the Blackmagic Speed Editor as a controller for any app. Windows and macOS. | <b>40% off lifetime licences: Studio €49.99 → €29.99, Studio Max €149.99 → €89.99</b><br>`BLACKFRIDAY2026` · Lifetime licence, no subscription; also on the upgrades from v3. Free version available. · Nov&nbsp;13&nbsp;–&nbsp;Nov&nbsp;30 |
 |  | **[MusicMV](https://musicmv.ai/black-friday)**<br>Turn a song and a photo into a beat-synced music video with lip-sync and a reviewable storyboard. | <b>Up to 40% off one-time credit packs (Starter 10%, Creator 20%, Studio 30%, Studio Plus 40%)</b><br>One-time credit packs. Sale prices are applied automatically at checkout from the official Black Friday page. No coupon needed. Purchased credits never expire. Dates are Pacific Time. · Nov&nbsp;13&nbsp;–&nbsp;Dec&nbsp;1 |
+| 💸 | **[LiveReacting](https://www.livereacting.com/pricing)**<br>Stream pre-recorded videos and 24/7 live channels to YouTube, Facebook, Twitch and more from the cloud. No computer needs to stay on. | <b>50% off your first year of annual plans</b><br>`BF2026` · Annual plans: Small, Medium, Large, 24/7 Streaming; new customers only · Nov&nbsp;20&nbsp;–&nbsp;Dec&nbsp;4 |
 
 <p align="right"><a href="#categories">↑ Categories</a></p>
 
@@ -466,7 +471,7 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 
 No deals yet in Books and Home Automation. [Add the first one](https://blackfriday.mariuslandwehr.com/submit/).
 
-<!-- DEALS:END checksum:c442e54a8457 -->
+<!-- DEALS:END checksum:01bfdabced4f -->
 
 ## Add your deal
 
