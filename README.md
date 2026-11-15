@@ -185,6 +185,7 @@ Deals are **submitted by makers and the community and reviewed** before they go 
 | [**Gramcheck**](https://extensions.loopspec.com/gramcheck?utm_source=github_pimjo&utm_medium=referral&utm_campaign=black_friday_2026&utm_content=gramcheck) | On-device grammar and spelling checker for Chrome; your writing is never uploaded. | **51% OFF** one-time license: $39 → $19, including 5 years of updates; no code needed. License keeps working afterward. | Nov 5 – Dec 2, 2026 |
 | [**Roomtape**](https://extensions.loopspec.com/roomtape?utm_source=github_pimjo&utm_medium=referral&utm_campaign=black_friday_2026&utm_content=roomtape) | Chrome extension that records Google Meet and Teams calls to local MP4 files, with no bot or uploads. | **69% OFF** one-time license: $29 → $9, including 3 years of updates; no code needed. License keeps working afterward. | Nov 5 – Dec 2, 2026 |
 | [**Bardach Technologies Templates**](https://bardachtechnologies.gumroad.com/) | Spreadsheet and Notion templates for small businesses and freelancers, and the Larderly menu costing. | 25% OFF all products, regular prices from $4.99 (Coupon: `BLACKFRIDAY2026`) | Nov 24 – Dec 1, 2026 |
+| [**MacPlus Software Mac apps**](https://noteifyapp.com/special-offers/) | 13 native Mac utilities for the Dock, windows, tabs, clipboard and files: DockView 2, ActiveDock 2, Quick Exposé 3, SuperTab 7, Tree Outliner and more. One-time purchase. | 30% OFF every app incl. lifetime licenses (Coupon: `MACPLUSBLACKFRIDAY26`) | Nov 1 – Nov 30, 2026 |
 
 ---
 
