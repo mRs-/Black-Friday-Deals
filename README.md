@@ -138,6 +138,7 @@ Deals are **submitted by makers and the community and reviewed** before they go 
 | [**Animation Icons**](https://www.mingcute.com/animation?utm_source=bfd1) | 120+ lively and smooth animated icons | **30% OFF** ($25 → $17.5) (Coupon: `BF2026`) | Nov 15 – Dec 5, 2026 |
 | [**Weather Icons**](https://mgcweather.framer.website/?utm_source=bfd1) | 120 graceful weather icons | **30% OFF** ($25 → $17.5) (Coupon: `BF2026`) | Nov 15 – Dec 5, 2026 |
 | [**Unmerge**](https://unmerge.app/pricing?utm_source=github-pimjo&utm_campaign=bf2026) | Separate flat images, illustrations, and anime character art into editable transparent PSD and PNG layers (web, API & MCP). | **+33%–35% bonus** non-expiring credits (~26% OFF per layer) on one-time packs: Starter $3.90 (60 credits, was 45), Basic $10 (175 credits, was 130), auto-applied (no code needed) | Nov 13 – Dec 1, 2026 |
+| [**HDRI Hub**](https://www.hdri-hub.com/shop/hdri?discount=BLACK50&utm_source=pimjo&utm_campaign=bf2026) | High-resolution HDRI skies, HDRI domes, backplates and 3D people for architectural visualization, car and product rendering. | 50% OFF everything, bundles included (Coupon: `BLACK50`, applied automatically by the link) | Nov 19 – Dec 1, 2026 |
 
 ---
 
