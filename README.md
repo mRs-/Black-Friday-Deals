@@ -212,6 +212,7 @@ Deals are **submitted by makers and the community and reviewed** before they go 
 | [**palmscreen**](https://www.palmscreen.app/black-friday/) | Your screen, beautifully captured. Screenshots and recordings for Mac in one unified editor. macOS 15+. | 34% OFF: $19 instead of $29 (introductory price, regular $39 afterwards), one-time, one Mac (Coupon: `BLACKWEEK`) | Nov 23 – Nov 30, 2026 |
 | [**CopyPasta**](https://usecopypasta.com/) | Private-by-default clipboard manager for macOS that opens from the notch. One-time purchase. | **50% OFF** all licenses: Personal $14.99 → $7.50, Plus $29.99 → $15, Studio $39.99 → $20. Auto-applied (Coupon: `BLACKFRIDAY26`) | Nov 14 – Dec 6, 2026 |
 | [**MacPlus Software Mac apps**](https://noteifyapp.com/special-offers/) | 13 native Mac utilities for the Dock, windows, tabs, clipboard and files: DockView 2, ActiveDock 2, Quick Exposé 3, SuperTab 7, Tree Outliner and more. One-time purchase. | 30% OFF every app incl. lifetime licenses (Coupon: `MACPLUSBLACKFRIDAY26`) | Nov 1 – Nov 30, 2026 |
+| [**Forma**](https://useforma.app) | Native Mac free-form canvas for daily tasks and project planning, with markdown cards, checklists and a marker. Free app with a one-time Pro upgrade. | 47% OFF Lifetime Pro, $14.99 → $7.99 (Coupon: `BLACKFRIDAY50`), redeem in the Mac App Store app | Nov 20 – Dec 1, 2026 |
 
 ---
 
