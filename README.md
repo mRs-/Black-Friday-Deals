@@ -19,9 +19,9 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 
 ## Categories
 
-**305 deals** in 20 categories. 💸 marks 50% off or more, 💰 less than 50%.
+**306 deals** in 20 categories. 💸 marks 50% off or more, 💰 less than 50%.
 
-🛠&nbsp;[Development Software](#development-software)&nbsp;`45` · 🤖&nbsp;[AI Tools](#ai-tools)&nbsp;`25` · 🌈&nbsp;[Marketing Software](#marketing-software)&nbsp;`13` · 🎩&nbsp;[Security Software](#security-software)&nbsp;`15` · 🎛&nbsp;[Utility Software](#utility-software)&nbsp;`67` · 📌&nbsp;[Productivity Software](#productivity-software)&nbsp;`49` · 🎥&nbsp;[Video Software](#video-software)&nbsp;`17` · 🎨&nbsp;[Graphic Software](#graphic-software)&nbsp;`12` · 🏝️&nbsp;[Lifestyle](#lifestyle)&nbsp;`9` · 🗣️&nbsp;[Social](#social)&nbsp;`1` · 🎓&nbsp;[Reference & Education](#reference--education)&nbsp;`4` · 👩‍🎓&nbsp;[Courses and Videos](#courses-and-videos)&nbsp;`9` · 📈&nbsp;[Business Software](#business-software)&nbsp;`8` · 🏃🏻‍♀️&nbsp;[Health & Fitness Software](#health--fitness-software)&nbsp;`9` · 🎁&nbsp;[Bundles](#bundles)&nbsp;`2` · 🎶&nbsp;[Creative Content](#creative-content)&nbsp;`2` · 🤑&nbsp;[Finance](#finance)&nbsp;`5` · 🗺️&nbsp;[Navigation](#navigation)&nbsp;`1` · 🔎&nbsp;[SEO](#seo)&nbsp;`10` · 🕹&nbsp;[Games](#games)&nbsp;`2`
+🛠&nbsp;[Development Software](#development-software)&nbsp;`45` · 🤖&nbsp;[AI Tools](#ai-tools)&nbsp;`25` · 🌈&nbsp;[Marketing Software](#marketing-software)&nbsp;`13` · 🎩&nbsp;[Security Software](#security-software)&nbsp;`15` · 🎛&nbsp;[Utility Software](#utility-software)&nbsp;`67` · 📌&nbsp;[Productivity Software](#productivity-software)&nbsp;`49` · 🎥&nbsp;[Video Software](#video-software)&nbsp;`17` · 🎨&nbsp;[Graphic Software](#graphic-software)&nbsp;`13` · 🏝️&nbsp;[Lifestyle](#lifestyle)&nbsp;`9` · 🗣️&nbsp;[Social](#social)&nbsp;`1` · 🎓&nbsp;[Reference & Education](#reference--education)&nbsp;`4` · 👩‍🎓&nbsp;[Courses and Videos](#courses-and-videos)&nbsp;`9` · 📈&nbsp;[Business Software](#business-software)&nbsp;`8` · 🏃🏻‍♀️&nbsp;[Health & Fitness Software](#health--fitness-software)&nbsp;`9` · 🎁&nbsp;[Bundles](#bundles)&nbsp;`2` · 🎶&nbsp;[Creative Content](#creative-content)&nbsp;`2` · 🤑&nbsp;[Finance](#finance)&nbsp;`5` · 🗺️&nbsp;[Navigation](#navigation)&nbsp;`1` · 🔎&nbsp;[SEO](#seo)&nbsp;`10` · 🕹&nbsp;[Games](#games)&nbsp;`2`
 
 <a id="development-software"></a>
 
@@ -335,6 +335,7 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 | 💸 | **[LS Graphics](https://www.ls.graphics/)**<br>Browser-based editor for static and animated mockups, plus 100+ branding and device bundles with downloadable PSD, Figma and Sketch files for editing in your preferred software. | <b>50% off all bundles, monthly plans and annual plans</b><br>Automatically applied; one product or subscription per email. Subscription discount covers the first billing period; renewals at regular price. Existing subscribers must use a different checkout email from their active subscription. · Nov&nbsp;6&nbsp;–&nbsp;Dec&nbsp;1 |
 | 💸 | **[ImageFramer](https://imageframer.net/?utm_source=github&utm_medium=referral&utm_campaign=black_friday_2026&utm_content=mrs_black_friday_deals)**<br>Easily add frames, mats and borders to your art. ImageFramer is used by artists, professional and amateur photographers, scrapbookers, framers, and people who just want their family photos to look better. | <b>Half price (one-time purchase)</b><br>Nov&nbsp;20&nbsp;–&nbsp;Nov&nbsp;30 |
 | 💰 | **[Unmerge](https://unmerge.app/pricing?utm_source=mrsdeals&utm_medium=github&utm_campaign=bf2026)**<br>Separate flat images, illustrations, and anime character art into transparent PSD and PNG layers with AI background fill. Web app, API, and MCP server. | <b>Up to 35% bonus non-expiring credits on one-time packs (~26% lower cost per layer)</b><br>Automatically applied, no code needed: Starter $3.90 gives 60 credits (was 45); Basic $10 gives 175 credits (was 130) · Nov&nbsp;13&nbsp;–&nbsp;Dec&nbsp;1 |
+| 💸 | **[QRat](https://apps.apple.com/redeem/?code=BLACKFRIDAY2026&ctx=offercodes&id=1497158638)**<br>macOS & iOS app, make attractive QR codes in BlackFriday / Christmas templates to boost your scan ratio. Hundreds of templates included, highly customizable. | <b>50% OFF ($10 -> $4.99) lifetime license</b><br>`BLACKFRIDAY2026` · Redeem via the link on the app name · Nov&nbsp;16&nbsp;–&nbsp;Dec&nbsp;1 |
 
 <p align="right"><a href="#categories">↑ Categories</a></p>
 
@@ -510,7 +511,7 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 
 No deals yet in Books and Home Automation. [Add the first one](https://blackfriday.mariuslandwehr.com/submit/).
 
-<!-- DEALS:END checksum:a84b30fcce22 -->
+<!-- DEALS:END checksum:0605c41b86ea -->
 
 ## Add your deal
 
