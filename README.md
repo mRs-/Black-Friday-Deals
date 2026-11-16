@@ -216,6 +216,7 @@ Deals are **submitted by makers and the community and reviewed** before they go 
 | [**LabEx**](https://labex.io/) | Learn Linux, DevOps, Cybersecurity, and Cloud with hands-on labs. | [**30% OFF LabEx Pro — 1 Year**](https://labex.io/checkout?type=2&coupon=2026BF30) (Coupon: `2026BF30`); [**50% OFF LabEx Pro — 2 Years**](https://labex.io/checkout?type=4&coupon=2026BF50) (Coupon: `2026BF50`) | Now – Dec 7, 2026 |
 | [**FindExams**](https://findexams.com/?ref=black-friday-deals) | Exam simulators for PMP, CBAP, ITIL 4 and more. | Up to 50% OFF, no coupon needed | Nov 16 – Nov 30, 2026 |
 | [**Vantagepoint**](https://vantagepoint.enciphers.com/) | Hands-on cybersecurity learning platform with real-world pentesting labs across Web, Mobile, Cloud, Red Teaming, CVEs, and more. | 70% OFF all hacking labs and certifications (Auto-applied) | Nov 2 – Dec 15, 2026 |
+| [**AppSec.training**](https://appsec.training) | Application security, DevSecOps and secure SDLC training on the web. | 50% OFF (Coupon: `blackfriday`) | Now – Dec 31, 2026 |
 
 ---
 
