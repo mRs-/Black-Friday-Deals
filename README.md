@@ -218,6 +218,7 @@ Deals are **submitted by makers and the community and reviewed** before they go 
 | [**Recut**](https://getrecut.com/) | Skip the tedious parts of editing videos and podcasts. Recut removes silence automatically and exports to Premiere, Resolve and Final Cut Pro. Mac/Windows/Linux | **$50 OFF**, one-time purchase: $149 → $99 (no code needed) | Nov 12 – Dec 4, 2026 |
 | [**DeskRest**](https://deskrest.com/offers) | macOS menu bar app that reminds you to take regular breaks, rest your eyes and stay healthy while you work. | 80% OFF Lifetime Licenses (Coupon: `BLACKFRIDAY80`) | Nov 9 – Dec 10, 2026 |
 | [**SupaSidebar**](https://supasidebar.com?r=pj) | Arc-like sidebar for all browsers. View or fuzzy search open tabs, bookmarks and Finder files, one shortcut away. | 50% OFF Lifetime, $79 → $39.50 (Coupon: `SIDEBARBF50`) | Nov 9 – Dec 7, 2026 |
+| [**Leave Me Alone**](https://leavemealone.com/pricing/) | Unsubscribe from unwanted emails in one click, block senders, bundle newsletters into a digest. Gmail, Outlook, iCloud, Yahoo, Fastmail, IMAP. | **83% OFF** the Unlimited plan: $59/year instead of $30/month, every feature, every inbox you own, same price when you renew (no code needed, applied on the pricing page) | Nov 16 – Dec 8, 2026 |
 
 ---
 
