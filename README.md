@@ -211,6 +211,7 @@ Deals are **submitted by makers and the community and reviewed** before they go 
 | [**BetterStage**](https://betterstage.app/pricing?utm_source=pimjo-bf&utm_campaign=bf2026) | Window and workspace manager for macOS: named Stages that span all your monitors, automatic tiling with tabs, a Stage-aware ⌘Tab switcher, and Saved Workspaces. Native Mac app (macOS 14+). One-time purchase. | 20% OFF lifetime Pro: $19.99 → $15.99 (1 Mac), $39.99 → $31.99 (3 Macs), $49.99 → $39.99 (5 Macs) (Coupon: `BLACKFRIDAY20`) | Nov 23 – Nov 30, 2026 |
 | [**palmscreen**](https://www.palmscreen.app/black-friday/) | Your screen, beautifully captured. Screenshots and recordings for Mac in one unified editor. macOS 15+. | 34% OFF: $19 instead of $29 (introductory price, regular $39 afterwards), one-time, one Mac (Coupon: `BLACKWEEK`) | Nov 23 – Nov 30, 2026 |
 | [**CopyPasta**](https://usecopypasta.com/) | Private-by-default clipboard manager for macOS that opens from the notch. One-time purchase. | **50% OFF** all licenses: Personal $14.99 → $7.50, Plus $29.99 → $15, Studio $39.99 → $20. Auto-applied (Coupon: `BLACKFRIDAY26`) | Nov 14 – Dec 6, 2026 |
+| [**MacPlus Software Mac apps**](https://noteifyapp.com/special-offers/) | 13 native Mac utilities for the Dock, windows, tabs, clipboard and files: DockView 2, ActiveDock 2, Quick Exposé 3, SuperTab 7, Tree Outliner and more. One-time purchase. | 30% OFF every app incl. lifetime licenses (Coupon: `MACPLUSBLACKFRIDAY26`) | Nov 1 – Nov 30, 2026 |
 
 ---
 
