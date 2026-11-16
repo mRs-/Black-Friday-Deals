@@ -48,6 +48,7 @@ Deals are **submitted by makers and the community and reviewed** before they go 
 | [**Outlier**](https://outlier.host/pricing/?utm_source=pimjo&utm_medium=deals) | Runs open AI models on your own Mac, so your chats and code stay on it, even offline: chat plus a coding agent for your own codebase. Free to start. | **31% OFF**, one-time purchase, no code needed. Black Friday sale: $16.99 once, 31% off our November price of $24.50, through December 2. Then $29. | Nov 13 – Dec 2, 2026 |
 | [**Aikeedo**](https://aikeedo.com/black-friday/?utm_source=pimjo&utm_medium=deal-listing&utm_campaign=bfcm2026) | Self-hosted, white-label AI SaaS platform to launch your own ChatGPT-style business. | 50% OFF Core for 12 months, the Commercial License and all add-ons; $100 OFF All-Access first year (auto-applied) | Nov 24 – Dec 1, 2026 |
 | [**Radiantly**](https://radiantly.space/pricing) | Radiantly helps experts turn their knowledge into branded AI agents with interactive experiences, personalized responses for each client, and connections to 1,600+ apps. | New users get 60% off their first annual subscription payment with code `BF60`.<br>Pro: $91.20 for the first year (normally $228/year).<br>Max: $283.20 for the first year (normally $708/year).<br>BF60 does not apply to renewals. | Nov 15 – Dec 15, 2026 (UTC) |
+| [**Orchard**](https://orchard.5km.tech/black-friday?utm_source=gh-pimjo&utm_medium=github&utm_campaign=bf2026) | Native Mac app that lets AI assistants use Mail, Calendar, Notes, Reminders and 7 more Apple apps locally via MCP, Agent Skills or a CLI. | 33% OFF Lifetime ($26.79) and the first year of Annual ($16.74) (Coupon: `BF2026`) | Nov 20 – Dec 6, 2026 |
 
 ---
 
@@ -120,6 +121,7 @@ Deals are **submitted by makers and the community and reviewed** before they go 
 | [**Zero-Trace Ship Kit**](https://zero-trace-ship-kit.zeus-lab-global.workers.dev/?utm_source=pimjo) | Git hooks that stop commit and push when a supported leak pattern (keys, home paths, private keys, e-mails, photo metadata) is found, plus clean release ZIPs. Python, no network. | Solo licence 40% OFF, $39 → $23.40, buy once (Coupon: `FOUNDER10`, first 100 uses) | Nov 14 – Nov 30, 2026 |
 | [**SupaYatta**](https://supayatta.com?ref=pj) | Know when your AI agents need you, right from your Mac's notch. Alerts for Claude, Cursor, Cowork and more. | 65% OFF Lifetime, $19.99 → $6.99 (Coupon: `YATTADEAL`) | Nov 9 – Dec 7, 2026 |
 | [**Babelize**](https://www.babelize.co/?ref=PimjoGitHub#pricing) | Turns the hardcoded text in a React or Next.js app into a reviewed i18n pull request in 90+ languages, then translates every new push. | 50% OFF the first year of Pro yearly, $84 → $42 (Coupon: `BLACKFRIDAY26`) | Nov 16 – Dec 1, 2026 |
+| [**KeygenGo**](https://keygengo.5km.tech/black-friday?utm_source=gh-pimjo&utm_medium=github&utm_campaign=bf2026) | Native Mac client for Keygen.sh: manage products, licenses, users and machines in one window. | 50% OFF: Lifetime $19.99 (no code needed), Annual $9.99 for the first year (Coupon: `BF2026YEAR`) | Nov 20 – Dec 6, 2026 |
 
 ---
 
@@ -139,6 +141,7 @@ Deals are **submitted by makers and the community and reviewed** before they go 
 | [**Weather Icons**](https://mgcweather.framer.website/?utm_source=bfd1) | 120 graceful weather icons | **30% OFF** ($25 → $17.5) (Coupon: `BF2026`) | Nov 15 – Dec 5, 2026 |
 | [**Unmerge**](https://unmerge.app/pricing?utm_source=github-pimjo&utm_campaign=bf2026) | Separate flat images, illustrations, and anime character art into editable transparent PSD and PNG layers (web, API & MCP). | **+33%–35% bonus** non-expiring credits (~26% OFF per layer) on one-time packs: Starter $3.90 (60 credits, was 45), Basic $10 (175 credits, was 130), auto-applied (no code needed) | Nov 13 – Dec 1, 2026 |
 | [**HDRI Hub**](https://www.hdri-hub.com/shop/hdri?discount=BLACK50&utm_source=pimjo&utm_campaign=bf2026) | High-resolution HDRI skies, HDRI domes, backplates and 3D people for architectural visualization, car and product rendering. | 50% OFF everything, bundles included (Coupon: `BLACK50`, applied automatically by the link) | Nov 19 – Dec 1, 2026 |
+| [**LottieGo**](https://lottiego.com/black-friday?utm_source=gh-pimjo&utm_medium=github&utm_campaign=bf2026) | Mac app that shrinks Lottie JSON files and exports MP4, transparent MOV or GIF, all locally. | 50% OFF Pro Lifetime: $4.99 → $2.49 (no code needed) | Nov 20 – Dec 6, 2026 |
 
 ---
 
@@ -224,6 +227,7 @@ Deals are **submitted by makers and the community and reviewed** before they go 
 | [**SupaSidebar**](https://supasidebar.com?r=pj) | Arc-like sidebar for all browsers. View or fuzzy search open tabs, bookmarks and Finder files, one shortcut away. | 50% OFF Lifetime, $79 → $39.50 (Coupon: `SIDEBARBF50`) | Nov 9 – Dec 7, 2026 |
 | [**Leave Me Alone**](https://leavemealone.com/pricing/) | Unsubscribe from unwanted emails in one click, block senders, bundle newsletters into a digest. Gmail, Outlook, iCloud, Yahoo, Fastmail, IMAP. | **83% OFF** the Unlimited plan: $59/year instead of $30/month, every feature, every inbox you own, same price when you renew (no code needed, applied on the pricing page) | Nov 16 – Dec 8, 2026 |
 | [**Wishbar**](https://wishbar.app/black-friday?ref=pimjo) | Mac menu bar app: describe a widget in plain English and your own ChatGPT or Claude builds it live. One-time purchase. | **50% OFF**: Solo $39 → $19 (no code needed) | Nov 16 – Dec 7, 2026 |
+| [**Zipic**](https://zipic.app/black-friday?utm_source=gh-pimjo&utm_medium=github&utm_campaign=bf2026) | Compresses, converts and resizes images locally on Mac and Windows, including AVIF, WebP and JPEG XL. | 33% OFF one-time licenses: Solo $13.39, Personal $20.09, Team $87.09 (Coupon: `BF2026`) | Nov 20 – Dec 6, 2026 |
 
 ---
 
