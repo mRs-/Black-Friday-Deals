@@ -203,6 +203,7 @@ Deals are **submitted by makers and the community and reviewed** before they go 
 | [**Bardach Technologies Templates**](https://bardachtechnologies.gumroad.com/) | Spreadsheet and Notion templates for small businesses and freelancers, and the Larderly menu costing. | 25% OFF all products, regular prices from $4.99 (Coupon: `BLACKFRIDAY2026`) | Nov 24 – Dec 1, 2026 |
 | [**SimpleFill**](https://simplefill.app) | Text expansion, AI actions, and one-click form filling in your browser (Chrome, Firefox, Edge, and Safari). | 25% OFF one-time purchase, Standard $29 → $21.75, Pro $59 → $44.25 (Coupon: `LAUNCH`), on the Chrome, Firefox, and Edge checkout | Nov 10 – Dec 7, 2026 |
 | [**DailyRemote**](https://dailyremote.com/get-started) | Remote job board that shows new remote jobs hours after they are posted, with salary filters and daily job alerts. | 39% OFF Premium monthly, quarterly and yearly plans (Coupon: `BFBNRTZSY`) | Nov 12 – Dec 1, 2026 |
+| [**FlexiBackup**](https://kahsenglee.gumroad.com/l/FlexiBackup/BLACK2026) | Mac app to back up your iPhone and iPad straight to an external drive, freeing up Mac storage and relying less on iCloud. | 50% OFF one-time purchase, $5.99 → $2.99 (Coupon: `BLACK2026`) | Nov 8 – Dec 6, 2026 |
 
 ---
 
