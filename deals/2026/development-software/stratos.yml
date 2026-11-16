@@ -1,0 +1,8 @@
+name: "Stratos"
+url: "https://stratosapp.dev/buy/"
+description: "Native Swift macOS PHP 8.1-8.5 & Laravel local dev stack (Nginx, .test HTTPS, Visual Tinker REPL, DB Hub + ER Diagrams, Cloudflare Tunnels, v1.7.1 MCP bridge for Cursor & Claude Code). Zero Docker VM."
+discount: "20% off Founder Lifetime ($89 -> $71.20, 3 Macs), Pro Annual ($39/yr -> $31.20/yr) & Team ($129/yr -> $103.20/yr)"
+percent: 20
+code: "BFCM20"
+starts: "2026-11-15"
+ends: "2026-11-30"
