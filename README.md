@@ -215,6 +215,7 @@ Deals are **submitted by makers and the community and reviewed** before they go 
 | [**MacPlus Software Mac apps**](https://noteifyapp.com/special-offers/) | 13 native Mac utilities for the Dock, windows, tabs, clipboard and files: DockView 2, ActiveDock 2, Quick Exposé 3, SuperTab 7, Tree Outliner and more. One-time purchase. | 30% OFF every app incl. lifetime licenses (Coupon: `MACPLUSBLACKFRIDAY26`) | Nov 1 – Nov 30, 2026 |
 | [**Forma**](https://useforma.app) | Native Mac free-form canvas for daily tasks and project planning, with markdown cards, checklists and a marker. Free app with a one-time Pro upgrade. | 47% OFF Lifetime Pro, $14.99 → $7.99 (Coupon: `BLACKFRIDAY50`), redeem in the Mac App Store app | Nov 20 – Dec 1, 2026 |
 | [**Recut**](https://getrecut.com/) | Skip the tedious parts of editing videos and podcasts. Recut removes silence automatically and exports to Premiere, Resolve and Final Cut Pro. Mac/Windows/Linux | **$50 OFF**, one-time purchase: $149 → $99 (no code needed) | Nov 12 – Dec 4, 2026 |
+| [**DeskRest**](https://deskrest.com/offers) | macOS menu bar app that reminds you to take regular breaks, rest your eyes and stay healthy while you work. | 80% OFF Lifetime Licenses (Coupon: `BLACKFRIDAY80`) | Nov 9 – Dec 10, 2026 |
 
 ---
 
