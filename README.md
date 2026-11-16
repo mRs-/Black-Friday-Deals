@@ -206,6 +206,7 @@ Deals are **submitted by makers and the community and reviewed** before they go 
 | [**DailyRemote**](https://dailyremote.com/get-started) | Remote job board that shows new remote jobs hours after they are posted, with salary filters and daily job alerts. | 39% OFF Premium monthly, quarterly and yearly plans (Coupon: `BFBNRTZSY`) | Nov 12 – Dec 1, 2026 |
 | [**FlexiBackup**](https://kahsenglee.gumroad.com/l/FlexiBackup/BLACK2026) | Mac app to back up your iPhone and iPad straight to an external drive, freeing up Mac storage and relying less on iCloud. | 50% OFF one-time purchase, $5.99 → $2.99 (Coupon: `BLACK2026`) | Nov 8 – Dec 6, 2026 |
 | [**BetterStage**](https://betterstage.app/pricing?utm_source=pimjo-bf&utm_campaign=bf2026) | Window and workspace manager for macOS: named Stages that span all your monitors, automatic tiling with tabs, a Stage-aware ⌘Tab switcher, and Saved Workspaces. Native Mac app (macOS 14+). One-time purchase. | 20% OFF lifetime Pro: $19.99 → $15.99 (1 Mac), $39.99 → $31.99 (3 Macs), $49.99 → $39.99 (5 Macs) (Coupon: `BLACKFRIDAY20`) | Nov 23 – Nov 30, 2026 |
+| [**palmscreen**](https://www.palmscreen.app/black-friday/) | Your screen, beautifully captured. Screenshots and recordings for Mac in one unified editor. macOS 15+. | 34% OFF: $19 instead of $29 (introductory price, regular $39 afterwards), one-time, one Mac (Coupon: `BLACKWEEK`) | Nov 23 – Nov 30, 2026 |
 
 ---
 
