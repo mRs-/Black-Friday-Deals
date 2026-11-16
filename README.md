@@ -115,6 +115,7 @@ Deals are **submitted by makers and the community and reviewed** before they go 
 | [**OffSeq Mirage**](https://mirage.offseq.com/pricing) | Real-time honeypot threat intelligence with attacker attribution and STIX/MISP exports. | **50% OFF** the first 3 months of any plan (code pre-filled at checkout): Starter €49 → €24.50/mo, Pro €149 → €74.50/mo, Business €399 → €199.50/mo for 3 months (excl. VAT) (Coupon: `BFCM2026`) | Nov 13 – Nov 30, 2026 |
 | [**Guard by OffSeq**](https://guard.report/monitoring) | Website security and NIS2/GDPR compliance scanning with continuous monitoring. | **50% OFF** the full report and the first month of monitoring, applied automatically: Full report €39.90 → €19.95, monitoring €25 → €12.50 first month per domain (incl. 21% VAT) | Nov 13 – Dec 1, 2026 |
 | [**OffSeq Pulse**](https://pulse.offseq.com/pricing) | EU-hosted device posture and NIS2/CIS compliance for Windows, macOS and Linux. | **50% OFF** the first year or first month for new customers, applied automatically: Pulse €4 → €2 per device/mo billed annually (€5 → €2.50 monthly), Managed €12 → €6 (excl. VAT); first 2 devices free | Nov 13 – Dec 2, 2026 |
+| [**Zero-Trace Ship Kit**](https://zero-trace-ship-kit.zeus-lab-global.workers.dev/?utm_source=pimjo) | Git hooks that stop commit and push when a supported leak pattern (keys, home paths, private keys, e-mails, photo metadata) is found, plus clean release ZIPs. Python, no network. | Solo licence 40% OFF, $39 → $23.40, buy once (Coupon: `FOUNDER10`, first 100 uses) | Nov 14 – Nov 30, 2026 |
 
 ---
 
