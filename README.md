@@ -45,6 +45,7 @@ Deals are **submitted by makers and the community and reviewed** before they go 
 | [**MakeItSay**](https://makeitsay.com/pricing?utm_source=github-pimjo&utm_campaign=bf2026) | Edit or translate text inside photos, screenshots, and labels while matching the original font and background (web, API & MCP). | **30% OFF** non-expiring credit packs: $2.10 (was $3) or $7 for 40 edits (was $10) (Coupon: `BF2026`) | Nov 13 – Dec 1, 2026 |
 | [**PugSoda**](https://pugsoda.com/pricing?utm_source=github-pimjo&utm_campaign=bf2026) | Turn one photo into trending AI meme, dance, and photo-studio videos in the browser. | **30% OFF** first month on monthly plans (Coupon: `BF2026`) + **+25%–30% bonus** non-expiring credits on packs | Nov 13 – Dec 1, 2026 |
 | [**RapStar Studio**](https://rapstarstudio.com/pricing?utm_source=github-pimjo&utm_campaign=bf2026) | Generate a custom AI rap song in two versions plus two 720p lyric videos from names and inside jokes. | **30% OFF** custom song: $6.93, was $9.90 (Coupon: `BF2026`) | Nov 13 – Dec 1, 2026 |
+| [**Outlier**](https://outlier.host/pricing/?utm_source=pimjo&utm_medium=deals) | Runs open AI models on your own Mac, so your chats and code stay on it, even offline: chat plus a coding agent for your own codebase. Free to start. | **31% OFF**, one-time purchase, no code needed. Black Friday sale: $16.99 once, 31% off our November price of $24.50, through December 2. Then $29. | Nov 13 – Dec 2, 2026 |
 
 ---
 
@@ -168,6 +169,7 @@ Deals are **submitted by makers and the community and reviewed** before they go 
 | [**BlitzReels**](https://blitzreels.com/black-friday?utm_source=pimjo) | AI clipping and scheduling: turns long videos into captioned vertical clips for TikTok, Reels and Shorts, then schedules them to your accounts. Also makes AI images and faceless videos. | **60% less than paying monthly** on yearly plans: first year $139 / $379 / $949 (Starter / Growth / Agency), then the normal yearly price. +90 bonus credits (no coupon needed) | Nov 10 – Dec 1, 2026 |
 | [**Citation Rocket**](https://www.citationrocket.com/pricing?utm_source=pimjo&utm_medium=bf_list&utm_campaign=bf2026) | AI-search readiness audit: checks if GPT, Claude, Gemini, Perplexity and Grok name your brand, then gives a ranked fix list and a 10-file AEO Pack. Pay once. | **40% OFF** Lifetime ($99 → $59) and Agency ($149 → $89), no code needed | Nov 12 – Dec 2, 2026 |
 | [**Fourth Feed**](https://fourthfeed.com/write?utm_source=github-pimjo&utm_campaign=bf2026) | Publish side-by-side sponsored comparison benchmarks on an AI video tools directory. | **30% OFF** maker post packs: from $13.30, was $19 (Coupon: `BF2026`) | Nov 13 – Dec 1, 2026 |
+| [**Check Engine SEO**](https://checkengineseo.com/pricing/?utm_source=pimjo&utm_medium=deals) | Desktop SEO audit for Mac and Windows: 99 checks, including whether AI crawlers like GPTBot can read your site, ranked into a fix plan with the markup to paste. | **32% OFF**, one-time purchase, no code needed. Black Friday sale: $19.99 once, 32% off our November price of $29.50, through December 2. Then $39. | Nov 13 – Dec 2, 2026 |
 
 ---
 
