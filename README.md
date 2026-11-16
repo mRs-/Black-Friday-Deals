@@ -104,6 +104,7 @@ Deals are **submitted by makers and the community and reviewed** before they go 
 | [**Perch**](https://perch.run/black-friday?ref=pimjo) | Native Mac menu bar app for Claude Code, Codex, Cursor and six more AI coding agents: see every session, and approve from your iPhone and Apple Watch. | 40% OFF one-time licence ($29 → $17.40), solo or per team seat, first 500 orders (Coupon: `BLACKFRIDAY2026`) | Nov 2 – Dec 1, 2026 |
 | [**Safe Screen Share**](https://www.safescreenshare.com) | Chrome and Firefox extension that auto-blurs emails, API keys and customer data before you screen share or record. | 40% OFF lifetime license (Coupon: `BF2026`) | Nov 13 – Dec 2, 2026 |
 | [**DevWorkspace Pro**](https://devworkspacepro.com) | One desktop app to run, code and ship any dev project: Files, Git, GitHub, AI agents, terminal, and DDEV, Docker or native runtimes. | 40% OFF All Plans (Coupon: `BLACKFRIDAY40OFF`) | Nov 10 – Dec 10, 2026 |
+| [**Babelize**](https://www.babelize.co/?ref=PimjoGitHub#pricing) | Turns the hardcoded text in a React or Next.js app into a reviewed i18n pull request in 90+ languages, then translates every new push. | 50% OFF the first year of Pro yearly, $84 → $42 (Coupon: `BLACKFRIDAY26`) | Nov 16 – Dec 1, 2026 |
 
 ---
 
