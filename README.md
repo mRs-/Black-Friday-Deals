@@ -235,10 +235,9 @@ Deals are **submitted by makers and the community and reviewed** before they go 
 
 ### ⚙️ NoCode Tools
 
-_No deals yet. [Add yours](#how-to-contribute)!_
-
 | Name | Description | Deal Details | Validity |
 | --- | --- | --- | --- |
+| [**own.page**](https://own.page/pricing?utm_source=pimjo&utm_medium=deal_list&utm_campaign=black_week_2026) | No-code personal website builder that goes way beyond link in bio: sell products, take bookings, collect leads and get paid on your own domain. | 40% OFF Pro yearly ($79.90 → $47.94) and 30% OFF Business yearly ($199 → $139.30), auto-applied, no code needed | Nov 20 – Nov 30, 2026 |
 
 ---
 
