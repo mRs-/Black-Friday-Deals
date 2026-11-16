@@ -121,6 +121,7 @@ Deals are **submitted by makers and the community and reviewed** before they go 
 | [**MingCute Icons**](https://mgc.mingcute.com/?utm_source=bfd1) | Carefully crafted icon pack collection featuring over 27,000 high-quality vector icons | **30% OFF** ($59 → $41) (Coupon: `BF2026`) | Nov 15 – Dec 5, 2026 |
 | [**Animation Icons**](https://www.mingcute.com/animation?utm_source=bfd1) | 120+ lively and smooth animated icons | **30% OFF** ($25 → $17.5) (Coupon: `BF2026`) | Nov 15 – Dec 5, 2026 |
 | [**Weather Icons**](https://mgcweather.framer.website/?utm_source=bfd1) | 120 graceful weather icons | **30% OFF** ($25 → $17.5) (Coupon: `BF2026`) | Nov 15 – Dec 5, 2026 |
+| [**HDRI Hub**](https://www.hdri-hub.com/shop/hdri?discount=BLACK50&utm_source=pimjo&utm_campaign=bf2026) | High-resolution HDRI skies, HDRI domes, backplates and 3D people for architectural visualization, car and product rendering. | 50% OFF everything, bundles included (Coupon: `BLACK50`, applied automatically by the link) | Nov 19 – Dec 1, 2026 |
 
 ---
 
