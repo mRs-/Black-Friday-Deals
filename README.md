@@ -42,6 +42,7 @@ Deals are **submitted by makers and the community and reviewed** before they go 
 | [**Wovo**](https://wovo.one/?ref=pimjo2026#pricing) | One MCP that turns any AI into a multi-device agent across all your computers. | 50% OFF Pro and Max yearly plans, auto-applied at checkout (no code): Pro $144 → $72/yr ($6/mo); Max $348 → $174/yr ($14.50/mo). Price locked for the subscription. New and existing users. | Now – Dec 15, 2026 |
 | [**Wordfully**](https://www.wordfully.ai/c/BLACKFRIDAY2026) | AI grammar checker and rephraser for everyday writing. | **50% OFF the first Pro payment** (Coupon: `BLACKFRIDAY2026`). Monthly $20 → $10 for the first month; annual $108 → $54 for the first year (USD, before tax). First-time paying customers only; renewals at normal price. | Nov 12 – Dec 4, 2026 |
 | [**Let's Trip**](https://letstrip.ai/pricing) | AI travel planner with personalized itineraries, hotel and flight price tracking, and price-drop alerts. | 50% OFF Premium: $5/month (was $10) or $50/year (was $100). | Nov 11 – Dec 1, 2026 |
+| [**Orchard**](https://orchard.5km.tech/black-friday?utm_source=gh-pimjo&utm_medium=github&utm_campaign=bf2026) | Native Mac app that lets AI assistants use Mail, Calendar, Notes, Reminders and 7 more Apple apps locally via MCP, Agent Skills or a CLI. | 33% OFF Lifetime ($26.79) and the first year of Annual ($16.74) (Coupon: `BF2026`) | Nov 20 – Dec 6, 2026 |
 
 ---
 
@@ -104,6 +105,7 @@ Deals are **submitted by makers and the community and reviewed** before they go 
 | [**Perch**](https://perch.run/black-friday?ref=pimjo) | Native Mac menu bar app for Claude Code, Codex, Cursor and six more AI coding agents: see every session, and approve from your iPhone and Apple Watch. | 40% OFF one-time licence ($29 → $17.40), solo or per team seat, first 500 orders (Coupon: `BLACKFRIDAY2026`) | Nov 2 – Dec 1, 2026 |
 | [**Safe Screen Share**](https://www.safescreenshare.com) | Chrome and Firefox extension that auto-blurs emails, API keys and customer data before you screen share or record. | 40% OFF lifetime license (Coupon: `BF2026`) | Nov 13 – Dec 2, 2026 |
 | [**DevWorkspace Pro**](https://devworkspacepro.com) | One desktop app to run, code and ship any dev project: Files, Git, GitHub, AI agents, terminal, and DDEV, Docker or native runtimes. | 40% OFF All Plans (Coupon: `BLACKFRIDAY40OFF`) | Nov 10 – Dec 10, 2026 |
+| [**KeygenGo**](https://keygengo.5km.tech/black-friday?utm_source=gh-pimjo&utm_medium=github&utm_campaign=bf2026) | Native Mac client for Keygen.sh: manage products, licenses, users and machines in one window. | 50% OFF: Lifetime $19.99 (no code needed), Annual $9.99 for the first year (Coupon: `BF2026YEAR`) | Nov 20 – Dec 6, 2026 |
 
 ---
 
@@ -121,6 +123,7 @@ Deals are **submitted by makers and the community and reviewed** before they go 
 | [**MingCute Icons**](https://mgc.mingcute.com/?utm_source=bfd1) | Carefully crafted icon pack collection featuring over 27,000 high-quality vector icons | **30% OFF** ($59 → $41) (Coupon: `BF2026`) | Nov 15 – Dec 5, 2026 |
 | [**Animation Icons**](https://www.mingcute.com/animation?utm_source=bfd1) | 120+ lively and smooth animated icons | **30% OFF** ($25 → $17.5) (Coupon: `BF2026`) | Nov 15 – Dec 5, 2026 |
 | [**Weather Icons**](https://mgcweather.framer.website/?utm_source=bfd1) | 120 graceful weather icons | **30% OFF** ($25 → $17.5) (Coupon: `BF2026`) | Nov 15 – Dec 5, 2026 |
+| [**LottieGo**](https://lottiego.com/black-friday?utm_source=gh-pimjo&utm_medium=github&utm_campaign=bf2026) | Mac app that shrinks Lottie JSON files and exports MP4, transparent MOV or GIF, all locally. | 50% OFF Pro Lifetime: $4.99 → $2.49 (no code needed) | Nov 20 – Dec 6, 2026 |
 
 ---
 
@@ -185,6 +188,7 @@ Deals are **submitted by makers and the community and reviewed** before they go 
 | [**Gramcheck**](https://extensions.loopspec.com/gramcheck?utm_source=github_pimjo&utm_medium=referral&utm_campaign=black_friday_2026&utm_content=gramcheck) | On-device grammar and spelling checker for Chrome; your writing is never uploaded. | **51% OFF** one-time license: $39 → $19, including 5 years of updates; no code needed. License keeps working afterward. | Nov 5 – Dec 2, 2026 |
 | [**Roomtape**](https://extensions.loopspec.com/roomtape?utm_source=github_pimjo&utm_medium=referral&utm_campaign=black_friday_2026&utm_content=roomtape) | Chrome extension that records Google Meet and Teams calls to local MP4 files, with no bot or uploads. | **69% OFF** one-time license: $29 → $9, including 3 years of updates; no code needed. License keeps working afterward. | Nov 5 – Dec 2, 2026 |
 | [**Bardach Technologies Templates**](https://bardachtechnologies.gumroad.com/) | Spreadsheet and Notion templates for small businesses and freelancers, and the Larderly menu costing. | 25% OFF all products, regular prices from $4.99 (Coupon: `BLACKFRIDAY2026`) | Nov 24 – Dec 1, 2026 |
+| [**Zipic**](https://zipic.app/black-friday?utm_source=gh-pimjo&utm_medium=github&utm_campaign=bf2026) | Compresses, converts and resizes images locally on Mac and Windows, including AVIF, WebP and JPEG XL. | 33% OFF one-time licenses: Solo $13.39, Personal $20.09, Team $87.09 (Coupon: `BF2026`) | Nov 20 – Dec 6, 2026 |
 
 ---
 
