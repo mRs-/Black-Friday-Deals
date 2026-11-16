@@ -19,9 +19,9 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 
 ## Categories
 
-**304 deals** in 20 categories. 💸 marks 50% off or more, 💰 less than 50%.
+**305 deals** in 20 categories. 💸 marks 50% off or more, 💰 less than 50%.
 
-🛠&nbsp;[Development Software](#development-software)&nbsp;`45` · 🤖&nbsp;[AI Tools](#ai-tools)&nbsp;`24` · 🌈&nbsp;[Marketing Software](#marketing-software)&nbsp;`13` · 🎩&nbsp;[Security Software](#security-software)&nbsp;`15` · 🎛&nbsp;[Utility Software](#utility-software)&nbsp;`67` · 📌&nbsp;[Productivity Software](#productivity-software)&nbsp;`49` · 🎥&nbsp;[Video Software](#video-software)&nbsp;`17` · 🎨&nbsp;[Graphic Software](#graphic-software)&nbsp;`12` · 🏝️&nbsp;[Lifestyle](#lifestyle)&nbsp;`9` · 🗣️&nbsp;[Social](#social)&nbsp;`1` · 🎓&nbsp;[Reference & Education](#reference--education)&nbsp;`4` · 👩‍🎓&nbsp;[Courses and Videos](#courses-and-videos)&nbsp;`9` · 📈&nbsp;[Business Software](#business-software)&nbsp;`8` · 🏃🏻‍♀️&nbsp;[Health & Fitness Software](#health--fitness-software)&nbsp;`9` · 🎁&nbsp;[Bundles](#bundles)&nbsp;`2` · 🎶&nbsp;[Creative Content](#creative-content)&nbsp;`2` · 🤑&nbsp;[Finance](#finance)&nbsp;`5` · 🗺️&nbsp;[Navigation](#navigation)&nbsp;`1` · 🔎&nbsp;[SEO](#seo)&nbsp;`10` · 🕹&nbsp;[Games](#games)&nbsp;`2`
+🛠&nbsp;[Development Software](#development-software)&nbsp;`45` · 🤖&nbsp;[AI Tools](#ai-tools)&nbsp;`25` · 🌈&nbsp;[Marketing Software](#marketing-software)&nbsp;`13` · 🎩&nbsp;[Security Software](#security-software)&nbsp;`15` · 🎛&nbsp;[Utility Software](#utility-software)&nbsp;`67` · 📌&nbsp;[Productivity Software](#productivity-software)&nbsp;`49` · 🎥&nbsp;[Video Software](#video-software)&nbsp;`17` · 🎨&nbsp;[Graphic Software](#graphic-software)&nbsp;`12` · 🏝️&nbsp;[Lifestyle](#lifestyle)&nbsp;`9` · 🗣️&nbsp;[Social](#social)&nbsp;`1` · 🎓&nbsp;[Reference & Education](#reference--education)&nbsp;`4` · 👩‍🎓&nbsp;[Courses and Videos](#courses-and-videos)&nbsp;`9` · 📈&nbsp;[Business Software](#business-software)&nbsp;`8` · 🏃🏻‍♀️&nbsp;[Health & Fitness Software](#health--fitness-software)&nbsp;`9` · 🎁&nbsp;[Bundles](#bundles)&nbsp;`2` · 🎶&nbsp;[Creative Content](#creative-content)&nbsp;`2` · 🤑&nbsp;[Finance](#finance)&nbsp;`5` · 🗺️&nbsp;[Navigation](#navigation)&nbsp;`1` · 🔎&nbsp;[SEO](#seo)&nbsp;`10` · 🕹&nbsp;[Games](#games)&nbsp;`2`
 
 <a id="development-software"></a>
 
@@ -107,6 +107,7 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 | 💰 | **[NotebookLM Tools](https://www.nlmtools.com/pricing?utm_source=mrs-black-friday-deals&utm_medium=referral&utm_campaign=black-friday-2026)**<br>Chrome and Firefox extension that adds 35+ features to NotebookLM (now Gemini Notebook): bulk import, folders and collections, source export and saved prompts. Pro adds batch generation of quizzes, flashcards, slides and reports. | <b>30% off 1-Month and 1-Year Pro: ~~$7~~ $4.90 and ~~$29~~ $20.30</b><br>`BLACKFRIDAY2026` · One-time payments, no subscription; Lifetime not included · Nov&nbsp;14&nbsp;–&nbsp;Dec&nbsp;2 |
 | 💸 | **[Radiantly](https://radiantly.space/pricing)**<br>Radiantly helps experts turn their knowledge into branded AI agents with interactive experiences, personalized responses for each client, and connections to 1,600+ apps. | <b>60% off the first annual subscription payment for new users</b><br>`BF60` · Pro: $91.20 for the first year (normally $228/year). Max: $283.20 for the first year (normally $708/year). BF60 does not apply to renewals. Dates are UTC. · Nov&nbsp;15&nbsp;–&nbsp;Dec&nbsp;15 |
 | 💰 | **[NotchLive](https://notchlive.app/pricing#plans)**<br>Follow calls and videos with private live captions on your Mac. Pro adds supported live translation, searchable recordings and transcript export. | <b>20% off one-time Pro: US$29 → US$23.20 before tax</b><br>Automatically applied at checkout. Local pricing may vary. Ends at 17:00 UTC. · Nov&nbsp;15&nbsp;–&nbsp;Dec&nbsp;17 |
+| 💰 | **[HiAPI](https://hiapi.ai/en/promotions/black-friday-2026?utm_source=github&utm_medium=awesome-list&utm_campaign=bf26&utm_content=Black-Friday-Deals)**<br>Pay-as-you-go API for image, video, audio and text models — GPT Image, Seedance, Kling, Veo, DeepSeek, Claude, Grok and Qwen behind one key; OpenAI-compatible text endpoints, async task APIs for media, automatic refunds on failed tasks. | <b>Up to 10% extra credit on top-ups and up to 20% back on image, video and audio spending</b><br>No coupon code. Top-ups earn up to 10% extra credit (max $50); media spend returns up to 20% (max $100, credited Dec 3), so $500 topped up and spent on media can reach $650 in credit. Paid accounts get 10M free DeepSeek V4.1 Flash tokens daily. · Nov&nbsp;24&nbsp;–&nbsp;Dec&nbsp;1 |
 
 <p align="right"><a href="#categories">↑ Categories</a></p>
 
@@ -509,7 +510,7 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 
 No deals yet in Books and Home Automation. [Add the first one](https://blackfriday.mariuslandwehr.com/submit/).
 
-<!-- DEALS:END checksum:10388584e099 -->
+<!-- DEALS:END checksum:a84b30fcce22 -->
 
 ## Add your deal
 
