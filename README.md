@@ -19,9 +19,9 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 
 ## Categories
 
-**306 deals** in 20 categories. 💸 marks 50% off or more, 💰 less than 50%.
+**308 deals** in 20 categories. 💸 marks 50% off or more, 💰 less than 50%.
 
-🛠&nbsp;[Development Software](#development-software)&nbsp;`45` · 🤖&nbsp;[AI Tools](#ai-tools)&nbsp;`25` · 🌈&nbsp;[Marketing Software](#marketing-software)&nbsp;`13` · 🎩&nbsp;[Security Software](#security-software)&nbsp;`15` · 🎛&nbsp;[Utility Software](#utility-software)&nbsp;`67` · 📌&nbsp;[Productivity Software](#productivity-software)&nbsp;`49` · 🎥&nbsp;[Video Software](#video-software)&nbsp;`17` · 🎨&nbsp;[Graphic Software](#graphic-software)&nbsp;`13` · 🏝️&nbsp;[Lifestyle](#lifestyle)&nbsp;`9` · 🗣️&nbsp;[Social](#social)&nbsp;`1` · 🎓&nbsp;[Reference & Education](#reference--education)&nbsp;`4` · 👩‍🎓&nbsp;[Courses and Videos](#courses-and-videos)&nbsp;`9` · 📈&nbsp;[Business Software](#business-software)&nbsp;`8` · 🏃🏻‍♀️&nbsp;[Health & Fitness Software](#health--fitness-software)&nbsp;`9` · 🎁&nbsp;[Bundles](#bundles)&nbsp;`2` · 🎶&nbsp;[Creative Content](#creative-content)&nbsp;`2` · 🤑&nbsp;[Finance](#finance)&nbsp;`5` · 🗺️&nbsp;[Navigation](#navigation)&nbsp;`1` · 🔎&nbsp;[SEO](#seo)&nbsp;`10` · 🕹&nbsp;[Games](#games)&nbsp;`2`
+🛠&nbsp;[Development Software](#development-software)&nbsp;`46` · 🤖&nbsp;[AI Tools](#ai-tools)&nbsp;`25` · 🌈&nbsp;[Marketing Software](#marketing-software)&nbsp;`13` · 🎩&nbsp;[Security Software](#security-software)&nbsp;`15` · 🎛&nbsp;[Utility Software](#utility-software)&nbsp;`67` · 📌&nbsp;[Productivity Software](#productivity-software)&nbsp;`49` · 🎥&nbsp;[Video Software](#video-software)&nbsp;`18` · 🎨&nbsp;[Graphic Software](#graphic-software)&nbsp;`13` · 🏝️&nbsp;[Lifestyle](#lifestyle)&nbsp;`9` · 🗣️&nbsp;[Social](#social)&nbsp;`1` · 🎓&nbsp;[Reference & Education](#reference--education)&nbsp;`4` · 👩‍🎓&nbsp;[Courses and Videos](#courses-and-videos)&nbsp;`9` · 📈&nbsp;[Business Software](#business-software)&nbsp;`8` · 🏃🏻‍♀️&nbsp;[Health & Fitness Software](#health--fitness-software)&nbsp;`9` · 🎁&nbsp;[Bundles](#bundles)&nbsp;`2` · 🎶&nbsp;[Creative Content](#creative-content)&nbsp;`2` · 🤑&nbsp;[Finance](#finance)&nbsp;`5` · 🗺️&nbsp;[Navigation](#navigation)&nbsp;`1` · 🔎&nbsp;[SEO](#seo)&nbsp;`10` · 🕹&nbsp;[Games](#games)&nbsp;`2`
 
 <a id="development-software"></a>
 
@@ -74,6 +74,7 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 | 💰 | **[AtAt](https://atatapp.com/black-friday?ref=bf-mrs)**<br>@ for people. @@ for AI. Type @@ in any text field on Mac to ask Claude Code, Codex, Ollama, your own API key or Siri AI with screen and Finder context, plus an atat CLI for terminal agents. Apple silicon, macOS 15+, 14-day trial. | <b>47% off Lifetime ($169 → $89 once), or $20 off the first year of Yearly ($59 → $39)</b><br>Applied automatically at checkout, no code needed. Yearly renews at $59/year; Monthly ($9/mo) is not discounted. Runs Nov 24 – Dec 1, 2026 (US Pacific). · Nov&nbsp;24&nbsp;–&nbsp;Dec&nbsp;1 |
 | 💸 | **[RegExp](https://loshadki.app/regexp/)**<br>Write and test regular expressions in Swift Regex, NSRegularExpression, JavaScript, PCRE2 and Go, on Mac, iPhone and iPad. RegExp is free; Pro adds Explain, test cases, Apple Intelligence and every flavor's advanced options. | <b>60% off RegExp Pro: ~~$2.99~~ $1.19</b><br>In-app purchase on the App Store, no code needed. · Nov&nbsp;14&nbsp;–&nbsp;Dec&nbsp;1 |
 | 💸 | **[ShellHistory](https://loshadki.app/shellhistory/)**<br>Keep, search and sync your zsh, bash and fish history on Mac, iPhone and iPad, with statistics, notebooks and Explain Command. | <b>60% off: Mac App Store ~~$13.99~~ $5.59 (iPhone and iPad included), or ~~$13.99~~ $5.60 on loshadki.app</b><br>`BLACKFRIDAY26` · The code is for the loshadki.app store; on the Mac App Store the price is already lower, no code needed. One-time purchase. · Nov&nbsp;14&nbsp;–&nbsp;Dec&nbsp;1 |
+| 💸 | **[SupaYatta](https://supayatta.com?ref=mrs)**<br>Know when your AI agents need you, right from your Mac's notch. Alerts for Claude, Cursor, Cowork and more. | <b>65% off Lifetime ($19.99 → $6.99)</b><br>`YATTADEAL` · one-time purchase · Nov&nbsp;9&nbsp;–&nbsp;Dec&nbsp;7 |
 
 <p align="right"><a href="#categories">↑ Categories</a></p>
 
@@ -314,6 +315,7 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 |  | **[MusicMV](https://musicmv.ai/black-friday)**<br>Turn a song and a photo into a beat-synced music video with lip-sync and a reviewable storyboard. | <b>Up to 40% off one-time credit packs (Starter 10%, Creator 20%, Studio 30%, Studio Plus 40%)</b><br>One-time credit packs. Sale prices are applied automatically at checkout from the official Black Friday page. No coupon needed. Purchased credits never expire. Dates are Pacific Time. · Nov&nbsp;13&nbsp;–&nbsp;Dec&nbsp;1 |
 | 💸 | **[LiveReacting](https://www.livereacting.com/pricing)**<br>Stream pre-recorded videos and 24/7 live channels to YouTube, Facebook, Twitch and more from the cloud. No computer needs to stay on. | <b>50% off your first year of annual plans</b><br>`BF2026` · Annual plans: Small, Medium, Large, 24/7 Streaming; new customers only · Nov&nbsp;20&nbsp;–&nbsp;Dec&nbsp;4 |
 |  | **[Recut](https://getrecut.com/)**<br>Skip the tedious parts of editing videos and podcasts. Recut removes silence automatically and exports to Premiere, Resolve and Final Cut Pro. Mac/Windows/Linux | <b>$50 off, one-time purchase ($149 → $99)</b><br>Applied automatically, updates included · Nov&nbsp;12&nbsp;–&nbsp;Dec&nbsp;4 |
+| 💰 | **[AVE AI Video Editor](https://www.aivideoeditor.app/pro/?utm_source=mac-ios-black-friday&utm_medium=referral&utm_campaign=ave_eoy_2026)**<br>A Mac video editor for recording screen demos, editing through transcripts, and building cuts with an AI assistant. | <b>30% off AVE Pro Lifetime (USD $99 to $69.30 before tax)</b><br>Automatically applied at checkout; no code. Monthly plan excluded. Ends Dec 24 at 17:00 UTC. · Nov&nbsp;16&nbsp;–&nbsp;Dec&nbsp;24 |
 
 <p align="right"><a href="#categories">↑ Categories</a></p>
 
@@ -511,7 +513,7 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 
 No deals yet in Books and Home Automation. [Add the first one](https://blackfriday.mariuslandwehr.com/submit/).
 
-<!-- DEALS:END checksum:0605c41b86ea -->
+<!-- DEALS:END checksum:deda0b69b898 -->
 
 ## Add your deal
 
