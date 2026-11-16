@@ -236,6 +236,7 @@ Deals are **submitted by makers and the community and reviewed** before they go 
 | [**AppSec.training**](https://appsec.training) | Application security, DevSecOps and secure SDLC training on the web. | 50% OFF (Coupon: `blackfriday`) | Now – Dec 31, 2026 |
 | [**OnlySecurity**](https://onlysecurity.com/black-friday/?utm_source=pimjo&utm_medium=referral&utm_campaign=bf26) | Hands-on security training from KSEC and independent trainers: web and Active Directory attacks, RFID, lock picking and OSINT. | 15% OFF every course not already on sale, the first payment of Plus or Max membership and the KSEC All Access pass. Auto-applied, no code needed | Nov 23 to Nov 30, 2026 |
 | [**Wireless Operator**](https://training.thexero.co.uk/blackfriday) | Hands-on Wi-Fi pentesting course from TheXero Training Academy, covering 802.11 frames, WPA3, enterprise Wi-Fi, rogue APs, wireless pivots and fuzzing, with a simulated lab and live coaching. | $197 instead of $599 (67% off, no code needed) | Nov 10 – Dec 1 2026 |
+| [CyberWarFare Labs](https://cyberwarfare.live/) | Hands-on cybersecurity training platform offering practical labs, and industry-relevant certifications across Red Team, Blue Team, Cloud Security, AI Security, and more.[More Details](https://github.com/RedTeamOperations/black-friday-cyber-sale-2026) | 💸 **Up to 90% OFF** course bundles · Individual certifications from $5 · Infinity Yearly $49 with 2 free certifications · code `INFINITY49` (Yearly) / `INFINITY5` (Monthly) | Nov 12, 2026 - Dec 1, 2026 |
 
 ---
 
