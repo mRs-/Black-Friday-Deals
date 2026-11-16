@@ -72,6 +72,7 @@ Deals are **submitted by makers and the community and reviewed** before they go 
 | [**Dirstarter**](https://dirstarter.com/?discountCode=BF2026) | Next.js directory template with built-in payments, SEO and an MCP server for AI agents. Pay once, launch unlimited directories. | 50% OFF lifetime license, Basic $150 → $75, Pro $200 → $100 (Coupon: `BF2026`) | Nov 10 – Dec 1, 2026 |
 | [**Shashank Thigale Framer Templates**](https://shashankthigale.com/templates/?utm_source=pimjo&utm_medium=referral&utm_campaign=bfcm2026) | Niche Framer website templates for med spas (Nacre), retreat centers (Quinta) and therapy practices (Bower), with booking flows and CMS content. | 30% OFF all templates, single-site and Unlimited licenses; All-Access Pass (every template and component) $199 → $139 (Coupon: `BFCM30`) | Nov 27 - Dec 1, 2026 |
 | [**MingCute UI**](https://ui.mingcute.com/?utm_source=bfd1) | Design system and UI Kit for Figma | **30% OFF** ($59 → $41) (Coupon: `BF2026`) | Nov 15 – Dec 5, 2026 |
+| [**SaaSykit**](https://saasykit.com/) | Production-ready Laravel SaaS boilerplate with billing (Stripe, Paddle, Lemon Squeezy), auth, admin panel, multi-tenancy and SaaS metrics. One-time purchase. | **50% OFF** all versions: SaaSykit $239 → $119.50, Tenancy $269 → $134.50, Complete $299 → $149.50. Auto-applied (Coupon: `BLACKFRIDAY26`) | Nov 14 – Dec 6, 2026 |
 
 ---
 
@@ -208,6 +209,7 @@ Deals are **submitted by makers and the community and reviewed** before they go 
 | [**FlexiBackup**](https://kahsenglee.gumroad.com/l/FlexiBackup/BLACK2026) | Mac app to back up your iPhone and iPad straight to an external drive, freeing up Mac storage and relying less on iCloud. | 50% OFF one-time purchase, $5.99 → $2.99 (Coupon: `BLACK2026`) | Nov 8 – Dec 6, 2026 |
 | [**BetterStage**](https://betterstage.app/pricing?utm_source=pimjo-bf&utm_campaign=bf2026) | Window and workspace manager for macOS: named Stages that span all your monitors, automatic tiling with tabs, a Stage-aware ⌘Tab switcher, and Saved Workspaces. Native Mac app (macOS 14+). One-time purchase. | 20% OFF lifetime Pro: $19.99 → $15.99 (1 Mac), $39.99 → $31.99 (3 Macs), $49.99 → $39.99 (5 Macs) (Coupon: `BLACKFRIDAY20`) | Nov 23 – Nov 30, 2026 |
 | [**palmscreen**](https://www.palmscreen.app/black-friday/) | Your screen, beautifully captured. Screenshots and recordings for Mac in one unified editor. macOS 15+. | 34% OFF: $19 instead of $29 (introductory price, regular $39 afterwards), one-time, one Mac (Coupon: `BLACKWEEK`) | Nov 23 – Nov 30, 2026 |
+| [**CopyPasta**](https://usecopypasta.com/) | Private-by-default clipboard manager for macOS that opens from the notch. One-time purchase. | **50% OFF** all licenses: Personal $14.99 → $7.50, Plus $29.99 → $15, Studio $39.99 → $20. Auto-applied (Coupon: `BLACKFRIDAY26`) | Nov 14 – Dec 6, 2026 |
 
 ---
 
