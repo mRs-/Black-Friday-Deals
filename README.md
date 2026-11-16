@@ -119,6 +119,7 @@ Deals are **submitted by makers and the community and reviewed** before they go 
 | [**OffSeq Pulse**](https://pulse.offseq.com/pricing) | EU-hosted device posture and NIS2/CIS compliance for Windows, macOS and Linux. | **50% OFF** the first year or first month for new customers, applied automatically: Pulse €4 → €2 per device/mo billed annually (€5 → €2.50 monthly), Managed €12 → €6 (excl. VAT); first 2 devices free | Nov 13 – Dec 2, 2026 |
 | [**Zero-Trace Ship Kit**](https://zero-trace-ship-kit.zeus-lab-global.workers.dev/?utm_source=pimjo) | Git hooks that stop commit and push when a supported leak pattern (keys, home paths, private keys, e-mails, photo metadata) is found, plus clean release ZIPs. Python, no network. | Solo licence 40% OFF, $39 → $23.40, buy once (Coupon: `FOUNDER10`, first 100 uses) | Nov 14 – Nov 30, 2026 |
 | [**SupaYatta**](https://supayatta.com?ref=pj) | Know when your AI agents need you, right from your Mac's notch. Alerts for Claude, Cursor, Cowork and more. | 65% OFF Lifetime, $19.99 → $6.99 (Coupon: `YATTADEAL`) | Nov 9 – Dec 7, 2026 |
+| [**Babelize**](https://www.babelize.co/?ref=PimjoGitHub#pricing) | Turns the hardcoded text in a React or Next.js app into a reviewed i18n pull request in 90+ languages, then translates every new push. | 50% OFF the first year of Pro yearly, $84 → $42 (Coupon: `BLACKFRIDAY26`) | Nov 16 – Dec 1, 2026 |
 
 ---
 
