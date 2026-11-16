@@ -180,6 +180,7 @@ Deals are **submitted by makers and the community and reviewed** before they go 
 | [**LiveReacting**](https://www.livereacting.com/pricing) | Stream pre-recorded videos and 24/7 live channels to YouTube, Facebook, Twitch and more from the cloud. No computer needs to stay on. | **50% OFF** your first year of annual plans (Small, Medium, Large, 24/7 Streaming), new customers only (Coupon: `BF2026`) | Nov 20 – Dec 4, 2026 |
 | [**Keyword Race**](https://keywordrace.com/?utm_source=pimjo) | App Store keyword research for indie iOS developers: competing apps, your position among them and estimated demand, paid once. | 40% OFF lifetime access ($59 → $35) (no coupon needed, applied at checkout) | Nov 14 – Dec 2, 2026 |
 | [**Launch Agent Kit**](https://swipetolaunch.com/kit) | A kit your AI agent (Claude Code, Codex, Cursor or any other agent) uses to submit your product to the 300+ launch directories that fit your niche, then report every listing. | $29 one-time Black Friday price, $99 from Dec 2 (no coupon needed) | Nov 8 – Dec 1, 2026 |
+| [**Radar Lab**](https://partnershipintel.com/?utm_source=pimjo#pricing) | Find newsletters to sponsor that reach your buyers: ranks 4,700+ newsletters by fit and shows who already sponsors each one, with the real ads. | **67% OFF** Pro yearly, ~~$299~~ $99/year, locked for as long as you stay (no code needed) | Nov 16 – Nov 30, 2026 |
 
 ---
 
