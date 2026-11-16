@@ -185,6 +185,7 @@ Deals are **submitted by makers and the community and reviewed** before they go 
 | [**Gramcheck**](https://extensions.loopspec.com/gramcheck?utm_source=github_pimjo&utm_medium=referral&utm_campaign=black_friday_2026&utm_content=gramcheck) | On-device grammar and spelling checker for Chrome; your writing is never uploaded. | **51% OFF** one-time license: $39 → $19, including 5 years of updates; no code needed. License keeps working afterward. | Nov 5 – Dec 2, 2026 |
 | [**Roomtape**](https://extensions.loopspec.com/roomtape?utm_source=github_pimjo&utm_medium=referral&utm_campaign=black_friday_2026&utm_content=roomtape) | Chrome extension that records Google Meet and Teams calls to local MP4 files, with no bot or uploads. | **69% OFF** one-time license: $29 → $9, including 3 years of updates; no code needed. License keeps working afterward. | Nov 5 – Dec 2, 2026 |
 | [**Bardach Technologies Templates**](https://bardachtechnologies.gumroad.com/) | Spreadsheet and Notion templates for small businesses and freelancers, and the Larderly menu costing. | 25% OFF all products, regular prices from $4.99 (Coupon: `BLACKFRIDAY2026`) | Nov 24 – Dec 1, 2026 |
+| [**Leave Me Alone**](https://leavemealone.com/pricing/) | Unsubscribe from unwanted emails in one click, block senders, bundle newsletters into a digest. Gmail, Outlook, iCloud, Yahoo, Fastmail, IMAP. | **83% OFF** the Unlimited plan: $59/year instead of $30/month, every feature, every inbox you own, same price when you renew (no code needed, applied on the pricing page) | Nov 16 – Dec 8, 2026 |
 
 ---
 
