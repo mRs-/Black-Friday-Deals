@@ -46,6 +46,7 @@ Deals are **submitted by makers and the community and reviewed** before they go 
 | [**PugSoda**](https://pugsoda.com/pricing?utm_source=github-pimjo&utm_campaign=bf2026) | Turn one photo into trending AI meme, dance, and photo-studio videos in the browser. | **30% OFF** first month on monthly plans (Coupon: `BF2026`) + **+25%–30% bonus** non-expiring credits on packs | Nov 13 – Dec 1, 2026 |
 | [**RapStar Studio**](https://rapstarstudio.com/pricing?utm_source=github-pimjo&utm_campaign=bf2026) | Generate a custom AI rap song in two versions plus two 720p lyric videos from names and inside jokes. | **30% OFF** custom song: $6.93, was $9.90 (Coupon: `BF2026`) | Nov 13 – Dec 1, 2026 |
 | [**Outlier**](https://outlier.host/pricing/?utm_source=pimjo&utm_medium=deals) | Runs open AI models on your own Mac, so your chats and code stay on it, even offline: chat plus a coding agent for your own codebase. Free to start. | **31% OFF**, one-time purchase, no code needed. Black Friday sale: $16.99 once, 31% off our November price of $24.50, through December 2. Then $29. | Nov 13 – Dec 2, 2026 |
+| [**Aikeedo**](https://aikeedo.com/black-friday/?utm_source=pimjo&utm_medium=deal-listing&utm_campaign=bfcm2026) | Self-hosted, white-label AI SaaS platform to launch your own ChatGPT-style business. | 50% OFF Core for 12 months, the Commercial License and all add-ons; $100 OFF All-Access first year (auto-applied) | Nov 24 – Dec 1, 2026 |
 
 ---
 
