@@ -229,6 +229,7 @@ Deals are **submitted by makers and the community and reviewed** before they go 
 | [**Leave Me Alone**](https://leavemealone.com/pricing/) | Unsubscribe from unwanted emails in one click, block senders, bundle newsletters into a digest. Gmail, Outlook, iCloud, Yahoo, Fastmail, IMAP. | **83% OFF** the Unlimited plan: $59/year instead of $30/month, every feature, every inbox you own, same price when you renew (no code needed, applied on the pricing page) | Nov 16 – Dec 8, 2026 |
 | [**Wishbar**](https://wishbar.app/black-friday?ref=pimjo) | Mac menu bar app: describe a widget in plain English and your own ChatGPT or Claude builds it live. One-time purchase. | **50% OFF**: Solo $39 → $19 (no code needed) | Nov 16 – Dec 7, 2026 |
 | [**Zipic**](https://zipic.app/black-friday?utm_source=gh-pimjo&utm_medium=github&utm_campaign=bf2026) | Compresses, converts and resizes images locally on Mac and Windows, including AVIF, WebP and JPEG XL. | 33% OFF one-time licenses: Solo $13.39, Personal $20.09, Team $87.09 (Coupon: `BF2026`) | Nov 20 – Dec 6, 2026 |
+| [**DigiCard Pro**](https://www.digicard.pro/) | Digital business card with a QR code for Apple Wallet and Google Wallet. No account required, one-time payment. | 50% OFF, $49.99 → $24.99 one-time (Coupon: `DIGI50`) | Nov 23 – Nov 30, 2026 |
 
 ---
 
