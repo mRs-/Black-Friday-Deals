@@ -42,6 +42,9 @@ Deals are **submitted by makers and the community and reviewed** before they go 
 | [**Wovo**](https://wovo.one/?ref=pimjo2026#pricing) | One MCP that turns any AI into a multi-device agent across all your computers. | 50% OFF Pro and Max yearly plans, auto-applied at checkout (no code): Pro $144 → $72/yr ($6/mo); Max $348 → $174/yr ($14.50/mo). Price locked for the subscription. New and existing users. | Now – Dec 15, 2026 |
 | [**Wordfully**](https://www.wordfully.ai/c/BLACKFRIDAY2026) | AI grammar checker and rephraser for everyday writing. | **50% OFF the first Pro payment** (Coupon: `BLACKFRIDAY2026`). Monthly $20 → $10 for the first month; annual $108 → $54 for the first year (USD, before tax). First-time paying customers only; renewals at normal price. | Nov 12 – Dec 4, 2026 |
 | [**Let's Trip**](https://letstrip.ai/pricing) | AI travel planner with personalized itineraries, hotel and flight price tracking, and price-drop alerts. | 50% OFF Premium: $5/month (was $10) or $50/year (was $100). | Nov 11 – Dec 1, 2026 |
+| [**MakeItSay**](https://makeitsay.com/pricing?utm_source=github-pimjo&utm_campaign=bf2026) | Edit or translate text inside photos, screenshots, and labels while matching the original font and background (web, API & MCP). | **30% OFF** non-expiring credit packs: $2.10 (was $3) or $7 for 40 edits (was $10) (Coupon: `BF2026`) | Nov 13 – Dec 1, 2026 |
+| [**PugSoda**](https://pugsoda.com/pricing?utm_source=github-pimjo&utm_campaign=bf2026) | Turn one photo into trending AI meme, dance, and photo-studio videos in the browser. | **30% OFF** first month on monthly plans (Coupon: `BF2026`) + **+25%–30% bonus** non-expiring credits on packs | Nov 13 – Dec 1, 2026 |
+| [**RapStar Studio**](https://rapstarstudio.com/pricing?utm_source=github-pimjo&utm_campaign=bf2026) | Generate a custom AI rap song in two versions plus two 720p lyric videos from names and inside jokes. | **30% OFF** custom song: $6.93, was $9.90 (Coupon: `BF2026`) | Nov 13 – Dec 1, 2026 |
 
 ---
 
@@ -122,6 +125,7 @@ Deals are **submitted by makers and the community and reviewed** before they go 
 | [**MingCute Icons**](https://mgc.mingcute.com/?utm_source=bfd1) | Carefully crafted icon pack collection featuring over 27,000 high-quality vector icons | **30% OFF** ($59 → $41) (Coupon: `BF2026`) | Nov 15 – Dec 5, 2026 |
 | [**Animation Icons**](https://www.mingcute.com/animation?utm_source=bfd1) | 120+ lively and smooth animated icons | **30% OFF** ($25 → $17.5) (Coupon: `BF2026`) | Nov 15 – Dec 5, 2026 |
 | [**Weather Icons**](https://mgcweather.framer.website/?utm_source=bfd1) | 120 graceful weather icons | **30% OFF** ($25 → $17.5) (Coupon: `BF2026`) | Nov 15 – Dec 5, 2026 |
+| [**Unmerge**](https://unmerge.app/pricing?utm_source=github-pimjo&utm_campaign=bf2026) | Separate flat images, illustrations, and anime character art into editable transparent PSD and PNG layers (web, API & MCP). | **+33%–35% bonus** non-expiring credits (~26% OFF per layer) on one-time packs: Starter $3.90 (60 credits, was 45), Basic $10 (175 credits, was 130), auto-applied (no code needed) | Nov 13 – Dec 1, 2026 |
 
 ---
 
@@ -158,6 +162,7 @@ Deals are **submitted by makers and the community and reviewed** before they go 
 | [**Broadcast**](https://sendbroadcast.net/black-friday?ref=pimjo) | Self-hosted email marketing for developers: newsletters, automations and transactional email on your own server, with a REST API, an MCP server and your own SES, Postmark, Mailgun or SMTP. One-time license, unlimited subscribers. | **40% OFF** the Regular License, one-time ($250 → $150) (Coupon: `BLACKFRIDAY26`) | Nov 9 – Dec 1, 2026 |
 | [**BlitzReels**](https://blitzreels.com/black-friday?utm_source=pimjo) | AI clipping and scheduling: turns long videos into captioned vertical clips for TikTok, Reels and Shorts, then schedules them to your accounts. Also makes AI images and faceless videos. | **60% less than paying monthly** on yearly plans: first year $139 / $379 / $949 (Starter / Growth / Agency), then the normal yearly price. +90 bonus credits (no coupon needed) | Nov 10 – Dec 1, 2026 |
 | [**Citation Rocket**](https://www.citationrocket.com/pricing?utm_source=pimjo&utm_medium=bf_list&utm_campaign=bf2026) | AI-search readiness audit: checks if GPT, Claude, Gemini, Perplexity and Grok name your brand, then gives a ranked fix list and a 10-file AEO Pack. Pay once. | **40% OFF** Lifetime ($99 → $59) and Agency ($149 → $89), no code needed | Nov 12 – Dec 2, 2026 |
+| [**Fourth Feed**](https://fourthfeed.com/write?utm_source=github-pimjo&utm_campaign=bf2026) | Publish side-by-side sponsored comparison benchmarks on an AI video tools directory. | **30% OFF** maker post packs: from $13.30, was $19 (Coupon: `BF2026`) | Nov 13 – Dec 1, 2026 |
 
 ---
 
