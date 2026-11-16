@@ -217,6 +217,7 @@ Deals are **submitted by makers and the community and reviewed** before they go 
 | [**FindExams**](https://findexams.com/?ref=black-friday-deals) | Exam simulators for PMP, CBAP, ITIL 4 and more. | Up to 50% OFF, no coupon needed | Nov 16 – Nov 30, 2026 |
 | [**Vantagepoint**](https://vantagepoint.enciphers.com/) | Hands-on cybersecurity learning platform with real-world pentesting labs across Web, Mobile, Cloud, Red Teaming, CVEs, and more. | 70% OFF all hacking labs and certifications (Auto-applied) | Nov 2 – Dec 15, 2026 |
 | [**AppSec.training**](https://appsec.training) | Application security, DevSecOps and secure SDLC training on the web. | 50% OFF (Coupon: `blackfriday`) | Now – Dec 31, 2026 |
+| [**OnlySecurity**](https://onlysecurity.com/black-friday/?utm_source=pimjo&utm_medium=referral&utm_campaign=bf26) | Hands-on security training from KSEC and independent trainers: web and Active Directory attacks, RFID, lock picking and OSINT. | 15% OFF every course not already on sale, the first payment of Plus or Max membership and the KSEC All Access pass. Auto-applied, no code needed | Nov 23 to Nov 30, 2026 |
 
 ---
 
