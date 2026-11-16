@@ -42,6 +42,7 @@ Deals are **submitted by makers and the community and reviewed** before they go 
 | [**Wovo**](https://wovo.one/?ref=pimjo2026#pricing) | One MCP that turns any AI into a multi-device agent across all your computers. | 50% OFF Pro and Max yearly plans, auto-applied at checkout (no code): Pro $144 → $72/yr ($6/mo); Max $348 → $174/yr ($14.50/mo). Price locked for the subscription. New and existing users. | Now – Dec 15, 2026 |
 | [**Wordfully**](https://www.wordfully.ai/c/BLACKFRIDAY2026) | AI grammar checker and rephraser for everyday writing. | **50% OFF the first Pro payment** (Coupon: `BLACKFRIDAY2026`). Monthly $20 → $10 for the first month; annual $108 → $54 for the first year (USD, before tax). First-time paying customers only; renewals at normal price. | Nov 12 – Dec 4, 2026 |
 | [**Let's Trip**](https://letstrip.ai/pricing) | AI travel planner with personalized itineraries, hotel and flight price tracking, and price-drop alerts. | 50% OFF Premium: $5/month (was $10) or $50/year (was $100). | Nov 11 – Dec 1, 2026 |
+| [**TypeBoost**](https://www.typeboost.ai/) | AI writing assistant for macOS and iOS: write and improve text by voice or text, directly inside the apps you already use. | 50% OFF the first year of the yearly plan, $60 → $30 (Coupon: `TYPEBOOST50`) · 25% OFF the monthly plan for 3 months, $8 → $6 (Coupon: `TYPEBOOST25`). Web checkout only | Nov 23 – Nov 30, 2026 |
 
 ---
 
