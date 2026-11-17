@@ -19,9 +19,9 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 
 ## Categories
 
-**366 deals** in 20 categories. 💸 marks 50% off or more, 💰 less than 50%.
+**367 deals** in 20 categories. 💸 marks 50% off or more, 💰 less than 50%.
 
-🛠&nbsp;[Development Software](#development-software)&nbsp;`51` · 🤖&nbsp;[AI Tools](#ai-tools)&nbsp;`31` · 🌈&nbsp;[Marketing Software](#marketing-software)&nbsp;`16` · 🎩&nbsp;[Security Software](#security-software)&nbsp;`17` · 🎛&nbsp;[Utility Software](#utility-software)&nbsp;`77` · 📌&nbsp;[Productivity Software](#productivity-software)&nbsp;`63` · 🎥&nbsp;[Video Software](#video-software)&nbsp;`20` · 🎨&nbsp;[Graphic Software](#graphic-software)&nbsp;`19` · 🏝️&nbsp;[Lifestyle](#lifestyle)&nbsp;`12` · 🗣️&nbsp;[Social](#social)&nbsp;`3` · 🎓&nbsp;[Reference & Education](#reference--education)&nbsp;`5` · 👩‍🎓&nbsp;[Courses and Videos](#courses-and-videos)&nbsp;`9` · 📈&nbsp;[Business Software](#business-software)&nbsp;`10` · 🏃🏻‍♀️&nbsp;[Health & Fitness Software](#health--fitness-software)&nbsp;`10` · 🎁&nbsp;[Bundles](#bundles)&nbsp;`3` · 🎶&nbsp;[Creative Content](#creative-content)&nbsp;`2` · 🤑&nbsp;[Finance](#finance)&nbsp;`5` · 🗺️&nbsp;[Navigation](#navigation)&nbsp;`1` · 🔎&nbsp;[SEO](#seo)&nbsp;`10` · 🕹&nbsp;[Games](#games)&nbsp;`2`
+🛠&nbsp;[Development Software](#development-software)&nbsp;`51` · 🤖&nbsp;[AI Tools](#ai-tools)&nbsp;`31` · 🌈&nbsp;[Marketing Software](#marketing-software)&nbsp;`16` · 🎩&nbsp;[Security Software](#security-software)&nbsp;`17` · 🎛&nbsp;[Utility Software](#utility-software)&nbsp;`77` · 📌&nbsp;[Productivity Software](#productivity-software)&nbsp;`63` · 🎥&nbsp;[Video Software](#video-software)&nbsp;`20` · 🎨&nbsp;[Graphic Software](#graphic-software)&nbsp;`19` · 🏝️&nbsp;[Lifestyle](#lifestyle)&nbsp;`12` · 🗣️&nbsp;[Social](#social)&nbsp;`3` · 🎓&nbsp;[Reference & Education](#reference--education)&nbsp;`5` · 👩‍🎓&nbsp;[Courses and Videos](#courses-and-videos)&nbsp;`10` · 📈&nbsp;[Business Software](#business-software)&nbsp;`10` · 🏃🏻‍♀️&nbsp;[Health & Fitness Software](#health--fitness-software)&nbsp;`10` · 🎁&nbsp;[Bundles](#bundles)&nbsp;`3` · 🎶&nbsp;[Creative Content](#creative-content)&nbsp;`2` · 🤑&nbsp;[Finance](#finance)&nbsp;`5` · 🗺️&nbsp;[Navigation](#navigation)&nbsp;`1` · 🔎&nbsp;[SEO](#seo)&nbsp;`10` · 🕹&nbsp;[Games](#games)&nbsp;`2`
 
 <a id="development-software"></a>
 
@@ -449,9 +449,9 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 |  | **[Flavio Copes AI Workshop and Masterclasses](https://flaviocopes.com/black-friday/)**<br>Online programming courses by Flavio Copes: an AI workshop plus TypeScript, React, Git and AHA Stack masterclasses. | <b>AI Workshop $299 → $99; four masterclasses $49 together (usually $396 bought individually)</b><br>No code; join the email list and the purchase link is sent when the offers open · from&nbsp;Nov&nbsp;23 |
 | 💸 | **[Erla: language learning in 22 languages](https://erla.app/black-friday)**<br>Learn a language by understanding it: listen to and read short stories at your level, watch short videos, then talk with an AI teacher. One app per language, 22 languages, iPhone & iPad. | <b>7 days free, then 70% off the first year of Erla PRO ($18 instead of $59.99)</b><br>`BLACKFRIDAY` · Annual plan, first year; new subscribers only; iPhone & iPad; works in all 22 language apps; renews at the regular price, cancel anytime. Redeem via erla.app/black-friday. · Nov&nbsp;12&nbsp;–&nbsp;Nov&nbsp;30 |
 | 💸 | **[Vantagepoint](https://vantagepoint.enciphers.com/)**<br>Hands-on cybersecurity learning platform featuring real-world pentesting labs across Web, Mobile, Cloud, Red Teaming, CVEs, and more. | <b>70% off on all hacking labs and certifications</b><br>Nov&nbsp;2&nbsp;–&nbsp;Dec&nbsp;15 |
-| 💰 | **[CyberWarFare Labs](https://cyberwarfare.live/)**<br>Cybersecurity training platform offering hands-on certifications and practical labs across Red Team, Blue Team, AI Security, Cloud Security, and Ethical Hacking. | 🔥 **Up to 90.91% OFF on Cybersecurity Training!**<br><br>🏆 **[Certification Bundles](https://cyberwarfare.live/bundles):** Starting at $29 (up to 90.02% OFF)<br>🎯 **[Individual Courses](https://cyberwarfare.live/certifications):** Starting at $5 (up to 90.91% OFF)<br>♾️ **[Infinity Access](https://infinity.cyberwarfare.live/):** $49/year or $5/month<br>👑 **[Premium Membership](https://cyberwarfare.live/premium):** $1,499 (25% OFF)<br>🚀 **[All Access Plan](https://cyberwarfare.live/premium):** $999 (44.47% OFF)<br>💸 **Extra 20% OFF** on eligible carts of $149+ (coupon required)<br><br>**No coupon required** for bundles and individual courses. Infinity and membership offers require coupons.<br>[Explore All Deals](https://github.com/RedTeamOperations/black-friday-cyber-sale-2025) |
-
-
+| 💸 | **[Wireless Operator](https://training.thexero.co.uk/blackfriday)**<br>Hands-on Wi-Fi pentesting course from TheXero Training Academy, covering 802.11 frames, WPA3, enterprise Wi-Fi, rogue APs, wireless pivots and fuzzing, with a simulated lab and live coaching. | <b>$197 instead of $599</b><br>No code needed · Nov&nbsp;10&nbsp;–&nbsp;Dec&nbsp;1 |
+| 💰 | **[Modern Security - AI Security Training & Certification](https://www.modernsecurity.io/courses/ai-security-certification)**<br>Hands-on AI security training covering AI agents, MCP, RAG security, prompt injection, red teaming, guardrails, and AI supply chain security. Build, Break, Defend. | <b>20% off AI Security Training & Certification</b><br>`msec-bf20` · Nov&nbsp;10&nbsp;–&nbsp;Dec&nbsp;10 |
+| 💸 | **[CyberWarFare Labs](https://cyberwarfare.live/)**<br>Black Friday deals on cybersecurity certifications, hands-on courses, curated bundles, Infinity access and premium plans. More details: [CWL GitHub sale repository](https://github.com/RedTeamOperations/black-friday-cyber-sale-2025). | <b>Individual Courses Starting from $5; bundles from $29 (up to 90% off); Infinity from $5; All Access 44.47% off.</b> |
 
 <p align="right"><a href="#categories">↑ Categories</a></p>
 
@@ -572,7 +572,7 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 
 No deals yet in Books and Home Automation. [Add the first one](https://blackfriday.mariuslandwehr.com/submit/).
 
-<!-- DEALS:END checksum:189ca301ea47 -->
+<!-- DEALS:END checksum:fb9b96e9409c -->
 
 ## Add your deal
 
