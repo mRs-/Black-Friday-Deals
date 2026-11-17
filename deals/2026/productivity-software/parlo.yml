@@ -1,0 +1,9 @@
+# Put every text value in double quotes. Lines that start with # are comments.
+name: "Parlo"
+url: "https://parlohub.com/black-friday"
+description: "Dictation in any app, meeting notes without a bot, and voice commands for Mac. Speech recognition runs on your Mac."
+discount: "Lifetime ~~$80~~ **$59**, or Monthly ~~$8~~ **$4** for the first 3 months"
+percent: 26
+terms: "No code needed, the discount is applied at checkout. Monthly starts with a 14-day free trial. The lifetime plan retires after the sale. Ends Dec 1, 11:59 pm Pacific time."
+starts: "2026-11-20"
+ends: "2026-12-01"
