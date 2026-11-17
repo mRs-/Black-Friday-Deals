@@ -1,0 +1,9 @@
+name: "Lidnight"
+url: "https://lidnight.app/en/buy/"
+description: "Mac menu bar app that keeps a MacBook awake with the lid closed while AI coding agents (Claude Code, Codex) run, shows what each one is doing, and lets the Mac sleep when they finish."
+discount: "50% off the one-time license: 1 Mac ~~$9.99~~ $4.99, 3 Macs ~~$14.99~~ $7.50"
+percent: 50
+code: "BF50"
+terms: "Enter the code at checkout. One-time purchase, no subscription or account. The free version works with the lid open."
+starts: "2026-11-23"
+ends: "2026-12-01"
