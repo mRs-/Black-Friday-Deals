@@ -19,9 +19,9 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 
 ## Categories
 
-**329 deals** in 20 categories. 💸 marks 50% off or more, 💰 less than 50%.
+**335 deals** in 20 categories. 💸 marks 50% off or more, 💰 less than 50%.
 
-🛠&nbsp;[Development Software](#development-software)&nbsp;`48` · 🤖&nbsp;[AI Tools](#ai-tools)&nbsp;`26` · 🌈&nbsp;[Marketing Software](#marketing-software)&nbsp;`14` · 🎩&nbsp;[Security Software](#security-software)&nbsp;`15` · 🎛&nbsp;[Utility Software](#utility-software)&nbsp;`71` · 📌&nbsp;[Productivity Software](#productivity-software)&nbsp;`55` · 🎥&nbsp;[Video Software](#video-software)&nbsp;`18` · 🎨&nbsp;[Graphic Software](#graphic-software)&nbsp;`16` · 🏝️&nbsp;[Lifestyle](#lifestyle)&nbsp;`12` · 🗣️&nbsp;[Social](#social)&nbsp;`1` · 🎓&nbsp;[Reference & Education](#reference--education)&nbsp;`4` · 👩‍🎓&nbsp;[Courses and Videos](#courses-and-videos)&nbsp;`9` · 📈&nbsp;[Business Software](#business-software)&nbsp;`8` · 🏃🏻‍♀️&nbsp;[Health & Fitness Software](#health--fitness-software)&nbsp;`9` · 🎁&nbsp;[Bundles](#bundles)&nbsp;`3` · 🎶&nbsp;[Creative Content](#creative-content)&nbsp;`2` · 🤑&nbsp;[Finance](#finance)&nbsp;`5` · 🗺️&nbsp;[Navigation](#navigation)&nbsp;`1` · 🔎&nbsp;[SEO](#seo)&nbsp;`10` · 🕹&nbsp;[Games](#games)&nbsp;`2`
+🛠&nbsp;[Development Software](#development-software)&nbsp;`49` · 🤖&nbsp;[AI Tools](#ai-tools)&nbsp;`27` · 🌈&nbsp;[Marketing Software](#marketing-software)&nbsp;`14` · 🎩&nbsp;[Security Software](#security-software)&nbsp;`16` · 🎛&nbsp;[Utility Software](#utility-software)&nbsp;`72` · 📌&nbsp;[Productivity Software](#productivity-software)&nbsp;`56` · 🎥&nbsp;[Video Software](#video-software)&nbsp;`18` · 🎨&nbsp;[Graphic Software](#graphic-software)&nbsp;`16` · 🏝️&nbsp;[Lifestyle](#lifestyle)&nbsp;`12` · 🗣️&nbsp;[Social](#social)&nbsp;`1` · 🎓&nbsp;[Reference & Education](#reference--education)&nbsp;`5` · 👩‍🎓&nbsp;[Courses and Videos](#courses-and-videos)&nbsp;`9` · 📈&nbsp;[Business Software](#business-software)&nbsp;`8` · 🏃🏻‍♀️&nbsp;[Health & Fitness Software](#health--fitness-software)&nbsp;`9` · 🎁&nbsp;[Bundles](#bundles)&nbsp;`3` · 🎶&nbsp;[Creative Content](#creative-content)&nbsp;`2` · 🤑&nbsp;[Finance](#finance)&nbsp;`5` · 🗺️&nbsp;[Navigation](#navigation)&nbsp;`1` · 🔎&nbsp;[SEO](#seo)&nbsp;`10` · 🕹&nbsp;[Games](#games)&nbsp;`2`
 
 <a id="development-software"></a>
 
@@ -77,6 +77,7 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 | 💸 | **[SupaYatta](https://supayatta.com?ref=mrs)**<br>Know when your AI agents need you, right from your Mac's notch. Alerts for Claude, Cursor, Cowork and more. | <b>65% off Lifetime ($19.99 → $6.99)</b><br>`YATTADEAL` · one-time purchase · Nov&nbsp;9&nbsp;–&nbsp;Dec&nbsp;7 |
 | 💰 | **[Akev](https://akev.dev/pricing)**<br>Open-source HTTP(S) debugging proxy for macOS, Windows and Linux: inspect, mock and rewrite traffic from browsers, apps, terminals, phones and containers. | <b>30% off the Pro licence ($49 → $34.30, one-time)</b><br>`BLACKFRIDAY` · One-time purchase with 1 year of updates. Ends Dec 6, 23:59 UTC. · Nov&nbsp;15&nbsp;–&nbsp;Dec&nbsp;6 |
 | 💸 | **[KeygenGo](https://keygengo.5km.tech/black-friday?utm_source=gh-mrs&utm_medium=github&utm_campaign=bf2026)**<br>Native Mac client for Keygen.sh: manage products, policies, licenses, users and machines for Keygen Cloud or self-hosted accounts. | <b>50% off on the Mac App Store: Annual first year $19.99 → $9.99, Lifetime $39.99 → $19.99</b><br>Annual needs offer code `BF2026YEAR` (once per Apple ID). Lifetime is already reduced, no code needed. · Nov&nbsp;20&nbsp;–&nbsp;Dec&nbsp;6 |
+| 💰 | **[Diffacto](https://diffacto.com/#pricing)**<br>Compare two versions of any file or folder on your Mac: code, data, documents, images, audio, video and more. | <b>40% off Pro: one-time license $149 → $89.40, yearly $96 → $57.60 for the first year</b><br>No code needed: the price comes off at checkout. Buy from the app; every purchase can be refunded within 30 days. · Nov&nbsp;23&nbsp;–&nbsp;Dec&nbsp;1 |
 
 <p align="right"><a href="#categories">↑ Categories</a></p>
 
@@ -112,6 +113,7 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 | 💰 | **[NotchLive](https://notchlive.app/pricing#plans)**<br>Follow calls and videos with private live captions on your Mac. Pro adds supported live translation, searchable recordings and transcript export. | <b>20% off one-time Pro: US$29 → US$23.20 before tax</b><br>Automatically applied at checkout. Local pricing may vary. Ends at 17:00 UTC. · Nov&nbsp;15&nbsp;–&nbsp;Dec&nbsp;17 |
 | 💰 | **[HiAPI](https://hiapi.ai/en/promotions/black-friday-2026?utm_source=github&utm_medium=awesome-list&utm_campaign=bf26&utm_content=Black-Friday-Deals)**<br>Pay-as-you-go API for image, video, audio and text models — GPT Image, Seedance, Kling, Veo, DeepSeek, Claude, Grok and Qwen behind one key; OpenAI-compatible text endpoints, async task APIs for media, automatic refunds on failed tasks. | <b>Up to 10% extra credit on top-ups and up to 20% back on image, video and audio spending</b><br>No coupon code. Top-ups earn up to 10% extra credit (max $50); media spend returns up to 20% (max $100, credited Dec 3), so $500 topped up and spent on media can reach $650 in credit. Paid accounts get 10M free DeepSeek V4.1 Flash tokens daily. · Nov&nbsp;24&nbsp;–&nbsp;Dec&nbsp;1 |
 | 💰 | **[Orchard](https://orchard.5km.tech/black-friday?utm_source=gh-mrs&utm_medium=github&utm_campaign=bf2026)**<br>Menu-bar Mac app that lets AI assistants read and control 11 Apple apps (Mail, Notes, Calendar, Reminders, Messages and more) through Agent Skills, MCP or a CLI, all locally with no open ports. | <b>33% off Pro Annual (first year, $24.99 → $16.74) and Lifetime ($39.99 → $26.79)</b><br>`BF2026` · Monthly plan not included. Annual discount applies to the first year. · Nov&nbsp;20&nbsp;–&nbsp;Dec&nbsp;6 |
+| 💸 | **[DuoTyping](https://duotyping.com/pricing?utm_source=mrs-bf)**<br>Underlines grammar, spelling and tone mistakes as you type in any app, with no daily limit on checks. Predicts your next words, rewrites, translates, explains words you read and answers questions. Mac, Windows, Chrome/Edge, web. | <b>50% off the first payment of Pro</b><br>`BFCM2026` · Monthly ~~$9.90~~ $4.95 first month, yearly ~~$89.90~~ $44.95 first year, then regular price. Pro: 300 rewrites, 1,000 translations, 200 asks a day. First Pro purchase only · Nov&nbsp;13&nbsp;–&nbsp;Dec&nbsp;13 |
 
 <p align="right"><a href="#categories">↑ Categories</a></p>
 
@@ -159,6 +161,7 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 | 💸 | **[Scanify](https://scanify.to/pricing)**<br>Check a link, file, QR code or IP before you open it: 95+ antivirus engines, domain age, redirect chain and a sandbox screenshot, in one 0-100 risk score. | <b>50% off Lifetime Pro: $29 → $14.50</b><br>`BLACKFRIDAY` · One payment, nothing renews. The basic verdict is free. · Nov&nbsp;10&nbsp;–&nbsp;Dec&nbsp;9 |
 | 💸 | **[PentesterSpace](https://pentesterspace.com/black-friday)**<br>Penetration testing Web, Mobile App(Android/IOS), API, Network. | <b>60% OFF on standard pricing</b><br>until&nbsp;Nov&nbsp;30 |
 | 💸 | **[ShutterMinder](https://apps.apple.com/app/id6774975728)**<br>Mac menu bar app that reminds you to close your webcam cover after a video call. The check runs on your Mac and nothing is saved or uploaded. Needs macOS 14 and a camera with a cover or shutter. | <b>One-time purchase ~~$9.99~~ $4.99 on the Mac App Store</b><br>Applied automatically, no code needed · Nov&nbsp;15&nbsp;–&nbsp;Nov&nbsp;30 |
+| 💰 | **[ScreenShield](https://sky-blue1111.github.io/screenshield-site/?utm_source=bfdeals-mrs#pricing)**<br>Chrome extension that hides emails, phone numbers, card numbers and API keys on web pages while you share your screen. Runs locally in the browser. | <b>Lifetime Pro ~~$49~~ $29, one-time payment</b><br>Launch price, no code needed. Free plan with unlimited blurring by hand. · Oct&nbsp;22&nbsp;–&nbsp;Nov&nbsp;30 |
 
 <p align="right"><a href="#categories">↑ Categories</a></p>
 
@@ -239,6 +242,7 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 | 💰 | **[Big Weather](https://apps.apple.com/app/big-weather/id1531449281)**<br>Weather in the Mac menu bar, with a few words about tomorrow and a weekly rundown written on-device by Apple Intelligence. | <b>Lifetime $29.99 → $19.99</b><br>one-time in-app purchase in the Mac App Store; automatically applied, no code; free download · Nov&nbsp;16&nbsp;–&nbsp;Dec&nbsp;3 |
 | 💰 | **[MusicPal](https://elevenapril.com/musicpal)**<br>Offline MP3 and link-to-audio player for iPhone with background playback, custom themes and backup — no streaming feed, no ads. | <b>30% off Lifetime: $29.99 → $20.99</b><br>`BLACKFRIDAY` · App Store offer code for Lifetime Premium (iOS 16.3+); one-time purchase · Nov&nbsp;16&nbsp;–&nbsp;Nov&nbsp;30 |
 | 💸 | **[Wishbar](https://wishbar.app/black-friday?ref=mrs-black-friday-deals)**<br>Type what you want in plain English and your own AI builds a live widget in your Mac's menu bar, like an NVIDIA price alert or your train line's delays. A free ChatGPT account is enough. | <b>50% off one-time licences: 1 Mac ~~$39~~ $19, 2 Macs ~~$49~~ $24, 5 Macs ~~$69~~ $34</b><br>no code needed, applied automatically on the sale page; pay once, every update included; 14-day money-back guarantee; ends at the end of Dec 7, Pacific time · Nov&nbsp;16&nbsp;–&nbsp;Dec&nbsp;7 |
+| 💰 | **[Scribbble](https://www.scribbble.app)**<br>Draw and annotate anywhere on your Mac screen: pen, arrows, highlighter, spotlight, magnify and whiteboard. | <b>35% off ($12 → $7.80)</b><br>`BFCMSCRIB` · one-time purchase, lifetime updates · Nov&nbsp;20&nbsp;–&nbsp;Dec&nbsp;2 |
 
 <p align="right"><a href="#categories">↑ Categories</a></p>
 
@@ -303,6 +307,7 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 | 💸 | **[TimeGo Clock](https://apps.apple.com/app/apple-store/id6448658165?pt=126247175&ct=bf2026-gh-mrs&mt=12)**<br>Lightweight, minimalist timer and reminder app for Mac with a countdown HUD and combinable timer groups. | <b>50% off on the Mac App Store: $3.99 → $1.99</b><br>No code needed. US price shown; local prices vary. · Nov&nbsp;20&nbsp;–&nbsp;Dec&nbsp;6 |
 | 💸 | **[Envelox](https://apps.apple.com/us/app/envelox-mail/id6826568873)**<br>Private mail for your iPhone. Envelox reads and sends from several accounts, with no developer server in between. Sign, encrypt and check signatures using OpenPGP keys kept in the on-device vault. Smart Inbox, snooze and follow-ups bring important ma | <b>60% on a full unlock forever</b><br>Nov&nbsp;27&nbsp;–&nbsp;Dec&nbsp;1 |
 | 💸 | **[DailyCal](https://apps.apple.com/us/app/dailycal-calendar/id6818050992)**<br>DailyCal brings calendars, reminders and celebrations into one clear iPhone agenda. See what's next, find free time and prepare for tomorrow. Choose list, day, week, month or year views, search across your calendars, and personalise colours and acces | <b>60% off on a full unlock forever</b><br>Nov&nbsp;27&nbsp;–&nbsp;Dec&nbsp;1 |
+| 💰 | **[ActionClip](https://actionclip.app/black-friday-deal)**<br>Floating text action menu for Mac. Describe a workflow and AI builds a reusable custom action without coding. Apple Silicon, macOS 15+. | <b>Individual lifetime $12 → $9 (1 Mac, 25% off); $15 for up to 3 Macs; $29 for up to 10 Macs</b><br>Auto-applied, no code needed. Lifetime app access and updates. Multi-Mac tiers add devices versus previous plans; 25% applies to Individual only. Ends November 29 at 23:59 UTC. Prices exclude tax; 30-day refund policy. · Nov&nbsp;5&nbsp;–&nbsp;Nov&nbsp;29 |
 
 <p align="right"><a href="#categories">↑ Categories</a></p>
 
@@ -399,6 +404,7 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 | 💰 | **[KTool](https://ktool.io/pricing?utm_source=mrsdeals&utm_medium=partner&utm_campaign=bf2026)**<br>Send articles, newsletters and RSS feeds to your Kindle, from your browser or your phone. | <b>Lifetime ~~$179~~ $149</b><br>Automatically applied; one-time purchase; until 2026-12-01 |
 | 💸 | **[Nihongo](https://nihongo-app.com/)**<br>Japanese dictionary and study app for words you encounter. | <b>50% off Nihongo Pro lifetime ($179.99 → $89.99 USD)</b><br>Automatically applied in-app; no code needed · Nov&nbsp;16&nbsp;–&nbsp;Dec&nbsp;2 |
 | 💸 | **[Nihongo Lessons](https://lessons.nihongo-app.com/)**<br>Learn Japanese vocabulary and grammar with sentence-based flashcards. | <b>50% off All Access lifetime ($299.99 → $149.99 USD)</b><br>Automatically applied in-app; no code needed · Nov&nbsp;16&nbsp;–&nbsp;Dec&nbsp;2 |
+| 💸 | **[MultiMonstres: Times Tables](https://apps.apple.com/redeem?ctx=offercodes&id=6762561963&code=MONSTRES26)**<br>Times tables game for kids aged 6 to 10 on iPhone and iPad, with 100 monster stamps to collect. No ads, no account, works offline, 13 languages. | <b>Premium lifetime unlock free (normally $2.99)</b><br>`MONSTRES26` · First 500 redemptions; iPhone and iPad; open the link or redeem the code in the App Store · Nov&nbsp;27&nbsp;–&nbsp;Nov&nbsp;30 |
 
 <p align="right"><a href="#categories">↑ Categories</a></p>
 
@@ -534,7 +540,7 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 
 No deals yet in Books and Home Automation. [Add the first one](https://blackfriday.mariuslandwehr.com/submit/).
 
-<!-- DEALS:END checksum:4c0c173e6231 -->
+<!-- DEALS:END checksum:9147145eb51e -->
 
 ## Add your deal
 
