@@ -159,6 +159,7 @@ Deals are **submitted by makers and the community and reviewed** before they go 
 | [**Static.run**](https://static.run/) | Static hosting with instant deploys, built-in analytics, and CDN delivery. | 30% OFF All Paid Plans (Coupon: `BLFCM2026`) | Nov 18 – Dec 1, 2026 |
 | [**OneClickClaw**](https://oneclickclaw.io/plans?utm_source=pimjo&utm_medium=deal_list&utm_campaign=blackfriday2026) | Your own OpenClaw or Hermes Agent server in the EU (Denmark), set up for you. Free 7-day trial, no card. | Up to 33% OFF the first month on monthly plans: Starter €9.99 (was €14.99), Hobbyist €17.99 (was €25.99), Pro €34.99 (was €49.99). Auto-applied at checkout, no code. Then the regular monthly price | Nov 10 – Dec 1, 2026 |
 | [**Kinsta**](https://kinsta.com/black-friday/) | Fast, secure, feature-rich managed hosting for WordPress on next-generation cloud infrastructure, secured by Cloudflare. | 3 Months FREE on Annual Plans or 50% OFF the First 3 Months on Monthly Plans (new customers, no coupon needed) | Nov 11 – Dec 1, 2026 |
+| [**Faivelo**](https://faivelo.com/black-friday?utm_source=github&utm_medium=deal_listing&utm_campaign=pimjo) | Email hosting for your own domain with unlimited mailboxes, aliases and domains, webmail and calendar included. | 80% OFF: $12 for the year instead of $60, renews at $12 (new customers, first 500 accounts, no coupon needed) | Nov 17 – Dec 1, 2026 |
 
 ---
 
