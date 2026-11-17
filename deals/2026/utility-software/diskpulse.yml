@@ -1,0 +1,10 @@
+# Required
+name: "DiskPulse"
+url: "https://apps.apple.com/app/diskpulse/id6761638331"
+description: "Mac menu bar app that shows which folders are growing: per-folder check intervals, today's growth, a 7-day trend and big-file alerts. Runs entirely on your Mac, no account or tracking."
+discount: "80% off on the Mac App Store: $4.99 → $0.99, applied automatically"
+
+# Optional
+percent: 80
+starts: "2026-11-27"
+ends: "2026-11-30"
