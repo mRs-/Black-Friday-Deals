@@ -1,0 +1,11 @@
+# Required
+name: "SnapPulse"
+url: "https://apps.apple.com/app/snappulse/id6761640094"
+description: "Makes every screenshot searchable on your Mac: on-device text, links, emails, codes and QR codes, plus Apple Intelligence summaries. Nothing is uploaded; no account or tracking."
+discount: "80% off on the Mac App Store: $4.99 → $0.99, applied automatically"
+
+# Optional
+percent: 80
+terms: "Requires macOS 26 or later; summaries need a Mac with Apple Intelligence"
+starts: "2026-11-27"
+ends: "2026-11-30"
