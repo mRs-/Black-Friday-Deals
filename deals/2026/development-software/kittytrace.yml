@@ -1,0 +1,8 @@
+name: "KittyTrace"
+url: "https://kittytrace.com/?utm_source=mrs-bf-deals&utm_campaign=bf2026"
+description: "Self-hosted, Sentry-compatible error tracking that runs free on your own Cloudflare account or on your server with Docker. Keep the Sentry SDK, change the DSN. One-time purchase."
+discount: "34% off the one-time license ($29 → $19)"
+percent: 34
+code: "BF2026"
+terms: "code is applied at checkout from the site; all 1.x updates included; 90-day refund"
+ends: "2026-12-01"
