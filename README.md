@@ -127,6 +127,7 @@ Deals are **submitted by makers and the community and reviewed** before they go 
 | [**SupaYatta**](https://supayatta.com?ref=pj) | Know when your AI agents need you, right from your Mac's notch. Alerts for Claude, Cursor, Cowork and more. | 65% OFF Lifetime, $19.99 → $6.99 (Coupon: `YATTADEAL`) | Nov 9 – Dec 7, 2026 |
 | [**Babelize**](https://www.babelize.co/?ref=PimjoGitHub#pricing) | Turns the hardcoded text in a React or Next.js app into a reviewed i18n pull request in 90+ languages, then translates every new push. | 50% OFF the first year of Pro yearly, $84 → $42 (Coupon: `BLACKFRIDAY26`) | Nov 16 – Dec 1, 2026 |
 | [**KeygenGo**](https://keygengo.5km.tech/black-friday?utm_source=gh-pimjo&utm_medium=github&utm_campaign=bf2026) | Native Mac client for Keygen.sh: manage products, licenses, users and machines in one window. | 50% OFF: Lifetime $19.99 (no code needed), Annual $9.99 for the first year (Coupon: `BF2026YEAR`) | Nov 20 – Dec 6, 2026 |
+| [**Pulsetic**](https://pulsetic.com/black-friday) | Uptime monitoring for websites, APIs, SSL, DNS and cron jobs from 15 regions, with alerts and status pages. | 35% OFF the first payment on any paid plan (Coupon: `BLACKFRIDAY35`) | Nov 16 – Dec 3, 2026 |
 
 ---
 
@@ -147,6 +148,7 @@ Deals are **submitted by makers and the community and reviewed** before they go 
 | [**Unmerge**](https://unmerge.app/pricing?utm_source=github-pimjo&utm_campaign=bf2026) | Separate flat images, illustrations, and anime character art into editable transparent PSD and PNG layers (web, API & MCP). | **+33%–35% bonus** non-expiring credits (~26% OFF per layer) on one-time packs: Starter $3.90 (60 credits, was 45), Basic $10 (175 credits, was 130), auto-applied (no code needed) | Nov 13 – Dec 1, 2026 |
 | [**HDRI Hub**](https://www.hdri-hub.com/shop/hdri?discount=BLACK50&utm_source=pimjo&utm_campaign=bf2026) | High-resolution HDRI skies, HDRI domes, backplates and 3D people for architectural visualization, car and product rendering. | 50% OFF everything, bundles included (Coupon: `BLACK50`, applied automatically by the link) | Nov 19 – Dec 1, 2026 |
 | [**LottieGo**](https://lottiego.com/black-friday?utm_source=gh-pimjo&utm_medium=github&utm_campaign=bf2026) | Mac app that shrinks Lottie JSON files and exports MP4, transparent MOV or GIF, all locally. | 50% OFF Pro Lifetime: $4.99 → $2.49 (no code needed) | Nov 20 – Dec 6, 2026 |
+| [**Designmodo**](https://designmodo.com/black-friday/) | Postcards, an AI email template builder for 20+ ESPs, and Slides, a no-code website builder with hosting. | Up to 40% OFF yearly plans, 3 drops of 100 coupons (Coupon: `BLACK`) | Nov 16 – Nov 30, 2026 |
 
 ---
 
@@ -159,6 +161,7 @@ Deals are **submitted by makers and the community and reviewed** before they go 
 | [**Static.run**](https://static.run/) | Static hosting with instant deploys, built-in analytics, and CDN delivery. | 30% OFF All Paid Plans (Coupon: `BLFCM2026`) | Nov 18 – Dec 1, 2026 |
 | [**OneClickClaw**](https://oneclickclaw.io/plans?utm_source=pimjo&utm_medium=deal_list&utm_campaign=blackfriday2026) | Your own OpenClaw or Hermes Agent server in the EU (Denmark), set up for you. Free 7-day trial, no card. | Up to 33% OFF the first month on monthly plans: Starter €9.99 (was €14.99), Hobbyist €17.99 (was €25.99), Pro €34.99 (was €49.99). Auto-applied at checkout, no code. Then the regular monthly price | Nov 10 – Dec 1, 2026 |
 | [**Kinsta**](https://kinsta.com/black-friday/) | Fast, secure, feature-rich managed hosting for WordPress on next-generation cloud infrastructure, secured by Cloudflare. | 3 Months FREE on Annual Plans or 50% OFF the First 3 Months on Monthly Plans (new customers, no coupon needed) | Nov 11 – Dec 1, 2026 |
+| [**Static.app**](https://static.app/black-friday) | Static website hosting with a browser code editor, custom domains, free SSL, forms and daily backups. | 35% OFF the first payment, monthly or yearly (Coupon: `BLACKFRIDAY35`) | Nov 16 – Dec 1, 2026 |
 
 ---
 
@@ -191,6 +194,7 @@ Deals are **submitted by makers and the community and reviewed** before they go 
 | [**Keyword Race**](https://keywordrace.com/?utm_source=pimjo) | App Store keyword research for indie iOS developers: competing apps, your position among them and estimated demand, paid once. | 40% OFF lifetime access ($59 → $35) (no coupon needed, applied at checkout) | Nov 14 – Dec 2, 2026 |
 | [**Launch Agent Kit**](https://swipetolaunch.com/kit) | A kit your AI agent (Claude Code, Codex, Cursor or any other agent) uses to submit your product to the 300+ launch directories that fit your niche, then report every listing. | $29 one-time Black Friday price, $99 from Dec 2 (no coupon needed) | Nov 8 – Dec 1, 2026 |
 | [**Radar Lab**](https://partnershipintel.com/?utm_source=pimjo#pricing) | Find newsletters to sponsor that reach your buyers: ranks 4,700+ newsletters by fit and shows who already sponsors each one, with the real ads. | **67% OFF** Pro yearly, ~~$299~~ $99/year, locked for as long as you stay (no code needed) | Nov 16 – Nov 30, 2026 |
+| [**Unspam.email**](https://unspam.email/black-friday) | Email spam checker with a 0-100 spam score, inbox placement tests, blacklist checks and previews on 60+ clients. | 35% OFF the first invoice of the Custom plan (Coupon: `BLACKFRIDAY35`) | Nov 16 – Dec 1, 2026 |
 
 ---
 
@@ -262,6 +266,7 @@ Deals are **submitted by makers and the community and reviewed** before they go 
 | Name | Description | Deal Details | Validity |
 | --- | --- | --- | --- |
 | [**own.page**](https://own.page/pricing?utm_source=pimjo&utm_medium=deal_list&utm_campaign=black_week_2026) | No-code personal website builder that goes way beyond link in bio: sell products, take bookings, collect leads and get paid on your own domain. | 40% OFF Pro yearly ($79.90 → $47.94) and 30% OFF Business yearly ($199 → $139.30), auto-applied, no code needed | Nov 20 – Nov 30, 2026 |
+| [**Siter.io**](https://siter.io/black-friday) | No-code website builder with a free-form design canvas, Figma import, AI page generation and hosting. | 35% OFF the first payment on Solo, Plus and Pro (Coupon: `BLACKFRIDAY35`) | Nov 16 – Dec 1, 2026 |
 
 ---
 
