@@ -127,7 +127,7 @@ Deals are **submitted by makers and the community and reviewed** before they go 
 | [**SupaYatta**](https://supayatta.com?ref=pj) | Know when your AI agents need you, right from your Mac's notch. Alerts for Claude, Cursor, Cowork and more. | 65% OFF Lifetime, $19.99 → $6.99 (Coupon: `YATTADEAL`) | Nov 9 – Dec 7, 2026 |
 | [**Babelize**](https://www.babelize.co/?ref=PimjoGitHub#pricing) | Turns the hardcoded text in a React or Next.js app into a reviewed i18n pull request in 90+ languages, then translates every new push. | 50% OFF the first year of Pro yearly, $84 → $42 (Coupon: `BLACKFRIDAY26`) | Nov 16 – Dec 1, 2026 |
 | [**KeygenGo**](https://keygengo.5km.tech/black-friday?utm_source=gh-pimjo&utm_medium=github&utm_campaign=bf2026) | Native Mac client for Keygen.sh: manage products, licenses, users and machines in one window. | 50% OFF: Lifetime $19.99 (no code needed), Annual $9.99 for the first year (Coupon: `BF2026YEAR`) | Nov 20 – Dec 6, 2026 |
-
+| [PortDroid](https://portdroid.net/sale) | Android network toolkit for port scanning, ping, traceroute, DNS, LAN device discovery and more | **50% OFF** Pro Lifetime with code **CYBER_2026** · $9.49 → $4.69 USD| Nov 5 - Dec 4 2026 |
 ---
 
 <a id="design-icons"></a>
