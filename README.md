@@ -19,9 +19,9 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 
 ## Categories
 
-**383 deals** in 20 categories. 💸 marks 50% off or more, 💰 less than 50%.
+**388 deals** in 20 categories. 💸 marks 50% off or more, 💰 less than 50%.
 
-🛠&nbsp;[Development Software](#development-software)&nbsp;`55` · 🤖&nbsp;[AI Tools](#ai-tools)&nbsp;`31` · 🌈&nbsp;[Marketing Software](#marketing-software)&nbsp;`16` · 🎩&nbsp;[Security Software](#security-software)&nbsp;`17` · 🎛&nbsp;[Utility Software](#utility-software)&nbsp;`82` · 📌&nbsp;[Productivity Software](#productivity-software)&nbsp;`68` · 🎥&nbsp;[Video Software](#video-software)&nbsp;`20` · 🎨&nbsp;[Graphic Software](#graphic-software)&nbsp;`19` · 🏝️&nbsp;[Lifestyle](#lifestyle)&nbsp;`12` · 🗣️&nbsp;[Social](#social)&nbsp;`3` · 🎓&nbsp;[Reference & Education](#reference--education)&nbsp;`6` · 👩‍🎓&nbsp;[Courses and Videos](#courses-and-videos)&nbsp;`10` · 📈&nbsp;[Business Software](#business-software)&nbsp;`11` · 🏃🏻‍♀️&nbsp;[Health & Fitness Software](#health--fitness-software)&nbsp;`10` · 🎁&nbsp;[Bundles](#bundles)&nbsp;`3` · 🎶&nbsp;[Creative Content](#creative-content)&nbsp;`2` · 🤑&nbsp;[Finance](#finance)&nbsp;`5` · 🗺️&nbsp;[Navigation](#navigation)&nbsp;`1` · 🔎&nbsp;[SEO](#seo)&nbsp;`10` · 🕹&nbsp;[Games](#games)&nbsp;`2`
+🛠&nbsp;[Development Software](#development-software)&nbsp;`56` · 🤖&nbsp;[AI Tools](#ai-tools)&nbsp;`31` · 🌈&nbsp;[Marketing Software](#marketing-software)&nbsp;`17` · 🎩&nbsp;[Security Software](#security-software)&nbsp;`17` · 🎛&nbsp;[Utility Software](#utility-software)&nbsp;`82` · 📌&nbsp;[Productivity Software](#productivity-software)&nbsp;`69` · 🎥&nbsp;[Video Software](#video-software)&nbsp;`20` · 🎨&nbsp;[Graphic Software](#graphic-software)&nbsp;`19` · 🏝️&nbsp;[Lifestyle](#lifestyle)&nbsp;`12` · 🗣️&nbsp;[Social](#social)&nbsp;`3` · 🎓&nbsp;[Reference & Education](#reference--education)&nbsp;`6` · 👩‍🎓&nbsp;[Courses and Videos](#courses-and-videos)&nbsp;`10` · 📈&nbsp;[Business Software](#business-software)&nbsp;`12` · 🏃🏻‍♀️&nbsp;[Health & Fitness Software](#health--fitness-software)&nbsp;`10` · 🎁&nbsp;[Bundles](#bundles)&nbsp;`3` · 🎶&nbsp;[Creative Content](#creative-content)&nbsp;`2` · 🤑&nbsp;[Finance](#finance)&nbsp;`5` · 🗺️&nbsp;[Navigation](#navigation)&nbsp;`1` · 🔎&nbsp;[SEO](#seo)&nbsp;`11` · 🕹&nbsp;[Games](#games)&nbsp;`2`
 
 <a id="development-software"></a>
 
@@ -84,6 +84,7 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 | 💸 | **[Lidnight](https://lidnight.app/en/buy/)**<br>Mac menu bar app that keeps a MacBook awake with the lid closed while AI coding agents (Claude Code, Codex) run, shows what each one is doing, and lets the Mac sleep when they finish. | <b>50% off the one-time license: 1 Mac ~~$9.99~~ $4.99, 3 Macs ~~$14.99~~ $7.50</b><br>`BF50` · Enter the code at checkout. One-time purchase, no subscription or account. The free version works with the lid open. · Nov&nbsp;23&nbsp;–&nbsp;Dec&nbsp;1 |
 | 💰 | **[KittyTrace](https://kittytrace.com/?utm_source=mrs-bf-deals&utm_campaign=bf2026)**<br>Self-hosted, Sentry-compatible error tracking that runs free on your own Cloudflare account or on your server with Docker. Keep the Sentry SDK, change the DSN. One-time purchase. | <b>34% off the one-time license ($29 → $19)</b><br>`BF2026` · code is applied at checkout from the site; all 1.x updates included; 90-day refund · until&nbsp;Dec&nbsp;1 |
 | 💸 | **[Wasmer Pro](https://frontend-edge-ka9bydxry-wasmer.vercel.app/black-friday-2026?utm_source=github_mrs&utm_medium=community&utm_campaign=black_friday_2026)**<br>Cloud hosting for websites, APIs, and web apps, with GitHub deployments, custom domains, SSH, and SFTP. | <b>50% off for 12 months: USD $5/month (was $10) or $50 for the first year (was $100)</b><br>`BLACKFRIDAY26` · First-time customers; Pro base only; metered usage extra. Monthly: $5/mo for 12 months, then $10/mo. Annual: $50 first year, then $100/year. Ends Nov 30, 2026, 11:59pm Pacific. Official offer page preview; checkout is live. · until&nbsp;Nov&nbsp;30 |
+| 💸 | **[Tower](https://www.git-tower.com/)**<br>The most powerful Git client for Mac and Windows | <b>Up to 50% off: Pro 50%, Basic 30%, upgrades and extra seats 50%</b><br>first year of new subscriptions; upgrades and extra seats for existing customers; applied automatically · Nov&nbsp;23&nbsp;–&nbsp;Dec&nbsp;6 |
 
 <p align="right"><a href="#categories">↑ Categories</a></p>
 
@@ -149,6 +150,7 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 | 💸 | **[Radar Lab](https://partnershipintel.com/?utm_source=mrsbf#pricing)**<br>Find newsletters to sponsor that reach your buyers: ranks 4,700+ newsletters by fit and shows who already sponsors each one, with the real ads. Works in ChatGPT and Claude (MCP). | <b>Pro yearly ~~$299~~ $99/year, locked for as long as you stay</b><br>Automatically applied at checkout, no code needed · Nov&nbsp;16&nbsp;–&nbsp;Nov&nbsp;30 |
 | 💸 | **[Mailzzy](https://mailzzy.com/emails-savings-sale/?utm_source=github&utm_medium=deals&utm_campaign=bf2026)**<br>Email marketing for small businesses: templates and designer, AI-drafted campaigns, A/B testing, segments, automations and reports. Also works from Claude and ChatGPT (MCP). | <b>70% off the first year (annual) or 60% off the first 3 months (monthly)</b><br>Applied automatically, no code. Standard $97.20 → $32.40 first year, or $9 → $3.60/mo for 3 months (500 contacts). Renews at the regular price · Nov&nbsp;16&nbsp;–&nbsp;Dec&nbsp;14 |
 | 💰 | **[Unspam.email](https://unspam.email/black-friday)**<br>Email spam checker: 0-100 spam score in 30 seconds, SPF/DKIM/DMARC and blacklist checks, inbox placement tests, previews on 60+ clients and an AI attention heatmap. | <b>35% off the first invoice of a Custom plan: first year $709.98 → $461.49</b><br>`BLACKFRIDAY35` · new Custom plan subscriptions, monthly or annual; sort 22 of 25 emails in the spam filter game for 40% off instead; 14-day refund; ends 23:59 UTC · Nov&nbsp;16&nbsp;–&nbsp;Dec&nbsp;1 |
+| 💰 | **[Pirsch Analytics](https://pirsch.io)**<br>Privacy-friendly and GDPR-compliant web analytics. | <b>20% for your first payment (annual or monthly)</b><br>`BLACKFRIDAY26` · Nov&nbsp;17&nbsp;–&nbsp;Dec&nbsp;31 |
 
 <p align="right"><a href="#categories">↑ Categories</a></p>
 
@@ -343,6 +345,7 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 | 💸 | **[AirCalendar](https://apps.apple.com/app/id6761035745?utm_source=mrsbf)**<br>Menu bar calendar for Mac: check the date, see what is coming up and keep your tasks close. | <b>50% off Lifetime Unlock ($1.99 → $0.99)</b><br>No code needed; automatically applied in the Mac App Store · Nov&nbsp;27&nbsp;–&nbsp;Nov&nbsp;30 |
 | 💸 | **[LociMark](https://apps.apple.com/app/id6808972699?utm_source=mrsbf)**<br>Local-first bookmark manager for Mac. | <b>50% off Lifetime Unlock</b><br>No code needed; automatically applied in the Mac App Store · Nov&nbsp;27&nbsp;–&nbsp;Nov&nbsp;30 |
 | 💰 | **[Kanbanero](https://kanbanero.app)**<br>A simple kanban app for macOS where each board is a plain YAML file on your Mac. | <b>44% off (~~$8.99~~ → $4.99) until 1 dec</b><br>Mac App Store, one-time purchase, no code needed. Requires Apple Silicon and macOS 14.6+. · Nov&nbsp;17&nbsp;–&nbsp;Dec&nbsp;1 |
+| 💸 | **[Paste](https://pasteapp.io/black-friday-2026?ref=mrs-black-friday-deals)**<br>Paste is a productivity app for Mac, iPhone, and iPad that remembers everything you copy. | <b>50% off the first year of Annual: $29.99 → $14.99</b><br>`BLACKFRIDAY2026` · Code on the website; automatic for new subscribers in the App Store app · Nov&nbsp;20&nbsp;–&nbsp;Dec&nbsp;1 |
 
 <p align="right"><a href="#categories">↑ Categories</a></p>
 
@@ -487,6 +490,7 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 | 💸 | **[Inkfree](https://inkfree.app/signature-savings-sale/?utm_source=github&utm_medium=deals&utm_campaign=bf2026)**<br>eSignature for teams: signing order, reusable templates, bulk send, web forms, approval workflows and a sealed audit trail. ESIGN, UETA and eIDAS compliant. | <b>70% off the first year (annual) or 60% off the first 3 months (monthly)</b><br>Applied automatically, no code. Monthly: Basic $15 → $6, Standard $35 → $14, Business $50 → $20 per seat for 3 months. Renews at the regular price · Nov&nbsp;16&nbsp;–&nbsp;Dec&nbsp;14 |
 | 💰 | **[InterviewFlowAI](https://interviewflowai.com/black-friday?utm_source=mrs-black-friday-deals&utm_medium=deal_listing&utm_campaign=bfcm2026)**<br>AI interview software: screens candidates 24/7 with AI phone and video interviews, scores them and hands you a ranked shortlist. | <b>40% off the first year of yearly Growth ($3,600 → $2,160) or Scale ($6,000 → $3,600)</b><br>`BFCM40` · Yearly Growth and Scale only; enter the code at checkout. First year only, then renews at $3,000 (Growth) or $5,000 (Scale) a year. · Nov&nbsp;17&nbsp;–&nbsp;Dec&nbsp;4 |
 | 💸 | **[Tagnivo](https://apps.apple.com/app/id6804351905?utm_source=mrsbf)**<br>Manage assets, employee assignments, supplies and inventory audits in one Mac app. | <b>50% off Lifetime Unlock</b><br>No code needed; automatically applied in the Mac App Store · Nov&nbsp;27&nbsp;–&nbsp;Nov&nbsp;30 |
+| 💰 | **[IvaBoard](https://ivaboard.com/lifetime/)**<br>Feedback boards, votes, roadmaps, changelogs and waitlists for SaaS teams and agencies, with white-label portals on your own domain. | <b>30% off lifetime plans</b><br>`BF30` · Hosted Solo, one payment: Stage 1 €55 → €38.50 while Stage 1 licenses last; Stage 2 €66 → €46.20; Stage 3 €109 → €76.30. Ends at 11:59 p.m. Pacific Time. · Nov&nbsp;17&nbsp;–&nbsp;Nov&nbsp;30 |
 
 <p align="right"><a href="#categories">↑ Categories</a></p>
 
@@ -572,6 +576,7 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 |  | **[ZeroRank](https://zerorank.ai)**<br>AI visibility tracking and GEO software. Monitor brand mentions, citations and competitors in AI search. | <b>About 45% off the first annual year vs 12 standard monthly payments, or 28% off the first 3 monthly payments</b><br>Click the Black Friday deal; discount auto-applies at checkout. Eligible subscriptions only; standard rates afterward; no stacking. Ends 23:59 Europe/Tirane. [Offer terms](https://zerorank.ai/pricing). · until&nbsp;Nov&nbsp;30 |
 | 💰 | **[Keyword Race](https://keywordrace.com/?utm_source=mrsbf)**<br>App Store keyword research for indie iOS developers: competing apps, your position and estimated demand. | <b>40% off lifetime access: $59 → $35</b><br>No code needed, applied at checkout; one-time payment, lifetime access · Nov&nbsp;14&nbsp;–&nbsp;Dec&nbsp;2 |
 | 💰 | **[Citation Rocket](https://www.citationrocket.com/pricing?utm_source=mrs-bf&utm_medium=bf_list&utm_campaign=bf2026)**<br>AI-search readiness audit: checks whether GPT, Claude, Gemini, Perplexity and Grok mention your brand, then gives a ranked fix list and a 10-file AEO Pack. | <b>Lifetime licence ~~$99~~ $59, Agency ~~$149~~ $89</b><br>Pay once, no subscription; automatically applied; runs on your own OpenRouter key · Nov&nbsp;12&nbsp;–&nbsp;Dec&nbsp;2 |
+| 💰 | **[AltTextLab](https://www.alttextlab.com/black-friday?utm_source=github-mrs&utm_medium=deal_list&utm_campaign=bf2026)**<br>AI alt text generator that writes context-aware, SEO-optimized alt text for website images, in bulk or automatically on upload. | <b>40% off one-time credit packs (from $6 → $3.60) and the first year of Pro annual (from $48 → $28.80)</b><br>`BF2026` · Pro annual renews at full price. Credits never expire. · Nov&nbsp;17&nbsp;–&nbsp;Dec&nbsp;1 |
 
 <p align="right"><a href="#categories">↑ Categories</a></p>
 
@@ -588,7 +593,7 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 
 No deals yet in Books and Home Automation. [Add the first one](https://blackfriday.mariuslandwehr.com/submit/).
 
-<!-- DEALS:END checksum:0892f7166bad -->
+<!-- DEALS:END checksum:6c8af067b00c -->
 
 ## Add your deal
 
