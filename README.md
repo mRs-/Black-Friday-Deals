@@ -237,6 +237,7 @@ Deals are **submitted by makers and the community and reviewed** before they go 
 | [**Zipic**](https://zipic.app/black-friday?utm_source=gh-pimjo&utm_medium=github&utm_campaign=bf2026) | Compresses, converts and resizes images locally on Mac and Windows, including AVIF, WebP and JPEG XL. | 33% OFF one-time licenses: Solo $13.39, Personal $20.09, Team $87.09 (Coupon: `BF2026`) | Nov 20 – Dec 6, 2026 |
 | [**DigiCard Pro**](https://www.digicard.pro/) | Digital business card with a QR code for Apple Wallet and Google Wallet. No account required, one-time payment. | 50% OFF, $49.99 → $24.99 one-time (Coupon: `DIGI50`) | Nov 23 – Nov 30, 2026 |
 | [**ScreenShield**](https://sky-blue1111.github.io/screenshield-site/?utm_source=bfdeals-pimjo#pricing) | Chrome extension that hides emails, phone numbers, card numbers and API keys on web pages while you share your screen. Runs locally in the browser. | 41% OFF Lifetime Pro, $49 → $29 one-time, no code needed | Oct 22 – Nov 30, 2026 |
+| [**Paperweight**](https://paperweight.email/black-friday) | Local-first, MIT-open-source desktop privacy app for Windows, macOS and Linux. Maps your digital footprint from your inbox, finds forgotten accounts, breaches and personal data, and helps remove accounts and personal data. | Black Friday Exclusive Lifetime Pro: $149 one-time ($139 with crypto); normally unavailable. No coupon needed. | Nov 16 – Dec 1, 2026 (inclusive) |
 
 ---
 
