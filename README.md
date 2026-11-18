@@ -133,6 +133,7 @@ Deals are **submitted by makers and the community and reviewed** before they go 
 | [**Pulsetic**](https://pulsetic.com/black-friday) | Uptime monitoring for websites, APIs, SSL, DNS and cron jobs from 15 regions, with alerts and status pages. | 35% OFF the first payment on any paid plan (Coupon: `BLACKFRIDAY35`) | Nov 16 – Dec 3, 2026 |
 | [**Stratos**](https://stratosapp.dev/buy/) | Native Swift macOS local development stack for PHP 8.1–8.5, Laravel, WordPress, and Node.js with coexisting PHP-FPM pools, automatic .test HTTPS, Visual Tinker REPL, Database Hub + ER Schema Diagrams, Cloudflare Tunnels, and a built-in Local AI MCP Server for Cursor & Claude Code. | 20% OFF all plans: Founder Lifetime $89 → $71.20, Pro Annual $39/yr → $31.20/yr, Team $129/yr → $103.20/yr (Coupon: `BFCM20`) | Nov 15 – Nov 30, 2026 |
 
+| [PortDroid](https://portdroid.net/sale) | Android network toolkit for port scanning, ping, traceroute, DNS, LAN device discovery and more | **50% OFF** Pro Lifetime with code **CYBER_2026** · $9.49 → $4.69 USD| Nov 5 - Dec 4 2026 |
 ---
 
 <a id="design-icons"></a>
