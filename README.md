@@ -239,6 +239,7 @@ Deals are **submitted by makers and the community and reviewed** before they go 
 | [**ScreenShield**](https://sky-blue1111.github.io/screenshield-site/?utm_source=bfdeals-pimjo#pricing) | Chrome extension that hides emails, phone numbers, card numbers and API keys on web pages while you share your screen. Runs locally in the browser. | 41% OFF Lifetime Pro, $49 → $29 one-time, no code needed | Oct 22 – Nov 30, 2026 |
 | [**Paperweight**](https://paperweight.email/black-friday) | Local-first, MIT-open-source desktop privacy app for Windows, macOS and Linux. Maps your digital footprint from your inbox, finds forgotten accounts, breaches and personal data, and helps remove accounts and personal data. | Black Friday Exclusive Lifetime Pro: $149 one-time ($139 with crypto); normally unavailable. No coupon needed. | Nov 16 – Dec 1, 2026 (inclusive) |
 | [**Timesheet**](https://timesheet.io/en/pricing) | Time tracking for freelancers and teams on iPhone, iPad, Android and the web, with invoices, reports, team and HR tools. | 50% OFF the first year of every annual plan on the web, App Store and Google Play: Pro ($99.99 → $49.99 per user), Business ($179.99 → $89.99 per user). New customers, no code needed | Nov 23 – Nov 30, 2026 |
+| [**AntShot**](https://antshot.com/?ref=pimjo) | Full-page screenshots for Chrome and Edge, including tables and lists that scroll inside a page. Saved on your device, no account. | 35% OFF Pro Lifetime, $39 → $25.35 (Coupon: `BLACKFRIDAY26`) | Nov 12 – Dec 2, 2026 |
 
 ---
 
