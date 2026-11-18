@@ -4,7 +4,7 @@ The ultimate **Black Friday** and **Cyber Monday 2026** deals list for **AI tool
 
 Deals are **submitted by makers and the community and reviewed** before they go live, with the coupon code and dates in one place.
 
-> **Total Deals Count**: 162+ · Have a deal? [Add it here](#how-to-contribute)
+> **Total Deals Count**: 186+ · Have a deal? [Add it here](#how-to-contribute)
 
 **Jump to:** [🤖 AI Tools](#ai-tools) · [🎨 UI Kits & Templates](#ui-kits-templates) · [🛠️ Dev Tools & SaaS](#dev-tools-saas) · [🖋️ Design & Icons](#design-icons) · [🌐 Hosting](#hosting-domains) · [📈 Marketing & SEO](#marketing-seo) · [🧩 Productivity & Apps](#productivity) · [📚 Books & Courses](#books-courses) · [⚙️ NoCode](#nocode) · [🗞️ Communities](#communities-newsletters) · [🧱 Other](#other-resources)
 
@@ -133,12 +133,13 @@ Deals are **submitted by makers and the community and reviewed** before they go 
 | [**Pulsetic**](https://pulsetic.com/black-friday) | Uptime monitoring for websites, APIs, SSL, DNS and cron jobs from 15 regions, with alerts and status pages. | 35% OFF the first payment on any paid plan (Coupon: `BLACKFRIDAY35`) | Nov 16 – Dec 3, 2026 |
 | [**Stratos**](https://stratosapp.dev/buy/) | Native Swift macOS local development stack for PHP 8.1–8.5, Laravel, WordPress, and Node.js with coexisting PHP-FPM pools, automatic .test HTTPS, Visual Tinker REPL, Database Hub + ER Schema Diagrams, Cloudflare Tunnels, and a built-in Local AI MCP Server for Cursor & Claude Code. | 20% OFF all plans: Founder Lifetime $89 → $71.20, Pro Annual $39/yr → $31.20/yr, Team $129/yr → $103.20/yr (Coupon: `BFCM20`) | Nov 15 – Nov 30, 2026 |
 | [**TelemetryDeck**](https://telemetrydeck.com/?utm_source=pimjo&utm_medium=deal-list&utm_campaign=black-week-2026) | Privacy-first app and web analytics for developers, hosted in Germany. | 30% OFF for 12 months (Coupon: `WEEK26`) | Nov 23 – Dec 1, 2026 |
-| [**Akev**](https://akev.dev/pricing) | Open-source HTTP(S) debugging proxy to inspect, mock and rewrite traffic from browsers, apps, phones and containers. | 30% OFF Pro licence, one-time $49 → $34.30 (Coupon: `BLACKFRIDAY`) | Nov 15 - Dec 6, 2026 |
+| [**Akev**](https://akev.dev/pricing) | Open-source HTTP(S) debugging proxy to inspect, mock and rewrite traffic from browsers, apps, phones and containers. | 30% OFF Pro licence, one-time $49 → $34.30 (Coupon: `BLACKFRIDAY`) | Nov 15 – Dec 6, 2026 |
 | [**KittyTrace**](https://kittytrace.com/?utm_source=pimjo-github&utm_campaign=bf2026) | Self-hosted, Sentry-compatible error tracking that runs free on your own Cloudflare account or on your server with Docker. | 34% OFF one-time license, $29 → $19 (Coupon: `BF2026`) | Nov 17 – Dec 1, 2026 |
 | [**RenewRoster**](https://renewroster.com/pricing) | Domain and SSL certificate expiry tracking for web agencies: alerts, white-label client reminders, monthly renewals report. | 50% OFF annual plans (no code, applied at checkout; price locked on renewal) | Nov 17 – Dec 4, 2026 |
 | [**Tower**](https://www.git-tower.com/) | The most powerful Git client for Mac and Windows. | **Up to 50% OFF** the first year for new customers: Pro $129 → $64.50, Basic $69 → $48.30 (no code needed) | Nov 23 – Dec 6, 2026 |
 
-| [PortDroid](https://portdroid.net/sale) | Android network toolkit for port scanning, ping, traceroute, DNS, LAN device discovery and more | **50% OFF** Pro Lifetime with code **CYBER_2026** · $9.49 → $4.69 USD| Nov 5 - Dec 4 2026 |
+| [**PortDroid**](https://portdroid.net/sale) | Android network toolkit for port scanning, ping, traceroute, DNS, LAN device discovery and more. | **50% OFF** Pro Lifetime, $9.49 → $4.69 (Coupon: `CYBER_2026`) | Nov 5 – Dec 4, 2026 |
+
 ---
 
 <a id="design-icons"></a>
@@ -251,12 +252,13 @@ Deals are **submitted by makers and the community and reviewed** before they go 
 | [**Zipic**](https://zipic.app/black-friday?utm_source=gh-pimjo&utm_medium=github&utm_campaign=bf2026) | Compresses, converts and resizes images locally on Mac and Windows, including AVIF, WebP and JPEG XL. | 33% OFF one-time licenses: Solo $13.39, Personal $20.09, Team $87.09 (Coupon: `BF2026`) | Nov 20 – Dec 6, 2026 |
 | [**DigiCard Pro**](https://www.digicard.pro/) | Digital business card with a QR code for Apple Wallet and Google Wallet. No account required, one-time payment. | 50% OFF, $49.99 → $24.99 one-time (Coupon: `DIGI50`) | Nov 23 – Nov 30, 2026 |
 | [**ScreenShield**](https://sky-blue1111.github.io/screenshield-site/?utm_source=bfdeals-pimjo#pricing) | Chrome extension that hides emails, phone numbers, card numbers and API keys on web pages while you share your screen. Runs locally in the browser. | 41% OFF Lifetime Pro, $49 → $29 one-time, no code needed | Oct 22 – Nov 30, 2026 |
-| [**Paperweight**](https://paperweight.email/black-friday) | Local-first, MIT-open-source desktop privacy app for Windows, macOS and Linux. Maps your digital footprint from your inbox, finds forgotten accounts, breaches and personal data, and helps remove accounts and personal data. | Black Friday Exclusive Lifetime Pro: $149 one-time ($139 with crypto); normally unavailable. No coupon needed. | Nov 16 – Dec 1, 2026 (inclusive) |
+| [**Paperweight**](https://paperweight.email/black-friday) | Local-first, MIT-open-source desktop privacy app for Windows, macOS and Linux. Maps your digital footprint from your inbox, finds forgotten accounts, breaches and personal data, and helps remove accounts and personal data. | Black Friday Exclusive Lifetime Pro: $149 one-time ($139 with crypto); normally unavailable. No coupon needed. | Nov 16 – Dec 1, 2026 |
 | [**Timesheet**](https://timesheet.io/en/pricing) | Time tracking for freelancers and teams on iPhone, iPad, Android and the web, with invoices, reports, team and HR tools. | 50% OFF the first year of every annual plan on the web, App Store and Google Play: Pro ($99.99 → $49.99 per user), Business ($179.99 → $89.99 per user). New customers, no code needed | Nov 23 – Nov 30, 2026 |
 | [**AntShot**](https://antshot.com/?ref=pimjo) | Full-page screenshots for Chrome and Edge, including tables and lists that scroll inside a page. Saved on your device, no account. | 35% OFF Pro Lifetime, $39 → $25.35 (Coupon: `BLACKFRIDAY26`) | Nov 12 – Dec 2, 2026 |
 | [**Inkfree**](https://inkfree.app/signature-savings-sale/?utm_source=github&utm_medium=deals&utm_campaign=bf2026) | eSignature for teams with signing order, reusable templates, bulk send and a sealed audit trail. | 70% OFF the first year (annual) or 60% OFF the first 3 months (monthly). Auto-applied, no code needed | Nov 16 – Dec 14, 2026 |
 | [**bytemail**](https://bytemailapp.com/black-friday) | Fast, native email app for Mac with a unified inbox, smart search, an AI assistant and MCP support. | 30% OFF the lifetime licence: $69 instead of $99, one payment, up to 5 devices (no code needed) | Nov 17 – Dec 7, 2026 |
 | [**Paste**](https://pasteapp.io/black-friday-2026?ref=pimjo) | Paste is a productivity app for Mac, iPhone, and iPad that remembers everything you copy. | 50% OFF the first year of Annual, $14.99 instead of $29.99 (Coupon: `BLACKFRIDAY2026`) | Nov 20 – Dec 1, 2026 |
+| [**Video Wall Live**](https://www.videowalllive.com/blackfriday) | A Ring app that shows all your Ring cameras live at once on Apple TV, Mac, Windows, Fire TV, Google TV, Roku and the web. | **60% OFF**: $4.99 → $1.99 per camera/month for new sign-ups (no code needed) | Nov 2 – Nov 30, 2026 |
 
 ---
 
