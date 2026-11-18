@@ -256,6 +256,7 @@ Deals are **submitted by makers and the community and reviewed** before they go 
 | [**AntShot**](https://antshot.com/?ref=pimjo) | Full-page screenshots for Chrome and Edge, including tables and lists that scroll inside a page. Saved on your device, no account. | 35% OFF Pro Lifetime, $39 → $25.35 (Coupon: `BLACKFRIDAY26`) | Nov 12 – Dec 2, 2026 |
 | [**Inkfree**](https://inkfree.app/signature-savings-sale/?utm_source=github&utm_medium=deals&utm_campaign=bf2026) | eSignature for teams with signing order, reusable templates, bulk send and a sealed audit trail. | 70% OFF the first year (annual) or 60% OFF the first 3 months (monthly). Auto-applied, no code needed | Nov 16 – Dec 14, 2026 |
 | [**bytemail**](https://bytemailapp.com/black-friday) | Fast, native email app for Mac with a unified inbox, smart search, an AI assistant and MCP support. | 30% OFF the lifetime licence: $69 instead of $99, one payment, up to 5 devices (no code needed) | Nov 17 – Dec 7, 2026 |
+| [**Paste**](https://pasteapp.io/black-friday-2026?ref=pimjo) | Paste is a productivity app for Mac, iPhone, and iPad that remembers everything you copy. | 50% OFF the first year of Annual, $14.99 instead of $29.99 (Coupon: `BLACKFRIDAY2026`) | Nov 20 – Dec 1, 2026 |
 
 ---
 
