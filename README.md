@@ -4,7 +4,7 @@ The ultimate **Black Friday** and **Cyber Monday 2026** deals list for **AI tool
 
 Deals are **submitted by makers and the community and reviewed** before they go live, with the coupon code and dates in one place.
 
-> **Total Deals Count**: 161+ · Have a deal? [Add it here](#how-to-contribute)
+> **Total Deals Count**: 162+ · Have a deal? [Add it here](#how-to-contribute)
 
 **Jump to:** [🤖 AI Tools](#ai-tools) · [🎨 UI Kits & Templates](#ui-kits-templates) · [🛠️ Dev Tools & SaaS](#dev-tools-saas) · [🖋️ Design & Icons](#design-icons) · [🌐 Hosting](#hosting-domains) · [📈 Marketing & SEO](#marketing-seo) · [🧩 Productivity & Apps](#productivity) · [📚 Books & Courses](#books-courses) · [⚙️ NoCode](#nocode) · [🗞️ Communities](#communities-newsletters) · [🧱 Other](#other-resources)
 
@@ -13,12 +13,12 @@ Deals are **submitted by makers and the community and reviewed** before they go 
 | [Meku](https://meku.dev/?ref=PimjoGitHub) <br/> 🔥 30% OFF | [Lineicons](https://lineicons.com/?ref=PimjoGitHub) <br/> 🔥 40% OFF | [TailAdmin](https://tailadmin.com/?ref=PimjoGitHub) <br/> 🔥 30% OFF |
 | --- | --- | --- |
 | <a href="https://meku.dev/?ref=PimjoGitHub"><img width="420" src="https://pimjo.com/images/black-friday/products/meku-2026.webp" /></a> | <a href="https://lineicons.com/?ref=PimjoGitHub"><img width="420" src="https://pimjo.com/images/black-friday/products/lineicons-2026.webp" /></a> | <a href="https://tailadmin.com/?ref=PimjoGitHub"><img width="420" src="https://pimjo.com/images/black-friday/products/tailadmin-2026.webp" /></a> |
-| Meku.dev is an AI-powered site and app builder for developers. Generate and deploy full-stack projects from simple prompts with essential tools and hosting. <br/><br/> Coupon: **BLFCM2026** | Lineicons offers 30,000+ precision-crafted icons in 10 styles, delivering consistent, scalable visuals that integrate smoothly across products. <br/><br/> Coupon: **BLFCM2026** | Industry-leading Tailwind CSS dashboard kit with 500+ components for modern admin panels. Available for HTML, React, Next.js, Vue, Laravel, and Angular. <br/><br/> Coupon: **BLFCM2026** |
+| AI website and web app builder. Start from a prompt, a URL or a Figma design, add auth, a database and APIs, then deploy with one click or export the code to GitHub. <br/><br/> Coupon: **BLFCM2026** | 30,000+ premium icons across 60+ categories and 10+ styles, including 1,500+ AI icons. Use them as SVG, JSX, TSX or an icon font, with npm packages and a Figma plugin. <br/><br/> Coupon: **BLFCM2026** | Tailwind CSS admin dashboard with 500+ UI components and pages, including 11 dashboard variants and AI pages. Available for HTML, React, Next.js, Vue, Angular and Laravel. <br/><br/> Coupon: **BLFCM2026** |
 
-| [Nivon](https://nivon.ai/?ref=PimjoGitHub) <br/> 🔥 40% OFF | [Aymo AI](https://aymo.ai/?ref=PimjoGitHub) <br/> 🔥 30% OFF | [NextAdmin](https://nextadmin.co/?ref=PimjoGitHub) <br/> 🔥 30% OFF |
+| [Nivon](https://nivon.ai/?ref=PimjoGitHub) <br/> 🔥 40% OFF | [Aymo AI](https://aymo.ai/?ref=PimjoGitHub) <br/> 🔥 30% OFF | [NextAdmin](https://nextadmin.co/?ref=PimjoGitHub) <br/> 🔥 40% OFF |
 | --- | --- | --- |
 | <a href="https://nivon.ai/?ref=PimjoGitHub"><img width="420" src="https://pimjo.com/images/black-friday/products/nivon-2026.webp" /></a> | <a href="https://aymo.ai/?ref=PimjoGitHub"><img width="420" src="https://pimjo.com/images/black-friday/products/aymo-2026.webp" /></a> | <a href="https://nextadmin.co/?ref=PimjoGitHub"><img width="420" src="https://pimjo.com/images/black-friday/products/nextadmin-2026.webp" /></a> |
-| Nivon is an AI customer support chatbot trained on your website and docs. It answers customers 24/7 in 95+ languages and hands off the rest to your team. <br/><br/> Coupon: **BLFCM2026** | Aymo AI is an all-in-one AI platform for teams. Access GPT, Claude, Gemini, DeepSeek, Grok, and more in one private, secure workspace built for collaboration. <br/><br/> Coupon: **BLFCM2026** | AI-Ready Next.js admin dashboard with 200+ UI components, pages, and dashboards, plus built-in AI rules so Claude Code, Cursor, and other agents can extend it consistently. <br/><br/> Coupon: **BLFCM2026** |
+| No-code AI support chatbot trained on your website and docs. Add it with one script tag to answer customers in 95+ languages, in your team's voice, and pass anything it can't solve to your inbox. <br/><br/> Coupon: **BLFCM2026** | All-in-one AI workspace with 65+ models, including GPT, Claude, Gemini and Grok. Compare answers side by side, generate images and share chats and projects with your team. <br/><br/> Coupon: **BLFCM2026** | Next.js admin dashboard with 200+ UI components and prebuilt pages for analytics, eCommerce, CRM and marketing. AI-ready for Claude Code, Cursor and Codex, with a Figma source file. <br/><br/> Coupon: **BLFCM2026** |
 
 ## 🔥 All Black Friday & Cyber Monday 2026 Deals
 
@@ -30,9 +30,9 @@ Deals are **submitted by makers and the community and reviewed** before they go 
 
 | Name | Description | Deal Details | Validity |
 | --- | --- | --- | --- |
-| [**Meku**](https://meku.dev/) | AI web app builder to create full-stack sites with prompts. | 30% OFF + Free FormBold Starter (Coupon: `BLFCM2026`) | Nov 18 – Dec 1, 2026 |
-| [**Aymo AI**](https://aymo.ai/) | All-in-one AI platform for teams to collaborate, research, brainstorm, and document smarter. | 30% OFF Paid Plans (Coupon: `BLFCM2026`) | Nov 18 – Dec 1, 2026 |
-| [**Nivon**](https://nivon.ai/) | AI customer support chatbot trained on your website and docs, with handoff to your team for unresolved chats. | 40% OFF All Paid Plans (Coupon: `BLFCM2026`) | Nov 18 – Dec 1, 2026 |
+| [**Meku**](https://meku.dev/) | AI website and web app builder. Start from a prompt, a URL or a Figma design, add auth, a database and APIs, then deploy with one click or export the code to GitHub. | 30% OFF All Paid Plans, recurring (Coupon: `BLFCM2026`) | Nov 16 – Dec 1, 2026 |
+| [**Aymo AI**](https://aymo.ai/) | All-in-one AI workspace with 65+ models, including GPT, Claude, Gemini and Grok. Compare answers side by side, generate images and share chats and projects with your team. | 30% OFF Paid Plans, recurring (Coupon: `BLFCM2026`) | Nov 16 – Dec 1, 2026 |
+| [**Nivon**](https://nivon.ai/) | No-code AI support chatbot trained on your website and docs. Add it with one script tag to answer customers in 95+ languages, in your team's voice, and pass anything it can't solve to your inbox. | 40% OFF All Paid Plans, recurring (Coupon: `BLFCM2026`) | Nov 16 – Dec 1, 2026 |
 | [**RewriteBar**](https://rewritebar.com?ref=pimjo&utm_source=github-pimjo) | Improve your writing in any macOS application with AI assistance. Fix grammar, adjust tone, translate, rewrite, summarize, plus custom actions and templates. | 50% OFF Lifetime Deal (Coupon: `BF2026`) | Nov 2 – Dec 3, 2026 |
 | [**Seedeo**](https://seedeo.ai/pricing?utm_source=pimjo_github&utm_medium=referral&utm_campaign=black_friday_2026&utm_content=non_expiring_creator_credits) | AI creation workspace for switching between video, image, music, and voice models while keeping every project on one shared credit balance. | **20,000 non-expiring credits for $99** (62% OFF; regularly $259.90). Coupon: `bf26_pack99`. One pack per customer. | Oct 24 – Nov 30, 2026 |
 | [**TypingMind**](https://www.typingmind.com/?utm_source=pimjo) | Advanced chat UI for ChatGPT, Claude, Gemini and more, with all models in one place, MCP & plugins, AI agents, and private local storage | 60% OFF Lifetime Premium (Coupon: `BLACKFRIDAY2026`) | Nov 2 – Dec 15, 2026 |
@@ -64,12 +64,13 @@ Deals are **submitted by makers and the community and reviewed** before they go 
 
 | Name | Description | Deal Details | Validity |
 | --- | --- | --- | --- |
-| [**TailAdmin**](https://tailadmin.com/) | Tailwind CSS admin dashboards with 500+ Components for React, Vue, and HTML projects. | 30% OFF All Plans (Coupon: `BLFCM2026`) | Nov 18 – Dec 1, 2026 |
-| [**TailGrids**](https://tailgrids.com/) | Tailwind CSS UI library with 600+ components and templates. | 30% OFF All-Access Plans (Coupon: `BLFCM2026`) | Nov 18 – Dec 1, 2026 |
-| [**UIdeck**](https://uideck.com/) | 100+ premium HTML, React, and Tailwind templates for startups and SaaS. | 60% OFF All-Access Plans (Coupon: `BLFCM2026`) | Nov 18 – Dec 1, 2026 |
-| [**NextjsTemplates**](https://nextjstemplates.com/) | 20+ high-performance Next.js templates for SaaS and portfolios. | 40% OFF All Plans (Coupon: `BLFCM2026`) | Nov 18 – Dec 1, 2026 |
-| [**CozyCommerce**](https://cozycommerce.dev/) | Next.js Tailwind CSS eCommerce solution and boilerplate with 100+ components and 20+ pages. | 30% OFF All Plans (Coupon: `BLFCM2026`) | Nov 18 – Dec 1, 2026 |
-| [**Skillsaint**](https://skillsaint.com/) | React LMS website template for online courses, built with Next.js and Sanity CMS. | 40% OFF All Pro Plans (Coupon: `BLFCM2026`) | Nov 18 – Dec 1, 2026 |
+| [**TailAdmin**](https://tailadmin.com/) | Tailwind CSS admin dashboard with 500+ UI components and pages, including 11 dashboard variants and AI pages. Available for HTML, React, Next.js, Vue, Angular and Laravel. | 30% OFF All Plans (Coupon: `BLFCM2026`) | Nov 16 – Dec 1, 2026 |
+| [**TailGrids**](https://tailgrids.com/) | 600+ Tailwind CSS components, blocks and templates for React and any JSX framework. Add them from the CLI or generate UI with AI through the Tailgrids MCP, with a matching Figma kit. | 50% OFF All-Access Plans (Coupon: `BLFCM2026`) | Nov 16 – Dec 1, 2026 |
+| [**UIdeck**](https://uideck.com/) | 100+ handcrafted HTML, Tailwind CSS, Bootstrap and React templates and UI kits for startups, SaaS and business websites. Clean code, new releases every month and a commercial license. | 60% OFF All Plans, recurring (Coupon: `BLFCM2026`) | Nov 16 – Dec 1, 2026 |
+| [**NextjsTemplates**](https://nextjstemplates.com/) | 20+ premium Next.js templates, starter kits and boilerplates for SaaS, landing pages, dashboards and blogs. All updated to Next.js 16, with lifetime free updates. | 40% OFF All Plans (Coupon: `BLFCM2026`) | Nov 16 – Dec 1, 2026 |
+| [**CozyCommerce**](https://cozycommerce.dev/) | Full-stack Next.js and Tailwind CSS eCommerce suite with 100+ components, 20+ pages and an admin dashboard. Stripe payments, Algolia search and a built-in CMS, fully self-hosted. | 50% OFF All Plans (Coupon: `BLFCM2026`) | Nov 16 – Dec 1, 2026 |
+| [**Skillsaint**](https://skillsaint.com/) | React LMS website template for online learning platforms. Built with Next.js, Sanity CMS and Tailwind CSS, with course management, student enrollment and integrated payments. | 40% OFF All Pro Plans (Coupon: `BLFCM2026`) | Nov 16 – Dec 1, 2026 |
+| [**TailTemplates**](https://tailtemplates.com/) | Premium Tailwind CSS templates for startups, apps, SaaS, landing pages and business websites. 17+ templates with new ones every month, lifetime updates and a commercial license. | 80% OFF All Yearly Plans (Coupon: `BLFCM2026`) | Nov 16 – Dec 1, 2026 |
 | [**Tailkit**](https://tailkit.com/) | 2,000+ responsive Tailwind CSS UI components for React, Vue.js, Laravel, Alpine.js and HTML, with an MCP server for AI-powered development. | Up to 60% OFF (Auto-applied) | Nov 23 – Dec 1, 2026 |
 | [**ShipAhead**](https://shipahe.ad) | Ship your SaaS in a weekend with Nuxt Starter Kit | 50% OFF. Auto-applied | Nov 1 – Dec 31, 2026 |
 | [**SportyBlocks**](https://sportyblocks.com/?discount=BLACKFRIDAY&ref=bf-pimjo) | 87 sports UI components for Tailwind CSS in HTML and React, with a Figma file. | $20 OFF, $49 to $29 (Coupon: `BLACKFRIDAY`) | Nov 27 – Nov 30, 2026 |
@@ -90,9 +91,9 @@ Deals are **submitted by makers and the community and reviewed** before they go 
 
 | Name | Description | Deal Details | Validity |
 | --- | --- | --- | --- |
-| [**SaaSBold**](https://saasbold.com/) | Next.js SaaS boilerplate with built-in auth, billing, and dashboard templates. | 40% OFF All Plans (Coupon: `BLFCM2026`) | Nov 18 – Dec 1, 2026 |
-| [**NextAdmin**](https://nextadmin.co/) | Next.js admin dashboard template with 200+ components and layouts. | 30% OFF All Plans (Coupon: `BLFCM2026`) | Nov 18 – Dec 1, 2026 |
-| [**NextMerce**](https://nextmerce.com/) | Next.js eCommerce template with Sanity CMS for modern online stores. | 30% OFF All Plans (Coupon: `BLFCM2026`) | Nov 18 – Dec 1, 2026 |
+| [**SaaSBold**](https://saasbold.com/) | Production-ready Next.js SaaS boilerplate with auth, Stripe and Lemon Squeezy payments, admin and user dashboards and a Prisma database. Go from idea to MVP without weeks of setup. | 50% OFF All Plans (Coupon: `BLFCM2026`) | Nov 16 – Dec 1, 2026 |
+| [**NextAdmin**](https://nextadmin.co/) | Next.js admin dashboard with 200+ UI components and prebuilt pages for analytics, eCommerce, CRM and marketing. AI-ready for Claude Code, Cursor and Codex, with a Figma source file. | 40% OFF All Plans (Coupon: `BLFCM2026`) | Nov 16 – Dec 1, 2026 |
+| [**NextMerce**](https://nextmerce.com/) | Next.js eCommerce boilerplate powered by Sanity CMS, with 100+ components and 20+ pages. Cart, wishlist, Stripe checkout and Algolia search are built in. | 50% OFF All Plans (Coupon: `BLFCM2026`) | Nov 16 – Dec 1, 2026 |
 | [**React PDF Kit**](https://www.react-pdf-kit.dev/?utm_source=github-pimjo&utm_medium=referral&utm_campaign=bfcm2026) | React PDF Kit is a powerful PDF viewer for React apps that supports keyword highlights, programmatic control and customization. | 50% off Developer License and Organization License (Coupon: `BFCM2026`) | Nov 1 – Dec 1, 2026 |
 | [**DevUtils**](https://devutils.com/?utm_source=pimjo) | Offline all-in-one toolbox for developers on macOS: JSON formatter, Base64, JWT debugger, regex tester and more, all running locally. | 60% OFF All Plans (Coupon: `BLACKFRIDAY2026`) | Nov 2 – Dec 30, 2026 |
 | [**anon.li**](https://anon.li/pricing) | Open-source email aliases, end-to-end encrypted file sharing and encrypted forms, with a CLI, API and MCP server. | 40% OFF all paid plans for 12 months, card checkout (Coupon: `BLKFRI40`) | Nov 2 – Dec 6, 2026 |
@@ -136,7 +137,7 @@ Deals are **submitted by makers and the community and reviewed** before they go 
 
 | Name | Description | Deal Details | Validity |
 | --- | --- | --- | --- |
-| [**Lineicons**](https://lineicons.com/) | 30,000+ vector icons in 10 styles, optimized for modern web and app design. | 40% OFF All Plans (Coupon: `BLFCM2026`) | Nov 18 – Dec 1, 2026 |
+| [**Lineicons**](https://lineicons.com/) | 30,000+ premium icons across 60+ categories and 10+ styles, including 1,500+ AI icons. Use them as SVG, JSX, TSX or an icon font, with npm packages and a Figma plugin. | 40% OFF All Plans, recurring (Coupon: `BLFCM2026`) | Nov 16 – Dec 1, 2026 |
 | [**Atmos**](https://atmos.style/?utm_source=pimjo&utm_campaign=bf2026) | Color palette tool for UI design: perceptually uniform shades in OKLCH and LCH, WCAG and APCA contrast checks, and a Figma plugin with sync. | 50% OFF Lifetime plan (Coupon: `BF2026`) | Nov 23 – 29, 2026 |
 | [**LS Graphics**](https://www.ls.graphics/) | Browser-based editor for static and animated mockups, plus 100+ branding and device mockup bundles with downloadable PSD, Figma, and Sketch source files. | 50% OFF all bundles, monthly plans, and annual plans | Nov 6 – Dec 1, 2026 |
 | [**Artnap Pro**](https://artnap.com/pro) | Archive of about 540,000 public domain artworks from museum open access collections, with museum master files and print-ready paper sizes in Pro. | 38% OFF first year of the yearly plan, $95.88 → $59, renews at $95.88 (no code needed) | Nov 23 – Nov 30, 2026 |
@@ -156,7 +157,7 @@ Deals are **submitted by makers and the community and reviewed** before they go 
 
 | Name | Description | Deal Details | Validity |
 | --- | --- | --- | --- |
-| [**Static.run**](https://static.run/) | Static hosting with instant deploys, built-in analytics, and CDN delivery. | 30% OFF All Paid Plans (Coupon: `BLFCM2026`) | Nov 18 – Dec 1, 2026 |
+| [**Static.run**](https://static.run/) | Fast hosting for static websites, code and files. Upload your site and get a live link with free SSL, custom domains, unlimited traffic and an online code editor. | 30% OFF All Paid Plans, recurring (Coupon: `BLFCM2026`) | Nov 16 – Dec 1, 2026 |
 | [**OneClickClaw**](https://oneclickclaw.io/plans?utm_source=pimjo&utm_medium=deal_list&utm_campaign=blackfriday2026) | Your own OpenClaw or Hermes Agent server in the EU (Denmark), set up for you. Free 7-day trial, no card. | Up to 33% OFF the first month on monthly plans: Starter €9.99 (was €14.99), Hobbyist €17.99 (was €25.99), Pro €34.99 (was €49.99). Auto-applied at checkout, no code. Then the regular monthly price | Nov 10 – Dec 1, 2026 |
 | [**Kinsta**](https://kinsta.com/black-friday/) | Fast, secure, feature-rich managed hosting for WordPress on next-generation cloud infrastructure, secured by Cloudflare. | 3 Months FREE on Annual Plans or 50% OFF the First 3 Months on Monthly Plans (new customers, no coupon needed) | Nov 11 – Dec 1, 2026 |
 
@@ -200,7 +201,7 @@ Deals are **submitted by makers and the community and reviewed** before they go 
 
 | Name | Description | Deal Details | Validity |
 | --- | --- | --- | --- |
-| [**FormBold**](https://formbold.com/) | No-code form backend solution and API for websites with integrations for Email, Slack, Notion, and more. | 30% OFF All Paid Plans (Coupon: `BLFCM2026`) | Nov 18 – Dec 1, 2026 |
+| [**FormBold**](https://formbold.com/) | Form backend for any website. Paste one URL into your form and get submissions in Email, Slack, Notion or Telegram, with spam protection, file uploads and no servers to run. | 40% OFF All Paid Plans, recurring (Coupon: `BLFCM2026`) | Nov 16 – Dec 1, 2026 |
 | [**Wins**](https://wins.cool/) | Easy-to-use Mac window manager with Windows-like window management, Dock Preview, and keyboard shortcuts. | 40% OFF All Plans (Coupon: `BF_26`) | Nov 11 – Dec 1, 2026 |
 | [**Chronoid**](https://www.chronoid.app/pricing) | Automatic time tracking for Mac. Logs apps, sites and docs, sorts them into projects and turns hours into invoices. Data stays on your Mac. | 50% OFF Lifetime ($149 → $74.50) and Personal ($99 → $49.50) (Coupon: `BLACKFRIDAY26`) | Nov 3 – Dec 2, 2026 |
 | [**Email Me**](https://emailmeapp.net/) | The fastest way to record your thoughts as voice or text notes, sent to your inbox. For iOS, iPadOS, macOS, watchOS, visionOS & CarPlay. | **50% OFF**: $19.99 → $9.99 USD (no code needed) | Nov 27 – Dec 1, 2026 |
