@@ -1,0 +1,7 @@
+name: "AppSec.training"
+url: "https://appsec.training"
+description: "Application security, DevSecOps and secure SDLC training on the web."
+discount: "50% off"
+percent: 50
+code: "blackfriday"
+ends: "2026-12-31"
