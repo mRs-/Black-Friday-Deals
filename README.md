@@ -259,6 +259,7 @@ Deals are **submitted by makers and the community and reviewed** before they go 
 | [**bytemail**](https://bytemailapp.com/black-friday) | Fast, native email app for Mac with a unified inbox, smart search, an AI assistant and MCP support. | 30% OFF the lifetime licence: $69 instead of $99, one payment, up to 5 devices (no code needed) | Nov 17 – Dec 7, 2026 |
 | [**Paste**](https://pasteapp.io/black-friday-2026?ref=pimjo) | Paste is a productivity app for Mac, iPhone, and iPad that remembers everything you copy. | 50% OFF the first year of Annual, $14.99 instead of $29.99 (Coupon: `BLACKFRIDAY2026`) | Nov 20 – Dec 1, 2026 |
 | [**Video Wall Live**](https://www.videowalllive.com/blackfriday) | A Ring app that shows all your Ring cameras live at once on Apple TV, Mac, Windows, Fire TV, Google TV, Roku and the web. | **60% OFF**: $4.99 → $1.99 per camera/month for new sign-ups (no code needed) | Nov 2 – Nov 30, 2026 |
+| [**Findy**](https://getfindy.xyz/) | Native Mac app that finds files from plain words like “pdfs from gmail last week”, in English and 12 more languages, even by the text inside images and PDFs. Everything stays on your Mac, no account. One-time purchase, macOS 14+. | **50% OFF** any one-time license (Coupon: `GITFRIDAY50`) | Nov 18 – Dec 7, 2026 |
 
 ---
 
