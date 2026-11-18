@@ -57,6 +57,7 @@ Deals are **submitted by makers and the community and reviewed** before they go 
 | [**TypeBoost**](https://www.typeboost.ai/) | AI writing assistant for macOS and iOS: write and improve text by voice or text, directly inside the apps you already use. | 50% OFF the first year of the yearly plan, $60 → $30 (Coupon: `TYPEBOOST50`) · 25% OFF the monthly plan for 3 months, $8 → $6 (Coupon: `TYPEBOOST25`). Web checkout only | Nov 23 – Nov 30, 2026 |
 | [**DuoTyping**](https://duotyping.com/pricing?utm_source=github-pimjo) | AI writing companion for Mac, Windows, Chrome/Edge and the web: fixes grammar, spelling and tone as you type in the apps you already use, predicts your next words, and rewrites and translates. Free plan included. | 50% OFF the first payment of Pro: monthly $9.90 → $4.95 for the first month, yearly $89.90 → $44.95 for the first year (Coupon: `BFCM2026`). First Pro purchase only | Nov 13 – Dec 13, 2026 |
 | [**Podwise**](https://podwise.ai/pricing?utm_source=pimjo&utm_medium=deal_list&utm_campaign=bf2026) | AI podcast app that turns episodes into transcripts, summaries, mind maps and notes you can search and export. | 40% OFF Standard and Pro, monthly or yearly; renewals stay 40% off (Coupon: `BF2026`) · Also Black Friday pricing in the iOS app, checkout on podwise.ai | Nov 16 – Dec 6, 2026 |
+| [**Yaptake**](https://yaptake.com/#pricing) | Video editor for Mac that works like a document: delete words in the transcript to cut them from the video, tighten pauses and burn in captions, with speech models that run on your Mac. | 50% OFF your first year: Monthly $9.99 → $4.99 for 12 months, Yearly $79 → $39.50, new subscribers (Coupon: `YAPTAKEBF26`) | Nov 18 – Dec 2, 2026 |
 
 ---
 
@@ -160,6 +161,7 @@ Deals are **submitted by makers and the community and reviewed** before they go 
 | [**HDRI Hub**](https://www.hdri-hub.com/shop/hdri?discount=BLACK50&utm_source=pimjo&utm_campaign=bf2026) | High-resolution HDRI skies, HDRI domes, backplates and 3D people for architectural visualization, car and product rendering. | 50% OFF everything, bundles included (Coupon: `BLACK50`, applied automatically by the link) | Nov 19 – Dec 1, 2026 |
 | [**LottieGo**](https://lottiego.com/black-friday?utm_source=gh-pimjo&utm_medium=github&utm_campaign=bf2026) | Mac app that shrinks Lottie JSON files and exports MP4, transparent MOV or GIF, all locally. | 50% OFF Pro Lifetime: $4.99 → $2.49 (no code needed) | Nov 20 – Dec 6, 2026 |
 | [**Designmodo**](https://designmodo.com/black-friday/) | Postcards, an AI email template builder for 20+ ESPs, and Slides, a no-code website builder with hosting. | Up to 40% OFF yearly plans, 3 drops of 100 coupons (Coupon: `BLACK`) | Nov 16 – Nov 30, 2026 |
+| [**Textmock**](https://textmock.com/pricing) | Make iMessage-style conversation mockups on the web or Mac and save them as images or videos. | 50% OFF Textmock Pro for your first 12 months, $5 → $2.50 a month, new subscribers (Coupon: `TEXTMOCKBF26`) | Nov 18 – Dec 2, 2026 |
 
 ---
 
@@ -259,6 +261,7 @@ Deals are **submitted by makers and the community and reviewed** before they go 
 | [**bytemail**](https://bytemailapp.com/black-friday) | Fast, native email app for Mac with a unified inbox, smart search, an AI assistant and MCP support. | 30% OFF the lifetime licence: $69 instead of $99, one payment, up to 5 devices (no code needed) | Nov 17 – Dec 7, 2026 |
 | [**Paste**](https://pasteapp.io/black-friday-2026?ref=pimjo) | Paste is a productivity app for Mac, iPhone, and iPad that remembers everything you copy. | 50% OFF the first year of Annual, $14.99 instead of $29.99 (Coupon: `BLACKFRIDAY2026`) | Nov 20 – Dec 1, 2026 |
 | [**Video Wall Live**](https://www.videowalllive.com/blackfriday) | A Ring app that shows all your Ring cameras live at once on Apple TV, Mac, Windows, Fire TV, Google TV, Roku and the web. | **60% OFF**: $4.99 → $1.99 per camera/month for new sign-ups (no code needed) | Nov 2 – Nov 30, 2026 |
+| [**Sponge**](https://sponge.computer/pricing) | Local-first read-later library for Mac and Linux: save articles and PDFs, highlight them and export Markdown. Sponge Plus syncs your whole library to the web and iPhone. | 50% OFF Sponge Plus for your first 12 months, $5 → $2.50 a month on the web, new subscribers (Coupon: `SPONGEBF26`) | Nov 18 – Dec 2, 2026 |
 
 ---
 
