@@ -19,9 +19,9 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 
 ## Categories
 
-**382 deals** in 20 categories. 💸 marks 50% off or more, 💰 less than 50%.
+**383 deals** in 20 categories. 💸 marks 50% off or more, 💰 less than 50%.
 
-🛠&nbsp;[Development Software](#development-software)&nbsp;`55` · 🤖&nbsp;[AI Tools](#ai-tools)&nbsp;`31` · 🌈&nbsp;[Marketing Software](#marketing-software)&nbsp;`16` · 🎩&nbsp;[Security Software](#security-software)&nbsp;`17` · 🎛&nbsp;[Utility Software](#utility-software)&nbsp;`82` · 📌&nbsp;[Productivity Software](#productivity-software)&nbsp;`67` · 🎥&nbsp;[Video Software](#video-software)&nbsp;`20` · 🎨&nbsp;[Graphic Software](#graphic-software)&nbsp;`19` · 🏝️&nbsp;[Lifestyle](#lifestyle)&nbsp;`12` · 🗣️&nbsp;[Social](#social)&nbsp;`3` · 🎓&nbsp;[Reference & Education](#reference--education)&nbsp;`6` · 👩‍🎓&nbsp;[Courses and Videos](#courses-and-videos)&nbsp;`10` · 📈&nbsp;[Business Software](#business-software)&nbsp;`11` · 🏃🏻‍♀️&nbsp;[Health & Fitness Software](#health--fitness-software)&nbsp;`10` · 🎁&nbsp;[Bundles](#bundles)&nbsp;`3` · 🎶&nbsp;[Creative Content](#creative-content)&nbsp;`2` · 🤑&nbsp;[Finance](#finance)&nbsp;`5` · 🗺️&nbsp;[Navigation](#navigation)&nbsp;`1` · 🔎&nbsp;[SEO](#seo)&nbsp;`10` · 🕹&nbsp;[Games](#games)&nbsp;`2`
+🛠&nbsp;[Development Software](#development-software)&nbsp;`55` · 🤖&nbsp;[AI Tools](#ai-tools)&nbsp;`31` · 🌈&nbsp;[Marketing Software](#marketing-software)&nbsp;`16` · 🎩&nbsp;[Security Software](#security-software)&nbsp;`17` · 🎛&nbsp;[Utility Software](#utility-software)&nbsp;`82` · 📌&nbsp;[Productivity Software](#productivity-software)&nbsp;`68` · 🎥&nbsp;[Video Software](#video-software)&nbsp;`20` · 🎨&nbsp;[Graphic Software](#graphic-software)&nbsp;`19` · 🏝️&nbsp;[Lifestyle](#lifestyle)&nbsp;`12` · 🗣️&nbsp;[Social](#social)&nbsp;`3` · 🎓&nbsp;[Reference & Education](#reference--education)&nbsp;`6` · 👩‍🎓&nbsp;[Courses and Videos](#courses-and-videos)&nbsp;`10` · 📈&nbsp;[Business Software](#business-software)&nbsp;`11` · 🏃🏻‍♀️&nbsp;[Health & Fitness Software](#health--fitness-software)&nbsp;`10` · 🎁&nbsp;[Bundles](#bundles)&nbsp;`3` · 🎶&nbsp;[Creative Content](#creative-content)&nbsp;`2` · 🤑&nbsp;[Finance](#finance)&nbsp;`5` · 🗺️&nbsp;[Navigation](#navigation)&nbsp;`1` · 🔎&nbsp;[SEO](#seo)&nbsp;`10` · 🕹&nbsp;[Games](#games)&nbsp;`2`
 
 <a id="development-software"></a>
 
@@ -277,7 +277,7 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 | :-: | --- | --- |
 | 💸 | **[SupaSidebar](https://supasidebar.com?r=mrs)**<br>Arc-style sidebar for browser tabs, bookmarks, and Finder files, with fuzzy search. | <b>50% off Lifetime</b><br>`SIDEBARBF50` · one-time purchase · Nov&nbsp;9&nbsp;–&nbsp;Dec&nbsp;7 |
 | 💸 | **[Cozy](https://cozyjournal.app)**<br>Private journal for Mac, Windows, and iPhone with entries stored as local files. | <b>50% off ($49 → $24.50)</b><br>`BLACKFRIDAY` · one-time purchase; 2026-11-23 to 2026-11-30 (Pacific time) |
-| 💸 | **[Noteline](https://noteline.io/pricing)**<br>Markdown editor for Mac, Windows, and Linux with local files and offline Word/PDF export. | <b>50% off ($9.99 → $4.99)</b><br>Automatically applied at checkout; one-time desktop license · Nov&nbsp;25&nbsp;–&nbsp;Nov&nbsp;30 |
+| 💸 | **[Noteline](https://noteline.io/pricing)**<br>Markdown editor for Mac, Windows, and Linux with local files and offline Word/PDF export. | <b>50% off ($9.99 → $4.99)</b><br>Automatically applied at checkout; one-time desktop license; now through Nov 30, 2026 (Pacific time) · Nov&nbsp;17&nbsp;–&nbsp;Nov&nbsp;30 |
 | 💰 | **[Aevo](https://aevo.so/en)**<br>Task board with tiles and calendar sync for macOS and web. | <b>30% off yearly Pro; lifetime €199 → €149</b><br>Direct purchase from the website; yearly discount applies to the first year · Nov&nbsp;27&nbsp;–&nbsp;Nov&nbsp;30 |
 | 💸 | **[Margin](https://appsbymo.app/margin/?ref=bf-deals)**<br>Menu-bar day planner: type a plain sentence and it becomes an Apple Reminder or Calendar event on a live day timeline. | <b>50% off</b><br>with code **BLACKFRIDAY** at appsbymo.app (regular $9.99); Mac App Store ~~$9.99~~ $4.99, no code; App Store (iPhone) ~~$5.99~~ $2.99, no code. Nov 9 - Dec 1, 2026 |
 | 💸 | **[Scry](https://appsbymo.app/scry/?ref=bf-deals)**<br>Captures, annotates and files screenshots, records your screen, and makes the text in every image on your Mac searchable. | <b>50% off</b><br>with code **BLACKFRIDAY** at appsbymo.app (~~$24~~ $12). Nov 9 - Dec 1, 2026 |
@@ -342,6 +342,7 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 | 💰 | **[ScreenCommand](https://screencommand.app/?utm_source=black-friday-2026)**<br>Puts a full web browser on your TV or monitor, with your iPad or iPhone as its trackpad and keyboard. Connects with a USB-C video adapter or AirPlay to an Apple TV box. | <b>25% off ($4.99 → $3.69 USD)</b><br>Automatically applied on the App Store; no code needed; paid app, one-time purchase, no subscription; iPad and iPhone, iOS 17+; local prices vary · Nov&nbsp;27&nbsp;–&nbsp;Nov&nbsp;30 |
 | 💸 | **[AirCalendar](https://apps.apple.com/app/id6761035745?utm_source=mrsbf)**<br>Menu bar calendar for Mac: check the date, see what is coming up and keep your tasks close. | <b>50% off Lifetime Unlock ($1.99 → $0.99)</b><br>No code needed; automatically applied in the Mac App Store · Nov&nbsp;27&nbsp;–&nbsp;Nov&nbsp;30 |
 | 💸 | **[LociMark](https://apps.apple.com/app/id6808972699?utm_source=mrsbf)**<br>Local-first bookmark manager for Mac. | <b>50% off Lifetime Unlock</b><br>No code needed; automatically applied in the Mac App Store · Nov&nbsp;27&nbsp;–&nbsp;Nov&nbsp;30 |
+| 💰 | **[Kanbanero](https://kanbanero.app)**<br>A simple kanban app for macOS where each board is a plain YAML file on your Mac. | <b>44% off (~~$8.99~~ → $4.99) until 1 dec</b><br>Mac App Store, one-time purchase, no code needed. Requires Apple Silicon and macOS 14.6+. · Nov&nbsp;17&nbsp;–&nbsp;Dec&nbsp;1 |
 
 <p align="right"><a href="#categories">↑ Categories</a></p>
 
@@ -587,7 +588,7 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 
 No deals yet in Books and Home Automation. [Add the first one](https://blackfriday.mariuslandwehr.com/submit/).
 
-<!-- DEALS:END checksum:c59e9bb3ec8c -->
+<!-- DEALS:END checksum:0892f7166bad -->
 
 ## Add your deal
 
