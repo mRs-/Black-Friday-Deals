@@ -136,6 +136,7 @@ Deals are **submitted by makers and the community and reviewed** before they go 
 | [**Akev**](https://akev.dev/pricing) | Open-source HTTP(S) debugging proxy to inspect, mock and rewrite traffic from browsers, apps, phones and containers. | 30% OFF Pro licence, one-time $49 → $34.30 (Coupon: `BLACKFRIDAY`) | Nov 15 - Dec 6, 2026 |
 | [**KittyTrace**](https://kittytrace.com/?utm_source=pimjo-github&utm_campaign=bf2026) | Self-hosted, Sentry-compatible error tracking that runs free on your own Cloudflare account or on your server with Docker. | 34% OFF one-time license, $29 → $19 (Coupon: `BF2026`) | Nov 17 – Dec 1, 2026 |
 | [**RenewRoster**](https://renewroster.com/pricing) | Domain and SSL certificate expiry tracking for web agencies: alerts, white-label client reminders, monthly renewals report. | 50% OFF annual plans (no code, applied at checkout; price locked on renewal) | Nov 17 – Dec 4, 2026 |
+| [**Tower**](https://www.git-tower.com/) | The most powerful Git client for Mac and Windows. | **Up to 50% OFF** the first year for new customers: Pro $129 → $64.50, Basic $69 → $48.30 (no code needed) | Nov 23 – Dec 6, 2026 |
 
 | [PortDroid](https://portdroid.net/sale) | Android network toolkit for port scanning, ping, traceroute, DNS, LAN device discovery and more | **50% OFF** Pro Lifetime with code **CYBER_2026** · $9.49 → $4.69 USD| Nov 5 - Dec 4 2026 |
 ---
