@@ -55,6 +55,7 @@ Deals are **submitted by makers and the community and reviewed** before they go 
 | [**Radiantly**](https://radiantly.space/pricing) | Radiantly helps experts turn their knowledge into branded AI agents with interactive experiences, personalized responses for each client, and connections to 1,600+ apps. | 60% OFF the first annual payment for new users: Pro $228 → $91.20, Max $708 → $283.20 (Coupon: `BF60`, not valid on renewals) | Nov 15 – Dec 15, 2026 |
 | [**Orchard**](https://orchard.5km.tech/black-friday?utm_source=gh-pimjo&utm_medium=github&utm_campaign=bf2026) | Native Mac app that lets AI assistants use Mail, Calendar, Notes, Reminders and 7 more Apple apps locally via MCP, Agent Skills or a CLI. | 33% OFF Lifetime ($26.79) and the first year of Annual ($16.74) (Coupon: `BF2026`) | Nov 20 – Dec 6, 2026 |
 | [**TypeBoost**](https://www.typeboost.ai/) | AI writing assistant for macOS and iOS: write and improve text by voice or text, directly inside the apps you already use. | 50% OFF the first year of the yearly plan, $60 → $30 (Coupon: `TYPEBOOST50`) · 25% OFF the monthly plan for 3 months, $8 → $6 (Coupon: `TYPEBOOST25`). Web checkout only | Nov 23 – Nov 30, 2026 |
+| [**Relaybrook n8n Workflow Packs**](https://relaybrook.bytesell.app) | Ready-to-import n8n automation packs: AI lead enrichment, AI inbox triage, content repurposing, crypto alerts. | 10% OFF all packs (Coupon: `CRYPTO10`) | Nov 17 – Nov 30, 2026 |
 
 ---
 
