@@ -131,6 +131,7 @@ Deals are **submitted by makers and the community and reviewed** before they go 
 | [**Babelize**](https://www.babelize.co/?ref=PimjoGitHub#pricing) | Turns the hardcoded text in a React or Next.js app into a reviewed i18n pull request in 90+ languages, then translates every new push. | 50% OFF the first year of Pro yearly, $84 → $42 (Coupon: `BLACKFRIDAY26`) | Nov 16 – Dec 1, 2026 |
 | [**KeygenGo**](https://keygengo.5km.tech/black-friday?utm_source=gh-pimjo&utm_medium=github&utm_campaign=bf2026) | Native Mac client for Keygen.sh: manage products, licenses, users and machines in one window. | 50% OFF: Lifetime $19.99 (no code needed), Annual $9.99 for the first year (Coupon: `BF2026YEAR`) | Nov 20 – Dec 6, 2026 |
 | [**Pulsetic**](https://pulsetic.com/black-friday) | Uptime monitoring for websites, APIs, SSL, DNS and cron jobs from 15 regions, with alerts and status pages. | 35% OFF the first payment on any paid plan (Coupon: `BLACKFRIDAY35`) | Nov 16 – Dec 3, 2026 |
+| [**Stratos**](https://stratosapp.dev/buy/) | Native Swift macOS local development stack for PHP 8.1–8.5, Laravel, WordPress, and Node.js with coexisting PHP-FPM pools, automatic .test HTTPS, Visual Tinker REPL, Database Hub + ER Schema Diagrams, Cloudflare Tunnels, and a built-in Local AI MCP Server for Cursor & Claude Code. | 20% OFF all plans: Founder Lifetime $89 → $71.20, Pro Annual $39/yr → $31.20/yr, Team $129/yr → $103.20/yr (Coupon: `BFCM20`) | Nov 15 – Nov 30, 2026 |
 
 ---
 
