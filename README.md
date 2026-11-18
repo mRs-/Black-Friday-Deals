@@ -19,9 +19,9 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 
 ## Categories
 
-**396 deals** in 20 categories. 💸 marks 50% off or more, 💰 less than 50%.
+**397 deals** in 20 categories. 💸 marks 50% off or more, 💰 less than 50%.
 
-🛠&nbsp;[Development Software](#development-software)&nbsp;`56` · 🤖&nbsp;[AI Tools](#ai-tools)&nbsp;`31` · 🌈&nbsp;[Marketing Software](#marketing-software)&nbsp;`17` · 🎩&nbsp;[Security Software](#security-software)&nbsp;`18` · 🎛&nbsp;[Utility Software](#utility-software)&nbsp;`83` · 📌&nbsp;[Productivity Software](#productivity-software)&nbsp;`70` · 🎥&nbsp;[Video Software](#video-software)&nbsp;`20` · 🎨&nbsp;[Graphic Software](#graphic-software)&nbsp;`19` · 🏝️&nbsp;[Lifestyle](#lifestyle)&nbsp;`13` · 🗣️&nbsp;[Social](#social)&nbsp;`3` · 🎓&nbsp;[Reference & Education](#reference--education)&nbsp;`6` · 👩‍🎓&nbsp;[Courses and Videos](#courses-and-videos)&nbsp;`10` · 📈&nbsp;[Business Software](#business-software)&nbsp;`12` · 🏃🏻‍♀️&nbsp;[Health & Fitness Software](#health--fitness-software)&nbsp;`12` · 🎁&nbsp;[Bundles](#bundles)&nbsp;`3` · 🎶&nbsp;[Creative Content](#creative-content)&nbsp;`2` · 🤑&nbsp;[Finance](#finance)&nbsp;`6` · 🗺️&nbsp;[Navigation](#navigation)&nbsp;`1` · 🔎&nbsp;[SEO](#seo)&nbsp;`11` · 🕹&nbsp;[Games](#games)&nbsp;`3`
+🛠&nbsp;[Development Software](#development-software)&nbsp;`56` · 🤖&nbsp;[AI Tools](#ai-tools)&nbsp;`31` · 🌈&nbsp;[Marketing Software](#marketing-software)&nbsp;`17` · 🎩&nbsp;[Security Software](#security-software)&nbsp;`18` · 🎛&nbsp;[Utility Software](#utility-software)&nbsp;`83` · 📌&nbsp;[Productivity Software](#productivity-software)&nbsp;`70` · 🎥&nbsp;[Video Software](#video-software)&nbsp;`20` · 🎨&nbsp;[Graphic Software](#graphic-software)&nbsp;`19` · 🏝️&nbsp;[Lifestyle](#lifestyle)&nbsp;`14` · 🗣️&nbsp;[Social](#social)&nbsp;`3` · 🎓&nbsp;[Reference & Education](#reference--education)&nbsp;`6` · 👩‍🎓&nbsp;[Courses and Videos](#courses-and-videos)&nbsp;`10` · 📈&nbsp;[Business Software](#business-software)&nbsp;`12` · 🏃🏻‍♀️&nbsp;[Health & Fitness Software](#health--fitness-software)&nbsp;`12` · 🎁&nbsp;[Bundles](#bundles)&nbsp;`3` · 🎶&nbsp;[Creative Content](#creative-content)&nbsp;`2` · 🤑&nbsp;[Finance](#finance)&nbsp;`6` · 🗺️&nbsp;[Navigation](#navigation)&nbsp;`1` · 🔎&nbsp;[SEO](#seo)&nbsp;`11` · 🕹&nbsp;[Games](#games)&nbsp;`3`
 
 <a id="development-software"></a>
 
@@ -428,6 +428,7 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 | 💰 | **[Succulent](https://elevenapril.com/succulent)**<br>Photo journal for succulent lovers with care reminders, so you can compare weeks of growth side by side instead of guessing. | <b>30% off Lifetime: $49.99 → $34.99</b><br>`BLACKFRIDAY` · App Store offer code for Lifetime Premium (iOS 16.3+); one-time purchase · Nov&nbsp;16&nbsp;–&nbsp;Nov&nbsp;30 |
 | 💰 | **[YumPal](https://elevenapril.com/yumpal)**<br>Visual food memory journal: snap a meal worth remembering and it lands on a timeline, dated and pinned to where you ate it. | <b>37% off Lifetime: $29.99 → $18.99</b><br>`BLACKFRIDAY` · App Store offer code for Lifetime Premium (iOS 16.3+); one-time purchase · Nov&nbsp;16&nbsp;–&nbsp;Nov&nbsp;30 |
 | 💸 | **[Leafsight: Plant Doctor](https://apps.apple.com/us/app/leafsight-plant-doctor/id6753725440)**<br>Take a photo when a houseplant looks wrong and get the likely cause and what to try first, then check in to see whether it is recovering. | <b>50% off the first year of Leafsight Pro Annual ($29.99 → $14.99 in the US)</b><br>`BLACKFRIDAY26` · New and returning subscribers, annual plan. Renews at the regular price after a year. Local prices vary. [Redeem in the App Store](https://apps.apple.com/redeem?ctx=offercodes&id=6753725440&code=BLACKFRIDAY26) · Nov&nbsp;17&nbsp;–&nbsp;Nov&nbsp;30 |
+| 💸 | **[Darkroom](https://darkroom.co/black-friday)**<br>Darkroom is the Apple Design Award winning premium photo editing and video processing app designed for creators who value workflow speed, simplicity, and power. With professional-grade tools like AI-backed Masks, RAW editing, curves, color grading. | <b>50%</b><br>`BLACKFRIDAY` · until&nbsp;Dec&nbsp;3 |
 
 <p align="right"><a href="#categories">↑ Categories</a></p>
 
@@ -601,7 +602,7 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 
 No deals yet in Books and Home Automation. [Add the first one](https://blackfriday.mariuslandwehr.com/submit/).
 
-<!-- DEALS:END checksum:a4a7ee67f1bc -->
+<!-- DEALS:END checksum:e558c070e63b -->
 
 ## Add your deal
 
