@@ -137,6 +137,7 @@ Deals are **submitted by makers and the community and reviewed** before they go 
 | [**KittyTrace**](https://kittytrace.com/?utm_source=pimjo-github&utm_campaign=bf2026) | Self-hosted, Sentry-compatible error tracking that runs free on your own Cloudflare account or on your server with Docker. | 34% OFF one-time license, $29 → $19 (Coupon: `BF2026`) | Nov 17 – Dec 1, 2026 |
 | [**RenewRoster**](https://renewroster.com/pricing) | Domain and SSL certificate expiry tracking for web agencies: alerts, white-label client reminders, monthly renewals report. | 50% OFF annual plans (no code, applied at checkout; price locked on renewal) | Nov 17 – Dec 4, 2026 |
 | [**Tower**](https://www.git-tower.com/) | The most powerful Git client for Mac and Windows. | **Up to 50% OFF** the first year for new customers: Pro $129 → $64.50, Basic $69 → $48.30 (no code needed) | Nov 23 – Dec 6, 2026 |
+| [**data-peek**](https://www.datapeek.dev/pricing?utm_source=pimjo) | Fast, keyboard-first SQL client for PostgreSQL, MySQL, SQL Server, SQLite and ClickHouse on macOS, Windows and Linux. Free for personal use. | 40% OFF Pro yearly, $29 → $17.40 (Coupon: `BF26PEEK`, auto-applied) | Nov 26 – Dec 1, 2026 |
 
 | [**PortDroid**](https://portdroid.net/sale) | Android network toolkit for port scanning, ping, traceroute, DNS, LAN device discovery and more. | **50% OFF** Pro Lifetime, $9.49 → $4.69 (Coupon: `CYBER_2026`) | Nov 5 – Dec 4, 2026 |
 
@@ -259,6 +260,7 @@ Deals are **submitted by makers and the community and reviewed** before they go 
 | [**bytemail**](https://bytemailapp.com/black-friday) | Fast, native email app for Mac with a unified inbox, smart search, an AI assistant and MCP support. | 30% OFF the lifetime licence: $69 instead of $99, one payment, up to 5 devices (no code needed) | Nov 17 – Dec 7, 2026 |
 | [**Paste**](https://pasteapp.io/black-friday-2026?ref=pimjo) | Paste is a productivity app for Mac, iPhone, and iPad that remembers everything you copy. | 50% OFF the first year of Annual, $14.99 instead of $29.99 (Coupon: `BLACKFRIDAY2026`) | Nov 20 – Dec 1, 2026 |
 | [**Video Wall Live**](https://www.videowalllive.com/blackfriday) | A Ring app that shows all your Ring cameras live at once on Apple TV, Mac, Windows, Fire TV, Google TV, Roku and the web. | **60% OFF**: $4.99 → $1.99 per camera/month for new sign-ups (no code needed) | Nov 2 – Nov 30, 2026 |
+| [**Float**](https://float.gilla.fun/?utm_source=pimjo#pricing) | Floating Markdown scratchpad for Mac on a global hotkey. Stays on top of full-screen apps and saves notes as plain .md files. | 40% OFF Float Pro lifetime, $4.99 → $2.99 (Coupon: `BF26FLOAT`) | Nov 26 – Dec 1, 2026 |
 
 ---
 
