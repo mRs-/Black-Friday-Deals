@@ -19,9 +19,9 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 
 ## Categories
 
-**435 deals** in 21 categories. 💸 marks 50% off or more, 💰 less than 50%.
+**439 deals** in 21 categories. 💸 marks 50% off or more, 💰 less than 50%.
 
-🛠&nbsp;[Development Software](#development-software)&nbsp;`61` · 🤖&nbsp;[AI Tools](#ai-tools)&nbsp;`33` · 🌈&nbsp;[Marketing Software](#marketing-software)&nbsp;`17` · 🎩&nbsp;[Security Software](#security-software)&nbsp;`18` · 🎛&nbsp;[Utility Software](#utility-software)&nbsp;`88` · 📌&nbsp;[Productivity Software](#productivity-software)&nbsp;`80` · 🎥&nbsp;[Video Software](#video-software)&nbsp;`21` · 🎨&nbsp;[Graphic Software](#graphic-software)&nbsp;`22` · 🏝️&nbsp;[Lifestyle](#lifestyle)&nbsp;`17` · 🗣️&nbsp;[Social](#social)&nbsp;`3` · 🎓&nbsp;[Reference & Education](#reference--education)&nbsp;`6` · 👩‍🎓&nbsp;[Courses and Videos](#courses-and-videos)&nbsp;`10` · 📈&nbsp;[Business Software](#business-software)&nbsp;`13` · 🏃🏻‍♀️&nbsp;[Health & Fitness Software](#health--fitness-software)&nbsp;`17` · 🎁&nbsp;[Bundles](#bundles)&nbsp;`3` · 🎶&nbsp;[Creative Content](#creative-content)&nbsp;`2` · 🤑&nbsp;[Finance](#finance)&nbsp;`7` · 🗺️&nbsp;[Navigation](#navigation)&nbsp;`1` · 🔎&nbsp;[SEO](#seo)&nbsp;`12` · 🏡&nbsp;[Home Automation](#home-automation)&nbsp;`1` · 🕹&nbsp;[Games](#games)&nbsp;`3`
+🛠&nbsp;[Development Software](#development-software)&nbsp;`61` · 🤖&nbsp;[AI Tools](#ai-tools)&nbsp;`33` · 🌈&nbsp;[Marketing Software](#marketing-software)&nbsp;`17` · 🎩&nbsp;[Security Software](#security-software)&nbsp;`18` · 🎛&nbsp;[Utility Software](#utility-software)&nbsp;`88` · 📌&nbsp;[Productivity Software](#productivity-software)&nbsp;`82` · 🎥&nbsp;[Video Software](#video-software)&nbsp;`22` · 🎨&nbsp;[Graphic Software](#graphic-software)&nbsp;`22` · 🏝️&nbsp;[Lifestyle](#lifestyle)&nbsp;`17` · 🗣️&nbsp;[Social](#social)&nbsp;`3` · 🎓&nbsp;[Reference & Education](#reference--education)&nbsp;`6` · 👩‍🎓&nbsp;[Courses and Videos](#courses-and-videos)&nbsp;`11` · 📈&nbsp;[Business Software](#business-software)&nbsp;`13` · 🏃🏻‍♀️&nbsp;[Health & Fitness Software](#health--fitness-software)&nbsp;`17` · 🎁&nbsp;[Bundles](#bundles)&nbsp;`3` · 🎶&nbsp;[Creative Content](#creative-content)&nbsp;`2` · 🤑&nbsp;[Finance](#finance)&nbsp;`7` · 🗺️&nbsp;[Navigation](#navigation)&nbsp;`1` · 🔎&nbsp;[SEO](#seo)&nbsp;`12` · 🏡&nbsp;[Home Automation](#home-automation)&nbsp;`1` · 🕹&nbsp;[Games](#games)&nbsp;`3`
 
 <a id="development-software"></a>
 
@@ -371,6 +371,8 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 | 💸 | **[Itemlist](https://apps.apple.com/us/app/inventory-tracker-itemlist/id1548649551)**<br>Home inventory for iPhone and iPad. Track what you own by location, room and container, with photos, values and search across every field | <b>50% off lifetime PRO: $29.99, down from $59.99</b><br>No code needed. The sale price shows on the upgrade screen in the app. · Nov&nbsp;18&nbsp;–&nbsp;Dec&nbsp;4 |
 | 💸 | **[fswitcher: cmd+tab for multiple displays](https://fswitcher.app/demo/?utm_source=blackfriday-deals-repo&utm_medium=listing&utm_campaign=black-friday-2026)**<br>cmd+tab with per-display switching that shows apps or windows, always opens apps, and never jumps you across spaces | <b>60% OFF ($14.99 → $5.99) one-time purchase</b><br>`BLACKFRIDAY` · macOS 26 or later required · Nov&nbsp;18&nbsp;–&nbsp;Nov&nbsp;30 |
 | 💸 | **[Sponge](https://sponge.computer/pricing)**<br>Local-first read-later library for Mac and Linux: save articles and PDFs, highlight them and export Markdown. Sponge Plus syncs your whole library to the web and iPhone. | <b>50% off Sponge Plus for your first 12 months</b><br>`SPONGEBF26` · $2.50 a month instead of $5, bought on the web; new subscribers only; sync stays free for 2 MB (about 30 articles); ends at the end of 2 December 2026, US Pacific · Nov&nbsp;18&nbsp;–&nbsp;Dec&nbsp;2 |
+| 💸 | **[Superlist](https://www.superlist.com/blackfriday2026)**<br>Tasks, notes and AI meeting notes in one app for work, home and everything in between. Share lists and work on them together in real time. Mac, iPhone, Android and Web. | <b>50% off the first year on yearly plans</b><br>`SUPERFRIDAY2026` · Basic ~~$59~~ **$29.50**, Super ~~$199~~ **$99.50**; redeem on the web or in the Mac app, not through iOS or Google Play · Nov&nbsp;23&nbsp;–&nbsp;Nov&nbsp;29 |
+| 💰 | **[Relaybrook](https://relaybrook.bytesell.app)**<br>Ready-to-import n8n workflow packs: AI lead enrichment, AI inbox triage, content repurposing, crypto watch and lead list cleaner. Free samples on GitHub. | <b>40% off everything in the store, including the bundle</b><br>`BLACKFRIDAY40` · Store-wide, applied at checkout with the code. Crypto checkout only. · until&nbsp;Dec&nbsp;1 |
 
 <p align="right"><a href="#categories">↑ Categories</a></p>
 
@@ -401,6 +403,7 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 | 💰 | **[ScreenOtter](https://screenotter.com/#pricing)**<br>Native Mac app for screen recordings and screenshots: a zoom on every click, captions made on your Mac, eight camera layouts, and edit-by-transcript. Everything runs on your Mac. | <b>40% off one-time licenses: 1 Mac ~~$49~~ $29.40, 3 Macs ~~$79~~ $47.40</b><br>`BLACKFRIDAY26` · one-time purchase, no subscription; applied automatically when you click Buy on the pricing page · Nov&nbsp;17&nbsp;–&nbsp;Nov&nbsp;30 |
 | 💰 | **[VillageToone Studio](https://villagetoone.com/studio/)**<br>Add your clips, type a few words, press one button: get a finished vertical story video with headlines, speech bubbles, music and voices. Windows app works offline. | <b>Founding Lifetime Pass $59 → $49 (only 100 passes)</b><br>`BF10` · One-time payment, no subscription; 14-day refund; Windows now, Mac coming · Nov&nbsp;23&nbsp;–&nbsp;Nov&nbsp;30 |
 | 💸 | **[Yaptake](https://yaptake.com/#pricing)**<br>Video editor for Mac that works like a document: delete words in the transcript to cut them from the video, tighten pauses and burn in captions. The models run on your Mac. | <b>50% off your first year</b><br>`YAPTAKEBF26` · Monthly $4.99 instead of $9.99 for 12 months, or Yearly $39.50 instead of $79; first three exports free; new subscribers only; ends at the end of 2 December 2026, US Pacific · Nov&nbsp;18&nbsp;–&nbsp;Dec&nbsp;2 |
+| 💰 | **[Fast Video Frame Grabber](https://fast-video-frame-grabber.codystools.online/?utm_source=github&utm_medium=listing&utm_campaign=blackfriday&utm_content=mrs-black-friday-deals)**<br>Step through a folder of videos frame by frame and save the exact frame on screen at full resolution with one key. Mac, Windows and Linux; works offline. | <b>30% off: $19 → $13.30, one-time license for Mac, Windows and Linux</b><br>`BLACKFRIDAY30` · Website purchases; try it free for 14 days first · Nov&nbsp;18&nbsp;–&nbsp;Dec&nbsp;15 |
 
 <p align="right"><a href="#categories">↑ Categories</a></p>
 
@@ -504,6 +507,7 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 | 💸 | **[Wireless Operator](https://training.thexero.co.uk/blackfriday)**<br>Hands-on Wi-Fi pentesting course from TheXero Training Academy, covering 802.11 frames, WPA3, enterprise Wi-Fi, rogue APs, wireless pivots and fuzzing, with a simulated lab and live coaching. | <b>$197 instead of $599</b><br>No code needed · Nov&nbsp;10&nbsp;–&nbsp;Dec&nbsp;1 |
 | 💰 | **[Modern Security - AI Security Training & Certification](https://www.modernsecurity.io/courses/ai-security-certification)**<br>Hands-on AI security training covering AI agents, MCP, RAG security, prompt injection, red teaming, guardrails, and AI supply chain security. Build, Break, Defend. | <b>20% off AI Security Training & Certification</b><br>`msec-bf20` · Nov&nbsp;10&nbsp;–&nbsp;Dec&nbsp;10 |
 | 💸 | **[CyberWarFare Labs](https://cyberwarfare.live/)**<br>Black Friday deals on cybersecurity certifications, hands-on courses, curated bundles, Infinity access and premium plans. More details: [CWL GitHub sale repository](https://github.com/RedTeamOperations/black-friday-cyber-sale-2025). | <b>Individual Courses Starting from $5; bundles from $29 (up to 90% off); Infinity from $5; All Access 44.47% off.</b> |
+| 💸 | **[AppSec.training](https://appsec.training)**<br>Application security, DevSecOps and secure SDLC training on the web. | <b>50% off</b><br>`blackfriday` · until&nbsp;Dec&nbsp;31 |
 
 <p align="right"><a href="#categories">↑ Categories</a></p>
 
@@ -649,7 +653,7 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 
 No deals yet in Books. [Add the first one](https://blackfriday.mariuslandwehr.com/submit/).
 
-<!-- DEALS:END checksum:05512e9b7141 -->
+<!-- DEALS:END checksum:06ad462b6372 -->
 
 ## Add your deal
 
