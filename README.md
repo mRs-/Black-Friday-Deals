@@ -264,6 +264,9 @@ Deals are **submitted by makers and the community and reviewed** before they go 
 | [**Float**](https://float.gilla.fun/?utm_source=pimjo#pricing) | Floating Markdown scratchpad for Mac on a global hotkey. Stays on top of full-screen apps and saves notes as plain .md files. | 40% OFF Float Pro lifetime, $4.99 → $2.99 (Coupon: `BF26FLOAT`) | Nov 26 – Dec 1, 2026 |
 | [**Ricly**](https://usericly.com/?utm_source=github&utm_campaign=felix) | Finder right-click tools for Mac: remove backgrounds, convert images and audio, compress and merge PDFs. | **40% OFF** Founding lifetime license, one-time $99 → $59 (59 € in the EU), lowest price in the last 30 days: $69 (Coupon: `FOUNDERBF26`) | Nov 27 – Nov 30, 2026 |
 | [**Findy**](https://getfindy.xyz/) | Native Mac app that finds files from plain words like “pdfs from gmail last week”, in English and 12 more languages, even by the text inside images and PDFs. Everything stays on your Mac, no account. One-time purchase, macOS 14+. | **50% OFF** any one-time license (Coupon: `GITFRIDAY50`) | Nov 18 – Dec 7, 2026 |
+| [**Itemlist**](https://www.getitemlist.app/black-friday/) | Home inventory for iPhone and iPad. Track what you own by location, room and container, with photos, values and search across every field. | **50% OFF** lifetime PRO: $29.99, down from $59.99 (no code needed) | Nov 18 – Dec 4, 2026 |
+| [**QRGenie**](https://qrgenie.app/black-friday) | QR code generator for iPhone, iPad and Mac. Codes are made on your device and never expire. Export PNG, JPG, PDF or SVG with no watermark. | **50% OFF** lifetime: $9.99, down from $19.99 (no code needed) | Nov 18 – Dec 4, 2026 |
+| [**BarcodeCraft**](https://www.barcodecraft.com/black-friday) | Barcode generator for iPhone and iPad. Makes Code 128, Code 39, Code 93, EAN-13, EAN-8, PDF417 and Aztec codes and shares them as PNG. | **50% OFF** lifetime: $4.99, down from $9.99 (no code needed) | Nov 18 – Dec 4, 2026 |
 
 ---
 
