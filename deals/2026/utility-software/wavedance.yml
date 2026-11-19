@@ -1,0 +1,11 @@
+# Put every text value in double quotes. Lines that start with # are comments.
+
+name: "Wavedance"
+url: "https://wave.dance"
+description: "Menu-bar app with 20 generative live wallpapers for Mac, running behind your icons, click-through, on every Space. One-time purchase, no subscription."
+discount: "30% off with code BLACKFRIDAY30"
+percent: 30
+code: "BLACKFRIDAY30"
+terms: "one-time purchase through Polar; macOS 12 or newer"
+starts: "2026-11-23"
+ends: "2026-12-01"
