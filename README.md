@@ -19,9 +19,9 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 
 ## Categories
 
-**407 deals** in 20 categories. 💸 marks 50% off or more, 💰 less than 50%.
+**408 deals** in 20 categories. 💸 marks 50% off or more, 💰 less than 50%.
 
-🛠&nbsp;[Development Software](#development-software)&nbsp;`58` · 🤖&nbsp;[AI Tools](#ai-tools)&nbsp;`32` · 🌈&nbsp;[Marketing Software](#marketing-software)&nbsp;`17` · 🎩&nbsp;[Security Software](#security-software)&nbsp;`18` · 🎛&nbsp;[Utility Software](#utility-software)&nbsp;`83` · 📌&nbsp;[Productivity Software](#productivity-software)&nbsp;`72` · 🎥&nbsp;[Video Software](#video-software)&nbsp;`20` · 🎨&nbsp;[Graphic Software](#graphic-software)&nbsp;`19` · 🏝️&nbsp;[Lifestyle](#lifestyle)&nbsp;`15` · 🗣️&nbsp;[Social](#social)&nbsp;`3` · 🎓&nbsp;[Reference & Education](#reference--education)&nbsp;`6` · 👩‍🎓&nbsp;[Courses and Videos](#courses-and-videos)&nbsp;`10` · 📈&nbsp;[Business Software](#business-software)&nbsp;`12` · 🏃🏻‍♀️&nbsp;[Health & Fitness Software](#health--fitness-software)&nbsp;`15` · 🎁&nbsp;[Bundles](#bundles)&nbsp;`3` · 🎶&nbsp;[Creative Content](#creative-content)&nbsp;`2` · 🤑&nbsp;[Finance](#finance)&nbsp;`7` · 🗺️&nbsp;[Navigation](#navigation)&nbsp;`1` · 🔎&nbsp;[SEO](#seo)&nbsp;`11` · 🕹&nbsp;[Games](#games)&nbsp;`3`
+🛠&nbsp;[Development Software](#development-software)&nbsp;`58` · 🤖&nbsp;[AI Tools](#ai-tools)&nbsp;`33` · 🌈&nbsp;[Marketing Software](#marketing-software)&nbsp;`17` · 🎩&nbsp;[Security Software](#security-software)&nbsp;`18` · 🎛&nbsp;[Utility Software](#utility-software)&nbsp;`83` · 📌&nbsp;[Productivity Software](#productivity-software)&nbsp;`72` · 🎥&nbsp;[Video Software](#video-software)&nbsp;`20` · 🎨&nbsp;[Graphic Software](#graphic-software)&nbsp;`19` · 🏝️&nbsp;[Lifestyle](#lifestyle)&nbsp;`15` · 🗣️&nbsp;[Social](#social)&nbsp;`3` · 🎓&nbsp;[Reference & Education](#reference--education)&nbsp;`6` · 👩‍🎓&nbsp;[Courses and Videos](#courses-and-videos)&nbsp;`10` · 📈&nbsp;[Business Software](#business-software)&nbsp;`12` · 🏃🏻‍♀️&nbsp;[Health & Fitness Software](#health--fitness-software)&nbsp;`15` · 🎁&nbsp;[Bundles](#bundles)&nbsp;`3` · 🎶&nbsp;[Creative Content](#creative-content)&nbsp;`2` · 🤑&nbsp;[Finance](#finance)&nbsp;`7` · 🗺️&nbsp;[Navigation](#navigation)&nbsp;`1` · 🔎&nbsp;[SEO](#seo)&nbsp;`11` · 🕹&nbsp;[Games](#games)&nbsp;`3`
 
 <a id="development-software"></a>
 
@@ -128,6 +128,7 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 |  | **[Talking Avatar](https://talking-avatar.dev/black-friday?utm_source=mrs-black-friday-deals&utm_medium=deal_listing&utm_campaign=bfcm2026)**<br>Photorealistic AI avatars that speak your voice agent's audio in real time ($0.02/min API), plus no-code AI voice agents with the avatar included ($0.06/min). | <b>2x credits: your next top-up is matched up to $100 (pay $100, get $200 of credits)</b><br>`LAUNCH2X` · Once per account, top-ups from $5. Credits pay for the Realistic Avatars API and Voice Agents, billed per second. No subscription. · Nov&nbsp;17&nbsp;–&nbsp;Dec&nbsp;4 |
 | 💰 | **[Podwise](https://podwise.ai/pricing?utm_source=mrsbf&utm_medium=deal_list&utm_campaign=bf2026)**<br>AI podcast app that turns episodes into transcripts, summaries, mind maps and notes you can search and export. | <b>40% off Standard and Pro, monthly or yearly; renewals stay 40% off</b><br>`BF2026` · All plans, new and existing subscribers; code at checkout on podwise.ai; also Black Friday pricing in the iOS app; ends 2026-12-06 |
 | 💸 | **[Wordfully](https://www.wordfully.ai/c/BLACKFRIDAY2026)**<br>AI grammar and spelling checker with rephrasing, tone changes, translation, and word definitions for web and Chrome. | <b>50% off the first monthly or annual Pro payment</b><br>`BLACKFRIDAY2026` · First-time paying customers only. Monthly USD $20 to $10 first month; annual USD $108 to $54 first year. Prices before tax; normal renewals. Ends Dec 4 at 23:59 Europe/Warsaw (22:59 UTC). · Nov&nbsp;12&nbsp;–&nbsp;Dec&nbsp;4 |
+| 💰 | **[AI4MEME](https://ai4meme.com/black-friday?utm_source=mrsbf)**<br>Turn 1, 2, or 3 photos into watermark-free MP4 meme and group dance videos with synchronized sound in your browser. | <b>Up to +33% bonus credits on all plans & packs + up to 27% off Annual</b><br>Applied automatically at checkout. Lite $9.99/mo (1,600 credits/mo), Starter Pack $9.99 (1,300 permanent credits). · Nov&nbsp;18&nbsp;–&nbsp;Dec&nbsp;2 |
 
 <p align="right"><a href="#categories">↑ Categories</a></p>
 
@@ -351,7 +352,7 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 | 💸 | **[LociMark](https://apps.apple.com/app/id6808972699?utm_source=mrsbf)**<br>Local-first bookmark manager for Mac. | <b>50% off Lifetime Unlock</b><br>No code needed; automatically applied in the Mac App Store · Nov&nbsp;27&nbsp;–&nbsp;Nov&nbsp;30 |
 | 💰 | **[Kanbanero](https://kanbanero.app)**<br>A simple kanban app for macOS where each board is a plain YAML file on your Mac. | <b>44% off (~~$8.99~~ → $4.99) until 1 dec</b><br>Mac App Store, one-time purchase, no code needed. Requires Apple Silicon and macOS 14.6+. · Nov&nbsp;17&nbsp;–&nbsp;Dec&nbsp;1 |
 | 💸 | **[Paste](https://pasteapp.io/black-friday-2026?ref=mrs-black-friday-deals)**<br>Paste is a productivity app for Mac, iPhone, and iPad that remembers everything you copy. | <b>50% off the first year of Annual: $29.99 → $14.99</b><br>`BLACKFRIDAY2026` · Code on the website; automatic for new subscribers in the App Store app · Nov&nbsp;20&nbsp;–&nbsp;Dec&nbsp;1 |
-| 💰 | **[VoiceInk](https://tryvoiceink.com)**<br>Voice-to-text dictation app for macOS & iOS | <b>40% off all Plans</b><br>`BFVI2640` · Nov&nbsp;11&nbsp;–&nbsp;Dec&nbsp;5 |
+| 💰 | **[VoiceInk](https://tryvoiceink.com/black-friday)**<br>Open-source macOS dictation with on-device speech recognition and app-specific modes | <b>40% off Mac lifetime licenses</b><br>`BFVI2640` · Nov&nbsp;11&nbsp;–&nbsp;Dec&nbsp;5 |
 | 💸 | **[Dopy](https://haaaaaaappy-black-friday-2026.sleek-ghost-5356.chatgpt.site/dopy)**<br>Pomodoro focus sessions, habit tracking and weekly reflection. | <b>60% off first annual year: USD $29.99 to $11.99</b><br>`BF2026DOPY` · US App Store/iOS only; new or expired subscribers; one year paid up front, no trial; first 1,000. Redeem via offer page. Renews USD 29.99/year until canceled. Ends Nov 30, 2026 at 21:00 UTC. · Nov&nbsp;17&nbsp;–&nbsp;Nov&nbsp;30 |
 | 💰 | **[Craft](https://www.craft.do/pricing)**<br>Notes, docs and tasks in one native app for Mac, iPhone and iPad. Nest pages inside pages, plan your day in daily notes and add tasks that sync with Apple Reminders. Works offline, with AI built in. | <b>40% off yearly Plus and Family, 20% off monthly, kept on every renewal</b><br>Code **BLACKFRIDAY26-A** for yearly Plus ($8 → $4.80/mo, US price; local prices vary) and Family, **BLACKFRIDAY26-M** for monthly. The free plan stays free. · Nov&nbsp;16&nbsp;–&nbsp;Dec&nbsp;9 |
 
@@ -612,7 +613,7 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 
 No deals yet in Books and Home Automation. [Add the first one](https://blackfriday.mariuslandwehr.com/submit/).
 
-<!-- DEALS:END checksum:1ee5b23e740a -->
+<!-- DEALS:END checksum:6a4b4ae49486 -->
 
 ## Add your deal
 
