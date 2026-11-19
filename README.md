@@ -263,6 +263,7 @@ Deals are **submitted by makers and the community and reviewed** before they go 
 | [**VoiceInk**](https://tryvoiceink.com/black-friday) | Open-source macOS dictation with on-device speech recognition and app-specific modes. | 40% OFF Mac lifetime licenses (Coupon: `BFVI2640`) | Nov 11 – Dec 5, 2026 |
 | [**Float**](https://float.gilla.fun/?utm_source=pimjo#pricing) | Floating Markdown scratchpad for Mac on a global hotkey. Stays on top of full-screen apps and saves notes as plain .md files. | 40% OFF Float Pro lifetime, $4.99 → $2.99 (Coupon: `BF26FLOAT`) | Nov 26 – Dec 1, 2026 |
 | [**Ricly**](https://usericly.com/?utm_source=github&utm_campaign=felix) | Finder right-click tools for Mac: remove backgrounds, convert images and audio, compress and merge PDFs. | **40% OFF** Founding lifetime license, one-time $99 → $59 (59 € in the EU), lowest price in the last 30 days: $69 (Coupon: `FOUNDERBF26`) | Nov 27 – Nov 30, 2026 |
+| [**Findy**](https://getfindy.xyz/) | Native Mac app that finds files from plain words like “pdfs from gmail last week”, in English and 12 more languages, even by the text inside images and PDFs. Everything stays on your Mac, no account. One-time purchase, macOS 14+. | **50% OFF** any one-time license (Coupon: `GITFRIDAY50`) | Nov 18 – Dec 7, 2026 |
 
 ---
 
