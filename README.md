@@ -272,6 +272,7 @@ Deals are **submitted by makers and the community and reviewed** before they go 
 | [**Sponge**](https://sponge.computer/pricing) | Local-first read-later library for Mac and Linux: save articles and PDFs, highlight them and export Markdown. Sponge Plus syncs your whole library to the web and iPhone. | 50% OFF Sponge Plus for your first 12 months, $5 → $2.50 a month on the web, new subscribers (Coupon: `SPONGEBF26`) | Nov 18 – Dec 2, 2026 |
 | [**Spacepal**](https://getspacepal.com/black-friday/) | Mac menu bar app that names your desktops (Spaces), shows them all with live previews on Option-Tab and switches without the slide animation. Free; Pro adds the overview and Mission Control names. | 20% OFF Pro, $9.99 → $7.99 one-time (Coupon: `BLACKFRIDAY`, applied automatically) | Nov 27 – Dec 1, 2026 |
 | [**Craft**](https://www.craft.do/pricing?ref=pimjo-black-friday-deals) | Notes, docs and tasks in one native app for Mac, iPhone and iPad. Start in today's daily note, grow it into a page and share it as a link. Works offline. | 40% OFF yearly Plus and Family, kept on every renewal (Coupon: `BLACKFRIDAY26-A`). 20% OFF monthly (Coupon: `BLACKFRIDAY26-M`) | Nov 16 – Dec 9, 2026 |
+| [**Roads Audio**](https://roadsaudio.com/black-friday) | Roads turns voice memos into conversations, so you and your friends stay close without needing to schedule a call. Available on iPhone and Android. | **50% OFF** Roads Audio Plus Lifetime: $99.99 → $49.99 USD, one-time purchase, no subscription (no code needed) | Nov 26 – Dec 1, 2026 |
 
 ---
 
