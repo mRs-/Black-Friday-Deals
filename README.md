@@ -19,9 +19,9 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 
 ## Categories
 
-**481 deals** in 21 categories. 💸 marks 50% off or more, 💰 less than 50%.
+**484 deals** in 21 categories. 💸 marks 50% off or more, 💰 less than 50%.
 
-🛠&nbsp;[Development Software](#development-software)&nbsp;`66` · 🤖&nbsp;[AI Tools](#ai-tools)&nbsp;`38` · 🌈&nbsp;[Marketing Software](#marketing-software)&nbsp;`19` · 🎩&nbsp;[Security Software](#security-software)&nbsp;`18` · 🎛&nbsp;[Utility Software](#utility-software)&nbsp;`94` · 📌&nbsp;[Productivity Software](#productivity-software)&nbsp;`91` · 🎥&nbsp;[Video Software](#video-software)&nbsp;`25` · 🎨&nbsp;[Graphic Software](#graphic-software)&nbsp;`25` · 🏝️&nbsp;[Lifestyle](#lifestyle)&nbsp;`18` · 🗣️&nbsp;[Social](#social)&nbsp;`4` · 🎓&nbsp;[Reference & Education](#reference--education)&nbsp;`6` · 👩‍🎓&nbsp;[Courses and Videos](#courses-and-videos)&nbsp;`12` · 📈&nbsp;[Business Software](#business-software)&nbsp;`13` · 🏃🏻‍♀️&nbsp;[Health & Fitness Software](#health--fitness-software)&nbsp;`18` · 🎁&nbsp;[Bundles](#bundles)&nbsp;`4` · 🎶&nbsp;[Creative Content](#creative-content)&nbsp;`2` · 🤑&nbsp;[Finance](#finance)&nbsp;`8` · 🗺️&nbsp;[Navigation](#navigation)&nbsp;`3` · 🔎&nbsp;[SEO](#seo)&nbsp;`13` · 🏡&nbsp;[Home Automation](#home-automation)&nbsp;`1` · 🕹&nbsp;[Games](#games)&nbsp;`3`
+🛠&nbsp;[Development Software](#development-software)&nbsp;`66` · 🤖&nbsp;[AI Tools](#ai-tools)&nbsp;`39` · 🌈&nbsp;[Marketing Software](#marketing-software)&nbsp;`20` · 🎩&nbsp;[Security Software](#security-software)&nbsp;`19` · 🎛&nbsp;[Utility Software](#utility-software)&nbsp;`94` · 📌&nbsp;[Productivity Software](#productivity-software)&nbsp;`91` · 🎥&nbsp;[Video Software](#video-software)&nbsp;`25` · 🎨&nbsp;[Graphic Software](#graphic-software)&nbsp;`25` · 🏝️&nbsp;[Lifestyle](#lifestyle)&nbsp;`18` · 🗣️&nbsp;[Social](#social)&nbsp;`4` · 🎓&nbsp;[Reference & Education](#reference--education)&nbsp;`6` · 👩‍🎓&nbsp;[Courses and Videos](#courses-and-videos)&nbsp;`12` · 📈&nbsp;[Business Software](#business-software)&nbsp;`13` · 🏃🏻‍♀️&nbsp;[Health & Fitness Software](#health--fitness-software)&nbsp;`18` · 🎁&nbsp;[Bundles](#bundles)&nbsp;`4` · 🎶&nbsp;[Creative Content](#creative-content)&nbsp;`2` · 🤑&nbsp;[Finance](#finance)&nbsp;`8` · 🗺️&nbsp;[Navigation](#navigation)&nbsp;`3` · 🔎&nbsp;[SEO](#seo)&nbsp;`13` · 🏡&nbsp;[Home Automation](#home-automation)&nbsp;`1` · 🕹&nbsp;[Games](#games)&nbsp;`3`
 
 <a id="development-software"></a>
 
@@ -142,6 +142,7 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 | 💸 | **[Skillry](https://skillry.dev/pricing)**<br>Curated creative Agent Skills for Claude Code, Codex & Cursor — generate editable slides, websites, images & launch videos from one prompt. | <b>50% off Pro ($9.99 first month or $79 first year) + Founding Lifetime $169 (was $249)</b><br>Auto-applied at checkout (no code needed). Subscription discounts apply to the first billing period; renewals bill at standard price ($19.90/mo or $158/yr). Founding Lifetime is one-time. Ends Nov 30, 2026 11:59 PM PT. · Nov&nbsp;19&nbsp;–&nbsp;Nov&nbsp;30 |
 | 💸 | **[1AIVault](https://1aivault.com?utm_source=mrsbf&utm_campaign=bf2026)**<br>One local memory vault for every AI tool: imports chats from Claude Code, Codex, Cursor and more, sorts them into topics and serves them back over MCP. Stays on your machine. | <b>50% off the Pro licence, a one-time purchase ($29 → $14.50 for 1 device)</b><br>`BFDEALS50` · Pro licence for any number of devices; enter the code at checkout; first 100 redemptions; bundles and All Access excluded · Nov&nbsp;19&nbsp;–&nbsp;Nov&nbsp;29 |
 | 💸 | **[1LocalAITool](https://1localaitool.com?utm_source=mrsbf&utm_campaign=bf2026)**<br>Private AI that runs on your own Mac or PC: chat, summarize PDFs, transcribe audio and generate images offline. No account needed. | <b>50% off the Pro licence, a one-time purchase ($29 → $14.50 for 1 device)</b><br>`BFDEALS50` · Pro licence for any number of devices; enter the code at checkout; first 100 redemptions; bundles and All Access excluded · Nov&nbsp;19&nbsp;–&nbsp;Nov&nbsp;29 |
+| 💰 | **[Pocket AI — No Internet](https://apps.apple.com/us/app/pocket-ai-no-internet/id6759989702?pt=128572449&ct=bf26-mrs&mt=8)**<br>Offline AI chat for iPhone and iPad. Download an open model once (Qwen, Llama, Gemma and more), then chat with no internet and no account. Prompts and replies stay on your device. Free to download; Pro is a one-time purchase. | <b>Pro Lifetime $9.99 → $6.99 (about 30% off)</b><br>One-time purchase, no subscription. Applied automatically in the App Store, no code needed. US price; local prices vary. The app is free to download. · Nov&nbsp;27&nbsp;–&nbsp;Nov&nbsp;30 |
 
 <p align="right"><a href="#categories">↑ Categories</a></p>
 
@@ -170,6 +171,7 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 | 💰 | **[Pirsch Analytics](https://pirsch.io)**<br>Privacy-friendly and GDPR-compliant web analytics. | <b>20% for your first payment (annual or monthly)</b><br>`BLACKFRIDAY26` · Nov&nbsp;17&nbsp;–&nbsp;Dec&nbsp;31 |
 | 💸 | **[1MarketingTool](https://1marketingtool.com?utm_source=mrsbf&utm_campaign=bf2026)**<br>Local-first marketing desktop app: AI campaigns, publishing to 17 networks, site audits, SEO and AI-visibility tracking. Your data stays yours. | <b>50% off the Pro licence, a one-time purchase ($29 → $14.50 for 1 device)</b><br>`BFDEALS50` · Pro licence for any number of devices; enter the code at checkout; first 100 redemptions; bundles and All Access excluded · Nov&nbsp;19&nbsp;–&nbsp;Nov&nbsp;29 |
 | 💰 | **[HeySummit](https://heysummit.com/pricing?coupon=V3UlY3Iz)**<br>HeySummit helps you reach new people and sell tickets by hosting a workshop or summit on the web. | <b>40% off the first year of annual Starter, Growth or Success</b><br>`V3UlY3Iz` · New customers only. Annual Starter is US$234 for the first year, usually US$390. Extra attendee capacity and renewals are charged at the standard rate. Start your 14-day free trial by the end of 30 November GMT to claim the offer. · Nov&nbsp;19&nbsp;–&nbsp;Nov&nbsp;30 |
+| 💰 | **[HeyStream](https://heystream.com/pricing?coupon=BF2026)**<br>HeyStream helps marketing teams run branded live webinars and broadcasts, capture audience signals, and trigger smarter follow-up. | <b>Save 40% on your first year of HeyStream.</b><br>`BF2026` · New customers who start a seven-day trial through the offer link from 19 to 30 November 2026 inclusive (GMT) get 40% off their first year on an annual Launch, Growth or Scale plan. Plans renew at the regular annual price. · Nov&nbsp;19&nbsp;–&nbsp;Nov&nbsp;30 |
 
 <p align="right"><a href="#categories">↑ Categories</a></p>
 
@@ -197,6 +199,7 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 | 💰 | **[ScreenShield](https://sky-blue1111.github.io/screenshield-site/?utm_source=bfdeals-mrs#pricing)**<br>Chrome extension that hides emails, phone numbers, card numbers and API keys on web pages while you share your screen. Runs locally in the browser. | <b>Lifetime Pro ~~$49~~ $29, one-time payment</b><br>Launch price, no code needed. Free plan with unlimited blurring by hand. · Oct&nbsp;22&nbsp;–&nbsp;Nov&nbsp;30 |
 |  | **[Paperweight](https://www.paperweight.email/pricing#black-friday)**<br>Local-first, open-source desktop privacy app that maps your digital footprint from your inbox, finds forgotten accounts and breaches, and helps with account deletion and personal-data cleanup. macOS, Windows and Linux. | <b>Black Friday Exclusive Lifetime Pro: $149 one-time, or $139 with crypto</b><br>Lifetime is normally unavailable. Permanent full Pro access with no renewal. No coupon code needed; select Lifetime on the pricing page. Available November 16 through December 1, 2026, inclusive. · Nov&nbsp;16&nbsp;–&nbsp;Dec&nbsp;1 |
 | 💸 | **[Video Wall Live](https://www.videowalllive.com/blackfriday)**<br>A Ring app that shows all your Ring cameras live at once on Apple TV, Mac, Windows, Fire TV, Google TV, Roku and the web. | <b>60% off: $4.99 → $1.99 per camera/month</b><br>No code needed; new sign-ups · Nov&nbsp;2&nbsp;–&nbsp;Nov&nbsp;30 |
+| 💸 | **[Kipzy](https://kipzy.app/)**<br>Fast, private web browser for iPhone with a built-in ad, tracker and popup blocker, private tabs and offline video saving. | <b>50% off Pro Lifetime ($49.99 → $24.99)</b><br>one-time purchase; applied automatically in the App Store, no code needed; local prices vary · Nov&nbsp;13&nbsp;–&nbsp;Nov&nbsp;30 |
 
 <p align="right"><a href="#categories">↑ Categories</a></p>
 
@@ -695,7 +698,7 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 
 No deals yet in Books. [Add the first one](https://blackfriday.mariuslandwehr.com/submit/).
 
-<!-- DEALS:END checksum:8cdaf963ef23 -->
+<!-- DEALS:END checksum:e2131b64b261 -->
 
 ## Add your deal
 
