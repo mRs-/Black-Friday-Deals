@@ -19,9 +19,9 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 
 ## Categories
 
-**457 deals** in 21 categories. 💸 marks 50% off or more, 💰 less than 50%.
+**458 deals** in 21 categories. 💸 marks 50% off or more, 💰 less than 50%.
 
-🛠&nbsp;[Development Software](#development-software)&nbsp;`62` · 🤖&nbsp;[AI Tools](#ai-tools)&nbsp;`35` · 🌈&nbsp;[Marketing Software](#marketing-software)&nbsp;`17` · 🎩&nbsp;[Security Software](#security-software)&nbsp;`18` · 🎛&nbsp;[Utility Software](#utility-software)&nbsp;`90` · 📌&nbsp;[Productivity Software](#productivity-software)&nbsp;`87` · 🎥&nbsp;[Video Software](#video-software)&nbsp;`23` · 🎨&nbsp;[Graphic Software](#graphic-software)&nbsp;`22` · 🏝️&nbsp;[Lifestyle](#lifestyle)&nbsp;`18` · 🗣️&nbsp;[Social](#social)&nbsp;`4` · 🎓&nbsp;[Reference & Education](#reference--education)&nbsp;`6` · 👩‍🎓&nbsp;[Courses and Videos](#courses-and-videos)&nbsp;`12` · 📈&nbsp;[Business Software](#business-software)&nbsp;`13` · 🏃🏻‍♀️&nbsp;[Health & Fitness Software](#health--fitness-software)&nbsp;`18` · 🎁&nbsp;[Bundles](#bundles)&nbsp;`3` · 🎶&nbsp;[Creative Content](#creative-content)&nbsp;`2` · 🤑&nbsp;[Finance](#finance)&nbsp;`8` · 🗺️&nbsp;[Navigation](#navigation)&nbsp;`3` · 🔎&nbsp;[SEO](#seo)&nbsp;`12` · 🏡&nbsp;[Home Automation](#home-automation)&nbsp;`1` · 🕹&nbsp;[Games](#games)&nbsp;`3`
+🛠&nbsp;[Development Software](#development-software)&nbsp;`62` · 🤖&nbsp;[AI Tools](#ai-tools)&nbsp;`35` · 🌈&nbsp;[Marketing Software](#marketing-software)&nbsp;`17` · 🎩&nbsp;[Security Software](#security-software)&nbsp;`18` · 🎛&nbsp;[Utility Software](#utility-software)&nbsp;`90` · 📌&nbsp;[Productivity Software](#productivity-software)&nbsp;`87` · 🎥&nbsp;[Video Software](#video-software)&nbsp;`23` · 🎨&nbsp;[Graphic Software](#graphic-software)&nbsp;`22` · 🏝️&nbsp;[Lifestyle](#lifestyle)&nbsp;`18` · 🗣️&nbsp;[Social](#social)&nbsp;`4` · 🎓&nbsp;[Reference & Education](#reference--education)&nbsp;`6` · 👩‍🎓&nbsp;[Courses and Videos](#courses-and-videos)&nbsp;`12` · 📈&nbsp;[Business Software](#business-software)&nbsp;`13` · 🏃🏻‍♀️&nbsp;[Health & Fitness Software](#health--fitness-software)&nbsp;`18` · 🎁&nbsp;[Bundles](#bundles)&nbsp;`4` · 🎶&nbsp;[Creative Content](#creative-content)&nbsp;`2` · 🤑&nbsp;[Finance](#finance)&nbsp;`8` · 🗺️&nbsp;[Navigation](#navigation)&nbsp;`3` · 🔎&nbsp;[SEO](#seo)&nbsp;`12` · 🏡&nbsp;[Home Automation](#home-automation)&nbsp;`1` · 🕹&nbsp;[Games](#games)&nbsp;`3`
 
 <a id="development-software"></a>
 
@@ -583,6 +583,7 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 | 💰 | **[Crisp, Check Engine SEO and Outlier bundle](https://crispvideo.app/pricing/)**<br>All three apps from one person in Grand Rapids: video upscaler, SEO audit, private local assistant. | <b>Black Friday sale: $34.99 once, 29% off our November price of $49.50, through December 2. Then $59.</b><br>No code needed: the Buy button applies the sale; pay once; 30-day refund on each app; ends end of 2 December 2026, US Pacific |
 | 💰 | **[iKnow Suite: iKnowMyMac + iKnowMyDisplay](https://iknowmydisplay.com/suite)**<br>Both Mac apps on one key: iKnowMyMac remembers what your Mac did while you weren't looking, iKnowMyDisplay gives you the display controls macOS hides. | <b>25% off: 1 Mac $7.99 → $5.99; 2 Macs $14.99 → $10.99; 5 Macs $39.99 → $29.99</b><br>Automatically applied, no code needed; one-time purchase, 14-day refund; Apple silicon, macOS 15 or later; 2026-11-27 to 2026-12-01, while launch licences last |
 | 💰 | **[ElevenApril: 25 iPhone Apps Bundle](https://elevenapril.com/black-friday)**<br>25 indie iPhone apps across focus, plants, pets, food, health and travel, all one-time lifetime unlock. | <b>30%–40% off Lifetime Premium across all 25 apps</b><br>`BLACKFRIDAY` · App Store offer code for Lifetime Premium (iOS 16.3+); no subscription · Nov&nbsp;16&nbsp;–&nbsp;Nov&nbsp;30 |
+|  | **[BundleWP — Complete Business Software Bundle](https://bundlewp.com/complete-business-software-bundle/)**<br>Complete Business Software Bundle: all 11 business software products in one bundle — restaurant system, e-commerce system, billing software, WordPress plugins & tools. Lifetime access, license keys delivered automatically. | <b>All 11 products for $129 one-time (regular total $1,029) with code BUNDLE129, applied on the deal page. No expiry.</b><br>`BUNDLE129` · Lifetime access; license keys delivered automatically; coupon has no expiry. |
 
 <p align="right"><a href="#categories">↑ Categories</a></p>
 
@@ -671,7 +672,7 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 
 No deals yet in Books. [Add the first one](https://blackfriday.mariuslandwehr.com/submit/).
 
-<!-- DEALS:END checksum:a2052e60f28c -->
+<!-- DEALS:END checksum:d41d634551bb -->
 
 ## Add your deal
 
