@@ -57,6 +57,7 @@ Deals are **submitted by makers and the community and reviewed** before they go 
 | [**DuoTyping**](https://duotyping.com/pricing?utm_source=github-pimjo) | AI writing companion for Mac, Windows, Chrome/Edge and the web: fixes grammar, spelling and tone as you type in the apps you already use, predicts your next words, and rewrites and translates. Free plan included. | 50% OFF the first payment of Pro: monthly $9.90 → $4.95 for the first month, yearly $89.90 → $44.95 for the first year (Coupon: `BFCM2026`). First Pro purchase only | Nov 13 – Dec 13, 2026 |
 | [**Podwise**](https://podwise.ai/pricing?utm_source=pimjo&utm_medium=deal_list&utm_campaign=bf2026) | AI podcast app that turns episodes into transcripts, summaries, mind maps and notes you can search and export. | 40% OFF Standard and Pro, monthly or yearly; renewals stay 40% off (Coupon: `BF2026`) · Also Black Friday pricing in the iOS app, checkout on podwise.ai | Nov 16 – Dec 6, 2026 |
 
+| [**Relaybrook n8n Workflow Packs**](https://relaybrook.bytesell.app) | Ready-to-import n8n automation packs: AI lead enrichment, AI inbox triage, content repurposing, crypto alerts. | 40% OFF all packs (Coupon: `BLACKFRIDAY40`) | Nov 18 – Dec 1, 2026 |
 ---
 
 <a id="ui-kits-templates"></a>
