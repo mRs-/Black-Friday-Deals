@@ -19,9 +19,9 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 
 ## Categories
 
-**418 deals** in 20 categories. 💸 marks 50% off or more, 💰 less than 50%.
+**420 deals** in 20 categories. 💸 marks 50% off or more, 💰 less than 50%.
 
-🛠&nbsp;[Development Software](#development-software)&nbsp;`60` · 🤖&nbsp;[AI Tools](#ai-tools)&nbsp;`33` · 🌈&nbsp;[Marketing Software](#marketing-software)&nbsp;`17` · 🎩&nbsp;[Security Software](#security-software)&nbsp;`18` · 🎛&nbsp;[Utility Software](#utility-software)&nbsp;`84` · 📌&nbsp;[Productivity Software](#productivity-software)&nbsp;`77` · 🎥&nbsp;[Video Software](#video-software)&nbsp;`20` · 🎨&nbsp;[Graphic Software](#graphic-software)&nbsp;`19` · 🏝️&nbsp;[Lifestyle](#lifestyle)&nbsp;`16` · 🗣️&nbsp;[Social](#social)&nbsp;`3` · 🎓&nbsp;[Reference & Education](#reference--education)&nbsp;`6` · 👩‍🎓&nbsp;[Courses and Videos](#courses-and-videos)&nbsp;`10` · 📈&nbsp;[Business Software](#business-software)&nbsp;`12` · 🏃🏻‍♀️&nbsp;[Health & Fitness Software](#health--fitness-software)&nbsp;`16` · 🎁&nbsp;[Bundles](#bundles)&nbsp;`3` · 🎶&nbsp;[Creative Content](#creative-content)&nbsp;`2` · 🤑&nbsp;[Finance](#finance)&nbsp;`7` · 🗺️&nbsp;[Navigation](#navigation)&nbsp;`1` · 🔎&nbsp;[SEO](#seo)&nbsp;`11` · 🕹&nbsp;[Games](#games)&nbsp;`3`
+🛠&nbsp;[Development Software](#development-software)&nbsp;`60` · 🤖&nbsp;[AI Tools](#ai-tools)&nbsp;`33` · 🌈&nbsp;[Marketing Software](#marketing-software)&nbsp;`17` · 🎩&nbsp;[Security Software](#security-software)&nbsp;`18` · 🎛&nbsp;[Utility Software](#utility-software)&nbsp;`84` · 📌&nbsp;[Productivity Software](#productivity-software)&nbsp;`77` · 🎥&nbsp;[Video Software](#video-software)&nbsp;`20` · 🎨&nbsp;[Graphic Software](#graphic-software)&nbsp;`19` · 🏝️&nbsp;[Lifestyle](#lifestyle)&nbsp;`17` · 🗣️&nbsp;[Social](#social)&nbsp;`3` · 🎓&nbsp;[Reference & Education](#reference--education)&nbsp;`6` · 👩‍🎓&nbsp;[Courses and Videos](#courses-and-videos)&nbsp;`10` · 📈&nbsp;[Business Software](#business-software)&nbsp;`13` · 🏃🏻‍♀️&nbsp;[Health & Fitness Software](#health--fitness-software)&nbsp;`16` · 🎁&nbsp;[Bundles](#bundles)&nbsp;`3` · 🎶&nbsp;[Creative Content](#creative-content)&nbsp;`2` · 🤑&nbsp;[Finance](#finance)&nbsp;`7` · 🗺️&nbsp;[Navigation](#navigation)&nbsp;`1` · 🔎&nbsp;[SEO](#seo)&nbsp;`11` · 🕹&nbsp;[Games](#games)&nbsp;`3`
 
 <a id="development-software"></a>
 
@@ -445,6 +445,7 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 | 💸 | **[Darkroom](https://darkroom.co/black-friday)**<br>Darkroom is the Apple Design Award winning premium photo editing and video processing app designed for creators who value workflow speed, simplicity, and power. With professional-grade tools like AI-backed Masks, RAW editing, curves, color grading. | <b>50%</b><br>`BLACKFRIDAY` · until&nbsp;Dec&nbsp;3 |
 | 💸 | **[Lift](https://haaaaaaappy-black-friday-2026.sleek-ghost-5356.chatgpt.site/lift)**<br>A Christian prayer companion for personal prayers, Scripture and daily reflection. | <b>60% off first annual year: USD $39.99 to $16.00</b><br>`BF2026LIFT` · Web purchase only; no active subscription; no trial; same app account. Choose annual and enter code. Renews USD 39.99/year until canceled. Ends Nov 30, 2026 at 21:00 UTC. · Nov&nbsp;17&nbsp;–&nbsp;Nov&nbsp;30 |
 | 💸 | **[Long Distance: Your Couple App](https://apps.apple.com/app/id6757593531)**<br>A couples app for the small stuff. Photos and doodles you send land on your partner's Home Screen widget within seconds. Also a Shared Note, anniversary countdowns and couple quizzes you each answer on your own phone. | <b>50% off Premium Lifetime ($99.99 → $49.99), one purchase covers both of you</b><br>One-time purchase, applied automatically, no code needed. Also 50% off the first year of Shared Yearly ($49.99 → $24.99) with code BLACKFRIDAY. [Redeem link](https://apps.apple.com/redeem?ctx=offercodes&id=6757593531&code=BLACKFRIDAY) · Nov&nbsp;19&nbsp;–&nbsp;Dec&nbsp;31 |
+| 💸 | **[Remember Journal](https://apps.apple.com/us/app/remember-journal/id6786695318)**<br>The no-AI daily photo journal for iPhone. One photo and a sentence a day, on a calendar built for decades of looking back. | <b>50% off the first year of Yearly: $40 → $19.99</b><br>`BF2026` · App Store offer code, [redeem here](https://apps.apple.com/redeem?ctx=offercodes&id=6786695318&code=BF2026); new and lapsed subscribers; 14-day free trial first; renews at $40/year · Nov&nbsp;27&nbsp;–&nbsp;Dec&nbsp;2 |
 
 <p align="right"><a href="#categories">↑ Categories</a></p>
 
@@ -512,6 +513,7 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 | 💰 | **[InterviewFlowAI](https://interviewflowai.com/black-friday?utm_source=mrs-black-friday-deals&utm_medium=deal_listing&utm_campaign=bfcm2026)**<br>AI interview software: screens candidates 24/7 with AI phone and video interviews, scores them and hands you a ranked shortlist. | <b>40% off the first year of yearly Growth ($3,600 → $2,160) or Scale ($6,000 → $3,600)</b><br>`BFCM40` · Yearly Growth and Scale only; enter the code at checkout. First year only, then renews at $3,000 (Growth) or $5,000 (Scale) a year. · Nov&nbsp;17&nbsp;–&nbsp;Dec&nbsp;4 |
 | 💸 | **[Tagnivo](https://apps.apple.com/app/id6804351905?utm_source=mrsbf)**<br>Manage assets, employee assignments, supplies and inventory audits in one Mac app. | <b>50% off Lifetime Unlock</b><br>No code needed; automatically applied in the Mac App Store · Nov&nbsp;27&nbsp;–&nbsp;Nov&nbsp;30 |
 | 💰 | **[IvaBoard](https://ivaboard.com/lifetime/)**<br>Feedback boards, votes, roadmaps, changelogs and waitlists for SaaS teams and agencies, with white-label portals on your own domain. | <b>30% off lifetime plans</b><br>`BF30` · Hosted Solo, one payment: Stage 1 €55 → €38.50 while Stage 1 licenses last; Stage 2 €66 → €46.20; Stage 3 €109 → €76.30. Ends at 11:59 p.m. Pacific Time. · Nov&nbsp;17&nbsp;–&nbsp;Nov&nbsp;30 |
+| 💸 | **[App14](https://app14.appetite.studio/black-friday)**<br>A custom iOS and Android app for your business, designed, built and submitted to both app stores in 14 days by a UK studio. Fixed price, booked online. | <b>Starter app £3,999 → £999, Advanced app £6,999 → £1,999</b><br>Applied automatically at checkout; full refund any time before the build starts; also in EUR and USD · until&nbsp;Nov&nbsp;30 |
 
 <p align="right"><a href="#categories">↑ Categories</a></p>
 
@@ -623,7 +625,7 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 
 No deals yet in Books and Home Automation. [Add the first one](https://blackfriday.mariuslandwehr.com/submit/).
 
-<!-- DEALS:END checksum:d5cd667f0e5b -->
+<!-- DEALS:END checksum:58d4cfb8ff1c -->
 
 ## Add your deal
 
