@@ -19,9 +19,9 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 
 ## Categories
 
-**456 deals** in 21 categories. 💸 marks 50% off or more, 💰 less than 50%.
+**457 deals** in 21 categories. 💸 marks 50% off or more, 💰 less than 50%.
 
-🛠&nbsp;[Development Software](#development-software)&nbsp;`62` · 🤖&nbsp;[AI Tools](#ai-tools)&nbsp;`34` · 🌈&nbsp;[Marketing Software](#marketing-software)&nbsp;`17` · 🎩&nbsp;[Security Software](#security-software)&nbsp;`18` · 🎛&nbsp;[Utility Software](#utility-software)&nbsp;`90` · 📌&nbsp;[Productivity Software](#productivity-software)&nbsp;`87` · 🎥&nbsp;[Video Software](#video-software)&nbsp;`23` · 🎨&nbsp;[Graphic Software](#graphic-software)&nbsp;`22` · 🏝️&nbsp;[Lifestyle](#lifestyle)&nbsp;`18` · 🗣️&nbsp;[Social](#social)&nbsp;`4` · 🎓&nbsp;[Reference & Education](#reference--education)&nbsp;`6` · 👩‍🎓&nbsp;[Courses and Videos](#courses-and-videos)&nbsp;`12` · 📈&nbsp;[Business Software](#business-software)&nbsp;`13` · 🏃🏻‍♀️&nbsp;[Health & Fitness Software](#health--fitness-software)&nbsp;`18` · 🎁&nbsp;[Bundles](#bundles)&nbsp;`3` · 🎶&nbsp;[Creative Content](#creative-content)&nbsp;`2` · 🤑&nbsp;[Finance](#finance)&nbsp;`8` · 🗺️&nbsp;[Navigation](#navigation)&nbsp;`3` · 🔎&nbsp;[SEO](#seo)&nbsp;`12` · 🏡&nbsp;[Home Automation](#home-automation)&nbsp;`1` · 🕹&nbsp;[Games](#games)&nbsp;`3`
+🛠&nbsp;[Development Software](#development-software)&nbsp;`62` · 🤖&nbsp;[AI Tools](#ai-tools)&nbsp;`35` · 🌈&nbsp;[Marketing Software](#marketing-software)&nbsp;`17` · 🎩&nbsp;[Security Software](#security-software)&nbsp;`18` · 🎛&nbsp;[Utility Software](#utility-software)&nbsp;`90` · 📌&nbsp;[Productivity Software](#productivity-software)&nbsp;`87` · 🎥&nbsp;[Video Software](#video-software)&nbsp;`23` · 🎨&nbsp;[Graphic Software](#graphic-software)&nbsp;`22` · 🏝️&nbsp;[Lifestyle](#lifestyle)&nbsp;`18` · 🗣️&nbsp;[Social](#social)&nbsp;`4` · 🎓&nbsp;[Reference & Education](#reference--education)&nbsp;`6` · 👩‍🎓&nbsp;[Courses and Videos](#courses-and-videos)&nbsp;`12` · 📈&nbsp;[Business Software](#business-software)&nbsp;`13` · 🏃🏻‍♀️&nbsp;[Health & Fitness Software](#health--fitness-software)&nbsp;`18` · 🎁&nbsp;[Bundles](#bundles)&nbsp;`3` · 🎶&nbsp;[Creative Content](#creative-content)&nbsp;`2` · 🤑&nbsp;[Finance](#finance)&nbsp;`8` · 🗺️&nbsp;[Navigation](#navigation)&nbsp;`3` · 🔎&nbsp;[SEO](#seo)&nbsp;`12` · 🏡&nbsp;[Home Automation](#home-automation)&nbsp;`1` · 🕹&nbsp;[Games](#games)&nbsp;`3`
 
 <a id="development-software"></a>
 
@@ -134,6 +134,7 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 | 💸 | **[Wordfully](https://www.wordfully.ai/c/BLACKFRIDAY2026)**<br>AI grammar and spelling checker with rephrasing, tone changes, translation, and word definitions for web and Chrome. | <b>50% off the first monthly or annual Pro payment</b><br>`BLACKFRIDAY2026` · First-time paying customers only. Monthly USD $20 to $10 first month; annual USD $108 to $54 first year. Prices before tax; normal renewals. Ends Dec 4 at 23:59 Europe/Warsaw (22:59 UTC). · Nov&nbsp;12&nbsp;–&nbsp;Dec&nbsp;4 |
 | 💰 | **[AI4MEME](https://ai4meme.com/black-friday?utm_source=mrsbf)**<br>Turn 1, 2, or 3 photos into watermark-free MP4 meme and group dance videos with synchronized sound in your browser. | <b>Up to +33% bonus credits on all plans & packs + up to 27% off Annual</b><br>Applied automatically at checkout. Lite $9.99/mo (1,600 credits/mo), Starter Pack $9.99 (1,300 permanent credits). · Nov&nbsp;18&nbsp;–&nbsp;Dec&nbsp;2 |
 |  | **[SKETCHTALK](https://apps.apple.com/us/app/sketchtalk-draw-to-ai/id6823101740?mt=12&pt=128645013&ct=bf-list)**<br>A Mac app that previews the screen you're building. Draw a mark on it, and Claude Code gets the mark, the part of the page under it, and a picture. | <b>Launch price $6.99 (from Dec 1: $9.99)</b><br>Mac App Store; price applies automatically · Nov&nbsp;26&nbsp;–&nbsp;Nov&nbsp;30 |
+| 💰 | **[Transcribee](https://transcribee.io/black-friday/)**<br>AI transcription for audio and video in 90+ languages, with a meeting recorder for Zoom, Meet and Teams, AI summaries and export to DOCX, PDF, SRT and VTT. | <b>40% off Unlimited, first month or first year</b><br>`BF2026` · Monthly ~~$25.99~~ $15.59 first month, yearly ~~$199.99~~ $119.99 first year, then regular price. Code already applied on the upgrade page · Nov&nbsp;19&nbsp;–&nbsp;Nov&nbsp;30 |
 
 <p align="right"><a href="#categories">↑ Categories</a></p>
 
@@ -670,7 +671,7 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 
 No deals yet in Books. [Add the first one](https://blackfriday.mariuslandwehr.com/submit/).
 
-<!-- DEALS:END checksum:65815a2696ea -->
+<!-- DEALS:END checksum:a2052e60f28c -->
 
 ## Add your deal
 
