@@ -19,9 +19,9 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 
 ## Categories
 
-**484 deals** in 21 categories. 💸 marks 50% off or more, 💰 less than 50%.
+**485 deals** in 21 categories. 💸 marks 50% off or more, 💰 less than 50%.
 
-🛠&nbsp;[Development Software](#development-software)&nbsp;`66` · 🤖&nbsp;[AI Tools](#ai-tools)&nbsp;`39` · 🌈&nbsp;[Marketing Software](#marketing-software)&nbsp;`20` · 🎩&nbsp;[Security Software](#security-software)&nbsp;`19` · 🎛&nbsp;[Utility Software](#utility-software)&nbsp;`94` · 📌&nbsp;[Productivity Software](#productivity-software)&nbsp;`91` · 🎥&nbsp;[Video Software](#video-software)&nbsp;`25` · 🎨&nbsp;[Graphic Software](#graphic-software)&nbsp;`25` · 🏝️&nbsp;[Lifestyle](#lifestyle)&nbsp;`18` · 🗣️&nbsp;[Social](#social)&nbsp;`4` · 🎓&nbsp;[Reference & Education](#reference--education)&nbsp;`6` · 👩‍🎓&nbsp;[Courses and Videos](#courses-and-videos)&nbsp;`12` · 📈&nbsp;[Business Software](#business-software)&nbsp;`13` · 🏃🏻‍♀️&nbsp;[Health & Fitness Software](#health--fitness-software)&nbsp;`18` · 🎁&nbsp;[Bundles](#bundles)&nbsp;`4` · 🎶&nbsp;[Creative Content](#creative-content)&nbsp;`2` · 🤑&nbsp;[Finance](#finance)&nbsp;`8` · 🗺️&nbsp;[Navigation](#navigation)&nbsp;`3` · 🔎&nbsp;[SEO](#seo)&nbsp;`13` · 🏡&nbsp;[Home Automation](#home-automation)&nbsp;`1` · 🕹&nbsp;[Games](#games)&nbsp;`3`
+🛠&nbsp;[Development Software](#development-software)&nbsp;`66` · 🤖&nbsp;[AI Tools](#ai-tools)&nbsp;`39` · 🌈&nbsp;[Marketing Software](#marketing-software)&nbsp;`20` · 🎩&nbsp;[Security Software](#security-software)&nbsp;`19` · 🎛&nbsp;[Utility Software](#utility-software)&nbsp;`94` · 📌&nbsp;[Productivity Software](#productivity-software)&nbsp;`92` · 🎥&nbsp;[Video Software](#video-software)&nbsp;`25` · 🎨&nbsp;[Graphic Software](#graphic-software)&nbsp;`25` · 🏝️&nbsp;[Lifestyle](#lifestyle)&nbsp;`18` · 🗣️&nbsp;[Social](#social)&nbsp;`4` · 🎓&nbsp;[Reference & Education](#reference--education)&nbsp;`6` · 👩‍🎓&nbsp;[Courses and Videos](#courses-and-videos)&nbsp;`12` · 📈&nbsp;[Business Software](#business-software)&nbsp;`13` · 🏃🏻‍♀️&nbsp;[Health & Fitness Software](#health--fitness-software)&nbsp;`18` · 🎁&nbsp;[Bundles](#bundles)&nbsp;`4` · 🎶&nbsp;[Creative Content](#creative-content)&nbsp;`2` · 🤑&nbsp;[Finance](#finance)&nbsp;`8` · 🗺️&nbsp;[Navigation](#navigation)&nbsp;`3` · 🔎&nbsp;[SEO](#seo)&nbsp;`13` · 🏡&nbsp;[Home Automation](#home-automation)&nbsp;`1` · 🕹&nbsp;[Games](#games)&nbsp;`3`
 
 <a id="development-software"></a>
 
@@ -403,6 +403,7 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 | 💸 | **[Stoic Browser](https://stoicbrowser.com?utm_source=mrsbf&utm_campaign=bf2026)**<br>A browser for founders: a workspace and logins per product, Claude Code, Codex and other coding agents working inside them, and browser chores on a schedule. | <b>50% off the Pro licence, a one-time purchase ($29 → $14.50 for 1 device)</b><br>`BFDEALS50` · Pro licence for any number of devices; enter the code at checkout; first 100 redemptions; bundles and All Access excluded · Nov&nbsp;19&nbsp;–&nbsp;Nov&nbsp;29 |
 | 💸 | **[Capture - Quick Notes](https://apps.apple.com/app/apple-store/id6458535284)**<br>Capture thoughts and ideas in one tap on iPhone, iPad and Mac, then send them to your favourite apps. | <b>50% off Lifetime ($19.99 → $9.99)</b><br>one-time purchase on iPhone, iPad and Mac; applied automatically on the App Store, no code needed; local prices vary · Nov&nbsp;23&nbsp;–&nbsp;Nov&nbsp;30 |
 | 💸 | **[Quando: Calendar & Planner](https://apps.apple.com/app/id6829670959?pt=95020085&ct=bf-mrs)**<br>Calendar and planner for iPhone, iPad and Mac. See your days stacked with hours across, spot free time, and add events by typing or speaking ("lunch with Anna tomorrow at 1"). Works with your iCloud, Google and Exchange calendars. | <b>Lifetime Pro 50% off: €34.99 → €17.49 ($29.99 → $14.99)</b><br>Free to download. One-time in-app purchase (Quando Pro lifetime), no subscription. The sale price shows automatically in the App Store: no code needed. iPhone, iPad and Mac. · Nov&nbsp;19&nbsp;–&nbsp;Nov&nbsp;30 |
+| 💰 | **[Quick notes - Supasend](https://apps.apple.com/in/app/note-to-self-supasend/id6504688166)**<br>Quickly capture your notes & tasks instantly in your second brain apps 🧠 | <b>40% OFF on LIFETIME PLAN</b><br>Automatically applied to the lifetime in-app purchase; no code needed. · Nov&nbsp;15&nbsp;–&nbsp;Nov&nbsp;30 |
 
 <p align="right"><a href="#categories">↑ Categories</a></p>
 
@@ -698,7 +699,7 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 
 No deals yet in Books. [Add the first one](https://blackfriday.mariuslandwehr.com/submit/).
 
-<!-- DEALS:END checksum:e2131b64b261 -->
+<!-- DEALS:END checksum:637e91bdf957 -->
 
 ## Add your deal
 
