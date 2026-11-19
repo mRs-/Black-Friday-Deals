@@ -1,0 +1,8 @@
+name: "Kernel Pack"
+url: "https://www.exploitpack.com/products/kernel-pack"
+description: "Kernel exploitation and C2 with 100+ LPE exploits, Ring-0 control and Data-Only Gadget tooling."
+discount: "20% off and upgrade to a Lifetime licence"
+percent: 20
+code: "LIFETIME"
+terms: "€1,200 → €960; coupon upgrades the promotional licence to Lifetime"
+ends: "2026-11-30"
