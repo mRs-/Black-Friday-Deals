@@ -672,7 +672,7 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 
 No deals yet in Books. [Add the first one](https://blackfriday.mariuslandwehr.com/submit/).
 
-<!-- DEALS:END checksum:bffc95dc4c72 -->
+<!-- DEALS:END checksum:4f9072b8499c -->
 
 ## Add your deal
 
