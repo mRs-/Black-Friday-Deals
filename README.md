@@ -139,6 +139,7 @@ Deals are **submitted by makers and the community and reviewed** before they go 
 | [**Tower**](https://www.git-tower.com/) | Git client for Mac and Windows: commit, branch, merge, rebase and resolve conflicts in a visual interface. | **Up to 50% OFF** the first year for new customers: Pro $129 → $64.50, Basic $69 → $48.30 (no code needed) | Nov 23 – Dec 6, 2026 |
 
 | [**PortDroid**](https://portdroid.net/sale) | Android network toolkit for port scanning, ping, traceroute, DNS, LAN device discovery and more. | **50% OFF** Pro Lifetime, $9.49 → $4.69 (Coupon: `CYBER_2026`) | Nov 5 – Dec 4, 2026 |
+| [**Seqora**](https://seqora.dev/blog/black-friday/) | Desktop database client for PostgreSQL, MySQL, MariaDB, SQLite and SQL Server on macOS, Windows and Linux. The Free plan has no account and no time limit; Pro adds the Plan tab, schema design, schema compare, longer schema history and object pages. | Pro $2.99/month for the first 3 months, then $5.99/month (regular $9.99/month). No code needed | Until Dec 6, 2026 |
 
 ---
 
