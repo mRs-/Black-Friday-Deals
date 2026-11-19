@@ -1,0 +1,9 @@
+name: "data-peek"
+url: "https://www.datapeek.dev/pricing?utm_source=mRs"
+description: "Fast, keyboard-first SQL client for PostgreSQL, MySQL, SQL Server, SQLite and ClickHouse on macOS, Windows and Linux. Free for personal use."
+discount: "40% off Pro: ~~$29/year~~ $17.40/year"
+percent: 40
+code: "BF26PEEK"
+terms: "Pro is the licence for commercial use. The code is applied automatically at checkout. Ends December 1 at 23:59 US Pacific."
+starts: "2026-11-26"
+ends: "2026-12-01"
