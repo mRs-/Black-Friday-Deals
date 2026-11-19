@@ -19,9 +19,9 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 
 ## Categories
 
-**457 deals** in 21 categories. 💸 marks 50% off or more, 💰 less than 50%.
+**458 deals** in 21 categories. 💸 marks 50% off or more, 💰 less than 50%.
 
-🛠&nbsp;[Development Software](#development-software)&nbsp;`62` · 🤖&nbsp;[AI Tools](#ai-tools)&nbsp;`35` · 🌈&nbsp;[Marketing Software](#marketing-software)&nbsp;`17` · 🎩&nbsp;[Security Software](#security-software)&nbsp;`18` · 🎛&nbsp;[Utility Software](#utility-software)&nbsp;`90` · 📌&nbsp;[Productivity Software](#productivity-software)&nbsp;`87` · 🎥&nbsp;[Video Software](#video-software)&nbsp;`23` · 🎨&nbsp;[Graphic Software](#graphic-software)&nbsp;`22` · 🏝️&nbsp;[Lifestyle](#lifestyle)&nbsp;`18` · 🗣️&nbsp;[Social](#social)&nbsp;`4` · 🎓&nbsp;[Reference & Education](#reference--education)&nbsp;`6` · 👩‍🎓&nbsp;[Courses and Videos](#courses-and-videos)&nbsp;`12` · 📈&nbsp;[Business Software](#business-software)&nbsp;`13` · 🏃🏻‍♀️&nbsp;[Health & Fitness Software](#health--fitness-software)&nbsp;`18` · 🎁&nbsp;[Bundles](#bundles)&nbsp;`3` · 🎶&nbsp;[Creative Content](#creative-content)&nbsp;`2` · 🤑&nbsp;[Finance](#finance)&nbsp;`8` · 🗺️&nbsp;[Navigation](#navigation)&nbsp;`3` · 🔎&nbsp;[SEO](#seo)&nbsp;`12` · 🏡&nbsp;[Home Automation](#home-automation)&nbsp;`1` · 🕹&nbsp;[Games](#games)&nbsp;`3`
+🛠&nbsp;[Development Software](#development-software)&nbsp;`62` · 🤖&nbsp;[AI Tools](#ai-tools)&nbsp;`35` · 🌈&nbsp;[Marketing Software](#marketing-software)&nbsp;`17` · 🎩&nbsp;[Security Software](#security-software)&nbsp;`18` · 🎛&nbsp;[Utility Software](#utility-software)&nbsp;`90` · 📌&nbsp;[Productivity Software](#productivity-software)&nbsp;`87` · 🎥&nbsp;[Video Software](#video-software)&nbsp;`23` · 🎨&nbsp;[Graphic Software](#graphic-software)&nbsp;`23` · 🏝️&nbsp;[Lifestyle](#lifestyle)&nbsp;`18` · 🗣️&nbsp;[Social](#social)&nbsp;`4` · 🎓&nbsp;[Reference & Education](#reference--education)&nbsp;`6` · 👩‍🎓&nbsp;[Courses and Videos](#courses-and-videos)&nbsp;`12` · 📈&nbsp;[Business Software](#business-software)&nbsp;`13` · 🏃🏻‍♀️&nbsp;[Health & Fitness Software](#health--fitness-software)&nbsp;`18` · 🎁&nbsp;[Bundles](#bundles)&nbsp;`3` · 🎶&nbsp;[Creative Content](#creative-content)&nbsp;`2` · 🤑&nbsp;[Finance](#finance)&nbsp;`8` · 🗺️&nbsp;[Navigation](#navigation)&nbsp;`3` · 🔎&nbsp;[SEO](#seo)&nbsp;`12` · 🏡&nbsp;[Home Automation](#home-automation)&nbsp;`1` · 🕹&nbsp;[Games](#games)&nbsp;`3`
 
 <a id="development-software"></a>
 
@@ -446,6 +446,7 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 | 💸 | **[Misuro](https://apps.apple.com/app/id6824880160?pt=95020085&ct=bf-mrs&mt=12)**<br>Native Mac app to batch resize, crop and convert photos (JPEG, PNG, WebP, HEIC, AVIF, TIFF), with text watermarks and GPS removal. Offline, from the window, the menu bar or a Finder Quick Action. | <b>50% off the launch price: €9.99 → €4.99 ($3.99 in the US)</b><br>Mac App Store, one-time purchase, no subscription. The launch price is already applied, no code needed. · until&nbsp;Dec&nbsp;6 |
 | 💸 | **[Textmock](https://textmock.com/pricing)**<br>Make iMessage-style conversation mockups on the web or Mac and save them as images or videos. | <b>50% off Textmock Pro for your first 12 months</b><br>`TEXTMOCKBF26` · $2.50 a month instead of $5; Pro removes the badge and end card from exports; new subscribers only; ends at the end of 2 December 2026, US Pacific · Nov&nbsp;18&nbsp;–&nbsp;Dec&nbsp;2 |
 |  | **[Linger](https://withlinger.com/black-friday/)**<br>A local design-reference library for Apple Silicon Macs. Save images, notes and sources on your computer; 14-day trial, no card required. | <b>Personal $39→$25 (36% off); Lifetime $79→$49 (38% off); Studio Duo (2× Lifetime) $158→$79 (50% off)</b><br>No code needed; sale prices are on the official page. One-time licenses. Apple Silicon (macOS 11+) only; Intel Macs are not supported. Submitted by the maker. Ends 23:59 PST. · Nov&nbsp;19&nbsp;–&nbsp;Dec&nbsp;1 |
+| 💸 | **[Pixpa](https://www.pixpa.com/?via=blfpixpa55)**<br>No-code website builder for creatives and small businesses to showcase work, run blogs, sell online, and manage client galleries. | <b>55% off annual plans</b><br>`BLFPIXPA55` · annual plans only · Nov&nbsp;27&nbsp;–&nbsp;Dec&nbsp;31 |
 
 <p align="right"><a href="#categories">↑ Categories</a></p>
 
@@ -671,7 +672,7 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 
 No deals yet in Books. [Add the first one](https://blackfriday.mariuslandwehr.com/submit/).
 
-<!-- DEALS:END checksum:a2052e60f28c -->
+<!-- DEALS:END checksum:bffc95dc4c72 -->
 
 ## Add your deal
 
