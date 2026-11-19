@@ -270,6 +270,7 @@ Deals are **submitted by makers and the community and reviewed** before they go 
 | [**QRGenie**](https://qrgenie.app/black-friday) | QR code generator for iPhone, iPad and Mac. Codes are made on your device and never expire. Export PNG, JPG, PDF or SVG with no watermark. | **50% OFF** lifetime: $9.99, down from $19.99 (no code needed) | Nov 18 – Dec 4, 2026 |
 | [**BarcodeCraft**](https://www.barcodecraft.com/black-friday) | Barcode generator for iPhone and iPad. Makes Code 128, Code 39, Code 93, EAN-13, EAN-8, PDF417 and Aztec codes and shares them as PNG. | **50% OFF** lifetime: $4.99, down from $9.99 (no code needed) | Nov 18 – Dec 4, 2026 |
 | [**Sponge**](https://sponge.computer/pricing) | Local-first read-later library for Mac and Linux: save articles and PDFs, highlight them and export Markdown. Sponge Plus syncs your whole library to the web and iPhone. | 50% OFF Sponge Plus for your first 12 months, $5 → $2.50 a month on the web, new subscribers (Coupon: `SPONGEBF26`) | Nov 18 – Dec 2, 2026 |
+| [**Spacepal**](https://getspacepal.com/black-friday/) | Mac menu bar app that names your desktops (Spaces), shows them all with live previews on Option-Tab and switches without the slide animation. Free; Pro adds the overview and Mission Control names. | 20% OFF Pro, $9.99 → $7.99 one-time (Coupon: `BLACKFRIDAY`, applied automatically) | Nov 27 – Dec 1, 2026 |
 
 ---
 
