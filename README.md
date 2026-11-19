@@ -259,6 +259,7 @@ Deals are **submitted by makers and the community and reviewed** before they go 
 | [**Sortbook**](https://apps.microsoft.com/detail/9N67DRVK5QWH) | File organizer for the folders you choose: switch on a recipe and it files what arrives by type, month or year. | 50% OFF the one-time purchase on the Microsoft Store, no code needed | Nov 27 to Nov 30, 2026 |
 | [**Reopen**](https://apps.microsoft.com/detail/9PJB82W27F50) | Converts digital PDFs to Excel and Word on your own PC and checks every column against the totals the PDF printed. | 50% OFF the one-time purchase on the Microsoft Store, no code needed | Nov 27 to Nov 30, 2026 |
 | [**LeaseRail**](https://apps.apple.com/app/id6807973930) | Turns a folder of tenancy-contract PDFs into spreadsheet data on your own Mac, each field checked against its page. | 50% OFF the one-time purchase on the Mac App Store, no code needed | Nov 27 to Nov 30, 2026 |
+| [**VoiceInk**](https://tryvoiceink.com/black-friday) | Open-source macOS dictation with on-device speech recognition and app-specific modes. | 40% OFF Mac lifetime licenses (Coupon: `BFVI2640`) | Nov 11 – Dec 5, 2026 |
 
 ---
 
