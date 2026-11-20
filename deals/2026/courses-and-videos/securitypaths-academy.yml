@@ -1,0 +1,9 @@
+name: "SecurityPaths Academy"
+url: "https://academy.securitypaths.com/courses"
+description: "Hands-on security courses with labs, exam and certification: Certified WiFiChallenge Professional (CWP) and Certified Recon Professional (CRP). Formerly WiFiChallenge Academy."
+discount: "25% off CWP and CRP certifications"
+percent: 25
+code: "blackfriday26"
+terms: "applied automatically at checkout"
+starts: "2026-11-21"
+ends: "2026-11-30"
