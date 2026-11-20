@@ -1,0 +1,13 @@
+# Put every text value in double quotes. Lines that start with # are comments.
+
+# Required
+name: "Wispim: Voice Teleprompter"
+url: "https://apps.apple.com/app/wispim-voice-teleprompter/id6808666037"
+description: "Teleprompter for iPhone, iPad and Mac that follows your voice: the script scrolls as you speak and waits while you think. It can float over your camera app."
+discount: "Lifetime Pro 50% off: ~~$199.99~~ $99.99"
+
+# Optional
+percent: 50
+terms: "Automatically applied to the one-time Lifetime Pro in-app purchase on the App Store, in all countries. No code needed."
+starts: "2026-11-27"
+ends: "2026-11-30"
