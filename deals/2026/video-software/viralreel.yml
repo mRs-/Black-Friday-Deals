@@ -1,0 +1,13 @@
+# Put every text value in double quotes. Lines that start with # are comments.
+
+# Required
+name: "ViralReel"
+url: "https://www.viralreel.app/pricing"
+description: "ViralReel turns your photos into AI short videos using templates inspired by social media trends."
+discount: "Up to 30% off one-time credit packs (Popular 180 credits US$16.00, was US$19.90; Creator 480 credits US$28.00, was US$39.90)"
+
+# Optional
+percent: 30
+terms: "Automatically applied at checkout; no code. One-time purchase, no automatic renewal. Subscription plans excluded. Ends December 1, 2026 at 00:00 UTC+8 (November 30, 2026 16:00 UTC)."
+starts: "2026-11-20"
+ends: "2026-11-30"
