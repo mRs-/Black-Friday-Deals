@@ -1,0 +1,9 @@
+name: "Warplet"
+url: "https://warplet.app/"
+description: "Native macOS app that connects hosted AI clients like ChatGPT, Claude, Perplexity, and Grok to your local MCP servers."
+discount: "40% off the first year of Annual (~~$14.99~~ $8.99)"
+percent: 40
+code: "BLACKFRIDAY2026"
+terms: "First year of annual plan via [App Store offer code](https://apps.apple.com/redeem?ctx=offercodes&id=6771262709&code=BLACKFRIDAY2026); renews at $14.99/year"
+starts: "2026-11-20"
+ends: "2026-12-01"
