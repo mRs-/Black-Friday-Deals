@@ -19,9 +19,9 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 
 ## Categories
 
-**551 deals** in 21 categories. 💸 marks 50% off or more, 💰 less than 50%.
+**554 deals** in 21 categories. 💸 marks 50% off or more, 💰 less than 50%.
 
-🛠&nbsp;[Development Software](#development-software)&nbsp;`72` · 🤖&nbsp;[AI Tools](#ai-tools)&nbsp;`52` · 🌈&nbsp;[Marketing Software](#marketing-software)&nbsp;`20` · 🎩&nbsp;[Security Software](#security-software)&nbsp;`21` · 🎛&nbsp;[Utility Software](#utility-software)&nbsp;`100` · 📌&nbsp;[Productivity Software](#productivity-software)&nbsp;`97` · 🎥&nbsp;[Video Software](#video-software)&nbsp;`35` · 🎨&nbsp;[Graphic Software](#graphic-software)&nbsp;`33` · 🏝️&nbsp;[Lifestyle](#lifestyle)&nbsp;`20` · 🗣️&nbsp;[Social](#social)&nbsp;`6` · 🎓&nbsp;[Reference & Education](#reference--education)&nbsp;`8` · 👩‍🎓&nbsp;[Courses and Videos](#courses-and-videos)&nbsp;`13` · 📈&nbsp;[Business Software](#business-software)&nbsp;`14` · 🏃🏻‍♀️&nbsp;[Health & Fitness Software](#health--fitness-software)&nbsp;`21` · 🎁&nbsp;[Bundles](#bundles)&nbsp;`5` · 🎶&nbsp;[Creative Content](#creative-content)&nbsp;`2` · 🤑&nbsp;[Finance](#finance)&nbsp;`12` · 🗺️&nbsp;[Navigation](#navigation)&nbsp;`3` · 🔎&nbsp;[SEO](#seo)&nbsp;`13` · 🏡&nbsp;[Home Automation](#home-automation)&nbsp;`1` · 🕹&nbsp;[Games](#games)&nbsp;`3`
+🛠&nbsp;[Development Software](#development-software)&nbsp;`72` · 🤖&nbsp;[AI Tools](#ai-tools)&nbsp;`52` · 🌈&nbsp;[Marketing Software](#marketing-software)&nbsp;`20` · 🎩&nbsp;[Security Software](#security-software)&nbsp;`21` · 🎛&nbsp;[Utility Software](#utility-software)&nbsp;`102` · 📌&nbsp;[Productivity Software](#productivity-software)&nbsp;`98` · 🎥&nbsp;[Video Software](#video-software)&nbsp;`35` · 🎨&nbsp;[Graphic Software](#graphic-software)&nbsp;`33` · 🏝️&nbsp;[Lifestyle](#lifestyle)&nbsp;`20` · 🗣️&nbsp;[Social](#social)&nbsp;`6` · 🎓&nbsp;[Reference & Education](#reference--education)&nbsp;`8` · 👩‍🎓&nbsp;[Courses and Videos](#courses-and-videos)&nbsp;`13` · 📈&nbsp;[Business Software](#business-software)&nbsp;`14` · 🏃🏻‍♀️&nbsp;[Health & Fitness Software](#health--fitness-software)&nbsp;`21` · 🎁&nbsp;[Bundles](#bundles)&nbsp;`5` · 🎶&nbsp;[Creative Content](#creative-content)&nbsp;`2` · 🤑&nbsp;[Finance](#finance)&nbsp;`12` · 🗺️&nbsp;[Navigation](#navigation)&nbsp;`3` · 🔎&nbsp;[SEO](#seo)&nbsp;`13` · 🏡&nbsp;[Home Automation](#home-automation)&nbsp;`1` · 🕹&nbsp;[Games](#games)&nbsp;`3`
 
 <a id="development-software"></a>
 
@@ -330,6 +330,8 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 | 💸 | **[AppGrid](https://appgridmac.com/pricing/)**<br>A Launchpad replacement for Mac. Organize apps into folders and pages, move several apps at once, and save or restore your layout. | <b>50% off lifetime Direct Pro ($25 to $12.50 USD)</b><br>`BF2026` · One license covers up to five Macs. Prices are before tax. The pricing page applies the code at checkout. · Nov&nbsp;20&nbsp;–&nbsp;Nov&nbsp;30 |
 | 💰 | **[Open Pi - Raspberry Pi Manager](https://openpi.uk/)**<br>Monitor Raspberry Pi health and manage Docker, files, GPIO, and SSH from your Apple devices. [Redeem on the App Store](https://apps.apple.com/redeem?ctx=offercodes&id=6762019524&code=ARTSVITBF20). | <b>About 17.5–20% off Single Lifetime (U.S. $5.99 → $4.79)</b><br>`ARTSVITBF20` · Eligible App Store regions. Ends Dec 1, 12 a.m. PT or after 500 redemptions per app. Apple Account and acceptance of [Apple terms](https://www.apple.com/legal/internet-services/itunes/ww/) required. No resale or cash value. Offer by Artem Svitelskyi. · until&nbsp;Nov&nbsp;30 |
 |  | **[Tutti](https://tutti.barrybarrywu.com/#pricing)**<br>Control multiple audio outputs, per-app volume, and display brightness from the macOS menu bar. Pro adds per-output EQ, Audio Units, and Input Mix. | <b>Tutti Pro one-time license, US$12.99 to US$8.99</b><br>One Mac per license, tax included. No code needed. Ends November 30 at 11:59 p.m. PST. · Nov&nbsp;20&nbsp;–&nbsp;Nov&nbsp;30 |
+| 💰 | **[SideNotes](https://www.apptorium.com/sidenotes)**<br>Take notes on your screen side with no distraction | <b>35% off ($19.99 -> $12.99)</b><br>until&nbsp;Dec&nbsp;7 |
+| 💸 | **[Cursor Teleporter 2](https://www.apptorium.com/cursor-teleporter)**<br>Teleport your cursor across your displays | <b>50% off ($7.99 -> $3.99)</b><br>until&nbsp;Dec&nbsp;7 |
 
 <p align="right"><a href="#categories">↑ Categories</a></p>
 
@@ -436,6 +438,7 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 | 💰 | **[Assignee](https://www.assignee.app)**<br>A lightning-fast app switcher for macOS. No frills, just pure speed. | <b>~30% off one-time payment ($2.99 -> $1.99)</b><br>`BFCM26` · until&nbsp;Nov&nbsp;30 |
 | 💰 | **[Whisper Memos](https://whispermemos.com/changelog/2026-11-black-friday)**<br>Record voice memos on iPhone and Apple Watch, get accurate transcripts and short summaries, and send them to your email or other apps. Works in 58 languages. | <b>29% off the yearly plan ($69.99 → $49.99 per year)</b><br>Automatically applied in the [iOS app](https://apps.apple.com/app/id6443658039); price stays locked while you stay subscribed; 7-day free trial for new users · Nov&nbsp;16&nbsp;–&nbsp;Dec&nbsp;6 |
 | 💸 | **[Sum](https://sumtranscribe.com/pricing)**<br>Sum turns audio and video into transcripts and AI summaries in your browser. | <b>50% off the first month or first year of Sum Pro (Web)</b><br>`SUMBF50` · Enter at web checkout. Applies once; renews at the regular price. Ends November 30 at 11:59 p.m. US Eastern Time. · Nov&nbsp;20&nbsp;–&nbsp;Nov&nbsp;30 |
+| 💸 | **[Workspaces 2](https://www.apptorium.com/workspaces)**<br>Project-based launcher that opens your files, folders, websites, apps etc. with one click | <b>50% off ($19.99 -> $9.99)</b><br>until&nbsp;Dec&nbsp;7 |
 
 <p align="right"><a href="#categories">↑ Categories</a></p>
 
@@ -765,7 +768,7 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 
 No deals yet in Books. [Add the first one](https://blackfriday.mariuslandwehr.com/submit/).
 
-<!-- DEALS:END checksum:caa3c0c92717 -->
+<!-- DEALS:END checksum:0bbcc28c8767 -->
 
 ## Add your deal
 
