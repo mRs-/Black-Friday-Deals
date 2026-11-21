@@ -19,9 +19,9 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 
 ## Categories
 
-**604 deals** in 21 categories. 💸 marks 50% off or more, 💰 less than 50%.
+**605 deals** in 21 categories. 💸 marks 50% off or more, 💰 less than 50%.
 
-🛠&nbsp;[Development Software](#development-software)&nbsp;`79` · 🤖&nbsp;[AI Tools](#ai-tools)&nbsp;`57` · 🌈&nbsp;[Marketing Software](#marketing-software)&nbsp;`22` · 🎩&nbsp;[Security Software](#security-software)&nbsp;`21` · 🎛&nbsp;[Utility Software](#utility-software)&nbsp;`115` · 📌&nbsp;[Productivity Software](#productivity-software)&nbsp;`109` · 🎥&nbsp;[Video Software](#video-software)&nbsp;`37` · 🎨&nbsp;[Graphic Software](#graphic-software)&nbsp;`37` · 🏝️&nbsp;[Lifestyle](#lifestyle)&nbsp;`21` · 🗣️&nbsp;[Social](#social)&nbsp;`6` · 🎓&nbsp;[Reference & Education](#reference--education)&nbsp;`9` · 👩‍🎓&nbsp;[Courses and Videos](#courses-and-videos)&nbsp;`13` · 📈&nbsp;[Business Software](#business-software)&nbsp;`14` · 🏃🏻‍♀️&nbsp;[Health & Fitness Software](#health--fitness-software)&nbsp;`23` · 🎁&nbsp;[Bundles](#bundles)&nbsp;`5` · 🎶&nbsp;[Creative Content](#creative-content)&nbsp;`2` · 🤑&nbsp;[Finance](#finance)&nbsp;`13` · 🗺️&nbsp;[Navigation](#navigation)&nbsp;`3` · 🔎&nbsp;[SEO](#seo)&nbsp;`13` · 🏡&nbsp;[Home Automation](#home-automation)&nbsp;`1` · 🕹&nbsp;[Games](#games)&nbsp;`4`
+🛠&nbsp;[Development Software](#development-software)&nbsp;`80` · 🤖&nbsp;[AI Tools](#ai-tools)&nbsp;`57` · 🌈&nbsp;[Marketing Software](#marketing-software)&nbsp;`22` · 🎩&nbsp;[Security Software](#security-software)&nbsp;`21` · 🎛&nbsp;[Utility Software](#utility-software)&nbsp;`115` · 📌&nbsp;[Productivity Software](#productivity-software)&nbsp;`109` · 🎥&nbsp;[Video Software](#video-software)&nbsp;`37` · 🎨&nbsp;[Graphic Software](#graphic-software)&nbsp;`37` · 🏝️&nbsp;[Lifestyle](#lifestyle)&nbsp;`21` · 🗣️&nbsp;[Social](#social)&nbsp;`6` · 🎓&nbsp;[Reference & Education](#reference--education)&nbsp;`9` · 👩‍🎓&nbsp;[Courses and Videos](#courses-and-videos)&nbsp;`13` · 📈&nbsp;[Business Software](#business-software)&nbsp;`14` · 🏃🏻‍♀️&nbsp;[Health & Fitness Software](#health--fitness-software)&nbsp;`23` · 🎁&nbsp;[Bundles](#bundles)&nbsp;`5` · 🎶&nbsp;[Creative Content](#creative-content)&nbsp;`2` · 🤑&nbsp;[Finance](#finance)&nbsp;`13` · 🗺️&nbsp;[Navigation](#navigation)&nbsp;`3` · 🔎&nbsp;[SEO](#seo)&nbsp;`13` · 🏡&nbsp;[Home Automation](#home-automation)&nbsp;`1` · 🕹&nbsp;[Games](#games)&nbsp;`4`
 
 <a id="development-software"></a>
 
@@ -108,6 +108,7 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 | 💸 | **[Doubles](https://doubles.dev/pricing)**<br>A remote pair programming app for Mac: share your screen sharp enough to read code, let your pair drive when you allow it, and talk and draw together, with guests joining from a browser. | <b>50% off, pay once: ~~US$169~~ **US$84.50**</b><br>`DOUBLES50` · Code at checkout on doubles.dev. Includes 1 year of updates; you keep the version you have. 14 days free first, no card. macOS 14 or later. · Nov&nbsp;20&nbsp;–&nbsp;Dec&nbsp;1 |
 | 💰 | **[KloudUtils](https://kloudutils.com/?utm_source=mrsbf)**<br>Your toolbox for daily work and your AI agents. 55+ tools for code, systems, diagrams, big files, cloud storage, APIs, notes, secrets. Mac, Windows, Linux. | <b>$30 OFF with code BFCM2026_PRO for Pro license: $79.00 -> $49.00 (3 devices - Mac, Windows or Linux); Standard license $39 -> $29 (1 device)</b><br>Applied automatically at checkout; one-time purchase. · Nov&nbsp;16&nbsp;–&nbsp;Dec&nbsp;6 |
 |  | **[MkSaaS](https://mksaas.com/#pricing)**<br>Next.js starter for SaaS and AI apps with authentication, billing, email and working AI examples. | <b>Lifetime license: $99 instead of $199</b><br>One-time payment; the $100 discount applies automatically at checkout. · until&nbsp;Nov&nbsp;30 |
+| 💰 | **[Blob0](https://blob0.com/)**<br>Mac desktop client for browsing, transferring, previewing and sharing files in Cloudflare R2, Amazon S3 and other S3-compatible storage. | <b>20% off one-time Personal and Team licenses</b><br>`BLACKFRIDAY20` · Personal $16.90 → $13.52 USD; enter the code at checkout; ends Nov 30 at 15:59 UTC · Nov&nbsp;14&nbsp;–&nbsp;Nov&nbsp;30 |
 
 <p align="right"><a href="#categories">↑ Categories</a></p>
 
@@ -818,7 +819,7 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 
 No deals yet in Books. [Add the first one](https://blackfriday.mariuslandwehr.com/submit/).
 
-<!-- DEALS:END checksum:f5783114cc0c -->
+<!-- DEALS:END checksum:d61938786b15 -->
 
 ## Add your deal
 
