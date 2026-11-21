@@ -1,0 +1,14 @@
+# Put every text value in double quotes. Lines that start with # are comments.
+
+# Required
+name: "CVder"
+url: "https://cvder.app/pricing"
+description: "AI job application tool: paste a job posting and CVder tailors your CV to it, checks the ATS score, writes the cover letter and recruiter email, and tracks every application."
+discount: "50% off your first payment on any Pro plan: monthly ~~€14~~ €7, annual ~~€84~~ €42"
+
+# Optional
+percent: 50
+code: "BF2026"
+terms: "First payment only, on any Pro plan (weekly €4.50, monthly €7, 6 months €22.50, annual €42), then the regular price. Prices in EUR plus VAT where applicable."
+starts: "2026-11-27"
+ends: "2026-12-01"
