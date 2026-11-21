@@ -1,0 +1,11 @@
+# Put every text value in double quotes. Lines that start with # are comments.
+
+name: "Cadran"
+url: "https://cadranapp.com/en?via=mrsbf#pricing"
+description: "A live clock on your Mac's desktop wallpaper, behind your icons, on every Space and display. 25 faces, including an airport split-flap board. Also a screen saver. Free app, no account."
+discount: "Cadran Pro ~~$9.99~~ $4.99, one-time purchase"
+percent: 50
+code: "BF50"
+terms: "The free app stays free. Pro license for up to 3 Macs; enter BF50 at checkout. US price, taxes may apply."
+starts: "2026-11-20"
+ends: "2026-12-01"
