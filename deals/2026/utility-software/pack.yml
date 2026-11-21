@@ -1,8 +1,8 @@
 name: "Pack"
-url: "https://the-pack.app"
-description: "Archive manager for Mac, iPhone and iPad: open ZIP, RAR, 7Z, TAR and more, preview files without unpacking, and create encrypted or split archives from Finder."
-discount: "Pack Pro at half price: Lifetime ~~$34.99~~ $16.99, $4.99 for the first year, or $0.99/month for 3 months"
-percent: 50
-terms: "Applied automatically in the App Store on Mac, iPhone and iPad; subscription offers for new subscribers; prices vary by country"
+url: "https://apps.apple.com/app/pack-archive-manager/id6765527835"
+description: "Unzip anything on Mac, iPhone and iPad. Pack opens RAR, 7Z, ISO and 19 more formats, lets you peek inside before you extract, and seals new archives with AES-256. Nothing leaves your device."
+discount: "51% off ($34.99 → $16.99), one-time purchase"
+percent: 51
+terms: "Pack Pro Lifetime, applied automatically; subscriptions are 50% off the first year or first 3 months for new subscribers · Mac on macOS 26.4+, iPhone and iPad on iOS 26.4+"
 starts: "2026-11-20"
 ends: "2026-12-01"
