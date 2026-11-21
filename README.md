@@ -110,7 +110,7 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 |  | **[MkSaaS](https://mksaas.com/#pricing)**<br>Next.js starter for SaaS and AI apps with authentication, billing, email and working AI examples. | <b>Lifetime license: $99 instead of $199</b><br>One-time payment; the $100 discount applies automatically at checkout. · until&nbsp;Nov&nbsp;30 |
 | 💰 | **[Blob0](https://blob0.com/)**<br>Mac desktop client for browsing, transferring, previewing and sharing files in Cloudflare R2, Amazon S3 and other S3-compatible storage. | <b>20% off one-time Personal and Team licenses</b><br>`BLACKFRIDAY20` · Personal $16.90 → $13.52 USD; enter the code at checkout; ends Nov 30 at 15:59 UTC · Nov&nbsp;14&nbsp;–&nbsp;Nov&nbsp;30 |
 | 💰 | **[ShadcnSpace](https://shadcnspace.com)**<br>Ready-to-use shadcn/ui components, blocks, templates, Figma UI kits, MCP and CLI tools for React and Next.js developers. | <b>40% off</b><br>`BFCM` · until&nbsp;Dec&nbsp;3 |
-| 💸 | **[Code Viewer](https://apps.apple.com/us/app/id1063076537?ct=bf-deals)**<br>Read & edit code on iPhone and iPad like in your IDE: syntax highlighting and Go to Definition for any file or GitHub repository, all on the device. Reading is free. | <b>50% off Lifetime ($19.99 → $9.99)</b><br>Automatically applied to the one-time in-app purchase on the App Store; no code needed. · Nov&nbsp;27&nbsp;–&nbsp;Dec&nbsp;3 |
+| 💸 | **[Code Viewer](https://apps.apple.com/app/apple-store/id756979450?pt=122485603&ct=githab_bl&mt=8)**<br>Read & edit code on iPhone and iPad like in your IDE: syntax highlighting and Go to Definition for any file or GitHub repository, all on the device. Reading is free. | <b>50% off Lifetime ($19.99 → $9.99)</b><br>Automatically applied to the one-time in-app purchase on the App Store; no code needed. · Nov&nbsp;27&nbsp;–&nbsp;Dec&nbsp;3 |
 
 <p align="right"><a href="#categories">↑ Categories</a></p>
 
@@ -840,7 +840,7 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 
 No deals yet in Books. [Add the first one](https://blackfriday.mariuslandwehr.com/submit/).
 
-<!-- DEALS:END checksum:4286c366eb2c -->
+<!-- DEALS:END checksum:e20a9c95f243 -->
 
 ## Add your deal
 
