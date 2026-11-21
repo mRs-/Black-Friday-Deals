@@ -1,0 +1,6 @@
+name: "ServerDog"
+url: "https://serverdog.app"
+description: "Native Mac app that creates VPS servers, deploys Laravel, PHP and Node sites with zero downtime and monitors them over your own SSH. No hosted panel."
+discount: "Lifetime licence $199 → $149, Standard $99 → $69"
+percent: 25
+terms: "Launch price for the first 100 licences; applied automatically at checkout. One-time purchase, no subscription."
