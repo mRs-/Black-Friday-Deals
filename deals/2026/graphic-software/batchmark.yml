@@ -1,0 +1,13 @@
+# Put every text value in double quotes. Lines that start with # are comments.
+
+# Required
+name: "BatchMark"
+url: "https://batchmark.dispatchcat.com/holiday-sale/"
+description: "Batch watermark up to 100 photos at once, art frames, Color Walk cards and Photo Stories — all on-device, no uploads, no ads."
+discount: "50% off Lifetime ($79.99 → $39.99)"
+
+# Optional: delete the lines you do not need
+percent: 50
+terms: "No code needed; automatically applied in the app. First year of Annual $19.99, then $39.99/yr."
+starts: "2026-11-15"
+ends: "2026-12-25"
