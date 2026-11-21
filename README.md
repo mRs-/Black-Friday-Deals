@@ -19,9 +19,9 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 
 ## Categories
 
-**569 deals** in 21 categories. 💸 marks 50% off or more, 💰 less than 50%.
+**571 deals** in 21 categories. 💸 marks 50% off or more, 💰 less than 50%.
 
-🛠&nbsp;[Development Software](#development-software)&nbsp;`73` · 🤖&nbsp;[AI Tools](#ai-tools)&nbsp;`53` · 🌈&nbsp;[Marketing Software](#marketing-software)&nbsp;`20` · 🎩&nbsp;[Security Software](#security-software)&nbsp;`21` · 🎛&nbsp;[Utility Software](#utility-software)&nbsp;`107` · 📌&nbsp;[Productivity Software](#productivity-software)&nbsp;`102` · 🎥&nbsp;[Video Software](#video-software)&nbsp;`35` · 🎨&nbsp;[Graphic Software](#graphic-software)&nbsp;`36` · 🏝️&nbsp;[Lifestyle](#lifestyle)&nbsp;`20` · 🗣️&nbsp;[Social](#social)&nbsp;`6` · 🎓&nbsp;[Reference & Education](#reference--education)&nbsp;`8` · 👩‍🎓&nbsp;[Courses and Videos](#courses-and-videos)&nbsp;`13` · 📈&nbsp;[Business Software](#business-software)&nbsp;`14` · 🏃🏻‍♀️&nbsp;[Health & Fitness Software](#health--fitness-software)&nbsp;`22` · 🎁&nbsp;[Bundles](#bundles)&nbsp;`5` · 🎶&nbsp;[Creative Content](#creative-content)&nbsp;`2` · 🤑&nbsp;[Finance](#finance)&nbsp;`12` · 🗺️&nbsp;[Navigation](#navigation)&nbsp;`3` · 🔎&nbsp;[SEO](#seo)&nbsp;`13` · 🏡&nbsp;[Home Automation](#home-automation)&nbsp;`1` · 🕹&nbsp;[Games](#games)&nbsp;`3`
+🛠&nbsp;[Development Software](#development-software)&nbsp;`73` · 🤖&nbsp;[AI Tools](#ai-tools)&nbsp;`54` · 🌈&nbsp;[Marketing Software](#marketing-software)&nbsp;`20` · 🎩&nbsp;[Security Software](#security-software)&nbsp;`21` · 🎛&nbsp;[Utility Software](#utility-software)&nbsp;`107` · 📌&nbsp;[Productivity Software](#productivity-software)&nbsp;`102` · 🎥&nbsp;[Video Software](#video-software)&nbsp;`36` · 🎨&nbsp;[Graphic Software](#graphic-software)&nbsp;`36` · 🏝️&nbsp;[Lifestyle](#lifestyle)&nbsp;`20` · 🗣️&nbsp;[Social](#social)&nbsp;`6` · 🎓&nbsp;[Reference & Education](#reference--education)&nbsp;`8` · 👩‍🎓&nbsp;[Courses and Videos](#courses-and-videos)&nbsp;`13` · 📈&nbsp;[Business Software](#business-software)&nbsp;`14` · 🏃🏻‍♀️&nbsp;[Health & Fitness Software](#health--fitness-software)&nbsp;`22` · 🎁&nbsp;[Bundles](#bundles)&nbsp;`5` · 🎶&nbsp;[Creative Content](#creative-content)&nbsp;`2` · 🤑&nbsp;[Finance](#finance)&nbsp;`12` · 🗺️&nbsp;[Navigation](#navigation)&nbsp;`3` · 🔎&nbsp;[SEO](#seo)&nbsp;`13` · 🏡&nbsp;[Home Automation](#home-automation)&nbsp;`1` · 🕹&nbsp;[Games](#games)&nbsp;`3`
 
 <a id="development-software"></a>
 
@@ -164,6 +164,7 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 |  | **[Transync AI](https://www.transyncai.com/black-friday/)**<br>Real-time AI translation for meetings, with bilingual subtitles and voice in 60 languages, on Windows, Mac, iPhone, Android and Web. | <b>$20 off Personal Premium annual ($89.90 → $69.90)</b><br>Auto-applied, no code. New annual or monthly-to-annual only; renewals excluded. Also $20 off a 100-hour Time Card (up to 5 per account). Not available in the China region. · Nov&nbsp;24&nbsp;–&nbsp;Dec&nbsp;1 |
 | 💸 | **[YIX](https://yix.ai/pricing)**<br>Create AI images and videos from text or photos in your browser, including product photos and short UGC-style clips. | <b>50% off the first month of Starter, Pro, and Max monthly plans</b><br>Auto-applied at checkout. First month / monthly renewal: Starter $9.95 / $19.90, Pro $24.95 / $49.90, Max $49.95 / $99.90. From Nov 20, 2026 00:00 UTC to Dec 1, 2026 00:00 UTC (exclusive). Annual plans and credit packs excluded. · Nov&nbsp;20&nbsp;–&nbsp;Nov&nbsp;30 |
 | 💰 | **[GoStudio.ai](https://www.gostudio.ai/pricing)**<br>AI photo and video studio with 38+ one-click tools for headshots, product photos and image-to-video | <b>Up to 30% off monthly plans above 1,000 credits and all yearly plans</b><br>`BLACKFRIDAY30` · Applies to monthly plans above 1,000 credits and all yearly plans — not one-time plans or monthly plans of 1,000 credits or fewer. One use per subscription. Valid in 19 countries (US, UK, Canada, Australia, Germany, France and others). · Nov&nbsp;12&nbsp;–&nbsp;Dec&nbsp;1 |
+| 💸 | **[FortuneTellerOnline](https://www.fortunetelleronline.app/#pricing)**<br>Free AI fortune teller for tarot, love, career & yes-or-no readings, drawing from a full 78-card Rider-Waite deck with AI-assisted interpretation. | <b>90% off all plans + 10x bonus credits</b><br>Auto-applied at checkout (no code needed). One-time credits never expire; subscription credits refresh each cycle. Nov 20 - Dec 31, 2026. · Nov&nbsp;20&nbsp;–&nbsp;Dec&nbsp;31 |
 
 <p align="right"><a href="#categories">↑ Categories</a></p>
 
@@ -494,6 +495,7 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 | 💰 | **[Lumière - Media & Music Player](https://lumiere.artsvit.com/)**<br>Play your own movies, shows, and music from compatible media servers and network shares. [Redeem on the App Store](https://apps.apple.com/redeem?ctx=offercodes&id=6830332402&code=ARTSVITBF20). | <b>About 17.5–20% off Lumière Plus Lifetime (U.S. $59.99 → $47.99)</b><br>`ARTSVITBF20` · Eligible App Store regions. Ends Dec 1, 12 a.m. PT or after 500 redemptions per app. Apple Account and acceptance of [Apple terms](https://www.apple.com/legal/internet-services/itunes/ww/) required. No resale or cash value. Offer by Artem Svitelskyi. · until&nbsp;Nov&nbsp;30 |
 | 💸 | **[Wispim: Voice Teleprompter](https://apps.apple.com/app/wispim-voice-teleprompter/id6808666037)**<br>Teleprompter for iPhone, iPad and Mac that follows your voice: the script scrolls as you speak and waits while you think. It can float over your camera app. | <b>Lifetime Pro 50% off: ~~$199.99~~ $99.99</b><br>Automatically applied to the one-time Lifetime Pro in-app purchase on the App Store, in all countries. No code needed. · Nov&nbsp;27&nbsp;–&nbsp;Nov&nbsp;30 |
 | 💰 | **[ViralReel](https://www.viralreel.app/pricing)**<br>ViralReel turns your photos into AI short videos using templates inspired by social media trends. | <b>Up to 30% off one-time credit packs (Popular 180 credits US$16.00, was US$19.90; Creator 480 credits US$28.00, was US$39.90)</b><br>Automatically applied at checkout; no code. One-time purchase, no automatic renewal. Subscription plans excluded. Ends December 1, 2026 at 00:00 UTC+8 (November 30, 2026 16:00 UTC). · Nov&nbsp;20&nbsp;–&nbsp;Nov&nbsp;30 |
+| 💰 | **[CutFast](https://cutfa.st/?utm_source=mrsbf&utm_campaign=bf2026#pricing)**<br>AI video editor: highlight the subtitle lines you want to keep, cut filler words and silence, and export clips. Native Mac app (Apple Silicon, notarized), Windows and web. | <b>30% off Lifetime ($399 → $279.30) and the 60-minute pack ($30 → $21)</b><br>Applied automatically at checkout, no code needed; one account works on Mac, Windows and web; ends 11:59 pm PT · Nov&nbsp;20&nbsp;–&nbsp;Dec&nbsp;1 |
 
 <p align="right"><a href="#categories">↑ Categories</a></p>
 
@@ -783,7 +785,7 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 
 No deals yet in Books. [Add the first one](https://blackfriday.mariuslandwehr.com/submit/).
 
-<!-- DEALS:END checksum:e77793ac6bbb -->
+<!-- DEALS:END checksum:7d5e86dbc62e -->
 
 ## Add your deal
 
