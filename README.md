@@ -19,9 +19,9 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 
 ## Categories
 
-**641 deals** in 21 categories. 💸 marks 50% off or more, 💰 less than 50%.
+**643 deals** in 21 categories. 💸 marks 50% off or more, 💰 less than 50%.
 
-🛠&nbsp;[Development Software](#development-software)&nbsp;`84` · 🤖&nbsp;[AI Tools](#ai-tools)&nbsp;`58` · 🌈&nbsp;[Marketing Software](#marketing-software)&nbsp;`22` · 🎩&nbsp;[Security Software](#security-software)&nbsp;`25` · 🎛&nbsp;[Utility Software](#utility-software)&nbsp;`124` · 📌&nbsp;[Productivity Software](#productivity-software)&nbsp;`119` · 🎥&nbsp;[Video Software](#video-software)&nbsp;`39` · 🎨&nbsp;[Graphic Software](#graphic-software)&nbsp;`38` · 🏝️&nbsp;[Lifestyle](#lifestyle)&nbsp;`22` · 🗣️&nbsp;[Social](#social)&nbsp;`6` · 🎓&nbsp;[Reference & Education](#reference--education)&nbsp;`9` · 👩‍🎓&nbsp;[Courses and Videos](#courses-and-videos)&nbsp;`13` · 📈&nbsp;[Business Software](#business-software)&nbsp;`14` · 🏃🏻‍♀️&nbsp;[Health & Fitness Software](#health--fitness-software)&nbsp;`24` · 🎁&nbsp;[Bundles](#bundles)&nbsp;`5` · 🎶&nbsp;[Creative Content](#creative-content)&nbsp;`2` · 🤑&nbsp;[Finance](#finance)&nbsp;`15` · 🗺️&nbsp;[Navigation](#navigation)&nbsp;`3` · 🔎&nbsp;[SEO](#seo)&nbsp;`14` · 🏡&nbsp;[Home Automation](#home-automation)&nbsp;`1` · 🕹&nbsp;[Games](#games)&nbsp;`4`
+🛠&nbsp;[Development Software](#development-software)&nbsp;`84` · 🤖&nbsp;[AI Tools](#ai-tools)&nbsp;`58` · 🌈&nbsp;[Marketing Software](#marketing-software)&nbsp;`22` · 🎩&nbsp;[Security Software](#security-software)&nbsp;`25` · 🎛&nbsp;[Utility Software](#utility-software)&nbsp;`125` · 📌&nbsp;[Productivity Software](#productivity-software)&nbsp;`119` · 🎥&nbsp;[Video Software](#video-software)&nbsp;`39` · 🎨&nbsp;[Graphic Software](#graphic-software)&nbsp;`38` · 🏝️&nbsp;[Lifestyle](#lifestyle)&nbsp;`22` · 🗣️&nbsp;[Social](#social)&nbsp;`6` · 🎓&nbsp;[Reference & Education](#reference--education)&nbsp;`9` · 👩‍🎓&nbsp;[Courses and Videos](#courses-and-videos)&nbsp;`14` · 📈&nbsp;[Business Software](#business-software)&nbsp;`14` · 🏃🏻‍♀️&nbsp;[Health & Fitness Software](#health--fitness-software)&nbsp;`24` · 🎁&nbsp;[Bundles](#bundles)&nbsp;`5` · 🎶&nbsp;[Creative Content](#creative-content)&nbsp;`2` · 🤑&nbsp;[Finance](#finance)&nbsp;`15` · 🗺️&nbsp;[Navigation](#navigation)&nbsp;`3` · 🔎&nbsp;[SEO](#seo)&nbsp;`14` · 🏡&nbsp;[Home Automation](#home-automation)&nbsp;`1` · 🕹&nbsp;[Games](#games)&nbsp;`4`
 
 <a id="development-software"></a>
 
@@ -378,6 +378,7 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 | 💸 | **[Findow](https://findowmac.com/)**<br>Scrolling window manager for Mac, with tiling, a window switcher and saved workspaces. | <b>75% off, a one-time purchase ($19.99 → $5)</b><br>Applied automatically at checkout, no code needed; free trial · until&nbsp;Dec&nbsp;1 |
 | 💸 | **[Cadran](https://cadranapp.com/en?via=mrsbf#pricing)**<br>A live clock on your Mac's desktop wallpaper, behind your icons, on every Space and display. 25 faces, including an airport split-flap board. Also a screen saver. Free app, no account. | <b>Cadran Pro ~~$9.99~~ $4.99, one-time purchase</b><br>`BF50` · The free app stays free. Pro license for up to 3 Macs; enter BF50 at checkout. US price, taxes may apply. · Nov&nbsp;20&nbsp;–&nbsp;Dec&nbsp;1 |
 | 💸 | **[DiskNinja](https://diskninja.app/blackfriday/?ref=mrs)**<br>Disk space analyzer for Mac, Windows and Linux: a free colourful map of your disk, and Pro adds a sorted cleanup list and plain answers about any file. | <b>50% off the first year of Pro Yearly ($14.99 → $7.49)</b><br>`NINJABF26` · New Pro Yearly subscribers, then $14.99 a year. Enter the code at checkout on the website, or use the Mac App Store link on the page. Scanning is free. · Nov&nbsp;24&nbsp;–&nbsp;Dec&nbsp;2 |
+| 💰 | **[SpatialTap](https://spatialtap.com)**<br>Mac menu-bar app that turns on Apple's own spatial audio, with head tracking, for Spotify, Chrome, Firefox, VLC and other apps on AirPods and Beats. | <b>30% off: $9.99 → $6.99, one-time purchase</b><br>`BLACKFRIDAY26` · 3 Macs per license; 7-day free trial, no account; Apple silicon, macOS 14.2+ · Nov&nbsp;27&nbsp;–&nbsp;Nov&nbsp;30 |
 
 <p align="right"><a href="#categories">↑ Categories</a></p>
 
@@ -687,6 +688,7 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 | 💸 | **[AppSec.training](https://appsec.training)**<br>Application security, DevSecOps and secure SDLC training on the web. | <b>50% off</b><br>`blackfriday` · until&nbsp;Dec&nbsp;31 |
 |  | **[Practical Android App Security Testing](https://www.coldedgetrainings.com/practical-android-app-security-testing)**<br>A self-paced written course for web pentesters on testing Android apps and their APIs, with hands-on labs using a non-rooted phone. | <b>$999 USD launch price ($1,499 USD from Dec 5)</b><br>No code needed. One-time purchase. Lab access lasts 180 days from purchase. Offer ends at 11:59 PM Pacific Time. · Nov&nbsp;19&nbsp;–&nbsp;Dec&nbsp;4 |
 | 💰 | **[SecurityPaths Academy](https://academy.securitypaths.com/courses)**<br>Hands-on security courses with labs, exam and certification: Certified WiFiChallenge Professional (CWP) and Certified Recon Professional (CRP). Formerly WiFiChallenge Academy. | <b>25% off CWP and CRP certifications</b><br>`blackfriday26` · applied automatically at checkout · Nov&nbsp;21&nbsp;–&nbsp;Nov&nbsp;30 |
+| 💰 | **[8kSec Academy](https://academy.8ksec.io/)**<br>On-demand mobile and AI security training with five certification tracks (CAISR, CMSE, OMSE, CISR, CASR) and hands-on labs. | <b>15% off all on-demand courses</b><br>`8KSECBLACKFRIDAY` · Nov&nbsp;20&nbsp;–&nbsp;Dec&nbsp;4 |
 
 <p align="right"><a href="#categories">↑ Categories</a></p>
 
@@ -855,7 +857,7 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 
 No deals yet in Books. [Add the first one](https://blackfriday.mariuslandwehr.com/submit/).
 
-<!-- DEALS:END checksum:ae3534c909b8 -->
+<!-- DEALS:END checksum:47cbe61c2d66 -->
 
 ## Add your deal
 
