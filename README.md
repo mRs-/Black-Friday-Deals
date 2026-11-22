@@ -19,9 +19,9 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 
 ## Categories
 
-**676 deals** in 21 categories. 💸 marks 50% off or more, 💰 less than 50%.
+**677 deals** in 21 categories. 💸 marks 50% off or more, 💰 less than 50%.
 
-🛠&nbsp;[Development Software](#development-software)&nbsp;`86` · 🤖&nbsp;[AI Tools](#ai-tools)&nbsp;`62` · 🌈&nbsp;[Marketing Software](#marketing-software)&nbsp;`24` · 🎩&nbsp;[Security Software](#security-software)&nbsp;`26` · 🎛&nbsp;[Utility Software](#utility-software)&nbsp;`134` · 📌&nbsp;[Productivity Software](#productivity-software)&nbsp;`120` · 🎥&nbsp;[Video Software](#video-software)&nbsp;`40` · 🎨&nbsp;[Graphic Software](#graphic-software)&nbsp;`40` · 🏝️&nbsp;[Lifestyle](#lifestyle)&nbsp;`24` · 🗣️&nbsp;[Social](#social)&nbsp;`6` · 🎓&nbsp;[Reference & Education](#reference--education)&nbsp;`11` · 👩‍🎓&nbsp;[Courses and Videos](#courses-and-videos)&nbsp;`14` · 📈&nbsp;[Business Software](#business-software)&nbsp;`16` · 🏃🏻‍♀️&nbsp;[Health & Fitness Software](#health--fitness-software)&nbsp;`24` · 🎁&nbsp;[Bundles](#bundles)&nbsp;`5` · 🎶&nbsp;[Creative Content](#creative-content)&nbsp;`4` · 🤑&nbsp;[Finance](#finance)&nbsp;`18` · 🗺️&nbsp;[Navigation](#navigation)&nbsp;`3` · 🔎&nbsp;[SEO](#seo)&nbsp;`14` · 🏡&nbsp;[Home Automation](#home-automation)&nbsp;`1` · 🕹&nbsp;[Games](#games)&nbsp;`4`
+🛠&nbsp;[Development Software](#development-software)&nbsp;`86` · 🤖&nbsp;[AI Tools](#ai-tools)&nbsp;`62` · 🌈&nbsp;[Marketing Software](#marketing-software)&nbsp;`24` · 🎩&nbsp;[Security Software](#security-software)&nbsp;`26` · 🎛&nbsp;[Utility Software](#utility-software)&nbsp;`134` · 📌&nbsp;[Productivity Software](#productivity-software)&nbsp;`121` · 🎥&nbsp;[Video Software](#video-software)&nbsp;`40` · 🎨&nbsp;[Graphic Software](#graphic-software)&nbsp;`40` · 🏝️&nbsp;[Lifestyle](#lifestyle)&nbsp;`24` · 🗣️&nbsp;[Social](#social)&nbsp;`6` · 🎓&nbsp;[Reference & Education](#reference--education)&nbsp;`11` · 👩‍🎓&nbsp;[Courses and Videos](#courses-and-videos)&nbsp;`14` · 📈&nbsp;[Business Software](#business-software)&nbsp;`16` · 🏃🏻‍♀️&nbsp;[Health & Fitness Software](#health--fitness-software)&nbsp;`24` · 🎁&nbsp;[Bundles](#bundles)&nbsp;`5` · 🎶&nbsp;[Creative Content](#creative-content)&nbsp;`4` · 🤑&nbsp;[Finance](#finance)&nbsp;`18` · 🗺️&nbsp;[Navigation](#navigation)&nbsp;`3` · 🔎&nbsp;[SEO](#seo)&nbsp;`14` · 🏡&nbsp;[Home Automation](#home-automation)&nbsp;`1` · 🕹&nbsp;[Games](#games)&nbsp;`4`
 
 <a id="development-software"></a>
 
@@ -526,6 +526,7 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 | 💸 | **[Fadeclock](https://fadeclock.app/)**<br>Mac timer that floats over your slides and shows when the activity ends (until 2:30 PM). Music from a YouTube link fades out before time's up. The download is free. Pro lets you play your own music files and add start buttons to your slides. | <b>Fadeclock Pro $12 → $6, one-time license</b><br>`BF2026` · Click Buy Pro and enter the code at checkout. One-time license, 14-day refund. Ends Nov 30, midnight Pacific. The app is not notarized by Apple yet. · Nov&nbsp;22&nbsp;–&nbsp;Nov&nbsp;30 |
 | 💰 | **[Bibliome Library](https://apps.apple.com/app/apple-store/id6786826590?pt=128973943&ct=bf26-mrs&mt=12)**<br>A Mac PDF library that files, searches and answers questions about your documents with an on device model. Nothing is uploaded. | <b>33% off, $29.99 → $19.99</b><br>One time purchase on the Mac App Store, no subscription. No code, the price changes automatically. · Nov&nbsp;27&nbsp;–&nbsp;Dec&nbsp;1 |
 | 💸 | **[MarsDawn](https://apps.apple.com/app/apple-store/id6812925073?pt=128976951&ct=bf-mrs&mt=12&platform=mac)**<br>Read and review your AI agent's Markdown, JSON and YAML on the Mac, with live preview and Mermaid. | <b>50% off (US$4.99 → US$2.49)</b><br>Automatically applied, no code needed; one-time unlock. · Nov&nbsp;24&nbsp;–&nbsp;Nov&nbsp;30 |
+| 💸 | **[TurboClipboard](https://apps.apple.com/app/apple-store/id6763573972?pt=118711347&ct=tc-pr-13-mrsdeals&mt=8)**<br>A private clipboard manager and keyboard for iPhone, iPad and Mac. Save what you copy and find it in a few letters, keep saved replies and templates in your keyboard, and copy links without tracking tags. | <b>50% off for Black Friday to Cyber Monday: $4.99 instead of $9.99 (US), Nov 27 to 30. One purchase covers iPhone, iPad and Mac.</b><br>Purchase on the App Store at the listed sale price. · Nov&nbsp;27&nbsp;–&nbsp;Nov&nbsp;30 |
 
 <p align="right"><a href="#categories">↑ Categories</a></p>
 
@@ -890,7 +891,7 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 
 No deals yet in Books. [Add the first one](https://blackfriday.mariuslandwehr.com/submit/).
 
-<!-- DEALS:END checksum:3df0eb18d1fc -->
+<!-- DEALS:END checksum:e96694da959a -->
 
 ## Add your deal
 
