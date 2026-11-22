@@ -19,9 +19,9 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 
 ## Categories
 
-**637 deals** in 21 categories. 💸 marks 50% off or more, 💰 less than 50%.
+**639 deals** in 21 categories. 💸 marks 50% off or more, 💰 less than 50%.
 
-🛠&nbsp;[Development Software](#development-software)&nbsp;`83` · 🤖&nbsp;[AI Tools](#ai-tools)&nbsp;`58` · 🌈&nbsp;[Marketing Software](#marketing-software)&nbsp;`22` · 🎩&nbsp;[Security Software](#security-software)&nbsp;`22` · 🎛&nbsp;[Utility Software](#utility-software)&nbsp;`124` · 📌&nbsp;[Productivity Software](#productivity-software)&nbsp;`119` · 🎥&nbsp;[Video Software](#video-software)&nbsp;`39` · 🎨&nbsp;[Graphic Software](#graphic-software)&nbsp;`38` · 🏝️&nbsp;[Lifestyle](#lifestyle)&nbsp;`22` · 🗣️&nbsp;[Social](#social)&nbsp;`6` · 🎓&nbsp;[Reference & Education](#reference--education)&nbsp;`9` · 👩‍🎓&nbsp;[Courses and Videos](#courses-and-videos)&nbsp;`13` · 📈&nbsp;[Business Software](#business-software)&nbsp;`14` · 🏃🏻‍♀️&nbsp;[Health & Fitness Software](#health--fitness-software)&nbsp;`24` · 🎁&nbsp;[Bundles](#bundles)&nbsp;`5` · 🎶&nbsp;[Creative Content](#creative-content)&nbsp;`2` · 🤑&nbsp;[Finance](#finance)&nbsp;`15` · 🗺️&nbsp;[Navigation](#navigation)&nbsp;`3` · 🔎&nbsp;[SEO](#seo)&nbsp;`14` · 🏡&nbsp;[Home Automation](#home-automation)&nbsp;`1` · 🕹&nbsp;[Games](#games)&nbsp;`4`
+🛠&nbsp;[Development Software](#development-software)&nbsp;`83` · 🤖&nbsp;[AI Tools](#ai-tools)&nbsp;`58` · 🌈&nbsp;[Marketing Software](#marketing-software)&nbsp;`22` · 🎩&nbsp;[Security Software](#security-software)&nbsp;`24` · 🎛&nbsp;[Utility Software](#utility-software)&nbsp;`124` · 📌&nbsp;[Productivity Software](#productivity-software)&nbsp;`119` · 🎥&nbsp;[Video Software](#video-software)&nbsp;`39` · 🎨&nbsp;[Graphic Software](#graphic-software)&nbsp;`38` · 🏝️&nbsp;[Lifestyle](#lifestyle)&nbsp;`22` · 🗣️&nbsp;[Social](#social)&nbsp;`6` · 🎓&nbsp;[Reference & Education](#reference--education)&nbsp;`9` · 👩‍🎓&nbsp;[Courses and Videos](#courses-and-videos)&nbsp;`13` · 📈&nbsp;[Business Software](#business-software)&nbsp;`14` · 🏃🏻‍♀️&nbsp;[Health & Fitness Software](#health--fitness-software)&nbsp;`24` · 🎁&nbsp;[Bundles](#bundles)&nbsp;`5` · 🎶&nbsp;[Creative Content](#creative-content)&nbsp;`2` · 🤑&nbsp;[Finance](#finance)&nbsp;`15` · 🗺️&nbsp;[Navigation](#navigation)&nbsp;`3` · 🔎&nbsp;[SEO](#seo)&nbsp;`14` · 🏡&nbsp;[Home Automation](#home-automation)&nbsp;`1` · 🕹&nbsp;[Games](#games)&nbsp;`4`
 
 <a id="development-software"></a>
 
@@ -241,6 +241,8 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 |  | **[SecretShot](https://secretshot.zorrinapps.com)**<br>Keep private photos and videos in a PIN-protected vault that looks like a working calculator, currency converter, or puzzle. | <b>Lifetime launch price $14.99 USD</b><br>Use code BFCM26. Valid through December 1, 2026 (Pacific Time), while redemptions last. US prices shown; local prices and availability may vary. [Redeem in the App Store](https://apps.apple.com/redeem?ctx=offercodes&id=6760329599&code=BFCM26) · until&nbsp;Dec&nbsp;1 |
 | 💸 | **[Masked Email Manager](https://maskedmail.app/)**<br>Create, manage, and toggle Fastmail masked email addresses from iPhone, iPad, and Mac, with Apple Shortcuts support. | <b>50% off Full Version one-time unlock (~~$2.99~~ $1.49)</b><br>Automatically applied to the one-time in-app purchase on the App Store; no code needed · Nov&nbsp;20&nbsp;–&nbsp;Dec&nbsp;1 |
 | 💸 | **[PDF Protector](https://www.witt-software.com/black-friday-2026/)**<br>Password-protect a PDF or apply the same protection settings to a whole folder of documents. | <b>50% off the direct Mac license (US $9.99 → $5.00)</b><br>One-time Mac license, purchased directly from Witt Software. The discount applies automatically. Prices vary by country. · Nov&nbsp;20&nbsp;–&nbsp;Nov&nbsp;30 |
+|  | **[Ultimate Pack + AI](https://www.exploitpack.com/products/ultimate-pack-discount)**<br>All-in-one offensive-security suite combining exploitation, C2 and kernel operations with integrated AI. | <b>Black Friday bundle €4,000</b><br>Includes Exploit Pack, Control Pack and Kernel Pack; no coupon · until&nbsp;Nov&nbsp;30 |
+| 💰 | **[Control Pack](https://www.exploitpack.com/products/control-pack)**<br>Cross-platform C2 for stealthy post-exploitation and AI-assisted red-team operations. | <b>20% off and upgrade to a Lifetime licence</b><br>`LIFETIME` · €1,200 → €960; coupon upgrades the promotional licence to Lifetime · until&nbsp;Nov&nbsp;30 |
 
 <p align="right"><a href="#categories">↑ Categories</a></p>
 
@@ -851,7 +853,7 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 
 No deals yet in Books. [Add the first one](https://blackfriday.mariuslandwehr.com/submit/).
 
-<!-- DEALS:END checksum:e380d75832b4 -->
+<!-- DEALS:END checksum:335fb4d64277 -->
 
 ## Add your deal
 
