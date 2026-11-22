@@ -1,0 +1,8 @@
+name: "SaaScaffold"
+url: "https://saascaffold.com/pricing"
+description: "Agent-first TypeScript SaaS starter for Cloudflare Workers with 40 coding-agent runbooks, 4 payment providers, 4 AI providers, a credit ledger, D1/PostgreSQL support, and an admin center."
+discount: "50% off Early Access one-time license ($99 → $49 USD)"
+percent: 50
+terms: "Automatically applied at checkout; no coupon code needed. One-time payment with no recurring subscription or renewal fees. Ends Dec 6, 2026 at 23:59 PST."
+starts: "2026-11-21"
+ends: "2026-12-06"
