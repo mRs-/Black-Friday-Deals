@@ -19,9 +19,9 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 
 ## Categories
 
-**639 deals** in 21 categories. 💸 marks 50% off or more, 💰 less than 50%.
+**641 deals** in 21 categories. 💸 marks 50% off or more, 💰 less than 50%.
 
-🛠&nbsp;[Development Software](#development-software)&nbsp;`83` · 🤖&nbsp;[AI Tools](#ai-tools)&nbsp;`58` · 🌈&nbsp;[Marketing Software](#marketing-software)&nbsp;`22` · 🎩&nbsp;[Security Software](#security-software)&nbsp;`24` · 🎛&nbsp;[Utility Software](#utility-software)&nbsp;`124` · 📌&nbsp;[Productivity Software](#productivity-software)&nbsp;`119` · 🎥&nbsp;[Video Software](#video-software)&nbsp;`39` · 🎨&nbsp;[Graphic Software](#graphic-software)&nbsp;`38` · 🏝️&nbsp;[Lifestyle](#lifestyle)&nbsp;`22` · 🗣️&nbsp;[Social](#social)&nbsp;`6` · 🎓&nbsp;[Reference & Education](#reference--education)&nbsp;`9` · 👩‍🎓&nbsp;[Courses and Videos](#courses-and-videos)&nbsp;`13` · 📈&nbsp;[Business Software](#business-software)&nbsp;`14` · 🏃🏻‍♀️&nbsp;[Health & Fitness Software](#health--fitness-software)&nbsp;`24` · 🎁&nbsp;[Bundles](#bundles)&nbsp;`5` · 🎶&nbsp;[Creative Content](#creative-content)&nbsp;`2` · 🤑&nbsp;[Finance](#finance)&nbsp;`15` · 🗺️&nbsp;[Navigation](#navigation)&nbsp;`3` · 🔎&nbsp;[SEO](#seo)&nbsp;`14` · 🏡&nbsp;[Home Automation](#home-automation)&nbsp;`1` · 🕹&nbsp;[Games](#games)&nbsp;`4`
+🛠&nbsp;[Development Software](#development-software)&nbsp;`84` · 🤖&nbsp;[AI Tools](#ai-tools)&nbsp;`58` · 🌈&nbsp;[Marketing Software](#marketing-software)&nbsp;`22` · 🎩&nbsp;[Security Software](#security-software)&nbsp;`25` · 🎛&nbsp;[Utility Software](#utility-software)&nbsp;`124` · 📌&nbsp;[Productivity Software](#productivity-software)&nbsp;`119` · 🎥&nbsp;[Video Software](#video-software)&nbsp;`39` · 🎨&nbsp;[Graphic Software](#graphic-software)&nbsp;`38` · 🏝️&nbsp;[Lifestyle](#lifestyle)&nbsp;`22` · 🗣️&nbsp;[Social](#social)&nbsp;`6` · 🎓&nbsp;[Reference & Education](#reference--education)&nbsp;`9` · 👩‍🎓&nbsp;[Courses and Videos](#courses-and-videos)&nbsp;`13` · 📈&nbsp;[Business Software](#business-software)&nbsp;`14` · 🏃🏻‍♀️&nbsp;[Health & Fitness Software](#health--fitness-software)&nbsp;`24` · 🎁&nbsp;[Bundles](#bundles)&nbsp;`5` · 🎶&nbsp;[Creative Content](#creative-content)&nbsp;`2` · 🤑&nbsp;[Finance](#finance)&nbsp;`15` · 🗺️&nbsp;[Navigation](#navigation)&nbsp;`3` · 🔎&nbsp;[SEO](#seo)&nbsp;`14` · 🏡&nbsp;[Home Automation](#home-automation)&nbsp;`1` · 🕹&nbsp;[Games](#games)&nbsp;`4`
 
 <a id="development-software"></a>
 
@@ -112,6 +112,7 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 | 💰 | **[ShadcnSpace](https://shadcnspace.com)**<br>Ready-to-use shadcn/ui components, blocks, templates, Figma UI kits, MCP and CLI tools for React and Next.js developers. | <b>40% off</b><br>`BFCM` · until&nbsp;Dec&nbsp;3 |
 | 💸 | **[Code Viewer](https://apps.apple.com/app/apple-store/id756979450?pt=122485603&ct=githab_bl&mt=8)**<br>Read & edit code on iPhone and iPad like in your IDE: syntax highlighting and Go to Definition for any file or GitHub repository, all on the device. Reading is free. | <b>50% off Lifetime ($19.99 → $9.99)</b><br>Automatically applied to the one-time in-app purchase on the App Store; no code needed. · Nov&nbsp;27&nbsp;–&nbsp;Dec&nbsp;3 |
 | 💰 | **[Termalin](https://termal.in/pricing/?utm_source=bf-mrs&utm_medium=referral&utm_campaign=bf2026)**<br>SSH, SFTP and RDP client for Windows, macOS, Linux and iOS that also lets ChatGPT and Claude run commands on your servers without SSH keys. | <b>16 months for the price of 12 on yearly Pro ($96, $8 → $6/mo) plus 100 GB of cloud storage</b><br>Applied automatically, no code. The 100 GB stays while the account is on Pro. Lifetime and a first monthly payment get the storage too; renewals do not. · Nov&nbsp;23&nbsp;–&nbsp;Dec&nbsp;1 |
+| 💰 | **[TailThemes](https://tailthemes.com/?utm_source=mrs-black-friday-deals&utm_medium=listing&utm_campaign=black-friday-2026#all-access)**<br>26 Tailwind CSS site themes for Next.js and plain HTML, with light and dark modes and an AGENTS.md file for coding agents. | <b>All-access license $129 → $79, one payment</b><br>All 26 themes, one payment. No code needed. The regular price is $129 from December 2, 2026. · Nov&nbsp;21&nbsp;–&nbsp;Dec&nbsp;1 |
 
 <p align="right"><a href="#categories">↑ Categories</a></p>
 
@@ -243,6 +244,7 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 | 💸 | **[PDF Protector](https://www.witt-software.com/black-friday-2026/)**<br>Password-protect a PDF or apply the same protection settings to a whole folder of documents. | <b>50% off the direct Mac license (US $9.99 → $5.00)</b><br>One-time Mac license, purchased directly from Witt Software. The discount applies automatically. Prices vary by country. · Nov&nbsp;20&nbsp;–&nbsp;Nov&nbsp;30 |
 |  | **[Ultimate Pack + AI](https://www.exploitpack.com/products/ultimate-pack-discount)**<br>All-in-one offensive-security suite combining exploitation, C2 and kernel operations with integrated AI. | <b>Black Friday bundle €4,000</b><br>Includes Exploit Pack, Control Pack and Kernel Pack; no coupon · until&nbsp;Nov&nbsp;30 |
 | 💰 | **[Control Pack](https://www.exploitpack.com/products/control-pack)**<br>Cross-platform C2 for stealthy post-exploitation and AI-assisted red-team operations. | <b>20% off and upgrade to a Lifetime licence</b><br>`LIFETIME` · €1,200 → €960; coupon upgrades the promotional licence to Lifetime · until&nbsp;Nov&nbsp;30 |
+| 💰 | **[Kernel Pack](https://www.exploitpack.com/products/kernel-pack)**<br>Kernel exploitation and C2 with 100+ LPE exploits, Ring-0 control and Data-Only Gadget tooling. | <b>20% off and upgrade to a Lifetime licence</b><br>`LIFETIME` · €1,200 → €960; coupon upgrades the promotional licence to Lifetime · until&nbsp;Nov&nbsp;30 |
 
 <p align="right"><a href="#categories">↑ Categories</a></p>
 
@@ -853,7 +855,7 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 
 No deals yet in Books. [Add the first one](https://blackfriday.mariuslandwehr.com/submit/).
 
-<!-- DEALS:END checksum:335fb4d64277 -->
+<!-- DEALS:END checksum:ae3534c909b8 -->
 
 ## Add your deal
 
