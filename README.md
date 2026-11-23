@@ -19,9 +19,9 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 
 ## Categories
 
-**697 deals** in 21 categories. 💸 marks 50% off or more, 💰 less than 50%.
+**698 deals** in 21 categories. 💸 marks 50% off or more, 💰 less than 50%.
 
-🛠&nbsp;[Development Software](#development-software)&nbsp;`87` · 🤖&nbsp;[AI Tools](#ai-tools)&nbsp;`64` · 🌈&nbsp;[Marketing Software](#marketing-software)&nbsp;`25` · 🎩&nbsp;[Security Software](#security-software)&nbsp;`28` · 🎛&nbsp;[Utility Software](#utility-software)&nbsp;`138` · 📌&nbsp;[Productivity Software](#productivity-software)&nbsp;`126` · 🎥&nbsp;[Video Software](#video-software)&nbsp;`40` · 🎨&nbsp;[Graphic Software](#graphic-software)&nbsp;`42` · 🏝️&nbsp;[Lifestyle](#lifestyle)&nbsp;`24` · 🗣️&nbsp;[Social](#social)&nbsp;`6` · 🎓&nbsp;[Reference & Education](#reference--education)&nbsp;`13` · 👩‍🎓&nbsp;[Courses and Videos](#courses-and-videos)&nbsp;`14` · 📈&nbsp;[Business Software](#business-software)&nbsp;`16` · 🏃🏻‍♀️&nbsp;[Health & Fitness Software](#health--fitness-software)&nbsp;`25` · 🎁&nbsp;[Bundles](#bundles)&nbsp;`5` · 🎶&nbsp;[Creative Content](#creative-content)&nbsp;`4` · 🤑&nbsp;[Finance](#finance)&nbsp;`18` · 🗺️&nbsp;[Navigation](#navigation)&nbsp;`3` · 🔎&nbsp;[SEO](#seo)&nbsp;`14` · 🏡&nbsp;[Home Automation](#home-automation)&nbsp;`1` · 🕹&nbsp;[Games](#games)&nbsp;`4`
+🛠&nbsp;[Development Software](#development-software)&nbsp;`87` · 🤖&nbsp;[AI Tools](#ai-tools)&nbsp;`64` · 🌈&nbsp;[Marketing Software](#marketing-software)&nbsp;`25` · 🎩&nbsp;[Security Software](#security-software)&nbsp;`28` · 🎛&nbsp;[Utility Software](#utility-software)&nbsp;`138` · 📌&nbsp;[Productivity Software](#productivity-software)&nbsp;`126` · 🎥&nbsp;[Video Software](#video-software)&nbsp;`40` · 🎨&nbsp;[Graphic Software](#graphic-software)&nbsp;`42` · 🏝️&nbsp;[Lifestyle](#lifestyle)&nbsp;`24` · 🗣️&nbsp;[Social](#social)&nbsp;`6` · 🎓&nbsp;[Reference & Education](#reference--education)&nbsp;`13` · 👩‍🎓&nbsp;[Courses and Videos](#courses-and-videos)&nbsp;`14` · 📈&nbsp;[Business Software](#business-software)&nbsp;`16` · 🏃🏻‍♀️&nbsp;[Health & Fitness Software](#health--fitness-software)&nbsp;`26` · 🎁&nbsp;[Bundles](#bundles)&nbsp;`5` · 🎶&nbsp;[Creative Content](#creative-content)&nbsp;`4` · 🤑&nbsp;[Finance](#finance)&nbsp;`18` · 🗺️&nbsp;[Navigation](#navigation)&nbsp;`3` · 🔎&nbsp;[SEO](#seo)&nbsp;`14` · 🏡&nbsp;[Home Automation](#home-automation)&nbsp;`1` · 🕹&nbsp;[Games](#games)&nbsp;`4`
 
 <a id="development-software"></a>
 
@@ -794,6 +794,7 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 | 💰 | **[Poxture App](https://poxture.com/)**<br>Mac menu bar app that checks your posture through the camera and nudges you with the fix. No account, no subscription, works without internet. No pictures, ever. | <b>34% off: $29 once becomes $19</b><br>`BLACKFRIDAY` · One-time payment for one Mac, free updates for life. Apple Silicon, macOS 15 or later. The first hour of checking each day stays free. Ends 30 Nov, 23:59 IST (13:29 US Eastern). · Nov&nbsp;23&nbsp;–&nbsp;Nov&nbsp;30 |
 | 💰 | **[EyeHack](https://eyehack.app)**<br>The eye break you can't snooze: every 20 minutes, 20 seconds of cats, nature or breathing. | <b>47% off the one-time licence (3 devices): USD $14.99 to $7.99</b><br>macOS. Code BLACKFRIDAY Nov 27-29, CYBERMONDAY Nov 30; the site's Buy button applies it automatically. 14-day free trial. · Nov&nbsp;27&nbsp;–&nbsp;Nov&nbsp;30 |
 | 💸 | **[Luten](https://apps.apple.com/app/id6777673392)**<br>Sound for sleep, focus, stress, ADHD and kids that learns what you like to listen to, on iPhone, iPad and CarPlay. | <b>50% off Lifetime, a one-time purchase: ~~$119.99~~ **$59.99** in the US</b><br>Applied automatically in the App Store. Lifetime only; local prices vary. · Nov&nbsp;26&nbsp;–&nbsp;Dec&nbsp;1 |
+|  | **[Omni Brain](https://omnibraingames.com)**<br>80+ short brain games for memory, focus and logic on iPhone and Android, each teaching a real technique and explaining your mistakes. | <b>**Lifetime Premium $39.99**, paid once: the price of one year of Premium</b><br>Sale price applied automatically on the in-app paywall. One-time purchase on [iPhone](https://apps.apple.com/app/id6813644860) and [Android](https://play.google.com/store/apps/details?id=com.omnibrain.omni_brain), never renews. Local prices vary. · until&nbsp;Dec&nbsp;1 |
 
 <p align="right"><a href="#categories">↑ Categories</a></p>
 
@@ -911,7 +912,7 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 
 No deals yet in Books. [Add the first one](https://blackfriday.mariuslandwehr.com/submit/).
 
-<!-- DEALS:END checksum:6d18827055c4 -->
+<!-- DEALS:END checksum:4c614e5c0eb3 -->
 
 ## Add your deal
 
