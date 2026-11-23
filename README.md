@@ -19,9 +19,9 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 
 ## Categories
 
-**693 deals** in 21 categories. 💸 marks 50% off or more, 💰 less than 50%.
+**696 deals** in 21 categories. 💸 marks 50% off or more, 💰 less than 50%.
 
-🛠&nbsp;[Development Software](#development-software)&nbsp;`87` · 🤖&nbsp;[AI Tools](#ai-tools)&nbsp;`64` · 🌈&nbsp;[Marketing Software](#marketing-software)&nbsp;`25` · 🎩&nbsp;[Security Software](#security-software)&nbsp;`27` · 🎛&nbsp;[Utility Software](#utility-software)&nbsp;`137` · 📌&nbsp;[Productivity Software](#productivity-software)&nbsp;`126` · 🎥&nbsp;[Video Software](#video-software)&nbsp;`40` · 🎨&nbsp;[Graphic Software](#graphic-software)&nbsp;`41` · 🏝️&nbsp;[Lifestyle](#lifestyle)&nbsp;`24` · 🗣️&nbsp;[Social](#social)&nbsp;`6` · 🎓&nbsp;[Reference & Education](#reference--education)&nbsp;`12` · 👩‍🎓&nbsp;[Courses and Videos](#courses-and-videos)&nbsp;`14` · 📈&nbsp;[Business Software](#business-software)&nbsp;`16` · 🏃🏻‍♀️&nbsp;[Health & Fitness Software](#health--fitness-software)&nbsp;`25` · 🎁&nbsp;[Bundles](#bundles)&nbsp;`5` · 🎶&nbsp;[Creative Content](#creative-content)&nbsp;`4` · 🤑&nbsp;[Finance](#finance)&nbsp;`18` · 🗺️&nbsp;[Navigation](#navigation)&nbsp;`3` · 🔎&nbsp;[SEO](#seo)&nbsp;`14` · 🏡&nbsp;[Home Automation](#home-automation)&nbsp;`1` · 🕹&nbsp;[Games](#games)&nbsp;`4`
+🛠&nbsp;[Development Software](#development-software)&nbsp;`87` · 🤖&nbsp;[AI Tools](#ai-tools)&nbsp;`64` · 🌈&nbsp;[Marketing Software](#marketing-software)&nbsp;`25` · 🎩&nbsp;[Security Software](#security-software)&nbsp;`28` · 🎛&nbsp;[Utility Software](#utility-software)&nbsp;`138` · 📌&nbsp;[Productivity Software](#productivity-software)&nbsp;`126` · 🎥&nbsp;[Video Software](#video-software)&nbsp;`40` · 🎨&nbsp;[Graphic Software](#graphic-software)&nbsp;`42` · 🏝️&nbsp;[Lifestyle](#lifestyle)&nbsp;`24` · 🗣️&nbsp;[Social](#social)&nbsp;`6` · 🎓&nbsp;[Reference & Education](#reference--education)&nbsp;`12` · 👩‍🎓&nbsp;[Courses and Videos](#courses-and-videos)&nbsp;`14` · 📈&nbsp;[Business Software](#business-software)&nbsp;`16` · 🏃🏻‍♀️&nbsp;[Health & Fitness Software](#health--fitness-software)&nbsp;`25` · 🎁&nbsp;[Bundles](#bundles)&nbsp;`5` · 🎶&nbsp;[Creative Content](#creative-content)&nbsp;`4` · 🤑&nbsp;[Finance](#finance)&nbsp;`18` · 🗺️&nbsp;[Navigation](#navigation)&nbsp;`3` · 🔎&nbsp;[SEO](#seo)&nbsp;`14` · 🏡&nbsp;[Home Automation](#home-automation)&nbsp;`1` · 🕹&nbsp;[Games](#games)&nbsp;`4`
 
 <a id="development-software"></a>
 
@@ -259,6 +259,7 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 | 💰 | **[Kernel Pack](https://www.exploitpack.com/products/kernel-pack)**<br>Kernel exploitation and C2 with 100+ LPE exploits, Ring-0 control and Data-Only Gadget tooling. | <b>20% off and upgrade to a Lifetime licence</b><br>`LIFETIME` · €1,200 → €960; coupon upgrades the promotional licence to Lifetime · until&nbsp;Nov&nbsp;30 |
 | 💸 | **[EasyGuard VPN](https://easyguard.app/#deal)**<br>No-logs VPN built on WireGuard for Mac, iPhone, iPad, Apple TV, Windows and Android. Gets round ISP blocks and throttling and keeps your browsing private. | <b>Up to 75% off every plan</b><br>Automatically applied, no code needed. 1 month ~~$9.99~~ $2.49, 6 months ~~$29.99~~ $9.99, 12 months ~~$49.99~~ $14.99. One-time payment, 10 devices. · Nov&nbsp;22&nbsp;–&nbsp;Nov&nbsp;30 |
 | 💸 | **[OmniForge Launch Audit Suite](https://zcoldwater.github.io/omniforge-skills/black-friday-2026-developer-security-deal.html)**<br>Pre-launch security headers, exposed JS bundle secret detection, SPF/DKIM/DMARC/BIMI email deliverability, and llms.txt AI search readiness scanners with CLI and CI gates. | <b>83% off Complete 3-in-1 Remediation Suite ($29 → $5) or single scanners ($9 → $2)</b><br>automatically applied; free instant diagnostic scans included · Nov&nbsp;21&nbsp;–&nbsp;Dec&nbsp;1 |
+| 💰 | **[Exploit Pack](https://www.exploitpack.com/products/exploit-pack)**<br>AI-assisted exploit-development framework with 46,000+ exploits, zero-days and debugger integration. | <b>20% off and upgrade to a Lifetime licence</b><br>`LIFETIME` · €1,200 → €960; coupon upgrades the promotional licence to Lifetime · until&nbsp;Nov&nbsp;30 |
 
 <p align="right"><a href="#categories">↑ Categories</a></p>
 
@@ -405,6 +406,7 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 | 💰 | **[Anybox](https://anybox.app/)**<br>Anybox is a bookmarking app for macOS and iOS. | <b>40% off</b><br>One purchase on the App Store covers Mac, iPhone and iPad. No code, the price changes automatically. · Nov&nbsp;26&nbsp;–&nbsp;Dec&nbsp;2 |
 | 💰 | **[Toolbox for Mac](https://mactoolbox.app)**<br>102 native Mac tools in one app: compress and convert video and images, PDF tools, screenshots, download video, remove backgrounds and transcribe. Runs on your Mac, nothing is uploaded. | <b>30% off every licence: 1 Mac $19 → $13.30, 3 Macs $29 → $20.30, 5 Macs $39 → $27.30</b><br>`BLACKFRIDAY30` · One-time purchase, no subscription. Enter the code at checkout. Needs macOS 15 or later. · Nov&nbsp;25&nbsp;–&nbsp;Dec&nbsp;2 |
 | 💰 | **[datacheck.cc (DataCheck)](https://datacheck.cc/en/pricing)**<br>Research table verification platform featuring DataCheck: rule-driven duplicate, shift, and numerical anomaly checks across 56 versioned non-AI rules, with source-cell evidence on Web and Windows. | <b>30% off all standard one-time packs (HK$116 → HK$81.20+) and perpetual Windows desktop licenses (HK$15,288 → HK$10,701.60+)</b><br>Automatically applied at Stripe Checkout (no coupon code needed). One-time purchase, no subscription or auto-renewal. Applies to all 6 standard plans; excludes HK$35 first trial. Ends 2026-12-05 16:00 UTC. · Nov&nbsp;23&nbsp;–&nbsp;Dec&nbsp;5 |
+| 💰 | **[Butterfly for Mac](https://butterflyformac.com/?utm_source=blackfriday&utm_campaign=bf2026)**<br>Scrolling window manager for macOS: windows sit side by side on a strip you slide with a three-finger swipe, ⌃⌥ and the mouse wheel, or the keyboard. Native Swift app. | <b>Launch price: 1 Mac licence $7.99 → $4.99</b><br>No code needed. 7-day free trial without a card, 14-day refund. · Nov&nbsp;17&nbsp;–&nbsp;Nov&nbsp;30 |
 
 <p align="right"><a href="#categories">↑ Categories</a></p>
 
@@ -639,6 +641,7 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 | 💸 | **[BabaPic](https://www.babapic.cc/)**<br>Native macOS app for batch image compression and format conversion — compress, convert, resize and rename in one pass, fully local, no uploads. | <b>50% off BabaPic Pro: $19 → $9.50, one-time purchase</b><br>`BABAPIC2026` · One-time purchase of BabaPic Pro. Discount shown on the homepage promo bar and verified at Dodo checkout. · Nov&nbsp;22&nbsp;–&nbsp;Dec&nbsp;31 |
 |  | **[Skua](https://getskua.app/?utm_source=mrs-bf&utm_medium=deal-list&utm_campaign=bf2026)**<br>Keyboard-driven photo culling for Mac: rate with 1, 2, 3, fix crop and tone without touching the original, and export web-ready JPEGs to a file size. RAW and XMP for Lightroom. | <b>One-time purchase $12 until December 1, then $24</b><br>`LAUNCH50` · Applied automatically from the Buy button on getskua.app. Free 7-day trial. macOS 12 or later, Apple silicon and Intel. · Nov&nbsp;22&nbsp;–&nbsp;Dec&nbsp;1 |
 | 💰 | **[Icons8](https://icons8.com/black-friday?utm_campaign=bf2026&utm_content=github-bf-deals)**<br>Icons, illustrations, photos, music and 3D in one consistent style, plus AI tools: icon and illustration generator, face swap, upscaler, background remover. Web, Figma plugin and Pichon for macOS. | <b>AI and graphics yearly plan: $149 for the first year instead of $228</b><br>No code needed, applied automatically · Nov&nbsp;23&nbsp;–&nbsp;Nov&nbsp;30 |
+| 💰 | **[ImageToPES](https://imagetopes.com/#pricing)**<br>Browser PNG, JPG, and SVG to Brother .PES, Tajima .DST, .JEF, .EXP, and .VP3 embroidery digitizer with 3D thread preview and free .PES/.DST viewer. | <b>30% off all one-time credit packs ($2.03 – $20.93)</b><br>Automatically applied at checkout; one-time buyout, credits never expire; first 100 spots/day (EST). · Nov&nbsp;22&nbsp;–&nbsp;Nov&nbsp;30 |
 
 <p align="right"><a href="#categories">↑ Categories</a></p>
 
@@ -907,7 +910,7 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 
 No deals yet in Books. [Add the first one](https://blackfriday.mariuslandwehr.com/submit/).
 
-<!-- DEALS:END checksum:911465d55b83 -->
+<!-- DEALS:END checksum:8b9b21de6a3a -->
 
 ## Add your deal
 
