@@ -1,9 +1,9 @@
 name: "HookTide"
 url: "https://hooktide.io/pricing"
 description: "AI that learns your LinkedIn writing voice and drafts posts, comments and DMs that sound like you."
-discount: "40% off the first year of the Pipeline yearly plan ($588 → $352.80, about $29/mo)"
-percent: 40
-code: "BLACKYEAR"
+discount: "50% off the first year of the Pipeline yearly plan ($588 → $294, about $24.50/mo)"
+percent: 50
+code: "BLACKFRIDAY50"
 terms: "applied automatically at yearly checkout; renews at $588"
 starts: "2026-11-23"
 ends: "2026-12-01"
