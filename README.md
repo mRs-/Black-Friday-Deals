@@ -19,9 +19,9 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 
 ## Categories
 
-**704 deals** in 21 categories. 💸 marks 50% off or more, 💰 less than 50%.
+**706 deals** in 21 categories. 💸 marks 50% off or more, 💰 less than 50%.
 
-🛠&nbsp;[Development Software](#development-software)&nbsp;`87` · 🤖&nbsp;[AI Tools](#ai-tools)&nbsp;`65` · 🌈&nbsp;[Marketing Software](#marketing-software)&nbsp;`25` · 🎩&nbsp;[Security Software](#security-software)&nbsp;`28` · 🎛&nbsp;[Utility Software](#utility-software)&nbsp;`141` · 📌&nbsp;[Productivity Software](#productivity-software)&nbsp;`127` · 🎥&nbsp;[Video Software](#video-software)&nbsp;`40` · 🎨&nbsp;[Graphic Software](#graphic-software)&nbsp;`42` · 🏝️&nbsp;[Lifestyle](#lifestyle)&nbsp;`24` · 🗣️&nbsp;[Social](#social)&nbsp;`6` · 🎓&nbsp;[Reference & Education](#reference--education)&nbsp;`13` · 👩‍🎓&nbsp;[Courses and Videos](#courses-and-videos)&nbsp;`14` · 📈&nbsp;[Business Software](#business-software)&nbsp;`16` · 🏃🏻‍♀️&nbsp;[Health & Fitness Software](#health--fitness-software)&nbsp;`26` · 🎁&nbsp;[Bundles](#bundles)&nbsp;`5` · 🎶&nbsp;[Creative Content](#creative-content)&nbsp;`4` · 🤑&nbsp;[Finance](#finance)&nbsp;`18` · 🗺️&nbsp;[Navigation](#navigation)&nbsp;`3` · 🔎&nbsp;[SEO](#seo)&nbsp;`14` · 🏡&nbsp;[Home Automation](#home-automation)&nbsp;`1` · 🕹&nbsp;[Games](#games)&nbsp;`5`
+🛠&nbsp;[Development Software](#development-software)&nbsp;`87` · 🤖&nbsp;[AI Tools](#ai-tools)&nbsp;`66` · 🌈&nbsp;[Marketing Software](#marketing-software)&nbsp;`25` · 🎩&nbsp;[Security Software](#security-software)&nbsp;`28` · 🎛&nbsp;[Utility Software](#utility-software)&nbsp;`141` · 📌&nbsp;[Productivity Software](#productivity-software)&nbsp;`127` · 🎥&nbsp;[Video Software](#video-software)&nbsp;`40` · 🎨&nbsp;[Graphic Software](#graphic-software)&nbsp;`42` · 🏝️&nbsp;[Lifestyle](#lifestyle)&nbsp;`24` · 🗣️&nbsp;[Social](#social)&nbsp;`6` · 🎓&nbsp;[Reference & Education](#reference--education)&nbsp;`13` · 👩‍🎓&nbsp;[Courses and Videos](#courses-and-videos)&nbsp;`14` · 📈&nbsp;[Business Software](#business-software)&nbsp;`16` · 🏃🏻‍♀️&nbsp;[Health & Fitness Software](#health--fitness-software)&nbsp;`26` · 🎁&nbsp;[Bundles](#bundles)&nbsp;`5` · 🎶&nbsp;[Creative Content](#creative-content)&nbsp;`4` · 🤑&nbsp;[Finance](#finance)&nbsp;`18` · 🗺️&nbsp;[Navigation](#navigation)&nbsp;`3` · 🔎&nbsp;[SEO](#seo)&nbsp;`15` · 🏡&nbsp;[Home Automation](#home-automation)&nbsp;`1` · 🕹&nbsp;[Games](#games)&nbsp;`5`
 
 <a id="development-software"></a>
 
@@ -190,6 +190,7 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 | 💰 | **[AgentScribe](https://apps.apple.com/app/apple-store/id6813940342?pt=128973943&ct=bf26-mrs&mt=12)**<br>Gives the AI apps you use one memory they share. Nothing an assistant writes is kept until you approve it. One file on your Mac, no network access. | <b>25% off, $19.99 → $14.99</b><br>One time purchase on the Mac App Store, no subscription. No code, the price changes automatically. · Nov&nbsp;27&nbsp;–&nbsp;Dec&nbsp;1 |
 | 💰 | **[Leelo](https://leelo-ai.com/black-friday?utm_source=github-mrs)**<br>AI voice studio on the web: text to speech with 1,150+ voices, video dubbing, voice cloning, transcription, noise removal, a voice changer, sound effects and an AI script writer. | <b>Lifetime deals from $59: Basic ~~$79~~ $59, Pro ~~$199~~ $149, paid once + 50% more credits on every pack</b><br>No code needed, applied at checkout. Credits every month for good: Basic 35,000 and 1 custom voice, Pro 80,000 and 2 custom voices; 500 places each. Up to 30% off a first plan. Ends Dec 1, 23:59 PT. · Nov&nbsp;24&nbsp;–&nbsp;Dec&nbsp;1 |
 | 💰 | **[Voibe](https://www.getvoibe.com/pricing/)**<br>Private AI dictation and bot-free meeting notes for Mac and Windows. Open-source models, on-device or zero-retention cloud, never used to train AI. | <b>25% off every plan (Dictation and Work, monthly, annual and lifetime)</b><br>`BFCM26` · Monthly plans keep 25% off every month. Dictation lifetime $199 → $149.25; Work lifetime $399 → $299.25. · until&nbsp;Nov&nbsp;30 |
+| 💸 | **[HookTide](https://hooktide.io/pricing)**<br>AI that learns your LinkedIn writing voice and drafts posts, comments and DMs that sound like you. | <b>50% off the first year of the Pipeline yearly plan ($588 → $294, about $24.50/mo)</b><br>`BLACKFRIDAY50` · applied automatically at yearly checkout; renews at $588 · Nov&nbsp;23&nbsp;–&nbsp;Dec&nbsp;1 |
 
 <p align="right"><a href="#categories">↑ Categories</a></p>
 
@@ -889,6 +890,7 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 | 💸 | **[RightBlogger](https://rightblogger.com/pricing?offer=bf2026)**<br>AI blogging tool that writes articles in your own voice, publishes them to WordPress and other CMSs on a schedule, and uses Search Console data to show which older posts to fix. | <b>50% off every annual plan, for life (Solo $588 → $294/yr, Pro $828 → $414/yr, Agency $2,388 → $1,194/yr)</b><br>Use the linked Black Friday pricing page. Annual plans only. The 50% stays on every renewal while the subscription stays active. Free plan and a 30-day money-back guarantee. · Nov&nbsp;17&nbsp;–&nbsp;Dec&nbsp;1 |
 | 💸 | **[BizPeel](https://bizpeel.com/pricing)**<br>Verified revenue, traffic sources, SEO & ad breakdowns for 700+ real startups — browsable on web and queryable in Claude Code & Cursor via MCP. | <b>50% off first month across all plans (Starter $14.95, Pro $29.95, Business $49.95) + 20% off first year</b><br>Auto-applied at checkout (no code needed). Includes full monthly MCP quota & research balance; annual discount stacks on 15% annual savings. First billing period only; renewals bill at standard price. Ends Nov 30, 2026 11:59 PM PT. · Nov&nbsp;19&nbsp;–&nbsp;Nov&nbsp;30 |
 | 💰 | **[Directory Ideas](https://directoryideas.ai/?utm_source=mrsbf)**<br>Finds directory website ideas people actually search for, with real Google search numbers and a score, then your first listings, outreach emails and a 7-day launch plan. | <b>33% off lifetime access: ~~$89~~ $59, one payment</b><br>Automatically applied, no code needed. Ends 11:59 PM PT. · Nov&nbsp;21&nbsp;–&nbsp;Nov&nbsp;30 |
+| 💸 | **[AITroveX](https://aitrovex.com/pricing?utm_source=mrsbf)**<br>Hand-checked AI tools directory with verified key facts, Schema.org JSON-LD, and llms.txt. Priority submissions need no backlink, get reviewed within 2 business days, and include a dofollow link. | <b>71% off Bulk pack: ~~$100~~ $29 for 20 Priority submission credits ($1.45/tool)</b><br>Automatically applied at checkout, no code needed. Credits never expire and are only spent when a tool is approved. 14-day refund on unused packs. · Nov&nbsp;23&nbsp;–&nbsp;Dec&nbsp;1 |
 
 <p align="right"><a href="#categories">↑ Categories</a></p>
 
@@ -918,7 +920,7 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 
 No deals yet in Books. [Add the first one](https://blackfriday.mariuslandwehr.com/submit/).
 
-<!-- DEALS:END checksum:27640dc2e4b1 -->
+<!-- DEALS:END checksum:7db96931ebe0 -->
 
 ## Add your deal
 
