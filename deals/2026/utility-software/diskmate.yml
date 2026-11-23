@@ -1,0 +1,11 @@
+# Required
+name: "DiskMate"
+url: "https://diskmate.app"
+description: "Native macOS disk space analyzer and cleaner to see what's eating your disk and clean it safely."
+discount: "50% off the lifetime license ($10 → $5)"
+
+# Optional
+percent: 50
+terms: "One-time purchase, lifetime license. macOS 14+ on Apple Silicon."
+starts: "2026-11-20"
+ends: "2026-12-02"
