@@ -1,0 +1,8 @@
+name: "BookForge CLI"
+url: "https://kineticsprint-studio.vercel.app/bookforge.html"
+description: "Local-first Markdown-to-PDF commercial book typesetting CLI with 6 editorial styles, running heads, auto TOC, and layout QC gates."
+discount: "50% off Lifetime License ($119 → $59)"
+percent: 50
+terms: "One-time lifetime license for macOS and Linux, applied automatically at checkout."
+starts: "2026-11-24"
+ends: "2026-11-30"
