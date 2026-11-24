@@ -19,9 +19,9 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 
 ## Categories
 
-**750 deals** in 21 categories. 💸 marks 50% off or more, 💰 less than 50%.
+**751 deals** in 21 categories. 💸 marks 50% off or more, 💰 less than 50%.
 
-🛠&nbsp;[Development Software](#development-software)&nbsp;`92` · 🤖&nbsp;[AI Tools](#ai-tools)&nbsp;`70` · 🌈&nbsp;[Marketing Software](#marketing-software)&nbsp;`25` · 🎩&nbsp;[Security Software](#security-software)&nbsp;`29` · 🎛&nbsp;[Utility Software](#utility-software)&nbsp;`148` · 📌&nbsp;[Productivity Software](#productivity-software)&nbsp;`134` · 🎥&nbsp;[Video Software](#video-software)&nbsp;`45` · 🎨&nbsp;[Graphic Software](#graphic-software)&nbsp;`47` · 🏝️&nbsp;[Lifestyle](#lifestyle)&nbsp;`26` · 🗣️&nbsp;[Social](#social)&nbsp;`9` · 🎓&nbsp;[Reference & Education](#reference--education)&nbsp;`15` · 👩‍🎓&nbsp;[Courses and Videos](#courses-and-videos)&nbsp;`16` · 📈&nbsp;[Business Software](#business-software)&nbsp;`16` · 🏃🏻‍♀️&nbsp;[Health & Fitness Software](#health--fitness-software)&nbsp;`26` · 🎁&nbsp;[Bundles](#bundles)&nbsp;`5` · 🎶&nbsp;[Creative Content](#creative-content)&nbsp;`4` · 🤑&nbsp;[Finance](#finance)&nbsp;`18` · 🗺️&nbsp;[Navigation](#navigation)&nbsp;`3` · 🔎&nbsp;[SEO](#seo)&nbsp;`16` · 🏡&nbsp;[Home Automation](#home-automation)&nbsp;`1` · 🕹&nbsp;[Games](#games)&nbsp;`5`
+🛠&nbsp;[Development Software](#development-software)&nbsp;`92` · 🤖&nbsp;[AI Tools](#ai-tools)&nbsp;`70` · 🌈&nbsp;[Marketing Software](#marketing-software)&nbsp;`25` · 🎩&nbsp;[Security Software](#security-software)&nbsp;`29` · 🎛&nbsp;[Utility Software](#utility-software)&nbsp;`148` · 📌&nbsp;[Productivity Software](#productivity-software)&nbsp;`134` · 🎥&nbsp;[Video Software](#video-software)&nbsp;`45` · 🎨&nbsp;[Graphic Software](#graphic-software)&nbsp;`47` · 🏝️&nbsp;[Lifestyle](#lifestyle)&nbsp;`26` · 🗣️&nbsp;[Social](#social)&nbsp;`9` · 🎓&nbsp;[Reference & Education](#reference--education)&nbsp;`15` · 👩‍🎓&nbsp;[Courses and Videos](#courses-and-videos)&nbsp;`17` · 📈&nbsp;[Business Software](#business-software)&nbsp;`16` · 🏃🏻‍♀️&nbsp;[Health & Fitness Software](#health--fitness-software)&nbsp;`26` · 🎁&nbsp;[Bundles](#bundles)&nbsp;`5` · 🎶&nbsp;[Creative Content](#creative-content)&nbsp;`4` · 🤑&nbsp;[Finance](#finance)&nbsp;`18` · 🗺️&nbsp;[Navigation](#navigation)&nbsp;`3` · 🔎&nbsp;[SEO](#seo)&nbsp;`16` · 🏡&nbsp;[Home Automation](#home-automation)&nbsp;`1` · 🕹&nbsp;[Games](#games)&nbsp;`5`
 
 <a id="development-software"></a>
 
@@ -781,9 +781,10 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 | 💸 | **[AppSec.training](https://appsec.training)**<br>Application security, DevSecOps and secure SDLC training on the web. | <b>50% off</b><br>`blackfriday` · until&nbsp;Dec&nbsp;31 |
 |  | **[Practical Android App Security Testing](https://www.coldedgetrainings.com/practical-android-app-security-testing)**<br>A self-paced written course for web pentesters on testing Android apps and their APIs, with hands-on labs using a non-rooted phone. | <b>$999 USD launch price ($1,499 USD from Dec 5)</b><br>No code needed. One-time purchase. Lab access lasts 180 days from purchase. Offer ends at 11:59 PM Pacific Time. · Nov&nbsp;19&nbsp;–&nbsp;Dec&nbsp;4 |
 | 💰 | **[SecurityPaths Academy](https://academy.securitypaths.com/courses)**<br>Hands-on security courses with labs, exam and certification: Certified WiFiChallenge Professional (CWP) and Certified Recon Professional (CRP). Formerly WiFiChallenge Academy. | <b>25% off CWP and CRP certifications</b><br>`blackfriday26` · applied automatically at checkout · Nov&nbsp;21&nbsp;–&nbsp;Nov&nbsp;30 |
-| 💰 | **[8kSec Academy](https://academy.8ksec.io/)**<br>On-demand mobile and AI security training with five certification tracks (CAISR, CMSE, OMSE, CISR, CASR) and hands-on labs. | <b>15% off all on-demand courses</b><br>`8KSECBLACKFRIDAY` · Nov&nbsp;20&nbsp;–&nbsp;Dec&nbsp;4 |
+| 💰 | **[8kSec Academy](https://academy.8ksec.io/)**<br>On-demand mobile and AI security training with five certification tracks (CAISR, CMSE, OMSE, CISR, CASR) and hands-on labs. | <b>15% off all on-demand courses</b><br>`BLACKFRIDAY15` · Nov&nbsp;20&nbsp;–&nbsp;Dec&nbsp;4 |
 | 💸 | **[Certificates.dev](https://certificates.dev/black-friday)**<br>Proctored developer certifications for Vue.js, Nuxt, React, Angular, JavaScript, TypeScript, Laravel and AI-Native development. | <b>Up to 60% off certification bundles, get certified with training included for $199</b><br>Sale prices applied automatically. Black Friday special: All Access Pass $999 instead of $5,000, with all framework certifications up to Mid level for 12 months, the AI-Native cert, a 3-week AI-Native bootcamp seat, 1 Senior cert and a free retake · Nov&nbsp;19&nbsp;–&nbsp;Dec&nbsp;2 |
 | 💸 | **[Unlearn](https://unlearn.dev/pricing)**<br>Courses, workflows and agent skills that teach developers to spec, build, review and ship with AI agents. | <b>56% off Unlearn Plus Lifetime, $399 once (was $899)</b><br>Sale prices applied automatically. Black Friday special: one pass opens everything for $999 (total value $2,895), with lifetime Unlearn.dev, mid-level and senior certs in a framework of your choice, the AI-Native cert and a 3-week live AI Bootcamp · Nov&nbsp;19&nbsp;–&nbsp;Dec&nbsp;2 |
+| 💰 | **[Android App Hacking Mastery](https://training.byteblind.com/products/courses/android-app-hacking)**<br>Android app pentesting course for pentesters and bug bounty hunters: 55 lessons, vulnerable APKs and lifetime access. | <b>40% off ($149 → $89.40)</b><br>`BYTENOV40` · 7-day refund guarantee. Ends Nov 30. · until&nbsp;Nov&nbsp;30 |
 
 <p align="right"><a href="#categories">↑ Categories</a></p>
 
@@ -964,7 +965,7 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 
 No deals yet in Books. [Add the first one](https://blackfriday.mariuslandwehr.com/submit/).
 
-<!-- DEALS:END checksum:5a3e02083e69 -->
+<!-- DEALS:END checksum:890f19a5d0f3 -->
 
 ## Add your deal
 
