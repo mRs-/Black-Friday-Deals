@@ -19,9 +19,9 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 
 ## Categories
 
-**751 deals** in 21 categories. 💸 marks 50% off or more, 💰 less than 50%.
+**753 deals** in 21 categories. 💸 marks 50% off or more, 💰 less than 50%.
 
-🛠&nbsp;[Development Software](#development-software)&nbsp;`92` · 🤖&nbsp;[AI Tools](#ai-tools)&nbsp;`70` · 🌈&nbsp;[Marketing Software](#marketing-software)&nbsp;`25` · 🎩&nbsp;[Security Software](#security-software)&nbsp;`29` · 🎛&nbsp;[Utility Software](#utility-software)&nbsp;`148` · 📌&nbsp;[Productivity Software](#productivity-software)&nbsp;`134` · 🎥&nbsp;[Video Software](#video-software)&nbsp;`45` · 🎨&nbsp;[Graphic Software](#graphic-software)&nbsp;`47` · 🏝️&nbsp;[Lifestyle](#lifestyle)&nbsp;`26` · 🗣️&nbsp;[Social](#social)&nbsp;`9` · 🎓&nbsp;[Reference & Education](#reference--education)&nbsp;`15` · 👩‍🎓&nbsp;[Courses and Videos](#courses-and-videos)&nbsp;`17` · 📈&nbsp;[Business Software](#business-software)&nbsp;`16` · 🏃🏻‍♀️&nbsp;[Health & Fitness Software](#health--fitness-software)&nbsp;`26` · 🎁&nbsp;[Bundles](#bundles)&nbsp;`5` · 🎶&nbsp;[Creative Content](#creative-content)&nbsp;`4` · 🤑&nbsp;[Finance](#finance)&nbsp;`18` · 🗺️&nbsp;[Navigation](#navigation)&nbsp;`3` · 🔎&nbsp;[SEO](#seo)&nbsp;`16` · 🏡&nbsp;[Home Automation](#home-automation)&nbsp;`1` · 🕹&nbsp;[Games](#games)&nbsp;`5`
+🛠&nbsp;[Development Software](#development-software)&nbsp;`92` · 🤖&nbsp;[AI Tools](#ai-tools)&nbsp;`70` · 🌈&nbsp;[Marketing Software](#marketing-software)&nbsp;`25` · 🎩&nbsp;[Security Software](#security-software)&nbsp;`29` · 🎛&nbsp;[Utility Software](#utility-software)&nbsp;`150` · 📌&nbsp;[Productivity Software](#productivity-software)&nbsp;`134` · 🎥&nbsp;[Video Software](#video-software)&nbsp;`45` · 🎨&nbsp;[Graphic Software](#graphic-software)&nbsp;`47` · 🏝️&nbsp;[Lifestyle](#lifestyle)&nbsp;`26` · 🗣️&nbsp;[Social](#social)&nbsp;`9` · 🎓&nbsp;[Reference & Education](#reference--education)&nbsp;`15` · 👩‍🎓&nbsp;[Courses and Videos](#courses-and-videos)&nbsp;`17` · 📈&nbsp;[Business Software](#business-software)&nbsp;`16` · 🏃🏻‍♀️&nbsp;[Health & Fitness Software](#health--fitness-software)&nbsp;`26` · 🎁&nbsp;[Bundles](#bundles)&nbsp;`5` · 🎶&nbsp;[Creative Content](#creative-content)&nbsp;`4` · 🤑&nbsp;[Finance](#finance)&nbsp;`18` · 🗺️&nbsp;[Navigation](#navigation)&nbsp;`3` · 🔎&nbsp;[SEO](#seo)&nbsp;`16` · 🏡&nbsp;[Home Automation](#home-automation)&nbsp;`1` · 🕹&nbsp;[Games](#games)&nbsp;`5`
 
 <a id="development-software"></a>
 
@@ -429,6 +429,8 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 | 💰 | **[Awakelet](https://tidyware.app/awakelet/?utm_source=mrsbf)**<br>Menu bar app that keeps your Mac awake for a set time, until an app quits or downloads finish, then lets it sleep or shuts it down. | <b>30% off: $9 → $6.30, one-time purchase</b><br>`BF2026` · Already applied when you click Buy on tidyware.app; macOS 14+; 14-day refund · Nov&nbsp;24&nbsp;–&nbsp;Dec&nbsp;1 |
 | 💰 | **[TwinSweep](https://tidyware.app/twinsweep/?utm_source=mrsbf)**<br>Find and clean duplicate files and photos, even in your Photos library, built to avoid deleting the wrong thing. Every clean-up can be undone. | <b>30% off: $19 → $13.30, one-time purchase</b><br>`BF2026` · Already applied when you click Buy on tidyware.app; macOS 14+; 14-day refund · Nov&nbsp;24&nbsp;–&nbsp;Dec&nbsp;1 |
 | 💰 | **[Pocket Screen - Window PiP](https://lp.toybird.com/en/pocket-screen/)**<br>Keep PDFs and tutorials in a floating view while you work on one Mac screen. Unlimited supports up to four views with no time limit. New in November: AI Monitor keeps a supported Codex or Claude Code conversation in view while working in another app. | <b>20% off Unlimited one-time purchase ($9.99 to $7.99 in the U.S.)</b><br>`MRSBF20` · One-time Unlimited IAP; U.S. price, local prices vary; first 500. [Redeem on the App Store](https://apps.apple.com/redeem?ctx=offercodes&id=6788211562&code=MRSBF20). Nov 27 00:00–Dec 1 23:59 PT. · Nov&nbsp;27&nbsp;–&nbsp;Dec&nbsp;1 |
+| 💰 | **[Backdrop](https://cindori.com/backdrop)**<br>Interactive live wallpapers for your Mac's Lock Screen and desktop that react to touch on the new MacBook Pro, clicks, a shake of your MacBook and music, plus thousands of community wallpapers. | <b>30% off Backdrop Lifetime: $20.99 instead of $29.99. Pay once, every update, forever.</b><br>Requires a Mac with Apple silicon and macOS 15 or later; interactive scenes need macOS 26. No code needed. · Nov&nbsp;24&nbsp;–&nbsp;Dec&nbsp;1 |
+| 💸 | **[Sensei](https://cindori.com/sensei)**<br>A system performance monitoring tool for the Mac: CPU, GPU, memory and battery at a glance, with storage tools built in. | <b>50% off: $29.50 instead of $59, or $14.50 for the first subscription year.</b><br>No code needed. Includes a free upgrade to Sensei 3 when it launches (Apple silicon, macOS 26+). · Nov&nbsp;24&nbsp;–&nbsp;Dec&nbsp;1 |
 
 <p align="right"><a href="#categories">↑ Categories</a></p>
 
@@ -965,7 +967,7 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 
 No deals yet in Books. [Add the first one](https://blackfriday.mariuslandwehr.com/submit/).
 
-<!-- DEALS:END checksum:890f19a5d0f3 -->
+<!-- DEALS:END checksum:23758b9644b0 -->
 
 ## Add your deal
 
