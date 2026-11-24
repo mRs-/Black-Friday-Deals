@@ -19,9 +19,9 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 
 ## Categories
 
-**725 deals** in 21 categories. 💸 marks 50% off or more, 💰 less than 50%.
+**728 deals** in 21 categories. 💸 marks 50% off or more, 💰 less than 50%.
 
-🛠&nbsp;[Development Software](#development-software)&nbsp;`89` · 🤖&nbsp;[AI Tools](#ai-tools)&nbsp;`66` · 🌈&nbsp;[Marketing Software](#marketing-software)&nbsp;`25` · 🎩&nbsp;[Security Software](#security-software)&nbsp;`28` · 🎛&nbsp;[Utility Software](#utility-software)&nbsp;`145` · 📌&nbsp;[Productivity Software](#productivity-software)&nbsp;`130` · 🎥&nbsp;[Video Software](#video-software)&nbsp;`45` · 🎨&nbsp;[Graphic Software](#graphic-software)&nbsp;`43` · 🏝️&nbsp;[Lifestyle](#lifestyle)&nbsp;`26` · 🗣️&nbsp;[Social](#social)&nbsp;`6` · 🎓&nbsp;[Reference & Education](#reference--education)&nbsp;`15` · 👩‍🎓&nbsp;[Courses and Videos](#courses-and-videos)&nbsp;`14` · 📈&nbsp;[Business Software](#business-software)&nbsp;`16` · 🏃🏻‍♀️&nbsp;[Health & Fitness Software](#health--fitness-software)&nbsp;`26` · 🎁&nbsp;[Bundles](#bundles)&nbsp;`5` · 🎶&nbsp;[Creative Content](#creative-content)&nbsp;`4` · 🤑&nbsp;[Finance](#finance)&nbsp;`18` · 🗺️&nbsp;[Navigation](#navigation)&nbsp;`3` · 🔎&nbsp;[SEO](#seo)&nbsp;`15` · 🏡&nbsp;[Home Automation](#home-automation)&nbsp;`1` · 🕹&nbsp;[Games](#games)&nbsp;`5`
+🛠&nbsp;[Development Software](#development-software)&nbsp;`89` · 🤖&nbsp;[AI Tools](#ai-tools)&nbsp;`66` · 🌈&nbsp;[Marketing Software](#marketing-software)&nbsp;`25` · 🎩&nbsp;[Security Software](#security-software)&nbsp;`28` · 🎛&nbsp;[Utility Software](#utility-software)&nbsp;`145` · 📌&nbsp;[Productivity Software](#productivity-software)&nbsp;`132` · 🎥&nbsp;[Video Software](#video-software)&nbsp;`45` · 🎨&nbsp;[Graphic Software](#graphic-software)&nbsp;`43` · 🏝️&nbsp;[Lifestyle](#lifestyle)&nbsp;`26` · 🗣️&nbsp;[Social](#social)&nbsp;`7` · 🎓&nbsp;[Reference & Education](#reference--education)&nbsp;`15` · 👩‍🎓&nbsp;[Courses and Videos](#courses-and-videos)&nbsp;`14` · 📈&nbsp;[Business Software](#business-software)&nbsp;`16` · 🏃🏻‍♀️&nbsp;[Health & Fitness Software](#health--fitness-software)&nbsp;`26` · 🎁&nbsp;[Bundles](#bundles)&nbsp;`5` · 🎶&nbsp;[Creative Content](#creative-content)&nbsp;`4` · 🤑&nbsp;[Finance](#finance)&nbsp;`18` · 🗺️&nbsp;[Navigation](#navigation)&nbsp;`3` · 🔎&nbsp;[SEO](#seo)&nbsp;`15` · 🏡&nbsp;[Home Automation](#home-automation)&nbsp;`1` · 🕹&nbsp;[Games](#games)&nbsp;`5`
 
 <a id="development-software"></a>
 
@@ -557,6 +557,8 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 | 💰 | **[AutoMailSender](https://automailsender.app/?utm_source=mRs-Black-Friday-Deals&utm_medium=deal-list&utm_campaign=bf26)**<br>Drop a file on your Mac and it is emailed to whoever you pick. First 25 emails free. | <b>40% off Unlimited (€9.99 → €5.99)</b><br>no code, the price drops in the Mac App Store (it varies by country); one-time purchase · Nov&nbsp;27&nbsp;–&nbsp;Nov&nbsp;30 |
 | 💰 | **[Cotypist](https://cotypist.app/blackfriday?utm_content=mrs-bf)**<br>Cotypist suggests the words you were about to type in virtually every Mac app, in your own voice, and runs entirely on your Mac. | <b>20% off the first year of Plus or Pro (~~$72~~ $57.60, ~~$108~~ $86.40)</b><br>Applied automatically, no code needed. First payment only: annual plans renew at the regular price, monthly plans get 20% off the first month. Free download with a 30-day Pro trial. · Nov&nbsp;26&nbsp;–&nbsp;Nov&nbsp;30 |
 | 💰 | **[Textlore](https://textlore.app/?ref=mrs-bf)**<br>Mac app that searches years of iMessage and WhatsApp history in seconds and pulls every book, show, restaurant and app friends recommended over text into 1 list. Everything stays on your Mac. | <b>30% off the one-time license</b><br>`BF2026` · one-time purchase, no account · Nov&nbsp;20&nbsp;–&nbsp;Dec&nbsp;1 |
+| 💰 | **[Taskito: To-Do List & Day Planner](https://taskito.io/download-app)**<br>Taskito is a perfect daily planner app which combines routines, tasks, events and reminders in one seamless timeline. Available on Android, iOS and Web with over 1 Million downloads. | <b>30% off lifetime plan</b><br>The app shows the discounted price automatically. No code needed. · Nov&nbsp;23&nbsp;–&nbsp;Dec&nbsp;1 |
+| 💰 | **[Note](https://apps.apple.com/app/note/id1602765272)**<br>For iPhone & iPad. Keep what you really care about in focus with this mini notes app & widget. It’s like a pinned note in its own app. | <b>40% off. One-time purchase.</b><br>The App Store shows the sale price. No code needed. · Nov&nbsp;19&nbsp;–&nbsp;Dec&nbsp;1 |
 
 <p align="right"><a href="#categories">↑ Categories</a></p>
 
@@ -713,6 +715,7 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 | 💸 | **[Roads Audio](https://roadsaudio.com/black-friday)**<br>Roads turns voice memos into conversations, so you and your friends stay close without needing to schedule a call. | <b>50% off Lifetime ($99.99 → $49.99)</b><br>one-time purchase; applied in the app, no code needed; US prices, local prices vary · Nov&nbsp;26&nbsp;–&nbsp;Dec&nbsp;1 |
 | 💸 | **[Meanwhile: Couple & BFF Widget](https://www.tappect.com/get/meanwhile)**<br>Share a photo each hour that lands on your partner's or best friend's home screen widget. Photos, videos and voice memos, no feed, no ads. iPhone and Android. From the team behind [Nutrify](https://nutrifytracker.com). | <b>Early Supporter: first year of Pro from $7.99 instead of $49.99 (up to 84% off)</b><br>New subscribers, while spots last. Tap 'Want to be an early supporter?' on the plans screen; applied in the app, no code. US prices; local prices vary. · until&nbsp;Dec&nbsp;31 |
 | 💰 | **[post2all](https://www.post2all.com/pricing?utm_source=mrs-bf&utm_medium=deal-list&utm_campaign=bfcm2026)**<br>Manage your socials with AI agents. A social media scheduler for X, LinkedIn, Instagram, TikTok, YouTube and 10 more networks that ChatGPT, Claude or any agent can use through the app, API, CLI or MCP. | <b>25% off the first year of any annual plan</b><br>`BFCM25` · Creator ~~$90~~ $67.50, Business ~~$190~~ $142.50, Agency ~~$390~~ $292.50 for the first year; renews at the normal annual price · Nov&nbsp;18&nbsp;–&nbsp;Dec&nbsp;7 |
+|  | **[<3: locket & couple widget](https://apps.apple.com/app/heart-locket-couple-widget/id6452191888)**<br>For iPhone. Create a shortcut widget for that one special person. Show their photo or icon in a widget on your Home or Lock Screen and, with one tap, open your conversation in the messaging app you use together. | <b>Free</b><br>Download from the App Store. No code needed. · Oct&nbsp;26&nbsp;–&nbsp;Dec&nbsp;31 |
 
 <p align="right"><a href="#categories">↑ Categories</a></p>
 
@@ -939,7 +942,7 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 
 No deals yet in Books. [Add the first one](https://blackfriday.mariuslandwehr.com/submit/).
 
-<!-- DEALS:END checksum:5f8048f2ede5 -->
+<!-- DEALS:END checksum:e12fbb7a48a9 -->
 
 ## Add your deal
 
