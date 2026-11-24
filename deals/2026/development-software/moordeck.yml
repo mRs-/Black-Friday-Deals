@@ -1,0 +1,9 @@
+name: "Moordeck"
+url: "https://moordeck.com/pricing"
+description: "Local-first anti-detect browser with isolated profiles and Zero-CDP AI agent control (Local MCP, CLI, Playwright). Free for 5 local profiles. macOS Apple Silicon & Linux x64 (Windows coming soon)."
+discount: "25% off Pro/Team Annual ($81/$261/yr) + Solo Lifetime $79"
+percent: 25
+code: "BF2026"
+terms: "Year 1 only, auto-applied on Pro ($108 → $81/yr) and Team ($348 → $261/yr) annual; renews at $108/$348/yr. Founding Solo Lifetime $129 → $79 one-time, first 200 seats."
+starts: "2026-11-24"
+ends: "2026-11-30"
