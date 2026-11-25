@@ -19,9 +19,9 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 
 ## Categories
 
-**803 deals** in 21 categories. 💸 marks 50% off or more, 💰 less than 50%.
+**805 deals** in 21 categories. 💸 marks 50% off or more, 💰 less than 50%.
 
-🛠&nbsp;[Development Software](#development-software)&nbsp;`96` · 🤖&nbsp;[AI Tools](#ai-tools)&nbsp;`74` · 🌈&nbsp;[Marketing Software](#marketing-software)&nbsp;`27` · 🎩&nbsp;[Security Software](#security-software)&nbsp;`30` · 🎛&nbsp;[Utility Software](#utility-software)&nbsp;`159` · 📌&nbsp;[Productivity Software](#productivity-software)&nbsp;`140` · 🎥&nbsp;[Video Software](#video-software)&nbsp;`48` · 🎨&nbsp;[Graphic Software](#graphic-software)&nbsp;`49` · 🏝️&nbsp;[Lifestyle](#lifestyle)&nbsp;`28` · 🗣️&nbsp;[Social](#social)&nbsp;`9` · 🎓&nbsp;[Reference & Education](#reference--education)&nbsp;`17` · 👩‍🎓&nbsp;[Courses and Videos](#courses-and-videos)&nbsp;`17` · 📈&nbsp;[Business Software](#business-software)&nbsp;`19` · 🏃🏻‍♀️&nbsp;[Health & Fitness Software](#health--fitness-software)&nbsp;`29` · 🎁&nbsp;[Bundles](#bundles)&nbsp;`5` · 🎶&nbsp;[Creative Content](#creative-content)&nbsp;`4` · 🤑&nbsp;[Finance](#finance)&nbsp;`18` · 🗺️&nbsp;[Navigation](#navigation)&nbsp;`3` · 🔎&nbsp;[SEO](#seo)&nbsp;`18` · 🏡&nbsp;[Home Automation](#home-automation)&nbsp;`2` · 🕹&nbsp;[Games](#games)&nbsp;`11`
+🛠&nbsp;[Development Software](#development-software)&nbsp;`96` · 🤖&nbsp;[AI Tools](#ai-tools)&nbsp;`74` · 🌈&nbsp;[Marketing Software](#marketing-software)&nbsp;`27` · 🎩&nbsp;[Security Software](#security-software)&nbsp;`30` · 🎛&nbsp;[Utility Software](#utility-software)&nbsp;`160` · 📌&nbsp;[Productivity Software](#productivity-software)&nbsp;`141` · 🎥&nbsp;[Video Software](#video-software)&nbsp;`48` · 🎨&nbsp;[Graphic Software](#graphic-software)&nbsp;`49` · 🏝️&nbsp;[Lifestyle](#lifestyle)&nbsp;`28` · 🗣️&nbsp;[Social](#social)&nbsp;`9` · 🎓&nbsp;[Reference & Education](#reference--education)&nbsp;`17` · 👩‍🎓&nbsp;[Courses and Videos](#courses-and-videos)&nbsp;`17` · 📈&nbsp;[Business Software](#business-software)&nbsp;`19` · 🏃🏻‍♀️&nbsp;[Health & Fitness Software](#health--fitness-software)&nbsp;`29` · 🎁&nbsp;[Bundles](#bundles)&nbsp;`5` · 🎶&nbsp;[Creative Content](#creative-content)&nbsp;`4` · 🤑&nbsp;[Finance](#finance)&nbsp;`18` · 🗺️&nbsp;[Navigation](#navigation)&nbsp;`3` · 🔎&nbsp;[SEO](#seo)&nbsp;`18` · 🏡&nbsp;[Home Automation](#home-automation)&nbsp;`2` · 🕹&nbsp;[Games](#games)&nbsp;`11`
 
 <a id="development-software"></a>
 
@@ -451,6 +451,7 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 | 💸 | **[Flurotron](https://apps.apple.com/us/app/flurotron/id6822368934)**<br>Turns your Mac into a glowing '90s hi-fi spectrum analyzer that reacts to anything your Mac plays. | <b>60% off ($4.99 → $1.99), one-time purchase</b><br>Sale price applied automatically on the Mac App Store. Requires macOS 14.2 or later. · Nov&nbsp;23&nbsp;–&nbsp;Dec&nbsp;2 |
 | 💰 | **[ByteByson](https://bytebyson.acgao.com/?ref=bfdeals&utm_source=bfdeals&utm_medium=app-index&utm_campaign=bfcm-2026)**<br>Move files on your Mac with queued transfers, saved connections, and Mac-to-Mac sharing. A 30-day trial, then a one-time unlock. | <b>40% off, $8 → $4.80</b><br>`BF26-BYTEBYSON` · one-time purchase · Nov&nbsp;24&nbsp;–&nbsp;Dec&nbsp;1 |
 | 💸 | **[Dockspace](https://getdock.space/#pricing)**<br>Native Swift macOS Dock replacement and Liquid Glass widget bar with 174 live widgets, Claude Code/Codex/Antigravity quotas, Disk Doctor cleaner, and a notch clipboard shelf. | <b>50% off all Pro plans: Lifetime ~~$19.99~~ $9.99, Forever ~~$49.99~~ $24.99</b><br>`BLACKFRIDAY2026` · Auto-applied at checkout (10 widgets free forever). Lifetime $9.99–$17.49 (1–3 Macs), Forever $24.99 (5 Macs), One Year $5.99 first year (renews at $11.99/yr). 14-day refund. · Nov&nbsp;18&nbsp;–&nbsp;Dec&nbsp;1 |
+| 💰 | **[Screen Folders](https://screenfolders.delitx.dev/pricing)**<br>Keeps real Finder folders on your Mac desktop as compact tiles that expand into a file grid when you hover over them. Drag and drop, Quick Look and multiple displays. | <b>33% off lifetime access (~~$15~~ $10)</b><br>Direct download edition, no code needed, one-time purchase, 14-day free trial, macOS 26 or later. Sale ends Dec 1 at 12:00 UTC. · Nov&nbsp;27&nbsp;–&nbsp;Dec&nbsp;1 |
 
 <p align="right"><a href="#categories">↑ Categories</a></p>
 
@@ -600,6 +601,7 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 | 💸 | **[Cadence](https://apps.apple.com/us/app/cadence-weekly-planner/id6788758180)**<br>A calm weekly planner for Mac and iPhone: lay the week out day by day, roll over what did not get done, sync with iCloud. | <b>Mac ~~$19.99~~ $9.99, iPhone and iPad ~~$9.99~~ $4.99</b><br>Automatically applied: the sale price is set on the App Store, no code. US price; other countries see the local equivalent. All nine Yuzool deals: [yuzool.com/apps/black-friday.html](https://www.yuzool.com/apps/black-friday.html) · Nov&nbsp;25&nbsp;–&nbsp;Dec&nbsp;2 |
 | 💸 | **[Suzume Mail](https://apps.apple.com/us/app/suzume-mail/id6771950111)**<br>Email for Mac, iPhone and iPad that reads like a chat, with on-device summaries and reply help. Works with your existing accounts over IMAP. | <b>One unlock for all devices ~~$19.99~~ $9.99</b><br>Automatically applied: the sale price is set on the App Store, no code. US price; other countries see the local equivalent. All nine Yuzool deals: [yuzool.com/apps/black-friday.html](https://www.yuzool.com/apps/black-friday.html) · Nov&nbsp;25&nbsp;–&nbsp;Dec&nbsp;2 |
 | 💸 | **[shepetal](https://shepetal.app/blog/black-friday-dictation-note-taking-deals?ref=mrs-black-friday-deals)**<br>Dictation and meeting notes for the Mac that run on your Mac. Speech recognition works offline. Needs Apple silicon and macOS 14.4 or later. | <b>80% off the lifetime license (€24 → €4.80 once)</b><br>`BLACKFRIDAY` · Sign in at shepetal.app/account, type the code in the Code field of the one-time price, then Buy once; 30-day free trial · Nov&nbsp;24&nbsp;–&nbsp;Nov&nbsp;30 |
+| 💸 | **[Kiri Focus Timer](https://project-kiri.com/pricing?utm_source=mrsbf)**<br>Focus timer for your laptop in one browser tab: a dial for focus and breaks, a task list and ten background sounds (rain, café, brown noise…) that go quiet at the break. Free timer, no account needed. | <b>50% off the pay-once Lifetime licence (~~€39~~ €19.50)</b><br>`BF2026` · One-time payment, no subscription; enter the code at checkout · Nov&nbsp;25&nbsp;–&nbsp;Dec&nbsp;1 |
 
 <p align="right"><a href="#categories">↑ Categories</a></p>
 
@@ -1017,7 +1019,7 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 
 No deals yet in Books. [Add the first one](https://blackfriday.mariuslandwehr.com/submit/).
 
-<!-- DEALS:END checksum:9d40775df321 -->
+<!-- DEALS:END checksum:0c1713fbc839 -->
 
 ## Add your deal
 
