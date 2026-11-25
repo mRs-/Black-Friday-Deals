@@ -1,7 +1,9 @@
 name: "Hardcopy"
 url: "https://gethardcopy.app"
-description: "Mac app that backs up your iCloud Photos library to your own drive, verifies every file with SHA-256, then (only if you choose) removes older photos from iCloud so you can drop to a smaller iCloud plan."
-discount: "Launch price ~~$24.99~~ **$8.99**, one-time purchase"
-percent: 64
-terms: "No code needed; the price rises as each launch batch sells out. One licence covers 3 Macs; 30-day refund. macOS 15+ on M-series Macs."
-starts: "2026-11-21"
+description: "Mac app that backs up your iCloud Photos library to your own drive as plain files, checks every file with SHA-256, then optionally frees up iCloud after re-checking. macOS 15+, Apple silicon and Intel."
+discount: "Black Friday: ~~$14.99~~ **$5.99** (60% off), one-time purchase"
+percent: 60
+code: "BF2026"
+terms: "Applied automatically from the Buy button on gethardcopy.app. One licence covers 3 Macs; 30-day refund."
+starts: "2026-11-25"
+ends: "2026-12-01"
