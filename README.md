@@ -19,9 +19,9 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 
 ## Categories
 
-**851 deals** in 22 categories. 💸 marks 50% off or more, 💰 less than 50%.
+**852 deals** in 22 categories. 💸 marks 50% off or more, 💰 less than 50%.
 
-🛠&nbsp;[Development Software](#development-software)&nbsp;`97` · 🤖&nbsp;[AI Tools](#ai-tools)&nbsp;`80` · 🌈&nbsp;[Marketing Software](#marketing-software)&nbsp;`32` · 🎩&nbsp;[Security Software](#security-software)&nbsp;`30` · 🎛&nbsp;[Utility Software](#utility-software)&nbsp;`166` · 📌&nbsp;[Productivity Software](#productivity-software)&nbsp;`146` · 🎥&nbsp;[Video Software](#video-software)&nbsp;`49` · 🎨&nbsp;[Graphic Software](#graphic-software)&nbsp;`52` · 🏝️&nbsp;[Lifestyle](#lifestyle)&nbsp;`30` · 🗣️&nbsp;[Social](#social)&nbsp;`9` · 🎓&nbsp;[Reference & Education](#reference--education)&nbsp;`17` · 📖&nbsp;[Books](#books)&nbsp;`1` · 👩‍🎓&nbsp;[Courses and Videos](#courses-and-videos)&nbsp;`17` · 📈&nbsp;[Business Software](#business-software)&nbsp;`24` · 🏃🏻‍♀️&nbsp;[Health & Fitness Software](#health--fitness-software)&nbsp;`31` · 🎁&nbsp;[Bundles](#bundles)&nbsp;`5` · 🎶&nbsp;[Creative Content](#creative-content)&nbsp;`8` · 🤑&nbsp;[Finance](#finance)&nbsp;`18` · 🗺️&nbsp;[Navigation](#navigation)&nbsp;`3` · 🔎&nbsp;[SEO](#seo)&nbsp;`23` · 🏡&nbsp;[Home Automation](#home-automation)&nbsp;`2` · 🕹&nbsp;[Games](#games)&nbsp;`11`
+🛠&nbsp;[Development Software](#development-software)&nbsp;`98` · 🤖&nbsp;[AI Tools](#ai-tools)&nbsp;`80` · 🌈&nbsp;[Marketing Software](#marketing-software)&nbsp;`32` · 🎩&nbsp;[Security Software](#security-software)&nbsp;`30` · 🎛&nbsp;[Utility Software](#utility-software)&nbsp;`166` · 📌&nbsp;[Productivity Software](#productivity-software)&nbsp;`146` · 🎥&nbsp;[Video Software](#video-software)&nbsp;`49` · 🎨&nbsp;[Graphic Software](#graphic-software)&nbsp;`52` · 🏝️&nbsp;[Lifestyle](#lifestyle)&nbsp;`30` · 🗣️&nbsp;[Social](#social)&nbsp;`9` · 🎓&nbsp;[Reference & Education](#reference--education)&nbsp;`17` · 📖&nbsp;[Books](#books)&nbsp;`1` · 👩‍🎓&nbsp;[Courses and Videos](#courses-and-videos)&nbsp;`17` · 📈&nbsp;[Business Software](#business-software)&nbsp;`24` · 🏃🏻‍♀️&nbsp;[Health & Fitness Software](#health--fitness-software)&nbsp;`31` · 🎁&nbsp;[Bundles](#bundles)&nbsp;`5` · 🎶&nbsp;[Creative Content](#creative-content)&nbsp;`8` · 🤑&nbsp;[Finance](#finance)&nbsp;`18` · 🗺️&nbsp;[Navigation](#navigation)&nbsp;`3` · 🔎&nbsp;[SEO](#seo)&nbsp;`23` · 🏡&nbsp;[Home Automation](#home-automation)&nbsp;`2` · 🕹&nbsp;[Games](#games)&nbsp;`11`
 
 <a id="development-software"></a>
 
@@ -126,6 +126,7 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 | 💰 | **[ShadcnStore](https://shadcnstore.com/pricing?utm_source=mrs-black-friday&utm_medium=deal-list&utm_campaign=cyber-week-2026)**<br>Production-ready shadcn/ui blocks, pages and templates on Base UI, installed with the shadcn CLI, plus a Figma kit. One-time payment, lifetime updates. | <b>40% off every plan and template: Pro ~~$149~~ $89, Starter ~~$99~~ $59</b><br>Applied automatically at checkout, no code needed. Ends Dec 1, 11:59 PM PT. · Nov&nbsp;21&nbsp;–&nbsp;Dec&nbsp;1 |
 | 💸 | **[Mopup](https://mopup.online/?ref=blackfriday-mrs)**<br>Mac cleaner that knows developer leftovers: build caches, old node_modules, merged git worktrees, Docker data and dev servers coding agents left running. Also caches, duplicates and old apps. Free to scan. | <b>Lifetime license ~~$19.99~~ **$9.99**, one payment for every Mac you own</b><br>`BF2026` · Applied automatically at checkout on mopup.online. One-time purchase with every update, no subscription, no account. Free to scan and to clean your first 2 GB. · Nov&nbsp;24&nbsp;–&nbsp;Nov&nbsp;30 |
 | 💰 | **[GridPin](https://gridpin.dev/buy#snapshot)**<br>Offline geocoder for 13 countries: one file per country, no API key, addresses never leave your machine. CLI, Python, DuckDB and MCP. Open-source engine. | <b>40% off the one-time Snapshot: ~~$199~~ $119</b><br>November 2026 build of all 13 countries, the files are yours to keep. Applied automatically, no code. Paid in USDC. · Nov&nbsp;25&nbsp;–&nbsp;Dec&nbsp;1 |
+| 💰 | **[VimNinja](https://www.vimninja.com/upgrade)**<br>Learn Vim by typing it, not reading about it: short interactive lessons in a real Vim editor that runs in your browser. The first 13 chapters are free, no sign-up. | <b>Lifetime Pro ~~$29~~ $19, one payment for all 82 chapters</b><br>Applied automatically, no code. Lower in countries with regional pricing. 30-day refund. Ends Nov 30, 11:59 pm PT. · Nov&nbsp;25&nbsp;–&nbsp;Nov&nbsp;30 |
 
 <p align="right"><a href="#categories">↑ Categories</a></p>
 
@@ -1072,7 +1073,7 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 
 <p align="right"><a href="#categories">↑ Categories</a></p>
 
-<!-- DEALS:END checksum:4e484fa49eb1 -->
+<!-- DEALS:END checksum:c0c5b495e269 -->
 
 ## Add your deal
 
