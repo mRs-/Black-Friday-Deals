@@ -19,9 +19,9 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 
 ## Categories
 
-**805 deals** in 21 categories. 💸 marks 50% off or more, 💰 less than 50%.
+**807 deals** in 21 categories. 💸 marks 50% off or more, 💰 less than 50%.
 
-🛠&nbsp;[Development Software](#development-software)&nbsp;`96` · 🤖&nbsp;[AI Tools](#ai-tools)&nbsp;`74` · 🌈&nbsp;[Marketing Software](#marketing-software)&nbsp;`27` · 🎩&nbsp;[Security Software](#security-software)&nbsp;`30` · 🎛&nbsp;[Utility Software](#utility-software)&nbsp;`160` · 📌&nbsp;[Productivity Software](#productivity-software)&nbsp;`141` · 🎥&nbsp;[Video Software](#video-software)&nbsp;`48` · 🎨&nbsp;[Graphic Software](#graphic-software)&nbsp;`49` · 🏝️&nbsp;[Lifestyle](#lifestyle)&nbsp;`28` · 🗣️&nbsp;[Social](#social)&nbsp;`9` · 🎓&nbsp;[Reference & Education](#reference--education)&nbsp;`17` · 👩‍🎓&nbsp;[Courses and Videos](#courses-and-videos)&nbsp;`17` · 📈&nbsp;[Business Software](#business-software)&nbsp;`19` · 🏃🏻‍♀️&nbsp;[Health & Fitness Software](#health--fitness-software)&nbsp;`29` · 🎁&nbsp;[Bundles](#bundles)&nbsp;`5` · 🎶&nbsp;[Creative Content](#creative-content)&nbsp;`4` · 🤑&nbsp;[Finance](#finance)&nbsp;`18` · 🗺️&nbsp;[Navigation](#navigation)&nbsp;`3` · 🔎&nbsp;[SEO](#seo)&nbsp;`18` · 🏡&nbsp;[Home Automation](#home-automation)&nbsp;`2` · 🕹&nbsp;[Games](#games)&nbsp;`11`
+🛠&nbsp;[Development Software](#development-software)&nbsp;`96` · 🤖&nbsp;[AI Tools](#ai-tools)&nbsp;`75` · 🌈&nbsp;[Marketing Software](#marketing-software)&nbsp;`27` · 🎩&nbsp;[Security Software](#security-software)&nbsp;`30` · 🎛&nbsp;[Utility Software](#utility-software)&nbsp;`160` · 📌&nbsp;[Productivity Software](#productivity-software)&nbsp;`141` · 🎥&nbsp;[Video Software](#video-software)&nbsp;`48` · 🎨&nbsp;[Graphic Software](#graphic-software)&nbsp;`50` · 🏝️&nbsp;[Lifestyle](#lifestyle)&nbsp;`28` · 🗣️&nbsp;[Social](#social)&nbsp;`9` · 🎓&nbsp;[Reference & Education](#reference--education)&nbsp;`17` · 👩‍🎓&nbsp;[Courses and Videos](#courses-and-videos)&nbsp;`17` · 📈&nbsp;[Business Software](#business-software)&nbsp;`19` · 🏃🏻‍♀️&nbsp;[Health & Fitness Software](#health--fitness-software)&nbsp;`29` · 🎁&nbsp;[Bundles](#bundles)&nbsp;`5` · 🎶&nbsp;[Creative Content](#creative-content)&nbsp;`4` · 🤑&nbsp;[Finance](#finance)&nbsp;`18` · 🗺️&nbsp;[Navigation](#navigation)&nbsp;`3` · 🔎&nbsp;[SEO](#seo)&nbsp;`18` · 🏡&nbsp;[Home Automation](#home-automation)&nbsp;`2` · 🕹&nbsp;[Games](#games)&nbsp;`11`
 
 <a id="development-software"></a>
 
@@ -208,6 +208,7 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 |  | **[OnBuzz](https://onbuzz.loxia.ai/surprise/lULhJM9vUvF0MY9vIEcNAWj-?utm_source=mrsbf&utm_campaign=bf2026)**<br>A small team of AI agents with their own roles, tools and models that hand work to each other, in the browser or as a desktop app. | <b>Black Friday gift box: every signed-in account opens one free surprise gift (800 in total), on top of the free plan with 100K credits and no card.</b><br>Sign in and open the gift box at the link. No code needed. One gift per account while they last. · Nov&nbsp;24&nbsp;–&nbsp;Dec&nbsp;4 |
 |  | **[Kollab](https://kollab.im/black-friday)**<br>One shared AI workspace for your team — all major models, 1,000+ apps, unlimited seats, one credit pool. Agents research, create, publish and report on a schedule across 1,000+ connected apps. | <b>Annual Pro $168/yr (reg. $216), Max $1,680/yr (reg. $2,160), plus 15% off all credit packs</b><br>Auto-applied at checkout, no code needed, no quantity limit. Credit packs never expire, e.g. 15,000 credits $42.50 (reg. $50). Paid workspaces can buy credit packs directly; free workspaces must upgrade first. · Nov&nbsp;24&nbsp;–&nbsp;Nov&nbsp;30 |
 | 💰 | **[ClaudeKit](https://claudekit.app/pricing?utm_source=mrs-bf&utm_medium=directory&utm_campaign=bf-2026)**<br>Chrome and Edge extension for claude.ai: a live usage circle with the exact limit reset time, a heads-up at 90%, chat forks, pins and a prompt library. Independent, not made by Anthropic. | <b>First year of Pro annual $28 → $20</b><br>Applied automatically at checkout, no code. Renews at $28/year. Every install also gets a 7-day Pro trial, no card. Ends 07:59 UTC on Dec 2. · Nov&nbsp;24&nbsp;–&nbsp;Dec&nbsp;2 |
+| 💰 | **[Meboki](https://meboki.com/?ref=mrs-bf-deals#pricing)**<br>Native, open-source Mac grammar checker that works offline. Checks English as you type in any app with a model that runs on your Mac, so your text never leaves it. Underlines mistakes and fixes them in place. | <b>$10 off the one-time license ($39 → $29 for 1 Mac)</b><br>Applied automatically at checkout, no code needed. One-time purchase, no subscription; every future update included. 7-day free trial, no account. Apple silicon, macOS 14+. Ends Dec 1, Pacific time. · Nov&nbsp;21&nbsp;–&nbsp;Dec&nbsp;1 |
 
 <p align="right"><a href="#categories">↑ Categories</a></p>
 
@@ -717,6 +718,7 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 | 💰 | **[Kompressor](https://apps.apple.com/app/apple-store/id6468196574?pt=123127751&ct=blackfriday.mariuslandwehr.com&mt=8)**<br>Fast image converter for Mac: convert, compress and resize 50+ formats like HEIC, WebP, AVIF and RAW, fully offline. | <b>47% off the Lifetime unlock ($14 → $7.49)</b><br>`INDIEAPPSALES2026` · one-time in-app purchase on the Mac App Store; redeem the offer code in the App Store; US price, local prices vary · Nov&nbsp;27&nbsp;–&nbsp;Dec&nbsp;1 |
 | 💰 | **[FrameFerret](https://frameferret.acgao.com/?ref=bfdeals&utm_source=bfdeals&utm_medium=app-index&utm_campaign=bfcm-2026)**<br>Import photos and videos from compatible Sony cameras to Apple Photos or a folder on your Mac, over Wi-Fi. A 30-day trial, then a one-time unlock. | <b>40% off, $12 → $7.20</b><br>`BF26-FRAMEFERRET` · one-time purchase · Nov&nbsp;24&nbsp;–&nbsp;Dec&nbsp;1 |
 | 💰 | **[FolioSort](https://www.foliosort.app/pricing?utm_source=mrs-bf&utm_medium=deal-list&utm_campaign=bf2026)**<br>Photo organizer for Mac and Windows: sorts photos and videos by real EXIF date, camera and place, repairs Google Photos Takeout exports, cleans duplicates and searches your library with on-device AI. No import. | <b>25% off the Elite one-time license, ~~€39.99~~ €29.99</b><br>`BLACKFRIDAY` · applied automatically on the pricing page; one-time purchase, the same license works on Mac and Windows; free version available · Nov&nbsp;26&nbsp;–&nbsp;Nov&nbsp;30 |
+| 💰 | **[A1](https://www.a1.gallery/pricing?utm_source=mrsbf&utm_medium=directory&utm_campaign=bf2026)**<br>A hand-picked gallery of real, live websites for design inspiration. Browse sites, sections and full pages with the fonts, colours and spacing each one uses. | <b>33% off A1 Pro yearly ($72 → $48 a year)</b><br>Applied automatically at checkout, no code needed; new yearly plans; you keep the price for as long as you stay subscribed · Nov&nbsp;19&nbsp;–&nbsp;Nov&nbsp;30 |
 
 <p align="right"><a href="#categories">↑ Categories</a></p>
 
@@ -1019,7 +1021,7 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 
 No deals yet in Books. [Add the first one](https://blackfriday.mariuslandwehr.com/submit/).
 
-<!-- DEALS:END checksum:0c1713fbc839 -->
+<!-- DEALS:END checksum:e2681ec359ce -->
 
 ## Add your deal
 
