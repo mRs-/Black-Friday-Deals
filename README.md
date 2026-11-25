@@ -19,9 +19,9 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 
 ## Categories
 
-**875 deals** in 22 categories. 💸 marks 50% off or more, 💰 less than 50%.
+**877 deals** in 22 categories. 💸 marks 50% off or more, 💰 less than 50%.
 
-🛠&nbsp;[Development Software](#development-software)&nbsp;`100` · 🤖&nbsp;[AI Tools](#ai-tools)&nbsp;`81` · 🌈&nbsp;[Marketing Software](#marketing-software)&nbsp;`32` · 🎩&nbsp;[Security Software](#security-software)&nbsp;`30` · 🎛&nbsp;[Utility Software](#utility-software)&nbsp;`173` · 📌&nbsp;[Productivity Software](#productivity-software)&nbsp;`151` · 🎥&nbsp;[Video Software](#video-software)&nbsp;`49` · 🎨&nbsp;[Graphic Software](#graphic-software)&nbsp;`52` · 🏝️&nbsp;[Lifestyle](#lifestyle)&nbsp;`30` · 🗣️&nbsp;[Social](#social)&nbsp;`9` · 🎓&nbsp;[Reference & Education](#reference--education)&nbsp;`18` · 📖&nbsp;[Books](#books)&nbsp;`1` · 👩‍🎓&nbsp;[Courses and Videos](#courses-and-videos)&nbsp;`17` · 📈&nbsp;[Business Software](#business-software)&nbsp;`24` · 🏃🏻‍♀️&nbsp;[Health & Fitness Software](#health--fitness-software)&nbsp;`34` · 🎁&nbsp;[Bundles](#bundles)&nbsp;`5` · 🎶&nbsp;[Creative Content](#creative-content)&nbsp;`10` · 🤑&nbsp;[Finance](#finance)&nbsp;`18` · 🗺️&nbsp;[Navigation](#navigation)&nbsp;`3` · 🔎&nbsp;[SEO](#seo)&nbsp;`24` · 🏡&nbsp;[Home Automation](#home-automation)&nbsp;`2` · 🕹&nbsp;[Games](#games)&nbsp;`12`
+🛠&nbsp;[Development Software](#development-software)&nbsp;`101` · 🤖&nbsp;[AI Tools](#ai-tools)&nbsp;`81` · 🌈&nbsp;[Marketing Software](#marketing-software)&nbsp;`32` · 🎩&nbsp;[Security Software](#security-software)&nbsp;`30` · 🎛&nbsp;[Utility Software](#utility-software)&nbsp;`173` · 📌&nbsp;[Productivity Software](#productivity-software)&nbsp;`152` · 🎥&nbsp;[Video Software](#video-software)&nbsp;`49` · 🎨&nbsp;[Graphic Software](#graphic-software)&nbsp;`52` · 🏝️&nbsp;[Lifestyle](#lifestyle)&nbsp;`30` · 🗣️&nbsp;[Social](#social)&nbsp;`9` · 🎓&nbsp;[Reference & Education](#reference--education)&nbsp;`18` · 📖&nbsp;[Books](#books)&nbsp;`1` · 👩‍🎓&nbsp;[Courses and Videos](#courses-and-videos)&nbsp;`17` · 📈&nbsp;[Business Software](#business-software)&nbsp;`24` · 🏃🏻‍♀️&nbsp;[Health & Fitness Software](#health--fitness-software)&nbsp;`34` · 🎁&nbsp;[Bundles](#bundles)&nbsp;`5` · 🎶&nbsp;[Creative Content](#creative-content)&nbsp;`10` · 🤑&nbsp;[Finance](#finance)&nbsp;`18` · 🗺️&nbsp;[Navigation](#navigation)&nbsp;`3` · 🔎&nbsp;[SEO](#seo)&nbsp;`24` · 🏡&nbsp;[Home Automation](#home-automation)&nbsp;`2` · 🕹&nbsp;[Games](#games)&nbsp;`12`
 
 <a id="development-software"></a>
 
@@ -129,6 +129,7 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 | 💰 | **[VimNinja](https://www.vimninja.com/upgrade)**<br>Learn Vim by typing it, not reading about it: short interactive lessons in a real Vim editor that runs in your browser. The first 13 chapters are free, no sign-up. | <b>Lifetime Pro ~~$29~~ $19, one payment for all 82 chapters</b><br>Applied automatically, no code. Lower in countries with regional pricing. 30-day refund. Ends Nov 30, 11:59 pm PT. · Nov&nbsp;25&nbsp;–&nbsp;Nov&nbsp;30 |
 | 💸 | **[Uptimecheck](https://uptimecheck.com/pricing/?utm_source=mrs-bfdeals&utm_medium=deal-list&utm_campaign=black-week-2026)**<br>European uptime monitoring for websites, APIs, cron jobs, servers and domains from 6 locations, with status pages and alerts by email, Slack, Teams, SMS, phone call and push. | <b>70% off the first year on yearly plans: Start €108 → €29, Professional €348 → €99, Business €828 → €239</b><br>applied automatically at checkout, no code; yearly plans, first year; prices excl. VAT; free plan available · Nov&nbsp;25&nbsp;–&nbsp;Dec&nbsp;4 |
 | 💰 | **[Vibe Island](https://vibeisland.app)**<br>Native Swift app that puts your AI coding agents in the Mac notch. See what Claude Code, Codex and others are doing, approve requests or answer their questions there, and click to jump back to the right terminal. Out since March 2026, 50+ updates. | <b>40% off 1 Mac ($19.99 → $11.99), 2 Macs $21.99, 3 Macs $31.99. No code needed.</b><br>Price applied automatically at checkout. One-time purchase with 1 year of updates. Free trial in the app. Ends Dec 1, 11:59 PM PT. · Nov&nbsp;25&nbsp;–&nbsp;Dec&nbsp;1 |
+| 💰 | **[Beamfar](https://appsumo.com/pl/gIBdNAh2EM/)**<br>EU website & security monitoring (10 sites, 1-min checks, SSL/DNS/noindex alerts, leaked JS API keys, CISA KEV watch, client PDF reports, 16-tool MCP server). | <b>10% OFF Black Friday Lifetime Deal ($62.10 once, normally $69 / $216 retail)</b><br>Automatically applied on AppSumo Black Friday; ends Dec 1, noon CT (Dec 4 for AppSumo Plus). · Nov&nbsp;25&nbsp;–&nbsp;Dec&nbsp;1 |
 
 <p align="right"><a href="#categories">↑ Categories</a></p>
 
@@ -641,6 +642,7 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 | 💸 | **[Inky Habits](https://apps.apple.com/app/id6788409678)**<br>Mark the day's habit with a stamp. | <b>Free Lifetime unlock scheduled Nov 27–30, 2026 (regular price returns Dec 1, annual excluded)</b><br>Scheduled Nov 27–30, 2026 by local storefront date outside mainland China. Choose Lifetime in app and confirm $0 on the Apple sheet with no code. Annual plans excluded. · Nov&nbsp;27&nbsp;–&nbsp;Nov&nbsp;30 |
 | 💸 | **[OneScan](https://apps.apple.com/app/id6788495535)**<br>Scan a paper document and save it as a PDF. | <b>Free Lifetime unlock scheduled Nov 27–30, 2026 (regular price returns Dec 1, annual excluded)</b><br>Scheduled Nov 27–30, 2026 by local storefront date outside mainland China. Choose Lifetime in app and confirm $0 on the Apple sheet with no code. Annual plans excluded. · Nov&nbsp;27&nbsp;–&nbsp;Nov&nbsp;30 |
 | 💰 | **[Etona: Notes & Ideas](https://apps.apple.com/app/apple-store/id6761552424?pt=119217539&ct=bf-mrs&mt=8)**<br>A notes app for Mac, iPhone and iPad with no folders. Etona finds the themes running through your notes, writes a page for each where every sentence opens the note it came from, and answers questions from your notes. | <b>40% off the first year of Etona Pro Yearly ($49.99 → $29.99) with code ETONALAUNCH</b><br>`ETONALAUNCH` · US App Store. New and returning subscribers; new ones still get the 14-day free trial first. Then $49.99 a year. Writing is free. · Nov&nbsp;25&nbsp;–&nbsp;Dec&nbsp;7 |
+| 💰 | **[StickyPeels](https://munyala.pro/stickypeels/pricing)**<br>Sticky notes for Mac that remind you. Type "call mum 6pm" and it lands on your desktop with the reminder set; any sticky can grow into a full page. Free app, with a demo you can try in the browser. | <b>30% off the first year of Pro Yearly (~~$6.99~~ **$4.89**)</b><br>`BLACKFRIDAY30` · Pro Yearly only; enter the code at checkout; first 100 customers; renews at $6.99/yr. The app itself is free to download. · Nov&nbsp;25&nbsp;–&nbsp;Dec&nbsp;1 |
 
 <p align="right"><a href="#categories">↑ Categories</a></p>
 
@@ -1096,7 +1098,7 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 
 <p align="right"><a href="#categories">↑ Categories</a></p>
 
-<!-- DEALS:END checksum:7bf450573d23 -->
+<!-- DEALS:END checksum:e2da1c6c606f -->
 
 ## Add your deal
 
