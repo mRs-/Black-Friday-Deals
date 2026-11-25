@@ -19,9 +19,9 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 
 ## Categories
 
-**836 deals** in 22 categories. 💸 marks 50% off or more, 💰 less than 50%.
+**838 deals** in 22 categories. 💸 marks 50% off or more, 💰 less than 50%.
 
-🛠&nbsp;[Development Software](#development-software)&nbsp;`97` · 🤖&nbsp;[AI Tools](#ai-tools)&nbsp;`78` · 🌈&nbsp;[Marketing Software](#marketing-software)&nbsp;`30` · 🎩&nbsp;[Security Software](#security-software)&nbsp;`30` · 🎛&nbsp;[Utility Software](#utility-software)&nbsp;`162` · 📌&nbsp;[Productivity Software](#productivity-software)&nbsp;`144` · 🎥&nbsp;[Video Software](#video-software)&nbsp;`49` · 🎨&nbsp;[Graphic Software](#graphic-software)&nbsp;`52` · 🏝️&nbsp;[Lifestyle](#lifestyle)&nbsp;`30` · 🗣️&nbsp;[Social](#social)&nbsp;`9` · 🎓&nbsp;[Reference & Education](#reference--education)&nbsp;`17` · 📖&nbsp;[Books](#books)&nbsp;`1` · 👩‍🎓&nbsp;[Courses and Videos](#courses-and-videos)&nbsp;`17` · 📈&nbsp;[Business Software](#business-software)&nbsp;`23` · 🏃🏻‍♀️&nbsp;[Health & Fitness Software](#health--fitness-software)&nbsp;`30` · 🎁&nbsp;[Bundles](#bundles)&nbsp;`5` · 🎶&nbsp;[Creative Content](#creative-content)&nbsp;`8` · 🤑&nbsp;[Finance](#finance)&nbsp;`18` · 🗺️&nbsp;[Navigation](#navigation)&nbsp;`3` · 🔎&nbsp;[SEO](#seo)&nbsp;`20` · 🏡&nbsp;[Home Automation](#home-automation)&nbsp;`2` · 🕹&nbsp;[Games](#games)&nbsp;`11`
+🛠&nbsp;[Development Software](#development-software)&nbsp;`97` · 🤖&nbsp;[AI Tools](#ai-tools)&nbsp;`79` · 🌈&nbsp;[Marketing Software](#marketing-software)&nbsp;`30` · 🎩&nbsp;[Security Software](#security-software)&nbsp;`30` · 🎛&nbsp;[Utility Software](#utility-software)&nbsp;`162` · 📌&nbsp;[Productivity Software](#productivity-software)&nbsp;`145` · 🎥&nbsp;[Video Software](#video-software)&nbsp;`49` · 🎨&nbsp;[Graphic Software](#graphic-software)&nbsp;`52` · 🏝️&nbsp;[Lifestyle](#lifestyle)&nbsp;`30` · 🗣️&nbsp;[Social](#social)&nbsp;`9` · 🎓&nbsp;[Reference & Education](#reference--education)&nbsp;`17` · 📖&nbsp;[Books](#books)&nbsp;`1` · 👩‍🎓&nbsp;[Courses and Videos](#courses-and-videos)&nbsp;`17` · 📈&nbsp;[Business Software](#business-software)&nbsp;`23` · 🏃🏻‍♀️&nbsp;[Health & Fitness Software](#health--fitness-software)&nbsp;`30` · 🎁&nbsp;[Bundles](#bundles)&nbsp;`5` · 🎶&nbsp;[Creative Content](#creative-content)&nbsp;`8` · 🤑&nbsp;[Finance](#finance)&nbsp;`18` · 🗺️&nbsp;[Navigation](#navigation)&nbsp;`3` · 🔎&nbsp;[SEO](#seo)&nbsp;`20` · 🏡&nbsp;[Home Automation](#home-automation)&nbsp;`2` · 🕹&nbsp;[Games](#games)&nbsp;`11`
 
 <a id="development-software"></a>
 
@@ -213,6 +213,7 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 | 💰 | **[Rakazo](https://rakazo.com/black-friday/)**<br>Rakazo is an open source Grok Bot alternative for persistent AI teammates that do real work. Your keys, your model, your machine. | <b>30% off the first year of yearly plans (Standard $12 → $8.40/mo, Pro $39 → $27.30, Max $79 → $55.30, Ultra $159 → $111.30), 7-day free trial</b><br>`BLACKFRIDAY30` · New customers only, yearly plans, first year · Nov&nbsp;24&nbsp;–&nbsp;Nov&nbsp;30 |
 | 💰 | **[Whizi](https://whizi.io/pricing/?utm_source=mrs-bf-deals&utm_medium=deal-list&utm_campaign=bf2026)**<br>One subscription for Claude, ChatGPT, Gemini and other AI models, with image, video and music in the same chat. Web, iPhone and Android, no API keys. | <b>30% off the first year of any annual plan</b><br>Automatically applied at checkout on annual plans: Starter ~~$131.99~~ $92.39, Pro ~~$239.99~~ $167.99, Powerhouse ~~$419.99~~ $293.99; renews at the regular price; until Dec 24, 11:59 pm PT · Nov&nbsp;24&nbsp;–&nbsp;Dec&nbsp;24 |
 | 💸 | **[Zeptap](https://zeptap.com/pricing)**<br>Mac app that lets Claude, Codex or any MCP agent use your real iPhone and its apps. No Xcode, no developer account, nothing to install on the phone. | <b>50% off every plan: Lifetime $199 → $99 once, Lifetime Plus (up to 5 iPhones) $399 → $199 once, Monthly $49 → $25</b><br>Applied automatically, no code needed; free first hour to try before paying · until&nbsp;Dec&nbsp;1 |
+| 💰 | **[Spring Prompt](https://springprompt.com/plans)**<br>Two lines of code that test every LLM prompt in your app on other models and better wordings, and tell you when a cheaper model or a prompt fix would do the job. | <b>40% OFF the first 3 months of either plan: Basic $29.40/mo (was $49), Pro $120/mo (was $200)</b><br>`BF2026` · Monthly Basic or Pro plan; new subscriptions; prices in USD, excluding tax · Nov&nbsp;25&nbsp;–&nbsp;Dec&nbsp;1 |
 
 <p align="right"><a href="#categories">↑ Categories</a></p>
 
@@ -615,6 +616,7 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 | 💸 | **[bitPDF: PDF Editor & Local OCR](https://apps.apple.com/app/id6822129255)**<br>Mac PDF app that builds reusable client packets, checks the files before export and makes scans searchable with on-device OCR. | <b>50% off, $39.99 → $19.99</b><br>Mac App Store, one-time purchase, no code needed · Nov&nbsp;27&nbsp;–&nbsp;Nov&nbsp;30 |
 | 💸 | **[Hinokoe](https://apps.apple.com/app/id6824444380)**<br>Tap your Apple Watch to record your day. Your iPhone transcribes it on device, tells who said what, and writes each day as one page of a book. Audio is never uploaded to our servers. | <b>Full Version, one-time purchase: $9.99 → $4.99</b><br>Applied automatically in the App Store, no code needed. 7-day free trial; recording and on-device transcription stay free. · Nov&nbsp;27&nbsp;–&nbsp;Nov&nbsp;30 |
 | 💸 | **[MDash — Markdown to PDF](https://apps.apple.com/app/apple-store/id6792581826?pt=129192922&ct=bf26-mrs&mt=8)**<br>Native Mac app that turns Markdown into a typeset, print-ready PDF: smart page breaks, clickable links, wrapped code, fitted tables, a table of contents. Also exports to Word. Free 7-day trial. | <b>50% off the One-Time Unlock: $39.99 → $19.99</b><br>The Mac App Store shows the sale price on the One-Time Unlock. No code needed. · Nov&nbsp;25&nbsp;–&nbsp;Dec&nbsp;7 |
+| 💰 | **[Stepfinch](https://stepfinch.app/?utm_source=mrs-bf&utm_campaign=bf2026)**<br>Native Mac app that turns a task you do once into a step-by-step guide: press record, do the task, and every click becomes a step with a screenshot and written text, with private info blurred. Everything stays on your Mac. | <b>Lifetime license $39 → $29, no code needed</b><br>One payment, no subscription, every update, up to 3 Macs. Applied automatically at checkout. 3 guides free to try first. After Dec 1: $39. · Nov&nbsp;23&nbsp;–&nbsp;Dec&nbsp;1 |
 
 <p align="right"><a href="#categories">↑ Categories</a></p>
 
@@ -1057,7 +1059,7 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 
 <p align="right"><a href="#categories">↑ Categories</a></p>
 
-<!-- DEALS:END checksum:c474f096f512 -->
+<!-- DEALS:END checksum:de43602ec799 -->
 
 ## Add your deal
 
