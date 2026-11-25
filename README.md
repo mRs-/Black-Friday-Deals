@@ -19,9 +19,9 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 
 ## Categories
 
-**886 deals** in 22 categories. 💸 marks 50% off or more, 💰 less than 50%.
+**888 deals** in 22 categories. 💸 marks 50% off or more, 💰 less than 50%.
 
-🛠&nbsp;[Development Software](#development-software)&nbsp;`101` · 🤖&nbsp;[AI Tools](#ai-tools)&nbsp;`83` · 🌈&nbsp;[Marketing Software](#marketing-software)&nbsp;`32` · 🎩&nbsp;[Security Software](#security-software)&nbsp;`30` · 🎛&nbsp;[Utility Software](#utility-software)&nbsp;`174` · 📌&nbsp;[Productivity Software](#productivity-software)&nbsp;`156` · 🎥&nbsp;[Video Software](#video-software)&nbsp;`50` · 🎨&nbsp;[Graphic Software](#graphic-software)&nbsp;`52` · 🏝️&nbsp;[Lifestyle](#lifestyle)&nbsp;`30` · 🗣️&nbsp;[Social](#social)&nbsp;`9` · 🎓&nbsp;[Reference & Education](#reference--education)&nbsp;`18` · 📖&nbsp;[Books](#books)&nbsp;`1` · 👩‍🎓&nbsp;[Courses and Videos](#courses-and-videos)&nbsp;`17` · 📈&nbsp;[Business Software](#business-software)&nbsp;`24` · 🏃🏻‍♀️&nbsp;[Health & Fitness Software](#health--fitness-software)&nbsp;`34` · 🎁&nbsp;[Bundles](#bundles)&nbsp;`6` · 🎶&nbsp;[Creative Content](#creative-content)&nbsp;`10` · 🤑&nbsp;[Finance](#finance)&nbsp;`18` · 🗺️&nbsp;[Navigation](#navigation)&nbsp;`3` · 🔎&nbsp;[SEO](#seo)&nbsp;`24` · 🏡&nbsp;[Home Automation](#home-automation)&nbsp;`2` · 🕹&nbsp;[Games](#games)&nbsp;`12`
+🛠&nbsp;[Development Software](#development-software)&nbsp;`101` · 🤖&nbsp;[AI Tools](#ai-tools)&nbsp;`83` · 🌈&nbsp;[Marketing Software](#marketing-software)&nbsp;`32` · 🎩&nbsp;[Security Software](#security-software)&nbsp;`30` · 🎛&nbsp;[Utility Software](#utility-software)&nbsp;`175` · 📌&nbsp;[Productivity Software](#productivity-software)&nbsp;`156` · 🎥&nbsp;[Video Software](#video-software)&nbsp;`51` · 🎨&nbsp;[Graphic Software](#graphic-software)&nbsp;`52` · 🏝️&nbsp;[Lifestyle](#lifestyle)&nbsp;`30` · 🗣️&nbsp;[Social](#social)&nbsp;`9` · 🎓&nbsp;[Reference & Education](#reference--education)&nbsp;`18` · 📖&nbsp;[Books](#books)&nbsp;`1` · 👩‍🎓&nbsp;[Courses and Videos](#courses-and-videos)&nbsp;`17` · 📈&nbsp;[Business Software](#business-software)&nbsp;`24` · 🏃🏻‍♀️&nbsp;[Health & Fitness Software](#health--fitness-software)&nbsp;`34` · 🎁&nbsp;[Bundles](#bundles)&nbsp;`6` · 🎶&nbsp;[Creative Content](#creative-content)&nbsp;`10` · 🤑&nbsp;[Finance](#finance)&nbsp;`18` · 🗺️&nbsp;[Navigation](#navigation)&nbsp;`3` · 🔎&nbsp;[SEO](#seo)&nbsp;`24` · 🏡&nbsp;[Home Automation](#home-automation)&nbsp;`2` · 🕹&nbsp;[Games](#games)&nbsp;`12`
 
 <a id="development-software"></a>
 
@@ -485,6 +485,7 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 | 💸 | **[OneVoice](https://apps.apple.com/app/id6789639056)**<br>Record voice notes and get on-device transcription. | <b>Free Lifetime unlock scheduled Nov 27–30, 2026 (regular price returns Dec 1, annual excluded)</b><br>Scheduled Nov 27–30, 2026 by local storefront date outside mainland China. Choose Lifetime in app and confirm $0 on the Apple sheet with no code. Annual plans excluded. · Nov&nbsp;27&nbsp;–&nbsp;Nov&nbsp;30 |
 |  | **[EasySwitch](https://easyswitch.realbrain.cc/pricing)**<br>Software KVM for macOS, Windows and Linux: one keyboard and mouse across your computers on the local network, a shared clipboard and file transfer, end-to-end encrypted. Pro and above add a second-monitor mode. Free for two computers forever. | <b>Every plan at the price of the one below: Pro $49 → $29, Essentials $29 → $19, Studio $99 → $49, Business $179 → $99</b><br>Essentials covers 3 computers, Pro 5, Studio 10, Business 25. One-time purchase, no subscription. Applied automatically at checkout, no code needed. Ends 23:59 UTC. · Nov&nbsp;27&nbsp;–&nbsp;Nov&nbsp;30 |
 | 💰 | **[Leapdeck](https://leapdeck.app/?utm_source=dir-bfd)**<br>Jump straight to any Space on your Mac, full screen apps included, from a hotkey, a numbered menu bar row or an iPhone, with SIP left on. The Mac app is free. | <b>45% off Leapdeck Pro: $19.99 → $10.99, one-time purchase</b><br>Applied automatically at checkout on leapdeck.app, no code. Ends Nov 30, 11:59 PM PT. · Nov&nbsp;27&nbsp;–&nbsp;Nov&nbsp;30 |
+| 💰 | **[Horcrux Email Backup](https://thehorcrux.com/pricing/#black-friday-2026)**<br>Back up Gmail, Outlook, and IMAP mail on your Mac, search saved messages offline, and restore them to another mailbox. | <b>30% off the Horcrux 5 one-time purchase (US $49.99 → $34.99)</b><br>`BLACKFRIDAY2026` · Use the code at direct checkout or redeem on the Mac App Store. · Nov&nbsp;25&nbsp;–&nbsp;Dec&nbsp;1 |
 
 <p align="right"><a href="#categories">↑ Categories</a></p>
 
@@ -709,6 +710,7 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 |  | **[Doc2Video](https://doc2vid.com/?utm_source=mrsbf#pricing)**<br>Turns help docs, blog posts, web pages or a code base into a narrated video: plans the storyboard, animates every scene, adds voice and music, and lets you direct each scene by chat. MP4 export. Mac, Windows, Linux. | <b>Lifetime license with unlimited updates for $119.97 a seat, paid once (a normal license is $39.99 a seat with one year of updates)</b><br>Black Friday only, no code needed. Volume discounts down to $71.98 a seat at 50+ seats. Existing license keys can upgrade with credit for their current year. Ends Dec 6, 11:59 PM PST. · Nov&nbsp;10&nbsp;–&nbsp;Dec&nbsp;6 |
 | 💸 | **[Ninja Compress](https://ninjacompress.app/?utm_source=mrs-black-friday&utm_medium=referral&utm_campaign=black-friday-2026)**<br>Video compressor for iPhone and Android that works on the phone: shrink a video to the size you need (25 MB for email), compare it with the original side by side. Nothing is uploaded; no ads, no account. | <b>Ninja Pro Lifetime 50% off: App Store ~~$19.99~~ $9.99, Google Play ~~$14.99~~ $7.49</b><br>Applied automatically in the app, no code. One-time purchase. US prices; about 50% off local prices elsewhere. Compressing is free. · Nov&nbsp;25&nbsp;–&nbsp;Dec&nbsp;1 |
 | 💸 | **[FireCut](https://firecut.ai/pricing/all/)**<br>AI video editing plugin for Premiere Pro & DaVinci Resolve. | <b>50% off annual plans ($59 → $29.50/mo Max, $34 → $17/mo Pro)</b><br>new annual plans; billed yearly; applied automatically at checkout · Nov&nbsp;25&nbsp;–&nbsp;Nov&nbsp;30 |
+| 💸 | **[QuickSnip](https://quicksnip.com/pricing?utm_source=black-friday-deals&utm_medium=deal-list&utm_campaign=bf2026)**<br>Screen recorder with instant share links for Mac and Windows: record your screen and send a link the moment you stop. Free plan available. | <b>50% off the first year of Pro or Team</b><br>`BLACKFRIDAY` · monthly or yearly billing; Pro is $6/mo or $60/yr, so $3/mo or $30 for the first year; through Cyber Monday, Nov 30 · Nov&nbsp;23&nbsp;–&nbsp;Nov&nbsp;30 |
 
 <p align="right"><a href="#categories">↑ Categories</a></p>
 
@@ -1107,7 +1109,7 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 
 <p align="right"><a href="#categories">↑ Categories</a></p>
 
-<!-- DEALS:END checksum:d77bc676f1e1 -->
+<!-- DEALS:END checksum:5cc45a87b640 -->
 
 ## Add your deal
 
