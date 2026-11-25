@@ -1,0 +1,9 @@
+name: "Spring Prompt"
+url: "https://springprompt.com/plans"
+description: "Two lines of code that test every LLM prompt in your app on other models and better wordings, and tell you when a cheaper model or a prompt fix would do the job."
+discount: "40% OFF the first 3 months of either plan: Basic $29.40/mo (was $49), Pro $120/mo (was $200)"
+percent: 40
+code: "BF2026"
+terms: "Monthly Basic or Pro plan; new subscriptions; prices in USD, excluding tax"
+starts: "2026-11-25"
+ends: "2026-12-01"
