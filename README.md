@@ -19,9 +19,9 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 
 ## Categories
 
-**833 deals** in 22 categories. 💸 marks 50% off or more, 💰 less than 50%.
+**836 deals** in 22 categories. 💸 marks 50% off or more, 💰 less than 50%.
 
-🛠&nbsp;[Development Software](#development-software)&nbsp;`96` · 🤖&nbsp;[AI Tools](#ai-tools)&nbsp;`78` · 🌈&nbsp;[Marketing Software](#marketing-software)&nbsp;`29` · 🎩&nbsp;[Security Software](#security-software)&nbsp;`30` · 🎛&nbsp;[Utility Software](#utility-software)&nbsp;`162` · 📌&nbsp;[Productivity Software](#productivity-software)&nbsp;`144` · 🎥&nbsp;[Video Software](#video-software)&nbsp;`49` · 🎨&nbsp;[Graphic Software](#graphic-software)&nbsp;`52` · 🏝️&nbsp;[Lifestyle](#lifestyle)&nbsp;`30` · 🗣️&nbsp;[Social](#social)&nbsp;`9` · 🎓&nbsp;[Reference & Education](#reference--education)&nbsp;`17` · 📖&nbsp;[Books](#books)&nbsp;`1` · 👩‍🎓&nbsp;[Courses and Videos](#courses-and-videos)&nbsp;`17` · 📈&nbsp;[Business Software](#business-software)&nbsp;`22` · 🏃🏻‍♀️&nbsp;[Health & Fitness Software](#health--fitness-software)&nbsp;`30` · 🎁&nbsp;[Bundles](#bundles)&nbsp;`5` · 🎶&nbsp;[Creative Content](#creative-content)&nbsp;`8` · 🤑&nbsp;[Finance](#finance)&nbsp;`18` · 🗺️&nbsp;[Navigation](#navigation)&nbsp;`3` · 🔎&nbsp;[SEO](#seo)&nbsp;`20` · 🏡&nbsp;[Home Automation](#home-automation)&nbsp;`2` · 🕹&nbsp;[Games](#games)&nbsp;`11`
+🛠&nbsp;[Development Software](#development-software)&nbsp;`97` · 🤖&nbsp;[AI Tools](#ai-tools)&nbsp;`78` · 🌈&nbsp;[Marketing Software](#marketing-software)&nbsp;`30` · 🎩&nbsp;[Security Software](#security-software)&nbsp;`30` · 🎛&nbsp;[Utility Software](#utility-software)&nbsp;`162` · 📌&nbsp;[Productivity Software](#productivity-software)&nbsp;`144` · 🎥&nbsp;[Video Software](#video-software)&nbsp;`49` · 🎨&nbsp;[Graphic Software](#graphic-software)&nbsp;`52` · 🏝️&nbsp;[Lifestyle](#lifestyle)&nbsp;`30` · 🗣️&nbsp;[Social](#social)&nbsp;`9` · 🎓&nbsp;[Reference & Education](#reference--education)&nbsp;`17` · 📖&nbsp;[Books](#books)&nbsp;`1` · 👩‍🎓&nbsp;[Courses and Videos](#courses-and-videos)&nbsp;`17` · 📈&nbsp;[Business Software](#business-software)&nbsp;`23` · 🏃🏻‍♀️&nbsp;[Health & Fitness Software](#health--fitness-software)&nbsp;`30` · 🎁&nbsp;[Bundles](#bundles)&nbsp;`5` · 🎶&nbsp;[Creative Content](#creative-content)&nbsp;`8` · 🤑&nbsp;[Finance](#finance)&nbsp;`18` · 🗺️&nbsp;[Navigation](#navigation)&nbsp;`3` · 🔎&nbsp;[SEO](#seo)&nbsp;`20` · 🏡&nbsp;[Home Automation](#home-automation)&nbsp;`2` · 🕹&nbsp;[Games](#games)&nbsp;`11`
 
 <a id="development-software"></a>
 
@@ -125,6 +125,7 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 | 💸 | **[12happy](https://www.12hpy.com/deals/black-friday?utm_source=mrs-bfdeals&utm_medium=deal-list&utm_campaign=black-friday-2026)**<br>Uptime monitoring for websites, APIs and cron jobs: checks every 30 seconds from up to three locations, alerts by SMS, Slack, Telegram or webhook, and status pages on your own domain. | <b>3 months of Pro free, no card needed, first 100 accounts</b><br>`BLACKFRIDAY` · new accounts and existing Free accounts; enter the code at sign-up or in Billing; no card · Nov&nbsp;22&nbsp;–&nbsp;Dec&nbsp;1 |
 | 💰 | **[ShadcnStore](https://shadcnstore.com/pricing?utm_source=mrs-black-friday&utm_medium=deal-list&utm_campaign=cyber-week-2026)**<br>Production-ready shadcn/ui blocks, pages and templates on Base UI, installed with the shadcn CLI, plus a Figma kit. One-time payment, lifetime updates. | <b>40% off every plan and template: Pro ~~$149~~ $89, Starter ~~$99~~ $59</b><br>Applied automatically at checkout, no code needed. Ends Dec 1, 11:59 PM PT. · Nov&nbsp;21&nbsp;–&nbsp;Dec&nbsp;1 |
 | 💸 | **[Mopup](https://mopup.online/?ref=blackfriday-mrs)**<br>Mac cleaner that knows developer leftovers: build caches, old node_modules, merged git worktrees, Docker data and dev servers coding agents left running. Also caches, duplicates and old apps. Free to scan. | <b>Lifetime license ~~$19.99~~ **$9.99**, one payment for every Mac you own</b><br>`BF2026` · Applied automatically at checkout on mopup.online. One-time purchase with every update, no subscription, no account. Free to scan and to clean your first 2 GB. · Nov&nbsp;24&nbsp;–&nbsp;Nov&nbsp;30 |
+| 💰 | **[GridPin](https://gridpin.dev/buy#snapshot)**<br>Offline geocoder for 13 countries: one file per country, no API key, addresses never leave your machine. CLI, Python, DuckDB and MCP. Open-source engine. | <b>40% off the one-time Snapshot: ~~$199~~ $119</b><br>November 2026 build of all 13 countries, the files are yours to keep. Applied automatically, no code. Paid in USDC. · Nov&nbsp;25&nbsp;–&nbsp;Dec&nbsp;1 |
 
 <p align="right"><a href="#categories">↑ Categories</a></p>
 
@@ -250,6 +251,7 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 | 💰 | **[Gojiberry.ai](https://salesteam.gojiberry.ai/blackfriday?utm_source=github&utm_medium=mRs&utm_campaign=bf2026)**<br>Your AI sales agent finds high-intent prospects and contacts them for you, 24/7. | <b>40% off the yearly plan</b><br>Discount applied automatically at checkout. · Nov&nbsp;24&nbsp;–&nbsp;Dec&nbsp;2 |
 | 💰 | **[AppRankHero](https://apprankhero.com/pricing?utm_source=gh-mrs-&utm_medium=deal&utm_campaign=black_friday_2026)**<br>Native Mac app for ASO that tracks your App Store and Google Play keyword ranks every morning, with keyword research, competitor tracking and an MCP server for AI tools. | <b>30% off annual Pro and Studio plans (Pro $49.99 → $34.99, Studio $124.99 → $87.49)</b><br>`BLACKFRIDAY30` · First year only, annual plans. Download the Mac app, sign in, choose Upgrade and enter the code at checkout. Free plan: 1 app and 500 keywords. · Nov&nbsp;27&nbsp;–&nbsp;Dec&nbsp;1 |
 | 💸 | **[Two Minute Reports](https://twominutereports.com/promotions)**<br>AI-powered Marketing Intelligence Platform helping agencies and marketers to streamline, automate and scale ROI-driven reporting. | <b>50% OFF on Annual Plans</b><br>`BF502026` · Nov&nbsp;16&nbsp;–&nbsp;Nov&nbsp;30 |
+| 💰 | **[WhatsTeam](https://whats.team/?utm_source=mariuslandwehr&utm_medium=deal-listing&utm_campaign=blackfriday2026)**<br>Shared WhatsApp inbox for sales and support teams on the official WhatsApp Business API, with broadcast campaigns, chat assignment and AI agents. | <b>40% off the first 6 months of any monthly plan</b><br>`BLACKFRIDAY40` · New subscriptions; Starter ~~$29~~ $17.40/mo, Business ~~$69~~ $41.40/mo, Enterprise ~~$119~~ $71.40/mo for 6 months, then the regular price. 14-day free trial, no card. · Nov&nbsp;22&nbsp;–&nbsp;Dec&nbsp;1 |
 
 <p align="right"><a href="#categories">↑ Categories</a></p>
 
@@ -882,6 +884,7 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 | 💸 | **[Client Tracker Spreadsheet](https://bigshadex.itch.io/client-tracker)**<br>Spreadsheet for freelancers and small studios: clients, projects, invoices, part payments and follow-ups on one dashboard. Pay once, no macros. Tested in LibreOffice Calc; built with AI assistance. | <b>50% off: US$12.99 → $6.49, one-time purchase</b><br>No code needed: the price applies automatically on itch.io. Ends 1 Dec 13:59 UTC. · until&nbsp;Dec&nbsp;1 |
 |  | **[QSPro](https://qspro.neocities.org/)**<br>Construction quantity surveying system: tender and BoQ, rebar BBS take-off, S-curve, payment claims and variations in one system. | <b>Founding pricing ends 30 Nov — Starter $199 once, Professional $599 once</b><br>No code needed; no subscription. 14-day free trial, no card. · until&nbsp;Nov&nbsp;30 |
 | 💰 | **[Faxio](https://faxio.app/pricing?utm_source=mrs_bf_deals&utm_medium=deal_listing&utm_campaign=black_friday_2026)**<br>Send a fax from your browser or Android phone, pay per fax with no subscription. | <b>10% off every web purchase ($2.99 → $2.69 per fax, $9.99 → $8.99 for 5)</b><br>automatically applied at checkout; web purchases on faxio.app only, not Android in-app purchases; ends 23:59 ET on Dec 1 · Nov&nbsp;24&nbsp;–&nbsp;Dec&nbsp;1 |
+| 💰 | **[Produktly](https://produktly.com)**<br>All-in-one platform for product-led growth | <b>35% off all plans for 12 months</b><br>`BF2026` · until&nbsp;Nov&nbsp;29 |
 
 <p align="right"><a href="#categories">↑ Categories</a></p>
 
@@ -1054,7 +1057,7 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 
 <p align="right"><a href="#categories">↑ Categories</a></p>
 
-<!-- DEALS:END checksum:24b9b8bf82e4 -->
+<!-- DEALS:END checksum:c474f096f512 -->
 
 ## Add your deal
 
