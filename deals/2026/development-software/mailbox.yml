@@ -1,0 +1,8 @@
+name: "Mailbox"
+url: "https://apps.apple.com/app/mailbox-local-smtp/id6760924337"
+description: "Catch every email your app sends, right on your Mac. Mailbox runs local SMTP servers, previews HTML on phone screens, flags broken links and Gmail clipping, copies verification codes in one click and mocks SendGrid and Mailgun. No Docker."
+discount: "50% off ($49.99 → $24.99), one-time purchase"
+percent: 50
+terms: "Mailbox Pro Lifetime, applied automatically; new subscribers get 50% off the first year ($29.99 → $14.99) or 40% off the first 3 months ($4.99 → $2.99) · Mac on macOS 26+"
+starts: "2026-11-20"
+ends: "2026-12-01"

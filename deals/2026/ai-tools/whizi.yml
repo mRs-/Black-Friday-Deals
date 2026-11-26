@@ -1,0 +1,10 @@
+# Put every text value in double quotes. Lines that start with # are comments.
+
+name: "Whizi"
+url: "https://whizi.io/pricing/?utm_source=mrs-bf-deals&utm_medium=deal-list&utm_campaign=bf2026"
+description: "One subscription for Claude, ChatGPT, Gemini and other AI models, with image, video and music in the same chat. Web, iPhone and Android, no API keys."
+discount: "30% off the first year of any annual plan"
+percent: 30
+terms: "Automatically applied at checkout on annual plans: Starter ~~$131.99~~ $92.39, Pro ~~$239.99~~ $167.99, Powerhouse ~~$419.99~~ $293.99; renews at the regular price; until Dec 24, 11:59 pm PT"
+starts: "2026-11-24"
+ends: "2026-12-24"

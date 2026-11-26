@@ -1,0 +1,8 @@
+name: "GridPin"
+url: "https://gridpin.dev/buy#snapshot"
+description: "Offline geocoder for 13 countries: one file per country, no API key, addresses never leave your machine. CLI, Python, DuckDB and MCP. Open-source engine."
+discount: "40% off the one-time Snapshot: ~~$199~~ $119"
+percent: 40
+terms: "November 2026 build of all 13 countries, the files are yours to keep. Applied automatically, no code. Paid in USDC."
+starts: "2026-11-25"
+ends: "2026-12-01"

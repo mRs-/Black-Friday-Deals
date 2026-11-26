@@ -1,0 +1,12 @@
+# Required
+name: "FolioSort"
+url: "https://www.foliosort.app/pricing?utm_source=mrs-bf&utm_medium=deal-list&utm_campaign=bf2026"
+description: "Photo organizer for Mac and Windows: sorts photos and videos by real EXIF date, camera and place, repairs Google Photos Takeout exports, cleans duplicates and searches your library with on-device AI. No import."
+discount: "25% off the Elite one-time license, ~~€39.99~~ €29.99"
+
+# Optional
+percent: 25
+code: "BLACKFRIDAY"
+terms: "applied automatically on the pricing page; one-time purchase, the same license works on Mac and Windows; free version available"
+starts: "2026-11-26"
+ends: "2026-11-30"
