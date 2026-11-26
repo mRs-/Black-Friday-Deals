@@ -1,0 +1,9 @@
+name: "SecDim"
+url: "https://secdim.com/pricing"
+description: "Secure coding wargames: find, exploit and fix real-world vulnerabilities in hands-on labs, and learn to verify AI-generated code."
+discount: "35% off the Professional plan, 25% off the Team plan"
+percent: 35
+code: "APPSECONABUDGET2026"
+terms: "Professional ~~$239.88~~ $155.92/yr. Team plan (5-24 users): code `APPSECTEAM2026`, ~~$348~~ $261 per user/yr."
+starts: "2026-11-20"
+ends: "2026-12-05"
