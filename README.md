@@ -19,9 +19,9 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 
 ## Categories
 
-**942 deals** in 22 categories. 💸 marks 50% off or more, 💰 less than 50%.
+**943 deals** in 22 categories. 💸 marks 50% off or more, 💰 less than 50%.
 
-🛠&nbsp;[Development Software](#development-software)&nbsp;`104` · 🤖&nbsp;[AI Tools](#ai-tools)&nbsp;`84` · 🌈&nbsp;[Marketing Software](#marketing-software)&nbsp;`38` · 🎩&nbsp;[Security Software](#security-software)&nbsp;`31` · 🎛&nbsp;[Utility Software](#utility-software)&nbsp;`185` · 📌&nbsp;[Productivity Software](#productivity-software)&nbsp;`164` · 🎥&nbsp;[Video Software](#video-software)&nbsp;`56` · 🎨&nbsp;[Graphic Software](#graphic-software)&nbsp;`54` · 🏝️&nbsp;[Lifestyle](#lifestyle)&nbsp;`33` · 🗣️&nbsp;[Social](#social)&nbsp;`9` · 🎓&nbsp;[Reference & Education](#reference--education)&nbsp;`19` · 📖&nbsp;[Books](#books)&nbsp;`4` · 👩‍🎓&nbsp;[Courses and Videos](#courses-and-videos)&nbsp;`19` · 📈&nbsp;[Business Software](#business-software)&nbsp;`26` · 🏃🏻‍♀️&nbsp;[Health & Fitness Software](#health--fitness-software)&nbsp;`35` · 🎁&nbsp;[Bundles](#bundles)&nbsp;`7` · 🎶&nbsp;[Creative Content](#creative-content)&nbsp;`10` · 🤑&nbsp;[Finance](#finance)&nbsp;`20` · 🗺️&nbsp;[Navigation](#navigation)&nbsp;`4` · 🔎&nbsp;[SEO](#seo)&nbsp;`24` · 🏡&nbsp;[Home Automation](#home-automation)&nbsp;`3` · 🕹&nbsp;[Games](#games)&nbsp;`13`
+🛠&nbsp;[Development Software](#development-software)&nbsp;`104` · 🤖&nbsp;[AI Tools](#ai-tools)&nbsp;`84` · 🌈&nbsp;[Marketing Software](#marketing-software)&nbsp;`39` · 🎩&nbsp;[Security Software](#security-software)&nbsp;`31` · 🎛&nbsp;[Utility Software](#utility-software)&nbsp;`185` · 📌&nbsp;[Productivity Software](#productivity-software)&nbsp;`164` · 🎥&nbsp;[Video Software](#video-software)&nbsp;`56` · 🎨&nbsp;[Graphic Software](#graphic-software)&nbsp;`54` · 🏝️&nbsp;[Lifestyle](#lifestyle)&nbsp;`33` · 🗣️&nbsp;[Social](#social)&nbsp;`9` · 🎓&nbsp;[Reference & Education](#reference--education)&nbsp;`19` · 📖&nbsp;[Books](#books)&nbsp;`4` · 👩‍🎓&nbsp;[Courses and Videos](#courses-and-videos)&nbsp;`19` · 📈&nbsp;[Business Software](#business-software)&nbsp;`26` · 🏃🏻‍♀️&nbsp;[Health & Fitness Software](#health--fitness-software)&nbsp;`35` · 🎁&nbsp;[Bundles](#bundles)&nbsp;`7` · 🎶&nbsp;[Creative Content](#creative-content)&nbsp;`10` · 🤑&nbsp;[Finance](#finance)&nbsp;`20` · 🗺️&nbsp;[Navigation](#navigation)&nbsp;`4` · 🔎&nbsp;[SEO](#seo)&nbsp;`24` · 🏡&nbsp;[Home Automation](#home-automation)&nbsp;`3` · 🕹&nbsp;[Games](#games)&nbsp;`13`
 
 <a id="development-software"></a>
 
@@ -273,6 +273,7 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 | 💸 | **[WebinarFlow](https://webinarflow.studio/black-friday)**<br>Automated on-demand product demo webinars with real-time AI Q&A and instant live video takeover from your phone. | <b>83% off your first year on Growth ($159, was $950) and Scale ($399, was $2,390) yearly plans.</b><br>New customers only. First 100 buyers. Discount auto-applies from the deal page (optional codes: `BF83GROWTH` / `BF83SCALE`). Renews at the normal yearly price. · Nov&nbsp;20&nbsp;–&nbsp;Dec&nbsp;1 |
 | 💸 | **[PageTest.AI](https://pagetest.ai/black-friday?utm_source=marius-landwehr-bf&utm_medium=deal-directory&utm_campaign=bf2026)**<br>AI finds and tests your best headline, CTA and page copy, so the visitors you already have turn into more clicks, signups and sales. No developer needed. | <b>83% off the first year: Starter ~~$3,588~~ **$599**, Growth ~~$5,988~~ **$999**</b><br>`BF2026` · New customers only, first 100 buyers; Starter and Growth only; renews at standard price after year one · Nov&nbsp;20&nbsp;–&nbsp;Dec&nbsp;1 |
 | 💸 | **[SaaS Toolkit](https://saastoolkit.ai/black-friday?utm_source=mariuslandwehr&utm_medium=deal-directory&utm_campaign=bf2026)**<br>One place to take people from their first visit to paying customer: AI chat that answers and sells, nurture emails, and instant alerts to the right person on your team. | <b>83% off your first year: Growth $59 (normally $348) or Business $99 (normally $588)</b><br>`BF2026` · New paying customers, first 100 buyers, one per customer. Applied automatically on the deal page. Renews at $29/mo (Growth) or $49/mo (Business). 30-day money-back. · Nov&nbsp;20&nbsp;–&nbsp;Dec&nbsp;1 |
+| 💸 | **[Atelier Social](https://ateliersocial.io/black-friday)**<br>AI-first social media studio for multi-brand and agency teams. Write once, AI rewrites per platform, with tag-based routing across 7 platforms and an MCP server. | <b>83% off the first year (Starter $158/yr from $948, Agency $458/yr from $2,748, Scale $898/yr from $5,388)</b><br>Applied automatically; no coupon code. Includes a 30-day free trial. Valid until 31 Dec 2026. · until&nbsp;Dec&nbsp;31 |
 
 <p align="right"><a href="#categories">↑ Categories</a></p>
 
@@ -1163,7 +1164,7 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 
 <p align="right"><a href="#categories">↑ Categories</a></p>
 
-<!-- DEALS:END checksum:257c02aea38b -->
+<!-- DEALS:END checksum:cd04a8d0917e -->
 
 ## Add your deal
 
