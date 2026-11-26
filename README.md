@@ -19,9 +19,9 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 
 ## Categories
 
-**912 deals** in 22 categories. 💸 marks 50% off or more, 💰 less than 50%.
+**915 deals** in 22 categories. 💸 marks 50% off or more, 💰 less than 50%.
 
-🛠&nbsp;[Development Software](#development-software)&nbsp;`103` · 🤖&nbsp;[AI Tools](#ai-tools)&nbsp;`83` · 🌈&nbsp;[Marketing Software](#marketing-software)&nbsp;`33` · 🎩&nbsp;[Security Software](#security-software)&nbsp;`30` · 🎛&nbsp;[Utility Software](#utility-software)&nbsp;`179` · 📌&nbsp;[Productivity Software](#productivity-software)&nbsp;`162` · 🎥&nbsp;[Video Software](#video-software)&nbsp;`52` · 🎨&nbsp;[Graphic Software](#graphic-software)&nbsp;`54` · 🏝️&nbsp;[Lifestyle](#lifestyle)&nbsp;`31` · 🗣️&nbsp;[Social](#social)&nbsp;`9` · 🎓&nbsp;[Reference & Education](#reference--education)&nbsp;`18` · 📖&nbsp;[Books](#books)&nbsp;`2` · 👩‍🎓&nbsp;[Courses and Videos](#courses-and-videos)&nbsp;`19` · 📈&nbsp;[Business Software](#business-software)&nbsp;`24` · 🏃🏻‍♀️&nbsp;[Health & Fitness Software](#health--fitness-software)&nbsp;`34` · 🎁&nbsp;[Bundles](#bundles)&nbsp;`7` · 🎶&nbsp;[Creative Content](#creative-content)&nbsp;`10` · 🤑&nbsp;[Finance](#finance)&nbsp;`19` · 🗺️&nbsp;[Navigation](#navigation)&nbsp;`3` · 🔎&nbsp;[SEO](#seo)&nbsp;`24` · 🏡&nbsp;[Home Automation](#home-automation)&nbsp;`3` · 🕹&nbsp;[Games](#games)&nbsp;`13`
+🛠&nbsp;[Development Software](#development-software)&nbsp;`103` · 🤖&nbsp;[AI Tools](#ai-tools)&nbsp;`83` · 🌈&nbsp;[Marketing Software](#marketing-software)&nbsp;`33` · 🎩&nbsp;[Security Software](#security-software)&nbsp;`30` · 🎛&nbsp;[Utility Software](#utility-software)&nbsp;`180` · 📌&nbsp;[Productivity Software](#productivity-software)&nbsp;`162` · 🎥&nbsp;[Video Software](#video-software)&nbsp;`52` · 🎨&nbsp;[Graphic Software](#graphic-software)&nbsp;`54` · 🏝️&nbsp;[Lifestyle](#lifestyle)&nbsp;`31` · 🗣️&nbsp;[Social](#social)&nbsp;`9` · 🎓&nbsp;[Reference & Education](#reference--education)&nbsp;`19` · 📖&nbsp;[Books](#books)&nbsp;`2` · 👩‍🎓&nbsp;[Courses and Videos](#courses-and-videos)&nbsp;`19` · 📈&nbsp;[Business Software](#business-software)&nbsp;`25` · 🏃🏻‍♀️&nbsp;[Health & Fitness Software](#health--fitness-software)&nbsp;`34` · 🎁&nbsp;[Bundles](#bundles)&nbsp;`7` · 🎶&nbsp;[Creative Content](#creative-content)&nbsp;`10` · 🤑&nbsp;[Finance](#finance)&nbsp;`19` · 🗺️&nbsp;[Navigation](#navigation)&nbsp;`3` · 🔎&nbsp;[SEO](#seo)&nbsp;`24` · 🏡&nbsp;[Home Automation](#home-automation)&nbsp;`3` · 🕹&nbsp;[Games](#games)&nbsp;`13`
 
 <a id="development-software"></a>
 
@@ -493,6 +493,7 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 | 💸 | **[noswitch](https://www.nosub.dev/noswitch?utm_source=github-mrs&utm_medium=deal&utm_campaign=bf2026)**<br>Turns your MacBook notch into a hub: clipboard history, screenshots, a file shelf, Claude Code and Codex agent status, and keep-awake, one hover away. | <b>50% off, $7.49 instead of $14.99</b><br>Applied automatically, no code needed. One-time purchase, macOS 14+. Ends Mon Nov 30, 11:59 pm PT. · Nov&nbsp;26&nbsp;–&nbsp;Nov&nbsp;30 |
 | 💰 | **[CacheFlo](https://www.cacheflo.net/#pricing)**<br>Mac cleaner built for privacy and security: cleans junk and app leftovers, finds duplicates and checks your Mac's security. Sends nothing about your Mac anywhere; you tick every item and everything goes to the Trash first. Apple silicon, macOS 13+. | <b>20% off the one-time licence: €39.99 → €31.99 (1 Mac), €59.99 → €47.99 (2 Macs)</b><br>`CYBERMONDAY26` · one-time purchase, no subscription; 14-day free trial; ends 30 Nov 23:59 Malta time · Nov&nbsp;27&nbsp;–&nbsp;Nov&nbsp;30 |
 | 💸 | **[Clearpane](https://getclearpane.app/?utm_source=mrs-bf&utm_campaign=bf2026#pricing)**<br>Activity Monitor in plain English for Mac. Tells you in one sentence what's slowing your Mac down, explains every process and says whether it's safe to quit. Everything stays on your Mac. | <b>One-time license $19 → $9, no code needed</b><br>Black Friday price. One payment, no subscription, every update, 2 Macs. Free check-up and a 7-day full trial first, no account. $19 from Dec 2. macOS 14+. · Nov&nbsp;26&nbsp;–&nbsp;Dec&nbsp;1 |
+| 💰 | **[Mole](https://mole.fit/?utm_source=bf-mrs&utm_campaign=bf2026)**<br>Native Mac cleaner from the maker of the open-source Mole CLI: clears caches and old AI tool data, uninstalls and updates apps with their leftovers, maps your disk and shows live system stats. Also on Windows. | <b>20% off, ~~$19~~ $15.20 one-time</b><br>Mac or Windows license; applied automatically at checkout, no code. Pay once, free updates, one key activates two devices. · Nov&nbsp;25&nbsp;–&nbsp;Nov&nbsp;30 |
 
 <p align="right"><a href="#categories">↑ Categories</a></p>
 
@@ -873,6 +874,7 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 | 💰 | **[Lockabulary](https://arturwitkowski.com/lockabulary/)**<br>Learn European Portuguese, Spanish or French vocabulary without opening an app: your Mac blurs the screen now and then for a short quiz, and on iPhone the apps you pick stay locked until you answer. | <b>Lifetime unlock ~~$19.99~~ **$12.99**</b><br>Mac App Store and App Store, applied automatically, no code; local prices vary; yearly plan not included · Nov&nbsp;26&nbsp;–&nbsp;Dec&nbsp;1 |
 | 💰 | **[MeteorMath](https://meteormath.com/?ref=bfdeals&utm_source=bfdeals&utm_medium=app-index&utm_campaign=bfcm-2026#meteormath)**<br>Turn multiplication practice into space missions, with adaptive review, game coins, and a Star Map families can follow on iPhone, iPad, and Mac. One purchase unlocks the MeteorMath game collection. | <b>40% off, $20 → $12</b><br>`BF26-METEORMATH` · one-time purchase; unlocks the game collection · Nov&nbsp;24&nbsp;–&nbsp;Dec&nbsp;1 |
 | 💸 | **[Mochi Type](https://apps.apple.com/us/app/mochi-type-typing-practice/id6766949692?ct=bf26_mrs&mt=12)**<br>Typing trainer for Mac: a guided touch-typing course from the first key, plus practice on real words in 21 languages, on your own keyboard layout. | <b>54% off Mochi Unlock, the one-time in-app purchase ($12.99 → $5.99)</b><br>Applied automatically in the Mac App Store, no code needed. Free to download. macOS 14.6 or later. · Nov&nbsp;26&nbsp;–&nbsp;Dec&nbsp;1 |
+| 💸 | **[FreeAppsHub](https://free-apps-hub.pages.dev/)**<br>Downloadable gaming guides, planners and printables. The site also has free browser tools. | <b>50% off all paid guides and packs</b><br>`BLACKFRIDAY50` · Code BLACKFRIDAY50 at checkout; paid guides and packs only · Nov&nbsp;26&nbsp;–&nbsp;Nov&nbsp;30 |
 
 <p align="right"><a href="#categories">↑ Categories</a></p>
 
@@ -945,6 +947,7 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 | 💰 | **[Faxio](https://faxio.app/pricing?utm_source=mrs_bf_deals&utm_medium=deal_listing&utm_campaign=black_friday_2026)**<br>Send a fax from your browser or Android phone, pay per fax with no subscription. | <b>10% off every web purchase ($2.99 → $2.69 per fax, $9.99 → $8.99 for 5)</b><br>automatically applied at checkout; web purchases on faxio.app only, not Android in-app purchases; ends 23:59 ET on Dec 1 · Nov&nbsp;24&nbsp;–&nbsp;Dec&nbsp;1 |
 | 💰 | **[Produktly](https://produktly.com)**<br>All-in-one platform for product-led growth | <b>35% off all plans for 12 months</b><br>`BF2026` · until&nbsp;Nov&nbsp;29 |
 | 💰 | **[Wassenger](https://wassenger.com/black-friday?utm_source=mariuslandwehr&utm_medium=deal-listing&utm_campaign=blackfriday2026)**<br>WhatsApp for teams: an AI agent that answers customers at any hour, a shared inbox, CRM and campaigns, plus the official WhatsApp Business API with a REST API and MCP server. | <b>40% off the first 6 months of any monthly plan</b><br>`BLACKFRIDAY40` · New subscriptions, first paid number of an account; Professional ~~€39.90~~ €23.94/mo for 6 months, then the regular price. Code applied from the deal page. 7-day free trial, no card. · Nov&nbsp;24&nbsp;–&nbsp;Dec&nbsp;1 |
+| 💸 | **[fynk](https://fynk.com/en/black-week/)**<br>Contract management with AI: draft from templates, review with AI, sign and track renewals. | <b>50% off any plan for the first 12 months (up to 5 users, new customers only). The same code also gives 50% off AI credit top-ups.</b><br>`BL4CKWEEK` · New customers only. 50% off for the first 12 months, then the regular price. Covers up to 5 users; extra users pay the regular price. AI credit discount is for everyone, existing customers too. Ends December 4, 2026. · Nov&nbsp;25&nbsp;–&nbsp;Dec&nbsp;4 |
 
 <p align="right"><a href="#categories">↑ Categories</a></p>
 
@@ -1133,7 +1136,7 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 
 <p align="right"><a href="#categories">↑ Categories</a></p>
 
-<!-- DEALS:END checksum:b27878d672ed -->
+<!-- DEALS:END checksum:f29d9014754c -->
 
 ## Add your deal
 
