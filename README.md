@@ -19,9 +19,9 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 
 ## Categories
 
-**902 deals** in 22 categories. 💸 marks 50% off or more, 💰 less than 50%.
+**905 deals** in 22 categories. 💸 marks 50% off or more, 💰 less than 50%.
 
-🛠&nbsp;[Development Software](#development-software)&nbsp;`102` · 🤖&nbsp;[AI Tools](#ai-tools)&nbsp;`83` · 🌈&nbsp;[Marketing Software](#marketing-software)&nbsp;`32` · 🎩&nbsp;[Security Software](#security-software)&nbsp;`30` · 🎛&nbsp;[Utility Software](#utility-software)&nbsp;`176` · 📌&nbsp;[Productivity Software](#productivity-software)&nbsp;`160` · 🎥&nbsp;[Video Software](#video-software)&nbsp;`51` · 🎨&nbsp;[Graphic Software](#graphic-software)&nbsp;`53` · 🏝️&nbsp;[Lifestyle](#lifestyle)&nbsp;`31` · 🗣️&nbsp;[Social](#social)&nbsp;`9` · 🎓&nbsp;[Reference & Education](#reference--education)&nbsp;`18` · 📖&nbsp;[Books](#books)&nbsp;`2` · 👩‍🎓&nbsp;[Courses and Videos](#courses-and-videos)&nbsp;`19` · 📈&nbsp;[Business Software](#business-software)&nbsp;`24` · 🏃🏻‍♀️&nbsp;[Health & Fitness Software](#health--fitness-software)&nbsp;`34` · 🎁&nbsp;[Bundles](#bundles)&nbsp;`6` · 🎶&nbsp;[Creative Content](#creative-content)&nbsp;`10` · 🤑&nbsp;[Finance](#finance)&nbsp;`19` · 🗺️&nbsp;[Navigation](#navigation)&nbsp;`3` · 🔎&nbsp;[SEO](#seo)&nbsp;`24` · 🏡&nbsp;[Home Automation](#home-automation)&nbsp;`3` · 🕹&nbsp;[Games](#games)&nbsp;`13`
+🛠&nbsp;[Development Software](#development-software)&nbsp;`102` · 🤖&nbsp;[AI Tools](#ai-tools)&nbsp;`83` · 🌈&nbsp;[Marketing Software](#marketing-software)&nbsp;`32` · 🎩&nbsp;[Security Software](#security-software)&nbsp;`30` · 🎛&nbsp;[Utility Software](#utility-software)&nbsp;`178` · 📌&nbsp;[Productivity Software](#productivity-software)&nbsp;`160` · 🎥&nbsp;[Video Software](#video-software)&nbsp;`51` · 🎨&nbsp;[Graphic Software](#graphic-software)&nbsp;`54` · 🏝️&nbsp;[Lifestyle](#lifestyle)&nbsp;`31` · 🗣️&nbsp;[Social](#social)&nbsp;`9` · 🎓&nbsp;[Reference & Education](#reference--education)&nbsp;`18` · 📖&nbsp;[Books](#books)&nbsp;`2` · 👩‍🎓&nbsp;[Courses and Videos](#courses-and-videos)&nbsp;`19` · 📈&nbsp;[Business Software](#business-software)&nbsp;`24` · 🏃🏻‍♀️&nbsp;[Health & Fitness Software](#health--fitness-software)&nbsp;`34` · 🎁&nbsp;[Bundles](#bundles)&nbsp;`6` · 🎶&nbsp;[Creative Content](#creative-content)&nbsp;`10` · 🤑&nbsp;[Finance](#finance)&nbsp;`19` · 🗺️&nbsp;[Navigation](#navigation)&nbsp;`3` · 🔎&nbsp;[SEO](#seo)&nbsp;`24` · 🏡&nbsp;[Home Automation](#home-automation)&nbsp;`3` · 🕹&nbsp;[Games](#games)&nbsp;`13`
 
 <a id="development-software"></a>
 
@@ -488,6 +488,8 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 | 💰 | **[Leapdeck](https://leapdeck.app/?utm_source=dir-bfd)**<br>Jump straight to any Space on your Mac, full screen apps included, from a hotkey, a numbered menu bar row or an iPhone, with SIP left on. The Mac app is free. | <b>45% off Leapdeck Pro: $19.99 → $10.99, one-time purchase</b><br>Applied automatically at checkout on leapdeck.app, no code. Ends Nov 30, 11:59 PM PT. · Nov&nbsp;27&nbsp;–&nbsp;Nov&nbsp;30 |
 | 💰 | **[Horcrux Email Backup](https://thehorcrux.com/pricing/#black-friday-2026)**<br>Back up Gmail, Outlook, and IMAP mail on your Mac, search saved messages offline, and restore them to another mailbox. | <b>30% off the Horcrux 5 one-time purchase (US $49.99 → $34.99)</b><br>`BLACKFRIDAY2026` · Use the code at direct checkout or redeem on the Mac App Store. · Nov&nbsp;25&nbsp;–&nbsp;Dec&nbsp;1 |
 | 💸 | **[DockSpark](https://dockspark.app/en/pricing)**<br>Hover a supported browser icon in the macOS Dock and switch profiles or open a private window, without using the browser's profile menu. | <b>$0.99 one-time for 1 Mac (regular $1.99); no code needed</b><br>1-Mac one-time license. Sale price is shown on the site. Official site also labels $0.99 as early-bird. · Nov&nbsp;19&nbsp;–&nbsp;Dec&nbsp;1 |
+| 💸 | **[noswitch](https://www.nosub.dev/noswitch?utm_source=github-mrs&utm_medium=deal&utm_campaign=bf2026)**<br>Turns your MacBook notch into a hub: clipboard history, screenshots, a file shelf, Claude Code and Codex agent status, and keep-awake, one hover away. | <b>50% off, $7.49 instead of $14.99</b><br>Applied automatically, no code needed. One-time purchase, macOS 14+. Ends Mon Nov 30, 11:59 pm PT. · Nov&nbsp;26&nbsp;–&nbsp;Nov&nbsp;30 |
+| 💰 | **[CacheFlo](https://www.cacheflo.net/#pricing)**<br>Mac cleaner built for privacy and security: cleans junk and app leftovers, finds duplicates and checks your Mac's security. Sends nothing about your Mac anywhere; you tick every item and everything goes to the Trash first. Apple silicon, macOS 13+. | <b>20% off the one-time licence: €39.99 → €31.99 (1 Mac), €59.99 → €47.99 (2 Macs)</b><br>`CYBERMONDAY26` · one-time purchase, no subscription; 14-day free trial; ends 30 Nov 23:59 Malta time · Nov&nbsp;27&nbsp;–&nbsp;Nov&nbsp;30 |
 
 <p align="right"><a href="#categories">↑ Categories</a></p>
 
@@ -779,6 +781,7 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 | 💸 | **[bitLight: RAW Photo Editor](https://apps.apple.com/app/id6822924026)**<br>Native Mac RAW photo editor for culling and non-destructive developing, with masks, lens corrections and HDR. | <b>50% off, $29.99 → $14.99</b><br>Mac App Store, one-time purchase, no code needed · Nov&nbsp;27&nbsp;–&nbsp;Nov&nbsp;30 |
 | 💸 | **[DepthField Photo](https://depthfield.photo/?ref=mariuslandwehr&utm_source=mariuslandwehr&utm_medium=deals&utm_campaign=blackfriday)**<br>Image editing reinvented for the modern age; combines generative AI features with the power of a traditional layered editor, so you can get the results you want with minimal effort and full creative control. 'The image editor Hollywood promised us' | <b>$29 (down from $69) lifetime license</b><br>Select Buy DepthField Photo on the product page for the founding price. No code needed. · Nov&nbsp;25&nbsp;–&nbsp;Dec&nbsp;31 |
 | 💰 | **[holoform](https://holoform.cc/pricing?promo=BLACKFRIDAY)**<br>Browser studio for layered trading cards and photocards: 3D holo/foil previews, 300 DPI layout exports, and AI line art. | <b>20% off all AI credit packs + 10% extra bonus credits</b><br>`BLACKFRIDAY` · one-time credit packs; +10% extra bonus credits applied automatically · Nov&nbsp;26&nbsp;–&nbsp;Dec&nbsp;1 |
+| 💰 | **[TOWeb 15](https://www.lauyan.com/en/blog/black-friday-2026-toweb-15/?utm_source=github-bf-deals&utm_medium=referral&utm_campaign=black-friday-2026)**<br>Desktop website builder for Mac and Windows: write on the page, online store and bookings, publish by FTP/SFTP to any host. Free Standard edition. | <b>30% off every paid edition (Premium, e-Commerce, Studio) and upgrades from TOWeb 14 or earlier</b><br>`BLACKFRIDAY30` · One-time purchase, no subscription, all TOWeb 15 updates included. Enter the code on the payment page from the app's License screen. Ends Nov 30, 11:59 pm Paris time. · Nov&nbsp;26&nbsp;–&nbsp;Nov&nbsp;30 |
 
 <p align="right"><a href="#categories">↑ Categories</a></p>
 
@@ -1123,7 +1126,7 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 
 <p align="right"><a href="#categories">↑ Categories</a></p>
 
-<!-- DEALS:END checksum:c6209cc28dc4 -->
+<!-- DEALS:END checksum:effe11bccf93 -->
 
 ## Add your deal
 
