@@ -19,9 +19,9 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 
 ## Categories
 
-**898 deals** in 22 categories. 💸 marks 50% off or more, 💰 less than 50%.
+**899 deals** in 22 categories. 💸 marks 50% off or more, 💰 less than 50%.
 
-🛠&nbsp;[Development Software](#development-software)&nbsp;`102` · 🤖&nbsp;[AI Tools](#ai-tools)&nbsp;`83` · 🌈&nbsp;[Marketing Software](#marketing-software)&nbsp;`32` · 🎩&nbsp;[Security Software](#security-software)&nbsp;`30` · 🎛&nbsp;[Utility Software](#utility-software)&nbsp;`176` · 📌&nbsp;[Productivity Software](#productivity-software)&nbsp;`158` · 🎥&nbsp;[Video Software](#video-software)&nbsp;`51` · 🎨&nbsp;[Graphic Software](#graphic-software)&nbsp;`52` · 🏝️&nbsp;[Lifestyle](#lifestyle)&nbsp;`31` · 🗣️&nbsp;[Social](#social)&nbsp;`9` · 🎓&nbsp;[Reference & Education](#reference--education)&nbsp;`18` · 📖&nbsp;[Books](#books)&nbsp;`2` · 👩‍🎓&nbsp;[Courses and Videos](#courses-and-videos)&nbsp;`19` · 📈&nbsp;[Business Software](#business-software)&nbsp;`24` · 🏃🏻‍♀️&nbsp;[Health & Fitness Software](#health--fitness-software)&nbsp;`34` · 🎁&nbsp;[Bundles](#bundles)&nbsp;`6` · 🎶&nbsp;[Creative Content](#creative-content)&nbsp;`10` · 🤑&nbsp;[Finance](#finance)&nbsp;`18` · 🗺️&nbsp;[Navigation](#navigation)&nbsp;`3` · 🔎&nbsp;[SEO](#seo)&nbsp;`24` · 🏡&nbsp;[Home Automation](#home-automation)&nbsp;`3` · 🕹&nbsp;[Games](#games)&nbsp;`13`
+🛠&nbsp;[Development Software](#development-software)&nbsp;`102` · 🤖&nbsp;[AI Tools](#ai-tools)&nbsp;`83` · 🌈&nbsp;[Marketing Software](#marketing-software)&nbsp;`32` · 🎩&nbsp;[Security Software](#security-software)&nbsp;`30` · 🎛&nbsp;[Utility Software](#utility-software)&nbsp;`176` · 📌&nbsp;[Productivity Software](#productivity-software)&nbsp;`159` · 🎥&nbsp;[Video Software](#video-software)&nbsp;`51` · 🎨&nbsp;[Graphic Software](#graphic-software)&nbsp;`52` · 🏝️&nbsp;[Lifestyle](#lifestyle)&nbsp;`31` · 🗣️&nbsp;[Social](#social)&nbsp;`9` · 🎓&nbsp;[Reference & Education](#reference--education)&nbsp;`18` · 📖&nbsp;[Books](#books)&nbsp;`2` · 👩‍🎓&nbsp;[Courses and Videos](#courses-and-videos)&nbsp;`19` · 📈&nbsp;[Business Software](#business-software)&nbsp;`24` · 🏃🏻‍♀️&nbsp;[Health & Fitness Software](#health--fitness-software)&nbsp;`34` · 🎁&nbsp;[Bundles](#bundles)&nbsp;`6` · 🎶&nbsp;[Creative Content](#creative-content)&nbsp;`10` · 🤑&nbsp;[Finance](#finance)&nbsp;`18` · 🗺️&nbsp;[Navigation](#navigation)&nbsp;`3` · 🔎&nbsp;[SEO](#seo)&nbsp;`24` · 🏡&nbsp;[Home Automation](#home-automation)&nbsp;`3` · 🕹&nbsp;[Games](#games)&nbsp;`13`
 
 <a id="development-software"></a>
 
@@ -655,6 +655,7 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 | 💸 | **[Astrolinks](https://astrolinks.org/black-friday/)**<br>Automatic time tracking by client for Mac and Windows: writes your end-of-day client reports and invoices, no screenshots. | <b>60% off the first year of Pro (Yearly): $90 now $36</b><br>`BF60YEAR` · Pro Yearly plan only; code applied automatically at checkout; renews at the normal yearly price ($90). Free plan and 7-day Pro trial, no card. · Nov&nbsp;26&nbsp;–&nbsp;Dec&nbsp;1 |
 |  | **[Caddy Docs](https://apps.apple.com/us/app/caddy-docs/id6802867430?mt=12)**<br>Colorful tabs at the edge of your Mac hold each project's files, PDFs and notebook, then tuck away when you're done. Animated desktop pets live on them. | <b>Black Friday price $12.99, one-time purchase</b><br>Mac App Store price, applied automatically; no subscription; macOS 15 or later · Nov&nbsp;27&nbsp;–&nbsp;Dec&nbsp;1 |
 | 💰 | **[PuzzleBind](https://puzzlebind.com/black-friday/?utm_source=mrsdeals&utm_medium=list&utm_campaign=bf2026)**<br>Chrome extension and web app that builds print-ready Sudoku, word search and maze books for Amazon KDP as PDFs, in your browser with no account. | <b>Pro lifetime ~~$19~~ $14, one-time payment</b><br>Automatically applied, no code needed; no subscription; 30-day refund · until&nbsp;Nov&nbsp;30 |
+|  | **[DoMyWork - Workspace with AI Teammates](https://domywork.ai/bf2026/)**<br>Workspace with databases, docs, tasks, and dashboards, where your team and AI agents work together. | <b>First 3 months free from signup, every feature, whole team and unlimited agents</b><br>New companies; auto-applied, no code or card, no automatic renewal. $3 starter AI credit, then AI usage via your own OpenRouter key. Sign up by Nov 30, 2026, 11:59 pm PT. · until&nbsp;Nov&nbsp;30 |
 
 <p align="right"><a href="#categories">↑ Categories</a></p>
 
@@ -1119,7 +1120,7 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 
 <p align="right"><a href="#categories">↑ Categories</a></p>
 
-<!-- DEALS:END checksum:b11acc670d82 -->
+<!-- DEALS:END checksum:16659abfc803 -->
 
 ## Add your deal
 
