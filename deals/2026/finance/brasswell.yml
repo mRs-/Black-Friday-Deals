@@ -1,0 +1,12 @@
+# Required
+name: "BrassWell"
+url: "https://brasswell.app/black-friday"
+description: "Bookkeeping for the self-employed on iPhone, iPad, Android and web: income, expenses, receipts, mileage, invoices and a running tax set-aside."
+discount: "25% off the first year of Pro yearly: $299 → $224.25"
+
+# Optional
+percent: 25
+code: "BLACKFRIDAY25"
+terms: "new subscribers; 14-day free trial, no card"
+starts: "2026-11-23"
+ends: "2026-11-30"
