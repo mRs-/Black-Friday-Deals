@@ -19,9 +19,9 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 
 ## Categories
 
-**926 deals** in 22 categories. 💸 marks 50% off or more, 💰 less than 50%.
+**928 deals** in 22 categories. 💸 marks 50% off or more, 💰 less than 50%.
 
-🛠&nbsp;[Development Software](#development-software)&nbsp;`103` · 🤖&nbsp;[AI Tools](#ai-tools)&nbsp;`83` · 🌈&nbsp;[Marketing Software](#marketing-software)&nbsp;`34` · 🎩&nbsp;[Security Software](#security-software)&nbsp;`30` · 🎛&nbsp;[Utility Software](#utility-software)&nbsp;`183` · 📌&nbsp;[Productivity Software](#productivity-software)&nbsp;`162` · 🎥&nbsp;[Video Software](#video-software)&nbsp;`55` · 🎨&nbsp;[Graphic Software](#graphic-software)&nbsp;`54` · 🏝️&nbsp;[Lifestyle](#lifestyle)&nbsp;`32` · 🗣️&nbsp;[Social](#social)&nbsp;`9` · 🎓&nbsp;[Reference & Education](#reference--education)&nbsp;`19` · 📖&nbsp;[Books](#books)&nbsp;`4` · 👩‍🎓&nbsp;[Courses and Videos](#courses-and-videos)&nbsp;`19` · 📈&nbsp;[Business Software](#business-software)&nbsp;`25` · 🏃🏻‍♀️&nbsp;[Health & Fitness Software](#health--fitness-software)&nbsp;`34` · 🎁&nbsp;[Bundles](#bundles)&nbsp;`7` · 🎶&nbsp;[Creative Content](#creative-content)&nbsp;`10` · 🤑&nbsp;[Finance](#finance)&nbsp;`19` · 🗺️&nbsp;[Navigation](#navigation)&nbsp;`4` · 🔎&nbsp;[SEO](#seo)&nbsp;`24` · 🏡&nbsp;[Home Automation](#home-automation)&nbsp;`3` · 🕹&nbsp;[Games](#games)&nbsp;`13`
+🛠&nbsp;[Development Software](#development-software)&nbsp;`103` · 🤖&nbsp;[AI Tools](#ai-tools)&nbsp;`83` · 🌈&nbsp;[Marketing Software](#marketing-software)&nbsp;`35` · 🎩&nbsp;[Security Software](#security-software)&nbsp;`30` · 🎛&nbsp;[Utility Software](#utility-software)&nbsp;`183` · 📌&nbsp;[Productivity Software](#productivity-software)&nbsp;`163` · 🎥&nbsp;[Video Software](#video-software)&nbsp;`55` · 🎨&nbsp;[Graphic Software](#graphic-software)&nbsp;`54` · 🏝️&nbsp;[Lifestyle](#lifestyle)&nbsp;`32` · 🗣️&nbsp;[Social](#social)&nbsp;`9` · 🎓&nbsp;[Reference & Education](#reference--education)&nbsp;`19` · 📖&nbsp;[Books](#books)&nbsp;`4` · 👩‍🎓&nbsp;[Courses and Videos](#courses-and-videos)&nbsp;`19` · 📈&nbsp;[Business Software](#business-software)&nbsp;`25` · 🏃🏻‍♀️&nbsp;[Health & Fitness Software](#health--fitness-software)&nbsp;`34` · 🎁&nbsp;[Bundles](#bundles)&nbsp;`7` · 🎶&nbsp;[Creative Content](#creative-content)&nbsp;`10` · 🤑&nbsp;[Finance](#finance)&nbsp;`19` · 🗺️&nbsp;[Navigation](#navigation)&nbsp;`4` · 🔎&nbsp;[SEO](#seo)&nbsp;`24` · 🏡&nbsp;[Home Automation](#home-automation)&nbsp;`3` · 🕹&nbsp;[Games](#games)&nbsp;`13`
 
 <a id="development-software"></a>
 
@@ -267,6 +267,7 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 | 💸 | **[Tantra](https://deals.usetantra.com/)**<br>Tantra is an AI-first GTM outreach tool that sends hyper-personalized outreach across email, LinkedIn, WhatsApp and Google Calendar. Every reply lands in one unified inbox. Priced per company, with no per-seat fees. | <b>50% off monthly and yearly Pro and Scale plans for life</b><br>`TANTRA50` · New customers only. · Nov&nbsp;1&nbsp;–&nbsp;Dec&nbsp;5 |
 | 💰 | **[uql](https://getuql.com/black-friday?utm_source=black-friday-deals)**<br>All your links, in one place: Smart links that send each device to the right app store, Short links, and Link in Bio pages, each with an editable QR code and real-click analytics. Free plan available. | <b>20% off the first year of any yearly plan</b><br>`BF2026` · Yearly plans only (Plus, Premium, Super); first payment of an account; the code is applied automatically at checkout; renews at the usual price · Nov&nbsp;23&nbsp;–&nbsp;Dec&nbsp;6 |
 | 💸 | **[MailValid](https://mailvalid.io/pricing)**<br>Email verification API and bulk list cleaner. Checks if addresses can receive mail and flags catch-all, disposable and role-based addresses separately. | <b>50% off your first 3 months of MailValid Plus or your first pay-as-you-go pack</b><br>`BLACKFRIDAY50` · New purchases only; one deal per account; Plus is a monthly plan, regular price after 3 months · Nov&nbsp;26&nbsp;–&nbsp;Dec&nbsp;1 |
+|  | **[MailSketch](https://mailsketch.com/pricing?utm_source=mrs_black_friday&utm_medium=directory&utm_campaign=bf2026#lifetime)**<br>Beautiful marketing emails in minutes, not hours. 1,200+ templates, drag and drop, export to Klaviyo or Mailchimp. | <b>Lifetime plan $99 once (Solo), $249 Team, $499 Business; no subscription</b><br>No code needed, applied automatically. Paid once, no renewals. Lifetime plans are available for a limited time and in limited numbers. · Nov&nbsp;26&nbsp;–&nbsp;Dec&nbsp;31 |
 
 <p align="right"><a href="#categories">↑ Categories</a></p>
 
@@ -669,6 +670,7 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 | 💸 | **[MailMaven](https://smallcubed.com/pricing)**<br>Mac email client with message tagging, rules, templates, signatures, AppleScript automation and MCP integration. | <b>50% off a new license or a 12-month maintenance extension ($75 → $37.50)</b><br>Sale price applied automatically. No coupon needed. A new license includes 12 months of maintenance. · Nov&nbsp;26&nbsp;–&nbsp;Dec&nbsp;1 |
 | 💰 | **[Speakmac](https://www.speakmac.app/buy?utm_source=mrsbf&utm_campaign=bf2026)**<br>Private, offline voice dictation in any Mac app and bot-free meeting notes. Runs locally on your Mac with on-device speech recognition and text cleanup — no subscription. | <b>35% off one-time Mac licenses ($29 → $18.85 for 1 Mac, $39 → $25.35 for 2 Macs)</b><br>`BF2026` · One-time purchase with 12 months of updates; code BF2026 is automatically applied at checkout · Nov&nbsp;26&nbsp;–&nbsp;Dec&nbsp;7 |
 | 💰 | **[Stowmory: Find Your Things](https://apps.apple.com/redeem?ctx=offercodes&id=6832139980&code=STOWMORYBF40)**<br>Scan belongings, say where you put them, and find them later by name or location on iPhone. | <b>40% off the first year of Plus ($5.90, then $9.90/year)</b><br>`STOWMORYBF40` · U.S. App Store only. $5.90 for the first year of Plus. Then $9.90/year with auto-renewal. Redeem by Nov 30, 2026 PT. · Nov&nbsp;26&nbsp;–&nbsp;Nov&nbsp;30 |
+| 💸 | **[PasteNotch](https://pastenotch.com/black-friday)**<br>The clipboard manager in your Mac notch: every clip searchable, one shortcut away. | <b>50% off, paid once ($4.99 → $2.49)</b><br>`BLACKFRIDAY50` · One-time purchase, new purchases only. The Buy button pre-fills the code. Requires macOS 14 or later. · Nov&nbsp;23&nbsp;–&nbsp;Dec&nbsp;1 |
 
 <p align="right"><a href="#categories">↑ Categories</a></p>
 
@@ -1147,7 +1149,7 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 
 <p align="right"><a href="#categories">↑ Categories</a></p>
 
-<!-- DEALS:END checksum:cfe0aba3fe79 -->
+<!-- DEALS:END checksum:5ae45d8252e3 -->
 
 ## Add your deal
 
