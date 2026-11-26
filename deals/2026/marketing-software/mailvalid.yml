@@ -1,0 +1,9 @@
+name: "MailValid"
+url: "https://mailvalid.io/pricing"
+description: "Email verification API and bulk list cleaner. Checks if addresses can receive mail and flags catch-all, disposable and role-based addresses separately."
+discount: "50% off your first 3 months of MailValid Plus or your first pay-as-you-go pack"
+percent: 50
+code: "BLACKFRIDAY50"
+terms: "New purchases only; one deal per account; Plus is a monthly plan, regular price after 3 months"
+starts: "2026-11-26"
+ends: "2026-12-01"
