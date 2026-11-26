@@ -19,9 +19,9 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 
 ## Categories
 
-**911 deals** in 22 categories. 💸 marks 50% off or more, 💰 less than 50%.
+**912 deals** in 22 categories. 💸 marks 50% off or more, 💰 less than 50%.
 
-🛠&nbsp;[Development Software](#development-software)&nbsp;`103` · 🤖&nbsp;[AI Tools](#ai-tools)&nbsp;`83` · 🌈&nbsp;[Marketing Software](#marketing-software)&nbsp;`33` · 🎩&nbsp;[Security Software](#security-software)&nbsp;`30` · 🎛&nbsp;[Utility Software](#utility-software)&nbsp;`178` · 📌&nbsp;[Productivity Software](#productivity-software)&nbsp;`162` · 🎥&nbsp;[Video Software](#video-software)&nbsp;`52` · 🎨&nbsp;[Graphic Software](#graphic-software)&nbsp;`54` · 🏝️&nbsp;[Lifestyle](#lifestyle)&nbsp;`31` · 🗣️&nbsp;[Social](#social)&nbsp;`9` · 🎓&nbsp;[Reference & Education](#reference--education)&nbsp;`18` · 📖&nbsp;[Books](#books)&nbsp;`2` · 👩‍🎓&nbsp;[Courses and Videos](#courses-and-videos)&nbsp;`19` · 📈&nbsp;[Business Software](#business-software)&nbsp;`24` · 🏃🏻‍♀️&nbsp;[Health & Fitness Software](#health--fitness-software)&nbsp;`34` · 🎁&nbsp;[Bundles](#bundles)&nbsp;`7` · 🎶&nbsp;[Creative Content](#creative-content)&nbsp;`10` · 🤑&nbsp;[Finance](#finance)&nbsp;`19` · 🗺️&nbsp;[Navigation](#navigation)&nbsp;`3` · 🔎&nbsp;[SEO](#seo)&nbsp;`24` · 🏡&nbsp;[Home Automation](#home-automation)&nbsp;`3` · 🕹&nbsp;[Games](#games)&nbsp;`13`
+🛠&nbsp;[Development Software](#development-software)&nbsp;`103` · 🤖&nbsp;[AI Tools](#ai-tools)&nbsp;`83` · 🌈&nbsp;[Marketing Software](#marketing-software)&nbsp;`33` · 🎩&nbsp;[Security Software](#security-software)&nbsp;`30` · 🎛&nbsp;[Utility Software](#utility-software)&nbsp;`179` · 📌&nbsp;[Productivity Software](#productivity-software)&nbsp;`162` · 🎥&nbsp;[Video Software](#video-software)&nbsp;`52` · 🎨&nbsp;[Graphic Software](#graphic-software)&nbsp;`54` · 🏝️&nbsp;[Lifestyle](#lifestyle)&nbsp;`31` · 🗣️&nbsp;[Social](#social)&nbsp;`9` · 🎓&nbsp;[Reference & Education](#reference--education)&nbsp;`18` · 📖&nbsp;[Books](#books)&nbsp;`2` · 👩‍🎓&nbsp;[Courses and Videos](#courses-and-videos)&nbsp;`19` · 📈&nbsp;[Business Software](#business-software)&nbsp;`24` · 🏃🏻‍♀️&nbsp;[Health & Fitness Software](#health--fitness-software)&nbsp;`34` · 🎁&nbsp;[Bundles](#bundles)&nbsp;`7` · 🎶&nbsp;[Creative Content](#creative-content)&nbsp;`10` · 🤑&nbsp;[Finance](#finance)&nbsp;`19` · 🗺️&nbsp;[Navigation](#navigation)&nbsp;`3` · 🔎&nbsp;[SEO](#seo)&nbsp;`24` · 🏡&nbsp;[Home Automation](#home-automation)&nbsp;`3` · 🕹&nbsp;[Games](#games)&nbsp;`13`
 
 <a id="development-software"></a>
 
@@ -492,6 +492,7 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 | 💸 | **[DockSpark](https://dockspark.app/en/pricing)**<br>Hover a supported browser icon in the macOS Dock and switch profiles or open a private window, without using the browser's profile menu. | <b>$0.99 one-time for 1 Mac (regular $1.99); no code needed</b><br>1-Mac one-time license. Sale price is shown on the site. Official site also labels $0.99 as early-bird. · Nov&nbsp;19&nbsp;–&nbsp;Dec&nbsp;1 |
 | 💸 | **[noswitch](https://www.nosub.dev/noswitch?utm_source=github-mrs&utm_medium=deal&utm_campaign=bf2026)**<br>Turns your MacBook notch into a hub: clipboard history, screenshots, a file shelf, Claude Code and Codex agent status, and keep-awake, one hover away. | <b>50% off, $7.49 instead of $14.99</b><br>Applied automatically, no code needed. One-time purchase, macOS 14+. Ends Mon Nov 30, 11:59 pm PT. · Nov&nbsp;26&nbsp;–&nbsp;Nov&nbsp;30 |
 | 💰 | **[CacheFlo](https://www.cacheflo.net/#pricing)**<br>Mac cleaner built for privacy and security: cleans junk and app leftovers, finds duplicates and checks your Mac's security. Sends nothing about your Mac anywhere; you tick every item and everything goes to the Trash first. Apple silicon, macOS 13+. | <b>20% off the one-time licence: €39.99 → €31.99 (1 Mac), €59.99 → €47.99 (2 Macs)</b><br>`CYBERMONDAY26` · one-time purchase, no subscription; 14-day free trial; ends 30 Nov 23:59 Malta time · Nov&nbsp;27&nbsp;–&nbsp;Nov&nbsp;30 |
+| 💸 | **[Clearpane](https://getclearpane.app/?utm_source=mrs-bf&utm_campaign=bf2026#pricing)**<br>Activity Monitor in plain English for Mac. Tells you in one sentence what's slowing your Mac down, explains every process and says whether it's safe to quit. Everything stays on your Mac. | <b>One-time license $19 → $9, no code needed</b><br>Black Friday price. One payment, no subscription, every update, 2 Macs. Free check-up and a 7-day full trial first, no account. $19 from Dec 2. macOS 14+. · Nov&nbsp;26&nbsp;–&nbsp;Dec&nbsp;1 |
 
 <p align="right"><a href="#categories">↑ Categories</a></p>
 
@@ -1132,7 +1133,7 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 
 <p align="right"><a href="#categories">↑ Categories</a></p>
 
-<!-- DEALS:END checksum:8afc0a8eb5a3 -->
+<!-- DEALS:END checksum:b27878d672ed -->
 
 ## Add your deal
 
