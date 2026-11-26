@@ -1,0 +1,6 @@
+name: "HOL Guard"
+url: "https://hol.org/guard"
+description: "HOL Guard stops risky AI agent actions before they run, like deleting a production database, installing a malicious package, or uploading private keys and cloud credentials. Free to start."
+discount: "30% off with code PROTECT-YOUR-AGENT"
+percent: 30
+code: "PROTECT-YOUR-AGENT"
