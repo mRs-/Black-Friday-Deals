@@ -19,9 +19,9 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 
 ## Categories
 
-**899 deals** in 22 categories. 💸 marks 50% off or more, 💰 less than 50%.
+**902 deals** in 22 categories. 💸 marks 50% off or more, 💰 less than 50%.
 
-🛠&nbsp;[Development Software](#development-software)&nbsp;`102` · 🤖&nbsp;[AI Tools](#ai-tools)&nbsp;`83` · 🌈&nbsp;[Marketing Software](#marketing-software)&nbsp;`32` · 🎩&nbsp;[Security Software](#security-software)&nbsp;`30` · 🎛&nbsp;[Utility Software](#utility-software)&nbsp;`176` · 📌&nbsp;[Productivity Software](#productivity-software)&nbsp;`159` · 🎥&nbsp;[Video Software](#video-software)&nbsp;`51` · 🎨&nbsp;[Graphic Software](#graphic-software)&nbsp;`52` · 🏝️&nbsp;[Lifestyle](#lifestyle)&nbsp;`31` · 🗣️&nbsp;[Social](#social)&nbsp;`9` · 🎓&nbsp;[Reference & Education](#reference--education)&nbsp;`18` · 📖&nbsp;[Books](#books)&nbsp;`2` · 👩‍🎓&nbsp;[Courses and Videos](#courses-and-videos)&nbsp;`19` · 📈&nbsp;[Business Software](#business-software)&nbsp;`24` · 🏃🏻‍♀️&nbsp;[Health & Fitness Software](#health--fitness-software)&nbsp;`34` · 🎁&nbsp;[Bundles](#bundles)&nbsp;`6` · 🎶&nbsp;[Creative Content](#creative-content)&nbsp;`10` · 🤑&nbsp;[Finance](#finance)&nbsp;`18` · 🗺️&nbsp;[Navigation](#navigation)&nbsp;`3` · 🔎&nbsp;[SEO](#seo)&nbsp;`24` · 🏡&nbsp;[Home Automation](#home-automation)&nbsp;`3` · 🕹&nbsp;[Games](#games)&nbsp;`13`
+🛠&nbsp;[Development Software](#development-software)&nbsp;`102` · 🤖&nbsp;[AI Tools](#ai-tools)&nbsp;`83` · 🌈&nbsp;[Marketing Software](#marketing-software)&nbsp;`32` · 🎩&nbsp;[Security Software](#security-software)&nbsp;`30` · 🎛&nbsp;[Utility Software](#utility-software)&nbsp;`176` · 📌&nbsp;[Productivity Software](#productivity-software)&nbsp;`160` · 🎥&nbsp;[Video Software](#video-software)&nbsp;`51` · 🎨&nbsp;[Graphic Software](#graphic-software)&nbsp;`53` · 🏝️&nbsp;[Lifestyle](#lifestyle)&nbsp;`31` · 🗣️&nbsp;[Social](#social)&nbsp;`9` · 🎓&nbsp;[Reference & Education](#reference--education)&nbsp;`18` · 📖&nbsp;[Books](#books)&nbsp;`2` · 👩‍🎓&nbsp;[Courses and Videos](#courses-and-videos)&nbsp;`19` · 📈&nbsp;[Business Software](#business-software)&nbsp;`24` · 🏃🏻‍♀️&nbsp;[Health & Fitness Software](#health--fitness-software)&nbsp;`34` · 🎁&nbsp;[Bundles](#bundles)&nbsp;`6` · 🎶&nbsp;[Creative Content](#creative-content)&nbsp;`10` · 🤑&nbsp;[Finance](#finance)&nbsp;`19` · 🗺️&nbsp;[Navigation](#navigation)&nbsp;`3` · 🔎&nbsp;[SEO](#seo)&nbsp;`24` · 🏡&nbsp;[Home Automation](#home-automation)&nbsp;`3` · 🕹&nbsp;[Games](#games)&nbsp;`13`
 
 <a id="development-software"></a>
 
@@ -656,6 +656,7 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 |  | **[Caddy Docs](https://apps.apple.com/us/app/caddy-docs/id6802867430?mt=12)**<br>Colorful tabs at the edge of your Mac hold each project's files, PDFs and notebook, then tuck away when you're done. Animated desktop pets live on them. | <b>Black Friday price $12.99, one-time purchase</b><br>Mac App Store price, applied automatically; no subscription; macOS 15 or later · Nov&nbsp;27&nbsp;–&nbsp;Dec&nbsp;1 |
 | 💰 | **[PuzzleBind](https://puzzlebind.com/black-friday/?utm_source=mrsdeals&utm_medium=list&utm_campaign=bf2026)**<br>Chrome extension and web app that builds print-ready Sudoku, word search and maze books for Amazon KDP as PDFs, in your browser with no account. | <b>Pro lifetime ~~$19~~ $14, one-time payment</b><br>Automatically applied, no code needed; no subscription; 30-day refund · until&nbsp;Nov&nbsp;30 |
 |  | **[DoMyWork - Workspace with AI Teammates](https://domywork.ai/bf2026/)**<br>Workspace with databases, docs, tasks, and dashboards, where your team and AI agents work together. | <b>First 3 months free from signup, every feature, whole team and unlimited agents</b><br>New companies; auto-applied, no code or card, no automatic renewal. $3 starter AI credit, then AI usage via your own OpenRouter key. Sign up by Nov 30, 2026, 11:59 pm PT. · until&nbsp;Nov&nbsp;30 |
+| 💸 | **[MailMaven](https://smallcubed.com/pricing)**<br>Mac email client with message tagging, rules, templates, signatures, AppleScript automation and MCP integration. | <b>50% off a new license or a 12-month maintenance extension ($75 → $37.50)</b><br>Sale price applied automatically. No coupon needed. A new license includes 12 months of maintenance. · Nov&nbsp;26&nbsp;–&nbsp;Dec&nbsp;1 |
 
 <p align="right"><a href="#categories">↑ Categories</a></p>
 
@@ -777,6 +778,7 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 | 💰 | **[A1](https://www.a1.gallery/pricing?utm_source=mrsbf&utm_medium=directory&utm_campaign=bf2026)**<br>A hand-picked gallery of real, live websites for design inspiration. Browse sites, sections and full pages with the fonts, colours and spacing each one uses. | <b>33% off A1 Pro yearly ($72 → $48 a year)</b><br>Applied automatically at checkout, no code needed; new yearly plans; you keep the price for as long as you stay subscribed · Nov&nbsp;19&nbsp;–&nbsp;Nov&nbsp;30 |
 | 💸 | **[bitLight: RAW Photo Editor](https://apps.apple.com/app/id6822924026)**<br>Native Mac RAW photo editor for culling and non-destructive developing, with masks, lens corrections and HDR. | <b>50% off, $29.99 → $14.99</b><br>Mac App Store, one-time purchase, no code needed · Nov&nbsp;27&nbsp;–&nbsp;Nov&nbsp;30 |
 | 💸 | **[DepthField Photo](https://depthfield.photo/?ref=mariuslandwehr&utm_source=mariuslandwehr&utm_medium=deals&utm_campaign=blackfriday)**<br>Image editing reinvented for the modern age; combines generative AI features with the power of a traditional layered editor, so you can get the results you want with minimal effort and full creative control. 'The image editor Hollywood promised us' | <b>$29 (down from $69) lifetime license</b><br>Select Buy DepthField Photo on the product page for the founding price. No code needed. · Nov&nbsp;25&nbsp;–&nbsp;Dec&nbsp;31 |
+| 💰 | **[holoform](https://holoform.cc/pricing?promo=BLACKFRIDAY)**<br>Browser studio for layered trading cards and photocards: 3D holo/foil previews, 300 DPI layout exports, and AI line art. | <b>20% off all AI credit packs + 10% extra bonus credits</b><br>`BLACKFRIDAY` · one-time credit packs; +10% extra bonus credits applied automatically · Nov&nbsp;26&nbsp;–&nbsp;Dec&nbsp;1 |
 
 <p align="right"><a href="#categories">↑ Categories</a></p>
 
@@ -1038,6 +1040,7 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 | 💸 | **[TotalFigures](https://totalfigures.app/?ref=bf26-mrs)**<br>Know where your money goes and whether you're getting ahead, with your net worth and every transaction tracked in one private app. | <b>88% off Premium: Lifetime ~~$79.99~~ **$9.59**, or the first year of Yearly ~~$29.99~~ **$3.59**</b><br>Applied automatically on the App Store, no code needed. Yearly offer for new subscribers, then $29.99/year, until Dec 2. US prices; local prices vary. · Nov&nbsp;21&nbsp;–&nbsp;Dec&nbsp;3 |
 | 💰 | **[Paperkeep](https://paperkeep.be/pro.html)**<br>Free browser extension (Chrome, Edge, Firefox) that downloads and renames your SaaS invoices (ChatGPT, Canva, Meta Ads, Google Workspace...) in one click. Works locally, no account. | <b>30% off the first year of Pro (€39 → €27.30)</b><br>`PAPERKEEP30` · Enter the code on the payment page (Add promotion code); new subscribers; then €39/year, cancel anytime · Nov&nbsp;24&nbsp;–&nbsp;Dec&nbsp;1 |
 | 💸 | **[CryptoKeyhole](https://cryptokeyhole.com/pricing/?utm_source=mrs-bf&utm_medium=listing&utm_campaign=blackfriday-2026)**<br>On-chain, derivatives and ETF analytics for Bitcoin, Ethereum and a growing list of coins, calculated on our own nodes: liquidation maps, cycle indicators, exchange flows, ETF flows and treasury companies. | <b>50% off the first three months of Plus or Pro on monthly billing, or 30% off the first year on yearly billing</b><br>For new subscribers. No code needed: the price is taken off at checkout. Plus is ~~$18~~ $9 a month for three months, or ~~$180~~ $126 for the first year, then the normal price. Ends 1 December 2026, 23:59 UTC. 14-day money-back guarantee. · Nov&nbsp;20&nbsp;–&nbsp;Dec&nbsp;1 |
+| 💰 | **[BrassWell](https://brasswell.app/black-friday)**<br>Bookkeeping for the self-employed on iPhone, iPad, Android and web: income, expenses, receipts, mileage, invoices and a running tax set-aside. | <b>25% off the first year of Pro yearly: $299 → $224.25</b><br>`BLACKFRIDAY25` · new subscribers; 14-day free trial, no card · Nov&nbsp;23&nbsp;–&nbsp;Nov&nbsp;30 |
 
 <p align="right"><a href="#categories">↑ Categories</a></p>
 
@@ -1120,7 +1123,7 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 
 <p align="right"><a href="#categories">↑ Categories</a></p>
 
-<!-- DEALS:END checksum:16659abfc803 -->
+<!-- DEALS:END checksum:c6209cc28dc4 -->
 
 ## Add your deal
 
