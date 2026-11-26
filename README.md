@@ -19,9 +19,9 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 
 ## Categories
 
-**943 deals** in 22 categories. 💸 marks 50% off or more, 💰 less than 50%.
+**945 deals** in 22 categories. 💸 marks 50% off or more, 💰 less than 50%.
 
-🛠&nbsp;[Development Software](#development-software)&nbsp;`104` · 🤖&nbsp;[AI Tools](#ai-tools)&nbsp;`84` · 🌈&nbsp;[Marketing Software](#marketing-software)&nbsp;`39` · 🎩&nbsp;[Security Software](#security-software)&nbsp;`31` · 🎛&nbsp;[Utility Software](#utility-software)&nbsp;`185` · 📌&nbsp;[Productivity Software](#productivity-software)&nbsp;`164` · 🎥&nbsp;[Video Software](#video-software)&nbsp;`56` · 🎨&nbsp;[Graphic Software](#graphic-software)&nbsp;`54` · 🏝️&nbsp;[Lifestyle](#lifestyle)&nbsp;`33` · 🗣️&nbsp;[Social](#social)&nbsp;`9` · 🎓&nbsp;[Reference & Education](#reference--education)&nbsp;`19` · 📖&nbsp;[Books](#books)&nbsp;`4` · 👩‍🎓&nbsp;[Courses and Videos](#courses-and-videos)&nbsp;`19` · 📈&nbsp;[Business Software](#business-software)&nbsp;`26` · 🏃🏻‍♀️&nbsp;[Health & Fitness Software](#health--fitness-software)&nbsp;`35` · 🎁&nbsp;[Bundles](#bundles)&nbsp;`7` · 🎶&nbsp;[Creative Content](#creative-content)&nbsp;`10` · 🤑&nbsp;[Finance](#finance)&nbsp;`20` · 🗺️&nbsp;[Navigation](#navigation)&nbsp;`4` · 🔎&nbsp;[SEO](#seo)&nbsp;`24` · 🏡&nbsp;[Home Automation](#home-automation)&nbsp;`3` · 🕹&nbsp;[Games](#games)&nbsp;`13`
+🛠&nbsp;[Development Software](#development-software)&nbsp;`104` · 🤖&nbsp;[AI Tools](#ai-tools)&nbsp;`84` · 🌈&nbsp;[Marketing Software](#marketing-software)&nbsp;`39` · 🎩&nbsp;[Security Software](#security-software)&nbsp;`31` · 🎛&nbsp;[Utility Software](#utility-software)&nbsp;`186` · 📌&nbsp;[Productivity Software](#productivity-software)&nbsp;`165` · 🎥&nbsp;[Video Software](#video-software)&nbsp;`56` · 🎨&nbsp;[Graphic Software](#graphic-software)&nbsp;`54` · 🏝️&nbsp;[Lifestyle](#lifestyle)&nbsp;`33` · 🗣️&nbsp;[Social](#social)&nbsp;`9` · 🎓&nbsp;[Reference & Education](#reference--education)&nbsp;`19` · 📖&nbsp;[Books](#books)&nbsp;`4` · 👩‍🎓&nbsp;[Courses and Videos](#courses-and-videos)&nbsp;`19` · 📈&nbsp;[Business Software](#business-software)&nbsp;`26` · 🏃🏻‍♀️&nbsp;[Health & Fitness Software](#health--fitness-software)&nbsp;`35` · 🎁&nbsp;[Bundles](#bundles)&nbsp;`7` · 🎶&nbsp;[Creative Content](#creative-content)&nbsp;`10` · 🤑&nbsp;[Finance](#finance)&nbsp;`20` · 🗺️&nbsp;[Navigation](#navigation)&nbsp;`4` · 🔎&nbsp;[SEO](#seo)&nbsp;`24` · 🏡&nbsp;[Home Automation](#home-automation)&nbsp;`3` · 🕹&nbsp;[Games](#games)&nbsp;`13`
 
 <a id="development-software"></a>
 
@@ -508,6 +508,7 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 | 💰 | **[GlowTrans](https://glowtrans.beautare.com/en/#pricing)**<br>Translate while typing on macOS and Windows. Pause to see a translation beside your cursor, then click to replace your text. | <b>Yearly card $35 for 365 days, about 27% less than 12 monthly cards ($47.88)</b><br>One-time purchase in the app; no code or auto-renewal. Monthly card is $3.99 for 30 days. Tax may apply. Ends at 11:59 PM Pacific Time. · until&nbsp;Nov&nbsp;30 |
 | 💰 | **[XeOS: External Display Desktop](https://apps.apple.com/redeem?ctx=offercodes&id=6758286241&code=XEOSREDDIT)**<br>Desktop mode for iPhone and iPad: turn any monitor, TV, projector or smart glasses into a full desktop with windows, files, mouse and keyboard and a real browser. | <b>25% off the lifetime unlock ($39.99 → $29.99)</b><br>`XEOSREDDIT` · iPhone and iPad app on the App Store. Lifetime unlock; free 7-day trial available. · until&nbsp;Dec&nbsp;1 |
 | 💸 | **[AbcTab](https://solocraft.app/abctab)**<br>Native macOS ⌘-Tab switcher with instant first-letter jump, multi-window & terminal tab lists, and zero Screen Recording permission. | <b>50% off lifetime license ($9.99 → $4.99)</b><br>`BF50` · One-time purchase, 1 Mac with self-service transfer, 14-day free trial. Requires macOS 14+. · Nov&nbsp;27&nbsp;–&nbsp;Dec&nbsp;2 |
+| 💸 | **[HEIC to JPG – Pics2PDF](https://apps.apple.com/app/id6748744676)**<br>Convert images to JPG, PNG or PDF. | <b>50% OFF Lifetime unlock, $9.99 → $4.99</b><br>Sale price applies automatically to the lifetime purchase on the App Store. No code needed. |
 
 <p align="right"><a href="#categories">↑ Categories</a></p>
 
@@ -681,6 +682,7 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 | 💰 | **[Stowmory: Find Your Things](https://apps.apple.com/redeem?ctx=offercodes&id=6832139980&code=STOWMORYBF40)**<br>Scan belongings, say where you put them, and find them later by name or location on iPhone. | <b>40% off the first year of Plus ($5.90, then $9.90/year)</b><br>`STOWMORYBF40` · U.S. App Store only. $5.90 for the first year of Plus. Then $9.90/year with auto-renewal. Redeem by Nov 30, 2026 PT. · Nov&nbsp;26&nbsp;–&nbsp;Nov&nbsp;30 |
 | 💸 | **[PasteNotch](https://pastenotch.com/black-friday)**<br>The clipboard manager in your Mac notch: every clip searchable, one shortcut away. | <b>50% off, paid once ($4.99 → $2.49)</b><br>`BLACKFRIDAY50` · One-time purchase, new purchases only. The Buy button pre-fills the code. Requires macOS 14 or later. · Nov&nbsp;23&nbsp;–&nbsp;Dec&nbsp;1 |
 | 💰 | **[Gorby](https://gorby.app/offers/black-friday-2026/?utm_source=mrs-black-friday&utm_campaign=black-friday-2026)**<br>Self-editing app for writers on the web, Windows and Mac that shows the reading level of every paragraph, colors each sentence by length, and flags the words you could cut. | <b>30% off: 1-year license $75 → $52.50, Lifetime license $150 → $105</b><br>`GORBYBF26` · One-time payments with no automatic renewal. The 1-month license isn't included. · Nov&nbsp;20&nbsp;–&nbsp;Dec&nbsp;15 |
+| 💸 | **[Bookmark Links: PostPocket](https://apps.apple.com/app/id6670723615)**<br>Save links to read later while scrolling. | <b>50% off lifetime plan ($9.99 -> $4.99)</b><br>Sale price applies automatically to the lifetime purchase on the App Store. No code needed. · Nov&nbsp;26&nbsp;–&nbsp;Jan&nbsp;3,&nbsp;2027 |
 
 <p align="right"><a href="#categories">↑ Categories</a></p>
 
@@ -1164,7 +1166,7 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 
 <p align="right"><a href="#categories">↑ Categories</a></p>
 
-<!-- DEALS:END checksum:cd04a8d0917e -->
+<!-- DEALS:END checksum:cc2e978cdd1c -->
 
 ## Add your deal
 
