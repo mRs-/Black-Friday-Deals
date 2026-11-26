@@ -1,0 +1,9 @@
+name: "Exit Loop"
+url: "https://www.exitloop.app/black-friday"
+description: "Cancel flows and failed-payment recovery for SaaS companies that bill with Stripe. Asks why a subscriber cancels and shows one relevant offer. Flat price, no revenue share."
+discount: "50% off the first year of the yearly plan ($149 → $74.50)"
+percent: 50
+code: "BLACKFRIDAY50"
+terms: "New customers only; yearly plan only; 7-day free trial, card required; renews at $149/year; ends Dec 1, 2026 23:59 CET"
+starts: "2026-11-26"
+ends: "2026-12-01"
