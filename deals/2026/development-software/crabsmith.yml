@@ -1,0 +1,9 @@
+name: "Crabsmith"
+url: "https://crabsmith.com/?utm_source=mrsbf&utm_campaign=bf2026#pricing"
+description: "Hosted control panel for your own Ubuntu servers: push-to-deploy Laravel, PHP, Node.js and Next.js over plain SSH, with Caddy automatic HTTPS, systemd workers and firewall."
+discount: "40% off any plan, for life"
+percent: 40
+code: "BLACKFRIDAY40"
+terms: "Hobby ~~$5~~ $3/mo, Pro ~~$12~~ $7.20/mo, Pro yearly ~~$120~~ $72; 7-day free trial, no card"
+starts: "2026-11-26"
+ends: "2026-12-01"
