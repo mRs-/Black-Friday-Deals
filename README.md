@@ -19,9 +19,9 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 
 ## Categories
 
-**888 deals** in 22 categories. 💸 marks 50% off or more, 💰 less than 50%.
+**892 deals** in 22 categories. 💸 marks 50% off or more, 💰 less than 50%.
 
-🛠&nbsp;[Development Software](#development-software)&nbsp;`101` · 🤖&nbsp;[AI Tools](#ai-tools)&nbsp;`83` · 🌈&nbsp;[Marketing Software](#marketing-software)&nbsp;`32` · 🎩&nbsp;[Security Software](#security-software)&nbsp;`30` · 🎛&nbsp;[Utility Software](#utility-software)&nbsp;`175` · 📌&nbsp;[Productivity Software](#productivity-software)&nbsp;`156` · 🎥&nbsp;[Video Software](#video-software)&nbsp;`51` · 🎨&nbsp;[Graphic Software](#graphic-software)&nbsp;`52` · 🏝️&nbsp;[Lifestyle](#lifestyle)&nbsp;`30` · 🗣️&nbsp;[Social](#social)&nbsp;`9` · 🎓&nbsp;[Reference & Education](#reference--education)&nbsp;`18` · 📖&nbsp;[Books](#books)&nbsp;`1` · 👩‍🎓&nbsp;[Courses and Videos](#courses-and-videos)&nbsp;`17` · 📈&nbsp;[Business Software](#business-software)&nbsp;`24` · 🏃🏻‍♀️&nbsp;[Health & Fitness Software](#health--fitness-software)&nbsp;`34` · 🎁&nbsp;[Bundles](#bundles)&nbsp;`6` · 🎶&nbsp;[Creative Content](#creative-content)&nbsp;`10` · 🤑&nbsp;[Finance](#finance)&nbsp;`18` · 🗺️&nbsp;[Navigation](#navigation)&nbsp;`3` · 🔎&nbsp;[SEO](#seo)&nbsp;`24` · 🏡&nbsp;[Home Automation](#home-automation)&nbsp;`2` · 🕹&nbsp;[Games](#games)&nbsp;`12`
+🛠&nbsp;[Development Software](#development-software)&nbsp;`101` · 🤖&nbsp;[AI Tools](#ai-tools)&nbsp;`83` · 🌈&nbsp;[Marketing Software](#marketing-software)&nbsp;`32` · 🎩&nbsp;[Security Software](#security-software)&nbsp;`30` · 🎛&nbsp;[Utility Software](#utility-software)&nbsp;`175` · 📌&nbsp;[Productivity Software](#productivity-software)&nbsp;`157` · 🎥&nbsp;[Video Software](#video-software)&nbsp;`51` · 🎨&nbsp;[Graphic Software](#graphic-software)&nbsp;`52` · 🏝️&nbsp;[Lifestyle](#lifestyle)&nbsp;`31` · 🗣️&nbsp;[Social](#social)&nbsp;`9` · 🎓&nbsp;[Reference & Education](#reference--education)&nbsp;`18` · 📖&nbsp;[Books](#books)&nbsp;`2` · 👩‍🎓&nbsp;[Courses and Videos](#courses-and-videos)&nbsp;`18` · 📈&nbsp;[Business Software](#business-software)&nbsp;`24` · 🏃🏻‍♀️&nbsp;[Health & Fitness Software](#health--fitness-software)&nbsp;`34` · 🎁&nbsp;[Bundles](#bundles)&nbsp;`6` · 🎶&nbsp;[Creative Content](#creative-content)&nbsp;`10` · 🤑&nbsp;[Finance](#finance)&nbsp;`18` · 🗺️&nbsp;[Navigation](#navigation)&nbsp;`3` · 🔎&nbsp;[SEO](#seo)&nbsp;`24` · 🏡&nbsp;[Home Automation](#home-automation)&nbsp;`2` · 🕹&nbsp;[Games](#games)&nbsp;`12`
 
 <a id="development-software"></a>
 
@@ -651,6 +651,7 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 | 💰 | **[QuickScan](https://apps.apple.com/app/id1513790291)**<br>Private document scanner for iPhone and iPad: auto edge detection, OCR for searchable PDFs, signatures, and auto-filing to iCloud, Dropbox, Google Drive, your NAS or Paperless-ngx. Everything stays on-device, no ads, no data collection. | <b>30% to 70% off in-app purchases, depending on country</b><br>Applied automatically in the App Store; the app itself is free |
 | 💰 | **[KillSwitch](https://killswitch.prodigysolutions.tech/?utm_source=marius)**<br>1-click macOS focus blocker with no pause button, no bypasses, and zero blacklist/whitelist setup. Blocks only distractions (social, video, adult, gaming) while keeping work, AI, docs & dev tools open. 7-day free trial (no card), pay once. | <b>30% off all perpetual licenses (Solo $49 → $34.30, Duo $79 → $55.30)</b><br>`BLACKFRIDAY2026` · One-time purchase (perpetual license with 1 year of updates included). Requires macOS 12+. 7-day free trial available with no card required. · Nov&nbsp;25&nbsp;–&nbsp;Dec&nbsp;1 |
 | 💸 | **[Astrolinks](https://astrolinks.org/black-friday/)**<br>Automatic time tracking by client for Mac and Windows: writes your end-of-day client reports and invoices, no screenshots. | <b>60% off the first year of Pro (Yearly): $90 now $36</b><br>`BF60YEAR` · Pro Yearly plan only; code applied automatically at checkout; renews at the normal yearly price ($90). Free plan and 7-day Pro trial, no card. · Nov&nbsp;26&nbsp;–&nbsp;Dec&nbsp;1 |
+|  | **[Caddy Docs](https://apps.apple.com/us/app/caddy-docs/id6802867430?mt=12)**<br>Colorful tabs at the edge of your Mac hold each project's files, PDFs and notebook, then tuck away when you're done. Animated desktop pets live on them. | <b>Black Friday price $12.99, one-time purchase</b><br>Mac App Store price, applied automatically; no subscription; macOS 15 or later · Nov&nbsp;27&nbsp;–&nbsp;Dec&nbsp;1 |
 
 <p align="right"><a href="#categories">↑ Categories</a></p>
 
@@ -811,6 +812,7 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 | 💸 | **[Troupe](https://apps.apple.com/us/app/troupe-plan-split-trips/id6791836108)**<br>Plan a group trip together on iPhone: the itinerary, who is coming, bookings and the shared costs in one place. | <b>Troupe Pro Lifetime ~~$29.99~~ $14.99</b><br>Automatically applied: the sale price is set on the App Store, no code. US price; other countries see the local equivalent. All nine Yuzool deals: [yuzool.com/apps/black-friday.html](https://www.yuzool.com/apps/black-friday.html) · Nov&nbsp;25&nbsp;–&nbsp;Dec&nbsp;2 |
 | 💸 | **[Baby Monitor: Private Cam](https://apps.apple.com/app/id6785552555?ct=gh-black-friday-deals)**<br>Private baby monitor app that turns two phones into a baby monitor over your home WiFi, with no cloud and no account. For iPhone and Android. | <b>50% off the first year of Pro yearly on iPhone ($14.99 → $7.49)</b><br>`BLACKFRIDAY50` · iPhone only, Android has no discount. We are the makers. Redeem at https://apps.apple.com/redeem?ctx=offercodes&id=6785552555&code=BLACKFRIDAY50 or in App Store, Redeem Gift Card or Code. First year only, new and returning subscribers. · Nov&nbsp;25&nbsp;–&nbsp;Dec&nbsp;1 |
 | 💸 | **[Home Pet Monitor](https://apps.apple.com/app/id6790505643?ct=gh-black-friday-deals)**<br>Turn an old phone into a private pet camera and watch your cat or dog live from anywhere, encrypted end to end, with no cloud recording. For iPhone and Android. | <b>50% off the first year of Pro yearly on iPhone ($14.99 → $7.49)</b><br>`BLACKFRIDAY50` · iPhone only, Android has no discount. We are the makers. Redeem at https://apps.apple.com/redeem?ctx=offercodes&id=6790505643&code=BLACKFRIDAY50 or in App Store, Redeem Gift Card or Code. First year only, new and returning subscribers. · Nov&nbsp;25&nbsp;–&nbsp;Dec&nbsp;1 |
+| 💰 | **[Scaena: TV & Movie Tracker](https://apps.apple.com/us/app/scaena-tv-movie-tracker/id6787125515)**<br>Scaena (pronounced SEE-nuh) is a modern, privacy-first tracker for TV shows, movies, and anime on iPhone and iPad. Track what you watch, get custom notifications, and seamlessly sync with Simkl. | <b>One-Time Purchase: $34.99 → $24.99 (29% off); Annual Subscription: $12.99/yr → $9.99/yr (First year)</b><br>The one-time purchase discount is applied automatically in the App Store. · Nov&nbsp;23&nbsp;–&nbsp;Dec&nbsp;2 |
 
 <p align="right"><a href="#categories">↑ Categories</a></p>
 
@@ -866,6 +868,7 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 |  | Name | Offer |
 | :-: | --- | --- |
 | 💰 | **[IELTS Magic Reading Solution](https://nexvora1.gumroad.com/)**<br>IELTS Reading solution books — Academic, General Training and Combo Pack — with step-by-step strategies and practice tests. | <b>40% off all three books</b><br>`BLACKFRIDAY40` · Enter BLACKFRIDAY40 at Gumroad checkout; Academic $6, General Training $6, Combo $10.20 after discount. · Nov&nbsp;23&nbsp;–&nbsp;Nov&nbsp;30 |
+|  | **[Build Your Own Coding Agent ebook](https://leanpub.com/build-your-own-coding-agent/c/BFCM2026)**<br>Build a small Python coding agent from scratch, including tools, memory, and tests. | <b>US$15.99 for the ebook</b><br>`BFCM2026` · Use the linked coupon page. Ends December 3, 2026 at 9:59 p.m. Pacific time (December 4 at 04:59 UTC). · until&nbsp;Dec&nbsp;3 |
 
 <p align="right"><a href="#categories">↑ Categories</a></p>
 
@@ -892,6 +895,7 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 | 💸 | **[Certificates.dev](https://certificates.dev/black-friday)**<br>Proctored developer certifications for Vue.js, Nuxt, React, Angular, JavaScript, TypeScript, Laravel and AI-Native development. | <b>Up to 60% off certification bundles, get certified with training included for $199</b><br>Sale prices applied automatically. Black Friday special: All Access Pass $999 instead of $5,000, with all framework certifications up to Mid level for 12 months, the AI-Native cert, a 3-week AI-Native bootcamp seat, 1 Senior cert and a free retake · Nov&nbsp;19&nbsp;–&nbsp;Dec&nbsp;2 |
 | 💸 | **[Unlearn](https://unlearn.dev/pricing)**<br>Courses, workflows and agent skills that teach developers to spec, build, review and ship with AI agents. | <b>56% off Unlearn Plus Lifetime, $399 once (was $899)</b><br>Sale prices applied automatically. Black Friday special: one pass opens everything for $999 (total value $2,895), with lifetime Unlearn.dev, mid-level and senior certs in a framework of your choice, the AI-Native cert and a 3-week live AI Bootcamp · Nov&nbsp;19&nbsp;–&nbsp;Dec&nbsp;2 |
 | 💰 | **[Android App Hacking Mastery](https://training.byteblind.com/products/courses/android-app-hacking)**<br>Android app pentesting course for pentesters and bug bounty hunters: 55 lessons, vulnerable APKs and lifetime access. | <b>40% off ($149 → $89.40)</b><br>`BYTENOV40` · 7-day refund guarantee. Ends Nov 30. · until&nbsp;Nov&nbsp;30 |
+|  | **[Build Your Own Coding Agent written course](https://leanpub.com/c/leanpub/build-your-own-coding-agent/c/BFCM2026)**<br>Work through the Python agent build with practice questions and quizzes. | <b>US$79 for the written course</b><br>`BFCM2026` · Use the linked coupon page. Ends December 3, 2026 at 9:59 p.m. Pacific time (December 4 at 04:59 UTC). · until&nbsp;Dec&nbsp;3 |
 
 <p align="right"><a href="#categories">↑ Categories</a></p>
 
@@ -1109,7 +1113,7 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 
 <p align="right"><a href="#categories">↑ Categories</a></p>
 
-<!-- DEALS:END checksum:5cc45a87b640 -->
+<!-- DEALS:END checksum:34bd97ab32b1 -->
 
 ## Add your deal
 
