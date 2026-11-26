@@ -1,0 +1,11 @@
+# Required
+name: "Pulse"
+url: "https://www.pulseticker.app/black-friday?utm_source=mariuslandwehr&utm_medium=deal&utm_campaign=bf2026"
+description: "Stock ticker in the Mac menu bar: live quotes, intraday charts and position P&L for US, Asian and European stocks, plus currencies, crypto and metals."
+discount: "40% off the one-time website license: $19.99 → $11.99"
+
+# Optional
+percent: 40
+code: "BLACKFRIDAY"
+terms: "Enter the code on the Stripe payment page. One key for up to 3 Macs, updates included. Website edition only, not the Mac App Store. Ends Dec 1, 23:59 UTC+8."
+ends: "2026-12-01"
