@@ -1,0 +1,9 @@
+name: "Falconry Drive"
+url: "https://falconrylabs.com/drive/"
+description: "Read and write NTFS drives on macOS 27 (Apple silicon). Built on Apple's FSKit: no kernel extension, SIP stays on. Writes the NTFS journal the way Windows does."
+discount: "30% off the first year ($27.99 → $19.60)"
+percent: 30
+code: "BLACKFRIDAY30"
+terms: "Yearly licence for one Mac; renews by hand at $27.99, nothing auto-renews; enter the code at checkout; ends Dec 1, 08:00 UTC; 14-day free trial"
+starts: "2026-11-26"
+ends: "2026-12-01"
