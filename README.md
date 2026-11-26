@@ -19,9 +19,9 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 
 ## Categories
 
-**905 deals** in 22 categories. 💸 marks 50% off or more, 💰 less than 50%.
+**907 deals** in 22 categories. 💸 marks 50% off or more, 💰 less than 50%.
 
-🛠&nbsp;[Development Software](#development-software)&nbsp;`102` · 🤖&nbsp;[AI Tools](#ai-tools)&nbsp;`83` · 🌈&nbsp;[Marketing Software](#marketing-software)&nbsp;`32` · 🎩&nbsp;[Security Software](#security-software)&nbsp;`30` · 🎛&nbsp;[Utility Software](#utility-software)&nbsp;`178` · 📌&nbsp;[Productivity Software](#productivity-software)&nbsp;`160` · 🎥&nbsp;[Video Software](#video-software)&nbsp;`51` · 🎨&nbsp;[Graphic Software](#graphic-software)&nbsp;`54` · 🏝️&nbsp;[Lifestyle](#lifestyle)&nbsp;`31` · 🗣️&nbsp;[Social](#social)&nbsp;`9` · 🎓&nbsp;[Reference & Education](#reference--education)&nbsp;`18` · 📖&nbsp;[Books](#books)&nbsp;`2` · 👩‍🎓&nbsp;[Courses and Videos](#courses-and-videos)&nbsp;`19` · 📈&nbsp;[Business Software](#business-software)&nbsp;`24` · 🏃🏻‍♀️&nbsp;[Health & Fitness Software](#health--fitness-software)&nbsp;`34` · 🎁&nbsp;[Bundles](#bundles)&nbsp;`6` · 🎶&nbsp;[Creative Content](#creative-content)&nbsp;`10` · 🤑&nbsp;[Finance](#finance)&nbsp;`19` · 🗺️&nbsp;[Navigation](#navigation)&nbsp;`3` · 🔎&nbsp;[SEO](#seo)&nbsp;`24` · 🏡&nbsp;[Home Automation](#home-automation)&nbsp;`3` · 🕹&nbsp;[Games](#games)&nbsp;`13`
+🛠&nbsp;[Development Software](#development-software)&nbsp;`102` · 🤖&nbsp;[AI Tools](#ai-tools)&nbsp;`83` · 🌈&nbsp;[Marketing Software](#marketing-software)&nbsp;`33` · 🎩&nbsp;[Security Software](#security-software)&nbsp;`30` · 🎛&nbsp;[Utility Software](#utility-software)&nbsp;`178` · 📌&nbsp;[Productivity Software](#productivity-software)&nbsp;`160` · 🎥&nbsp;[Video Software](#video-software)&nbsp;`52` · 🎨&nbsp;[Graphic Software](#graphic-software)&nbsp;`54` · 🏝️&nbsp;[Lifestyle](#lifestyle)&nbsp;`31` · 🗣️&nbsp;[Social](#social)&nbsp;`9` · 🎓&nbsp;[Reference & Education](#reference--education)&nbsp;`18` · 📖&nbsp;[Books](#books)&nbsp;`2` · 👩‍🎓&nbsp;[Courses and Videos](#courses-and-videos)&nbsp;`19` · 📈&nbsp;[Business Software](#business-software)&nbsp;`24` · 🏃🏻‍♀️&nbsp;[Health & Fitness Software](#health--fitness-software)&nbsp;`34` · 🎁&nbsp;[Bundles](#bundles)&nbsp;`6` · 🎶&nbsp;[Creative Content](#creative-content)&nbsp;`10` · 🤑&nbsp;[Finance](#finance)&nbsp;`19` · 🗺️&nbsp;[Navigation](#navigation)&nbsp;`3` · 🔎&nbsp;[SEO](#seo)&nbsp;`24` · 🏡&nbsp;[Home Automation](#home-automation)&nbsp;`3` · 🕹&nbsp;[Games](#games)&nbsp;`13`
 
 <a id="development-software"></a>
 
@@ -264,6 +264,7 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 | 💰 | **[WhatsTeam](https://whats.team/?utm_source=mariuslandwehr&utm_medium=deal-listing&utm_campaign=blackfriday2026)**<br>Shared WhatsApp inbox for sales and support teams on the official WhatsApp Business API, with broadcast campaigns, chat assignment and AI agents. | <b>40% off the first 6 months of any monthly plan</b><br>`BLACKFRIDAY40` · New subscriptions; Starter ~~$29~~ $17.40/mo, Business ~~$69~~ $41.40/mo, Enterprise ~~$119~~ $71.40/mo for 6 months, then the regular price. 14-day free trial, no card. · Nov&nbsp;22&nbsp;–&nbsp;Dec&nbsp;1 |
 | 💸 | **[Snov.io](https://snov.io/black-friday)**<br>Snov.io helps businesses find leads, enrich them with email addresses and phone numbers, set up outreach infrastructure, and automate email and LinkedIn campaigns. | <b>Get up to 50% off Snov.io subscriptions this Black Friday</b><br>`BLACKFRIDAY` · Available to both new and existing customers. · Nov&nbsp;23&nbsp;–&nbsp;Dec&nbsp;4 |
 | 💸 | **[Tantra](https://deals.usetantra.com/)**<br>Tantra is an AI-first GTM outreach tool that sends hyper-personalized outreach across email, LinkedIn, WhatsApp and Google Calendar. Every reply lands in one unified inbox. Priced per company, with no per-seat fees. | <b>50% off monthly and yearly Pro and Scale plans for life</b><br>`TANTRA50` · New customers only. · Nov&nbsp;1&nbsp;–&nbsp;Dec&nbsp;5 |
+| 💰 | **[uql](https://getuql.com/black-friday?utm_source=black-friday-deals)**<br>All your links, in one place: Smart links that send each device to the right app store, Short links, and Link in Bio pages, each with an editable QR code and real-click analytics. Free plan available. | <b>20% off the first year of any yearly plan</b><br>`BF2026` · Yearly plans only (Plus, Premium, Super); first payment of an account; the code is applied automatically at checkout; renews at the usual price · Nov&nbsp;23&nbsp;–&nbsp;Dec&nbsp;6 |
 
 <p align="right"><a href="#categories">↑ Categories</a></p>
 
@@ -719,6 +720,7 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 | 💸 | **[Ninja Compress](https://ninjacompress.app/?utm_source=mrs-black-friday&utm_medium=referral&utm_campaign=black-friday-2026)**<br>Video compressor for iPhone and Android that works on the phone: shrink a video to the size you need (25 MB for email), compare it with the original side by side. Nothing is uploaded; no ads, no account. | <b>Ninja Pro Lifetime 50% off: App Store ~~$19.99~~ $9.99, Google Play ~~$14.99~~ $7.49</b><br>Applied automatically in the app, no code. One-time purchase. US prices; about 50% off local prices elsewhere. Compressing is free. · Nov&nbsp;25&nbsp;–&nbsp;Dec&nbsp;1 |
 | 💸 | **[FireCut](https://firecut.ai/pricing/all/)**<br>AI video editing plugin for Premiere Pro & DaVinci Resolve. | <b>50% off annual plans ($59 → $29.50/mo Max, $34 → $17/mo Pro)</b><br>new annual plans; billed yearly; applied automatically at checkout · Nov&nbsp;25&nbsp;–&nbsp;Nov&nbsp;30 |
 | 💸 | **[QuickSnip](https://quicksnip.com/pricing?utm_source=black-friday-deals&utm_medium=deal-list&utm_campaign=bf2026)**<br>Screen recorder with instant share links for Mac and Windows: record your screen and send a link the moment you stop. Free plan available. | <b>50% off the first year of Pro or Team</b><br>`BLACKFRIDAY` · monthly or yearly billing; Pro is $6/mo or $60/yr, so $3/mo or $30 for the first year; through Cyber Monday, Nov 30 · Nov&nbsp;23&nbsp;–&nbsp;Nov&nbsp;30 |
+| 💰 | **[Twovio: Dual Camera Video](https://apps.apple.com/us/app/id6834278419)**<br>Record the front and rear cameras on compatible iPhones, capture horizontal and vertical video in one take, and use a teleprompter and automatic captions with SRT export. | <b>40% off Lifetime Pro ($9.99 → $5.99 USD)</b><br>US App Store only. One-time in-app purchase. No code needed. In Twovio, open Settings → Unlock Lifetime Pro. · Nov&nbsp;26&nbsp;–&nbsp;Nov&nbsp;30 |
 
 <p align="right"><a href="#categories">↑ Categories</a></p>
 
@@ -1126,7 +1128,7 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 
 <p align="right"><a href="#categories">↑ Categories</a></p>
 
-<!-- DEALS:END checksum:effe11bccf93 -->
+<!-- DEALS:END checksum:01d97cffa469 -->
 
 ## Add your deal
 
