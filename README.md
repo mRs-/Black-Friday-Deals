@@ -19,9 +19,9 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 
 ## Categories
 
-**940 deals** in 22 categories. 💸 marks 50% off or more, 💰 less than 50%.
+**942 deals** in 22 categories. 💸 marks 50% off or more, 💰 less than 50%.
 
-🛠&nbsp;[Development Software](#development-software)&nbsp;`104` · 🤖&nbsp;[AI Tools](#ai-tools)&nbsp;`84` · 🌈&nbsp;[Marketing Software](#marketing-software)&nbsp;`37` · 🎩&nbsp;[Security Software](#security-software)&nbsp;`31` · 🎛&nbsp;[Utility Software](#utility-software)&nbsp;`185` · 📌&nbsp;[Productivity Software](#productivity-software)&nbsp;`164` · 🎥&nbsp;[Video Software](#video-software)&nbsp;`55` · 🎨&nbsp;[Graphic Software](#graphic-software)&nbsp;`54` · 🏝️&nbsp;[Lifestyle](#lifestyle)&nbsp;`33` · 🗣️&nbsp;[Social](#social)&nbsp;`9` · 🎓&nbsp;[Reference & Education](#reference--education)&nbsp;`19` · 📖&nbsp;[Books](#books)&nbsp;`4` · 👩‍🎓&nbsp;[Courses and Videos](#courses-and-videos)&nbsp;`19` · 📈&nbsp;[Business Software](#business-software)&nbsp;`26` · 🏃🏻‍♀️&nbsp;[Health & Fitness Software](#health--fitness-software)&nbsp;`35` · 🎁&nbsp;[Bundles](#bundles)&nbsp;`7` · 🎶&nbsp;[Creative Content](#creative-content)&nbsp;`10` · 🤑&nbsp;[Finance](#finance)&nbsp;`20` · 🗺️&nbsp;[Navigation](#navigation)&nbsp;`4` · 🔎&nbsp;[SEO](#seo)&nbsp;`24` · 🏡&nbsp;[Home Automation](#home-automation)&nbsp;`3` · 🕹&nbsp;[Games](#games)&nbsp;`13`
+🛠&nbsp;[Development Software](#development-software)&nbsp;`104` · 🤖&nbsp;[AI Tools](#ai-tools)&nbsp;`84` · 🌈&nbsp;[Marketing Software](#marketing-software)&nbsp;`38` · 🎩&nbsp;[Security Software](#security-software)&nbsp;`31` · 🎛&nbsp;[Utility Software](#utility-software)&nbsp;`185` · 📌&nbsp;[Productivity Software](#productivity-software)&nbsp;`164` · 🎥&nbsp;[Video Software](#video-software)&nbsp;`56` · 🎨&nbsp;[Graphic Software](#graphic-software)&nbsp;`54` · 🏝️&nbsp;[Lifestyle](#lifestyle)&nbsp;`33` · 🗣️&nbsp;[Social](#social)&nbsp;`9` · 🎓&nbsp;[Reference & Education](#reference--education)&nbsp;`19` · 📖&nbsp;[Books](#books)&nbsp;`4` · 👩‍🎓&nbsp;[Courses and Videos](#courses-and-videos)&nbsp;`19` · 📈&nbsp;[Business Software](#business-software)&nbsp;`26` · 🏃🏻‍♀️&nbsp;[Health & Fitness Software](#health--fitness-software)&nbsp;`35` · 🎁&nbsp;[Bundles](#bundles)&nbsp;`7` · 🎶&nbsp;[Creative Content](#creative-content)&nbsp;`10` · 🤑&nbsp;[Finance](#finance)&nbsp;`20` · 🗺️&nbsp;[Navigation](#navigation)&nbsp;`4` · 🔎&nbsp;[SEO](#seo)&nbsp;`24` · 🏡&nbsp;[Home Automation](#home-automation)&nbsp;`3` · 🕹&nbsp;[Games](#games)&nbsp;`13`
 
 <a id="development-software"></a>
 
@@ -272,6 +272,7 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 |  | **[MailSketch](https://mailsketch.com/?utm_source=mrs_black_friday&utm_medium=directory&utm_campaign=bf2026)**<br>Email builder: beautiful marketing emails in minutes, not hours. 1,200+ templates, drag and drop, export to any email platform. | <b>Lifetime plan $99 once (Solo), $249 Team, $499 Business; no subscription</b><br>No code needed, applied automatically. Paid once, no renewals. Lifetime plans are available for a limited time and in limited numbers. · Nov&nbsp;26&nbsp;–&nbsp;Dec&nbsp;31 |
 | 💸 | **[WebinarFlow](https://webinarflow.studio/black-friday)**<br>Automated on-demand product demo webinars with real-time AI Q&A and instant live video takeover from your phone. | <b>83% off your first year on Growth ($159, was $950) and Scale ($399, was $2,390) yearly plans.</b><br>New customers only. First 100 buyers. Discount auto-applies from the deal page (optional codes: `BF83GROWTH` / `BF83SCALE`). Renews at the normal yearly price. · Nov&nbsp;20&nbsp;–&nbsp;Dec&nbsp;1 |
 | 💸 | **[PageTest.AI](https://pagetest.ai/black-friday?utm_source=marius-landwehr-bf&utm_medium=deal-directory&utm_campaign=bf2026)**<br>AI finds and tests your best headline, CTA and page copy, so the visitors you already have turn into more clicks, signups and sales. No developer needed. | <b>83% off the first year: Starter ~~$3,588~~ **$599**, Growth ~~$5,988~~ **$999**</b><br>`BF2026` · New customers only, first 100 buyers; Starter and Growth only; renews at standard price after year one · Nov&nbsp;20&nbsp;–&nbsp;Dec&nbsp;1 |
+| 💸 | **[SaaS Toolkit](https://saastoolkit.ai/black-friday?utm_source=mariuslandwehr&utm_medium=deal-directory&utm_campaign=bf2026)**<br>One place to take people from their first visit to paying customer: AI chat that answers and sells, nurture emails, and instant alerts to the right person on your team. | <b>83% off your first year: Growth $59 (normally $348) or Business $99 (normally $588)</b><br>`BF2026` · New paying customers, first 100 buyers, one per customer. Applied automatically on the deal page. Renews at $29/mo (Growth) or $49/mo (Business). 30-day money-back. · Nov&nbsp;20&nbsp;–&nbsp;Dec&nbsp;1 |
 
 <p align="right"><a href="#categories">↑ Categories</a></p>
 
@@ -743,6 +744,7 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 | 💸 | **[InTime](https://apps.apple.com/app/id6836084908)**<br>A camera that travels across 37 eras (BC 15000–2049) on iOS with real-time optical shaders and live era audio DSP, 100% on-device. No account, no ads, zero subscriptions. | <b>50% off All Eras Lifetime Unlock ($7.99 → $3.99 one-time purchase)</b><br>`BF50` · iOS App Store non-consumable IAP; 10 eras free forever; redeem in-app or via [Apple Offer Code](https://apps.apple.com/redeem?ctx=offercodes&id=6836084908&code=BF50) · Nov&nbsp;25&nbsp;–&nbsp;Dec&nbsp;3 |
 | 💰 | **[True Cinema Captions](https://www.truecinemaentertainment.com/captions)**<br>Mac app that auto-generates styled captions for reels, with 32 looks and word-by-word editing. | <b>$10 off one-time license ($39 → $29)</b><br>No code needed; discount applied automatically at checkout. One-time purchase, license for 2 Macs. · Nov&nbsp;25&nbsp;–&nbsp;Dec&nbsp;1 |
 | 💸 | **[SpeechCue](https://www.speechcue.pro/black-friday/)**<br>Voice-follow teleprompter for iPhone, iPad and Mac. Record while prompting, use mirror mode and sync scripts across devices. | <b>70% off Lifetime Pro: US $99.99 to $29.99</b><br>`SPEECHCUEGLOBAL26` · One-time purchase for iPhone, iPad and Mac with the same Apple ID; local prices vary. First 100 people. Ends 11:59 PM Pacific Time. [Redeem with Apple](https://apps.apple.com/redeem?ctx=offercodes&id=6759256533&code=SPEECHCUEGLOBAL26). · until&nbsp;Nov&nbsp;30 |
+| 💸 | **[Shot Video](https://shot.video/black-friday)**<br>Multi-angle AI video recorder and auto-editor. Record laptop camera, screen and audio, add any phone via QR code with no app install, and let AI auto-edit. | <b>79% off Creator yearly ($190 → $39/yr), no code needed</b><br>Nov&nbsp;20&nbsp;–&nbsp;Dec&nbsp;1 |
 
 <p align="right"><a href="#categories">↑ Categories</a></p>
 
@@ -1161,7 +1163,7 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 
 <p align="right"><a href="#categories">↑ Categories</a></p>
 
-<!-- DEALS:END checksum:98788757dade -->
+<!-- DEALS:END checksum:257c02aea38b -->
 
 ## Add your deal
 
