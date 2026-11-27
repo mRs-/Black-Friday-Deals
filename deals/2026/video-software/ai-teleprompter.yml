@@ -1,0 +1,13 @@
+# Put every text value in double quotes. Lines that start with # are comments.
+
+# Required
+name: "AI Teleprompter"
+url: "https://aiteleprompterapp.com"
+description: "Voice-follow teleprompter for iPhone and iPad: the script scrolls as you speak, plus floating mode and one-tap recording"
+discount: "50% off Annual first year ($39.99 → $19.99) and Lifetime ($49.99 → $24.99)"
+
+# Optional: delete the lines you do not need
+percent: 50
+terms: "No code needed; auto-applied in the app. New subscribers only. Annual renews at $39.99/yr after first year."
+starts: "2026-11-20"
+ends: "2027-01-01"
