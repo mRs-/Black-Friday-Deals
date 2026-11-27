@@ -19,9 +19,9 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 
 ## Categories
 
-**1001 deals** in 22 categories. 💸 marks 50% off or more, 💰 less than 50%.
+**1003 deals** in 22 categories. 💸 marks 50% off or more, 💰 less than 50%.
 
-🛠&nbsp;[Development Software](#development-software)&nbsp;`107` · 🤖&nbsp;[AI Tools](#ai-tools)&nbsp;`86` · 🌈&nbsp;[Marketing Software](#marketing-software)&nbsp;`40` · 🎩&nbsp;[Security Software](#security-software)&nbsp;`32` · 🎛&nbsp;[Utility Software](#utility-software)&nbsp;`193` · 📌&nbsp;[Productivity Software](#productivity-software)&nbsp;`175` · 🎥&nbsp;[Video Software](#video-software)&nbsp;`59` · 🎨&nbsp;[Graphic Software](#graphic-software)&nbsp;`57` · 🏝️&nbsp;[Lifestyle](#lifestyle)&nbsp;`38` · 🗣️&nbsp;[Social](#social)&nbsp;`10` · 🎓&nbsp;[Reference & Education](#reference--education)&nbsp;`20` · 📖&nbsp;[Books](#books)&nbsp;`4` · 👩‍🎓&nbsp;[Courses and Videos](#courses-and-videos)&nbsp;`19` · 📈&nbsp;[Business Software](#business-software)&nbsp;`26` · 🏃🏻‍♀️&nbsp;[Health & Fitness Software](#health--fitness-software)&nbsp;`43` · 🎁&nbsp;[Bundles](#bundles)&nbsp;`8` · 🎶&nbsp;[Creative Content](#creative-content)&nbsp;`10` · 🤑&nbsp;[Finance](#finance)&nbsp;`21` · 🗺️&nbsp;[Navigation](#navigation)&nbsp;`5` · 🔎&nbsp;[SEO](#seo)&nbsp;`24` · 🏡&nbsp;[Home Automation](#home-automation)&nbsp;`3` · 🕹&nbsp;[Games](#games)&nbsp;`21`
+🛠&nbsp;[Development Software](#development-software)&nbsp;`107` · 🤖&nbsp;[AI Tools](#ai-tools)&nbsp;`86` · 🌈&nbsp;[Marketing Software](#marketing-software)&nbsp;`40` · 🎩&nbsp;[Security Software](#security-software)&nbsp;`32` · 🎛&nbsp;[Utility Software](#utility-software)&nbsp;`194` · 📌&nbsp;[Productivity Software](#productivity-software)&nbsp;`175` · 🎥&nbsp;[Video Software](#video-software)&nbsp;`59` · 🎨&nbsp;[Graphic Software](#graphic-software)&nbsp;`58` · 🏝️&nbsp;[Lifestyle](#lifestyle)&nbsp;`38` · 🗣️&nbsp;[Social](#social)&nbsp;`10` · 🎓&nbsp;[Reference & Education](#reference--education)&nbsp;`20` · 📖&nbsp;[Books](#books)&nbsp;`4` · 👩‍🎓&nbsp;[Courses and Videos](#courses-and-videos)&nbsp;`19` · 📈&nbsp;[Business Software](#business-software)&nbsp;`26` · 🏃🏻‍♀️&nbsp;[Health & Fitness Software](#health--fitness-software)&nbsp;`43` · 🎁&nbsp;[Bundles](#bundles)&nbsp;`8` · 🎶&nbsp;[Creative Content](#creative-content)&nbsp;`10` · 🤑&nbsp;[Finance](#finance)&nbsp;`21` · 🗺️&nbsp;[Navigation](#navigation)&nbsp;`5` · 🔎&nbsp;[SEO](#seo)&nbsp;`24` · 🏡&nbsp;[Home Automation](#home-automation)&nbsp;`3` · 🕹&nbsp;[Games](#games)&nbsp;`21`
 
 <a id="development-software"></a>
 
@@ -523,6 +523,7 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 | 💰 | **[Yado](https://yado.house/?utm_source=bf-mrs&utm_campaign=bf2026)**<br>Native Mac app that cleans up and manages an iPhone from the Mac: duplicate photos, large videos and unused apps, photo export, file transfer and backups on your own Mac. | <b>20% off, ~~$19~~ $15.20 one-time</b><br>Applied automatically at checkout, no code. Pay once, free updates, one license for two Macs. macOS 14 or later. · Nov&nbsp;25&nbsp;–&nbsp;Dec&nbsp;30 |
 | 💸 | **[Clock Widget+](https://apps.apple.com/us/app/clock-widget/id6664064747)**<br>Clock widgets for iPhone and iPad home and lock screens: 40+ faces from retro to minimalist, a face editor, world time and full-screen desk clocks. Also on Android. | <b>Lifetime, one-time ~~$19.99~~ $9.99</b><br>Automatically applied on the App Store and [Google Play](https://play.google.com/store/apps/details?id=com.progressiostudio.clockwidgetplus), no code. US price; other countries see the local equivalent. · Nov&nbsp;27&nbsp;–&nbsp;Nov&nbsp;30 |
 | 💰 | **[CleanStorage: Swipe & Clean](https://apps.apple.com/app/id6823254083?pt=129529936&ct=github-mrs-bf&mt=8)**<br>Finds duplicate photos, big videos and repeated contacts on iPhone, all on the device. | <b>CleanStorage Pro $7.99 → $4.99</b><br>Free download; Pro is a one-time in-app purchase, price applied automatically in the App Store. · Nov&nbsp;27&nbsp;–&nbsp;Nov&nbsp;30 |
+| 💰 | **[Dimmer Switch](https://dimmerswitch.app/?ref=black-friday-deals)**<br>Change how any window, area or whole screen on your Mac looks: dimmer than macOS allows, warmer for night, an e-reader page, a CRT TV or a painting. Menu bar app, 24-hour free trial. | <b>33% off the one-time licence ($9 → $6)</b><br>`BLACKFRIDAY` · Pay once, no subscription. The code is already filled in from the site's Buy button. · Nov&nbsp;27&nbsp;–&nbsp;Dec&nbsp;1 |
 
 <p align="right"><a href="#categories">↑ Categories</a></p>
 
@@ -841,6 +842,7 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 |  | **[Shotspa](https://www.anuragsoni.com/shotspa?ref=bf-mrs)**<br>Your Mac screenshots, beautiful the moment you take them: backdrop, rounded corners, shadow and a real 3D tilt, no editing step. It even hides your emails, card numbers and API keys. Runs locally, nothing uploaded. | <b>Black Friday price $20, one-time ($24 → $20). 2 Macs, free updates</b><br>Applied automatically at checkout. 7-day free trial, no card. Ends Nov 30, 11:59 pm PT. · Nov&nbsp;27&nbsp;–&nbsp;Nov&nbsp;30 |
 | 💸 | **[Eye Color Cam: Live Filters](https://apps.apple.com/us/app/id6752640752)**<br>Try new eye colors live through your iPhone camera with eye tracking, transform a favorite photo, and take photos or videos with the effect. | <b>50% off Premium: Yearly, first year $9.99 → $4.99 · Monthly, first 3 months $1.99 → $0.99/mo</b><br>No code needed: the deal price shows in the app. · Nov&nbsp;22&nbsp;–&nbsp;Nov&nbsp;30 |
 | 💸 | **[Rindraw](https://apps.apple.com/app/id6818370032?pt=129529936&ct=github-mrs-bf&mt=8)**<br>Drawing, painting and frame-by-frame animation for iPad, iPhone and Mac. Strokes stay editable, and it opens .procreate and .psd files with their layers. | <b>Half price: $12.99 → $6.49, one purchase for iPad, iPhone and Mac</b><br>Applied automatically in the App Store, no code needed. No subscription. · Nov&nbsp;23&nbsp;–&nbsp;Dec&nbsp;1 |
+| 💸 | **[ProPixel](https://propixel.app)**<br>Mac app that resizes, converts and optimises images for websites, shops and social media. Processing stays on your Mac. | <b>About 70% off one-time purchase: €19.99 → €5.95</b><br>Automatically applied at checkout; one-time purchase of the direct edition; no end date announced · from&nbsp;Nov&nbsp;26 |
 
 <p align="right"><a href="#categories">↑ Categories</a></p>
 
@@ -1222,7 +1224,7 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 
 <p align="right"><a href="#categories">↑ Categories</a></p>
 
-<!-- DEALS:END checksum:96f20f140635 -->
+<!-- DEALS:END checksum:d6171cebd845 -->
 
 ## Add your deal
 
