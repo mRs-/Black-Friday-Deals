@@ -19,9 +19,9 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 
 ## Categories
 
-**1000 deals** in 22 categories. 💸 marks 50% off or more, 💰 less than 50%.
+**1001 deals** in 22 categories. 💸 marks 50% off or more, 💰 less than 50%.
 
-🛠&nbsp;[Development Software](#development-software)&nbsp;`107` · 🤖&nbsp;[AI Tools](#ai-tools)&nbsp;`86` · 🌈&nbsp;[Marketing Software](#marketing-software)&nbsp;`40` · 🎩&nbsp;[Security Software](#security-software)&nbsp;`32` · 🎛&nbsp;[Utility Software](#utility-software)&nbsp;`193` · 📌&nbsp;[Productivity Software](#productivity-software)&nbsp;`175` · 🎥&nbsp;[Video Software](#video-software)&nbsp;`59` · 🎨&nbsp;[Graphic Software](#graphic-software)&nbsp;`57` · 🏝️&nbsp;[Lifestyle](#lifestyle)&nbsp;`38` · 🗣️&nbsp;[Social](#social)&nbsp;`10` · 🎓&nbsp;[Reference & Education](#reference--education)&nbsp;`20` · 📖&nbsp;[Books](#books)&nbsp;`4` · 👩‍🎓&nbsp;[Courses and Videos](#courses-and-videos)&nbsp;`19` · 📈&nbsp;[Business Software](#business-software)&nbsp;`26` · 🏃🏻‍♀️&nbsp;[Health & Fitness Software](#health--fitness-software)&nbsp;`42` · 🎁&nbsp;[Bundles](#bundles)&nbsp;`8` · 🎶&nbsp;[Creative Content](#creative-content)&nbsp;`10` · 🤑&nbsp;[Finance](#finance)&nbsp;`21` · 🗺️&nbsp;[Navigation](#navigation)&nbsp;`5` · 🔎&nbsp;[SEO](#seo)&nbsp;`24` · 🏡&nbsp;[Home Automation](#home-automation)&nbsp;`3` · 🕹&nbsp;[Games](#games)&nbsp;`21`
+🛠&nbsp;[Development Software](#development-software)&nbsp;`107` · 🤖&nbsp;[AI Tools](#ai-tools)&nbsp;`86` · 🌈&nbsp;[Marketing Software](#marketing-software)&nbsp;`40` · 🎩&nbsp;[Security Software](#security-software)&nbsp;`32` · 🎛&nbsp;[Utility Software](#utility-software)&nbsp;`193` · 📌&nbsp;[Productivity Software](#productivity-software)&nbsp;`175` · 🎥&nbsp;[Video Software](#video-software)&nbsp;`59` · 🎨&nbsp;[Graphic Software](#graphic-software)&nbsp;`57` · 🏝️&nbsp;[Lifestyle](#lifestyle)&nbsp;`38` · 🗣️&nbsp;[Social](#social)&nbsp;`10` · 🎓&nbsp;[Reference & Education](#reference--education)&nbsp;`20` · 📖&nbsp;[Books](#books)&nbsp;`4` · 👩‍🎓&nbsp;[Courses and Videos](#courses-and-videos)&nbsp;`19` · 📈&nbsp;[Business Software](#business-software)&nbsp;`26` · 🏃🏻‍♀️&nbsp;[Health & Fitness Software](#health--fitness-software)&nbsp;`43` · 🎁&nbsp;[Bundles](#bundles)&nbsp;`8` · 🎶&nbsp;[Creative Content](#creative-content)&nbsp;`10` · 🤑&nbsp;[Finance](#finance)&nbsp;`21` · 🗺️&nbsp;[Navigation](#navigation)&nbsp;`5` · 🔎&nbsp;[SEO](#seo)&nbsp;`24` · 🏡&nbsp;[Home Automation](#home-automation)&nbsp;`3` · 🕹&nbsp;[Games](#games)&nbsp;`21`
 
 <a id="development-software"></a>
 
@@ -1063,6 +1063,7 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 | 💸 | **[Ritmo Workout Timer](https://ritmo.lorenzofranceschini.it/en/)**<br>The interval training timer: giant countdown, polished sound cues and zero distractions. Paste your workout from Notes and start in 30 seconds. No account, no ads. | <b>60% off Lifetime ($7.49 → $3.00)</b><br>Discount applies automatically. No code needed. Ends Dec 6 at 23:59 UTC. · Nov&nbsp;26&nbsp;–&nbsp;Dec&nbsp;6 |
 | 💸 | **[Tempo](https://apps.apple.com/us/app/tempo-workout-tracker-log/id6757211772)**<br>Workout log and gym tracker for iPhone with muscle recovery estimates and a daily readiness score. Also on Android. | <b>Pro Lifetime: App Store ~~$12.99~~ $6.99, Google Play ~~$29.99~~ $14.99</b><br>Automatically applied on the App Store and [Google Play](https://play.google.com/store/apps/details?id=com.progressiostudio.workoutlog), no code. US prices; other countries see the local equivalent. · Nov&nbsp;27&nbsp;–&nbsp;Nov&nbsp;30 |
 | 💰 | **[Core: Interval & HIIT Timer](https://foca.work/core.html)**<br>An interval timer for HIIT, Tabata, circuits and boxing, big, clear and easy to follow mid-workout. | <b>Lifetime access ~~$14.99~~ $7.99 (US App Store)</b><br>Automatically applied; no code needed. US price; other regions may vary. · Nov&nbsp;27&nbsp;–&nbsp;Dec&nbsp;1 |
+| 💰 | **[Pedalyra: Cycling GPS Tracker](https://apps.apple.com/redeem?ctx=offercodes&id=6836152885&code=PEDALYRABF2026)**<br>Plan cycling routes automatically, record rides with GPS, write or dictate ride notes, and sync your ride history and photos privately with iCloud. | <b>40% off Lifetime Pro in the U.S. ($29.99 to $17.99)</b><br>`PEDALYRABF2026` · One-time iPhone in-app purchase. Redeem via the App Store link through Nov 30, 2026 at 11:59 p.m. Pacific time. Local prices vary. · Nov&nbsp;26&nbsp;–&nbsp;Nov&nbsp;30 |
 
 <p align="right"><a href="#categories">↑ Categories</a></p>
 
@@ -1221,7 +1222,7 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 
 <p align="right"><a href="#categories">↑ Categories</a></p>
 
-<!-- DEALS:END checksum:6120787bd66b -->
+<!-- DEALS:END checksum:96f20f140635 -->
 
 ## Add your deal
 
