@@ -1,6 +1,6 @@
 name: "LocalInbox"
 url: "https://localinbox.app"
-description: "LocalInbox is a native email app for Mac, Windows, Linux, iPhone and iPad. It brings Gmail, iCloud, Yahoo, Fastmail and any IMAP account into one inbox, with AI sorting, summaries and reply drafts that run on your device by default. One licence cover"
+description: "Native email client for Mac, Windows, Linux, iPhone and iPad. Unifies Gmail, iCloud, Yahoo, Fastmail and IMAP accounts, with AI sorting, summaries and reply drafts that run on your device by default."
 discount: "50% OFF"
 percent: 50
 code: "BLACKFRIDAY"
