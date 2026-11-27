@@ -19,9 +19,9 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 
 ## Categories
 
-**1033 deals** in 22 categories. 💸 marks 50% off or more, 💰 less than 50%.
+**1034 deals** in 22 categories. 💸 marks 50% off or more, 💰 less than 50%.
 
-🛠&nbsp;[Development Software](#development-software)&nbsp;`109` · 🤖&nbsp;[AI Tools](#ai-tools)&nbsp;`88` · 🌈&nbsp;[Marketing Software](#marketing-software)&nbsp;`40` · 🎩&nbsp;[Security Software](#security-software)&nbsp;`32` · 🎛&nbsp;[Utility Software](#utility-software)&nbsp;`199` · 📌&nbsp;[Productivity Software](#productivity-software)&nbsp;`180` · 🎥&nbsp;[Video Software](#video-software)&nbsp;`64` · 🎨&nbsp;[Graphic Software](#graphic-software)&nbsp;`61` · 🏝️&nbsp;[Lifestyle](#lifestyle)&nbsp;`39` · 🗣️&nbsp;[Social](#social)&nbsp;`10` · 🎓&nbsp;[Reference & Education](#reference--education)&nbsp;`21` · 📖&nbsp;[Books](#books)&nbsp;`4` · 👩‍🎓&nbsp;[Courses and Videos](#courses-and-videos)&nbsp;`19` · 📈&nbsp;[Business Software](#business-software)&nbsp;`26` · 🏃🏻‍♀️&nbsp;[Health & Fitness Software](#health--fitness-software)&nbsp;`45` · 🎁&nbsp;[Bundles](#bundles)&nbsp;`9` · 🎶&nbsp;[Creative Content](#creative-content)&nbsp;`11` · 🤑&nbsp;[Finance](#finance)&nbsp;`23` · 🗺️&nbsp;[Navigation](#navigation)&nbsp;`5` · 🔎&nbsp;[SEO](#seo)&nbsp;`24` · 🏡&nbsp;[Home Automation](#home-automation)&nbsp;`3` · 🕹&nbsp;[Games](#games)&nbsp;`21`
+🛠&nbsp;[Development Software](#development-software)&nbsp;`109` · 🤖&nbsp;[AI Tools](#ai-tools)&nbsp;`88` · 🌈&nbsp;[Marketing Software](#marketing-software)&nbsp;`40` · 🎩&nbsp;[Security Software](#security-software)&nbsp;`32` · 🎛&nbsp;[Utility Software](#utility-software)&nbsp;`200` · 📌&nbsp;[Productivity Software](#productivity-software)&nbsp;`180` · 🎥&nbsp;[Video Software](#video-software)&nbsp;`64` · 🎨&nbsp;[Graphic Software](#graphic-software)&nbsp;`61` · 🏝️&nbsp;[Lifestyle](#lifestyle)&nbsp;`39` · 🗣️&nbsp;[Social](#social)&nbsp;`10` · 🎓&nbsp;[Reference & Education](#reference--education)&nbsp;`21` · 📖&nbsp;[Books](#books)&nbsp;`4` · 👩‍🎓&nbsp;[Courses and Videos](#courses-and-videos)&nbsp;`19` · 📈&nbsp;[Business Software](#business-software)&nbsp;`26` · 🏃🏻‍♀️&nbsp;[Health & Fitness Software](#health--fitness-software)&nbsp;`45` · 🎁&nbsp;[Bundles](#bundles)&nbsp;`9` · 🎶&nbsp;[Creative Content](#creative-content)&nbsp;`11` · 🤑&nbsp;[Finance](#finance)&nbsp;`23` · 🗺️&nbsp;[Navigation](#navigation)&nbsp;`5` · 🔎&nbsp;[SEO](#seo)&nbsp;`24` · 🏡&nbsp;[Home Automation](#home-automation)&nbsp;`3` · 🕹&nbsp;[Games](#games)&nbsp;`21`
 
 <a id="development-software"></a>
 
@@ -533,6 +533,7 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 |  | **[Sortroom: Photo Organizer](https://apps.apple.com/app/apple-store/id6816434231?pt=129234321&ct=bfdeals-mrs&mt=8)**<br>Organize years of photos right where they live, on your Mac or external drives. No import, no account, files never re-saved. Name a place once and every photo taken there is labeled. Find duplicates, plan posts. | <b>Launch price: Pro Lifetime $39.99 once, no subscription</b><br>No code needed. One-time Mac App Store purchase, free to download and browse. US price, other countries vary. macOS 26 or later. |
 | 💸 | **[PixaFind](https://pixafind.com/?utm_source=mrsbf&utm_campaign=bf2026#pricing)**<br>Search the files on your PC by describing them: "dog on the beach" finds the photo, "my rent contract" finds the PDF. Local AI runs on your computer, so files never leave it and search works offline. Windows, Mac and Linux, free for one folder. | <b>50% off Lifetime ($249 → $124.50), Pro yearly ($96 → $48 for the first year) and Pro monthly ($12 → $6 for the first month)</b><br>Applied automatically at checkout, no code needed. Ends Nov 30, 2026 at 23:59 PT. · Nov&nbsp;27&nbsp;–&nbsp;Nov&nbsp;30 |
 | 💰 | **[Igidu Pro](https://igidu.app/?utm_source=mariusblackfriday&utm_medium=directory&utm_campaign=bf2026)**<br>Mac mouse controls, supported peripherals, DualSense Edge paddle/profile tools, gameplay recording and replay, with Companion for quick access while gaming. | <b>$9.99 instead of $14.99 USD — one-time Mac 1.x license</b><br>No code needed; automatically applied to new checkouts. Two personal Macs, Mac 1.x updates. Ends Dec 2, 2026 at 11:59 p.m. Central. Tax may apply. Apple silicon, macOS 14+. Submitted by the developer. · Nov&nbsp;26&nbsp;–&nbsp;Dec&nbsp;2 |
+| 💸 | **[Lidwork](https://lidwork.com/?utm_source=mrsbf&utm_campaign=bf2026)**<br>Keeps a MacBook awake with the lid closed, so coding agents, builds and uploads keep running on battery. Stops at a battery or heat limit; normal sleep returns if it quits. | <b>Free on the Mac App Store, no code needed (regular price $9.99, one-time purchase)</b><br>Get it on the Mac App Store while the price shows Free; no subscription afterwards. · Nov&nbsp;27&nbsp;–&nbsp;Dec&nbsp;1 |
 
 <p align="right"><a href="#categories">↑ Categories</a></p>
 
@@ -1254,7 +1255,7 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 
 <p align="right"><a href="#categories">↑ Categories</a></p>
 
-<!-- DEALS:END checksum:6af05d041bf5 -->
+<!-- DEALS:END checksum:a4eaefb42852 -->
 
 ## Add your deal
 
