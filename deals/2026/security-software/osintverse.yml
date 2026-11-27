@@ -1,0 +1,9 @@
+name: "OSINTverse"
+url: "https://osintverse.com/pricing"
+description: "OSINT investigation platform: search an email, username, phone, domain, IP, image or wallet across 17 sources, with cases, a team graph, an API and MCP."
+discount: "10% off any credit top-up"
+percent: 10
+code: "BLACKFRIDAY10"
+terms: "Enter the code at Stripe checkout; your wallet is credited the full top-up amount; ends 23:59 UTC"
+starts: "2026-11-27"
+ends: "2026-11-30"
