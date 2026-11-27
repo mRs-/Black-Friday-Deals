@@ -1,0 +1,8 @@
+name: "NumberOTP"
+url: "https://www.numberotp.com/blog/cheap-otp-numbers"
+description: "Pay-per-use virtual phone numbers for receiving SMS/OTP codes when testing your own sign-up flows. REST API, SDKs, CLI and MCP server; automatic refund if no SMS arrives."
+discount: "20% off every OTP number (e.g. ~~$0.34~~ **$0.27**) and 50% off number rentals"
+percent: 20
+terms: "applied automatically at checkout, no code; ends Dec 1, 07:59 UTC"
+starts: "2026-11-27"
+ends: "2026-12-01"
