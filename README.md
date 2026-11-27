@@ -19,9 +19,9 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 
 ## Categories
 
-**962 deals** in 22 categories. 💸 marks 50% off or more, 💰 less than 50%.
+**964 deals** in 22 categories. 💸 marks 50% off or more, 💰 less than 50%.
 
-🛠&nbsp;[Development Software](#development-software)&nbsp;`104` · 🤖&nbsp;[AI Tools](#ai-tools)&nbsp;`84` · 🌈&nbsp;[Marketing Software](#marketing-software)&nbsp;`39` · 🎩&nbsp;[Security Software](#security-software)&nbsp;`31` · 🎛&nbsp;[Utility Software](#utility-software)&nbsp;`187` · 📌&nbsp;[Productivity Software](#productivity-software)&nbsp;`168` · 🎥&nbsp;[Video Software](#video-software)&nbsp;`56` · 🎨&nbsp;[Graphic Software](#graphic-software)&nbsp;`56` · 🏝️&nbsp;[Lifestyle](#lifestyle)&nbsp;`35` · 🗣️&nbsp;[Social](#social)&nbsp;`9` · 🎓&nbsp;[Reference & Education](#reference--education)&nbsp;`19` · 📖&nbsp;[Books](#books)&nbsp;`4` · 👩‍🎓&nbsp;[Courses and Videos](#courses-and-videos)&nbsp;`19` · 📈&nbsp;[Business Software](#business-software)&nbsp;`26` · 🏃🏻‍♀️&nbsp;[Health & Fitness Software](#health--fitness-software)&nbsp;`37` · 🎁&nbsp;[Bundles](#bundles)&nbsp;`7` · 🎶&nbsp;[Creative Content](#creative-content)&nbsp;`10` · 🤑&nbsp;[Finance](#finance)&nbsp;`20` · 🗺️&nbsp;[Navigation](#navigation)&nbsp;`5` · 🔎&nbsp;[SEO](#seo)&nbsp;`24` · 🏡&nbsp;[Home Automation](#home-automation)&nbsp;`3` · 🕹&nbsp;[Games](#games)&nbsp;`19`
+🛠&nbsp;[Development Software](#development-software)&nbsp;`104` · 🤖&nbsp;[AI Tools](#ai-tools)&nbsp;`85` · 🌈&nbsp;[Marketing Software](#marketing-software)&nbsp;`39` · 🎩&nbsp;[Security Software](#security-software)&nbsp;`31` · 🎛&nbsp;[Utility Software](#utility-software)&nbsp;`188` · 📌&nbsp;[Productivity Software](#productivity-software)&nbsp;`168` · 🎥&nbsp;[Video Software](#video-software)&nbsp;`56` · 🎨&nbsp;[Graphic Software](#graphic-software)&nbsp;`56` · 🏝️&nbsp;[Lifestyle](#lifestyle)&nbsp;`35` · 🗣️&nbsp;[Social](#social)&nbsp;`9` · 🎓&nbsp;[Reference & Education](#reference--education)&nbsp;`19` · 📖&nbsp;[Books](#books)&nbsp;`4` · 👩‍🎓&nbsp;[Courses and Videos](#courses-and-videos)&nbsp;`19` · 📈&nbsp;[Business Software](#business-software)&nbsp;`26` · 🏃🏻‍♀️&nbsp;[Health & Fitness Software](#health--fitness-software)&nbsp;`37` · 🎁&nbsp;[Bundles](#bundles)&nbsp;`7` · 🎶&nbsp;[Creative Content](#creative-content)&nbsp;`10` · 🤑&nbsp;[Finance](#finance)&nbsp;`20` · 🗺️&nbsp;[Navigation](#navigation)&nbsp;`5` · 🔎&nbsp;[SEO](#seo)&nbsp;`24` · 🏡&nbsp;[Home Automation](#home-automation)&nbsp;`3` · 🕹&nbsp;[Games](#games)&nbsp;`19`
 
 <a id="development-software"></a>
 
@@ -226,6 +226,7 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 | 💰 | **[Screenpipe](https://screenpipe.com/black-friday?utm_source=blackfriday-mariuslandwehr&utm_medium=deal-list&utm_campaign=black_friday_2026&utm_content=mrs-github)**<br>AI that knows everything you've seen, said, or heard: local screen and audio capture turned into searchable memory, skills and workflows for Claude, Codex, Cursor and teams. macOS, Windows, Linux. | <b>20% off the first year of annual plans</b><br>Basic and Business annual plans; applied automatically at checkout, no code; renews at the regular annual price after the first year · Nov&nbsp;25&nbsp;–&nbsp;Nov&nbsp;30 |
 | 💸 | **[Blip AI](https://www.blipai.app/black-friday?utm_source=mrsbf&utm_campaign=bf2026)**<br>The Wispr Flow and Granola alternative in one app: hold a key, talk, and polished text lands in any app, plus a Meetings notetaker with no bot. Mac, Windows, Linux, iPhone and Android. | <b>Flat 50% off all plans, on every bill: Pro yearly ~~$144~~ $72, Pro monthly ~~$15~~ $7.50</b><br>`BLACKFRIDAY2026` · Kept on every renewal for as long as you stay subscribed, monthly or yearly. Enter the code at checkout. Free plan, no card. Meeting notes on Mac and Windows. Ends 11:59 PM PT on Dec 2. · Nov&nbsp;23&nbsp;–&nbsp;Dec&nbsp;2 |
 | 💸 | **[Smart Headshots AI](https://www.smartheadshots.ai)**<br>Smart Headshots AI turns selfies into professional headshots for LinkedIn, resumes, company profiles, and other uses. | <b>50% off all plans</b><br>Choose a pack at the displayed sale price. No code needed. One-time purchase. Ends Nov 30 at 11:59 p.m. PT. · Nov&nbsp;25&nbsp;–&nbsp;Nov&nbsp;30 |
+| 💰 | **[Sky OS AI](https://skyrunapp.com/pricing?src=bf-mrs)**<br>The AI that does the work on your own Mac: ask from your phone or the web, and Sky uses your apps, files and browser and shows every step. | <b>30% off the first month of a monthly Pro, Max or Ultra plan: Pro $14 the first month (then $20/mo), Max $70 (then $100/mo), Ultra $140 (then $200/mo)</b><br>Monthly plans, first month only. Applied automatically at checkout, no code. Ends Nov 30, 11:59 pm ET. · Nov&nbsp;26&nbsp;–&nbsp;Nov&nbsp;30 |
 
 <p align="right"><a href="#categories">↑ Categories</a></p>
 
@@ -510,6 +511,7 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 | 💸 | **[AbcTab](https://solocraft.app/abctab)**<br>Native macOS ⌘-Tab switcher with instant first-letter jump, multi-window & terminal tab lists, and zero Screen Recording permission. | <b>50% off lifetime license ($9.99 → $4.99)</b><br>`BF50` · One-time purchase, 1 Mac with self-service transfer, 14-day free trial. Requires macOS 14+. · Nov&nbsp;27&nbsp;–&nbsp;Dec&nbsp;2 |
 | 💸 | **[HEIC to JPG – Pics2PDF](https://apps.apple.com/app/id6748744676)**<br>Convert images to JPG, PNG or PDF. | <b>50% OFF Lifetime unlock, $9.99 → $4.99</b><br>Sale price applies automatically to the lifetime purchase on the App Store. No code needed. |
 | 💸 | **[Viento - Minimal Weather](https://apps.apple.com/us/app/id6770246185)**<br>A minimal weather app for iPhone and iPad: a beautiful forecast at a glance, without clutter, ads or complicated dashboards. | <b>50% off Viento+: Yearly, first year $9.99 → $4.99 · Monthly, first 3 months $1.99 → $0.99/mo</b><br>No code needed: the deal price shows in the app. · Nov&nbsp;22&nbsp;–&nbsp;Nov&nbsp;30 |
+| 💰 | **[Melt](https://apps.apple.com/app/apple-store/id6816598058?pt=117978951&ct=bf-mrs&mt=8)**<br>Native menu bar app that keeps your recent screenshots and screen recordings one click away, ready to drag, copy or pin, and can move old ones to the Trash on a schedule. | <b>40% off: $4.99 → $2.99, one-time purchase</b><br>No code needed; automatically applied in the Mac App Store. Submitted by the maker. · Nov&nbsp;26&nbsp;–&nbsp;Nov&nbsp;30 |
 
 <p align="right"><a href="#categories">↑ Categories</a></p>
 
@@ -1183,7 +1185,7 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 
 <p align="right"><a href="#categories">↑ Categories</a></p>
 
-<!-- DEALS:END checksum:ee517d76d268 -->
+<!-- DEALS:END checksum:deafdb04255f -->
 
 ## Add your deal
 
