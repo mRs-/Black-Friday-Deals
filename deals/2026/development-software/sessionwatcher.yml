@@ -1,8 +1,8 @@
 name: "SessionWatcher"
 url: "https://www.sessionwatcher.com/pricing?ref=p-bf-mrs"
 description: "Mac menu bar app that shows your Claude, Codex, Copilot, Cursor and Gemini usage, costs and rate limits live, so you see a limit coming before it stops you. Also on Windows."
-discount: "25% off the one-time licences: Pro Lifetime $79 → $59, Bundle $19.99 → $14.99"
-percent: 25
-terms: "Applied automatically at checkout, no code. New purchases only; Pro Annual ($24/year) is not part of the sale. Ends Sunday 6 December at 23:59 Paris time."
-starts: "2026-12-01"
+discount: "50% off one-time licences: Pro Lifetime $79 → $39, Bundle $19.99 → $9.99, Solo $8.99 → $4.49"
+percent: 50
+terms: "Auto-applied. Upgrades credit what you paid. Pro Annual excluded. EU, UK and Switzerland use 30-day lows as reference prices: $59 Pro Lifetime, $14.99 Bundle, $6.99 Solo. Ends Dec 6, 23:59 Paris time."
+starts: "2026-11-27"
 ends: "2026-12-06"
