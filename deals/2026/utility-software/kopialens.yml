@@ -1,0 +1,9 @@
+name: "KopiaLens"
+url: "https://kopialens.com/pricing?utm_source=mrsbf&utm_campaign=bf2026"
+description: "Backup app for Mac, Windows, Linux and Docker, built on Kopia. Encrypted, scheduled backups to any drive, NAS or cloud, and a clear view of what's inside them: real folder sizes across every snapshot, and every version of every file."
+discount: "30% off Pro: Lifetime ~~$50~~ **$35** one-time, Yearly ~~$20~~ **$14** for the first year"
+percent: 30
+code: "BLACKFRIDAY2026"
+terms: "The Buy buttons on the pricing page fill in the code. Yearly renews at $20. The backup app is free and open source; Pro adds the tools that clean junk out of old backups."
+starts: "2026-11-27"
+ends: "2027-01-01"
