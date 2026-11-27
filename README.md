@@ -19,9 +19,9 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 
 ## Categories
 
-**1003 deals** in 22 categories. 💸 marks 50% off or more, 💰 less than 50%.
+**1005 deals** in 22 categories. 💸 marks 50% off or more, 💰 less than 50%.
 
-🛠&nbsp;[Development Software](#development-software)&nbsp;`107` · 🤖&nbsp;[AI Tools](#ai-tools)&nbsp;`86` · 🌈&nbsp;[Marketing Software](#marketing-software)&nbsp;`40` · 🎩&nbsp;[Security Software](#security-software)&nbsp;`32` · 🎛&nbsp;[Utility Software](#utility-software)&nbsp;`194` · 📌&nbsp;[Productivity Software](#productivity-software)&nbsp;`175` · 🎥&nbsp;[Video Software](#video-software)&nbsp;`59` · 🎨&nbsp;[Graphic Software](#graphic-software)&nbsp;`58` · 🏝️&nbsp;[Lifestyle](#lifestyle)&nbsp;`38` · 🗣️&nbsp;[Social](#social)&nbsp;`10` · 🎓&nbsp;[Reference & Education](#reference--education)&nbsp;`20` · 📖&nbsp;[Books](#books)&nbsp;`4` · 👩‍🎓&nbsp;[Courses and Videos](#courses-and-videos)&nbsp;`19` · 📈&nbsp;[Business Software](#business-software)&nbsp;`26` · 🏃🏻‍♀️&nbsp;[Health & Fitness Software](#health--fitness-software)&nbsp;`43` · 🎁&nbsp;[Bundles](#bundles)&nbsp;`8` · 🎶&nbsp;[Creative Content](#creative-content)&nbsp;`10` · 🤑&nbsp;[Finance](#finance)&nbsp;`21` · 🗺️&nbsp;[Navigation](#navigation)&nbsp;`5` · 🔎&nbsp;[SEO](#seo)&nbsp;`24` · 🏡&nbsp;[Home Automation](#home-automation)&nbsp;`3` · 🕹&nbsp;[Games](#games)&nbsp;`21`
+🛠&nbsp;[Development Software](#development-software)&nbsp;`107` · 🤖&nbsp;[AI Tools](#ai-tools)&nbsp;`86` · 🌈&nbsp;[Marketing Software](#marketing-software)&nbsp;`40` · 🎩&nbsp;[Security Software](#security-software)&nbsp;`32` · 🎛&nbsp;[Utility Software](#utility-software)&nbsp;`194` · 📌&nbsp;[Productivity Software](#productivity-software)&nbsp;`175` · 🎥&nbsp;[Video Software](#video-software)&nbsp;`60` · 🎨&nbsp;[Graphic Software](#graphic-software)&nbsp;`59` · 🏝️&nbsp;[Lifestyle](#lifestyle)&nbsp;`38` · 🗣️&nbsp;[Social](#social)&nbsp;`10` · 🎓&nbsp;[Reference & Education](#reference--education)&nbsp;`20` · 📖&nbsp;[Books](#books)&nbsp;`4` · 👩‍🎓&nbsp;[Courses and Videos](#courses-and-videos)&nbsp;`19` · 📈&nbsp;[Business Software](#business-software)&nbsp;`26` · 🏃🏻‍♀️&nbsp;[Health & Fitness Software](#health--fitness-software)&nbsp;`43` · 🎁&nbsp;[Bundles](#bundles)&nbsp;`8` · 🎶&nbsp;[Creative Content](#creative-content)&nbsp;`10` · 🤑&nbsp;[Finance](#finance)&nbsp;`21` · 🗺️&nbsp;[Navigation](#navigation)&nbsp;`5` · 🔎&nbsp;[SEO](#seo)&nbsp;`24` · 🏡&nbsp;[Home Automation](#home-automation)&nbsp;`3` · 🕹&nbsp;[Games](#games)&nbsp;`21`
 
 <a id="development-software"></a>
 
@@ -776,6 +776,7 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 | 💸 | **[Channel Surfer](https://channelsurfer.tv/upgrade/?code=BLACKFRIDAY50)**<br>Turn YouTube channels and playlists into a TV guide you can flip through in your browser. | <b>50% off Supporter Monthly for six months</b><br>`BLACKFRIDAY50` · US$4.50/month for six months, then US$9/month. For accounts without an active paid subscription. · Nov&nbsp;27&nbsp;–&nbsp;Nov&nbsp;30 |
 | 💰 | **[SpeedPlayer: Play Slow & Fast](https://apps.apple.com/us/app/speedplayer-play-slow-fast/id6762168595)**<br>Slow down video or audio and repeat a specific section with an A–B loop on iPhone and iPad. | <b>U.S. Pro Lifetime: $24.99 → $19.99 (save $5.00)</b><br>One-time in-app purchase; Discount available in all App Store regions; local prices vary. No code required. Ends November 28, 2026 at 23:59:59 UTC. · until&nbsp;Nov&nbsp;28 |
 | 💸 | **[AI Teleprompter](https://aiteleprompterapp.com)**<br>Voice-follow teleprompter for iPhone and iPad: the script scrolls as you speak, plus floating mode and one-tap recording | <b>50% off Annual first year ($39.99 → $19.99) and Lifetime ($49.99 → $24.99)</b><br>No code needed; auto-applied in the app. New subscribers only. Annual renews at $39.99/yr after first year. · Nov&nbsp;20&nbsp;–&nbsp;Jan&nbsp;1,&nbsp;2027 |
+| 💰 | **[PresentCam: PDF Video Maker](https://apps.apple.com/us/app/presentcam-pdf-video-maker/id6792493471)**<br>Turn slides or PDFs into narrated videos with an on-camera presenter on iPhone and iPad. | <b>U.S. Pro Lifetime: $80.00 → $59.99 (save $20.01)</b><br>One-time in-app purchase. Available in all App Store regions; local prices vary. Choose Lifetime in the app; no code required. Ends November 28, 2026 at 23:59:59 UTC. · until&nbsp;Nov&nbsp;28 |
 
 <p align="right"><a href="#categories">↑ Categories</a></p>
 
@@ -843,6 +844,7 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 | 💸 | **[Eye Color Cam: Live Filters](https://apps.apple.com/us/app/id6752640752)**<br>Try new eye colors live through your iPhone camera with eye tracking, transform a favorite photo, and take photos or videos with the effect. | <b>50% off Premium: Yearly, first year $9.99 → $4.99 · Monthly, first 3 months $1.99 → $0.99/mo</b><br>No code needed: the deal price shows in the app. · Nov&nbsp;22&nbsp;–&nbsp;Nov&nbsp;30 |
 | 💸 | **[Rindraw](https://apps.apple.com/app/id6818370032?pt=129529936&ct=github-mrs-bf&mt=8)**<br>Drawing, painting and frame-by-frame animation for iPad, iPhone and Mac. Strokes stay editable, and it opens .procreate and .psd files with their layers. | <b>Half price: $12.99 → $6.49, one purchase for iPad, iPhone and Mac</b><br>Applied automatically in the App Store, no code needed. No subscription. · Nov&nbsp;23&nbsp;–&nbsp;Dec&nbsp;1 |
 | 💸 | **[ProPixel](https://propixel.app)**<br>Mac app that resizes, converts and optimises images for websites, shops and social media. Processing stays on your Mac. | <b>About 70% off one-time purchase: €19.99 → €5.95</b><br>Automatically applied at checkout; one-time purchase of the direct edition; no end date announced · from&nbsp;Nov&nbsp;26 |
+| 💰 | **[ImageTiny: Compress Photo Size](https://apps.apple.com/us/app/imagetiny-compress-photo-size/id6755773326)**<br>Compress and resize photos in batches on iPhone and iPad before sharing or uploading. | <b>U.S. Pro Lifetime: $19.99 → $14.99 (save $5.00)</b><br>One-time in-app purchase. Available in all App Store regions; local prices vary. Choose Lifetime in the app; no code required. Ends November 28, 2026 at 23:59:59 UTC. · until&nbsp;Nov&nbsp;28 |
 
 <p align="right"><a href="#categories">↑ Categories</a></p>
 
@@ -1224,7 +1226,7 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 
 <p align="right"><a href="#categories">↑ Categories</a></p>
 
-<!-- DEALS:END checksum:d6171cebd845 -->
+<!-- DEALS:END checksum:ff934c9842f2 -->
 
 ## Add your deal
 
