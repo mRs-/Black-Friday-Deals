@@ -19,9 +19,9 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 
 ## Categories
 
-**1032 deals** in 22 categories. 💸 marks 50% off or more, 💰 less than 50%.
+**1033 deals** in 22 categories. 💸 marks 50% off or more, 💰 less than 50%.
 
-🛠&nbsp;[Development Software](#development-software)&nbsp;`109` · 🤖&nbsp;[AI Tools](#ai-tools)&nbsp;`87` · 🌈&nbsp;[Marketing Software](#marketing-software)&nbsp;`40` · 🎩&nbsp;[Security Software](#security-software)&nbsp;`32` · 🎛&nbsp;[Utility Software](#utility-software)&nbsp;`199` · 📌&nbsp;[Productivity Software](#productivity-software)&nbsp;`180` · 🎥&nbsp;[Video Software](#video-software)&nbsp;`64` · 🎨&nbsp;[Graphic Software](#graphic-software)&nbsp;`61` · 🏝️&nbsp;[Lifestyle](#lifestyle)&nbsp;`39` · 🗣️&nbsp;[Social](#social)&nbsp;`10` · 🎓&nbsp;[Reference & Education](#reference--education)&nbsp;`21` · 📖&nbsp;[Books](#books)&nbsp;`4` · 👩‍🎓&nbsp;[Courses and Videos](#courses-and-videos)&nbsp;`19` · 📈&nbsp;[Business Software](#business-software)&nbsp;`26` · 🏃🏻‍♀️&nbsp;[Health & Fitness Software](#health--fitness-software)&nbsp;`45` · 🎁&nbsp;[Bundles](#bundles)&nbsp;`9` · 🎶&nbsp;[Creative Content](#creative-content)&nbsp;`11` · 🤑&nbsp;[Finance](#finance)&nbsp;`23` · 🗺️&nbsp;[Navigation](#navigation)&nbsp;`5` · 🔎&nbsp;[SEO](#seo)&nbsp;`24` · 🏡&nbsp;[Home Automation](#home-automation)&nbsp;`3` · 🕹&nbsp;[Games](#games)&nbsp;`21`
+🛠&nbsp;[Development Software](#development-software)&nbsp;`109` · 🤖&nbsp;[AI Tools](#ai-tools)&nbsp;`88` · 🌈&nbsp;[Marketing Software](#marketing-software)&nbsp;`40` · 🎩&nbsp;[Security Software](#security-software)&nbsp;`32` · 🎛&nbsp;[Utility Software](#utility-software)&nbsp;`199` · 📌&nbsp;[Productivity Software](#productivity-software)&nbsp;`180` · 🎥&nbsp;[Video Software](#video-software)&nbsp;`64` · 🎨&nbsp;[Graphic Software](#graphic-software)&nbsp;`61` · 🏝️&nbsp;[Lifestyle](#lifestyle)&nbsp;`39` · 🗣️&nbsp;[Social](#social)&nbsp;`10` · 🎓&nbsp;[Reference & Education](#reference--education)&nbsp;`21` · 📖&nbsp;[Books](#books)&nbsp;`4` · 👩‍🎓&nbsp;[Courses and Videos](#courses-and-videos)&nbsp;`19` · 📈&nbsp;[Business Software](#business-software)&nbsp;`26` · 🏃🏻‍♀️&nbsp;[Health & Fitness Software](#health--fitness-software)&nbsp;`45` · 🎁&nbsp;[Bundles](#bundles)&nbsp;`9` · 🎶&nbsp;[Creative Content](#creative-content)&nbsp;`11` · 🤑&nbsp;[Finance](#finance)&nbsp;`23` · 🗺️&nbsp;[Navigation](#navigation)&nbsp;`5` · 🔎&nbsp;[SEO](#seo)&nbsp;`24` · 🏡&nbsp;[Home Automation](#home-automation)&nbsp;`3` · 🕹&nbsp;[Games](#games)&nbsp;`21`
 
 <a id="development-software"></a>
 
@@ -234,6 +234,7 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 | 💰 | **[Sky OS AI](https://skyrunapp.com/pricing?src=bf-mrs)**<br>The AI that does the work on your own Mac: ask from your phone or the web, and Sky uses your apps, files and browser and shows every step. | <b>30% off the first month of a monthly Pro, Max or Ultra plan: Pro $14 the first month (then $20/mo), Max $70 (then $100/mo), Ultra $140 (then $200/mo)</b><br>Monthly plans, first month only. Applied automatically at checkout, no code. Ends Nov 30, 11:59 pm ET. · Nov&nbsp;26&nbsp;–&nbsp;Nov&nbsp;30 |
 | 💰 | **[FlowLister](https://flowlister.com/black-friday/?utm_source=mrsbf&utm_campaign=bf2026)**<br>AI eBay listing tool for resellers: snap a photo and get the title, item specifics and a price from sold comps, then publish. Crosslists to Poshmark and Mercari. Web and iPhone. | <b>About 25% off a full year paid once (Starter $239.88 → $179.99, Pro $599.88 → $449.99) plus free crosslisting for 12 months</b><br>No code needed, the price applies at checkout. Yearly plan renews at the Black Friday price. Ends 11:59 PM Pacific. · Nov&nbsp;27&nbsp;–&nbsp;Dec&nbsp;1 |
 | 💸 | **[ONE Personal Assistant](https://brazn.one/en)**<br>AI personal assistant for Windows and Mac. Works with your Claude or ChatGPT subscription. | <b>80% off Personal: $12 for the first year (list $60). Collaboration 70% off, Teams 66.6% off</b><br>Launch offer applied automatically. Prices exclude tax. · Nov&nbsp;27&nbsp;–&nbsp;Nov&nbsp;29 |
+|  | **[Eagerness](https://eagerness.ai/?ref=mariuslandwehr)**<br>A private AI for conversations and writing that runs entirely on your Mac: talk or type, make your own bots, write long. Works offline, no account. | <b>Launch price $69 once (then $99)</b><br>One-time purchase, no code needed. 7-day free trial first. Apple silicon, macOS 14+. · Nov&nbsp;27&nbsp;–&nbsp;Dec&nbsp;2 |
 
 <p align="right"><a href="#categories">↑ Categories</a></p>
 
@@ -1253,7 +1254,7 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 
 <p align="right"><a href="#categories">↑ Categories</a></p>
 
-<!-- DEALS:END checksum:7432952140c1 -->
+<!-- DEALS:END checksum:3721cf737e30 -->
 
 ## Add your deal
 
