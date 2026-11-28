@@ -19,9 +19,9 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 
 ## Categories
 
-**1058 deals** in 22 categories. 💸 marks 50% off or more, 💰 less than 50%.
+**1062 deals** in 22 categories. 💸 marks 50% off or more, 💰 less than 50%.
 
-🛠&nbsp;[Development Software](#development-software)&nbsp;`112` · 🤖&nbsp;[AI Tools](#ai-tools)&nbsp;`90` · 🌈&nbsp;[Marketing Software](#marketing-software)&nbsp;`40` · 🎩&nbsp;[Security Software](#security-software)&nbsp;`33` · 🎛&nbsp;[Utility Software](#utility-software)&nbsp;`208` · 📌&nbsp;[Productivity Software](#productivity-software)&nbsp;`183` · 🎥&nbsp;[Video Software](#video-software)&nbsp;`65` · 🎨&nbsp;[Graphic Software](#graphic-software)&nbsp;`61` · 🏝️&nbsp;[Lifestyle](#lifestyle)&nbsp;`39` · 🗣️&nbsp;[Social](#social)&nbsp;`10` · 🎓&nbsp;[Reference & Education](#reference--education)&nbsp;`21` · 📖&nbsp;[Books](#books)&nbsp;`4` · 👩‍🎓&nbsp;[Courses and Videos](#courses-and-videos)&nbsp;`19` · 📈&nbsp;[Business Software](#business-software)&nbsp;`28` · 🏃🏻‍♀️&nbsp;[Health & Fitness Software](#health--fitness-software)&nbsp;`46` · 🎁&nbsp;[Bundles](#bundles)&nbsp;`9` · 🎶&nbsp;[Creative Content](#creative-content)&nbsp;`11` · 🤑&nbsp;[Finance](#finance)&nbsp;`24` · 🗺️&nbsp;[Navigation](#navigation)&nbsp;`5` · 🔎&nbsp;[SEO](#seo)&nbsp;`25` · 🏡&nbsp;[Home Automation](#home-automation)&nbsp;`3` · 🕹&nbsp;[Games](#games)&nbsp;`22`
+🛠&nbsp;[Development Software](#development-software)&nbsp;`112` · 🤖&nbsp;[AI Tools](#ai-tools)&nbsp;`90` · 🌈&nbsp;[Marketing Software](#marketing-software)&nbsp;`40` · 🎩&nbsp;[Security Software](#security-software)&nbsp;`33` · 🎛&nbsp;[Utility Software](#utility-software)&nbsp;`210` · 📌&nbsp;[Productivity Software](#productivity-software)&nbsp;`185` · 🎥&nbsp;[Video Software](#video-software)&nbsp;`65` · 🎨&nbsp;[Graphic Software](#graphic-software)&nbsp;`61` · 🏝️&nbsp;[Lifestyle](#lifestyle)&nbsp;`39` · 🗣️&nbsp;[Social](#social)&nbsp;`10` · 🎓&nbsp;[Reference & Education](#reference--education)&nbsp;`21` · 📖&nbsp;[Books](#books)&nbsp;`4` · 👩‍🎓&nbsp;[Courses and Videos](#courses-and-videos)&nbsp;`19` · 📈&nbsp;[Business Software](#business-software)&nbsp;`28` · 🏃🏻‍♀️&nbsp;[Health & Fitness Software](#health--fitness-software)&nbsp;`46` · 🎁&nbsp;[Bundles](#bundles)&nbsp;`9` · 🎶&nbsp;[Creative Content](#creative-content)&nbsp;`11` · 🤑&nbsp;[Finance](#finance)&nbsp;`24` · 🗺️&nbsp;[Navigation](#navigation)&nbsp;`5` · 🔎&nbsp;[SEO](#seo)&nbsp;`25` · 🏡&nbsp;[Home Automation](#home-automation)&nbsp;`3` · 🕹&nbsp;[Games](#games)&nbsp;`22`
 
 <a id="development-software"></a>
 
@@ -548,6 +548,8 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 | 💸 | **[Mouse Hider](https://apps.apple.com/app/id894419721)**<br>Hides the pointer after a pause, on a screen edge or with a shortcut, for a clean screen. For Mac. | <b>50% off on the Mac App Store ($0.99 → $0.49)</b><br>One-time purchase, applied automatically, no code needed. US price shown. · Nov&nbsp;27&nbsp;–&nbsp;Dec&nbsp;1 |
 | 💸 | **[Resizable Calculator Pro](https://apps.apple.com/app/id1421995280)**<br>A calculator you resize by dragging its corner, from tiny to full screen. For Mac. | <b>50% off on the Mac App Store ($1.99 → $0.99)</b><br>One-time purchase, applied automatically, no code needed. US price shown. · Nov&nbsp;27&nbsp;–&nbsp;Dec&nbsp;1 |
 | 💸 | **[Virtual Wall](https://apps.apple.com/app/id1091429244)**<br>Keeps the pointer on the screen you are using and lets it cross to the other monitor only when you want. For Mac. | <b>50% off on the Mac App Store ($0.99 → $0.49)</b><br>One-time purchase, applied automatically, no code needed. US price shown. · Nov&nbsp;27&nbsp;–&nbsp;Dec&nbsp;1 |
+|  | **[Iriora: AI Photo Cleaner](https://apps.apple.com/us/app/iriora-ai-photo-cleaner/id6797684994)**<br>Find similar photos, review large videos and free up space on iPhone and iPad, with on-device analysis. | <b>Paid app currently free to download (US App Store)</b><br>Automatically applied on the US App Store; no code required. |
+| 💰 | **[Spacewise](https://spacewisemac.in/)**<br>SpaceWise, a storage cleaner for macOS and windows built specifically for developers. It helps find and safely clean up things like Docker build caches, old node_modules, Xcode data, and AI model files that quietly eat up disk space. | <b>25% OFF on Lifetime Pro</b><br>`BLACKFRI25` · Nov&nbsp;25&nbsp;–&nbsp;Jan&nbsp;7,&nbsp;2027 |
 
 <p align="right"><a href="#categories">↑ Categories</a></p>
 
@@ -740,6 +742,8 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 | 💰 | **[Aloud](https://aloudapp.app/black-friday/)**<br>Native macOS app that reads selected text, PDFs, screenshots and web articles out loud, with on-device Kokoro voices. One-time purchase, no account or subscription. | <b>30% off the one-time license ($19 → $13.30)</b><br>`BF30` · Enter BF30 at checkout, or use the buy button on the deal page, which applies it automatically. · Nov&nbsp;27&nbsp;–&nbsp;Dec&nbsp;1 |
 | 💸 | **[Fleet: The Multiview Browser](https://apps.apple.com/app/id1183559550)**<br>Many web pages side by side in one window, each one refreshing on its own: dashboards, chats, streams, docs. For Mac. | <b>55% off on the Mac App Store ($8.99 → $3.99)</b><br>One-time purchase, applied automatically, no code needed. US price shown. · Nov&nbsp;27&nbsp;–&nbsp;Dec&nbsp;1 |
 | 💰 | **[Hushpad](https://selahsoftware.gumroad.com/l/hushpad/BLACKFRIDAY)**<br>Private AI dictation for Mac. Hold a key, talk, and clean, punctuated text appears in any app. Speech recognition and cleanup run entirely on your Mac, nothing uploaded. | <b>30% off the one-time license</b><br>`BLACKFRIDAY` · the link applies it; no subscription; 7-day free trial at [selah-software.github.io/hushpad](https://selah-software.github.io/hushpad/); Apple Silicon, macOS 13+ · Nov&nbsp;27&nbsp;–&nbsp;Dec&nbsp;1 |
+| 💸 | **[Briskmail](https://buy.polar.sh/polar_cl_UZLvTNmeg95ox3qb7qC0n9n6YIDblNsgcX4mO0nTSzW)**<br>A native Mac app just for Gmail and Google Workspace, built on the Gmail API instead of IMAP. One-time purchase, no subscription. macOS 14+ on Apple silicon. More at [briskmail.app](https://briskmail.app). | <b>One-time licence $59 → $29</b><br>The link applies code BRISK29 automatically. One-time purchase, every update included, up to three Macs. |
+| 💰 | **[Squish](https://apps.apple.com/app/apple-store/id6826825259?pt=129674688&ct=bf-mrs&mt=8)**<br>Shrinks PDFs, scans and photos on iPhone and iPad to the exact size an upload form asks for (2 MB, 500 KB or any number) and keeps them readable. All on the device: no account, no uploads, no tracking. | <b>40% off Squish Pro, one-time: $4.99 → $2.99; Squish Pro Family $8.99 → $4.99</b><br>One-time purchase, no subscription. 7-day free trial. Applied automatically on the App Store, no code needed. US prices; local prices vary. · Nov&nbsp;26&nbsp;–&nbsp;Dec&nbsp;3 |
 
 <p align="right"><a href="#categories">↑ Categories</a></p>
 
@@ -1279,7 +1283,7 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 
 <p align="right"><a href="#categories">↑ Categories</a></p>
 
-<!-- DEALS:END checksum:373381812793 -->
+<!-- DEALS:END checksum:b75bdfb85864 -->
 
 ## Add your deal
 
