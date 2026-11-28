@@ -1,0 +1,12 @@
+# Required
+name: "The Cyber Instructor"
+url: "https://learn.thecyberinstructor.com/"
+description: "Cybersecurity training: a 6-week live AI for Cybersecurity bootcamp (AI red teaming, securing LLM apps, agents, governance) and the self-paced TCI Pro subscription."
+discount: "30% off everything, including the AI for Cybersecurity bootcamp ($2,099 → $1,469)"
+
+# Optional
+percent: 30
+code: "BF30"
+terms: "Sitewide, including TCI Pro and 1:1 career sessions; ends Nov 30, 11:59 PM PT. Bootcamp price holds through Dec 4."
+starts: "2026-11-23"
+ends: "2026-11-30"
