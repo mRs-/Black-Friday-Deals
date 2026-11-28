@@ -1,0 +1,12 @@
+# Put every text value in double quotes. Lines that start with # are comments.
+
+# Required
+name: "Beam"
+url: "https://www.beam.cloud/pricing"
+description: "Serverless GPUs, sandboxes and VMs for AI apps and agents, billed by usage."
+discount: "2x credits, up to $100 free"
+
+# Optional
+terms: "every credit purchase is matched 1:1, up to $100 in free credits; auto-applied, no code; new and existing accounts; ends 11:59 PM ET"
+starts: "2026-11-27"
+ends: "2026-11-30"
