@@ -1,0 +1,9 @@
+name: "MatchDNS"
+url: "https://www.matchdns.com/promo/2026-blackfriday"
+description: "Smart authoritative DNS platform with GeoIP & ISP routing, one-click DNSSEC, auto-renewed managed wildcard SSL, Attack Shield, 24/7 uptime and DNS hijack alerts, and OpenAPI."
+discount: "50% off recurring on Pro (~~$19.90~~ $9.95/yr) and Enterprise (~~$89.90~~ $44.95/yr)"
+percent: 50
+code: "BF2026"
+terms: "Recurring 50% discount on annual renewals while active; pre-filled at checkout on the promo page. Ends Dec 1, 2026 at 08:00 UTC."
+starts: "2026-11-27"
+ends: "2026-12-01"
