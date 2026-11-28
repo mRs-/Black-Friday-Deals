@@ -19,9 +19,9 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 
 ## Categories
 
-**1042 deals** in 22 categories. 💸 marks 50% off or more, 💰 less than 50%.
+**1044 deals** in 22 categories. 💸 marks 50% off or more, 💰 less than 50%.
 
-🛠&nbsp;[Development Software](#development-software)&nbsp;`110` · 🤖&nbsp;[AI Tools](#ai-tools)&nbsp;`89` · 🌈&nbsp;[Marketing Software](#marketing-software)&nbsp;`40` · 🎩&nbsp;[Security Software](#security-software)&nbsp;`32` · 🎛&nbsp;[Utility Software](#utility-software)&nbsp;`202` · 📌&nbsp;[Productivity Software](#productivity-software)&nbsp;`180` · 🎥&nbsp;[Video Software](#video-software)&nbsp;`64` · 🎨&nbsp;[Graphic Software](#graphic-software)&nbsp;`61` · 🏝️&nbsp;[Lifestyle](#lifestyle)&nbsp;`39` · 🗣️&nbsp;[Social](#social)&nbsp;`10` · 🎓&nbsp;[Reference & Education](#reference--education)&nbsp;`21` · 📖&nbsp;[Books](#books)&nbsp;`4` · 👩‍🎓&nbsp;[Courses and Videos](#courses-and-videos)&nbsp;`19` · 📈&nbsp;[Business Software](#business-software)&nbsp;`28` · 🏃🏻‍♀️&nbsp;[Health & Fitness Software](#health--fitness-software)&nbsp;`46` · 🎁&nbsp;[Bundles](#bundles)&nbsp;`9` · 🎶&nbsp;[Creative Content](#creative-content)&nbsp;`11` · 🤑&nbsp;[Finance](#finance)&nbsp;`24` · 🗺️&nbsp;[Navigation](#navigation)&nbsp;`5` · 🔎&nbsp;[SEO](#seo)&nbsp;`24` · 🏡&nbsp;[Home Automation](#home-automation)&nbsp;`3` · 🕹&nbsp;[Games](#games)&nbsp;`21`
+🛠&nbsp;[Development Software](#development-software)&nbsp;`110` · 🤖&nbsp;[AI Tools](#ai-tools)&nbsp;`89` · 🌈&nbsp;[Marketing Software](#marketing-software)&nbsp;`40` · 🎩&nbsp;[Security Software](#security-software)&nbsp;`32` · 🎛&nbsp;[Utility Software](#utility-software)&nbsp;`203` · 📌&nbsp;[Productivity Software](#productivity-software)&nbsp;`181` · 🎥&nbsp;[Video Software](#video-software)&nbsp;`64` · 🎨&nbsp;[Graphic Software](#graphic-software)&nbsp;`61` · 🏝️&nbsp;[Lifestyle](#lifestyle)&nbsp;`39` · 🗣️&nbsp;[Social](#social)&nbsp;`10` · 🎓&nbsp;[Reference & Education](#reference--education)&nbsp;`21` · 📖&nbsp;[Books](#books)&nbsp;`4` · 👩‍🎓&nbsp;[Courses and Videos](#courses-and-videos)&nbsp;`19` · 📈&nbsp;[Business Software](#business-software)&nbsp;`28` · 🏃🏻‍♀️&nbsp;[Health & Fitness Software](#health--fitness-software)&nbsp;`46` · 🎁&nbsp;[Bundles](#bundles)&nbsp;`9` · 🎶&nbsp;[Creative Content](#creative-content)&nbsp;`11` · 🤑&nbsp;[Finance](#finance)&nbsp;`24` · 🗺️&nbsp;[Navigation](#navigation)&nbsp;`5` · 🔎&nbsp;[SEO](#seo)&nbsp;`24` · 🏡&nbsp;[Home Automation](#home-automation)&nbsp;`3` · 🕹&nbsp;[Games](#games)&nbsp;`21`
 
 <a id="development-software"></a>
 
@@ -538,6 +538,7 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 | 💸 | **[Lidwork](https://lidwork.com/?utm_source=mrsbf&utm_campaign=bf2026)**<br>Keeps a MacBook awake with the lid closed, so coding agents, builds and uploads keep running on battery. Stops at a battery or heat limit; normal sleep returns if it quits. | <b>Free on the Mac App Store, no code needed (regular price $9.99, one-time purchase)</b><br>Get it on the Mac App Store while the price shows Free; no subscription afterwards. · Nov&nbsp;27&nbsp;–&nbsp;Dec&nbsp;1 |
 | 💰 | **[SMBAct](https://smblob.com/products/smbact/?promo=BF2026&utm_source=mrs-black-friday-deals)**<br>Window manager and app switcher for Windows, macOS and Linux: keyboard layouts, drag-to-edge snapping, moving windows between monitors and a local MCP server for AI agents. One license covers all three systems. | <b>30% off every one-time license: 1 PC €14.99 → €10.49, 3 PCs €29.99 → €20.99</b><br>`BF2026` · prices excl. VAT; applied automatically through the link; 14-day free trial · Nov&nbsp;27&nbsp;–&nbsp;Dec&nbsp;31 |
 | 💰 | **[TONO](https://tonoaudio.app/#pricing)**<br>All-in-one audio and display control for Mac: system-wide EQ, per-app volume and output, 3D/8D sound, recording, a noise-filtered mic and brightness below the minimum. | <b>Yearly €29 → €19 for the first year, lifetime €79 → €49</b><br>`BF2026` · BF2026 is for the yearly plan, then €29/yr; the lifetime price needs no code. Both are applied automatically from the pricing page. Free version available. macOS 15+, Apple silicon. · Nov&nbsp;27&nbsp;–&nbsp;Nov&nbsp;30 |
+| 💰 | **[Rotara](https://getrotara.app/?ref=bfcm)**<br>Per-project workspaces for Mac: each project gets its own windows, switched with a pie menu at your cursor. 14-day free trial. | <b>About 35% off, one-time purchase: Standard $19 (normally $29), Lifetime $32 (normally $49)</b><br>Applied automatically, no code needed. Early-bird pricing. · Nov&nbsp;27&nbsp;–&nbsp;Dec&nbsp;31 |
 
 <p align="right"><a href="#categories">↑ Categories</a></p>
 
@@ -727,6 +728,7 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 | 💸 | **[Rereminder: Presentation Timer](https://apps.apple.com/us/app/rereminder-presentation-timer/id6752551268)**<br>A timer for talks, meetings and workouts that warns you at set points before time runs out. | <b>75–80% off the first subscription period</b><br>Automatically applied App Store introductory offer, no code. New subscribers only; renews at the regular price. The app is free to download. · Nov&nbsp;27&nbsp;–&nbsp;Dec&nbsp;4 |
 | 💰 | **[Fridge: Lock Screen Notes](https://apps.apple.com/app/id6794317782?pt=128535281&ct=bf26-mrs-bf-deals)**<br>Put a shopping list or to-do note on your iPhone Lock Screen and tick items off without unlocking. Share lists with family. No account, no ads. | <b>40% off Fridge Plus Lifetime, a one-time purchase (~~$4.99~~ $2.99)</b><br>Free download; Lifetime is an in-app purchase, price applied automatically. iPhone, iOS 18+. US App Store price; local prices vary. · Nov&nbsp;26&nbsp;–&nbsp;Dec&nbsp;1 |
 | 💰 | **[Spiik](https://spiik.io/promos/BLACKFRIDAY26)**<br>AI voice recorder for iPhone, iPad and Mac: transcribes meetings and lectures in 100+ languages, labels speakers, and turns recordings into AI notes, summaries, quizzes and flashcards. | <b>35% off the first year of Pro Yearly ($59.99 → $38.99)</b><br>`BLACKFRIDAY26` · App Store offer code; the link opens the App Store with the code filled in. New and returning subscribers; US pricing, local prices vary. · Nov&nbsp;27&nbsp;–&nbsp;Dec&nbsp;1 |
+| 💰 | **[Aloud](https://aloudapp.app/black-friday/)**<br>Native macOS app that reads selected text, PDFs, screenshots and web articles out loud, with on-device Kokoro voices. One-time purchase, no account or subscription. | <b>30% off the one-time license ($19 → $13.30)</b><br>`BF30` · Enter BF30 at checkout, or use the buy button on the deal page, which applies it automatically. · Nov&nbsp;27&nbsp;–&nbsp;Dec&nbsp;1 |
 
 <p align="right"><a href="#categories">↑ Categories</a></p>
 
@@ -1263,7 +1265,7 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 
 <p align="right"><a href="#categories">↑ Categories</a></p>
 
-<!-- DEALS:END checksum:e640cf14375f -->
+<!-- DEALS:END checksum:4096accbf246 -->
 
 ## Add your deal
 
