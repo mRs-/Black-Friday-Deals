@@ -19,9 +19,9 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 
 ## Categories
 
-**1044 deals** in 22 categories. 💸 marks 50% off or more, 💰 less than 50%.
+**1047 deals** in 22 categories. 💸 marks 50% off or more, 💰 less than 50%.
 
-🛠&nbsp;[Development Software](#development-software)&nbsp;`110` · 🤖&nbsp;[AI Tools](#ai-tools)&nbsp;`89` · 🌈&nbsp;[Marketing Software](#marketing-software)&nbsp;`40` · 🎩&nbsp;[Security Software](#security-software)&nbsp;`32` · 🎛&nbsp;[Utility Software](#utility-software)&nbsp;`203` · 📌&nbsp;[Productivity Software](#productivity-software)&nbsp;`181` · 🎥&nbsp;[Video Software](#video-software)&nbsp;`64` · 🎨&nbsp;[Graphic Software](#graphic-software)&nbsp;`61` · 🏝️&nbsp;[Lifestyle](#lifestyle)&nbsp;`39` · 🗣️&nbsp;[Social](#social)&nbsp;`10` · 🎓&nbsp;[Reference & Education](#reference--education)&nbsp;`21` · 📖&nbsp;[Books](#books)&nbsp;`4` · 👩‍🎓&nbsp;[Courses and Videos](#courses-and-videos)&nbsp;`19` · 📈&nbsp;[Business Software](#business-software)&nbsp;`28` · 🏃🏻‍♀️&nbsp;[Health & Fitness Software](#health--fitness-software)&nbsp;`46` · 🎁&nbsp;[Bundles](#bundles)&nbsp;`9` · 🎶&nbsp;[Creative Content](#creative-content)&nbsp;`11` · 🤑&nbsp;[Finance](#finance)&nbsp;`24` · 🗺️&nbsp;[Navigation](#navigation)&nbsp;`5` · 🔎&nbsp;[SEO](#seo)&nbsp;`24` · 🏡&nbsp;[Home Automation](#home-automation)&nbsp;`3` · 🕹&nbsp;[Games](#games)&nbsp;`21`
+🛠&nbsp;[Development Software](#development-software)&nbsp;`110` · 🤖&nbsp;[AI Tools](#ai-tools)&nbsp;`89` · 🌈&nbsp;[Marketing Software](#marketing-software)&nbsp;`40` · 🎩&nbsp;[Security Software](#security-software)&nbsp;`33` · 🎛&nbsp;[Utility Software](#utility-software)&nbsp;`203` · 📌&nbsp;[Productivity Software](#productivity-software)&nbsp;`181` · 🎥&nbsp;[Video Software](#video-software)&nbsp;`65` · 🎨&nbsp;[Graphic Software](#graphic-software)&nbsp;`61` · 🏝️&nbsp;[Lifestyle](#lifestyle)&nbsp;`39` · 🗣️&nbsp;[Social](#social)&nbsp;`10` · 🎓&nbsp;[Reference & Education](#reference--education)&nbsp;`21` · 📖&nbsp;[Books](#books)&nbsp;`4` · 👩‍🎓&nbsp;[Courses and Videos](#courses-and-videos)&nbsp;`19` · 📈&nbsp;[Business Software](#business-software)&nbsp;`28` · 🏃🏻‍♀️&nbsp;[Health & Fitness Software](#health--fitness-software)&nbsp;`46` · 🎁&nbsp;[Bundles](#bundles)&nbsp;`9` · 🎶&nbsp;[Creative Content](#creative-content)&nbsp;`11` · 🤑&nbsp;[Finance](#finance)&nbsp;`24` · 🗺️&nbsp;[Navigation](#navigation)&nbsp;`5` · 🔎&nbsp;[SEO](#seo)&nbsp;`25` · 🏡&nbsp;[Home Automation](#home-automation)&nbsp;`3` · 🕹&nbsp;[Games](#games)&nbsp;`21`
 
 <a id="development-software"></a>
 
@@ -327,6 +327,7 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 | 💰 | **[SpyAlert](https://spyalert.acgao.com/?ref=bfdeals&utm_source=bfdeals&utm_medium=app-index&utm_campaign=bfcm-2026)**<br>Check devices on your Wi-Fi for camera evidence, on iPhone, iPad, and Mac. Start with a free scan summary; a one-time unlock opens device details. It cannot detect every camera. | <b>40% off, $10 → $6</b><br>`BF26-SPYALERT` · one-time purchase · Nov&nbsp;24&nbsp;–&nbsp;Dec&nbsp;1 |
 | 💰 | **[HOL Guard](https://hol.org/guard)**<br>HOL Guard stops risky AI agent actions before they run, like deleting a production database, installing a malicious package, or uploading private keys and cloud credentials. Free to start. | <b>30% off with code PROTECT-YOUR-AGENT</b><br>`PROTECT-YOUR-AGENT` |
 | 💸 | **[POTASMS: Private SMS Filter](https://apps.apple.com/us/app/id6812990744)**<br>Private SMS spam filter for iPhone. Your own keyword and sender rules plus a model that learns on your device; it cannot read your inbox. | <b>50% off: $1.99 → $0.99</b><br>One-time purchase, no subscription; applied automatically in the App Store; local prices vary. · until&nbsp;Dec&nbsp;1 |
+| 💸 | **[PureVPN](https://identity.purevpn.com/bfcm?utm_source=github&utm_medium=referral&utm_campaign=bfcm2026_creatoros&utm_content=creatoros)**<br>Exclusive 1-year Black Friday deal not available on PureVPN’s main website. VPN for desktop and mobile, with tracker blocker, password manager, data-removal and dark-web monitoring. | <b>92% off the 1-year plan, $19.95 (about $1.66/mo)</b><br>No code needed; 31-day money-back; renews at the standard rate; USD · Nov&nbsp;27&nbsp;–&nbsp;Dec&nbsp;1 |
 
 <p align="right"><a href="#categories">↑ Categories</a></p>
 
@@ -802,6 +803,7 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 | 💰 | **[ClipCreator.ai](https://clipcreator.ai/black-friday?utm_source=mrsbf&utm_campaign=bf2026)**<br>Create stunning faceless videos in minutes, not days! Grow your TikTok, YouTube, or Instagram faster with AI-powered video creation. No skills needed - set and forget! We handle the rest. | <b>40% off your first month</b><br>`BF2026` · any monthly plan, e.g. Starter ~~$19~~ $11.40 for the first month; then renews at the regular price; cancel anytime · Nov&nbsp;27&nbsp;–&nbsp;Dec&nbsp;2 |
 | 💰 | **[Teleprompter AI](https://teleprompter.so/promos/BLACKFRIDAY26)**<br>Teleprompter that scrolls your script while you record with the camera, follows your voice and adds captions to the video. iPhone, iPad and Mac. | <b>35% off the first year of Pro Yearly ($59.99 → $38.99)</b><br>`BLACKFRIDAY26` · App Store offer code; the link opens the App Store with the code filled in. New and returning subscribers; US pricing, local prices vary. · Nov&nbsp;27&nbsp;–&nbsp;Dec&nbsp;1 |
 | 💰 | **[VidCap](https://vidcap.app/promos/BLACKFRIDAY26)**<br>Automatic captions and subtitles for your videos in seconds, styled for TikTok, Reels and Shorts. iPhone, iPad and Mac. | <b>35% off the first year of Pro Yearly ($59.99 → $38.99)</b><br>`BLACKFRIDAY26` · App Store offer code; the link opens the App Store with the code filled in. New and returning subscribers; US pricing, local prices vary. · Nov&nbsp;27&nbsp;–&nbsp;Dec&nbsp;1 |
+| 💸 | **[Tiny Mighty: Compress Videos](https://apps.apple.com/app/id6806660433?pt=229293&ct=bf-mrs)**<br>Compress videos on iPhone and iPad while preserving dates, locations and albums. Compare the smaller copy before deleting the original. | <b>50% off the one-time Lifetime Unlock ($9.99 → $4.99)</b><br>Applied automatically in the App Store, no code needed. US price; local prices vary. The scan and the first three videos are free. · Nov&nbsp;22&nbsp;–&nbsp;Nov&nbsp;30 |
 
 <p align="right"><a href="#categories">↑ Categories</a></p>
 
@@ -1220,6 +1222,7 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 | 💰 | **[List My Site](https://listmy.site/)**<br>Manual directory submission service: your SaaS submitted by hand to 100+ high-authority directories for backlinks, Domain Rating and AI visibility. | <b>$10 off the 100+ directories plan ($169 → $159)</b><br>`GETCITED10` · 100+ directories plan only; one-time payment · Nov&nbsp;25&nbsp;–&nbsp;Nov&nbsp;30 |
 | 💸 | **[Quiet Winners](https://quietwinners.com/)**<br>Monthly leaderboard of fast-growing websites making real money under the radar, with a 10,000+ word teardown of each one. | <b>50% off your first month or year of Pro</b><br>Applied automatically, no code needed; monthly from $39 → $19.50 for the first month, yearly from $312 → $156 for the first year; renews at the regular price · until&nbsp;Dec&nbsp;1 |
 | 💸 | **[BacklinkGenie](https://backlinkgenie.com/black-friday/?utm_source=github-mrs-black-friday-deals&utm_medium=deal&utm_campaign=bfcm2026)**<br>AI link-building agent with an MCP server: finds posts where your product belongs, finds the editor, writes each pitch for your approval, sends and follows up, and checks won links stay live. | <b>30% off monthly or 50% off yearly, every billing cycle while subscribed</b><br>Applied automatically at checkout (BFCM30 monthly, BFCM50 yearly); all plans, e.g. Starter $99 → $69.30/mo or $990 → $495/yr; ends Dec 31, 2026 (US Pacific) · Nov&nbsp;24&nbsp;–&nbsp;Dec&nbsp;31 |
+| 💰 | **[Notra](https://www.usenotra.com/pricing)**<br>AI visibility (GEO) for brands and agencies. Shows whether ChatGPT, Claude, Gemini, Copilot and Google AI recommend you and who they name instead, and tracks AI crawler and referral traffic. | <b>25% off every paid plan for the first 6 months: Starter $100 → $75/mo, Growth $250 → $187.50/mo, Scale $550 → $412.50/mo</b><br>Automatically applied at checkout, no code needed; monthly billing; new customers only; ends 23:59 GMT · Nov&nbsp;27&nbsp;–&nbsp;Dec&nbsp;2 |
 
 <p align="right"><a href="#categories">↑ Categories</a></p>
 
@@ -1265,7 +1268,7 @@ Black Friday is November 27, 2026 and Cyber Monday is November 30. Each offer ha
 
 <p align="right"><a href="#categories">↑ Categories</a></p>
 
-<!-- DEALS:END checksum:4096accbf246 -->
+<!-- DEALS:END checksum:ab8bdb842a7b -->
 
 ## Add your deal
 
