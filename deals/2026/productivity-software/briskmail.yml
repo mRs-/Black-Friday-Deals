@@ -1,0 +1,7 @@
+name: "Briskmail"
+url: "https://briskmail.app"
+description: "A native Mac app just for Gmail and Google Workspace, built on the Gmail API instead of IMAP. One-time purchase, no subscription. macOS 14+ on Apple silicon."
+discount: "One-time licence $59 → $29"
+percent: 51
+code: "BRISK29"
+terms: "Enter the code at checkout. One-time purchase, every update included, up to three Macs."
